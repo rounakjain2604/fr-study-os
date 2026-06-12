@@ -75,22 +75,24 @@ export function ChapterView({ chapter, onOpenAi }: { chapter: ChapterAsset; onOp
         </button>
       ) : null}
 
-      <section className="chapter-hero">
-        <div>
-          <span className={cx("tag", chapter.tone)}>{chapter.status}</span>
-          <h2>{chapter.title} · {chapter.subtitle}</h2>
-          <p>{chapter.summary}</p>
-          <div className="chip-row">
-            {chapter.tags.map((tag) => <span key={tag}>{tag}</span>)}
+      {/* Chapters with a native doc render their own header — avoid a double hero. */}
+      {!chapter.doc ? (
+        <section className="chapter-hero">
+          <div>
+            <span className={cx("tag", chapter.tone)}>{chapter.status}</span>
+            <p>{chapter.summary}</p>
+            <div className="chip-row">
+              {chapter.tags.map((tag) => <span key={tag}>{tag}</span>)}
+            </div>
           </div>
-        </div>
-        <div className="chapter-actions">
-          <button className="btn cap" type="button" onClick={() => onOpenAi(chapterContext(chapter))}>
-            <Brain size={16} />
-            Ask AI
-          </button>
-        </div>
-      </section>
+          <div className="chapter-actions">
+            <button className="btn cap" type="button" onClick={() => onOpenAi(chapterContext(chapter))}>
+              <Brain size={16} />
+              Ask AI
+            </button>
+          </div>
+        </section>
+      ) : null}
 
       {chapter.doc ? (
         <ChapterDashboard

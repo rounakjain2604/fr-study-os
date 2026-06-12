@@ -1,21 +1,16 @@
 import { useEffect, useRef, useState, type FormEvent } from "react";
 import {
-  BarChart3,
-  BookOpen,
   CalendarDays,
   Check,
   ChevronDown,
-  ClipboardList,
   Download,
   Flag,
-  Moon,
   Pause,
   Play,
   Plus,
   RotateCcw,
   Search,
   SquarePen,
-  Sun,
   TimerReset,
   Upload,
 } from "lucide-react";
@@ -28,7 +23,7 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
-import { ALL_DAYS, SCHEDULE, TARGET_DATE, TOTAL_DAYS, TOTAL_PLANNED_HOURS, dayPlannedHours, type StudyDay } from "../data/schedule";
+import { ALL_DAYS, SCHEDULE, TARGET_DATE, TOTAL_DAYS, dayPlannedHours, type StudyDay } from "../data/schedule";
 import {
   displayDate,
   displayDateWithYear,
@@ -48,17 +43,7 @@ import { getAiServerBaseUrl, resolveAiEndpoint, setCustomAiServer } from "../lib
 import { getSyncSecret, setSyncSecret, syncConfigured, syncNow } from "../lib/sync";
 import type { useLedgerState } from "../hooks/useLedgerState";
 
-export type TabId = "today" | "analytics" | "errors" | "revision" | "mocks" | "data";
 export type LedgerActions = ReturnType<typeof useLedgerState>["actions"];
-
-const tabs: Array<{ id: TabId; label: string; icon: typeof BookOpen }> = [
-  { id: "today", label: "Ledger", icon: BookOpen },
-  { id: "analytics", label: "Analytics", icon: BarChart3 },
-  { id: "errors", label: "Errors", icon: Search },
-  { id: "revision", label: "Revision", icon: Flag },
-  { id: "mocks", label: "Mocks", icon: ClipboardList },
-  { id: "data", label: "Vault", icon: Download },
-];
 
 const mistakeTags: MistakeTag[] = ["concept gap", "silly error", "presentation"];
 
@@ -73,74 +58,6 @@ const varianceCopy = (variance: number) => {
 };
 
 const cx = (...classes: Array<string | false | null | undefined>) => classes.filter(Boolean).join(" ");
-
-export function LedgerHeader({
-  activeTab,
-  metrics,
-  state,
-  onChangeTab,
-  onToggleTheme,
-}: {
-  activeTab: TabId;
-  metrics: LedgerMetrics;
-  state: LedgerState;
-  onChangeTab: (tab: TabId) => void;
-  onToggleTheme: () => void;
-}) {
-  const backupAge = state.lastBackupAt
-    ? Math.floor((Date.now() - new Date(state.lastBackupAt).getTime()) / 86_400_000)
-    : null;
-  const needsBackup = backupAge === null || backupAge >= 7;
-
-  return (
-    <header className="ledger-header">
-      <div className="shell header-inner">
-        <div className="brand-block">
-          <div className="eyebrow">CA Final · Financial Reporting</div>
-          <h1>45-Day Ledger</h1>
-          <p className="subline">10 Jun – 24 Jul 2026 · {formatHours(TOTAL_PLANNED_HOURS)} study hours</p>
-        </div>
-
-        <button className="icon-btn" type="button" onClick={onToggleTheme} aria-label="Toggle theme">
-          {state.theme === "dark" ? <Sun size={18} /> : <Moon size={18} />}
-        </button>
-      </div>
-
-      <div className="shell progress-row">
-        <div className="progress-ledger" aria-label={`${metrics.progressPct}% posted`}>
-          <span style={{ width: `${Math.min(metrics.progressPct, 100)}%` }} />
-        </div>
-        <div className="header-figures">
-          <span>
-            <b>{formatHours(metrics.totalActual)}</b> of {formatHours(metrics.totalPlanned)} posted
-          </span>
-          <span className={cx("variance-pill", metrics.varianceHours < -0.4 && "negative")}>
-            {varianceCopy(metrics.varianceHours)}
-          </span>
-        </div>
-        {needsBackup ? <div className="backup-chip">Backup due</div> : null}
-      </div>
-
-      <nav className="tab-rail shell" aria-label="App sections">
-        {tabs.map((tab) => {
-          const Icon = tab.icon;
-
-          return (
-            <button
-              className={cx("tab-button", activeTab === tab.id && "active")}
-              key={tab.id}
-              type="button"
-              onClick={() => onChangeTab(tab.id)}
-            >
-              <Icon size={16} />
-              <span>{tab.label}</span>
-            </button>
-          );
-        })}
-      </nav>
-    </header>
-  );
-}
 
 export function DayBookGrid({
   ledgers,

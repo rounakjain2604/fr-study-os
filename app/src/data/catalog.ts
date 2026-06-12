@@ -1,5 +1,3 @@
-import type { LucideIcon } from "lucide-react";
-import { BookOpen, Brain, Calculator, FileText, Gauge, LibraryBig, Route, Target } from "lucide-react";
 import type { ChapterDoc } from "./chapterDoc";
 import { indAs23Doc } from "./chapters/indAs23";
 import { frCh1IntroIndAsDoc } from "./chapters/frCh1IntroIndAs";
@@ -406,41 +404,3 @@ export const subjects: SubjectGroup[] = [
   },
 ];
 
-export const workflowCards: Array<{
-  icon: LucideIcon;
-  label: string;
-  title: string;
-  body: string;
-}> = [
-  {
-    icon: Route,
-    label: "Path",
-    title: "Start from the syllabus, not the panic",
-    body: "Home shows the whole field first. Then you enter the exact chapter workspace you need.",
-  },
-  {
-    icon: Brain,
-    label: "AI",
-    title: "Ask from context",
-    body: "Every Ask AI action sends chapter, section, rules, traps, and model answer context to the tutor.",
-  },
-  {
-    icon: Calculator,
-    label: "Numbers",
-    title: "Keep computation chapters tactile",
-    body: "Borrowing-cost, EIR, modification, and other calculation-heavy chapters should keep calculators close to practice.",
-  },
-  {
-    icon: Target,
-    label: "Exam",
-    title: "Mistakes become revision targets",
-    body: "The ledger, weak areas, and chapter practice should eventually share one revision queue.",
-  },
-];
-
-export const quickLinks = [
-  { icon: LibraryBig, label: "Library", target: "library" },
-  { icon: BookOpen, label: "Chapter", target: "chapter" },
-  { icon: Gauge, label: "Ledger", target: "ledger" },
-  { icon: FileText, label: "Vault", target: "data" },
-] as const;

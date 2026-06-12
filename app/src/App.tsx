@@ -4,19 +4,20 @@ import {
   BookOpen,
   Brain,
   ClipboardList,
-  Download,
   Flag,
   Gauge,
   Home,
   Layers,
   LibraryBig,
+  Menu,
   Moon,
   Search,
-  Sparkles,
+  Settings,
   Sun,
+  X,
 } from "lucide-react";
 import { ALL_DAYS, dayPlannedHours } from "./data/schedule";
-import { chapters, subjects, workflowCards, type ChapterAsset } from "./data/catalog";
+import { chapters, subjects, type ChapterAsset } from "./data/catalog";
 import { formatHours, getActiveDay } from "./lib/analytics";
 import { useLedgerState } from "./hooks/useLedgerState";
 import { useFlashcards } from "./hooks/useFlashcards";
@@ -67,19 +68,24 @@ const sectionIds: AppSection[] = [
   "ai",
 ];
 
-const navItems: Array<{ id: AppSection; label: string; icon: typeof Home }> = [
-  { id: "home", label: "Home", icon: Home },
-  { id: "library", label: "Library", icon: LibraryBig },
-  { id: "chapter", label: "Chapter", icon: BookOpen },
-  { id: "ledger", label: "Ledger", icon: Gauge },
-  { id: "analytics", label: "Analytics", icon: BarChart3 },
-  { id: "errors", label: "Errors", icon: Search },
-  { id: "revision", label: "Revision", icon: Flag },
-  { id: "cards", label: "Cards", icon: Layers },
-  { id: "mocks", label: "Mocks", icon: ClipboardList },
-  { id: "data", label: "Vault", icon: Download },
-  { id: "ai", label: "AI Tutor", icon: Brain },
+type NavGroup = "study" | "track" | "system";
+
+const navItems: Array<{ id: AppSection; label: string; icon: typeof Home; group: NavGroup }> = [
+  { id: "home", label: "Home", icon: Home, group: "study" },
+  { id: "library", label: "Library", icon: LibraryBig, group: "study" },
+  { id: "chapter", label: "Chapter", icon: BookOpen, group: "study" },
+  { id: "cards", label: "Cards", icon: Layers, group: "study" },
+  { id: "ai", label: "AI Tutor", icon: Brain, group: "study" },
+  { id: "ledger", label: "Plan", icon: Gauge, group: "track" },
+  { id: "analytics", label: "Analytics", icon: BarChart3, group: "track" },
+  { id: "revision", label: "Revision", icon: Flag, group: "track" },
+  { id: "errors", label: "Mistakes", icon: Search, group: "track" },
+  { id: "mocks", label: "Mocks", icon: ClipboardList, group: "track" },
+  { id: "data", label: "Settings", icon: Settings, group: "system" },
 ];
+
+// The five destinations that earn a slot in the mobile tab bar.
+const mobileTabs: AppSection[] = ["home", "library", "ledger", "cards", "ai"];
 
 const LAST_CHAPTER_KEY = "fr45-last-chapter";
 
@@ -109,8 +115,6 @@ const initialChapterId = () => {
 
 const cx = (...classes: Array<string | false | null | undefined>) => classes.filter(Boolean).join(" ");
 
-const idleAiStatus = "Local AI server · port 3721";
-
 function App() {
   const { actions, burnUp, importError, ledgers, metrics, state, trialBalance } = useLedgerState();
   const flashcards = useFlashcards();
@@ -118,8 +122,9 @@ function App() {
   const [selectedChapterId, setSelectedChapterId] = useState(initialChapterId);
   const [selectedDayId, setSelectedDayId] = useState(() => getActiveDay(state).id);
   const [paletteOpen, setPaletteOpen] = useState(false);
+  const [menuOpen, setMenuOpen] = useState(false);
   const [aiInput, setAiInput] = useState("");
-  const [aiStatus, setAiStatus] = useState(idleAiStatus);
+  const [aiStatus, setAiStatus] = useState("");
   const [aiContext, setAiContext] = useState<AiContext | null>(null);
   const [aiMode, setAiMode] = useState<AiMode>("explain");
   const [aiThreads, setAiThreads] = useState<AiThread[]>(() => loadAiThreads());
@@ -212,6 +217,7 @@ function App() {
 
   const changeSection = (section: AppSection) => {
     setActiveSection(section);
+    setMenuOpen(false);
     window.location.hash = section === "chapter" ? `/chapter/${selectedChapterId}` : `/${section}`;
     // Instant, not smooth: a long smooth scroll fights the chapter view's
     // IntersectionObserver and re-renders the heavy doc tree every frame.
@@ -229,6 +235,7 @@ function App() {
   const selectChapter = (chapterId: string) => {
     setSelectedChapterId(chapterId);
     setActiveSection("chapter");
+    setMenuOpen(false);
     window.location.hash = `/chapter/${chapterId}`;
     window.scrollTo({ top: 0 });
   };
@@ -241,7 +248,7 @@ function App() {
   const startNewChat = () => {
     setActiveThreadId(null);
     setAiInput("");
-    setAiStatus(idleAiStatus);
+    setAiStatus("");
   };
 
   const selectThread = (threadId: string) => {
@@ -250,7 +257,7 @@ function App() {
     setActiveThreadId(threadId);
     setAiContext(thread.context);
     setAiMode(thread.mode);
-    setAiStatus(idleAiStatus);
+    setAiStatus("");
   };
 
   const deleteThread = (threadId: string) => {
@@ -299,7 +306,7 @@ function App() {
       });
       appendToThread(threadId, { role: "assistant", content: reply.answer });
       setAiStatus(
-        `Answered by ${reply.model || "AI"}${reply.provider ? ` via ${reply.provider}` : ""}${
+        `${reply.model || "AI"}${reply.provider ? ` via ${reply.provider}` : ""}${
           reply.latencyMs ? ` · ${(reply.latencyMs / 1000).toFixed(1)}s` : ""
         }`,
       );
@@ -326,77 +333,145 @@ function App() {
     [selectedChapterId],
   );
 
+  const navButton = (item: (typeof navItems)[number]) => {
+    const Icon = item.icon;
+    return (
+      <button
+        className={cx(activeSection === item.id && "active")}
+        key={item.id}
+        type="button"
+        onClick={() => changeSection(item.id)}
+      >
+        <Icon size={16} strokeWidth={1.8} />
+        <span>{item.label}</span>
+      </button>
+    );
+  };
+
+  const syncChip =
+    syncStatus !== "off" ? (
+      <div className={cx("sync-chip", syncStatus)}>
+        <i aria-hidden="true" />
+        <span>{syncStatus === "synced" ? "Synced" : syncStatus === "syncing" ? "Syncing…" : "Sync error"}</span>
+      </div>
+    ) : null;
+
   return (
     <div className="app-frame">
       <CommandPalette commands={paletteCommands} open={paletteOpen} onClose={() => setPaletteOpen(false)} />
+
+      {/* Desktop sidebar */}
       <aside className="side-rail">
         <div className="brand-block">
-          <div className="brand">FR<br />Study <em>OS</em></div>
+          <div className="brand">FR Study OS</div>
           <div className="brand-sub">CA Final · May 2027</div>
         </div>
 
         <button className="rail-search" type="button" onClick={() => setPaletteOpen(true)}>
           <Search size={14} />
-          <span>Jump anywhere</span>
+          <span>Search</span>
           <kbd>Ctrl K</kbd>
         </button>
 
-        <div className="progress-wrap">
-          <div className="progress-label">
-            <span>45-day pace</span>
-            <b>{metrics.progressPct}%</b>
-          </div>
-          <div className="progress-bar"><span style={{ width: `${Math.min(metrics.progressPct, 100)}%` }} /></div>
-        </div>
-
         <nav className="nav-rail" aria-label="Primary">
-          {navItems.map((item) => {
-            const Icon = item.icon;
-            return (
-              <button
-                className={cx(activeSection === item.id && "active", item.id === "ai" && "ai-nav")}
-                key={item.id}
-                type="button"
-                onClick={() => changeSection(item.id)}
-              >
-                <Icon size={15} />
-                <span>{item.label}</span>
-              </button>
-            );
-          })}
+          {navItems.filter((item) => item.group === "study").map(navButton)}
+          <div className="nav-group-label">Track</div>
+          {navItems.filter((item) => item.group === "track").map(navButton)}
         </nav>
 
-        <button className="theme-btn" type="button" onClick={actions.toggleTheme}>
-          {state.theme === "dark" ? <Sun size={16} /> : <Moon size={16} />}
-          <span>{state.theme === "dark" ? "Light" : "Dark"} mode</span>
-        </button>
-
-        {syncStatus !== "off" ? (
-          <div className={cx("rail-sync", syncStatus)}>
-            <i aria-hidden="true" />
-            <span>{syncStatus === "synced" ? "Cloud synced" : syncStatus === "syncing" ? "Syncing…" : "Sync error"}</span>
+        <div className="rail-foot">
+          <div className="progress-wrap">
+            <div className="progress-label">
+              <span>45-day pace</span>
+              <b>{metrics.progressPct}%</b>
+            </div>
+            <div className="progress-bar"><span style={{ width: `${Math.min(metrics.progressPct, 100)}%` }} /></div>
           </div>
-        ) : null}
+          <nav className="nav-rail" aria-label="System">
+            {navItems.filter((item) => item.group === "system").map(navButton)}
+            <button type="button" onClick={actions.toggleTheme}>
+              {state.theme === "dark" ? <Sun size={16} strokeWidth={1.8} /> : <Moon size={16} strokeWidth={1.8} />}
+              <span>{state.theme === "dark" ? "Light mode" : "Dark mode"}</span>
+            </button>
+          </nav>
+          {syncChip}
+        </div>
       </aside>
 
+      {/* Mobile top bar */}
+      <header className="top-bar">
+        <button className="top-bar-brand" type="button" onClick={() => changeSection("home")}>
+          FR Study OS
+        </button>
+        <div className="top-bar-actions">
+          {syncChip}
+          <button aria-label="Search" className="icon-btn" type="button" onClick={() => setPaletteOpen(true)}>
+            <Search size={18} strokeWidth={1.8} />
+          </button>
+          <button aria-label="Menu" className="icon-btn" type="button" onClick={() => setMenuOpen(true)}>
+            <Menu size={18} strokeWidth={1.8} />
+          </button>
+        </div>
+      </header>
+
+      {/* Mobile menu sheet */}
+      {menuOpen ? (
+        <div className="sheet-overlay" role="dialog" aria-modal="true" onClick={() => setMenuOpen(false)}>
+          <div className="sheet" onClick={(event) => event.stopPropagation()}>
+            <div className="sheet-head">
+              <span>Menu</span>
+              <button aria-label="Close menu" className="icon-btn" type="button" onClick={() => setMenuOpen(false)}>
+                <X size={18} strokeWidth={1.8} />
+              </button>
+            </div>
+            <div className="sheet-grid">
+              {navItems.map((item) => {
+                const Icon = item.icon;
+                return (
+                  <button
+                    className={cx(activeSection === item.id && "active")}
+                    key={item.id}
+                    type="button"
+                    onClick={() => changeSection(item.id)}
+                  >
+                    <Icon size={17} strokeWidth={1.8} />
+                    <span>{item.label}</span>
+                  </button>
+                );
+              })}
+              <button type="button" onClick={actions.toggleTheme}>
+                {state.theme === "dark" ? <Sun size={17} strokeWidth={1.8} /> : <Moon size={17} strokeWidth={1.8} />}
+                <span>{state.theme === "dark" ? "Light mode" : "Dark mode"}</span>
+              </button>
+            </div>
+            <div className="sheet-foot">
+              <div className="progress-wrap">
+                <div className="progress-label">
+                  <span>45-day pace</span>
+                  <b>{metrics.progressPct}%</b>
+                </div>
+                <div className="progress-bar"><span style={{ width: `${Math.min(metrics.progressPct, 100)}%` }} /></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      ) : null}
+
       <main className="main-stage">
-        <header className="topline">
-          <div>
-            <div className="kicker">Personal Study Environment</div>
-            <h1>{pageTitle(activeSection, selectedChapter)}</h1>
-            <p>{pageSubtitle(activeSection, selectedChapter)}</p>
-          </div>
-          <div className="top-actions">
-            <button className="btn ghost" type="button" onClick={() => openAi(chapterContext(selectedChapter))}>
-              <Brain size={16} />
-              Ask AI
-            </button>
-            <button className="btn cap" type="button" onClick={() => changeSection("chapter")}>
-              <BookOpen size={16} />
-              Resume
-            </button>
-          </div>
-        </header>
+        {activeSection !== "home" ? (
+          <header className="topline">
+            <div>
+              <h1>{pageTitle(activeSection, selectedChapter)}</h1>
+              {activeSection === "chapter" ? <p>{selectedChapter.subtitle}</p> : null}
+            </div>
+            {activeSection !== "ai" ? (
+              <button className="btn ghost" type="button" onClick={() => openAi(chapterContext(selectedChapter))}>
+                <Brain size={15} strokeWidth={1.8} />
+                Ask AI
+              </button>
+            ) : null}
+          </header>
+        ) : null}
 
         {activeSection === "home" ? (
           <HomeView
@@ -404,7 +479,6 @@ function App() {
             cardsDue={flashcards.stats.dueCount + flashcards.stats.newCount}
             metrics={metrics}
             selectedChapter={selectedChapter}
-            onOpenAi={openAi}
             onOpenCards={() => changeSection("cards")}
             onOpenLibrary={() => changeSection("library")}
             onSelectChapter={selectChapter}
@@ -480,31 +554,41 @@ function App() {
           />
         ) : null}
       </main>
+
+      {/* Mobile bottom tab bar */}
+      <nav className="bottom-nav" aria-label="Primary">
+        {mobileTabs.map((tabId) => {
+          const item = navItems.find((entry) => entry.id === tabId)!;
+          const Icon = item.icon;
+          return (
+            <button
+              className={cx(activeSection === item.id && "active")}
+              key={item.id}
+              type="button"
+              onClick={() => changeSection(item.id)}
+            >
+              <Icon size={20} strokeWidth={1.8} />
+              <span>{item.label}</span>
+            </button>
+          );
+        })}
+      </nav>
     </div>
   );
 }
 
 function pageTitle(section: AppSection, chapter: ChapterAsset) {
-  if (section === "home") return "Control Room";
-  if (section === "library") return "Subject Library";
+  if (section === "library") return "Library";
   if (section === "chapter") return chapter.title;
-  if (section === "ledger") return "45-Day Ledger";
-  if (section === "analytics") return "Ledger Analytics";
-  if (section === "errors") return "Mistake Ledger";
-  if (section === "revision") return "Revision Queue";
-  if (section === "cards") return "Recall Cards";
-  if (section === "mocks") return "Mock Tracker";
+  if (section === "ledger") return "Plan";
+  if (section === "analytics") return "Analytics";
+  if (section === "errors") return "Mistakes";
+  if (section === "revision") return "Revision";
+  if (section === "cards") return "Cards";
+  if (section === "mocks") return "Mocks";
   if (section === "ai") return "AI Tutor";
-  return "Data Vault";
-}
-
-function pageSubtitle(section: AppSection, chapter: ChapterAsset) {
-  if (section === "chapter") return chapter.subtitle;
-  if (section === "home") return "Open the day from one calm cockpit, then go where the work actually is.";
-  if (section === "library") return "Every chapter should eventually be visible, searchable, and askable.";
-  if (section === "cards") return "Chapter drills and your own mistakes come back exactly when forgetting starts.";
-  if (section === "ai") return "Your question, your words. Chapter context rides along only when you attach it.";
-  return "Progress, weak areas, mock work, and backup live beside the chapter workspaces.";
+  if (section === "data") return "Settings";
+  return "Home";
 }
 
 function HomeView({
@@ -512,7 +596,6 @@ function HomeView({
   cardsDue,
   metrics,
   selectedChapter,
-  onOpenAi,
   onOpenCards,
   onOpenLibrary,
   onSelectChapter,
@@ -522,93 +605,62 @@ function HomeView({
   cardsDue: number;
   metrics: { progressPct: number; totalActual: number; totalPlanned: number; varianceHours: number; daysRemaining: number };
   selectedChapter: ChapterAsset;
-  onOpenAi: (context?: AiContext) => void;
   onOpenCards: () => void;
   onOpenLibrary: () => void;
   onSelectChapter: (chapterId: string) => void;
   onSelectDay: (dayId: string) => void;
 }) {
   const todayPlan = ALL_DAYS.find((studyDay) => studyDay.id === activeDayId);
+  const today = new Intl.DateTimeFormat("en-IN", { weekday: "long", day: "numeric", month: "long" }).format(new Date());
 
   return (
     <div className="home-stack">
-      <section className="hero">
-        <div>
-          <div className="kicker">Today's command</div>
-          <h2>
-            Study inside one room. Track the day, open any chapter, and ask AI from the exact context.
-          </h2>
+      <section className="today-card">
+        <div className="today-copy">
+          <span className="overline">{today}{todayPlan ? ` · Day ${todayPlan.dayNumber} of 45` : ""}</span>
+          <h2>{todayPlan ? todayPlan.topic : "Plan complete"}</h2>
           <p>
-            The Ind AS 23 visual system drives the whole PWA: quiet paper, crisp ledgers, compact controls, and chapter-first navigation.
+            {todayPlan
+              ? `${formatHours(dayPlannedHours(todayPlan))} planned · ${todayPlan.tasks.length} tasks`
+              : "All 45 entries are posted. Move to revision and mocks."}
           </p>
-          <div className="hero-actions">
-            <button className="btn cap" type="button" onClick={() => onSelectChapter(selectedChapter.id)}>
-              <BookOpen size={16} />
-              Resume {selectedChapter.title}
-            </button>
-            <button className="btn ghost" type="button" onClick={onOpenLibrary}>
-              <LibraryBig size={16} />
-              Open Library
-            </button>
-            <button className="btn ghost" type="button" onClick={() => onOpenAi(chapterContext(selectedChapter))}>
-              <Sparkles size={16} />
-              Ask AI
-            </button>
-          </div>
         </div>
-        <div className="hero-panel">
-          <div>
-            <span>Today on the plan</span>
-            <strong>{todayPlan ? todayPlan.topic : "Plan complete"}</strong>
-            <p>
-              {todayPlan
-                ? `D${todayPlan.dayNumber} · ${formatHours(dayPlannedHours(todayPlan))} planned · ${todayPlan.tasks.length} tasks`
-                : "All 45 entries are posted. Move to revision and mocks."}
-            </p>
-          </div>
+        <div className="today-actions">
           {todayPlan ? (
-            <button className="btn cap small" type="button" onClick={() => onSelectDay(todayPlan.id)}>
-              <Gauge size={14} />
-              Open today's entry
+            <button className="btn cap" type="button" onClick={() => onSelectDay(todayPlan.id)}>
+              Open today
             </button>
           ) : null}
+          <button className="btn ghost" type="button" onClick={() => onSelectChapter(selectedChapter.id)}>
+            <BookOpen size={15} strokeWidth={1.8} />
+            Resume {selectedChapter.title}
+          </button>
         </div>
       </section>
 
       <section className="metric-grid">
-        <MetricCard label="Ledger posted" value={`${metrics.progressPct}%`} note={`${formatHours(metrics.totalActual)} of ${formatHours(metrics.totalPlanned)}`} />
-        <MetricCard label="Variance" value={`${metrics.varianceHours >= 0 ? "+" : ""}${metrics.varianceHours.toFixed(1)}h`} note="Against the 45-day plan" />
-        <MetricCard label="Days left" value={metrics.daysRemaining} note="To current target close" />
+        <MetricCard label="Posted" value={`${metrics.progressPct}%`} note={`${formatHours(metrics.totalActual)} of ${formatHours(metrics.totalPlanned)}`} />
+        <MetricCard label="Variance" value={`${metrics.varianceHours >= 0 ? "+" : ""}${metrics.varianceHours.toFixed(1)}h`} note="vs the 45-day plan" />
+        <MetricCard label="Days left" value={metrics.daysRemaining} note="to target close" />
         <button className="metric-card as-button" type="button" onClick={onOpenCards}>
           <strong>{cardsDue}</strong>
-          <span>Cards waiting</span>
-          <p>Due reviews + new cards</p>
+          <span>Cards due</span>
+          <p>Reviews + new cards</p>
         </button>
       </section>
 
       <section className="chapter-strip">
         <div className="sec-head">
-          <span className="folio">Live</span>
-          <h2>Chapter boards</h2>
+          <h2>Chapters</h2>
+          <button className="btn ghost small" type="button" onClick={onOpenLibrary}>
+            View library
+          </button>
         </div>
         <div className="chapter-grid">
           {chapters.slice(0, 3).map((chapter) => (
             <ChapterCard chapter={chapter} key={chapter.id} onSelectChapter={onSelectChapter} />
           ))}
         </div>
-      </section>
-
-      <section className="workflow-grid">
-        {workflowCards.map((card) => {
-          const Icon = card.icon;
-          return (
-            <article className="workflow-card" key={card.title}>
-              <span className="tag cap"><Icon size={13} /> {card.label}</span>
-              <h3>{card.title}</h3>
-              <p>{card.body}</p>
-            </article>
-          );
-        })}
       </section>
     </div>
   );
@@ -637,14 +689,14 @@ function LibraryView({
   return (
     <div className="library-stack">
       <label className="search-box">
-        <Search size={17} />
-        <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search Ind AS, traps, computation areas..." />
+        <Search size={16} strokeWidth={1.8} />
+        <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search Ind AS, traps, computation areas…" />
       </label>
       {visibleSubjects.map((subject) => (
         <section className="subject-section" key={subject.id}>
           <div className="sec-head">
-            <span className="folio">{subject.group}</span>
             <h2>{subject.code} · {subject.name}</h2>
+            <span className="folio">{subject.group}</span>
           </div>
           {subject.chapters.length ? (
             <div className="chapter-grid">
@@ -658,7 +710,7 @@ function LibraryView({
               ))}
             </div>
           ) : (
-            <div className="empty-card">Chapter migration pending. Source material is still visible in the broader workspace.</div>
+            <div className="empty-card">Chapter migration pending.</div>
           )}
           {subject.id === "fr" && !normalized ? <SyllabusLedger onSelectChapter={onSelectChapter} /> : null}
         </section>
@@ -687,17 +739,15 @@ function ChapterCard({
   onSelectChapter: (chapterId: string) => void;
 }) {
   return (
-    <article className={cx("chapter-card", active && "active")}>
+    <button className={cx("chapter-card", active && "active")} type="button" onClick={() => onSelectChapter(chapter.id)}>
       <span className={cx("tag", chapter.tone)}>{chapter.status}</span>
       <h3>{chapter.title}</h3>
       <p>{chapter.subtitle}</p>
-      <div className="chip-row">{chapter.tags.slice(0, 3).map((tag) => <span key={tag}>{tag}</span>)}</div>
       <div className="chapter-card-foot">
         <div className="mini-meter"><span style={{ width: `${chapter.readiness}%` }} /></div>
         <b>{chapter.readiness}%</b>
-        <button className="btn ghost small" type="button" onClick={() => onSelectChapter(chapter.id)}>Open</button>
       </div>
-    </article>
+    </button>
   );
 }
 
