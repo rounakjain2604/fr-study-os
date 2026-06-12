@@ -6,7 +6,7 @@ compatibility_date = "2025-06-01"
 # then paste the returned id below (the placeholder works for local `wrangler dev`).
 [[kv_namespaces]]
 binding = "SYNC_KV"
-id = "00000000000000000000000000000000"
+id = "c75b9d894f364a2cb0492a61ccb78de6"
 
 # Secrets (never in this file):
 #   npx wrangler secret put GEMINI_API_KEY

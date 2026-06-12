@@ -3,33 +3,16 @@
 // v2 backup envelope the Vault exports. Whole-envelope last-write-wins —
 // fine for a single owner moving between phone and desktop.
 
-import { getCustomAiServer } from "./ai";
+import { getCustomAiServer, getSyncSecret, setSyncSecret } from "./ai";
 import { buildFullBackup, parseAnyBackup, type FullBackup } from "./backup";
 import { loadLedgerState, saveLedgerState } from "./state";
 
-export const SYNC_SECRET_KEY = "fr45-sync-secret";
 const SYNC_LAST_SEEN_KEY = "fr45-sync-last";
 const SYNC_SNAPSHOT_KEY = "fr45-sync-snapshot";
 
 export type SyncStatus = "off" | "syncing" | "synced" | "error";
 
-export const getSyncSecret = (): string | null => {
-  try {
-    return localStorage.getItem(SYNC_SECRET_KEY)?.trim() || null;
-  } catch {
-    return null;
-  }
-};
-
-export const setSyncSecret = (secret: string) => {
-  try {
-    const trimmed = secret.trim();
-    if (trimmed) localStorage.setItem(SYNC_SECRET_KEY, trimmed);
-    else localStorage.removeItem(SYNC_SECRET_KEY);
-  } catch {
-    // storage unavailable
-  }
-};
+export { getSyncSecret, setSyncSecret };
 
 export const syncConfigured = () => !!(getCustomAiServer() && getSyncSecret());
 

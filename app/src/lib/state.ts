@@ -173,7 +173,10 @@ export const normalizeImportedState = (raw: unknown): LedgerState => {
           raw.timer && isObject(raw.timer) ? asNumberRecord(raw.timer.sessionsByDate) : base.timer.sessionsByDate,
       },
       lastBackupAt: typeof raw.lastBackupAt === "string" ? raw.lastBackupAt : null,
-      updatedAt: nowIso(),
+      // Preserve the real last-edit time: cloud sync compares this across
+      // devices, so stamping "now" on every load would make any device look
+      // newest and let stale data win conflicts.
+      updatedAt: typeof raw.updatedAt === "string" ? raw.updatedAt : nowIso(),
     };
   }
 
@@ -199,7 +202,9 @@ export const loadLedgerState = (): LedgerState => {
 };
 
 export const saveLedgerState = (state: LedgerState) => {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify({ ...state, updatedAt: nowIso() }));
+  // updatedAt is bumped by real edits (useLedgerState.updateState), not here —
+  // see the note in normalizeImportedState.
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
 };
 
 export const parseBackupText = (backupText: string): LedgerState => normalizeImportedState(JSON.parse(backupText));

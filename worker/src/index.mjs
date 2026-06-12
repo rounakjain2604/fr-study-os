@@ -318,6 +318,12 @@ export default {
     }
 
     if (url.pathname === "/api/ai-tutor" && request.method === "POST") {
+      // The AI endpoint spends the owner's provider quota, so it is gated by
+      // the same passphrase as sync — a leaked URL alone is useless.
+      if (!syncAuthorized(request, env)) {
+        return json({ error: "Unauthorized — set the sync passphrase in Vault → Cloud connection." }, 401);
+      }
+
       let payload;
       try {
         payload = await request.json();

@@ -6,6 +6,11 @@ import tseslint from "typescript-eslint";
 
 export default [
   { ignores: ["dist", "public/sw.js"] },
+  // Node-side deploy helper: different runtime, different globals.
+  {
+    files: ["scripts/**/*.mjs"],
+    languageOptions: { globals: globals.node },
+  },
   js.configs.recommended,
   ...tseslint.configs.recommended,
   {

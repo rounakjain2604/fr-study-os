@@ -25,9 +25,28 @@ export type AiContext = {
   sourceFile?: string;
 };
 
-// A hosted AI server (e.g. Render) can be configured at runtime from the
-// Vault, so the deployed PWA works away from the home machine.
+// A hosted AI server (the Cloudflare Worker) can be configured at runtime
+// from the Vault, so the deployed PWA works away from the home machine.
 export const AI_ENDPOINT_KEY = "fr45-ai-endpoint";
+export const SYNC_SECRET_KEY = "fr45-sync-secret";
+
+export const getSyncSecret = (): string | null => {
+  try {
+    return localStorage.getItem(SYNC_SECRET_KEY)?.trim() || null;
+  } catch {
+    return null;
+  }
+};
+
+export const setSyncSecret = (secret: string) => {
+  try {
+    const trimmed = secret.trim();
+    if (trimmed) localStorage.setItem(SYNC_SECRET_KEY, trimmed);
+    else localStorage.removeItem(SYNC_SECRET_KEY);
+  } catch {
+    // storage unavailable
+  }
+};
 
 export const getCustomAiServer = (): string | null => {
   try {
@@ -85,11 +104,17 @@ export async function askTutor(payload: {
     );
   }
 
+  // The worker requires the sync passphrase for AI calls; the local
+  // ai-server ignores the header, so sending it is always safe.
+  const headers: Record<string, string> = { "Content-Type": "application/json" };
+  const secret = getSyncSecret();
+  if (secret) headers.Authorization = `Bearer ${secret}`;
+
   let response: Response;
   try {
     response = await fetch(endpoint, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers,
       body: JSON.stringify(payload),
     });
   } catch {
