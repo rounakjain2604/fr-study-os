@@ -21,6 +21,7 @@ import { formatHours, getActiveDay } from "./lib/analytics";
 import { useLedgerState } from "./hooks/useLedgerState";
 import { useFlashcards } from "./hooks/useFlashcards";
 import { askTutor, chapterContext, type AiContext, type AiMessage, type AiMode } from "./lib/ai";
+import { hasLocalChanges, pushOnHide, syncConfigured, syncNow, type SyncStatus } from "./lib/sync";
 import { createThread, loadAiThreads, saveAiThreads, type AiThread } from "./lib/aiThreads";
 import { AiView } from "./components/AiView";
 import { CardsView } from "./components/CardsView";
@@ -124,6 +125,7 @@ function App() {
   const [aiThreads, setAiThreads] = useState<AiThread[]>(() => loadAiThreads());
   const [activeThreadId, setActiveThreadId] = useState<string | null>(null);
   const [aiBusy, setAiBusy] = useState(false);
+  const [syncStatus, setSyncStatus] = useState<SyncStatus>(() => (syncConfigured() ? "syncing" : "off"));
 
   const activeDay = useMemo(() => getActiveDay(state), [state]);
   const selectedDay = ALL_DAYS.find((studyDay) => studyDay.id === selectedDayId) ?? activeDay;
@@ -167,6 +169,45 @@ function App() {
     };
     window.addEventListener("keydown", onKeyDown);
     return () => window.removeEventListener("keydown", onKeyDown);
+  }, []);
+
+  // Cloud sync: pull on open, push edits in the background, push on hide,
+  // pull again when the app returns to the foreground.
+  useEffect(() => {
+    let cancelled = false;
+
+    const runSync = async () => {
+      if (!syncConfigured()) {
+        setSyncStatus("off");
+        return;
+      }
+      setSyncStatus("syncing");
+      const outcome = await syncNow();
+      if (cancelled) return;
+      if (outcome.reloaded) {
+        window.location.reload();
+        return;
+      }
+      setSyncStatus(outcome.status);
+    };
+
+    void runSync();
+
+    const interval = window.setInterval(() => {
+      if (syncConfigured() && hasLocalChanges()) void runSync();
+    }, 45_000);
+
+    const onVisibility = () => {
+      if (document.visibilityState === "hidden") pushOnHide();
+      else void runSync();
+    };
+    document.addEventListener("visibilitychange", onVisibility);
+
+    return () => {
+      cancelled = true;
+      window.clearInterval(interval);
+      document.removeEventListener("visibilitychange", onVisibility);
+    };
   }, []);
 
   const changeSection = (section: AppSection) => {
@@ -329,6 +370,13 @@ function App() {
           {state.theme === "dark" ? <Sun size={16} /> : <Moon size={16} />}
           <span>{state.theme === "dark" ? "Light" : "Dark"} mode</span>
         </button>
+
+        {syncStatus !== "off" ? (
+          <div className={cx("rail-sync", syncStatus)}>
+            <i aria-hidden="true" />
+            <span>{syncStatus === "synced" ? "Cloud synced" : syncStatus === "syncing" ? "Syncing…" : "Sync error"}</span>
+          </div>
+        ) : null}
       </aside>
 
       <main className="main-stage">

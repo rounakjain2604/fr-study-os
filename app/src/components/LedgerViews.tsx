@@ -45,6 +45,7 @@ import {
 import type { LedgerState, MistakeEntry, MistakeTag, MockAttempt } from "../lib/state";
 import { downloadBackupFile } from "../lib/backup";
 import { getCustomAiServer, resolveAiEndpoint, setCustomAiServer } from "../lib/ai";
+import { getSyncSecret, setSyncSecret, syncConfigured, syncNow } from "../lib/sync";
 import type { useLedgerState } from "../hooks/useLedgerState";
 
 export type TabId = "today" | "analytics" | "errors" | "revision" | "mocks" | "data";
@@ -895,41 +896,85 @@ export function DataView({
 
 function AiServerPanel() {
   const [serverUrl, setServerUrl] = useState(() => getCustomAiServer() ?? "");
+  const [secret, setSecret] = useState(() => getSyncSecret() ?? "");
   const [note, setNote] = useState<string | null>(null);
+  const [busy, setBusy] = useState(false);
   const effectiveEndpoint = resolveAiEndpoint();
 
-  const save = () => {
+  const runSync = async () => {
+    if (!syncConfigured()) {
+      setNote("Add both the server URL and the sync passphrase to enable sync.");
+      return;
+    }
+    setBusy(true);
+    setNote("Syncing…");
+    const outcome = await syncNow();
+    setBusy(false);
+    if (outcome.reloaded) {
+      setNote("Newer data found on the cloud — reloading…");
+      window.setTimeout(() => window.location.reload(), 600);
+      return;
+    }
+    setNote(
+      outcome.status === "synced"
+        ? "Synced ✓ — this device and the cloud match."
+        : outcome.detail ?? "Sync failed — check the URL and passphrase.",
+    );
+  };
+
+  const save = async () => {
     setCustomAiServer(serverUrl);
-    const saved = getCustomAiServer();
-    setServerUrl(saved ?? "");
-    setNote(saved ? "Saved. The AI tutor on this device now talks to your hosted server." : "Cleared — back to the local AI server.");
+    setSyncSecret(secret);
+    setServerUrl(getCustomAiServer() ?? "");
+    setSecret(getSyncSecret() ?? "");
+    if (syncConfigured()) {
+      await runSync();
+    } else {
+      setNote(
+        getCustomAiServer()
+          ? "Server saved. AI works; add the sync passphrase to also sync progress."
+          : "Cleared — back to the local AI server, sync off.",
+      );
+    }
   };
 
   return (
     <section className="ledger-panel">
-      <div className="section-kicker">AI server</div>
-      <h2>Tutor connection</h2>
+      <div className="section-kicker">Cloud connection</div>
+      <h2>AI &amp; sync</h2>
       <p className="subline">
-        On this device the tutor currently calls:{" "}
-        <code>{effectiveEndpoint ?? "nothing — no server configured"}</code>
+        AI requests from this device go to: <code>{effectiveEndpoint ?? "nothing — no server configured"}</code>
       </p>
       <p className="subline">
-        Away from your PC, paste the URL of your hosted AI server (deploy <code>ai-server/</code> to Render with your
-        API keys — see the repo README). Leave empty to use the local server.
+        Paste your Cloudflare Worker URL and sync passphrase (same on every device). The worker answers AI questions
+        and mirrors your progress — ledger, cards, mastery, AI chats — across devices automatically.
       </p>
-      <div className="data-actions">
+      <div className="cloud-form">
         <input
           className="ai-server-input"
           inputMode="url"
-          placeholder="https://your-app.onrender.com"
+          placeholder="https://fr-study-os-api.<you>.workers.dev"
           type="url"
           value={serverUrl}
           onChange={(event) => setServerUrl(event.target.value)}
         />
-        <button className="primary-action" type="button" onClick={save}>
-          <Check size={16} />
-          <span>Save</span>
-        </button>
+        <input
+          className="ai-server-input"
+          placeholder="sync passphrase"
+          type="password"
+          value={secret}
+          onChange={(event) => setSecret(event.target.value)}
+        />
+        <div className="data-actions">
+          <button className="primary-action" disabled={busy} type="button" onClick={() => void save()}>
+            <Check size={16} />
+            <span>Save</span>
+          </button>
+          <button className="quiet-action" disabled={busy} type="button" onClick={() => void runSync()}>
+            <Upload size={16} />
+            <span>Sync now</span>
+          </button>
+        </div>
       </div>
       {note ? <p className="subline">{note}</p> : null}
     </section>

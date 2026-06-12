@@ -12,16 +12,27 @@ A personal CA Final **Financial Reporting** study environment: native chapter wo
 
 All study data (ledger, cards, mastery, AI chats) lives **on the device** in local storage. To move data between devices, use **Vault → Download backup file** on one device and **Restore from file** on the other.
 
-## AI tutor away from your PC
+## Cloud: AI tutor + cross-device sync (Cloudflare Worker)
 
-The chapters, cards, ledger and analytics are fully standalone. The AI tutor needs the `ai-server/` backend running somewhere with your API keys:
+The chapters, cards, ledger and analytics are fully standalone. One free Cloudflare Worker ([`worker/`](worker/)) adds the rest — the AI tutor everywhere (no cold starts, unlike free Render/Heroku-style hosts) and automatic progress sync between phone and desktop.
 
-1. Sign up at [render.com](https://render.com) (free tier is enough).
-2. **New + → Blueprint**, connect this repo. Render reads [`render.yaml`](render.yaml) and prompts for the API keys (`GEMINI_API_KEY`, `GROQ_API_KEY`, `MISTRAL_API_KEY`, `OPENROUTER_API_KEY`) — copy them from your local `ai-server/.env`. Keys live only in Render, never in the repo.
-3. When the service is live, copy its URL (e.g. `https://fr-study-os-ai.onrender.com`).
-4. In the app on your phone: **Vault → AI server**, paste the URL, Save.
+One-time deploy (free Cloudflare account, no card):
 
-Note: Render's free tier sleeps after inactivity — the first AI question after a break can take ~a minute while it wakes.
+```bash
+cd worker
+npm install
+npx wrangler login                          # opens browser approval
+npx wrangler kv namespace create SYNC_KV    # paste the returned id into wrangler.toml
+npx wrangler secret put GEMINI_API_KEY      # repeat for GROQ_API_KEY, MISTRAL_API_KEY,
+npx wrangler secret put SYNC_SECRET         # OPENROUTER_API_KEY; SYNC_SECRET = passphrase you invent
+npm run deploy                              # → https://fr-study-os-api.<you>.workers.dev
+```
+
+Then on **each device**: open the app → **Vault → Cloud connection** → paste the Worker URL + your sync passphrase → Save. From then on the device pulls the latest state on open, pushes edits in the background, and shows a "Cloud synced" indicator in the rail. AI questions route through the same Worker.
+
+Sync model: the whole state (ledger, cards, mastery, AI chats) is mirrored as one document; the newer side wins, fresh installs adopt the cloud copy. Local dev keeps working with zero config (`worker`: `npm run dev` serves an offline emulator on port 8787; secrets go in a gitignored `.dev.vars`).
+
+`render.yaml` remains as an alternative if you ever prefer hosting `ai-server/` on Render instead.
 
 ## Local development
 

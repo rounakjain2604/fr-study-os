@@ -1,0 +1,16 @@
+name = "fr-study-os-api"
+main = "src/index.mjs"
+compatibility_date = "2025-06-01"
+
+# Created at deploy time with:  npx wrangler kv namespace create SYNC_KV
+# then paste the returned id below (the placeholder works for local `wrangler dev`).
+[[kv_namespaces]]
+binding = "SYNC_KV"
+id = "00000000000000000000000000000000"
+
+# Secrets (never in this file):
+#   npx wrangler secret put GEMINI_API_KEY
+#   npx wrangler secret put GROQ_API_KEY
+#   npx wrangler secret put MISTRAL_API_KEY
+#   npx wrangler secret put OPENROUTER_API_KEY
+#   npx wrangler secret put SYNC_SECRET
