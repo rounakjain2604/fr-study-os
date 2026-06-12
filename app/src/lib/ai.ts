@@ -29,6 +29,10 @@ export type AiContext = {
 // from the Vault, so the deployed PWA works away from the home machine.
 export const AI_ENDPOINT_KEY = "fr45-ai-endpoint";
 export const SYNC_SECRET_KEY = "fr45-sync-secret";
+export const DEFAULT_CLOUD_AI_SERVER = "https://fr-study-os-api.rounakjain2604.workers.dev";
+
+const hostedOnGitHubPages = () =>
+  typeof window !== "undefined" && window.location.hostname === "rounakjain2604.github.io";
 
 export const getSyncSecret = (): string | null => {
   try {
@@ -57,6 +61,9 @@ export const getCustomAiServer = (): string | null => {
   }
 };
 
+export const getAiServerBaseUrl = (): string | null =>
+  getCustomAiServer() || (hostedOnGitHubPages() ? DEFAULT_CLOUD_AI_SERVER : null);
+
 export const setCustomAiServer = (url: string) => {
   try {
     const trimmed = url.trim().replace(/\/+$/, "");
@@ -68,10 +75,10 @@ export const setCustomAiServer = (url: string) => {
 };
 
 export const resolveAiEndpoint = (): string | null => {
-  const custom = getCustomAiServer();
-  if (custom) {
+  const server = getAiServerBaseUrl();
+  if (server) {
     // Accept either a server base URL or a full endpoint path.
-    return custom.endsWith("/api/ai-tutor") ? custom : `${custom}/api/ai-tutor`;
+    return server.endsWith("/api/ai-tutor") ? server : `${server}/api/ai-tutor`;
   }
 
   const local = ["localhost", "127.0.0.1", ""].includes(window.location.hostname);
@@ -108,6 +115,9 @@ export async function askTutor(payload: {
   // ai-server ignores the header, so sending it is always safe.
   const headers: Record<string, string> = { "Content-Type": "application/json" };
   const secret = getSyncSecret();
+  if (endpoint.startsWith(DEFAULT_CLOUD_AI_SERVER) && !secret) {
+    throw new Error("Cloud AI needs your sync passphrase. Open Vault -> Cloud connection, enter the passphrase, and press Save.");
+  }
   if (secret) headers.Authorization = `Bearer ${secret}`;
 
   let response: Response;
@@ -119,7 +129,7 @@ export async function askTutor(payload: {
     });
   } catch {
     throw new Error(
-      getCustomAiServer()
+      getAiServerBaseUrl()
         ? "Could not reach the configured AI server. Check the URL in Vault → AI server (free hosts can take ~1 minute to wake up — try again)."
         : "Could not reach the local AI server. Start it with `cd ai-server && npm start`, then try again.",
     );

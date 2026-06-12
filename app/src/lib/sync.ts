@@ -3,7 +3,7 @@
 // v2 backup envelope the Vault exports. Whole-envelope last-write-wins —
 // fine for a single owner moving between phone and desktop.
 
-import { getCustomAiServer, getSyncSecret, setSyncSecret } from "./ai";
+import { getAiServerBaseUrl, getSyncSecret, setSyncSecret } from "./ai";
 import { buildFullBackup, parseAnyBackup, type FullBackup } from "./backup";
 import { loadLedgerState, saveLedgerState } from "./state";
 
@@ -14,9 +14,9 @@ export type SyncStatus = "off" | "syncing" | "synced" | "error";
 
 export { getSyncSecret, setSyncSecret };
 
-export const syncConfigured = () => !!(getCustomAiServer() && getSyncSecret());
+export const syncConfigured = () => !!(getAiServerBaseUrl() && getSyncSecret());
 
-const syncUrl = () => `${getCustomAiServer()}/api/sync`;
+const syncUrl = () => `${getAiServerBaseUrl()}/api/sync`;
 
 const authHeaders = () => ({
   "Content-Type": "application/json",

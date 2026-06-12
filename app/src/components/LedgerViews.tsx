@@ -44,7 +44,7 @@ import {
 } from "../lib/analytics";
 import type { LedgerState, MistakeEntry, MistakeTag, MockAttempt } from "../lib/state";
 import { downloadBackupFile } from "../lib/backup";
-import { getCustomAiServer, resolveAiEndpoint, setCustomAiServer } from "../lib/ai";
+import { getAiServerBaseUrl, resolveAiEndpoint, setCustomAiServer } from "../lib/ai";
 import { getSyncSecret, setSyncSecret, syncConfigured, syncNow } from "../lib/sync";
 import type { useLedgerState } from "../hooks/useLedgerState";
 
@@ -895,7 +895,7 @@ export function DataView({
 }
 
 function AiServerPanel() {
-  const [serverUrl, setServerUrl] = useState(() => getCustomAiServer() ?? "");
+  const [serverUrl, setServerUrl] = useState(() => getAiServerBaseUrl() ?? "");
   const [secret, setSecret] = useState(() => getSyncSecret() ?? "");
   const [note, setNote] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
@@ -925,14 +925,14 @@ function AiServerPanel() {
   const save = async () => {
     setCustomAiServer(serverUrl);
     setSyncSecret(secret);
-    setServerUrl(getCustomAiServer() ?? "");
+    setServerUrl(getAiServerBaseUrl() ?? "");
     setSecret(getSyncSecret() ?? "");
     if (syncConfigured()) {
       await runSync();
     } else {
       setNote(
-        getCustomAiServer()
-          ? "Server saved. AI works; add the sync passphrase to also sync progress."
+        getAiServerBaseUrl()
+          ? "Server saved. Add the sync passphrase to enable cloud AI and progress sync."
           : "Cleared — back to the local AI server, sync off.",
       );
     }
