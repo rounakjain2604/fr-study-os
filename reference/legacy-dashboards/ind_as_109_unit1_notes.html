@@ -1,0 +1,2649 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ind AS 109 — Financial Instruments: Scope & Definitions</title>
+  <meta name="description" content="Modern interactive study notes for Ind AS 109 - Scope and Definitions. CA Final Financial Reporting Chapter 6.">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  
+  <style>
+    /* ── CSS Reset & Color System ────────────────────────────── */
+    *, *::before, *::after {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      /* Base Colors */
+      --bg-desk: #F8F9FA;
+      --bg-page: #FFFFFF;
+      --text-primary: #0F172A; /* Slate 900 */
+      --text-secondary: #334155; /* Slate 700 */
+      --text-light: #64748B; /* Slate 500 */
+      --border-default: #E2E8F0; /* Slate 200 */
+      
+      /* Blue Card (Definition) */
+      --blue-bg: #F8FBFF;
+      --blue-border: #E5F1FF;
+      --blue-text: #2563EB;
+      
+      /* Green Card (Includes / Success) */
+      --green-bg: #F3FAF5;
+      --green-border: #D3ECD7;
+      --green-text: #16A34A;
+      
+      /* Red Card (Exclusions / Danger) */
+      --red-bg: #FFF5F5;
+      --red-border: #FFE3E3;
+      --red-text: #DC2626;
+      
+      /* Orange Card (Reason / Warnings) */
+      --orange-bg: #FFFDF5;
+      --orange-border: #FFF1C5;
+      --orange-text: #D97706;
+
+      /* UI Accent Colors */
+      --accent: #2563EB;
+      --accent-light: #EFF6FF;
+      
+      /* Typography */
+      --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+      
+      /* Shadows & Radii */
+      --radius: 8px;
+      --radius-lg: 12px;
+      --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.04);
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.04), 0 2px 4px -2px rgba(0, 0, 0, 0.04);
+      --transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    html {
+      font-size: 15px;
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--font-sans);
+      background: var(--bg-desk);
+      color: var(--text-secondary);
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Selection */
+    ::selection {
+      background: var(--accent-light);
+      color: var(--accent);
+    }
+
+    /* Scrollbar */
+    ::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+    ::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: var(--border-default);
+      border-radius: 3px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: var(--text-light);
+    }
+
+    /* ── Layout ─────────────────────────────────────────── */
+    .app-container {
+      display: flex;
+      min-height: 100vh;
+      width: 100%;
+      position: relative;
+    }
+
+    /* Sidebar - Left Drawer */
+    .sidebar {
+      width: 280px;
+      background: var(--bg-page);
+      border-right: 1px solid var(--border-default);
+      display: flex;
+      flex-direction: column;
+      position: fixed;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      z-index: 100;
+      transition: var(--transition);
+      padding: 24px 20px;
+    }
+
+    .sidebar-header {
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--border-default);
+    }
+
+    .sidebar-header h1 {
+      font-size: 1.25rem;
+      font-weight: 800;
+      line-height: 1.2;
+      color: var(--text-primary);
+      letter-spacing: -0.02em;
+    }
+
+    .sidebar-header p {
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-light);
+      margin-top: 4px;
+      font-weight: 600;
+    }
+
+    /* TOC Menu Items */
+    .sidebar-nav {
+      flex: 1;
+      overflow-y: auto;
+      margin-bottom: 20px;
+    }
+
+    .nav-title {
+      font-size: 0.68rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-light);
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+
+    .nav-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .nav-item-link {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 10px;
+      border-radius: var(--radius);
+      color: var(--text-secondary);
+      font-size: 0.82rem;
+      text-decoration: none;
+      transition: var(--transition);
+      cursor: pointer;
+    }
+
+    .nav-item-link:hover {
+      background: var(--bg-desk);
+      color: var(--text-primary);
+    }
+
+    .nav-item-link.active {
+      background: var(--accent-light);
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    .nav-checkbox {
+      width: 14px;
+      height: 14px;
+      border: 1.5px solid var(--border-default);
+      border-radius: 3px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      background: var(--bg-page);
+      cursor: pointer;
+      transition: var(--transition);
+    }
+
+    .nav-checkbox.checked {
+      background: var(--green-text);
+      border-color: var(--green-text);
+    }
+
+    .nav-checkbox.checked::after {
+      content: "✓";
+      font-size: 0.65rem;
+      color: #FFFFFF;
+      font-weight: bold;
+    }
+
+    /* Study Controls */
+    .study-controls {
+      padding: 14px;
+      background: var(--bg-desk);
+      border-radius: var(--radius);
+      margin-bottom: 20px;
+    }
+
+    .control-group-title {
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 8px;
+      color: var(--text-light);
+    }
+
+    .mode-switch-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      width: 100%;
+      padding: 8px 12px;
+      background: var(--bg-page);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius);
+      font-size: 0.8rem;
+      font-family: var(--font-sans);
+      color: var(--text-secondary);
+      cursor: pointer;
+      font-weight: 500;
+      transition: var(--transition);
+    }
+
+    .mode-switch-btn:hover {
+      background: var(--border-default);
+      color: var(--text-primary);
+    }
+
+    .mode-switch-btn.active-recall-enabled {
+      background: var(--accent-light);
+      border-color: var(--accent);
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    /* Progress Tracker Widget */
+    .progress-widget {
+      border-top: 1px solid var(--border-default);
+      padding-top: 16px;
+    }
+
+    .progress-stats {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.75rem;
+      color: var(--text-light);
+      font-weight: 500;
+      margin-bottom: 6px;
+    }
+
+    .progress-bar-container {
+      width: 100%;
+      height: 4px;
+      background: var(--border-default);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+
+    .progress-bar-fill {
+      height: 100%;
+      width: 0%;
+      background: var(--green-text);
+      transition: width 0.4s ease;
+    }
+
+    /* Main Container */
+    .main-workspace {
+      flex: 1;
+      margin-left: 280px;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+
+    /* Top Navigation bar */
+    .topbar {
+      height: 56px;
+      padding: 0 40px;
+      background: rgba(255, 255, 255, 0.85);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--border-default);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 50;
+    }
+
+    .topbar-left {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .menu-toggle {
+      display: none;
+      width: 34px;
+      height: 34px;
+      background: var(--bg-page);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius);
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 1rem;
+    }
+
+    .breadcrumbs {
+      font-size: 0.78rem;
+      color: var(--text-light);
+      font-weight: 500;
+    }
+
+    .breadcrumbs span {
+      margin: 0 6px;
+      opacity: 0.6;
+    }
+
+    .topbar-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .search-container {
+      position: relative;
+      width: 200px;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 6px 12px 6px 32px;
+      font-size: 0.78rem;
+      font-family: var(--font-sans);
+      background: var(--bg-desk);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius);
+      outline: none;
+      color: var(--text-primary);
+      transition: var(--transition);
+    }
+
+    .search-input:focus {
+      border-color: var(--accent);
+      background: var(--bg-page);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 14px;
+      height: 14px;
+      pointer-events: none;
+      opacity: 0.5;
+    }
+
+    .search-icon svg {
+      width: 100%;
+      height: 100%;
+      fill: none;
+      stroke: var(--text-primary);
+      stroke-width: 2;
+    }
+
+    .action-btn {
+      padding: 6px 12px;
+      background: var(--bg-page);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius);
+      font-size: 0.78rem;
+      color: var(--text-secondary);
+      cursor: pointer;
+      font-family: var(--font-sans);
+      font-weight: 500;
+      transition: var(--transition);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .action-btn:hover {
+      background: var(--bg-desk);
+      color: var(--text-primary);
+    }
+
+    /* Content Area styling */
+    .content-viewport {
+      max-width: 960px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 32px 40px 100px;
+      flex: 1;
+    }
+
+    /* Clean White Page Sheet */
+    .study-sheet {
+      background: var(--bg-page);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-sm);
+      padding: 40px 48px;
+    }
+
+    /* Study Sections */
+    .study-section {
+      margin-bottom: 48px;
+      padding-bottom: 40px;
+      border-bottom: 1px solid var(--border-default);
+    }
+
+    .study-section:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+
+    .section-metadata {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+
+    .sec-num {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      color: var(--text-light);
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .sec-title {
+      font-size: 1.65rem;
+      font-weight: 800;
+      color: var(--text-primary);
+      letter-spacing: -0.02e;
+      margin-bottom: 20px;
+    }
+
+    .text-p {
+      font-size: 0.92rem;
+      color: var(--text-secondary);
+      margin-bottom: 16px;
+      line-height: 1.6;
+    }
+
+    /* ── Colored Card Block System ───────────────────────── */
+    .study-card {
+      border-radius: var(--radius);
+      border: 1px solid var(--border-default);
+      background: var(--bg-page);
+      padding: 20px 24px;
+      margin-bottom: 20px;
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+      box-shadow: var(--shadow-sm);
+      transition: var(--transition);
+    }
+
+    .study-card:hover {
+      box-shadow: var(--shadow-md);
+    }
+
+    .card-icon {
+      flex-shrink: 0;
+      display: flex;
+    }
+
+    .card-body {
+      flex: 1;
+    }
+
+    .card-title {
+      font-size: 0.92rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    /* Bullet Lists in Cards */
+    .card-list {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .card-list li {
+      position: relative;
+      padding-left: 16px;
+      margin-bottom: 6px;
+      font-size: 0.88rem;
+      color: var(--text-secondary);
+      line-height: 1.5;
+    }
+
+    .card-list li::before {
+      content: "•";
+      position: absolute;
+      left: 0;
+      color: var(--text-light);
+    }
+
+    /* Blue Card (Definition) */
+    .card-blue {
+      background: var(--blue-bg);
+      border-color: var(--blue-border);
+    }
+
+    .card-blue .card-title {
+      color: var(--blue-text);
+    }
+
+    .quote-box {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 32px;
+      height: 32px;
+      border: 1.5px solid var(--blue-text);
+      border-radius: 6px;
+      background: var(--bg-page);
+      color: var(--blue-text);
+      flex-shrink: 0;
+      font-family: Georgia, serif;
+      font-size: 1.5rem;
+      font-weight: 800;
+      line-height: 1;
+      text-align: center;
+    }
+
+    .quote-text {
+      font-style: italic;
+      color: var(--text-secondary);
+      font-size: 0.94rem;
+      line-height: 1.6;
+    }
+
+    /* Green Card (Includes / Success) */
+    .card-green {
+      background: var(--green-bg);
+      border-color: var(--green-border);
+    }
+
+    .card-green .card-title {
+      color: var(--green-text);
+    }
+
+    .card-green .card-list li::before {
+      color: var(--green-text);
+    }
+
+    /* Red Card (Exclusions / Danger) */
+    .card-red {
+      background: var(--red-bg);
+      border-color: var(--red-border);
+    }
+
+    .card-red .card-title {
+      color: var(--red-text);
+    }
+
+    .card-red .card-list li::before {
+      color: var(--red-text);
+    }
+
+    /* Orange Card (Reason / Mnemonic / Warning) */
+    .card-orange {
+      background: var(--orange-bg);
+      border-color: var(--orange-border);
+    }
+
+    .card-orange .card-title {
+      color: var(--orange-text);
+    }
+
+    .reason-text {
+      font-style: italic;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+    }
+
+    /* Key Points Title in Notes */
+    .key-points-title {
+      font-size: 0.88rem;
+      font-weight: 700;
+      color: var(--blue-text);
+      margin: 16px 0 8px;
+    }
+
+    .key-points-list {
+      list-style: none;
+      padding-left: 0;
+      margin-bottom: 24px;
+    }
+
+    .key-points-list li {
+      position: relative;
+      padding-left: 16px;
+      margin-bottom: 6px;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+    }
+
+    .key-points-list li::before {
+      content: "•";
+      position: absolute;
+      left: 0;
+      color: var(--text-primary);
+      font-weight: 800;
+    }
+
+    /* Multi-column Grid Layout for Common vs Exclude */
+    .study-card-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+
+    @media (max-width: 768px) {
+      .study-card-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* ── Tables ─────────────────────────────────────────── */
+    .table-container {
+      width: 100%;
+      overflow-x: auto;
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius);
+      margin: 20px 0;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .matrix-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.85rem;
+    }
+
+    .matrix-table th {
+      background: var(--bg-desk);
+      padding: 10px 14px;
+      font-weight: 700;
+      color: var(--text-primary);
+      text-align: left;
+      border-bottom: 1.5px solid var(--border-default);
+      text-transform: uppercase;
+      font-size: 0.72rem;
+      letter-spacing: 0.05em;
+    }
+
+    .matrix-table td {
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--border-default);
+      color: var(--text-secondary);
+      vertical-align: top;
+      line-height: 1.5;
+    }
+
+    .matrix-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    .matrix-table tr:hover td {
+      background: var(--bg-desk);
+    }
+
+    /* ── Active Recall Mode States ──────────────────────── */
+    .active-recall .recall-blank {
+      background: #DBEAFE;
+      color: transparent;
+      border-radius: 4px;
+      padding: 0 8px;
+      cursor: pointer;
+      user-select: none;
+      border-bottom: 1.5px dashed var(--accent);
+      transition: var(--transition);
+      position: relative;
+    }
+
+    .active-recall .recall-blank::after {
+      content: "Reveal";
+      position: absolute;
+      top: -22px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--text-primary);
+      color: #FFFFFF;
+      font-size: 0.6rem;
+      padding: 1px 4px;
+      border-radius: 2px;
+      opacity: 0;
+      pointer-events: none;
+      white-space: nowrap;
+      transition: opacity 0.15s;
+      font-family: var(--font-sans);
+      font-weight: 500;
+    }
+
+    .active-recall .recall-blank:hover::after {
+      opacity: 1;
+    }
+
+    .active-recall .recall-blank.revealed {
+      background: transparent;
+      color: inherit;
+      border-bottom-color: transparent;
+    }
+
+    .active-recall .recall-blank.revealed::after {
+      display: none;
+    }
+
+    /* ── Scope Matrix Interactive Table ───────────────────── */
+    .scope-controls {
+      display: flex;
+      gap: 6px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+
+    .scope-tab {
+      padding: 6px 12px;
+      background: var(--bg-desk);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius);
+      font-size: 0.78rem;
+      font-family: var(--font-sans);
+      color: var(--text-secondary);
+      cursor: pointer;
+      font-weight: 500;
+      transition: var(--transition);
+    }
+
+    .scope-tab:hover {
+      background: var(--border-default);
+      color: var(--text-primary);
+    }
+
+    .scope-tab.active {
+      background: var(--accent);
+      color: #FFFFFF;
+      border-color: var(--accent);
+    }
+
+    .scope-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .scope-card {
+      background: var(--bg-page);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius);
+      padding: 16px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .scope-card-left {
+      flex: 1;
+    }
+
+    .scope-card-title {
+      font-size: 0.92rem;
+      font-weight: 700;
+      color: var(--text-primary);
+    }
+
+    .scope-card-meta {
+      font-size: 0.72rem;
+      font-family: var(--font-mono);
+      color: var(--accent);
+      margin-top: 2px;
+    }
+
+    .scope-badge {
+      padding: 3px 8px;
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      border-radius: 12px;
+      white-space: nowrap;
+    }
+
+    .scope-badge.outside {
+      background: var(--red-bg);
+      color: var(--red-text);
+      border: 1px solid var(--red-border);
+    }
+
+    .scope-badge.partial {
+      background: var(--blue-bg);
+      color: var(--blue-text);
+      border: 1px solid var(--blue-border);
+    }
+
+    .scope-badge.inside {
+      background: var(--green-bg);
+      color: var(--green-text);
+      border: 1px solid var(--green-border);
+    }
+
+    .scope-exception-box {
+      margin-top: 8px;
+      padding: 8px 12px;
+      background: var(--bg-desk);
+      border-left: 2.5px solid var(--accent);
+      font-size: 0.8rem;
+      color: var(--text-secondary);
+    }
+
+    /* ── Preference Shares Classifier Wizard ─────────────── */
+    .wizard-container {
+      background: var(--bg-desk);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius);
+      padding: 20px;
+      margin: 20px 0;
+    }
+
+    .wizard-title {
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-primary);
+      margin-bottom: 12px;
+      border-bottom: 1px solid var(--border-default);
+      padding-bottom: 6px;
+    }
+
+    .wizard-form {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .wizard-select-group {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .wizard-select-group label {
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+
+    .wizard-select {
+      padding: 6px 10px;
+      font-size: 0.82rem;
+      font-family: var(--font-sans);
+      background: var(--bg-page);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius);
+      color: var(--text-primary);
+      outline: none;
+      cursor: pointer;
+    }
+
+    .wizard-result {
+      margin-top: 16px;
+      padding: 14px;
+      background: var(--bg-page);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius);
+      display: none;
+    }
+
+    .wizard-result.active {
+      display: block;
+      animation: fadeIn 0.2s ease;
+    }
+
+    .result-badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 12px;
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 6px;
+    }
+
+    .result-badge.liability {
+      background: var(--red-bg);
+      color: var(--red-text);
+      border: 1px solid var(--red-border);
+    }
+
+    .result-badge.equity {
+      background: var(--green-bg);
+      color: var(--green-text);
+      border: 1px solid var(--green-border);
+    }
+
+    .result-badge.compound {
+      background: var(--blue-bg);
+      color: var(--blue-text);
+      border: 1px solid var(--blue-border);
+    }
+
+    .result-desc {
+      font-size: 0.82rem;
+      color: var(--text-secondary);
+      line-height: 1.5;
+    }
+
+    /* ── Own Use Exemption Decision Flow ─────────────────── */
+    .checklist-container {
+      background: var(--bg-desk);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius);
+      padding: 20px;
+      margin: 20px 0;
+    }
+
+    .checklist-title {
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-primary);
+      margin-bottom: 12px;
+      border-bottom: 1px solid var(--border-default);
+      padding-bottom: 6px;
+    }
+
+    .checklist-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      margin-bottom: 8px;
+      cursor: pointer;
+    }
+
+    .checklist-item input {
+      margin-top: 3px;
+      cursor: pointer;
+    }
+
+    .checklist-item-text {
+      font-size: 0.82rem;
+      color: var(--text-secondary);
+      line-height: 1.4;
+    }
+
+    .checklist-verdict {
+      margin-top: 14px;
+      padding: 10px 14px;
+      background: var(--bg-page);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius);
+      font-size: 0.82rem;
+      font-weight: 500;
+    }
+
+    .checklist-verdict span {
+      font-weight: 700;
+    }
+
+    .verdict-outside {
+      color: var(--green-text);
+    }
+
+    .verdict-inside {
+      color: var(--red-text);
+    }
+
+    /* ── Oral Quiz Layout ───────────────────────────── */
+    .quiz-viewport {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .quiz-options-bar {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 12px;
+    }
+
+    .quiz-card {
+      background: var(--bg-page);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius);
+      padding: 16px 20px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .quiz-header {
+      display: flex;
+      justify-content: space-between;
+      font-family: var(--font-mono);
+      font-size: 0.7rem;
+      color: var(--accent);
+      font-weight: 500;
+      margin-bottom: 6px;
+    }
+
+    .quiz-question {
+      font-size: 0.98rem;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 12px;
+    }
+
+    .quiz-reveal-section {
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px dashed var(--border-default);
+    }
+
+    .btn-reveal-answer {
+      font-size: 0.72rem;
+      font-family: var(--font-sans);
+      background: var(--bg-desk);
+      border: 1px solid var(--border-default);
+      color: var(--text-secondary);
+      padding: 4px 8px;
+      border-radius: var(--radius);
+      cursor: pointer;
+      transition: var(--transition);
+    }
+
+    .btn-reveal-answer:hover {
+      background: var(--border-default);
+      color: var(--text-primary);
+    }
+
+    .quiz-answer-text {
+      font-size: 0.88rem;
+      color: var(--accent);
+      line-height: 1.5;
+      padding: 8px 12px;
+      background: var(--blue-bg);
+      border-left: 2.5px solid var(--accent);
+      margin-top: 8px;
+      display: none;
+      animation: fadeIn 0.2s ease;
+      font-weight: 500;
+    }
+
+    .quiz-answer-text.visible {
+      display: block;
+    }
+
+    /* Test Mode Inputs */
+    .quiz-input-section {
+      display: none;
+      flex-direction: column;
+      gap: 8px;
+      margin-top: 10px;
+    }
+
+    .quiz-input-section.visible {
+      display: flex;
+    }
+
+    .quiz-input {
+      width: 100%;
+      padding: 8px 10px;
+      font-size: 0.82rem;
+      font-family: var(--font-sans);
+      background: var(--bg-desk);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius);
+      outline: none;
+      color: var(--text-primary);
+      resize: vertical;
+      min-height: 48px;
+    }
+
+    .quiz-input:focus {
+      border-color: var(--accent);
+      background: var(--bg-page);
+    }
+
+    .quiz-evaluation {
+      padding: 10px 14px;
+      border-radius: var(--radius);
+      font-size: 0.8rem;
+      display: none;
+      animation: fadeIn 0.25s ease;
+    }
+
+    .quiz-evaluation.visible {
+      display: block;
+    }
+
+    .quiz-evaluation.correct {
+      background: var(--green-bg);
+      border: 1px solid var(--green-border);
+      color: var(--green-text);
+    }
+
+    .quiz-evaluation.incorrect {
+      background: var(--red-bg);
+      border: 1px solid var(--red-border);
+      color: var(--red-text);
+    }
+
+    .eval-verdict {
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 2px;
+    }
+
+    .quiz-grading-bar {
+      margin-top: 20px;
+      display: flex;
+      justify-content: flex-end;
+      gap: 10px;
+    }
+
+    /* Highlight Search Marks */
+    mark {
+      background: #FDE047; /* Yellow */
+      color: #000000;
+      border-radius: 2px;
+      padding: 0 1px;
+    }
+
+    /* SVGs Helper styling */
+    .svg-icon {
+      width: 20px;
+      height: 20px;
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+
+    .quote-svg {
+      color: var(--blue-text);
+    }
+
+    .green-svg {
+      color: var(--green-text);
+    }
+
+    .red-svg {
+      color: var(--red-text);
+    }
+
+    .orange-svg {
+      color: var(--orange-text);
+    }
+
+    /* ── Print Stylesheet overrides ──────────────────────── */
+    @media print {
+      body {
+        background: #FFFFFF;
+        color: #000000;
+        font-size: 10pt;
+      }
+      .sidebar, .topbar, .menu-toggle, .scope-controls, .wizard-container, .checklist-container, .quiz-options-bar, .quiz-grading-bar, .btn-reveal-answer, .quiz-input-section {
+        display: none !important;
+      }
+      .main-workspace {
+        margin-left: 0 !important;
+      }
+      .content-viewport {
+        padding: 0 !important;
+        max-width: 100% !important;
+      }
+      .study-sheet {
+        border: none !important;
+        box-shadow: none !important;
+        padding: 0 !important;
+        background: #FFFFFF !important;
+      }
+      .study-section {
+        page-break-inside: avoid;
+        border-bottom: 1.5px solid #E2E8F0 !important;
+      }
+      .quiz-answer-text {
+        display: block !important;
+        color: #1D4ED8 !important;
+        background: #F0F7FF !important;
+        border-left: 2.5px solid #2563EB !important;
+      }
+    }
+
+    /* ── Responsive Tablet/Mobile styling ─────────────────── */
+    @media (max-width: 1024px) {
+      .sidebar {
+        transform: translateX(-100%);
+      }
+      .sidebar.open {
+        transform: translateX(0);
+      }
+      .main-workspace {
+        margin-left: 0;
+      }
+      .menu-toggle {
+        display: flex;
+      }
+      .content-viewport {
+        padding: 16px;
+      }
+      .study-sheet {
+        padding: 24px;
+      }
+    }
+
+    @media (max-width: 580px) {
+      .topbar {
+        padding: 0 16px;
+      }
+      .search-container {
+        width: 120px;
+      }
+      .study-sheet {
+        padding: 16px;
+      }
+      .sec-title {
+        font-size: 1.35rem;
+      }
+    }
+
+    /* ── Animations ─────────────────────────────────────── */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(2px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="app-container">
+    
+    <!-- LEFT SIDEBAR -->
+    <aside class="sidebar" id="app-sidebar">
+      <div class="sidebar-header">
+        <h1>Financial Instruments</h1>
+        <p>Ind AS 109 — Unit 1</p>
+      </div>
+
+      <!-- TOC Menu -->
+      <nav class="sidebar-nav">
+        <h2 class="nav-title">Outline & Progress</h2>
+        <ul class="nav-list" id="toc-nav-list">
+          <!-- Populated by JS -->
+        </ul>
+      </nav>
+
+      <!-- Study Mode Settings -->
+      <div class="study-controls">
+        <h2 class="control-group-title">Study Mode</h2>
+        <button class="mode-switch-btn" id="btn-toggle-mode" onclick="toggleRecallMode()">
+          📖 Deep Study Mode
+        </button>
+      </div>
+
+      <!-- Reading Progress -->
+      <div class="progress-widget">
+        <div class="progress-stats">
+          <span>Completion</span>
+          <span id="txt-progress-pct">0%</span>
+        </div>
+        <div class="progress-bar-container">
+          <div class="progress-bar-fill" id="pb-progress-fill"></div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- MAIN Workspace -->
+    <main class="main-workspace">
+      
+      <!-- Sticky Top bar navigation -->
+      <header class="topbar">
+        <div class="topbar-left">
+          <button class="menu-toggle" onclick="toggleSidebar()" aria-label="Toggle Navigation">☰</button>
+          <div class="breadcrumbs">
+            CA Final May 2027<span>/</span>Financial Reporting<span>/</span>Unit 1 Notes
+          </div>
+        </div>
+
+        <div class="topbar-right">
+          <!-- Search Notes -->
+          <div class="search-container">
+            <input type="text" class="search-input" id="search-box" placeholder="Search notes..." oninput="handleSearch(this.value)">
+            <div class="search-icon">
+              <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+            </div>
+          </div>
+          
+          <button class="action-btn" onclick="window.print()">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v8H6z"/></svg>
+            Print
+          </button>
+        </div>
+      </header>
+
+      <!-- Notes Viewport -->
+      <div class="content-viewport">
+        <article class="study-sheet">
+
+          <!-- Main Dashboard root -->
+          <div id="notebook-root">
+            
+            <!-- Section 1 -->
+            <section class="study-section" id="sec-1" data-title="1. Financial Instrument">
+              <div class="section-metadata">
+                <span class="sec-num">1. Concept & Scope</span>
+                <span style="font-size: 0.72rem; color: var(--text-light);">Last updated: Today, 10:30 AM</span>
+              </div>
+              <h2 class="sec-title">1. Financial Instrument</h2>
+              
+              <!-- Definition Card (Blue) -->
+              <div class="study-card card-blue">
+                <div class="quote-box">“</div>
+                <div class="card-body">
+                  <div class="card-title">A financial instrument is:</div>
+                  <div class="quote-text">"A contract that gives rise to a financial asset of one entity and a financial liability or equity instrument of another entity."</div>
+                </div>
+              </div>
+
+              <div class="key-points-title">Key points:</div>
+              <ul class="key-points-list">
+                <li>There must be a <strong>contract</strong>.</li>
+                <li>Contract need not always be written.</li>
+                <li>Non-contractual obligations are not financial instruments.</li>
+                <li>Statutory obligations like income tax are <span class="recall-blank" data-answer="not financial liabilities">not financial liabilities</span>.</li>
+                <li>Constructive obligations under Ind AS 37 are <span class="recall-blank" data-answer="not financial liabilities">not financial liabilities</span>.</li>
+              </ul>
+            </section>
+
+            <!-- Section 2 -->
+            <section class="study-section" id="sec-2" data-title="2. Financial Asset">
+              <div class="section-metadata">
+                <span class="sec-num">2. Asset Classification</span>
+              </div>
+              <h2 class="sec-title">2. Financial Asset</h2>
+
+              <!-- Includes Card (Green) -->
+              <div class="study-card card-green">
+                <div class="card-icon">
+                  <svg class="svg-icon green-svg" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polyline points="9 11 12 14 22 4"/></svg>
+                </div>
+                <div class="card-body">
+                  <div class="card-title">A financial asset includes:</div>
+                  <ul class="card-list">
+                    <li>cash</li>
+                    <li>equity instrument of another entity</li>
+                    <li>contractual right to receive cash or another financial asset</li>
+                    <li>contractual right to exchange financial instruments under potentially favourable conditions</li>
+                    <li>certain own-equity-settled contracts</li>
+                  </ul>
+                </div>
+              </div>
+
+              <!-- Side-by-side Grid Examples vs Exclusions -->
+              <div class="study-card-grid">
+                <!-- Examples Card (Green) -->
+                <div class="study-card card-green">
+                  <div class="card-icon">
+                    <svg class="svg-icon green-svg" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polyline points="9 11 12 14 22 4"/></svg>
+                  </div>
+                  <div class="card-body">
+                    <div class="card-title">Common examples:</div>
+                    <ul class="card-list">
+                      <li>cash</li>
+                      <li>bank balance</li>
+                      <li>trade receivables</li>
+                      <li>loans receivable</li>
+                      <li>deposits given</li>
+                      <li>investment in bonds/debentures</li>
+                      <li>investment in equity shares of another entity</li>
+                      <li>perpetual debt instrument held by investor</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <!-- Not Financial Assets Card (Red) -->
+                <div class="study-card card-red">
+                  <div class="card-icon">
+                    <svg class="svg-icon red-svg" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
+                  </div>
+                  <div class="card-body">
+                    <div class="card-title">Not financial assets:</div>
+                    <ul class="card-list">
+                      <li>inventory</li>
+                      <li>PPE</li>
+                      <li>right-of-use assets</li>
+                      <li>intangible assets</li>
+                      <li>prepaid expenses</li>
+                      <li>advance for goods/services</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Reason Card (Orange) -->
+              <div class="study-card card-orange">
+                <div class="card-icon">
+                  <svg class="svg-icon orange-svg" viewBox="0 0 24 24"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A5 5 0 0 0 8 8c0 1 .3 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><line x1="9" y1="18" x2="15" y2="18"/><line x1="10" y1="22" x2="14" y2="22"/></svg>
+                </div>
+                <div class="card-body">
+                  <div class="card-title">Reason:</div>
+                  <div class="reason-text">These may generate cash in future, but they do not create a present contractual right to receive cash or another financial asset.</div>
+                </div>
+              </div>
+            </section>
+
+            <!-- Section 3 -->
+            <section class="study-section" id="sec-3" data-title="3. Financial Liability">
+              <div class="section-metadata">
+                <span class="sec-num">3. Liability Classification</span>
+              </div>
+              <h2 class="sec-title">3. Financial Liability</h2>
+
+              <!-- Includes Card (Red) -->
+              <div class="study-card card-red">
+                <div class="card-icon">
+                  <svg class="svg-icon red-svg" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
+                </div>
+                <div class="card-body">
+                  <div class="card-title">A financial liability includes:</div>
+                  <ul class="card-list">
+                    <li>contractual obligation to deliver cash or another financial asset</li>
+                    <li>contractual obligation to exchange financial instruments under potentially unfavourable conditions</li>
+                    <li>obligation to settle using variable number of own equity shares</li>
+                    <li>derivative over own shares that fails fixed-for-fixed</li>
+                  </ul>
+                </div>
+              </div>
+
+              <!-- Side-by-side Grid Examples vs Exclusions -->
+              <div class="study-card-grid">
+                <!-- Examples Card (Green/Liability) -->
+                <div class="study-card card-green">
+                  <div class="card-icon">
+                    <svg class="svg-icon green-svg" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polyline points="9 11 12 14 22 4"/></svg>
+                  </div>
+                  <div class="card-body">
+                    <div class="card-title">Common examples:</div>
+                    <ul class="card-list">
+                      <li>bank loan</li>
+                      <li>trade payable</li>
+                      <li>bills payable</li>
+                      <li>deposits received</li>
+                      <li>redeemable preference shares</li>
+                      <li>debentures/bonds issued</li>
+                      <li>financial guarantee given</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <!-- Not Financial Liabilities Card (Red) -->
+                <div class="study-card card-red">
+                  <div class="card-icon">
+                    <svg class="svg-icon red-svg" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
+                  </div>
+                  <div class="card-body">
+                    <div class="card-title">Not financial liabilities:</div>
+                    <ul class="card-list">
+                      <li>advance from customer for goods/services</li>
+                      <li>deferred revenue</li>
+                      <li>most warranty obligations</li>
+                      <li>statutory obligations like income tax payable</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Reason Card (Orange) -->
+              <div class="study-card card-orange">
+                <div class="card-icon">
+                  <svg class="svg-icon orange-svg" viewBox="0 0 24 24"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A5 5 0 0 0 8 8c0 1 .3 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><line x1="9" y1="18" x2="15" y2="18"/><line x1="10" y1="22" x2="14" y2="22"/></svg>
+                </div>
+                <div class="card-body">
+                  <div class="card-title">Reason:</div>
+                  <div class="reason-text">Settlement is by goods/services/statute, not contractual delivery of cash or another financial asset.</div>
+                </div>
+              </div>
+            </section>
+
+            <!-- Section 4 -->
+            <section class="study-section" id="sec-4" data-title="4. Financial Guarantee">
+              <div class="section-metadata">
+                <span class="sec-num">4. Guarantee Contracts</span>
+              </div>
+              <h2 class="sec-title">4. Financial Guarantee</h2>
+
+              <p class="text-p">A financial guarantee is still financial-instrument territory even though payment is contingent.</p>
+
+              <!-- Example card (Blue) -->
+              <div class="study-card card-blue">
+                <div class="quote-box">“</div>
+                <div class="card-body">
+                  <div class="card-title">Example Scenario:</div>
+                  <div class="quote-text">Parent guarantees subsidiary’s bank loan.</div>
+                </div>
+              </div>
+
+              <!-- Side-by-side analysis -->
+              <div class="study-card-grid">
+                <!-- Parent Classification -->
+                <div class="study-card card-green">
+                  <div class="card-icon">
+                    <svg class="svg-icon green-svg" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polyline points="9 11 12 14 22 4"/></svg>
+                  </div>
+                  <div class="card-body">
+                    <div class="card-title">Parent classification:</div>
+                    <ul class="card-list">
+                      <li>financial liability / financial guarantee contract</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <!-- Reason Card -->
+                <div class="study-card card-orange">
+                  <div class="card-icon">
+                    <svg class="svg-icon orange-svg" viewBox="0 0 24 24"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A5 5 0 0 0 8 8c0 1 .3 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><line x1="9" y1="18" x2="15" y2="18"/><line x1="10" y1="22" x2="14" y2="22"/></svg>
+                  </div>
+                  <div class="card-body">
+                    <div class="card-title">Reason:</div>
+                    <div class="reason-text">Parent has a contractual obligation to pay cash if the subsidiary defaults.</div>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <!-- Section 5 -->
+            <section class="study-section" id="sec-5" data-title="5. Equity Instrument">
+              <div class="section-metadata">
+                <span class="sec-num">5. Residual Interest</span>
+              </div>
+              <h2 class="sec-title">5. Equity Instrument</h2>
+
+              <!-- Definition Card (Blue) -->
+              <div class="study-card card-blue">
+                <div class="quote-box">“</div>
+                <div class="card-body">
+                  <div class="card-title">An equity instrument is:</div>
+                  <div class="quote-text">"A contract that evidences residual interest in the assets of an entity after deducting liabilities."</div>
+                </div>
+              </div>
+
+              <!-- Practical Test (Orange) -->
+              <div class="study-card card-orange">
+                <div class="card-icon">
+                  <svg class="svg-icon orange-svg" viewBox="0 0 24 24"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A5 5 0 0 0 8 8c0 1 .3 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><line x1="9" y1="18" x2="15" y2="18"/><line x1="10" y1="22" x2="14" y2="22"/></svg>
+                </div>
+                <div class="card-body">
+                  <div class="card-title">Practical test: Can the issuer avoid paying cash?</div>
+                  <div class="reason-text">
+                    • If <strong>yes</strong>: equity-like.<br>
+                    • If <strong>no</strong>: liability-like.
+                  </div>
+                </div>
+              </div>
+
+              <!-- Examples Card (Green) -->
+              <div class="study-card card-green">
+                <div class="card-icon">
+                  <svg class="svg-icon green-svg" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polyline points="9 11 12 14 22 4"/></svg>
+                </div>
+                <div class="card-body">
+                  <div class="card-title">Examples of equity:</div>
+                  <ul class="card-list">
+                    <li>ordinary shares</li>
+                    <li>non-puttable ordinary shares</li>
+                    <li>irredeemable preference shares with discretionary dividend</li>
+                    <li>CCPS converting into fixed number of shares, dividend discretionary</li>
+                    <li>warrant to acquire fixed number of shares for fixed amount</li>
+                  </ul>
+                </div>
+              </div>
+            </section>
+
+            <!-- Section 6 -->
+            <section class="study-section" id="sec-6" data-title="6. Preference Shares">
+              <div class="section-metadata">
+                <span class="sec-num">6. Substance Rules</span>
+              </div>
+              <h2 class="sec-title">6. Preference Shares</h2>
+
+              <!-- Main Rule (Blue) -->
+              <div class="study-card card-blue">
+                <div class="quote-box">“</div>
+                <div class="card-body">
+                  <div class="card-title">Main rule:</div>
+                  <div class="quote-text">"Legal form does not decide classification. Substance of contractual terms decides."</div>
+                </div>
+              </div>
+
+              <!-- Side-by-side Analysis -->
+              <div class="study-card-grid">
+                <!-- Liability terms -->
+                <div class="study-card card-red">
+                  <div class="card-icon">
+                    <svg class="svg-icon red-svg" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
+                  </div>
+                  <div class="card-body">
+                    <div class="card-title">Liability Features:</div>
+                    <ul class="card-list">
+                      <li>Redeemable at fixed date = financial liability</li>
+                      <li>Redeemable at holder’s option = financial liability</li>
+                      <li>Mandatory dividend = liability feature</li>
+                      <li>Cumulative dividend with no unconditional right to defer = liability feature</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <!-- Equity terms -->
+                <div class="study-card card-green">
+                  <div class="card-icon">
+                    <svg class="svg-icon green-svg" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polyline points="9 11 12 14 22 4"/></svg>
+                  </div>
+                  <div class="card-body">
+                    <div class="card-title">Equity Features:</div>
+                    <ul class="card-list">
+                      <li>Redeemable at issuer’s option = equity until issuer exercises option</li>
+                      <li>Dividend discretionary = equity feature</li>
+                      <li>Dividend payable only if declared = equity feature</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Crucial realities (Orange) -->
+              <div class="study-card card-orange">
+                <div class="card-icon">
+                  <svg class="svg-icon orange-svg" viewBox="0 0 24 24"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A5 5 0 0 0 8 8c0 1 .3 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><line x1="9" y1="18" x2="15" y2="18"/><line x1="10" y1="22" x2="14" y2="22"/></svg>
+                </div>
+                <div class="card-body">
+                  <div class="card-title">Important accounting notes:</div>
+                  <div class="reason-text">
+                    • Inability to pay due to lack of funds/profits/legal restrictions does not remove contractual obligation.<br>
+                    • Past history/intention/market expectation of dividend does not create liability if payment remains discretionary.
+                  </div>
+                </div>
+              </div>
+
+              <!-- Interactive Preference Share Classifier -->
+              <div class="wizard-container">
+                <h3 class="wizard-title">Interactive Preference Share Classifier</h3>
+                <div class="wizard-form">
+                  <div class="wizard-select-group">
+                    <label for="select-redemption">Redemption Terms:</label>
+                    <select id="select-redemption" class="wizard-select" onchange="runClassifier()">
+                      <option value="fixed-date">Redeemable at a fixed date</option>
+                      <option value="holder-option">Redeemable at the holder's option</option>
+                      <option value="issuer-option">Redeemable only at the issuer's option</option>
+                      <option value="irredeemable">Irredeemable</option>
+                    </select>
+                  </div>
+                  
+                  <div class="wizard-select-group">
+                    <label for="select-dividend">Dividend Terms:</label>
+                    <select id="select-dividend" class="wizard-select" onchange="runClassifier()">
+                      <option value="mandatory">Mandatory / Fixed Rate</option>
+                      <option value="cumulative">Cumulative (No right to defer)</option>
+                      <option value="discretionary">Discretionary (Board can choose not to pay)</option>
+                    </select>
+                  </div>
+                </div>
+
+                <div class="wizard-result" id="classifier-result-box">
+                  <div class="result-badge" id="classifier-badge">Liability</div>
+                  <div class="result-desc" id="classifier-desc">Detailed explanation...</div>
+                </div>
+              </div>
+            </section>
+
+            <!-- Section 7 -->
+            <section class="study-section" id="sec-7" data-title="7. Own Equity Settlement">
+              <div class="section-metadata">
+                <span class="sec-num">7. Settlement Rules</span>
+              </div>
+              <h2 class="sec-title">7. Own Equity Settlement</h2>
+
+              <!-- Rule card (Blue) -->
+              <div class="study-card card-blue">
+                <div class="quote-box">“</div>
+                <div class="card-body">
+                  <div class="card-title">The rule:</div>
+                  <div class="quote-text">"Fixed amount of cash for fixed number of own shares = equity."</div>
+                </div>
+              </div>
+
+              <!-- Memory version (Orange) -->
+              <div class="study-card card-orange">
+                <div class="card-icon">
+                  <svg class="svg-icon orange-svg" viewBox="0 0 24 24"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A5 5 0 0 0 8 8c0 1 .3 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><line x1="9" y1="18" x2="15" y2="18"/><line x1="10" y1="22" x2="14" y2="22"/></svg>
+                </div>
+                <div class="card-body">
+                  <div class="card-title">Memory version:</div>
+                  <div class="reason-text">
+                    • Fixed number of shares = owner risk = equity<br>
+                    • Variable number of shares worth fixed money = liability<br>
+                    • Failed fixed-for-fixed = financial asset/liability
+                  </div>
+                </div>
+              </div>
+
+              <!-- Examples -->
+              <p class="text-p"><strong>Practical Scenarios:</strong></p>
+              <div class="table-container">
+                <table class="matrix-table">
+                  <thead>
+                    <tr>
+                      <th>Scenario Contract</th>
+                      <th>Settlement Type</th>
+                      <th>Ind AS Classification</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>Each CCPS converts into 1 equity share</td>
+                      <td>Fixed for fixed</td>
+                      <td><strong>Equity</strong></td>
+                    </tr>
+                    <tr>
+                      <td>Warrant to buy 1,000 shares at Rs. 100 each</td>
+                      <td>Fixed cash for fixed shares</td>
+                      <td><strong>Equity</strong></td>
+                    </tr>
+                    <tr>
+                      <td>Issue shares worth Rs. 10 lakh, number decided using future market price</td>
+                      <td>Variable shares worth fixed cash</td>
+                      <td><strong>Financial Liability</strong></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </section>
+
+            <!-- Section 8 -->
+            <section class="study-section" id="sec-8" data-title="8. Compound Instruments">
+              <div class="section-metadata">
+                <span class="sec-num">8. Split Accounting</span>
+              </div>
+              <h2 class="sec-title">8. Compound Financial Instrument</h2>
+
+              <!-- Details (Blue) -->
+              <div class="study-card card-blue">
+                <div class="quote-box">“</div>
+                <div class="card-body">
+                  <div class="card-title">Description:</div>
+                  <div class="quote-text">Some instruments have both liability component and equity component. Detailed accounting comes in Unit 3; for Unit 1, just identify that mixed instruments may be compound.</div>
+                </div>
+              </div>
+
+              <!-- Examples (Green) -->
+              <div class="study-card card-green">
+                <div class="card-icon">
+                  <svg class="svg-icon green-svg" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polyline points="9 11 12 14 22 4"/></svg>
+                </div>
+                <div class="card-body">
+                  <div class="card-title">Examples of compound instruments:</div>
+                  <ul class="card-list">
+                    <li>convertible bond</li>
+                    <li>instrument with mandatory cash obligation plus equity conversion feature</li>
+                    <li>certain preference shares with mixed features</li>
+                  </ul>
+                </div>
+              </div>
+            </section>
+
+            <!-- Section 9 -->
+            <section class="study-section" id="sec-9" data-title="9. Comparison Summary">
+              <div class="section-metadata">
+                <span class="sec-num">9. Comparison Matrix</span>
+              </div>
+              <h2 class="sec-title">9. Comparison</h2>
+
+              <div class="table-container">
+                <table class="matrix-table">
+                  <thead>
+                    <tr>
+                      <th>Area</th>
+                      <th>Financial Asset</th>
+                      <th>Financial Liability</th>
+                      <th>Equity</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td><strong>Cash</strong></td>
+                      <td>Yes</td>
+                      <td>No</td>
+                      <td>No</td>
+                    </tr>
+                    <tr>
+                      <td><strong>Equity of another entity</strong></td>
+                      <td>Yes</td>
+                      <td>No</td>
+                      <td>No</td>
+                    </tr>
+                    <tr>
+                      <td><strong>Cash right/obligation</strong></td>
+                      <td>Right to receive cash</td>
+                      <td>Obligation to pay cash</td>
+                      <td>No cash obligation</td>
+                    </tr>
+                    <tr>
+                      <td><strong>Exchange condition</strong></td>
+                      <td>Favourable</td>
+                      <td>Unfavourable</td>
+                      <td>No such obligation</td>
+                    </tr>
+                    <tr>
+                      <td><strong>Own shares</strong></td>
+                      <td>Certain rights</td>
+                      <td>Variable shares / failed fixed-for-fixed</td>
+                      <td>Fixed-for-fixed</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </section>
+
+            <!-- Section 10 -->
+            <section class="study-section" id="sec-10" data-title="10. Scope Exclusions">
+              <div class="section-metadata">
+                <span class="sec-num">10. Scope & Exceptions</span>
+              </div>
+              <h2 class="sec-title">10. Scope Exclusions</h2>
+
+              <p class="text-p">Generally, items governed by other specific Ind AS standards are excluded from the scope of Ind AS 109. Use the tabs below to check exclusions:</p>
+
+              <!-- Interactive Scope Matrix -->
+              <div class="scope-controls">
+                <button class="scope-tab active" onclick="filterScope('all')">All Items</button>
+                <button class="scope-tab" onclick="filterScope('outside')">Fully Excluded</button>
+                <button class="scope-tab" onclick="filterScope('partial')">Partial / Exceptions</button>
+              </div>
+
+              <div class="scope-grid" id="scope-grid-root">
+                <!-- Dynamic cards populated by JS -->
+              </div>
+            </section>
+
+            <!-- Section 11 -->
+            <section class="study-section" id="sec-11" data-title="11. Revenue Distinction">
+              <div class="section-metadata">
+                <span class="sec-num">11. Revenue Standards</span>
+              </div>
+              <h2 class="sec-title">11. Revenue Contract Distinction</h2>
+
+              <div class="table-container">
+                <table class="matrix-table">
+                  <thead>
+                    <tr>
+                      <th>Item Contract</th>
+                      <th>Governing Standard</th>
+                      <th>Key Accounting Rule</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>Contract asset</td>
+                      <td>Ind AS 115</td>
+                      <td>Conditional right to consideration (not yet a pure financial asset under Ind AS 109).</td>
+                    </tr>
+                    <tr>
+                      <td>Advance from customer / contract liability</td>
+                      <td>Ind AS 115</td>
+                      <td>Obligation to deliver goods/services (not cash). Excluded from financial liability.</td>
+                    </tr>
+                    <tr>
+                      <td>Trade receivable after unconditional right to consideration</td>
+                      <td>Ind AS 109</td>
+                      <td>Pure financial asset. Governed fully under Ind AS 109.</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </section>
+
+            <!-- Section 12 -->
+            <section class="study-section" id="sec-12" data-title="12. Own-Use Exemption">
+              <div class="section-metadata">
+                <span class="sec-num">12. Commodity Scope</span>
+              </div>
+              <h2 class="sec-title">12. Own-Use Exemption</h2>
+
+              <!-- Exclusion rules (Blue) -->
+              <div class="study-card card-blue">
+                <div class="quote-box">“</div>
+                <div class="card-body">
+                  <div class="card-title">Own-use physical delivery rules:</div>
+                  <div class="quote-text">Contracts to buy/sell non-financial items are outside Ind AS 109 if: entered into for expected purchase/sale/usage, continue to be held for that purpose, physical delivery happens, and not net settled.</div>
+                </div>
+              </div>
+
+              <!-- Interactive check -->
+              <div class="checklist-container">
+                <h3 class="checklist-title">Exemption Flow Verification</h3>
+                <div style="margin-bottom: 12px; font-size: 0.8rem; color: var(--text-light);">
+                  Evaluate your contract criteria:
+                </div>
+                
+                <div class="checklist-item">
+                  <input type="checkbox" id="chk-ownuse-1" onchange="runOwnUseCheck()">
+                  <div class="checklist-item-text">
+                    Entered into and continues to be held for expected physical purchase/usage.
+                  </div>
+                </div>
+
+                <div class="checklist-item">
+                  <input type="checkbox" id="chk-ownuse-2" onchange="runOwnUseCheck()">
+                  <div class="checklist-item-text">
+                    No historic practice of net settling similar contracts.
+                  </div>
+                </div>
+
+                <div class="checklist-item">
+                  <input type="checkbox" id="chk-ownuse-3" onchange="runOwnUseCheck()">
+                  <div class="checklist-item-text">
+                    The contract is not readily convertible to cash or net cash settled.
+                  </div>
+                </div>
+
+                <div class="checklist-verdict" id="ownuse-verdict-box">
+                  Verdict: <span>Loading...</span>
+                </div>
+              </div>
+
+              <!-- Memory card (Orange) -->
+              <div class="study-card card-orange">
+                <div class="card-icon">
+                  <svg class="svg-icon orange-svg" viewBox="0 0 24 24"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A5 5 0 0 0 8 8c0 1 .3 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><line x1="9" y1="18" x2="15" y2="18"/><line x1="10" y1="22" x2="14" y2="22"/></svg>
+                </div>
+                <div class="card-body">
+                  <div class="card-title">Memory version:</div>
+                  <div class="reason-text">
+                    • Own-use physical delivery = outside.<br>
+                    • Net settlement/trading behaviour = Ind AS 109.
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <!-- Quiz Section -->
+            <section class="study-section" id="sec-quiz" data-title="Oral Quiz">
+              <div class="section-metadata">
+                <span class="sec-num">Quiz Review</span>
+              </div>
+              <h2 class="sec-title">Final Unit 1 Oral Quiz</h2>
+
+              <div class="quiz-options-bar">
+                <button class="action-btn" id="btn-quiz-mode" onclick="toggleQuizMode()">
+                  📝 Switch to Mock Test Mode
+                </button>
+                <button class="action-btn" id="btn-quiz-clear" onclick="clearQuizState()" style="display:none;">
+                  🔄 Clear Answers
+                </button>
+              </div>
+
+              <div class="quiz-viewport" id="quiz-root">
+                <!-- Loaded dynamically -->
+              </div>
+
+              <div class="quiz-grading-bar" id="quiz-actions" style="display: none;">
+                <button class="action-btn" style="background: var(--green-bg); border-color: var(--green-border); color: var(--green-text); font-weight: 700;" onclick="gradeMockQuiz()">
+                  Grade My Answers
+                </button>
+              </div>
+            </section>
+
+          </div>
+        </article>
+      </div>
+
+    </main>
+
+  </div>
+
+  <script>
+    // ── DATA SOURCES ─────────────────────────────────────────
+
+    const sections = [
+      { id: 'sec-1', title: '1. Financial Instrument' },
+      { id: 'sec-2', title: '2. Financial Asset' },
+      { id: 'sec-3', title: '3. Financial Liability' },
+      { id: 'sec-4', title: '4. Financial Guarantee' },
+      { id: 'sec-5', title: '5. Equity Instrument' },
+      { id: 'sec-6', title: '6. Preference Shares' },
+      { id: 'sec-7', title: '7. Own Equity Settlement' },
+      { id: 'sec-8', title: '8. Compound Instruments' },
+      { id: 'sec-9', title: '9. Comparison Summary' },
+      { id: 'sec-10', title: '10. Scope Exclusions' },
+      { id: 'sec-11', title: '11. Revenue Distinction' },
+      { id: 'sec-12', title: '12. Own-Use Exemption' },
+      { id: 'sec-quiz', title: 'Oral Quiz' }
+    ];
+
+    const scopeData = [
+      {
+        item: "Subsidiary, associate, or joint venture interests",
+        std: "Ind AS 110 / 27 / 28",
+        status: "partial",
+        desc: "Generally outside. However, derivatives on these interests are under Ind AS 109 unless they meet the definition of equity. Financial guarantee contracts issued on these also fall under Ind AS 109."
+      },
+      {
+        item: "Leases (Lessor / Lessee rights & obligations)",
+        std: "Ind AS 116",
+        status: "partial",
+        desc: "Lessor lease receivables are subject to Ind AS 109 impairment/derecognition rules. Lessee lease liabilities are subject to Ind AS 109 derecognition rules. Embedded derivatives in leases may require separation under Ind AS 109."
+      },
+      {
+        item: "Employee benefit plans (obligations & assets)",
+        std: "Ind AS 19",
+        status: "outside",
+        desc: "Fully excluded. Subject to valuation and rules under Ind AS 19."
+      },
+      {
+        item: "Insurance contracts (rights & obligations)",
+        std: "Ind AS 104",
+        status: "partial",
+        desc: "Generally excluded. However, embedded derivatives in insurance contracts and financial guarantees issued fall under Ind AS 109."
+      },
+      {
+        item: "Forward contracts in business combinations",
+        std: "Ind AS 103",
+        status: "outside",
+        desc: "Fully excluded if they are forward contracts that will result in a business combination at a future acquisition date."
+      },
+      {
+        item: "Normal loan commitments",
+        std: "partial",
+        status: "partial",
+        desc: "Usually outside, EXCEPT if designated as FVTPL, if they can be net settled in cash/financial instruments, or if they commit to provide a loan at below-market interest rates."
+      },
+      {
+        item: "Share-based payments (ESOPs)",
+        std: "Ind AS 102",
+        status: "outside",
+        desc: "Fully excluded. Governed by Ind AS 102."
+      },
+      {
+        item: "Reimbursement rights for provisions",
+        std: "Ind AS 37",
+        status: "outside",
+        desc: "Fully excluded. Reimbursements are recognized in accordance with Ind AS 37."
+      },
+      {
+        item: "Revenue contract assets and liabilities",
+        std: "Ind AS 115",
+        status: "partial",
+        desc: "Excluded from measurement, but trade receivables (upon becoming unconditional) and impairment of contract assets are governed under Ind AS 109 rules."
+      }
+    ];
+
+    const quizQuestions = [
+      {
+        id: 1,
+        question: "Income tax payable: financial liability or not?",
+        answer: "Not a financial liability. It is a statutory obligation, not a contractual one.",
+        keywords: ["not", "statutory", "contractual"]
+      },
+      {
+        id: 2,
+        question: "Trade receivable: why is it classified as a financial asset?",
+        answer: "It represents a contractual right to receive cash from another entity.",
+        keywords: ["contractual right", "receive cash"]
+      },
+      {
+        id: 3,
+        question: "Advance for goods: why is it NOT a financial asset?",
+        answer: "There is no contractual right to receive cash; it will be settled by the delivery of goods or services.",
+        keywords: ["no contractual right", "goods", "services"]
+      },
+      {
+        id: 4,
+        question: "Deposit received that is refundable in cash: classification?",
+        answer: "Financial liability (present contractual obligation to pay cash in the future).",
+        keywords: ["financial liability", "obligation to pay", "cash"]
+      },
+      {
+        id: 5,
+        question: "Financial guarantee given: why is it a financial liability even if contingent?",
+        answer: "The guarantor has a contractual obligation to pay cash if the primary debtor defaults.",
+        keywords: ["contractual obligation", "defaults", "pay cash"]
+      },
+      {
+        id: 6,
+        question: "Preference shares redeemable strictly at the issuer's option: liability or equity?",
+        answer: "Equity (the issuer can avoid the delivery of cash until they exercise the option).",
+        keywords: ["equity", "avoid", "option"]
+      },
+      {
+        id: 7,
+        question: "Preference shares redeemable at the holder's option: liability or equity?",
+        answer: "Financial liability (the issuer has no unconditional right to avoid delivering cash if the holder exercises the option).",
+        keywords: ["financial liability", "no unconditional right", "avoid"]
+      },
+      {
+        id: 8,
+        question: "CCPS converting into a fixed number of shares: liability or equity?",
+        answer: "Equity (satisfies the fixed-for-fixed test; there is no obligation to deliver cash).",
+        keywords: ["equity", "fixed-for-fixed", "no obligation"]
+      },
+      {
+        id: 9,
+        question: "Shares worth a fixed Rs. 10 lakh (number of shares variable): liability or equity?",
+        answer: "Financial liability (fails fixed-for-fixed; own equity shares are being used as currency to settle a fixed liability).",
+        keywords: ["financial liability", "fails", "fixed-for-fixed", "currency"]
+      },
+      {
+        id: 10,
+        question: "Lease receivable impairment: Ind AS 109 or outside?",
+        answer: "Ind AS 109 (impairment and derecognition of lease receivables are within the scope of Ind AS 109).",
+        keywords: ["ind as 109", "impairment", "within"]
+      },
+      {
+        id: 11,
+        question: "ESOP to employees: Ind AS 109 or outside?",
+        answer: "Outside Ind AS 109 (fully governed by Ind AS 102 Share-based Payments).",
+        keywords: ["outside", "ind as 102"]
+      },
+      {
+        id: 12,
+        question: "Own-use steel purchase with physical delivery: Ind AS 109 or outside?",
+        answer: "Outside Ind AS 109 (qualifies for the own-use exemption).",
+        keywords: ["outside", "own-use"]
+      }
+    ];
+
+    // ── STATE MANAGEMENT ─────────────────────────────────────
+    let studyProgress = {};
+    let activeRecallEnabled = false;
+    let quizMode = 'reveal'; // 'reveal' or 'test'
+    let currentSearchQuery = "";
+
+    function loadState() {
+      const storedProgress = localStorage.getItem('indas109_progress_v2');
+      if (storedProgress) {
+        studyProgress = JSON.parse(storedProgress);
+      } else {
+        sections.forEach(s => studyProgress[s.id] = false);
+      }
+      
+      const storedMode = localStorage.getItem('indas109_recall_mode_v2');
+      if (storedMode === 'true') {
+        activeRecallEnabled = true;
+        document.body.classList.add('active-recall');
+        const btn = document.getElementById('btn-toggle-mode');
+        btn.classList.add('active-recall-enabled');
+        btn.innerHTML = "🧠 Active Recall Mode";
+      }
+    }
+
+    function saveProgress() {
+      localStorage.setItem('indas109_progress_v2', JSON.stringify(studyProgress));
+      updateProgressUI();
+    }
+
+    // ── INITIALIZATION ───────────────────────────────────────
+    window.addEventListener('DOMContentLoaded', () => {
+      loadState();
+      buildTOC();
+      filterScope('all');
+      runClassifier();
+      runOwnUseCheck();
+      buildQuiz();
+      updateProgressUI();
+
+      // Highlight active section on scroll
+      window.addEventListener('scroll', throttle(handleScrollSpy, 150));
+    });
+
+    // ── SIDEBAR & NAVIGATION ─────────────────────────────────
+    function toggleSidebar() {
+      const sidebar = document.getElementById('app-sidebar');
+      sidebar.classList.toggle('open');
+    }
+
+    function buildTOC() {
+      const container = document.getElementById('toc-nav-list');
+      container.innerHTML = "";
+      
+      sections.forEach(sec => {
+        const li = document.createElement('li');
+        const isChecked = studyProgress[sec.id] || false;
+        
+        li.innerHTML = `
+          <div class="nav-item-link" id="nav-link-${sec.id}">
+            <div class="nav-checkbox ${isChecked ? 'checked' : ''}" onclick="toggleProgressStep(event, '${sec.id}')"></div>
+            <span onclick="scrollToSection('${sec.id}')">${sec.title}</span>
+          </div>
+        `;
+        container.appendChild(li);
+      });
+    }
+
+    function toggleProgressStep(event, sectionId) {
+      event.stopPropagation();
+      studyProgress[sectionId] = !studyProgress[sectionId];
+      
+      // Update check box UI
+      const checkBoxes = document.querySelectorAll(`#nav-link-${sectionId} .nav-checkbox`);
+      checkBoxes.forEach(box => {
+        box.classList.toggle('checked', studyProgress[sectionId]);
+      });
+
+      saveProgress();
+    }
+
+    function scrollToSection(id) {
+      const el = document.getElementById(id);
+      if (el) {
+        const offset = 80;
+        const bodyRect = document.body.getBoundingClientRect().top;
+        const elementRect = el.getBoundingClientRect().top;
+        const elementPosition = elementRect - bodyRect;
+        const offsetPosition = elementPosition - offset;
+
+        window.scrollTo({
+          top: offsetPosition,
+          behavior: 'smooth'
+        });
+
+        // Close sidebar on mobile
+        document.getElementById('app-sidebar').classList.remove('open');
+      }
+    }
+
+    function updateProgressUI() {
+      const total = sections.length;
+      const completed = Object.values(studyProgress).filter(Boolean).length;
+      const pct = total > 0 ? Math.round((completed / total) * 100) : 0;
+      
+      document.getElementById('txt-progress-pct').innerText = `${pct}%`;
+      document.getElementById('pb-progress-fill').style.width = `${pct}%`;
+    }
+
+    // Scroll Spy: Highlight nav item based on viewport scroll position
+    function handleScrollSpy() {
+      const scrollPos = window.scrollY || document.documentElement.scrollTop;
+      let activeSectionId = sections[0].id;
+
+      for (let i = 0; i < sections.length; i++) {
+        const sectionEl = document.getElementById(sections[i].id);
+        if (sectionEl) {
+          const top = sectionEl.offsetTop - 120;
+          if (scrollPos >= top) {
+            activeSectionId = sections[i].id;
+          }
+        }
+      }
+
+      sections.forEach(s => {
+        const navLink = document.getElementById(`nav-link-${s.id}`);
+        if (navLink) {
+          navLink.classList.toggle('active', s.id === activeSectionId);
+        }
+      });
+    }
+
+    function throttle(fn, wait) {
+      let time = Date.now();
+      return function() {
+        if ((time + wait - Date.now()) < 0) {
+          fn();
+          time = Date.now();
+        }
+      }
+    }
+
+    // ── READING MODES ────────────────────────────────────────
+    function toggleRecallMode() {
+      activeRecallEnabled = !activeRecallEnabled;
+      localStorage.setItem('indas109_recall_mode_v2', activeRecallEnabled);
+
+      const btn = document.getElementById('btn-toggle-mode');
+      if (activeRecallEnabled) {
+        document.body.classList.add('active-recall');
+        btn.classList.add('active-recall-enabled');
+        btn.innerHTML = "🧠 Active Recall Mode";
+        // Reset all recall clicks
+        document.querySelectorAll('.recall-blank').forEach(blank => {
+          blank.classList.remove('revealed');
+        });
+      } else {
+        document.body.classList.remove('active-recall');
+        btn.classList.remove('active-recall-enabled');
+        btn.innerHTML = "📖 Deep Study Mode";
+      }
+    }
+
+    // Interactive recall handler
+    document.addEventListener('click', (e) => {
+      if (e.target.classList.contains('recall-blank')) {
+        e.target.classList.toggle('revealed');
+      }
+    });
+
+    // ── SCOPE INTERACTIVE MATRIX ─────────────────────────────
+    function filterScope(type) {
+      // Update Tab UI
+      const tabs = document.querySelectorAll('.scope-tab');
+      tabs.forEach(tab => {
+        const tabText = tab.innerText.toLowerCase();
+        if (type === 'all' && tabText.includes('all')) tab.classList.add('active');
+        else if (type === 'outside' && tabText.includes('fully')) tab.classList.add('active');
+        else if (type === 'partial' && tabText.includes('partial')) tab.classList.add('active');
+        else tab.classList.remove('active');
+      });
+
+      const container = document.getElementById('scope-grid-root');
+      container.innerHTML = "";
+
+      const filtered = scopeData.filter(item => {
+        if (type === 'all') return true;
+        return item.status === type;
+      });
+
+      filtered.forEach(item => {
+        const card = document.createElement('div');
+        card.className = "scope-card";
+        
+        let badgeText = item.status === 'outside' ? 'Fully Excluded' : 'Partial / Exceptions';
+        let badgeClass = item.status === 'outside' ? 'outside' : 'partial';
+        if (item.status === 'inside') {
+          badgeText = 'Inside Scope';
+          badgeClass = 'inside';
+        }
+
+        card.innerHTML = `
+          <div class="scope-card-left">
+            <div class="scope-card-title">${item.item}</div>
+            <div class="scope-card-meta">Governing Standard: ${item.std}</div>
+            <div class="scope-exception-box">${item.desc}</div>
+          </div>
+          <div class="scope-badge ${badgeClass}">${badgeText}</div>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    // ── PREFERENCE SHARES CLASSIFIER WIZARD ─────────────────
+    function runClassifier() {
+      const redemption = document.getElementById('select-redemption').value;
+      const dividend = document.getElementById('select-dividend').value;
+      
+      const badge = document.getElementById('classifier-badge');
+      const desc = document.getElementById('classifier-desc');
+      const resultBox = document.getElementById('classifier-result-box');
+
+      resultBox.classList.add('active');
+
+      if (redemption === 'fixed-date' || redemption === 'holder-option') {
+        badge.innerText = "Financial Liability";
+        badge.className = "result-badge liability";
+        desc.innerHTML = `Because the issuer cannot avoid paying cash at redemption maturity or holder demand, this is a <strong>Financial Liability</strong>.<br><br>The dividend terms (${dividend}) do not alter the main redemption classification because the principal payment is a contractual obligation.`;
+      } 
+      else if (redemption === 'issuer-option' || redemption === 'irredeemable') {
+        if (dividend === 'discretionary') {
+          badge.innerText = "Equity";
+          badge.className = "result-badge equity";
+          desc.innerHTML = `The issuer has an <strong>unconditional right to avoid delivering cash</strong> because redemption is discretionary or irredeemable, and dividends are discretionary. Classify as <strong>Equity</strong>.`;
+        } else if (dividend === 'mandatory') {
+          badge.innerText = "Compound Instrument";
+          badge.className = "result-badge compound";
+          desc.innerHTML = `The principal redemption is discretionary (equity feature) but the dividend payments are contractually mandatory (liability feature). Split account as a <strong>Compound Instrument</strong>.`;
+        } else if (dividend === 'cumulative') {
+          badge.innerText = "Compound / Liability";
+          badge.className = "result-badge compound";
+          desc.innerHTML = `Cumulative dividends with no unconditional right to defer create a contractual liability. The accumulative dividend component represents a <strong>Financial Liability</strong> component.`;
+        }
+      }
+    }
+
+    // ── OWN USE DECISION TREE ────────────────────────────────
+    function runOwnUseCheck() {
+      const q1 = document.getElementById('chk-ownuse-1').checked;
+      const q2 = document.getElementById('chk-ownuse-2').checked;
+      const q3 = document.getElementById('chk-ownuse-3').checked;
+      
+      const verdict = document.getElementById('ownuse-verdict-box');
+
+      if (q1 && q2 && q3) {
+        verdict.innerHTML = `Verdict: <span class="verdict-outside">OUTSIDE Ind AS 109 (Own-Use Exemption applies)</span>`;
+      } else {
+        verdict.innerHTML = `Verdict: <span class="verdict-inside">INSIDE Ind AS 109 (Fully governed as derivative)</span>`;
+      }
+    }
+
+    // ── FINAL ORAL QUIZ LOGIC ────────────────────────────────
+    function buildQuiz() {
+      const root = document.getElementById('quiz-root');
+      root.innerHTML = "";
+
+      quizQuestions.forEach((q, idx) => {
+        const card = document.createElement('div');
+        card.className = "quiz-card";
+        card.id = `quiz-card-${q.id}`;
+        
+        card.innerHTML = `
+          <div class="quiz-header">
+            <span>QUESTION ${idx + 1} OF ${quizQuestions.length}</span>
+            <span id="quiz-status-${q.id}" style="font-weight:700;"></span>
+          </div>
+          <div class="quiz-question">${q.question}</div>
+          
+          <!-- Reveal Mode -->
+          <div class="quiz-reveal-section" id="reveal-sec-${q.id}">
+            <button class="btn-reveal-answer" onclick="revealQuizAnswer(${q.id})">Reveal Answer</button>
+            <div class="quiz-answer-text" id="answer-${q.id}">${q.answer}</div>
+          </div>
+
+          <!-- Test Mode Inputs -->
+          <div class="quiz-input-section" id="input-sec-${q.id}">
+            <textarea class="quiz-input" id="input-q-${q.id}" placeholder="Type your answer..." oninput="saveQuizInput(${q.id}, this.value)"></textarea>
+            <div class="quiz-evaluation" id="eval-q-${q.id}">
+              <div class="eval-verdict" id="eval-verdict-${q.id}">Correct</div>
+              <div class="eval-explanation"><strong>Official Answer:</strong> <span class="quiz-answer-text visible" style="border:none; padding:0; background:transparent;">${q.answer}</span></div>
+            </div>
+          </div>
+        `;
+        root.appendChild(card);
+      });
+
+      // Reload saved inputs
+      quizQuestions.forEach(q => {
+        const val = localStorage.getItem(`quiz_input_v2_${q.id}`);
+        if (val) {
+          const textarea = document.getElementById(`input-q-${q.id}`);
+          if (textarea) textarea.value = val;
+        }
+      });
+    }
+
+    function toggleQuizMode() {
+      const btn = document.getElementById('btn-quiz-mode');
+      const actions = document.getElementById('quiz-actions');
+      const clearBtn = document.getElementById('btn-quiz-clear');
+
+      if (quizMode === 'reveal') {
+        quizMode = 'test';
+        btn.innerText = "👀 Switch to Reveal Mode";
+        actions.style.display = "flex";
+        clearBtn.style.display = "inline-block";
+
+        quizQuestions.forEach(q => {
+          document.getElementById(`reveal-sec-${q.id}`).style.display = "none";
+          document.getElementById(`input-sec-${q.id}`).style.display = "flex";
+        });
+      } else {
+        quizMode = 'reveal';
+        btn.innerText = "📝 Switch to Mock Test Mode";
+        actions.style.display = "none";
+        clearBtn.style.display = "none";
+
+        quizQuestions.forEach(q => {
+          document.getElementById(`reveal-sec-${q.id}`).style.display = "block";
+          document.getElementById(`input-sec-${q.id}`).style.display = "none";
+          const evalBox = document.getElementById(`eval-q-${q.id}`);
+          evalBox.className = "quiz-evaluation";
+          evalBox.style.display = "none";
+          document.getElementById(`quiz-status-${q.id}`).innerText = "";
+        });
+      }
+    }
+
+    function revealQuizAnswer(id) {
+      const el = document.getElementById(`answer-${id}`);
+      el.classList.toggle('visible');
+    }
+
+    function saveQuizInput(id, value) {
+      localStorage.setItem(`quiz_input_v2_${id}`, value);
+    }
+
+    function clearQuizState() {
+      if (confirm("Clear all your mock test answers?")) {
+        quizQuestions.forEach(q => {
+          localStorage.removeItem(`quiz_input_v2_${q.id}`);
+          const textarea = document.getElementById(`input-q-${q.id}`);
+          if (textarea) textarea.value = "";
+          
+          const evalBox = document.getElementById(`eval-q-${q.id}`);
+          evalBox.className = "quiz-evaluation";
+          evalBox.style.display = "none";
+
+          document.getElementById(`quiz-status-${q.id}`).innerText = "";
+        });
+      }
+    }
+
+    function gradeMockQuiz() {
+      let score = 0;
+      
+      quizQuestions.forEach(q => {
+        const userVal = (localStorage.getItem(`quiz_input_v2_${q.id}`) || "").trim().toLowerCase();
+        const evalBox = document.getElementById(`eval-q-${q.id}`);
+        const statusSpan = document.getElementById(`quiz-status-${q.id}`);
+        const verdictTitle = document.getElementById(`eval-verdict-${q.id}`);
+
+        evalBox.style.display = "block";
+
+        if (userVal.length === 0) {
+          evalBox.className = "quiz-evaluation incorrect";
+          verdictTitle.innerText = "No Answer Provided";
+          statusSpan.innerText = "❌ UNANSWERED";
+          statusSpan.style.color = "var(--red-text)";
+          return;
+        }
+
+        const matches = q.keywords.filter(keyword => userVal.includes(keyword.toLowerCase()));
+        const isCorrect = matches.length >= Math.ceil(q.keywords.length * 0.5);
+
+        if (isCorrect) {
+          score++;
+          evalBox.className = "quiz-evaluation correct";
+          verdictTitle.innerText = "Correct matching principles found";
+          statusSpan.innerText = "✓ CORRECT";
+          statusSpan.style.color = "var(--green-text)";
+        } else {
+          evalBox.className = "quiz-evaluation incorrect";
+          verdictTitle.innerText = "Check official rationale";
+          statusSpan.innerText = "❌ EXAMINE";
+          statusSpan.style.color = "var(--red-text)";
+        }
+      });
+
+      alert(`Mock Exam Graded! You matched key concepts in ${score} out of ${quizQuestions.length} questions.`);
+    }
+
+    // ── SEARCH SYSTEM ────────────────────────────────────────
+    function handleSearch(query) {
+      currentSearchQuery = query.trim().toLowerCase();
+      
+      const contentRoot = document.getElementById('notebook-root');
+      cleanSearchMarks(contentRoot);
+
+      if (currentSearchQuery.length < 2) return;
+
+      highlightTextNodes(contentRoot, currentSearchQuery);
+    }
+
+    function cleanSearchMarks(node) {
+      if (node.nodeType === Node.TEXT_NODE) {
+        return;
+      }
+      
+      if (node.tagName === 'MARK') {
+        const parent = node.parentNode;
+        parent.replaceChild(document.createTextNode(node.textContent), node);
+        parent.normalize();
+        return;
+      }
+
+      for (let i = node.childNodes.length - 1; i >= 0; i--) {
+        cleanSearchMarks(node.childNodes[i]);
+      }
+    }
+
+    function highlightTextNodes(node, query) {
+      if (node.nodeType === Node.ELEMENT_NODE && 
+         (node.classList.contains('wizard-container') || 
+          node.classList.contains('checklist-container') ||
+          node.classList.contains('quiz-options-bar') ||
+          node.classList.contains('quiz-grading-bar') ||
+          node.tagName === 'TEXTAREA' ||
+          node.tagName === 'SELECT')) {
+        return;
+      }
+
+      if (node.nodeType === Node.TEXT_NODE) {
+        const text = node.textContent;
+        const idx = text.toLowerCase().indexOf(query);
+        
+        if (idx >= 0) {
+          const mark = document.createElement('mark');
+          const matchedText = text.substring(idx, idx + query.length);
+          mark.appendChild(document.createTextNode(matchedText));
+
+          const afterText = text.substring(idx + query.length);
+          const beforeText = text.substring(0, idx);
+
+          const parent = node.parentNode;
+          
+          if (beforeText) {
+            parent.insertBefore(document.createTextNode(beforeText), node);
+          }
+          parent.insertBefore(mark, node);
+          node.textContent = afterText;
+
+          highlightTextNodes(node, query);
+        }
+      } else {
+        for (let i = 0; i < node.childNodes.length; i++) {
+          highlightTextNodes(node.childNodes[i], query);
+        }
+      }
+    }
+  </script>
+</body>
+</html>

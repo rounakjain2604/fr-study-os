@@ -1,0 +1,25 @@
+# Dependencies & builds
+node_modules/
+dist/
+dist-ssr/
+
+# Secrets — never commit API keys
+.env
+.env.*
+!.env.example
+ai-server/.env
+
+# ICAI study material source texts (copyrighted — kept local only)
+01_FR_Financial_Reporting/
+
+# Local tool state
+.claude/settings.local.json
+*.local
+
+# OS noise
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*

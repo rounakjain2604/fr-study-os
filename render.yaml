@@ -1,0 +1,23 @@
+# One-click Render.com blueprint for the AI tutor server.
+# In Render: New + → Blueprint → point at this repo. Render reads this file,
+# creates the service, and prompts you for the API keys (never committed).
+services:
+  - type: web
+    name: fr-study-os-ai
+    runtime: node
+    rootDir: ai-server
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: HOST
+        value: 0.0.0.0
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
+      - key: MISTRAL_API_KEY
+        sync: false
+      - key: OPENROUTER_API_KEY
+        sync: false

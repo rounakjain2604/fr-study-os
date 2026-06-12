@@ -1,0 +1,8 @@
+{
+  "mode": "answer_check",
+  "question": "How are transaction costs treated for a financial asset measured at FVTPL under Ind AS 109?",
+  "modelAnswer": "Transaction costs for FVTPL assets are expensed immediately in the Statement of Profit and Loss on Day 1. They are NOT capitalised. This is because the asset is subsequently measured at fair value with all changes in P&L, so capitalising costs would be reversed immediately.",
+  "studentAnswer": "Transaction costs are added to the fair value of the asset at initial recognition.",
+  "topic": "FVTPL",
+  "difficulty": "basic"
+}

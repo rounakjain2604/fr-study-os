@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CA Final Study OS</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@500;600;700&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./src/styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand-block">
+        <div class="brand-mark">CF</div>
+        <div>
+          <div class="brand-title">CA Final OS</div>
+          <div class="brand-subtitle">May 2027 Control Room</div>
+        </div>
+      </div>
+
+      <label class="global-search">
+        <span>⌕</span>
+        <input id="globalSearch" type="search" placeholder="Search subjects, chapters, traps...">
+      </label>
+
+      <nav class="primary-nav" aria-label="Primary">
+        <button class="nav-btn active" type="button" data-view="home">Control Room</button>
+        <button class="nav-btn" type="button" data-view="library">Library</button>
+        <button class="nav-btn" type="button" data-view="workspace">Chapter Workspace</button>
+      </nav>
+
+      <section class="sidebar-card">
+        <div class="sidebar-card-title">Current Mission</div>
+        <p>Build the room once. Then study inside it.</p>
+        <div class="mini-meter"><span id="sidebarOverallMeter"></span></div>
+        <div class="sidebar-stat-row">
+          <span>Overall readiness</span>
+          <strong id="sidebarOverallPct">0%</strong>
+        </div>
+      </section>
+
+      <section class="sidebar-card compact">
+        <div class="sidebar-card-title">AI Status</div>
+        <p id="sidebarAiStatus">Ready when `ai-server` is running.</p>
+      </section>
+    </aside>
+
+    <button class="mobile-menu" type="button" id="mobileMenuBtn">Menu</button>
+
+    <main class="main">
+      <header class="topbar">
+        <div>
+          <div class="eyebrow">Personal Study Environment</div>
+          <h1 id="pageTitle">Control Room</h1>
+          <p id="pageSubtitle">A calm, source-grounded cockpit for CA Final preparation.</p>
+        </div>
+        <div class="topbar-actions">
+          <button class="ghost-btn" type="button" id="openAiBtn">Ask AI</button>
+          <button class="primary-btn" type="button" id="resumeBtn">Resume Chapter</button>
+        </div>
+      </header>
+
+      <section id="viewRoot" class="view-root"></section>
+    </main>
+  </div>
+
+  <aside class="ai-drawer" id="aiDrawer" aria-label="AI Tutor">
+    <div class="ai-drawer-header">
+      <div>
+        <div class="ai-title">Contextual AI Tutor</div>
+        <p>Answers should use the selected chapter, card, source note, and your question.</p>
+      </div>
+      <button class="icon-btn" type="button" id="closeAiBtn">Close</button>
+    </div>
+
+    <div class="ai-context" id="aiContext">
+      <div class="ai-context-title">General CA Final context</div>
+      <div class="ai-context-meta">No specific section selected</div>
+    </div>
+
+    <div class="ai-modes" id="aiModes">
+      <button class="active" type="button" data-mode="explain">Explain</button>
+      <button type="button" data-mode="socratic">Quiz me</button>
+      <button type="button" data-mode="journal">Journal logic</button>
+      <button type="button" data-mode="exam">Exam trap</button>
+      <button type="button" data-mode="answer_check">Answer check</button>
+    </div>
+
+    <div class="ai-log" id="aiLog">
+      <div class="ai-message system">Select any study block or practice card and ask. The app will send its context to the AI server.</div>
+    </div>
+
+    <form class="ai-form" id="aiForm">
+      <textarea id="aiInput" placeholder="Ask something specific. Example: Why does this fail SPPI?"></textarea>
+      <div class="ai-form-footer">
+        <span id="aiStatus">AI server: waiting</span>
+        <button class="primary-btn" type="submit" id="aiSendBtn">Ask</button>
+      </div>
+    </form>
+  </aside>
+
+  <script type="module" src="./src/app.js"></script>
+</body>
+</html>

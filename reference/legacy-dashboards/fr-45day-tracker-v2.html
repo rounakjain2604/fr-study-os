@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#FDFDFB">
+<title>FR · 45-Day Ledger</title>
+<style>
+  :root{
+    --paper:#FDFDFB;
+    --ink:#191C1A;
+    --ink-soft:#6B6F6C;
+    --ink-faint:#C2C4BF;
+    --rule:#E7E7E2;
+    --green:#15614B;
+    --green-soft:#E4EFEA;
+    --ochre:#B07D2B;
+    --today-bg:#FBF6EC;
+    --card:#F6F6F2;
+    --mono:ui-monospace,"SF Mono","Cascadia Mono","Roboto Mono",Menlo,monospace;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  }
+  [data-theme="dark"]{
+    --paper:#131513;
+    --ink:#E6E8E4;
+    --ink-soft:#9AA09B;
+    --ink-faint:#4A4F4A;
+    --rule:#272B27;
+    --green:#56B190;
+    --green-soft:#1C2B25;
+    --ochre:#C99A4B;
+    --today-bg:#221F17;
+    --card:#1A1D1A;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html{font-size:16px}
+  body{
+    background:var(--paper);color:var(--ink);font-family:var(--sans);
+    max-width:480px;margin:0 auto;
+    padding:max(20px,env(safe-area-inset-top)) 20px max(40px,env(safe-area-inset-bottom));
+    line-height:1.45;transition:background .25s,color .25s;
+  }
+  /* ---------- header ---------- */
+  header{padding:16px 0 8px}
+  .head-top{display:flex;justify-content:space-between;align-items:flex-start}
+  .eyebrow{font-family:var(--mono);font-size:.7rem;letter-spacing:.14em;color:var(--ink-soft);text-transform:uppercase}
+  h1{font-size:1.9rem;font-weight:650;letter-spacing:-.02em;margin:6px 0 2px}
+  .sub{font-size:.85rem;color:var(--ink-soft)}
+  .theme-btn{background:none;border:1px solid var(--rule);border-radius:99px;width:34px;height:34px;font-size:1rem;color:var(--ink-soft);cursor:pointer;line-height:1;flex-shrink:0}
+  /* ledger rule */
+  .ledger{margin:22px 0 0}
+  .ledger-rule{position:relative;height:4px;background:var(--rule);border-radius:2px;overflow:hidden}
+  .ledger-fill{position:absolute;inset:0 auto 0 0;width:0%;background:var(--green);border-radius:2px;transition:width .5s cubic-bezier(.4,0,.2,1)}
+  .ledger-figures{display:flex;justify-content:space-between;font-family:var(--mono);font-size:.72rem;color:var(--ink-soft);margin-top:8px}
+  .ledger-figures b{color:var(--ink);font-weight:600}
+  .variance{font-family:var(--mono);font-size:.72rem;margin-top:6px;color:var(--ink-soft)}
+  .variance b{font-weight:700}
+  .variance.ahead b{color:var(--green)}
+  .variance.behind b{color:var(--ochre)}
+  /* ---------- dot grid ---------- */
+  .grid-card{background:var(--card);border-radius:14px;padding:16px 16px 12px;margin-top:18px}
+  .grid-label{display:flex;justify-content:space-between;font-family:var(--mono);font-size:.66rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:12px}
+  .dots{display:grid;grid-template-columns:repeat(9,1fr);gap:9px}
+  .dot{aspect-ratio:1;border-radius:50%;border:none;cursor:pointer;padding:0;position:relative;background:var(--rule);transition:transform .12s}
+  .dot:active{transform:scale(.85)}
+  .dot.done{background:var(--green)}
+  .dot.partial{background:var(--green);opacity:.38}
+  .dot.missed{background:transparent;border:1.5px solid var(--ochre)}
+  .dot.future{background:var(--rule);opacity:.55}
+  .dot.today::after{content:"";position:absolute;inset:-4px;border:1.5px solid var(--green);border-radius:50%}
+  .legend{display:flex;gap:14px;flex-wrap:wrap;margin-top:12px;font-family:var(--mono);font-size:.62rem;color:var(--ink-soft)}
+  .legend span{display:flex;align-items:center;gap:5px}
+  .lg{width:8px;height:8px;border-radius:50%;display:inline-block}
+  .lg.done{background:var(--green)} .lg.partial{background:var(--green);opacity:.38}
+  .lg.missed{border:1.5px solid var(--ochre);width:6px;height:6px} .lg.future{background:var(--rule)}
+  /* stats */
+  .stats{display:flex;margin-top:18px;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+  .stat{flex:1;padding:12px 2px;text-align:center}
+  .stat + .stat{border-left:1px solid var(--rule)}
+  .stat .v{font-family:var(--mono);font-size:1.1rem;font-weight:600}
+  .stat .v.done{color:var(--green)}
+  .stat .k{font-size:.62rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft);margin-top:2px}
+  /* ---------- weeks & days ---------- */
+  .week{margin-top:30px}
+  .week-head{padding-bottom:6px}
+  .week-head-row{display:flex;justify-content:space-between;align-items:baseline}
+  .week-name{font-family:var(--mono);font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);padding-right:12px}
+  .week-count{font-family:var(--mono);font-size:.7rem;color:var(--ink-soft);white-space:nowrap}
+  .week-count.full{color:var(--green);font-weight:600}
+  .phase-bar{height:2px;background:var(--rule);border-radius:1px;margin-top:7px;overflow:hidden}
+  .phase-fill{height:100%;width:0%;background:var(--green);transition:width .4s}
+  .day{border-top:1px solid var(--rule)}
+  .week .day:last-child{border-bottom:1px solid var(--rule)}
+  .day-row{
+    display:flex;align-items:center;gap:12px;width:100%;
+    padding:13px 8px;background:none;border:none;font:inherit;color:inherit;
+    text-align:left;cursor:pointer;border-radius:8px;
+  }
+  .day.is-today .day-row{background:var(--today-bg)}
+  .day-date{font-family:var(--mono);font-size:.72rem;color:var(--ink-soft);width:58px;flex-shrink:0;line-height:1.3}
+  .day-date b{display:block;color:var(--ink);font-weight:600;font-size:.8rem}
+  .day-title{flex:1;font-size:.9rem;font-weight:480;min-width:0}
+  .day.complete .day-title{color:var(--ink-soft);text-decoration:line-through;text-decoration-color:rgba(127,130,127,.4);text-decoration-thickness:1px}
+  .day-mark{font-family:var(--mono);font-size:.68rem;color:var(--ink-soft);flex-shrink:0;min-width:48px;text-align:right}
+  .day.complete .day-mark{color:var(--green);font-weight:700}
+  .today-flag{display:inline-block;font-family:var(--mono);font-size:.6rem;letter-spacing:.1em;color:var(--green);border:1px solid var(--green);border-radius:99px;padding:1px 7px;margin-left:6px;vertical-align:1px}
+  .note-dot{display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--ochre);margin-left:6px;vertical-align:2px}
+  /* tasks panel */
+  .tasks{display:none;padding:2px 8px 16px 78px}
+  .day.open .tasks{display:block;animation:slide .18s ease-out}
+  @keyframes slide{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:none}}
+  .task{display:flex;align-items:flex-start;gap:10px;padding:7px 0;cursor:pointer;font-size:.86rem;color:var(--ink)}
+  .task input{appearance:none;-webkit-appearance:none;width:17px;height:17px;border:1.5px solid var(--ink-faint);border-radius:5px;flex-shrink:0;margin-top:1px;cursor:pointer;position:relative;background:var(--paper)}
+  .task input:checked{background:var(--green);border-color:var(--green)}
+  .task input:checked::after{content:"";position:absolute;left:4.5px;top:1.5px;width:4px;height:8px;border:solid #fff;border-width:0 2px 2px 0;transform:rotate(45deg)}
+  .task input:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+  .task input:checked + .task-body .task-text{color:var(--ink-soft);text-decoration:line-through;text-decoration-color:rgba(127,130,127,.35)}
+  .task-body{flex:1;display:flex;justify-content:space-between;gap:10px;min-width:0}
+  .task-hrs{font-family:var(--mono);font-size:.7rem;color:var(--ink-soft);flex-shrink:0;padding-top:2px}
+  /* day note */
+  .note-toggle{background:none;border:none;font-family:var(--mono);font-size:.66rem;letter-spacing:.08em;color:var(--ink-soft);cursor:pointer;padding:8px 0 0;text-transform:uppercase}
+  .note-area{display:none;width:100%;margin-top:8px;background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:10px;font-family:var(--mono);font-size:.74rem;color:var(--ink);resize:vertical;min-height:60px;line-height:1.5}
+  .note-area:focus{outline:1.5px solid var(--green)}
+  .day.note-open .note-area{display:block}
+  /* ---------- footer ---------- */
+  footer{margin-top:36px;padding-top:14px;border-top:1px solid var(--rule)}
+  .cf{display:flex;justify-content:space-between;font-family:var(--mono);font-size:.74rem;color:var(--ink-soft)}
+  .cf b{color:var(--ink);font-weight:600}
+  .foot-actions{display:flex;justify-content:center;gap:22px;margin-top:26px}
+  .foot-btn{background:none;border:none;font-family:var(--mono);font-size:.66rem;letter-spacing:.08em;color:var(--ink-faint);cursor:pointer;padding:6px;text-transform:uppercase}
+  .foot-btn:active{color:var(--ink-soft)}
+  .savenote{text-align:center;font-size:.68rem;color:var(--ink-faint);margin-top:6px;font-family:var(--mono)}
+  /* jump to today */
+  .jump{
+    position:fixed;bottom:max(20px,env(safe-area-inset-bottom));left:50%;transform:translateX(-50%);
+    background:var(--ink);color:var(--paper);border:none;border-radius:99px;
+    font-family:var(--mono);font-size:.7rem;letter-spacing:.1em;padding:9px 18px;cursor:pointer;
+    box-shadow:0 4px 16px rgba(0,0,0,.18);opacity:0;pointer-events:none;transition:opacity .25s;
+  }
+  .jump.show{opacity:1;pointer-events:auto}
+  @media (prefers-reduced-motion: reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="head-top">
+    <div>
+      <div class="eyebrow">CA Final · Financial Reporting</div>
+      <h1>45-Day Ledger</h1>
+      <div class="sub">10 Jun – 24 Jul 2026 · 204 study hours</div>
+    </div>
+    <button class="theme-btn" id="themeBtn" aria-label="Toggle dark mode">◐</button>
+  </div>
+
+  <div class="ledger">
+    <div class="ledger-rule"><div class="ledger-fill" id="fill"></div></div>
+    <div class="ledger-figures">
+      <span id="figL"><b>0h</b> of 204h posted</span>
+      <span id="figR"><b>0%</b></span>
+    </div>
+    <div class="variance" id="variance">Variance vs plan: <b>on schedule</b></div>
+  </div>
+
+  <div class="grid-card">
+    <div class="grid-label"><span>Day book</span><span id="gridSub">45 days</span></div>
+    <div class="dots" id="dots"></div>
+    <div class="legend">
+      <span><i class="lg done"></i>closed</span>
+      <span><i class="lg partial"></i>part-posted</span>
+      <span><i class="lg missed"></i>pending</span>
+      <span><i class="lg future"></i>upcoming</span>
+    </div>
+  </div>
+
+  <div class="stats">
+    <div class="stat"><div class="v done" id="sDone">0</div><div class="k">Closed</div></div>
+    <div class="stat"><div class="v" id="sStreak">0</div><div class="k">Streak</div></div>
+    <div class="stat"><div class="v" id="sToday">–</div><div class="k">Today</div></div>
+    <div class="stat"><div class="v" id="sLeft">45</div><div class="k">Days c/f</div></div>
+  </div>
+</header>
+
+<main id="weeks"></main>
+
+<footer>
+  <div class="cf"><span>Balance carried forward</span><span><b id="cfDays">45 days</b> · <b id="cfHrs">204h</b></span></div>
+  <div class="foot-actions">
+    <button class="foot-btn" id="exportBtn">Copy backup</button>
+    <button class="foot-btn" id="importBtn">Restore</button>
+    <button class="foot-btn" id="resetBtn">Reset</button>
+  </div>
+  <div class="savenote" id="saveNote">progress saves on this device</div>
+</footer>
+
+<button class="jump" id="jumpBtn">TODAY ↓</button>
+
+<script>
+/* tasks: [text, hours] — weekdays total 4h, Sundays total 8h */
+const WEEKS = [
+ {name:"P1 · Revenue, Leases & Tax — 40h", days:[
+  {d:"10 Jun",wd:"Wed",t:"Ind AS 115 — Steps 1–3",tasks:[["Read Steps 1–3: contract, performance obligations",2.5],["Solve 4 basic module questions",1.5]]},
+  {d:"11 Jun",wd:"Thu",t:"Ind AS 115 — Steps 4–5",tasks:[["Transaction price, variable consideration, allocation",2],["Solve 6 module questions",2]]},
+  {d:"12 Jun",wd:"Fri",t:"Ind AS 115 — special areas",tasks:[["Modifications & contract costs",1.5],["Principal vs agent, licences, warranties",1],["Solve 5 questions",1.5]]},
+  {d:"13 Jun",wd:"Sat",t:"115 question day + 116 start",tasks:[["10 mixed Ind AS 115 questions",2],["115 summary note (1 page)",0.5],["Ind AS 116: identifying a lease",1.5]]},
+  {d:"14 Jun",wd:"Sun",t:"Ind AS 116 — full coverage",tasks:[["Lessee: ROU asset & liability, initial + subsequent",2.5],["Remeasurement & modifications",1.5],["Lessor classification",1.5],["Sale & leaseback",1.5],["Solve 4 questions",1]]},
+  {d:"15 Jun",wd:"Mon",t:"Ind AS 116 — question day",tasks:[["8 module questions",3],["116 summary note",1]]},
+  {d:"16 Jun",wd:"Tue",t:"Ind AS 12 — concepts",tasks:[["Tax base, DTA/DTL recognition",2],["Special items: revaluation, BC, consolidation",1],["3 basic questions",1]]},
+  {d:"17 Jun",wd:"Wed",t:"Ind AS 12 close + Ind AS 113",tasks:[["6 module questions on Ind AS 12",2.5],["Ind AS 113: FV hierarchy & techniques",1.5]]},
+  {d:"18 Jun",wd:"Thu",t:"Ind AS 21",tasks:[["Functional currency & foreign transactions",1.5],["Translation of foreign operations",1],["Solve 5 questions",1.5]]}
+ ]},
+ {name:"P2 · Presentation & Small Standards — 8h", days:[
+  {d:"19 Jun",wd:"Fri",t:"Ind AS 1, 34, 8",tasks:[["Ind AS 1: presentation of FS",1.5],["Ind AS 34: interim reporting",1],["Ind AS 8: policies, estimates, errors",1.5]]},
+  {d:"20 Jun",wd:"Sat",t:"Ind AS 37, 10, 7",tasks:[["Ind AS 37: provisions + questions",2.5],["Ind AS 10: events after reporting period",1],["Ind AS 7: quick pass (known from Inter)",0.5]]}
+ ]},
+ {name:"P3 · Financial Instruments — 40h", days:[
+  {d:"21 Jun",wd:"Sun",t:"Ind AS 32 + 109 classification",tasks:[["Ind AS 32: liability vs equity tests",2],["Compound instruments + questions",2.5],["Ind AS 109: business model & SPPI",2.5],["Classification worked examples",1]]},
+  {d:"22 Jun",wd:"Mon",t:"EIR & amortised cost",tasks:[["EIR concept & schedule building",1.5],["Solve 5 EIR questions",2.5]]},
+  {d:"23 Jun",wd:"Tue",t:"FVTPL / FVOCI",tasks:[["FVTPL & FVOCI measurement + reclassification",2],["Solve 5 questions",2]]},
+  {d:"24 Jun",wd:"Wed",t:"Derecognition",tasks:[["Derecognition: financial assets & liabilities",2],["Solve 4 questions",2]]},
+  {d:"25 Jun",wd:"Thu",t:"ECL impairment",tasks:[["Expected credit loss model",2],["Solve 4 questions",2]]},
+  {d:"26 Jun",wd:"Fri",t:"Derivatives",tasks:[["Derivatives & embedded derivatives",2.5],["Solve 3 questions",1.5]]},
+  {d:"27 Jun",wd:"Sat",t:"Hedge accounting — concepts",tasks:[["FV, cash flow & net investment hedges",3],["2 simple hedge questions",1]]},
+  {d:"28 Jun",wd:"Sun",t:"Hedge Qs + FI marathon",tasks:[["Hedge accounting questions",3],["Ind AS 107 disclosures",1],["Mixed FI marathon — 12 questions",3],["FI summary chart (1 page)",1]]}
+ ]},
+ {name:"P4 · Business Combination & Consolidation — 40h", days:[
+  {d:"29 Jun",wd:"Mon",t:"Ind AS 103 — acquisition method",tasks:[["Acquisition method, goodwill, NCI options",2.5],["Solve 4 questions",1.5]]},
+  {d:"30 Jun",wd:"Tue",t:"Ind AS 103 — advanced I",tasks:[["Contingent consideration & step acquisition",2],["Solve 4 questions",2]]},
+  {d:"01 Jul",wd:"Wed",t:"Ind AS 103 — advanced II",tasks:[["Reverse acquisition & common control",2],["Solve 4 questions + 103 summary note",2]]},
+  {d:"02 Jul",wd:"Thu",t:"Ind AS 110 — control & CFS setup",tasks:[["Control assessment framework",1.5],["CFS mechanics: standard workings format",2.5]]},
+  {d:"03 Jul",wd:"Fri",t:"CFS — NCI",tasks:[["NCI & pre/post-acquisition profits",1.5],["Solve 2 full problems",2.5]]},
+  {d:"04 Jul",wd:"Sat",t:"CFS — eliminations",tasks:[["Intra-group transactions & unrealised profits",1.5],["Solve 2 full problems",2.5]]},
+  {d:"05 Jul",wd:"Sun",t:"Chain holdings + Associates/JVs",tasks:[["Chain & cross holdings",2.5],["Ind AS 28/111: equity method",2.5],["2 full CFS problems",3]]},
+  {d:"06 Jul",wd:"Mon",t:"Loss of control + Ind AS 112",tasks:[["Disposal & loss of control",2],["Ind AS 112 + questions",2]]},
+  {d:"07 Jul",wd:"Tue",t:"Consolidation drill",tasks:[["2 full mixed problems (timed)",3.5],["Consolidation summary note",0.5]]}
+ ]},
+ {name:"P5 · Asset Standards & Balance Topics — 40h", days:[
+  {d:"08 Jul",wd:"Wed",t:"Ind AS 16 + 23",tasks:[["Ind AS 16: PPE + questions",2.5],["Ind AS 23: borrowing costs + questions",1.5]]},
+  {d:"09 Jul",wd:"Thu",t:"Ind AS 36",tasks:[["Impairment: CGU, value in use, goodwill",2.5],["Solve 3 questions",1.5]]},
+  {d:"10 Jul",wd:"Fri",t:"Ind AS 38, 40, 105",tasks:[["Ind AS 38: intangibles",2],["Ind AS 40: investment property",1],["Ind AS 105: held for sale",1]]},
+  {d:"11 Jul",wd:"Sat",t:"Ind AS 20, 41, 24",tasks:[["Ind AS 20: government grants",1.5],["Ind AS 41: agriculture",1],["Ind AS 24: related parties",1.5]]},
+  {d:"12 Jul",wd:"Sun",t:"Ind AS 19 + 102",tasks:[["Ind AS 19: DB plans, OCI routing + questions",3.5],["Ind AS 102: equity & cash settled + questions",3.5],["Recap notes for both",1]]},
+  {d:"13 Jul",wd:"Mon",t:"Ind AS 33 — EPS",tasks:[["Basic EPS + adjustments",1.5],["Diluted EPS + questions",2.5]]},
+  {d:"14 Jul",wd:"Tue",t:"Ind AS 108 + 101",tasks:[["Ind AS 108: operating segments",1.5],["Ind AS 101: first-time adoption + questions",2.5]]},
+  {d:"15 Jul",wd:"Wed",t:"Theory chapters I",tasks:[["Analysis of Financial Statements",2.5],["Accounting & Technology",1.5]]},
+  {d:"16 Jul",wd:"Thu",t:"Theory II + buffer",tasks:[["Professional & Ethical Duty of a CA",2],["Backlog clearance buffer",2]]}
+ ]},
+ {name:"P6 · Revision, RTP/MTP & Mock — 36h", days:[
+  {d:"17 Jul",wd:"Fri",t:"Revise P1 + RTP",tasks:[["Revise 115/116/12 summary notes",2],["RTP — part 1",2]]},
+  {d:"18 Jul",wd:"Sat",t:"Revise FI + RTP",tasks:[["Revise FI summary chart + weak areas",2],["RTP — part 2",2]]},
+  {d:"19 Jul",wd:"Sun",t:"Consol revision + MTP-I",tasks:[["Re-solve 2 consolidation problems",4],["MTP-I FR paper",3],["Review vs suggested answers",1]]},
+  {d:"20 Jul",wd:"Mon",t:"Revise P5 + error log",tasks:[["Revise asset standards + 19/102 notes",2.5],["Error-log review",1.5]]},
+  {d:"21 Jul",wd:"Tue",t:"MTP-II",tasks:[["MTP-II FR questions",3],["Review vs suggested answers",1]]},
+  {d:"22 Jul",wd:"Wed",t:"EPS, 101 & theory revision",tasks:[["Revise Ind AS 33 & 101",2],["Revise theory chapters",2]]},
+  {d:"23 Jul",wd:"Thu",t:"Weak-area drill",tasks:[["Targeted drill from error log",4]]},
+  {d:"24 Jul",wd:"Fri",t:"Mock day",tasks:[["3-hr timed mock (latest paper)",3],["Evaluate vs suggested answers",1]]}
+ ]}
+];
+
+const ALL = WEEKS.flatMap(w=>w.days);
+const TOTAL_DAYS = ALL.length;
+const TOTAL_HRS = ALL.reduce((n,d)=>n+d.tasks.reduce((m,t)=>m+t[1],0),0);
+const KEY = "fr45-tracker-v2";
+const OLD_KEY = "fr45-tracker-v1";
+let state = {tasks:{}, notes:{}, theme:"auto"};
+let memoryOnly = false;
+
+/* ---- storage: window.storage (artifact) -> localStorage -> memory ---- */
+async function rawGet(k){
+  try{ if(window.storage){ try{const r=await window.storage.get(k); return r?r.value:null;}catch(e){return null;} } }catch(e){}
+  try{ return localStorage.getItem(k); }catch(e){}
+  return null;
+}
+async function loadState(){
+  let raw = await rawGet(KEY);
+  if(raw){ try{ state = Object.assign(state, JSON.parse(raw)); }catch(e){} return; }
+  // migrate from v1 (plain {dayIdx:[bool]})
+  let old = await rawGet(OLD_KEY);
+  if(old){ try{ state.tasks = JSON.parse(old)||{}; }catch(e){} }
+}
+let saveTimer = null;
+function saveState(){
+  clearTimeout(saveTimer);
+  saveTimer = setTimeout(async ()=>{
+    const v = JSON.stringify(state);
+    try{ if(window.storage){ await window.storage.set(KEY,v); return; } }catch(e){}
+    try{ localStorage.setItem(KEY,v); return; }catch(e){}
+    memoryOnly = true;
+    document.getElementById("saveNote").textContent = "preview mode — download & open in your browser to save progress";
+  },200);
+}
+
+/* ---- date helpers ---- */
+const START = new Date(2026,5,10); // 10 Jun 2026
+function todayIndex(){
+  const now = new Date();
+  const t = new Date(now.getFullYear(),now.getMonth(),now.getDate());
+  return Math.floor((t - START)/86400000);
+}
+function fmtH(h){ return (h%1===0? h : h.toFixed(1))+"h"; }
+function dayTarget(i){ return ALL[i].tasks.reduce((n,t)=>n+t[1],0); }
+function dayHrsDone(i){
+  const s = state.tasks[i]||[];
+  return ALL[i].tasks.reduce((n,t,j)=> n + (s[j]? t[1]:0), 0);
+}
+function dayDone(i){
+  const s = state.tasks[i]||[];
+  return ALL[i].tasks.every((_,j)=>s[j]);
+}
+
+/* ---- theme ---- */
+function applyTheme(){
+  const pref = state.theme;
+  let dark = pref==="dark" || (pref==="auto" && window.matchMedia("(prefers-color-scheme: dark)").matches);
+  document.documentElement.dataset.theme = dark ? "dark" : "light";
+  document.querySelector('meta[name="theme-color"]').content = dark ? "#131513" : "#FDFDFB";
+}
+
+/* ---- build ---- */
+function build(){
+  const root = document.getElementById("weeks");
+  const dots = document.getElementById("dots");
+  let idx = 0;
+  const tIdx = todayIndex();
+
+  for(let i=0;i<TOTAL_DAYS;i++){
+    const b = document.createElement("button");
+    b.className = "dot"; b.id = "dot"+i;
+    b.setAttribute("aria-label","Day "+(i+1));
+    b.addEventListener("click",()=>{
+      const d = document.getElementById("day"+i);
+      d.classList.add("open");
+      d.querySelector(".day-row").setAttribute("aria-expanded","true");
+      d.scrollIntoView({behavior:"smooth",block:"center"});
+    });
+    dots.appendChild(b);
+  }
+
+  WEEKS.forEach((w,wi)=>{
+    const sec = document.createElement("section");
+    sec.className = "week";
+    sec.innerHTML = `<div class="week-head">
+      <div class="week-head-row"><span class="week-name">${w.name}</span><span class="week-count" id="wc${wi}"></span></div>
+      <div class="phase-bar"><div class="phase-fill" id="pf${wi}"></div></div>
+    </div>`;
+    w.days.forEach(day=>{
+      const i = idx++;
+      const el = document.createElement("div");
+      el.className = "day"; el.id = "day"+i;
+      if(i===tIdx) el.classList.add("is-today","open");
+      const todayFlag = i===tIdx ? '<span class="today-flag">TODAY</span>' : "";
+      el.innerHTML = `
+        <button class="day-row" aria-expanded="${i===tIdx}" data-day="${i}">
+          <span class="day-date">${day.wd}<b>${day.d}</b></span>
+          <span class="day-title">${day.t}${todayFlag}<span class="note-ind" id="ni${i}"></span></span>
+          <span class="day-mark" id="mark${i}"></span>
+        </button>
+        <div class="tasks">${day.tasks.map((t,j)=>`
+          <label class="task"><input type="checkbox" data-day="${i}" data-task="${j}"><span class="task-body"><span class="task-text">${t[0]}</span><span class="task-hrs">${fmtH(t[1])}</span></span></label>`).join("")}
+          <button class="note-toggle" data-note="${i}">+ Note / error log</button>
+          <textarea class="note-area" id="na${i}" data-noteidx="${i}" placeholder="Mistakes, doubts, carry-forwards…"></textarea>
+        </div>`;
+      sec.appendChild(el);
+    });
+    root.appendChild(sec);
+  });
+
+  root.addEventListener("click",e=>{
+    const nt = e.target.closest(".note-toggle");
+    if(nt){
+      const d = nt.closest(".day");
+      d.classList.toggle("note-open");
+      if(d.classList.contains("note-open")) d.querySelector(".note-area").focus();
+      return;
+    }
+    const row = e.target.closest(".day-row");
+    if(row){
+      const d = row.closest(".day");
+      d.classList.toggle("open");
+      row.setAttribute("aria-expanded", d.classList.contains("open"));
+    }
+  });
+  root.addEventListener("change",e=>{
+    const cb = e.target;
+    if(cb.matches("input[type=checkbox]")){
+      const i = +cb.dataset.day, j = +cb.dataset.task;
+      if(!state.tasks[i]) state.tasks[i] = [];
+      state.tasks[i][j] = cb.checked;
+      saveState();
+      refresh();
+    }
+  });
+  root.addEventListener("input",e=>{
+    if(e.target.matches(".note-area")){
+      const i = e.target.dataset.noteidx;
+      state.notes[i] = e.target.value;
+      saveState();
+      markNote(i);
+    }
+  });
+
+  /* footer actions */
+  document.getElementById("resetBtn").addEventListener("click",()=>{
+    if(confirm("Clear all progress entries and notes?")){
+      state.tasks = {}; state.notes = {}; saveState();
+      document.querySelectorAll("input[type=checkbox]").forEach(c=>c.checked=false);
+      document.querySelectorAll(".note-area").forEach(n=>n.value="");
+      for(let i=0;i<TOTAL_DAYS;i++) markNote(i);
+      refresh();
+    }
+  });
+  document.getElementById("exportBtn").addEventListener("click",async ()=>{
+    const data = JSON.stringify(state);
+    try{ await navigator.clipboard.writeText(data); alert("Backup copied to clipboard. Paste it somewhere safe (e.g., your notes app)."); }
+    catch(e){ prompt("Copy this backup text:", data); }
+  });
+  document.getElementById("importBtn").addEventListener("click",()=>{
+    const raw = prompt("Paste your backup text:");
+    if(!raw) return;
+    try{
+      const parsed = JSON.parse(raw);
+      state.tasks = parsed.tasks||parsed||{}; state.notes = parsed.notes||{};
+      saveState();
+      document.querySelectorAll("input[type=checkbox]").forEach(cb=>{
+        const i=+cb.dataset.day, j=+cb.dataset.task;
+        cb.checked = !!(state.tasks[i]&&state.tasks[i][j]);
+      });
+      for(let i=0;i<TOTAL_DAYS;i++){
+        const na = document.getElementById("na"+i);
+        na.value = state.notes[i]||""; markNote(i);
+      }
+      refresh();
+      alert("Restored.");
+    }catch(e){ alert("That backup text could not be read."); }
+  });
+  document.getElementById("themeBtn").addEventListener("click",()=>{
+    const cur = document.documentElement.dataset.theme;
+    state.theme = cur==="dark" ? "light" : "dark";
+    saveState(); applyTheme();
+  });
+
+  /* jump to today */
+  const jump = document.getElementById("jumpBtn");
+  if(tIdx>=0 && tIdx<TOTAL_DAYS){
+    const todayEl = document.getElementById("day"+tIdx);
+    jump.addEventListener("click",()=> todayEl.scrollIntoView({behavior:"smooth",block:"center"}));
+    if("IntersectionObserver" in window){
+      new IntersectionObserver(([en])=> jump.classList.toggle("show", !en.isIntersecting),{threshold:.2}).observe(todayEl);
+    }
+  }
+}
+
+function markNote(i){
+  const has = (state.notes[i]||"").trim().length>0;
+  document.getElementById("ni"+i).innerHTML = has ? '<span class="note-dot" title="Has note"></span>' : "";
+}
+
+/* ---- refresh ---- */
+function refresh(){
+  let hrsDone = 0, completedDays = 0, idx = 0;
+  const tIdx = todayIndex();
+  WEEKS.forEach((w,wi)=>{
+    let wDone = 0, wHrs = 0, wTarget = 0;
+    w.days.forEach(()=>{
+      const i = idx++;
+      const dEl = document.getElementById("day"+i);
+      const isDone = dayDone(i);
+      if(isDone){ completedDays++; wDone++; }
+      dEl.classList.toggle("complete",isDone);
+      const dh = dayHrsDone(i), dt = dayTarget(i);
+      document.getElementById("mark"+i).textContent = isDone ? "✓ "+fmtH(dt) : (dh? `${fmtH(dh)}/${fmtH(dt)}` : fmtH(dt));
+      hrsDone += dh; wHrs += dh; wTarget += dt;
+      /* dot */
+      const dot = document.getElementById("dot"+i);
+      dot.className = "dot";
+      if(isDone) dot.classList.add("done");
+      else if(dh>0) dot.classList.add("partial");
+      else if(i<tIdx) dot.classList.add("missed");
+      else dot.classList.add("future");
+      if(i===tIdx) dot.classList.add("today");
+    });
+    const wc = document.getElementById("wc"+wi);
+    wc.textContent = `${wDone}/${w.days.length}`;
+    wc.classList.toggle("full", wDone===w.days.length);
+    document.getElementById("pf"+wi).style.width = Math.round(wHrs/wTarget*100)+"%";
+  });
+
+  const pct = Math.round(hrsDone/TOTAL_HRS*100);
+  document.getElementById("fill").style.width = pct+"%";
+  document.getElementById("figL").innerHTML = `<b>${fmtH(hrsDone)}</b> of ${fmtH(TOTAL_HRS)} posted`;
+  document.getElementById("figR").innerHTML = `<b>${pct}%</b>`;
+  document.getElementById("sDone").textContent = completedDays;
+  document.getElementById("sLeft").textContent = TOTAL_DAYS - completedDays;
+  document.getElementById("cfDays").textContent = (TOTAL_DAYS-completedDays)+" days";
+  document.getElementById("cfHrs").textContent = fmtH(TOTAL_HRS-hrsDone);
+  document.getElementById("sToday").textContent = tIdx<0 ? "–" : (tIdx>=TOTAL_DAYS ? "End" : "D"+(tIdx+1));
+  document.getElementById("gridSub").textContent = `${completedDays}/${TOTAL_DAYS} closed`;
+
+  /* streak: consecutive closed days ending at today (or yesterday if today open) */
+  let streak = 0, p = Math.min(tIdx, TOTAL_DAYS-1);
+  if(p>=0 && !dayDone(p)) p--;
+  while(p>=0 && dayDone(p)){ streak++; p--; }
+  document.getElementById("sStreak").textContent = streak;
+
+  /* schedule variance: hrs posted vs plan-to-date (days before today should be closed) */
+  let expected = 0;
+  for(let i=0;i<Math.min(Math.max(tIdx,0),TOTAL_DAYS);i++) expected += dayTarget(i);
+  const diff = Math.round((hrsDone-expected)*2)/2;
+  const vEl = document.getElementById("variance");
+  vEl.classList.remove("ahead","behind");
+  if(tIdx<0){ vEl.innerHTML = "Variance vs plan: <b>starts 10 Jun</b>"; }
+  else if(diff>=0.5){ vEl.classList.add("ahead"); vEl.innerHTML = `Variance vs plan: <b>+${fmtH(diff)} ahead</b>`; }
+  else if(diff<=-0.5){ vEl.classList.add("behind"); vEl.innerHTML = `Variance vs plan: <b>${fmtH(diff).replace("-","−")} behind</b>`; }
+  else { vEl.classList.add("ahead"); vEl.innerHTML = "Variance vs plan: <b>on schedule</b>"; }
+}
+
+(async function init(){
+  await loadState();
+  applyTheme();
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",()=>{ if(state.theme==="auto") applyTheme(); });
+  build();
+  document.querySelectorAll("input[type=checkbox]").forEach(cb=>{
+    const i=+cb.dataset.day, j=+cb.dataset.task;
+    cb.checked = !!(state.tasks[i]&&state.tasks[i][j]);
+  });
+  for(let i=0;i<TOTAL_DAYS;i++){
+    const na = document.getElementById("na"+i);
+    na.value = state.notes[i]||""; markNote(i);
+  }
+  refresh();
+  if(memoryOnly) document.getElementById("saveNote").textContent = "preview mode — download & open in your browser to save progress";
+})();
+</script>
+</body>
+</html>
