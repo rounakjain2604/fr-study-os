@@ -3,9 +3,10 @@ import {
   BarChart3,
   BookOpen,
   Brain,
+  ChevronDown,
+  ChevronRight,
   ClipboardList,
   Download,
-  Flag,
   Gauge,
   Home,
   Layers,
@@ -17,9 +18,9 @@ import {
   Sun,
   X,
 } from "lucide-react";
-import { ALL_DAYS, dayPlannedHours } from "./data/schedule";
+import { ALL_DAYS, SPRINT, TOTAL_DAYS, dayPlannedHours } from "./data/schedule";
 import { chapters, subjects, type ChapterAsset } from "./data/catalog";
-import { formatHours, getActiveDay } from "./lib/analytics";
+import { formatHours, getActiveDay, type DayLedger } from "./lib/analytics";
 import { useLedgerState } from "./hooks/useLedgerState";
 import { useFlashcards } from "./hooks/useFlashcards";
 import { askTutor, chapterContext, type AiContext, type AiMessage, type AiMode } from "./lib/ai";
@@ -43,7 +44,6 @@ import {
   ErrorsView,
   MocksView,
   PhaseSections,
-  RevisionView,
   TodayEntry,
 } from "./components/LedgerViews";
 
@@ -54,7 +54,6 @@ type AppSection =
   | "ledger"
   | "analytics"
   | "errors"
-  | "revision"
   | "cards"
   | "mocks"
   | "data"
@@ -67,7 +66,6 @@ const sectionIds: AppSection[] = [
   "ledger",
   "analytics",
   "errors",
-  "revision",
   "cards",
   "mocks",
   "data",
@@ -84,7 +82,6 @@ const navItems: Array<{ id: AppSection; label: string; icon: typeof Home; group:
   { id: "ai", label: "AI Tutor", icon: Brain, group: "study" },
   { id: "ledger", label: "Plan", icon: Gauge, group: "track" },
   { id: "analytics", label: "Analytics", icon: BarChart3, group: "track" },
-  { id: "revision", label: "Revision", icon: Flag, group: "track" },
   { id: "errors", label: "Mistakes", icon: Search, group: "track" },
   { id: "mocks", label: "Mocks", icon: ClipboardList, group: "track" },
   { id: "data", label: "Settings", icon: Settings, group: "system" },
@@ -116,7 +113,7 @@ const initialChapterId = () => {
   } catch {
     // storage unavailable
   }
-  return "fr-ind-as-23";
+  return "afm-ch1";
 };
 
 const cx = (...classes: Array<string | false | null | undefined>) => classes.filter(Boolean).join(" ");
@@ -417,7 +414,7 @@ function App() {
         <div className="rail-foot">
           <div className="progress-wrap">
             <div className="progress-label">
-              <span>45-day pace</span>
+              <span>Sprint pace</span>
               <b>{metrics.progressPct}%</b>
             </div>
             <div className="progress-bar"><span style={{ width: `${Math.min(metrics.progressPct, 100)}%` }} /></div>
@@ -484,7 +481,7 @@ function App() {
               {installButton}
               <div className="progress-wrap">
                 <div className="progress-label">
-                  <span>45-day pace</span>
+                  <span>Sprint pace</span>
                   <b>{metrics.progressPct}%</b>
                 </div>
                 <div className="progress-bar"><span style={{ width: `${Math.min(metrics.progressPct, 100)}%` }} /></div>
@@ -516,8 +513,10 @@ function App() {
           <HomeView
             activeDayId={activeDay.id}
             cardsDue={flashcards.stats.dueCount + flashcards.stats.newCount}
+            ledgers={ledgers}
             metrics={metrics}
             selectedChapter={selectedChapter}
+            onOpenAi={() => openAi(chapterContext(selectedChapter))}
             onOpenCards={() => changeSection("cards")}
             onOpenLibrary={() => changeSection("library")}
             onSelectChapter={selectChapter}
@@ -552,10 +551,6 @@ function App() {
               flashcards.addUserCard(`${topic} — what must you fix here?`, mistake.text, mistake.id)
             }
           />
-        ) : null}
-
-        {activeSection === "revision" ? (
-          <RevisionView actions={actions} ledgers={ledgers} state={state} onSelectDay={selectDay} />
         ) : null}
 
         {activeSection === "cards" ? (
@@ -624,7 +619,6 @@ function pageTitle(section: AppSection, chapter: ChapterAsset) {
   if (section === "ledger") return "Plan";
   if (section === "analytics") return "Analytics";
   if (section === "errors") return "Mistakes";
-  if (section === "revision") return "Revision";
   if (section === "cards") return "Cards";
   if (section === "mocks") return "Mocks";
   if (section === "ai") return "AI Tutor";
@@ -635,8 +629,10 @@ function pageTitle(section: AppSection, chapter: ChapterAsset) {
 function HomeView({
   activeDayId,
   cardsDue,
+  ledgers,
   metrics,
   selectedChapter,
+  onOpenAi,
   onOpenCards,
   onOpenLibrary,
   onSelectChapter,
@@ -644,45 +640,102 @@ function HomeView({
 }: {
   activeDayId: string;
   cardsDue: number;
-  metrics: { progressPct: number; totalActual: number; totalPlanned: number; varianceHours: number; daysRemaining: number };
+  ledgers: DayLedger[];
+  metrics: { progressPct: number; totalActual: number; totalPlanned: number; varianceHours: number; daysRemaining: number; closedDays: number };
   selectedChapter: ChapterAsset;
+  onOpenAi: () => void;
   onOpenCards: () => void;
   onOpenLibrary: () => void;
   onSelectChapter: (chapterId: string) => void;
   onSelectDay: (dayId: string) => void;
 }) {
-  const todayPlan = ALL_DAYS.find((studyDay) => studyDay.id === activeDayId);
+  const todayPlan = ALL_DAYS.find((studyDay) => studyDay.id === activeDayId) ?? ALL_DAYS[0];
   const today = new Intl.DateTimeFormat("en-IN", { weekday: "long", day: "numeric", month: "long" }).format(new Date());
+  const ledgerFor = (dayId: string) => ledgers.find((entry) => entry.dayId === dayId);
+  const plannedToday = dayPlannedHours(todayPlan);
+  const doneCount = metrics.closedDays;
 
   return (
     <div className="home-stack">
-      <section className="today-card">
-        <div className="today-copy">
-          <span className="overline">{today}{todayPlan ? ` · Day ${todayPlan.dayNumber} of 45` : ""}</span>
-          <h2>{todayPlan ? todayPlan.topic : "Plan complete"}</h2>
-          <p>
-            {todayPlan
-              ? `${formatHours(dayPlannedHours(todayPlan))} planned · ${todayPlan.tasks.length} tasks`
-              : "All 45 entries are posted. Move to revision and mocks."}
-          </p>
+      <section className="sprint-hero">
+        <div className="sprint-hero-top">
+          <span className="overline">{SPRINT.name} · {SPRINT.rangeLabel}</span>
+          <span className="sprint-day-badge">Day {todayPlan.dayNumber} <i>/ {TOTAL_DAYS}</i></span>
+        </div>
+        <div className="sprint-hero-body">
+          <span className="kicker">{today} · {todayPlan.chapter}</span>
+          <h2>{todayPlan.topic}</h2>
+          <p>{formatHours(plannedToday)} planned today · {todayPlan.tasks.length} tasks · AFM is the only focus until 30 June</p>
+        </div>
+        <div className="sprint-progress">
+          <div className="sprint-progress-label">
+            <span>Sprint progress</span>
+            <b>{doneCount} / {TOTAL_DAYS} days closed</b>
+          </div>
+          <div className="progress-bar"><span style={{ width: `${Math.round((doneCount / TOTAL_DAYS) * 100)}%` }} /></div>
         </div>
         <div className="today-actions">
-          {todayPlan ? (
-            <button className="btn cap" type="button" onClick={() => onSelectDay(todayPlan.id)}>
-              Open today
-            </button>
-          ) : null}
+          <button className="btn cap" type="button" onClick={() => onSelectDay(todayPlan.id)}>
+            Open today
+          </button>
           <button className="btn ghost" type="button" onClick={() => onSelectChapter(selectedChapter.id)}>
             <BookOpen size={15} strokeWidth={1.8} />
-            Resume {selectedChapter.title}
+            Open AFM library
+          </button>
+          <button className="btn ghost" type="button" onClick={onOpenAi}>
+            <Brain size={15} strokeWidth={1.8} />
+            Ask AI
           </button>
         </div>
       </section>
 
+      <section className="today-tasks">
+        <div className="sec-head">
+          <h2>Today · {todayPlan.chapter}</h2>
+          <button className="btn ghost small" type="button" onClick={() => onSelectDay(todayPlan.id)}>
+            Open in Plan
+          </button>
+        </div>
+        <ul className="today-task-list">
+          {todayPlan.tasks.map((studyTask) => (
+            <li key={studyTask.id}>
+              <span>{studyTask.text}</span>
+              <em>{formatHours(studyTask.plannedHours)}</em>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section className="sprint-strip">
+        <div className="sec-head">
+          <h2>The 16 days</h2>
+          <button className="btn ghost small" type="button" onClick={() => onSelectDay(todayPlan.id)}>
+            View plan
+          </button>
+        </div>
+        <div className="sprint-grid">
+          {ALL_DAYS.map((studyDay) => {
+            const status = ledgerFor(studyDay.id)?.status ?? "upcoming";
+            return (
+              <button
+                className={cx("sprint-cell", status, studyDay.id === todayPlan.id && "today")}
+                key={studyDay.id}
+                type="button"
+                title={`Day ${studyDay.dayNumber} · ${studyDay.topic}`}
+                onClick={() => onSelectDay(studyDay.id)}
+              >
+                <span className="sprint-cell-n">{studyDay.dayNumber}</span>
+                <span className="sprint-cell-d">{studyDay.displayDate}</span>
+              </button>
+            );
+          })}
+        </div>
+      </section>
+
       <section className="metric-grid">
-        <MetricCard label="Posted" value={`${metrics.progressPct}%`} note={`${formatHours(metrics.totalActual)} of ${formatHours(metrics.totalPlanned)}`} />
-        <MetricCard label="Variance" value={`${metrics.varianceHours >= 0 ? "+" : ""}${metrics.varianceHours.toFixed(1)}h`} note="vs the 45-day plan" />
-        <MetricCard label="Days left" value={metrics.daysRemaining} note="to target close" />
+        <MetricCard label="Hours posted" value={`${formatHours(metrics.totalActual)}`} note={`of ${formatHours(metrics.totalPlanned)} planned`} />
+        <MetricCard label="On pace" value={`${metrics.varianceHours >= 0 ? "+" : ""}${metrics.varianceHours.toFixed(1)}h`} note="vs. plan to date" />
+        <MetricCard label="Days left" value={metrics.daysRemaining} note="to 30 June close" />
         <button className="metric-card as-button" type="button" onClick={onOpenCards}>
           <strong>{cardsDue}</strong>
           <span>Cards due</span>
@@ -690,19 +743,11 @@ function HomeView({
         </button>
       </section>
 
-      <section className="chapter-strip">
-        <div className="sec-head">
-          <h2>Chapters</h2>
-          <button className="btn ghost small" type="button" onClick={onOpenLibrary}>
-            View library
-          </button>
-        </div>
-        <div className="chapter-grid">
-          {chapters.slice(0, 3).map((chapter) => (
-            <ChapterCard chapter={chapter} key={chapter.id} onSelectChapter={onSelectChapter} />
-          ))}
-        </div>
-      </section>
+      <button className="library-link" type="button" onClick={onOpenLibrary}>
+        <LibraryBig size={16} strokeWidth={1.8} />
+        <span>Browse all subjects & chapters</span>
+        <ChevronRight size={16} strokeWidth={1.8} />
+      </button>
     </div>
   );
 }
@@ -715,47 +760,76 @@ function LibraryView({
   onSelectChapter: (chapterId: string) => void;
 }) {
   const [query, setQuery] = useState("");
+  // AFM (the sprint subject) starts expanded; the rest stay tucked away.
+  const [openSubjects, setOpenSubjects] = useState<Set<string>>(() => new Set(["afm"]));
   const normalized = query.trim().toLowerCase();
+  const searching = normalized.length > 0;
+
+  const toggleSubject = (id: string) =>
+    setOpenSubjects((current) => {
+      const next = new Set(current);
+      if (next.has(id)) next.delete(id);
+      else next.add(id);
+      return next;
+    });
+
   const visibleSubjects = subjects
     .map((subject) => ({
       ...subject,
-      chapters: subject.chapters.filter((chapter) =>
-        !normalized
+      matches: subject.chapters.filter((chapter) =>
+        !searching
           ? true
           : [chapter.title, chapter.subtitle, chapter.tags.join(" "), chapter.summary].join(" ").toLowerCase().includes(normalized),
       ),
     }))
-    .filter((subject) => subject.chapters.length || !normalized);
+    .filter((subject) => !searching || subject.matches.length);
 
   return (
     <div className="library-stack">
       <label className="search-box">
         <Search size={16} strokeWidth={1.8} />
-        <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search Ind AS, traps, computation areas…" />
+        <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search AFM, Ind AS, traps, computation areas…" />
       </label>
-      {visibleSubjects.map((subject) => (
-        <section className="subject-section" key={subject.id}>
-          <div className="sec-head">
-            <h2>{subject.code} · {subject.name}</h2>
-            <span className="folio">{subject.group}</span>
-          </div>
-          {subject.chapters.length ? (
-            <div className="chapter-grid">
-              {subject.chapters.map((chapter) => (
-                <ChapterCard
-                  active={selectedChapterId === chapter.id}
-                  chapter={chapter}
-                  key={chapter.id}
-                  onSelectChapter={onSelectChapter}
-                />
-              ))}
-            </div>
-          ) : (
-            <div className="empty-card">Chapter migration pending.</div>
-          )}
-          {subject.id === "fr" && !normalized ? <SyllabusLedger onSelectChapter={onSelectChapter} /> : null}
-        </section>
-      ))}
+
+      {visibleSubjects.map((subject) => {
+        const open = searching || openSubjects.has(subject.id);
+        const count = subject.chapters.length;
+        return (
+          <section className={cx("subject-card", open && "open")} key={subject.id}>
+            <button className="subject-head" type="button" aria-expanded={open} onClick={() => toggleSubject(subject.id)}>
+              <span className="subject-code">{subject.code}</span>
+              <div className="subject-head-main">
+                <h2>{subject.name}</h2>
+                <span className="folio">{subject.group} · {count ? `${count} chapters` : "scaffolding soon"}</span>
+              </div>
+              <div className="subject-head-meta">
+                <div className="mini-meter"><span style={{ width: `${subject.readiness}%` }} /></div>
+                <ChevronDown className="subject-chev" size={18} strokeWidth={1.8} />
+              </div>
+            </button>
+
+            {open ? (
+              <div className="subject-body">
+                {subject.matches.length ? (
+                  <div className="chapter-grid">
+                    {subject.matches.map((chapter) => (
+                      <ChapterCard
+                        active={selectedChapterId === chapter.id}
+                        chapter={chapter}
+                        key={chapter.id}
+                        onSelectChapter={onSelectChapter}
+                      />
+                    ))}
+                  </div>
+                ) : (
+                  <div className="empty-card">Chapters land here as they are added.</div>
+                )}
+                {subject.id === "fr" && !searching ? <SyllabusLedger onSelectChapter={onSelectChapter} /> : null}
+              </div>
+            ) : null}
+          </section>
+        );
+      })}
     </div>
   );
 }

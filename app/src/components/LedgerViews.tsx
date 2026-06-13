@@ -1,10 +1,8 @@
 import { Suspense, lazy, useEffect, useRef, useState, type FormEvent } from "react";
 import {
-  CalendarDays,
   Check,
   ChevronDown,
   Download,
-  Flag,
   Pause,
   Play,
   Plus,
@@ -266,14 +264,6 @@ export function TodayEntry({
           {isClosed ? <RotateCcw size={16} /> : <Check size={16} />}
           <span>{isClosed ? "Reopen entry" : "Close the day"}</span>
         </button>
-        <button className="quiet-action" type="button" onClick={() => actions.toggleRevision(selectedDay.id)}>
-          <Flag size={16} />
-          <span>{state.revisionFlags[selectedDay.id]?.flagged ? "Posted to queue" : "Needs revision"}</span>
-        </button>
-        <button className="quiet-action" type="button" onClick={() => actions.carryForward(selectedDay.id)}>
-          <CalendarDays size={16} />
-          <span>Carry forward</span>
-        </button>
       </div>
 
       <FocusTimer actions={actions} dayId={selectedDay.id} state={state} />
@@ -336,7 +326,7 @@ export function PhaseSections({
         const phaseStat = progress.find((item) => item.phaseId === phase.id);
 
         return (
-          <details className="phase-section" key={phase.id} open={phase.id === "p1"}>
+          <details className="phase-section" key={phase.id} open={phase.id === "sa"}>
             <summary>
               <span>
                 <ChevronDown size={16} />
@@ -437,7 +427,7 @@ export function AnalyticsView({
         <div className="metric-grid compact">
           <MetricTile label="Current streak" value={`${metrics.currentStreak}`} />
           <MetricTile label="Best streak" value={`${metrics.bestStreak}`} />
-          <MetricTile label="Days c/f" value={`${TOTAL_DAYS - metrics.closedDays}`} />
+          <MetricTile label="Days open" value={`${TOTAL_DAYS - metrics.closedDays}`} />
           <MetricTile label="To deadline" value={`${metrics.daysRemaining}`} />
         </div>
       </section>
@@ -538,67 +528,6 @@ export function ErrorsView({
               {!filteredNotes.length ? <p className="empty-line">No matching notes.</p> : null}
             </div>
           </div>
-        </div>
-      </section>
-    </div>
-  );
-}
-
-export function RevisionView({
-  state,
-  ledgers,
-  actions,
-  onSelectDay,
-}: {
-  state: LedgerState;
-  ledgers: DayLedger[];
-  actions: LedgerActions;
-  onSelectDay: (dayId: string) => void;
-}) {
-  const queue = ALL_DAYS.filter((studyDay) => state.revisionFlags[studyDay.id]?.flagged);
-  const p6Days = SCHEDULE.find((phase) => phase.id === "p6")?.days ?? [];
-
-  return (
-    <div className="view-grid">
-      <section className="ledger-panel">
-        <div className="section-kicker">Revision queue</div>
-        <h2>{queue.length} topics flagged</h2>
-        <div className="stack-list">
-          {queue.map((studyDay) => {
-            const flag = state.revisionFlags[studyDay.id];
-
-            return (
-              <button className="queue-item" key={studyDay.id} type="button" onClick={() => onSelectDay(studyDay.id)}>
-                <span>D{studyDay.dayNumber}</span>
-                <strong>{studyDay.topic}</strong>
-                <em>{flag?.lastTouchedIso ? displayDate(flag.lastTouchedIso) : "not touched"}</em>
-              </button>
-            );
-          })}
-          {!queue.length ? <p className="empty-line">The revision queue is clear.</p> : null}
-        </div>
-      </section>
-
-      <section className="ledger-panel wide">
-        <div className="section-kicker">P6 inline queue</div>
-        <h2>Revision, RTP/MTP & mock</h2>
-        <div className="day-rows">
-          {p6Days.map((studyDay) => {
-            const ledger = getLedgerForDay(ledgers, studyDay.id);
-
-            return (
-              <div className="revision-row" key={studyDay.id}>
-                <button type="button" onClick={() => onSelectDay(studyDay.id)}>
-                  <span>D{studyDay.dayNumber}</span>
-                  <strong>{studyDay.topic}</strong>
-                  <em>{ledger ? formatHours(ledger.actualHours) : "0h"}</em>
-                </button>
-                <button className="icon-btn" type="button" onClick={() => actions.toggleRevision(studyDay.id)} aria-label="Toggle revision flag">
-                  <Flag size={17} fill={state.revisionFlags[studyDay.id]?.flagged ? "currentColor" : "none"} />
-                </button>
-              </div>
-            );
-          })}
         </div>
       </section>
     </div>
@@ -748,7 +677,7 @@ export function DataView({
           <MetricTile label="Storage" value="local" />
         </div>
         <p className="subline">
-          A backup now carries everything on this device: the 45-day ledger, chapter mastery, recall cards and their
+          A backup now carries everything on this device: the study ledger, chapter mastery, recall cards and their
           schedule, and saved AI conversations.
         </p>
         <div className="data-actions">

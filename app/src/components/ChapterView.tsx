@@ -207,8 +207,18 @@ export function ChapterView({ chapter, onOpenAi }: { chapter: ChapterAsset; onOp
               <iframe src={chapter.href} title={`${chapter.title} dashboard`} />
             </section>
           ) : (
-            <section className="empty-card">
-              This chapter is registered, but its structured content is still pending migration.
+            <section className="chapter-pending">
+              <span className="folio">Workspace coming soon</span>
+              <h2>Not built out yet — but you can still study it</h2>
+              <p>
+                The interactive workspace for this chapter (flips, drills, calculators and ICAI questions)
+                isn’t in the app yet. Until it lands, study it straight from the AI tutor — it already has this
+                chapter’s context attached, so ask it to teach, drill or test you on any part of it.
+              </p>
+              <button className="btn cap" type="button" onClick={() => onOpenAi(chapterContext(chapter))}>
+                <Brain size={16} strokeWidth={1.8} />
+                Study {chapter.title} with the AI tutor
+              </button>
             </section>
           )}
         </>

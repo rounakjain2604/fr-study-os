@@ -47,7 +47,7 @@ export type SubjectGroup = {
   chapters: ChapterAsset[];
 };
 
-export const chapters: ChapterAsset[] = [
+const frChapters: ChapterAsset[] = [
   {
     id: "fr-ch1-intro",
     title: "Chapter 1",
@@ -353,22 +353,95 @@ export const chapters: ChapterAsset[] = [
   },
 ];
 
+// ============================================================================
+// AFM (Paper 2) — the 16-day sprint subject. These 15 chapters are scaffolded
+// as placeholders so progress, the library and the AI tutor already work.
+//
+// To turn a chapter "Live", build its doc the way FR chapters do
+// (see app/src/data/chapters/*.ts and the ChapterDoc type), then:
+//   import { afmCh3Doc } from "./chapters/afmCh3CapitalBudgeting";
+//   ...and pass it as the 6th argument to afm(...) below.
+// Nothing else needs to change — the workspace renders the doc automatically.
+// ============================================================================
+
+const afm = (
+  chapterNumber: number,
+  subtitle: string,
+  tone: ChapterAsset["tone"],
+  tags: string[],
+  summary: string,
+  doc?: ChapterDoc,
+): ChapterAsset => ({
+  id: `afm-ch${chapterNumber}`,
+  title: `Chapter ${chapterNumber}`,
+  subtitle,
+  subject: "AFM",
+  unit: `Chapter ${chapterNumber}`,
+  status: doc ? "Live" : "Planned",
+  readiness: 0,
+  tone,
+  doc,
+  tags,
+  summary,
+  sections: [],
+  practice: [],
+});
+
+const afmChapters: ChapterAsset[] = [
+  afm(1, "Financial Policy & Corporate Strategy", "gold", ["strategy", "balanced scorecard", "theory"],
+    "The interface between financial and strategic management — financial planning, the balanced scorecard, and the role of the CFO in corporate strategy."),
+  afm(2, "Risk Management", "gold", ["risk types", "framework", "theory"],
+    "Sources and types of risk, the risk-management process, and the financial-risk framework that underpins the rest of the paper."),
+  afm(3, "Advanced Capital Budgeting Decisions", "cap", ["NPV", "risk analysis", "EAC", "simulation"],
+    "Replacement decisions, capital rationing, inflation adjustment, and risk analysis — sensitivity, scenario, simulation, decision trees and certainty equivalents."),
+  afm(4, "Security Analysis", "exp", ["fundamental", "technical", "EMH"],
+    "Fundamental analysis (economy–industry–company), technical analysis, and the Efficient Market Hypothesis."),
+  afm(5, "Security Valuation", "cap", ["bonds", "YTM", "duration", "DDM", "FCFE"],
+    "Valuing debt and equity — bond pricing, YTM, duration and convexity; dividend discount models, FCFE/FCFF and relative-valuation multiples."),
+  afm(6, "Portfolio Management", "cap", ["Markowitz", "CAPM", "beta", "Sharpe"],
+    "Risk and return, the Markowitz efficient frontier, CAPM and the SML, APT, and performance measures — Sharpe, Treynor and Jensen."),
+  afm(7, "Securitization", "ink", ["SPV", "PTC", "mechanism"],
+    "How receivables are pooled and sold through an SPV — the securitization mechanism, instruments (PTC/PCO) and pricing."),
+  afm(8, "Mutual Funds", "ink", ["NAV", "returns", "fund types"],
+    "Net asset value, returns and expense ratios, fund classification, and the evaluation of mutual-fund performance."),
+  afm(9, "Derivatives Analysis & Valuation", "cap", ["futures", "options", "Black-Scholes"],
+    "Forwards and futures (cost-of-carry, hedging) and options — payoffs, put-call parity, binomial and Black-Scholes-Merton valuation, and strategies."),
+  afm(10, "Interest Rate Risk Management", "exp", ["FRA", "swaps", "caps"],
+    "Managing interest-rate risk with FRAs, interest-rate futures, caps/floors/collars, and interest-rate & currency swaps."),
+  afm(11, "Foreign Exchange Exposure & Risk Management", "cap", ["exposure", "hedging", "forex"],
+    "Transaction, translation and economic exposure, and the toolkit to hedge it — forwards, money-market, futures, options and leading/lagging."),
+  afm(12, "International Financial Management", "exp", ["GDR/ADR", "parity", "capital budgeting"],
+    "Raising finance internationally (GDR/ADR), the parity relationships (IRP, PPP, IFE), and international capital budgeting."),
+  afm(13, "Business Valuation", "cap", ["DCF", "EVA", "relative"],
+    "Valuing a business — DCF, relative and asset-based approaches, plus EVA and MVA."),
+  afm(14, "Mergers, Acquisitions & Corporate Restructuring", "cap", ["synergy", "swap ratio", "LBO"],
+    "Synergy and swap-ratio determination, the P/E impact of a merger, and corporate restructuring — demerger, buy-back, LBO and financial restructuring."),
+  afm(15, "Startup Finance", "gold", ["pitch", "VC method", "valuation"],
+    "Financing a startup — the pitch, sources of funding, and startup valuation methods (Berkus, scorecard and the VC method)."),
+];
+
+// AFM first — it is the active sprint subject and the default resume target.
+export const chapters: ChapterAsset[] = [...afmChapters, ...frChapters];
+
+const averageReadiness = (list: ChapterAsset[]) =>
+  list.length ? Math.round(list.reduce((sum, chapter) => sum + chapter.readiness, 0) / list.length) : 0;
+
 export const subjects: SubjectGroup[] = [
+  {
+    id: "afm",
+    code: "AFM",
+    name: "Advanced Financial Management",
+    group: "Group I · Sprint focus",
+    readiness: averageReadiness(afmChapters),
+    chapters: afmChapters,
+  },
   {
     id: "fr",
     code: "FR",
     name: "Financial Reporting",
     group: "Group I",
-    readiness: Math.round(chapters.reduce((sum, chapter) => sum + chapter.readiness, 0) / chapters.length),
-    chapters,
-  },
-  {
-    id: "afm",
-    code: "AFM",
-    name: "Advanced Financial Management",
-    group: "Group I",
-    readiness: 6,
-    chapters: [],
+    readiness: averageReadiness(frChapters),
+    chapters: frChapters,
   },
   {
     id: "audit",
