@@ -1794,6 +1794,313 @@ textarea {
   }
 }
 
+/* ── production polish: motion, feedback, chrome ───────────────────────────── */
+
+/* Replace the default scrollbar with a quiet, on-brand one. */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--rule) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+*::-webkit-scrollbar-thumb {
+  border: 3px solid transparent;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--faint) 55%, transparent);
+  background-clip: content-box;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: color-mix(in srgb, var(--faint) 80%, transparent);
+  background-clip: content-box;
+}
+
+/* Skip link — first tab stop, hidden until focused. */
+.skip-link {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  z-index: 100;
+  padding: 9px 15px;
+  border-radius: 9px;
+  background: var(--ink);
+  color: var(--on-ink);
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-decoration: none;
+  transform: translateY(-160%);
+  transition: transform 0.18s ease;
+}
+
+.skip-link:focus-visible {
+  transform: translateY(0);
+  outline: none;
+}
+
+/* Press & hover feedback — unify transitions so transforms animate too. */
+.btn,
+.icon-btn,
+.composer-send,
+.chapter-card,
+.metric-card.as-button,
+.nav-rail button,
+.bottom-nav button,
+.mode-chip {
+  transition-property: background, border-color, color, opacity, box-shadow, transform;
+  transition-duration: 0.16s;
+  transition-timing-function: ease;
+}
+
+.btn:active:not(:disabled),
+.icon-btn:active,
+.composer-send:active:not(:disabled),
+.nav-rail button:active,
+.bottom-nav button:active,
+.mode-chip:active {
+  transform: scale(0.96);
+}
+
+.chapter-card:hover,
+.metric-card.as-button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(33, 32, 28, 0.07);
+}
+
+:root[data-theme="dark"] .chapter-card:hover,
+:root[data-theme="dark"] .metric-card.as-button:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.32);
+}
+
+.chapter-card:active,
+.metric-card.as-button:active {
+  transform: translateY(0) scale(0.99);
+}
+
+/* View transition — each section fades up as it mounts. */
+@keyframes view-in {
+  from {
+    opacity: 0;
+    transform: translateY(7px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.view-shell {
+  display: grid;
+  gap: 18px;
+  align-content: start;
+  animation: view-in 0.26s cubic-bezier(0.2, 0.9, 0.2, 1);
+}
+
+.view-loading {
+  display: grid;
+  place-items: center;
+  min-height: 50vh;
+}
+
+.view-loading span,
+.chart-skeleton {
+  display: block;
+  border-radius: 12px;
+  background: linear-gradient(
+    100deg,
+    var(--panel-strong) 30%,
+    color-mix(in srgb, var(--panel-strong) 40%, var(--panel)) 50%,
+    var(--panel-strong) 70%
+  );
+  background-size: 220% 100%;
+  animation: shimmer 1.3s ease-in-out infinite;
+}
+
+.view-loading span {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+}
+
+.chart-skeleton {
+  height: 270px;
+}
+
+@keyframes shimmer {
+  from { background-position: 200% 0; }
+  to { background-position: -200% 0; }
+}
+
+/* Active indicator above the current mobile tab. */
+.bottom-nav button {
+  position: relative;
+}
+
+.bottom-nav button.active::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 22px;
+  height: 3px;
+  border-radius: 999px;
+  background: var(--text);
+  transform: translateX(-50%);
+  animation: tab-in 0.22s ease;
+}
+
+@keyframes tab-in {
+  from { opacity: 0; transform: translateX(-50%) scaleX(0.4); }
+  to { opacity: 1; transform: translateX(-50%) scaleX(1); }
+}
+
+/* Install affordance. */
+.install-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  min-height: 36px;
+  border: 1px solid color-mix(in srgb, var(--text) 24%, var(--rule));
+  border-radius: 10px;
+  padding: 8px 11px;
+  background: var(--panel);
+  color: var(--text);
+  cursor: pointer;
+  font-size: 0.84rem;
+  font-weight: 600;
+  transition: background 0.15s, transform 0.15s;
+}
+
+.install-btn:hover {
+  background: var(--panel-strong);
+}
+
+.install-btn:active {
+  transform: scale(0.97);
+}
+
+/* AI answer copy button. */
+.chat-row.assistant {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+}
+
+.chat-copy {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin-left: 4px;
+  border: 0;
+  background: transparent;
+  color: var(--faint);
+  cursor: pointer;
+  font-size: 0.72rem;
+  font-weight: 600;
+  opacity: 0;
+  transition: opacity 0.15s, color 0.15s;
+}
+
+.chat-row.assistant:hover .chat-copy,
+.chat-copy:focus-visible {
+  opacity: 1;
+}
+
+.chat-copy:hover {
+  color: var(--text);
+}
+
+@media (hover: none) {
+  .chat-copy {
+    opacity: 0.7;
+  }
+}
+
+/* Toasts — bottom-centred, above the mobile tab bar. */
+.toaster {
+  position: fixed;
+  bottom: calc(22px + env(safe-area-inset-bottom));
+  left: 50%;
+  z-index: 80;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  width: max-content;
+  max-width: min(92vw, 420px);
+  transform: translateX(-50%);
+  pointer-events: none;
+}
+
+.toast {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid var(--rule);
+  border-radius: 12px;
+  padding: 10px 12px 10px 14px;
+  background: var(--panel);
+  color: var(--text);
+  box-shadow: var(--shadow-pop);
+  font-size: 0.84rem;
+  font-weight: 500;
+  pointer-events: auto;
+  animation: toast-in 0.24s cubic-bezier(0.2, 0.9, 0.2, 1);
+}
+
+.toast svg {
+  flex: 0 0 auto;
+  color: var(--muted);
+}
+
+.toast.success svg {
+  color: var(--posted);
+}
+
+.toast.error svg {
+  color: var(--red-ink);
+}
+
+.toast span {
+  flex: 1;
+}
+
+.toast button {
+  display: inline-grid;
+  place-items: center;
+  width: 22px;
+  height: 22px;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--faint);
+  cursor: pointer;
+}
+
+.toast button:hover {
+  background: var(--panel-strong);
+  color: var(--text);
+}
+
+@keyframes toast-in {
+  from { opacity: 0; transform: translateY(14px) scale(0.96); }
+  to { opacity: 1; transform: none; }
+}
+
+@media (max-width: 1023px) {
+  .view-shell {
+    gap: 14px;
+  }
+
+  .toaster {
+    bottom: calc(80px + env(safe-area-inset-bottom));
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

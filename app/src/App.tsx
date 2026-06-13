@@ -1,9 +1,10 @@
-import { useEffect, useMemo, useState, type FormEvent } from "react";
+import { Suspense, lazy, useEffect, useMemo, useState, type FormEvent } from "react";
 import {
   BarChart3,
   BookOpen,
   Brain,
   ClipboardList,
+  Download,
   Flag,
   Gauge,
   Home,
@@ -24,10 +25,15 @@ import { useFlashcards } from "./hooks/useFlashcards";
 import { askTutor, chapterContext, type AiContext, type AiMessage, type AiMode } from "./lib/ai";
 import { hasLocalChanges, pushOnHide, syncConfigured, syncNow, type SyncStatus } from "./lib/sync";
 import { createThread, loadAiThreads, saveAiThreads, type AiThread } from "./lib/aiThreads";
-import { AiView } from "./components/AiView";
 import { CardsView } from "./components/CardsView";
 import { ChapterView } from "./components/ChapterView";
 import { CommandPalette } from "./components/CommandPalette";
+import { Toaster } from "./components/Toaster";
+import { toast } from "./lib/toast";
+import { usePwaInstall } from "./hooks/usePwaInstall";
+
+// react-markdown + remark-gfm are sizeable; only load the AI page on demand.
+const AiView = lazy(() => import("./components/AiView").then((module) => ({ default: module.AiView })));
 import { buildPaletteCommands } from "./lib/paletteCommands";
 import { SyllabusLedger } from "./components/SyllabusLedger";
 import {
@@ -118,6 +124,7 @@ const cx = (...classes: Array<string | false | null | undefined>) => classes.fil
 function App() {
   const { actions, burnUp, importError, ledgers, metrics, state, trialBalance } = useLedgerState();
   const flashcards = useFlashcards();
+  const { canInstall, promptInstall } = usePwaInstall();
   const [activeSection, setActiveSection] = useState<AppSection>(() => readHashRoute().section);
   const [selectedChapterId, setSelectedChapterId] = useState(initialChapterId);
   const [selectedDayId, setSelectedDayId] = useState(() => getActiveDay(state).id);
@@ -176,10 +183,24 @@ function App() {
     return () => window.removeEventListener("keydown", onKeyDown);
   }, []);
 
+  // The service worker sets this flag just before it reloads us onto a new
+  // build, so we can confirm the silent auto-update once the fresh app boots.
+  useEffect(() => {
+    try {
+      if (localStorage.getItem("fr45-just-updated") === "1") {
+        localStorage.removeItem("fr45-just-updated");
+        toast("Updated to the latest version", "success");
+      }
+    } catch {
+      // storage unavailable
+    }
+  }, []);
+
   // Cloud sync: pull on open, push edits in the background, push on hide,
   // pull again when the app returns to the foreground.
   useEffect(() => {
     let cancelled = false;
+    let lastStatus: SyncStatus | null = null;
 
     const runSync = async () => {
       if (!syncConfigured()) {
@@ -193,6 +214,11 @@ function App() {
         window.location.reload();
         return;
       }
+      // Only surface a toast on the edge into an error, not on every poll.
+      if (outcome.status === "error" && lastStatus !== "error") {
+        toast("Cloud sync failed — working offline, changes are saved locally", "error");
+      }
+      lastStatus = outcome.status;
       setSyncStatus(outcome.status);
     };
 
@@ -356,8 +382,17 @@ function App() {
       </div>
     ) : null;
 
+  const installButton = canInstall ? (
+    <button className="install-btn" type="button" onClick={promptInstall}>
+      <Download size={16} strokeWidth={1.8} />
+      <span>Install app</span>
+    </button>
+  ) : null;
+
   return (
     <div className="app-frame">
+      <a className="skip-link" href="#main">Skip to content</a>
+      <Toaster />
       <CommandPalette commands={paletteCommands} open={paletteOpen} onClose={() => setPaletteOpen(false)} />
 
       {/* Desktop sidebar */}
@@ -394,6 +429,7 @@ function App() {
               <span>{state.theme === "dark" ? "Light mode" : "Dark mode"}</span>
             </button>
           </nav>
+          {installButton}
           {syncChip}
         </div>
       </aside>
@@ -445,6 +481,7 @@ function App() {
               </button>
             </div>
             <div className="sheet-foot">
+              {installButton}
               <div className="progress-wrap">
                 <div className="progress-label">
                   <span>45-day pace</span>
@@ -457,7 +494,9 @@ function App() {
         </div>
       ) : null}
 
-      <main className="main-stage">
+      <main className="main-stage" id="main">
+       <Suspense fallback={<div className="view-loading" aria-hidden="true"><span /></div>}>
+        <div className="view-shell" key={activeSection}>
         {activeSection !== "home" ? (
           <header className="topline">
             <div>
@@ -553,6 +592,8 @@ function App() {
             onSelectThread={selectThread}
           />
         ) : null}
+        </div>
+       </Suspense>
       </main>
 
       {/* Mobile bottom tab bar */}

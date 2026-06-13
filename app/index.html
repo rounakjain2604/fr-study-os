@@ -3,19 +3,66 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="color-scheme" content="light dark" />
     <meta name="theme-color" content="#faf9f5" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#171614" media="(prefers-color-scheme: dark)" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <meta name="apple-mobile-web-app-title" content="FR Ledger" />
-    <meta name="description" content="A CA Final Financial Reporting study OS with chapter dashboards, AI tutor, and 45-day ledger." />
+    <meta name="apple-mobile-web-app-title" content="FR Study OS" />
+    <meta name="application-name" content="FR Study OS" />
+    <meta name="description" content="A CA Final Financial Reporting study OS with chapter dashboards, an AI tutor, spaced-repetition recall cards, and a 45-day study ledger." />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="FR Study OS" />
+    <meta property="og:description" content="Chapter dashboards, an AI tutor, recall cards, and a 45-day ledger for CA Final Financial Reporting." />
+    <meta property="og:image" content="%BASE_URL%icon.svg" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="FR Study OS" />
+    <meta name="twitter:description" content="Chapter dashboards, an AI tutor, recall cards, and a 45-day ledger for CA Final Financial Reporting." />
+
     <link rel="icon" type="image/svg+xml" href="%BASE_URL%icon.svg" />
     <link rel="apple-touch-icon" href="%BASE_URL%icon.svg" />
     <link rel="manifest" href="%BASE_URL%manifest.webmanifest" />
     <title>FR Study OS</title>
+    <style>
+      /* Instant boot splash — painted before the JS bundle parses, then replaced
+         by React. Uses the same paper/ink palette and honours dark mode. */
+      :root { --boot-bg: #faf9f5; --boot-ink: #21201c; --boot-rule: #e7e4db; }
+      @media (prefers-color-scheme: dark) {
+        :root { --boot-bg: #171614; --boot-ink: #ecebe5; --boot-rule: #353329; }
+      }
+      html, body { margin: 0; background: var(--boot-bg); }
+      #boot {
+        position: fixed;
+        inset: 0;
+        display: grid;
+        place-content: center;
+        justify-items: center;
+        gap: 18px;
+        background: var(--boot-bg);
+        color: var(--boot-ink);
+        font-family: "Fraunces", ui-serif, Georgia, serif;
+      }
+      #boot .boot-mark { font-size: 1.25rem; letter-spacing: -0.01em; opacity: 0.92; }
+      #boot .boot-spin {
+        width: 26px; height: 26px;
+        border: 2px solid var(--boot-rule);
+        border-top-color: var(--boot-ink);
+        border-radius: 50%;
+        animation: boot-spin 0.7s linear infinite;
+      }
+      @keyframes boot-spin { to { transform: rotate(360deg); } }
+      @media (prefers-reduced-motion: reduce) { #boot .boot-spin { animation: none; } }
+    </style>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <div id="boot">
+        <div class="boot-mark">FR Study OS</div>
+        <div class="boot-spin" role="status" aria-label="Loading"></div>
+      </div>
+    </div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

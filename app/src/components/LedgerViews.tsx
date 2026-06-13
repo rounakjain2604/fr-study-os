@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState, type FormEvent } from "react";
+import { Suspense, lazy, useEffect, useRef, useState, type FormEvent } from "react";
 import {
   CalendarDays,
   Check,
@@ -14,15 +14,6 @@ import {
   TimerReset,
   Upload,
 } from "lucide-react";
-import {
-  CartesianGrid,
-  Line,
-  LineChart,
-  ResponsiveContainer,
-  Tooltip,
-  XAxis,
-  YAxis,
-} from "recharts";
 import { ALL_DAYS, SCHEDULE, TARGET_DATE, TOTAL_DAYS, dayPlannedHours, type StudyDay } from "../data/schedule";
 import {
   displayDate,
@@ -58,6 +49,10 @@ const varianceCopy = (variance: number) => {
 };
 
 const cx = (...classes: Array<string | false | null | undefined>) => classes.filter(Boolean).join(" ");
+
+// recharts is heavy; load it only when a chart-bearing view actually renders.
+const BurnUpChart = lazy(() => import("./BurnUpChart"));
+const ScoreTrendChart = lazy(() => import("./BurnUpChart").then((module) => ({ default: module.ScoreTrendChart })));
 
 export function DayBookGrid({
   ledgers,
@@ -429,16 +424,9 @@ export function AnalyticsView({
           <MetricTile label="Projected close" value={metrics.projectedCompletionDate ? displayDateWithYear(metrics.projectedCompletionDate) : "No pace"} />
         </div>
         <div className="chart-box">
-          <ResponsiveContainer height={270} width="100%">
-            <LineChart data={burnUp} margin={{ bottom: 0, left: -18, right: 10, top: 12 }}>
-              <CartesianGrid stroke="var(--rule)" strokeDasharray="2 6" />
-              <XAxis dataKey="date" minTickGap={24} stroke="var(--muted)" tick={{ fontSize: 11 }} />
-              <YAxis stroke="var(--muted)" tick={{ fontSize: 11 }} />
-              <Tooltip contentStyle={{ background: "var(--panel)", border: "1px solid var(--rule)", color: "var(--text)" }} />
-              <Line dataKey="planned" dot={false} stroke="var(--pending)" strokeWidth={2} type="monotone" />
-              <Line dataKey="actual" dot={false} stroke="var(--posted)" strokeWidth={3} type="monotone" />
-            </LineChart>
-          </ResponsiveContainer>
+          <Suspense fallback={<div className="chart-skeleton" aria-hidden="true" />}>
+            <BurnUpChart burnUp={burnUp} />
+          </Suspense>
         </div>
       </section>
 
@@ -677,15 +665,9 @@ export function MocksView({
       <section className="ledger-panel wide">
         <div className="section-kicker">Score trend</div>
         <div className="chart-box">
-          <ResponsiveContainer height={240} width="100%">
-            <LineChart data={chartData} margin={{ left: -18, right: 10, top: 12 }}>
-              <CartesianGrid stroke="var(--rule)" strokeDasharray="2 6" />
-              <XAxis dataKey="label" stroke="var(--muted)" />
-              <YAxis stroke="var(--muted)" />
-              <Tooltip contentStyle={{ background: "var(--panel)", border: "1px solid var(--rule)", color: "var(--text)" }} />
-              <Line dataKey="score" stroke="var(--posted)" strokeWidth={3} type="monotone" />
-            </LineChart>
-          </ResponsiveContainer>
+          <Suspense fallback={<div className="chart-skeleton" aria-hidden="true" />}>
+            <ScoreTrendChart data={chartData} />
+          </Suspense>
         </div>
         <div className="stack-list">
           {attempts.map((attempt) => (

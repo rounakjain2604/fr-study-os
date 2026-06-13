@@ -32,6 +32,12 @@ if ("serviceWorker" in navigator) {
       navigator.serviceWorker.addEventListener("controllerchange", () => {
         if (refreshing) return;
         refreshing = true;
+        // Leave a breadcrumb so the freshly-loaded build can confirm the update.
+        try {
+          localStorage.setItem("fr45-just-updated", "1");
+        } catch {
+          // storage unavailable — reload silently
+        }
         window.location.reload();
       });
     });

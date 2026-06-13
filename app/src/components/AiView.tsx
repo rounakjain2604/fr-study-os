@@ -1,9 +1,10 @@
 import { useEffect, useRef, useState, type FormEvent } from "react";
 import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import { ArrowUp, BookOpen, History, Plus, Trash2, X } from "lucide-react";
+import { ArrowUp, BookOpen, Check, Copy, History, Plus, Trash2, X } from "lucide-react";
 import type { AiContext, AiMessage, AiMode } from "../lib/ai";
 import type { AiThread } from "../lib/aiThreads";
+import { toast } from "../lib/toast";
 
 const cx = (...classes: Array<string | false | null | undefined>) => classes.filter(Boolean).join(" ");
 
@@ -19,11 +20,28 @@ const composerPlaceholder = (mode: AiMode) =>
   mode === "answer_check" ? "Write your full answer here — the tutor will mark it…" : "Type your question…";
 
 function AssistantMessage({ content }: { content: string }) {
+  const [copied, setCopied] = useState(false);
+
+  const copy = async () => {
+    try {
+      await navigator.clipboard.writeText(content);
+      setCopied(true);
+      toast("Answer copied", "success", 1800);
+      window.setTimeout(() => setCopied(false), 1600);
+    } catch {
+      toast("Couldn't copy — your browser blocked clipboard access", "error");
+    }
+  };
+
   return (
     <div className="chat-row assistant">
       <div className="chat-bubble assistant md">
         <Markdown remarkPlugins={[remarkGfm]}>{content}</Markdown>
       </div>
+      <button className="chat-copy" type="button" onClick={copy} aria-label="Copy answer">
+        {copied ? <Check size={13} /> : <Copy size={13} />}
+        {copied ? "Copied" : "Copy"}
+      </button>
     </div>
   );
 }
