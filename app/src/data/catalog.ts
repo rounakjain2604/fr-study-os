@@ -3,6 +3,8 @@ import { indAs23Doc } from "./chapters/indAs23";
 import { frCh1IntroIndAsDoc } from "./chapters/frCh1IntroIndAs";
 import { frCh2FrameworkDoc } from "./chapters/frCh2Framework";
 import { frCh3PresentationDoc } from "./chapters/frCh3Presentation";
+import { afmCh1FinancialPolicyDoc } from "./chapters/afmCh1FinancialPolicy";
+import { afmCh2RiskManagementDoc } from "./chapters/afmCh2RiskManagement";
 
 export type StudyStatus = "Live" | "Dashboard" | "Planned" | "Source Ready";
 
@@ -388,10 +390,12 @@ const afm = (
 });
 
 const afmChapters: ChapterAsset[] = [
-  afm(1, "Financial Policy & Corporate Strategy", "gold", ["strategy", "balanced scorecard", "theory"],
-    "The interface between financial and strategic management — financial planning, the balanced scorecard, and the role of the CFO in corporate strategy."),
-  afm(2, "Risk Management", "gold", ["risk types", "framework", "theory"],
-    "Sources and types of risk, the risk-management process, and the financial-risk framework that underpins the rest of the paper."),
+  afm(1, "Financial Policy & Corporate Strategy", "gold", ["strategy", "sustainable growth", "SGR", "theory"],
+    "The interface between financial policy and corporate strategy — strategic financial management, financial planning, and the sustainable growth rate (PRAT model).",
+    afmCh1FinancialPolicyDoc),
+  afm(2, "Risk Management", "gold", ["risk types", "VaR", "framework", "theory"],
+    "Risk vs uncertainty, the family tree of risk types, the five-step management process, the four response strategies, and Value at Risk.",
+    afmCh2RiskManagementDoc),
   afm(3, "Advanced Capital Budgeting Decisions", "cap", ["NPV", "risk analysis", "EAC", "simulation"],
     "Replacement decisions, capital rationing, inflation adjustment, and risk analysis — sensitivity, scenario, simulation, decision trees and certainty equivalents."),
   afm(4, "Security Analysis", "exp", ["fundamental", "technical", "EMH"],
