@@ -4,6 +4,7 @@ import {
   BookOpen,
   Brain,
   ChevronDown,
+  ChevronLeft,
   ChevronRight,
   ClipboardList,
   Download,
@@ -122,6 +123,24 @@ function App() {
   const { actions, burnUp, importError, ledgers, metrics, state, trialBalance } = useLedgerState();
   const flashcards = useFlashcards();
   const { canInstall, promptInstall } = usePwaInstall();
+  const [railCollapsed, setRailCollapsed] = useState(() => {
+    try {
+      return localStorage.getItem("fr45-rail-collapsed") === "1";
+    } catch {
+      return false;
+    }
+  });
+
+  const toggleRail = () =>
+    setRailCollapsed((collapsed) => {
+      const next = !collapsed;
+      try {
+        localStorage.setItem("fr45-rail-collapsed", next ? "1" : "0");
+      } catch {
+        // storage unavailable
+      }
+      return next;
+    });
   const [activeSection, setActiveSection] = useState<AppSection>(() => readHashRoute().section);
   const [selectedChapterId, setSelectedChapterId] = useState(initialChapterId);
   const [selectedDayId, setSelectedDayId] = useState(() => getActiveDay(state).id);
@@ -363,6 +382,7 @@ function App() {
         className={cx(activeSection === item.id && "active")}
         key={item.id}
         type="button"
+        title={item.label}
         onClick={() => changeSection(item.id)}
       >
         <Icon size={16} strokeWidth={1.8} />
@@ -387,7 +407,7 @@ function App() {
   ) : null;
 
   return (
-    <div className="app-frame">
+    <div className={cx("app-frame", railCollapsed && "rail-collapsed")}>
       <a className="skip-link" href="#main">Skip to content</a>
       <Toaster />
       <CommandPalette commands={paletteCommands} open={paletteOpen} onClose={() => setPaletteOpen(false)} />
@@ -395,11 +415,22 @@ function App() {
       {/* Desktop sidebar */}
       <aside className="side-rail">
         <div className="brand-block">
-          <div className="brand">FR Study OS</div>
-          <div className="brand-sub">CA Final · May 2027</div>
+          <div className="brand-text">
+            <div className="brand">FR Study OS</div>
+            <div className="brand-sub">CA Final · May 2027</div>
+          </div>
+          <button
+            className="rail-toggle"
+            type="button"
+            title={railCollapsed ? "Expand sidebar" : "Collapse sidebar"}
+            aria-label={railCollapsed ? "Expand sidebar" : "Collapse sidebar"}
+            onClick={toggleRail}
+          >
+            {railCollapsed ? <ChevronRight size={16} /> : <ChevronLeft size={16} />}
+          </button>
         </div>
 
-        <button className="rail-search" type="button" onClick={() => setPaletteOpen(true)}>
+        <button className="rail-search" type="button" title="Search (Ctrl K)" onClick={() => setPaletteOpen(true)}>
           <Search size={14} />
           <span>Search</span>
           <kbd>Ctrl K</kbd>

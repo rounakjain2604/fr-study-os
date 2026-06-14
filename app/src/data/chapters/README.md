@@ -39,6 +39,52 @@ guessing.
 
 ---
 
+## 0.5 Author it — do NOT paste the raw extraction (read this twice)
+
+"Complete" means **fully reproduced AND readable**. It does **NOT** mean copying
+the raw text-extraction of the PDF into `question`/`solution` strings. A raw
+dump fails the assignment even if every illustration is technically present,
+because the student cannot read it. The first attempt at Chapter 3 did exactly
+this and was rejected — learn from it:
+
+**Banned (these are bugs, not content):**
+
+- ❌ **Pasting the PDF extraction verbatim.** Re-type every illustration and
+  solution as clean, readable text/HTML. Read the source, understand the maths,
+  then write it properly.
+- ❌ **Whitespace-aligned "tables" inside a string** (columns separated by runs
+  of spaces and `<br>`). **HTML collapses whitespace**, so these render as an
+  unreadable wall of numbers. **Every table MUST use the `table` block** on a
+  `ConceptCard` (see §5 "Tables"). No exceptions.
+- ❌ **Broken/collapsed formula layout** from the PDF, e.g.
+  `16,500 18,150 19,965 21,962 + 2 + 3 + 4 - 40,000 (1.12)`. Rebuild each
+  formula cleanly in a `formula` block using Unicode, e.g.
+  `NPV = Σ [CFₜ ÷ (1+k)ᵗ] − I₀`, then show the substitution step-by-step.
+- ❌ **Mojibake / extraction artefacts**: glyphs like `൫ ൯`, `σ2` (write **σ²**),
+  `Σt=1`, `I oNPV`, `RateReal`, stray superscript digits inline. None of these
+  may appear. Folios use the pilcrow **`¶`** (e.g. `"¶ 1"`), never `₹`.
+- ❌ **Truncated titles** ending in `...`. Write a real, short descriptive title
+  for every `tyk` item (e.g. "Inflation-adjusted NPV — two approaches").
+- ❌ **Theory bleeding into a `solution`.** A `tyk` `solution` contains the
+  worked answer only. Section theory belongs in `cards`/`note`/`formula` blocks
+  in the relevant section, not appended to an illustration's solution.
+
+**Required quality bar for every numerical illustration:**
+
+1. A clear `title` and the full `question` (clean text; data tables as a `table`
+   block or a tidy inline list — not space-aligned columns).
+2. A `solution` that a student can follow line by line: formula stated → values
+   substituted → intermediate figures → **final answer in bold**. Use a `table`
+   block for any working that is naturally tabular (cash-flow schedules, PV
+   tables, variance tables).
+3. Figures must tie out to ICAI exactly (same rounding, same PV factors).
+
+If reproducing one illustration cleanly takes 40–80 lines, that is correct.
+Quality and readability are the whole point — the student reads *this*, not the
+book.
+
+---
+
 ## 1. What already exists (study these first)
 
 Two AFM chapters are done and are your **reference implementations**:

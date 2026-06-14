@@ -5,6 +5,10 @@ import { frCh2FrameworkDoc } from "./chapters/frCh2Framework";
 import { frCh3PresentationDoc } from "./chapters/frCh3Presentation";
 import { afmCh1FinancialPolicyDoc } from "./chapters/afmCh1FinancialPolicy";
 import { afmCh2RiskManagementDoc } from "./chapters/afmCh2RiskManagement";
+// NOTE: afmCh3CapitalBudgeting.ts exists as a DRAFT but is intentionally NOT
+// wired in — its content is a raw PDF-text extraction (broken formula layout,
+// mojibake, whitespace-collapsed tables) and must be re-authored to the README
+// standard before going Live. Re-add the import + 7th arg once that's done.
 
 export type StudyStatus = "Live" | "Dashboard" | "Planned" | "Source Ready";
 
@@ -502,4 +506,3 @@ export const subjects: SubjectGroup[] = [
     chapters: [],
   },
 ];
-
