@@ -9,28 +9,28 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <meta name="apple-mobile-web-app-title" content="FR Study OS" />
-    <meta name="application-name" content="FR Study OS" />
-    <meta name="description" content="A CA Final Financial Reporting study OS with chapter dashboards, an AI tutor, spaced-repetition recall cards, and a 45-day study ledger." />
+    <meta name="apple-mobile-web-app-title" content="Trinsic" />
+    <meta name="application-name" content="Trinsic" />
+    <meta name="description" content="Trinsic — a calm, premium CA Final study OS: authored chapter workspaces, an AI tutor, spaced-repetition recall cards, and a day-by-day study plan." />
 
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="FR Study OS" />
-    <meta property="og:description" content="Chapter dashboards, an AI tutor, recall cards, and a 45-day ledger for CA Final Financial Reporting." />
+    <meta property="og:title" content="Trinsic" />
+    <meta property="og:description" content="A calm place to master what you study — chapter workspaces, an AI tutor, recall cards, and a day-by-day plan for CA Final." />
     <meta property="og:image" content="%BASE_URL%icon.svg" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="FR Study OS" />
-    <meta name="twitter:description" content="Chapter dashboards, an AI tutor, recall cards, and a 45-day ledger for CA Final Financial Reporting." />
+    <meta name="twitter:title" content="Trinsic" />
+    <meta name="twitter:description" content="A calm place to master what you study — chapter workspaces, an AI tutor, recall cards, and a day-by-day plan for CA Final." />
 
     <link rel="icon" type="image/svg+xml" href="%BASE_URL%icon.svg" />
     <link rel="apple-touch-icon" href="%BASE_URL%icon.svg" />
     <link rel="manifest" href="%BASE_URL%manifest.webmanifest" />
-    <title>FR Study OS</title>
+    <title>Trinsic</title>
     <style>
       /* Instant boot splash — painted before the JS bundle parses, then replaced
          by React. Uses the same paper/ink palette and honours dark mode. */
-      :root { --boot-bg: #faf9f5; --boot-ink: #21201c; --boot-rule: #e7e4db; }
+      :root { --boot-bg: #faf9f5; --boot-ink: #21201c; --boot-rule: #e7e4db; --boot-accent: #be7338; }
       @media (prefers-color-scheme: dark) {
-        :root { --boot-bg: #171614; --boot-ink: #ecebe5; --boot-rule: #353329; }
+        :root { --boot-bg: #171614; --boot-ink: #ecebe5; --boot-rule: #353329; --boot-accent: #d2935a; }
       }
       html, body { margin: 0; background: var(--boot-bg); }
       #boot {
@@ -44,7 +44,8 @@
         color: var(--boot-ink);
         font-family: "Fraunces", ui-serif, Georgia, serif;
       }
-      #boot .boot-mark { font-size: 1.25rem; letter-spacing: -0.01em; opacity: 0.92; }
+      #boot .boot-emblem { color: var(--boot-accent); }
+      #boot .boot-mark { font-size: 1.4rem; letter-spacing: 0.02em; opacity: 0.92; }
       #boot .boot-spin {
         width: 26px; height: 26px;
         border: 2px solid var(--boot-rule);
@@ -59,7 +60,17 @@
   <body>
     <div id="root">
       <div id="boot">
-        <div class="boot-mark">FR Study OS</div>
+        <svg class="boot-emblem" width="38" height="48" viewBox="0 0 48 60" fill="none" aria-hidden="true">
+          <circle cx="24" cy="5" r="2" fill="currentColor"/>
+          <path d="M9,55 L9,26 Q9,16.5 16.5,11.5 Q24,6.5 31.5,11.5 Q39,16.5 39,26 L39,55" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M33,13.5 L34.3,17.2 L38,18.5 L34.3,19.8 L33,23.5 L31.7,19.8 L28,18.5 L31.7,17.2 Z" fill="currentColor"/>
+          <g stroke="currentColor" stroke-width="1.3" stroke-linecap="round">
+            <path d="M33.5,37 L35.5,37 M32.1,28.9 L30.7,30.3 M24,25.5 L24,27.5 M15.9,28.9 L17.3,30.3 M12.5,37 L14.5,37 M15.9,45.1 L17.3,43.7 M24,48.5 L24,46.5 M32.1,45.1 L30.7,43.7"/>
+            <circle cx="24" cy="37" r="8.4" stroke-width="1.5"/>
+          </g>
+          <text x="24" y="41" text-anchor="middle" font-size="12.5" font-family="Georgia, serif" fill="currentColor">ॐ</text>
+        </svg>
+        <div class="boot-mark">Trinsic</div>
         <div class="boot-spin" role="status" aria-label="Loading"></div>
       </div>
     </div>

@@ -1,8 +1,8 @@
 {
   "id": "fr-study-os",
-  "name": "FR Study OS",
-  "short_name": "FR Study OS",
-  "description": "A CA Final Financial Reporting study OS with chapter dashboards, AI tutor, and a 45-day ledger.",
+  "name": "Trinsic",
+  "short_name": "Trinsic",
+  "description": "A calm, premium CA Final study OS — authored chapter workspaces, an AI tutor, recall cards, and a day-by-day study plan.",
   "lang": "en-IN",
   "dir": "ltr",
   "start_url": ".",

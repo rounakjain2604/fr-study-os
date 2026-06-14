@@ -30,6 +30,8 @@ import { createThread, loadAiThreads, saveAiThreads, type AiThread } from "./lib
 import { CardsView } from "./components/CardsView";
 import { ChapterView } from "./components/ChapterView";
 import { CommandPalette } from "./components/CommandPalette";
+import { Onboarding } from "./components/Onboarding";
+import { TrinsicMark } from "./components/TrinsicMark";
 import { Toaster } from "./components/Toaster";
 import { toast } from "./lib/toast";
 import { usePwaInstall } from "./hooks/usePwaInstall";
@@ -154,6 +156,22 @@ function App() {
   const [activeThreadId, setActiveThreadId] = useState<string | null>(null);
   const [aiBusy, setAiBusy] = useState(false);
   const [syncStatus, setSyncStatus] = useState<SyncStatus>(() => (syncConfigured() ? "syncing" : "off"));
+  const [showOnboarding, setShowOnboarding] = useState(() => {
+    try {
+      return localStorage.getItem("trinsic-onboarded-v1") !== "1";
+    } catch {
+      return false;
+    }
+  });
+
+  const finishOnboarding = () => {
+    setShowOnboarding(false);
+    try {
+      localStorage.setItem("trinsic-onboarded-v1", "1");
+    } catch {
+      // storage unavailable
+    }
+  };
 
   const activeDay = useMemo(() => getActiveDay(state), [state]);
   const selectedDay = ALL_DAYS.find((studyDay) => studyDay.id === selectedDayId) ?? activeDay;
@@ -408,6 +426,7 @@ function App() {
 
   return (
     <div className={cx("app-frame", railCollapsed && "rail-collapsed")}>
+      {showOnboarding ? <Onboarding onDone={finishOnboarding} /> : null}
       <a className="skip-link" href="#main">Skip to content</a>
       <Toaster />
       <CommandPalette commands={paletteCommands} open={paletteOpen} onClose={() => setPaletteOpen(false)} />
@@ -415,9 +434,12 @@ function App() {
       {/* Desktop sidebar */}
       <aside className="side-rail">
         <div className="brand-block">
-          <div className="brand-text">
-            <div className="brand">FR Study OS</div>
-            <div className="brand-sub">CA Final · May 2027</div>
+          <div className="brand-lockup">
+            <TrinsicMark className="brand-mark" size={30} />
+            <div className="brand-text">
+              <div className="brand">Trinsic</div>
+              <div className="brand-sub">CA Final · AFM Sprint</div>
+            </div>
           </div>
           <button
             className="rail-toggle"
@@ -465,7 +487,8 @@ function App() {
       {/* Mobile top bar */}
       <header className="top-bar">
         <button className="top-bar-brand" type="button" onClick={() => changeSection("home")}>
-          FR Study OS
+          <TrinsicMark className="brand-mark" size={24} />
+          Trinsic
         </button>
         <div className="top-bar-actions">
           {syncChip}

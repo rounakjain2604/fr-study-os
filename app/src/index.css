@@ -28,6 +28,9 @@
   --on-ink: #faf9f5;
   --posted: #2e7d5b;
   --posted-soft: #e9f1ec;
+  --accent: #be7338;
+  --accent-soft: #f6ecdf;
+  --accent-line: #e7cba6;
   --partial: #97803a;
   --pending: #ad6c33;
   --upcoming: #a3a099;
@@ -57,6 +60,9 @@
   --on-ink: #171614;
   --posted: #7cc7a1;
   --posted-soft: #20312a;
+  --accent: #d2935a;
+  --accent-soft: #2c2418;
+  --accent-line: #4a3a24;
   --partial: #c9b264;
   --pending: #cf9756;
   --upcoming: #767369;
@@ -321,9 +327,26 @@ textarea {
 }
 
 .nav-rail button.active {
+  position: relative;
   background: var(--panel-strong);
   color: var(--text);
   font-weight: 600;
+}
+
+.nav-rail button.active::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 3px;
+  height: 16px;
+  border-radius: 0 3px 3px 0;
+  background: var(--accent);
+}
+
+.rail-collapsed .nav-rail button.active::before {
+  left: -12px;
 }
 
 .nav-group-label {
@@ -376,7 +399,7 @@ textarea {
   display: block;
   height: 100%;
   border-radius: inherit;
-  background: var(--posted);
+  background: var(--accent);
 }
 
 .sync-chip {
@@ -581,6 +604,10 @@ textarea {
   font-weight: 600;
   letter-spacing: 0.09em;
   text-transform: uppercase;
+}
+
+.overline {
+  color: var(--accent);
 }
 
 .subline,
@@ -2189,12 +2216,12 @@ textarea {
   border: 1px solid var(--rule);
   border-radius: 20px;
   padding: clamp(1.3rem, 3vw, 1.9rem);
-  background: radial-gradient(140% 130% at 0% 0%, color-mix(in srgb, var(--posted) 9%, var(--panel)) 0%, var(--panel) 52%);
+  background: radial-gradient(140% 130% at 0% 0%, color-mix(in srgb, var(--accent) 9%, var(--panel)) 0%, var(--panel) 52%);
   box-shadow: 0 1px 2px rgba(33, 32, 28, 0.05), 0 18px 40px -28px rgba(33, 32, 28, 0.28);
 }
 
 :root[data-theme="dark"] .sprint-hero {
-  background: radial-gradient(140% 130% at 0% 0%, color-mix(in srgb, var(--posted) 14%, var(--panel)) 0%, var(--panel) 52%);
+  background: radial-gradient(140% 130% at 0% 0%, color-mix(in srgb, var(--accent) 14%, var(--panel)) 0%, var(--panel) 52%);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 20px 44px -28px rgba(0, 0, 0, 0.6);
 }
 
@@ -2210,11 +2237,11 @@ textarea {
   display: inline-flex;
   align-items: baseline;
   gap: 2px;
-  border: 1px solid color-mix(in srgb, var(--posted) 40%, var(--rule));
+  border: 1px solid color-mix(in srgb, var(--accent) 40%, var(--rule));
   border-radius: 999px;
   padding: 0.2rem 0.7rem;
-  background: var(--posted-soft);
-  color: var(--posted);
+  background: var(--accent-soft);
+  color: var(--accent);
   font-family: var(--mono);
   font-size: 0.78rem;
   font-weight: 600;
@@ -2368,7 +2395,7 @@ textarea {
 }
 
 .sprint-cell.today {
-  box-shadow: 0 0 0 2px color-mix(in srgb, var(--text) 55%, transparent);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent) 70%, transparent);
 }
 
 .library-link {
@@ -2537,4 +2564,198 @@ textarea {
   .subject-head-meta .mini-meter {
     display: none;
   }
+}
+
+/* ============================================================================
+   Trinsic brand lockup + first-run onboarding.
+   ========================================================================== */
+
+.brand-lockup {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+}
+
+.brand-mark {
+  flex: 0 0 auto;
+  color: var(--accent);
+}
+
+.brand {
+  font-family: var(--serif);
+  font-size: 1.24rem;
+  line-height: 1.1;
+  letter-spacing: 0.01em;
+}
+
+.rail-collapsed .brand-lockup {
+  gap: 0;
+}
+
+.top-bar-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.top-bar-brand .brand-mark {
+  color: var(--accent);
+}
+
+/* ── onboarding ───────────────────────────────────────────────────────────── */
+
+.onboarding {
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  display: grid;
+  place-items: center;
+  padding: max(24px, env(safe-area-inset-top)) 20px max(24px, env(safe-area-inset-bottom));
+  background: var(--bg);
+  animation: ob-fade 0.4s ease both;
+}
+
+@keyframes ob-fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.onboarding-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: min(420px, 100%);
+  min-height: min(560px, 88vh);
+  text-align: center;
+}
+
+.onboarding-skip {
+  align-self: flex-end;
+  border: 0;
+  background: transparent;
+  color: var(--faint);
+  cursor: pointer;
+  font-size: 0.78rem;
+  padding: 4px 6px;
+}
+
+.onboarding-skip:hover { color: var(--muted); }
+
+.onboarding-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.4rem;
+  width: 100%;
+  animation: ob-step 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes ob-step {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.onboarding-mark {
+  color: var(--accent);
+}
+
+.onboarding-overline {
+  color: var(--accent);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+}
+
+.onboarding-body h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.9rem, 6vw, 2.4rem);
+  line-height: 1.1;
+}
+
+.onboarding-body p {
+  max-width: 32ch;
+  color: var(--muted);
+  font-size: 0.96rem;
+  line-height: 1.65;
+}
+
+.onboarding-list {
+  display: grid;
+  gap: 0;
+  width: 100%;
+  max-width: 320px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: left;
+}
+
+.onboarding-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  border-top: 1px solid color-mix(in srgb, var(--rule) 70%, transparent);
+  padding: 0.85rem 0;
+}
+
+.onboarding-list li:first-child { border-top: 0; }
+
+.onboarding-list .ob-ico {
+  flex: 0 0 auto;
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  margin-top: 1px;
+  border-radius: 9px;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.onboarding-list b {
+  display: block;
+  font-weight: 600;
+  font-size: 0.92rem;
+}
+
+.onboarding-list span {
+  color: var(--muted);
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+.onboarding-foot {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.1rem;
+  width: 100%;
+}
+
+.onboarding-foot .btn {
+  width: 100%;
+  max-width: 320px;
+  justify-content: center;
+}
+
+.onboarding-dots {
+  display: flex;
+  gap: 6px;
+}
+
+.onboarding-dots span {
+  width: 6px;
+  height: 6px;
+  border-radius: 99px;
+  background: var(--rule);
+  transition: width 0.25s, background 0.25s;
+}
+
+.onboarding-dots span.on {
+  width: 18px;
+  background: var(--accent);
 }
