@@ -1,313 +1,266 @@
 // AFM Chapter 2 — Risk Management.
 //
-// NOTE: authored from the established ICAI CA Final AFM (Paper 2) syllabus for
-// Chapter 2 as a first-reading study aid (no AFM source text exists in this repo).
-// Verify definitions/figures against your ICAI study material.
+// Authored from the ICAI CA Final AFM (Paper 2) Study Material, Chapter 2
+// (ICAI_Materials_Text/02_AFM_Advanced_Financial_Management/002 - Chapter 2 ...).
+// Section numbering (¶1–¶4) follows the ICAI chapter; VaR worked sums are the
+// ICAI example and the chapter's practical question.
 
 import type { ChapterDoc } from "../chapterDoc";
 
 export const afmCh2RiskManagementDoc: ChapterDoc = {
   id: "afm-ch2",
   storageKey: "afmch2done",
-  kicker: "Advanced Financial Management · Chapter 2 · AFM Sprint Day 1",
-  heroTitle: "Risk is what you can measure: <em>name it, size it, and decide whether to avoid, reduce, keep or transfer it.</em>",
+  kicker: "Advanced Financial Management · Chapter 2 · ICAI Study Material",
+  heroTitle: "Risk management: <em>name the risks, evaluate the financial ones, and put a rupee figure on the downside with VaR.</em>",
   heroStrap:
-    "A theory chapter with one quantitative star — Value at Risk. Learn the risk-vs-uncertainty distinction, the family tree of risk types, the five-step management process, the four response strategies, and how VaR puts a single rupee figure on downside. Definitions are examinable verbatim.",
+    "Four ICAI blocks: the types of risk an organisation faces, the evaluation of financial risk from three viewpoints, Value at Risk (the only computational piece — Z-score × standard deviation), and the appropriate methods to identify and manage each financial risk. Definitions and lists are examinable verbatim.",
   heroStats: [
-    { value: "4", label: "Risk families" },
-    { value: "5", label: "Process steps" },
-    { value: "4", label: "Response strategies" },
+    { value: "4", label: "Risk types" },
+    { value: "5", label: "Financial sub-risks" },
     { value: "VaR", label: "Key tool" },
+    { value: "2.33", label: "Z at 99%" },
     { value: "8", label: "MCQs" },
   ],
   flow: {
-    eyebrow: "The management loop",
-    title: "From spotting a risk to keeping it in check",
+    eyebrow: "Chapter spine",
+    title: "From naming a risk to putting a number on it",
     steps: [
-      { title: "Identify", body: "List the risks the firm is exposed to, internal and external." },
-      { title: "Assess", body: "Size each by likelihood × impact — quantitatively where possible." },
-      { title: "Respond", body: "Avoid, reduce, retain or transfer each risk." },
-      { title: "Monitor", body: "Track residual risk and review as conditions change." },
+      { title: "Identify types", body: "Strategic, compliance, operational and financial risk." },
+      { title: "Split financial risk", body: "Counter-party, political, interest-rate, currency, liquidity." },
+      { title: "Evaluate & measure", body: "Three viewpoints on financial risk; Value at Risk for the downside." },
+      { title: "Manage", body: "Category-specific identification and management techniques." },
     ],
-    foot: "Goal · not zero risk, but risk taken knowingly and priced",
+    foot: "VaR = Standard Deviation (₹) × Z-score · t-day = × √t",
   },
   sections: [
     {
-      id: "intro",
-      folio: "¶ 1",
-      title: "Risk vs Uncertainty",
-      lede: "Risk and uncertainty are not the same. The distinction decides whether you can model an exposure at all.",
-      blocks: [
-        {
-          kind: "split",
-          left: {
-            tag: "Risk",
-            tagTone: "cap",
-            title: "Measurable",
-            body: "Outcomes are unknown but their <b>probability distribution can be estimated</b> from data or experience. Because it can be quantified, it can be priced, hedged and managed (e.g. a portfolio's return volatility).",
-          },
-          right: {
-            tag: "Uncertainty",
-            tagTone: "exp",
-            title: "Not measurable",
-            body: "Outcomes — and their probabilities — are <b>unknown</b>; no reliable distribution can be assigned (e.g. a once-off geopolitical shock). It can only be judged, not computed.",
-          },
-        },
-        {
-          kind: "note",
-          body: "Risk has both a <b>downside</b> (loss) and, for many financial exposures, an <b>upside</b> — variability in either direction. Risk management is about taking risk <i>deliberately and in proportion</i>, not eliminating it.",
-        },
-      ],
-    },
-    {
-      id: "sources",
-      folio: "¶ 2",
-      title: "Sources / Causes of Risk",
-      blocks: [
-        {
-          kind: "bullets",
-          items: [
-            "<b>Decision / indecision</b> — wrong choices, or failure to act in time.",
-            "<b>Business cycles & seasonality</b> — demand and prices swing with the economy.",
-            "<b>Economic & fiscal changes</b> — inflation, interest-rate and tax-policy shifts.",
-            "<b>Market preferences</b> — changing customer tastes erode demand.",
-            "<b>Political & regulatory change</b> — regulation, deregulation, policy reversals.",
-            "<b>Technology</b> — disruption makes products or processes obsolete.",
-            "<b>Competition</b> — new entrants and price wars compress margins.",
-            "<b>Natural calamities / disasters</b> — external shocks to operations and assets.",
-          ],
-        },
-      ],
-    },
-    {
       id: "types",
-      folio: "¶ 3",
-      title: "Types of Risk",
-      lede: "Group risks into four families. Financial risk is the one AFM drills hardest, so it gets its own breakdown.",
+      folio: "¶ 1",
+      title: "Types of Risk Faced by an Organisation",
+      lede: "ICAI groups the important risks into four. Learn each with its example — the exam often asks you to <strong>name and illustrate</strong> a risk type.",
       blocks: [
         {
           kind: "cards",
           columns: 2,
           items: [
             {
-              tag: "Strategic",
+              tag: "1.1 Strategic",
               tagTone: "ntr",
               title: "Strategic risk",
-              body: "Loss from wrong business decisions, poor implementation, or adverse industry/competitive shifts — e.g. entering the wrong market or missing a technology change.",
+              body: "The risk that a company's <b>strategy becomes less effective</b> and it struggles to meet its goals — from technology change, a new competitor, shifting demand or rising input costs.",
+              note: "Examples: <b>Kodak</b> (built a digital camera in 1975 but treated it as a threat and failed to develop it) and <b>Nokia</b> (missed touch-screens, letting Samsung lead). Counter-example: <b>Xerox</b> embraced laser printing and survived.",
             },
             {
-              tag: "Compliance",
+              tag: "1.2 Compliance",
               tagTone: "ntr",
-              title: "Compliance / regulatory risk",
-              body: "Loss from breaching laws, regulations or prescribed codes — penalties, licence loss, reputational damage.",
+              title: "Compliance risk",
+              body: "The risk from failing to comply with the rules — Companies Act 2013, SEBI guidelines, etc. Non-compliance brings <b>fines and imprisonment</b>. It bites hardest when entering a <b>new business line or geography</b> with different laws (e.g. a cement firm moving into sugar in another state).",
             },
             {
-              tag: "Operational",
+              tag: "1.3 Operational",
               tagTone: "ntr",
               title: "Operational risk",
-              body: "Loss from failed <b>internal processes, people and systems</b>, or from <b>external events</b> — fraud, system failure, human error, supply disruption.",
+              body: "An <b>internal</b> risk — failure to cope with day-to-day operations. It relates to both <b>people</b> and <b>process</b>: e.g. a clerk paying ₹1,00,000 instead of ₹10,000. Managed by a checker, or an electronic system that flags unusual amounts.",
             },
             {
-              tag: "Financial",
+              tag: "1.4 Financial",
               tagTone: "cap",
               title: "Financial risk",
-              body: "Loss arising from the firm's <b>financing and market exposures</b> — driven by capital structure (gearing) and by movements in markets, credit and liquidity. Broken down below.",
+              body: "Loss from <b>unexpected changes in financial conditions</b> — prices, exchange rate, credit rating and interest rate. Political risk, though not financial in the direct sense, is included because it can cause country risk and ultimately financial loss. Broken into five categories below.",
             },
           ],
         },
+      ],
+    },
+    {
+      id: "financial-sub",
+      folio: "¶ 1.4",
+      title: "The Five Categories of Financial Risk",
+      blocks: [
+        {
+          kind: "cards",
+          columns: 2,
+          items: [
+            {
+              tag: "1.4.1",
+              tagTone: "exp",
+              title: "Counter-party risk",
+              body: "Non-honouring of obligations by the counter-party — failure to deliver goods for payment already made (or vice-versa), or to repay borrowings and interest. <b>Covers credit risk</b> (default by the counter-party).",
+            },
+            {
+              tag: "1.4.2",
+              tagTone: "exp",
+              title: "Political risk",
+              body: "Faced mainly by overseas investors when the host government acts adversely:",
+              bullets: [
+                "Confiscation / destruction of overseas property",
+                "Rationing of remittance to the home country",
+                "Restriction on converting local into foreign currency",
+                "Restriction on borrowings; invalidation of patents; price control of products",
+              ],
+            },
+            {
+              tag: "1.4.3",
+              tagTone: "exp",
+              title: "Interest-rate risk",
+              body: "Loss from changing interest rates altering assets and liabilities. Most important for <b>banks</b> (interest-sensitive balance sheets; earnings = spread between borrowing and lending rates). Both <b>fixed</b> and <b>floating</b> rates carry inherent risk.",
+            },
+            {
+              tag: "1.4.4",
+              tagTone: "exp",
+              title: "Currency risk",
+              body: "Affects firms dealing in foreign exchange; cash flows move with exchange rates — adversely or favourably. If the rupee depreciates vs US$, an <b>exporter (Infosys)</b> gains while an <b>importer (IOC)</b> with US$ payables loses.",
+            },
+            {
+              tag: "1.4.5",
+              tagTone: "exp",
+              title: "Liquidity risk",
+              body: "Inability of the organisation to <b>meet its liabilities when due</b> — from inadequate cash generation or a mismatch in cash-flow timing. Prevalent in banking (maturity mismatch and fresh-deposit patterns).",
+            },
+          ],
+        },
+      ],
+    },
+    {
+      id: "evaluation",
+      folio: "¶ 2",
+      title: "Evaluation of Financial Risk",
+      lede: "Financial risk looks different depending on who is looking. ICAI gives <strong>three viewpoints</strong>.",
+      blocks: [
         {
           kind: "cards",
           columns: 3,
           items: [
             {
-              tag: "Financial · 1",
-              tagTone: "exp",
-              title: "Market risk",
-              body: "Loss from market-price movements: <b>interest-rate risk</b>, <b>currency / forex risk</b>, and <b>equity & commodity price risk</b>. The systematic exposures hedged with derivatives.",
-            },
-            {
-              tag: "Financial · 2",
-              tagTone: "exp",
-              title: "Credit / default risk",
-              body: "Loss if a borrower or <b>counterparty</b> fails to meet its obligations. Counterparty risk is the failure of the other side of a contract to perform.",
-            },
-            {
-              tag: "Financial · 3",
-              tagTone: "exp",
-              title: "Liquidity risk",
-              body: "<b>Funding</b> liquidity — inability to meet obligations as they fall due; <b>market</b> liquidity — inability to sell an asset quickly without a big price concession.",
-            },
-          ],
-        },
-        {
-          kind: "cards",
-          columns: 2,
-          items: [
-            {
-              tag: "Other · counterparty",
+              tag: "(a) Stakeholder",
               tagTone: "ntr",
-              title: "Counterparty risk",
-              body: "The risk that the other party to a transaction does not honour its terms. Causes include wrong credit assessment, deteriorating macro conditions, or an unexpected adverse event affecting the counterparty.",
+              title: "Gearing is the risk",
+              body: "Equity shareholders see <b>financial gearing</b> (the proportion of debt in the capital structure) as risk — on winding-up they are paid last. For a <b>lender</b> too, high gearing raises the chance of default on interest and principal.",
             },
             {
-              tag: "Other · country",
+              tag: "(b) Company",
               tagTone: "ntr",
-              title: "Country / political risk",
-              body: "Loss from operating across borders — expropriation, capital controls, currency inconvertibility, political instability or sovereign default.",
+              title: "Over-borrow or over-lend",
+              body: "If the company <b>borrows excessively</b> or <b>lends to someone who defaults</b>, it can be forced into <b>liquidation</b>.",
+            },
+            {
+              tag: "(c) Government",
+              tagTone: "ntr",
+              title: "Systemic distrust",
+              body: "Failure or downgrading of a bank/financial institution (e.g. <b>Lehman Brothers</b>) spreads distrust through society; includes <b>wilful defaulters</b> and can extend to a <b>sovereign debt crisis</b>.",
             },
           ],
-        },
-      ],
-    },
-    {
-      id: "process",
-      folio: "¶ 4",
-      title: "The Risk-Management Process & Strategies",
-      lede: "A repeatable loop, then four ways to respond. Most exam answers hang on naming the steps and matching a response to a scenario.",
-      blocks: [
-        {
-          kind: "timeline",
-          nodes: [
-            { phase: "1", title: "Identification", body: "Spot and list every material risk — internal and external." },
-            { phase: "2", title: "Assessment / quantification", body: "Size each by likelihood and impact; quantify where data allows (e.g. VaR)." },
-            { phase: "3", title: "Evaluation / prioritisation", body: "Rank risks against the firm's appetite to decide what needs action." },
-            { phase: "4", title: "Response / treatment", body: "Apply the chosen strategy — avoid, reduce, retain or transfer." },
-            { phase: "5", title: "Monitoring & review", body: "Track residual risk and revisit as conditions change." },
-          ],
-        },
-        {
-          kind: "cards",
-          columns: 2,
-          items: [
-            {
-              tag: "Strategy 1",
-              tagTone: "exp",
-              title: "Avoidance",
-              body: "Eliminate the exposure entirely — don't enter the market, don't take the position. Zero risk, but also zero return from that activity.",
-            },
-            {
-              tag: "Strategy 2",
-              tagTone: "cap",
-              title: "Reduction / mitigation",
-              body: "Lower the likelihood or impact — internal controls, process redesign, and <b>diversification</b> to cut unsystematic risk.",
-            },
-            {
-              tag: "Strategy 3",
-              tagTone: "gold",
-              title: "Retention / absorption",
-              body: "Knowingly accept and bear the risk (self-insurance) — sensible when the cost of transfer exceeds the expected loss, or the risk is small.",
-            },
-            {
-              tag: "Strategy 4",
-              tagTone: "cap",
-              title: "Transfer / sharing",
-              body: "Shift the risk to a third party — <b>insurance</b>, <b>hedging</b> with derivatives (forwards, futures, options, swaps), or outsourcing the risky activity.",
-            },
-          ],
-        },
-        {
-          kind: "trap",
-          body: "<b>Diversification ≠ hedging.</b> Diversification (reduction) spreads exposure to cut <i>unsystematic</i> risk but cannot remove <i>systematic</i> (market) risk; hedging (transfer) uses an offsetting position to neutralise a specific exposure. Don't swap the terms.",
         },
       ],
     },
     {
       id: "var",
-      folio: "¶ 5",
+      folio: "¶ 3",
       title: "Value at Risk (VaR)",
-      lede: "VaR puts a single money figure on downside: the <strong>maximum loss</strong> expected over a set <strong>horizon</strong> at a given <strong>confidence level</strong>, under normal market conditions.",
+      lede: "VaR is a measure of the risk of an investment: given normal market conditions over a set period, <strong>how much might it lose?</strong> It answers two questions — <strong>what is the worst-case scenario, and what will the loss be?</strong> First applied at the NYSE in 1922; the world's most widely used measure of financial risk since the 1990s.",
       blocks: [
         {
           kind: "cards",
-          columns: 3,
+          columns: 2,
           items: [
             {
-              tag: "Parameter 1",
+              tag: "3.1 Features",
               tagTone: "cap",
-              title: "Time horizon",
-              body: "The period over which loss is measured — e.g. 1 day, 10 days. Longer horizons give larger VaR.",
+              title: "Six features of VaR",
+              bullets: [
+                "<b>Components</b> — time period, confidence level (generally 95% / 99%), and loss in % or amount",
+                "<b>Statistical method</b> — a tool based on <b>standard deviation</b>",
+                "<b>Time horizon</b> — applied over a day, week, month, etc.",
+                "<b>Probability</b> — assuming normal distribution, the maximum loss can be predicted",
+                "<b>Risk control</b> — risk is controlled by setting limits for maximum loss",
+                "<b>Z-score</b> — standard deviations away from the mean; <b>Z × SD = VaR</b>",
+              ],
             },
             {
-              tag: "Parameter 2",
+              tag: "3.2 Application",
               tagTone: "cap",
-              title: "Confidence level",
-              body: "The probability the loss will NOT be exceeded — commonly <b>95%</b> or <b>99%</b>. Higher confidence ⇒ larger VaR.",
-            },
-            {
-              tag: "Parameter 3",
-              tagTone: "cap",
-              title: "Loss amount",
-              body: "The estimated worst loss, stated in <b>money</b> or as a <b>% of value</b>.",
+              title: "Where VaR is used",
+              bullets: [
+                "Measure the maximum possible loss on a portfolio / trading position",
+                "Benchmark for performance measurement of an operation or trade",
+                "Fix limits for individuals in the <b>front office</b> of a treasury",
+                "Help management decide trading strategies",
+                "A tool for <b>Asset-Liability Management</b>, especially in banks",
+              ],
             },
           ],
         },
         {
-          kind: "split",
-          left: {
-            tag: "Features",
-            tagTone: "ntr",
-            title: "What VaR is",
-            body: "A single, comparable risk number across assets and portfolios; built on three common parameters; gives a probabilistic loss estimate; expressed in money or percentage; usable for any portfolio of market-traded instruments.",
-          },
-          right: {
-            tag: "Applications",
-            tagTone: "ntr",
-            title: "What it is used for",
-            body: "Risk management, <b>setting risk limits</b> for desks/traders, financial control and reporting, and computing <b>regulatory capital</b> for banks. Lets management compare unlike exposures on one scale.",
-          },
-        },
-        {
-          kind: "cards",
-          columns: 3,
-          items: [
-            {
-              tag: "Method 1",
-              tagTone: "ntr",
-              title: "Historical simulation",
-              body: "Re-price the portfolio over a window of actual past returns and read the loss at the chosen percentile. Simple, assumption-light, but assumes the past repeats.",
-            },
-            {
-              tag: "Method 2",
-              tagTone: "ntr",
-              title: "Variance–covariance (parametric)",
-              body: "Assume returns are <b>normally distributed</b>; VaR = portfolio value × z-score × σ. Fast, but poor for non-linear payoffs (options) and fat tails.",
-            },
-            {
-              tag: "Method 3",
-              tagTone: "ntr",
-              title: "Monte Carlo simulation",
-              body: "Generate thousands of random scenarios from assumed distributions, re-price, and read the percentile loss. Flexible and handles non-linearity — but computationally heavy.",
-            },
-          ],
-        },
-        {
-          kind: "flips",
-          title: "Read a VaR statement",
-          items: [
-            { label: "Q1", question: "What does “1-day 99% VaR of ₹10 lakh” mean?", answer: "Under normal conditions there is a <b>99% chance</b> the portfolio will <b>not lose more than ₹10 lakh</b> in one day — equivalently, a <b>1% chance</b> the one-day loss exceeds ₹10 lakh. It does <i>not</i> say how bad that 1% tail can get." },
-            { label: "Q2", question: "Does VaR tell you the worst possible loss?", answer: "No. VaR is the threshold at the confidence level, not the maximum. Beyond it, losses can be far larger — a key limitation; that tail is what <b>Expected Shortfall (CVaR)</b> addresses." },
-            { label: "Q3", question: "Raise confidence from 95% to 99% — what happens to VaR?", answer: "VaR <b>increases</b>. You are demanding a higher assurance of not being exceeded, so the loss threshold moves further into the tail." },
+          kind: "formula",
+          lines: [
+            "Volatility in ₹ = Standard deviation (%) × Position value",
+            "<b>1-period VaR = Volatility (₹) × Z-score</b>   (Z = 2.33 at 99%, 1.65 at 95%)",
+            "<b>t-period VaR = 1-period VaR × √t</b>   (time scaling)",
           ],
         },
         {
           kind: "tyk",
           items: [
             {
-              ref: "Scenario",
-              title: "Classify the risks in a treasury desk",
+              ref: "ICAI example",
+              title: "Single-stock VaR — 1 day and 10 days at 99%",
               question:
-                "A treasury desk (i) holds foreign-currency receivables, (ii) lends surplus cash to a corporate, (iii) runs trading systems prone to outages, and (iv) must comply with RBI exposure norms. Classify each exposure and suggest one response strategy.",
+                "You hold ₹2 crore of shares of X Ltd. whose daily price standard deviation is 2%. Assuming 252 trading days and normally-distributed prices, find the maximum loss over 1 trading day and over 10 trading days at a 99% confidence level.",
               solution:
-                "(i) FC receivables → <b>market risk (currency)</b>; respond by <b>transfer</b> — hedge with a forward/option. (ii) Lending → <b>credit / counterparty risk</b>; <b>reduce</b> via limits and collateral, or <b>transfer</b> via guarantee/credit insurance. (iii) System outages → <b>operational risk</b>; <b>reduce</b> with controls, redundancy and a DR plan. (iv) RBI norms → <b>compliance / regulatory risk</b>; <b>avoid/reduce</b> by staying within limits and monitoring. Aggregate market exposure can be sized with <b>VaR</b> to set desk limits.",
+                "At 99% confidence the Z-score (from the cumulative normal table) = <b>2.33</b>.<br/>Volatility in rupees = 2% × ₹2 crore = <b>₹4 lakh</b>.<br/><br/><b>1-day VaR</b> = ₹4 lakh × 2.33 = <b>₹9.32 lakh</b>.<br/><b>10-day VaR</b> = √10 × ₹9.32 lakh = <b>₹29.47 lakh</b>.",
             },
             {
-              ref: "Concept",
-              title: "Strengths and limitations of VaR",
-              question: "Explain Value at Risk and critically evaluate its usefulness as a risk measure.",
+              ref: "ICAI practical",
+              title: "Two-asset portfolio VaR with correlation",
+              question:
+                "A portfolio holds ₹2,00,00,000 in share XYZ and ₹2,00,00,000 in share ABC. The daily standard deviation of each is 1% and their correlation is 0.3. Find the 10-day 99% VaR for the portfolio.",
               solution:
-                "VaR estimates the maximum loss over a horizon at a confidence level under normal conditions, defined by horizon, confidence and loss amount, and computed via historical, variance–covariance or Monte Carlo methods. <b>Strengths:</b> one comparable figure across diverse exposures; intuitive; supports limits, capital and reporting. <b>Limitations:</b> it is silent on the size of losses <i>beyond</i> the threshold (tail risk); the parametric form assumes normality and understates fat tails; it can be unstable with the chosen window; and it captures only <i>normal</i> conditions, not crises. Hence VaR is paired with <b>stress testing</b> and <b>Expected Shortfall</b>.",
+                "Daily SD of each holding = 1% × ₹200 lakh = <b>₹2 lakh</b>.<br/>Portfolio daily variance V = 2² + 2² + 2 × 0.3 × 2 × 2 = <b>10.4</b>, so daily SD = √10.4 = <b>₹3.22 lakh</b>.<br/>10-day SD = ₹3.22 lakh × √10 = <b>₹10.18 lakh</b>.<br/>At 99%, Z = 2.33, so <b>10-day 99% VaR = 2.33 × ₹10.18 lakh = ₹23.72 lakh</b>.<br/><br/>Note how correlation of 0.3 (not 1.0) makes the portfolio SD (₹3.22 lakh) less than the simple sum of the two ₹2 lakh SDs — diversification at work.",
             },
           ],
+        },
+      ],
+    },
+    {
+      id: "manage",
+      folio: "¶ 4",
+      title: "Identifying & Managing Each Financial Risk",
+      lede: "ICAI treats management <strong>by category</strong>. Counter-party and political risk are managed here; interest-rate and currency risk are identified here but <strong>managed in later chapters</strong>.",
+      blocks: [
+        {
+          kind: "cards",
+          columns: 2,
+          items: [
+            {
+              tag: "4.1 Counter-party",
+              tagTone: "cap",
+              title: "Manage counter-party risk",
+              bullets: [
+                "Carry out <b>due diligence</b> before dealing with any third party",
+                "Do <b>not over-commit</b> to a single entity / connected group",
+                "Know your <b>exposure limits</b>; review credit-approval limits and procedures regularly",
+                "Take <b>rapid action</b> on any likelihood of default",
+                "Use <b>performance guarantees, insurance</b> or other instruments",
+              ],
+              note: "Hints of counter-party risk: failure to obtain resources to complete a transaction, regulatory restrictions, hostile foreign-government action, being let down by a third party, or insolvency.",
+            },
+            {
+              tag: "4.2 Political",
+              tagTone: "cap",
+              title: "Manage political (country) risk",
+              body: "<b>Assess country risk</b> via political rankings in business magazines, macro-economic conditions, the popularity/stability of the government, and advice from home-country embassies.",
+              bullets: [
+                "<b>Local sourcing</b> of raw materials and labour",
+                "Entering into <b>joint ventures</b>",
+                "<b>Local financing</b>",
+                "<b>Prior negotiations</b> with the host government",
+              ],
+            },
+          ],
+        },
+        {
+          kind: "note",
+          body: "<b>Interest-rate risk</b> is identified from monetary policy, government action (e.g. demonetisation), economic growth, industrial data, foreign investment and stock-market changes. <b>Currency risk</b> is identified from government action (e.g. Brexit), nominal interest rates (IRP), inflation (PPP), natural calamities, war/coup, and a change of government. <b>The management of both is covered in detail in later chapters</b> (Interest-Rate Risk Management; Foreign-Exchange Exposure & Risk Management).",
         },
       ],
     },
@@ -320,57 +273,62 @@ export const afmCh2RiskManagementDoc: ChapterDoc = {
           kind: "quiz",
           items: [
             {
-              question: "The key distinction between risk and uncertainty is that risk:",
-              options: ["Always means a loss", "Can be measured / assigned probabilities", "Only affects financial assets", "Cannot be managed"],
+              question: "Kodak failing to commercialise the digital camera it invented is an example of:",
+              options: ["Operational risk", "Strategic risk", "Compliance risk", "Liquidity risk"],
               answer: 1,
-              why: "Risk has an estimable probability distribution; uncertainty does not.",
+              why: "A strategy becoming ineffective against technological change is strategic risk.",
             },
             {
-              question: "Loss from failed internal processes, people and systems is classified as:",
-              options: ["Strategic risk", "Operational risk", "Compliance risk", "Liquidity risk"],
+              question: "A clerk paying ₹1,00,000 instead of ₹10,000 illustrates:",
+              options: ["Strategic risk", "Operational (people & process) risk", "Political risk", "Currency risk"],
               answer: 1,
-              why: "That is the textbook definition of operational risk (plus external events).",
+              why: "ICAI's own example of operational risk — both a people and a process risk.",
             },
             {
-              question: "Currency risk and interest-rate risk are sub-types of:",
-              options: ["Operational risk", "Market risk", "Compliance risk", "Strategic risk"],
+              question: "Per ICAI, the five categories of FINANCIAL risk are counter-party, political, interest-rate, currency and:",
+              options: ["Market risk", "Liquidity risk", "Operational risk", "Strategic risk"],
               answer: 1,
-              why: "Both arise from movements in market prices — they sit under market risk.",
+              why: "ICAI's five sub-categories of financial risk end with liquidity risk (not a separate ‘market risk’ umbrella).",
             },
             {
-              question: "Buying insurance against a risk is an example of risk:",
-              options: ["Avoidance", "Reduction", "Retention", "Transfer"],
-              answer: 3,
-              why: "Insurance shifts the financial consequence to a third party — transfer.",
-            },
-            {
-              question: "Self-insuring a small, frequent risk is best described as:",
-              options: ["Avoidance", "Retention / absorption", "Transfer", "Hedging"],
+              question: "If the rupee depreciates against the US$, who gains?",
+              options: ["An importer with US$ payables", "An exporter with US$ receivables", "Both equally", "Neither"],
               answer: 1,
-              why: "Knowingly bearing the risk yourself is retention/absorption.",
+              why: "ICAI's example: the exporter (Infosys) gains; the importer (IOC) with US$ payables loses.",
             },
             {
-              question: "“1-day 95% VaR of ₹2 crore” means there is a:",
-              options: ["95% chance of losing ₹2 crore", "5% chance the daily loss exceeds ₹2 crore", "Guaranteed loss of ₹2 crore", "5% chance of a ₹2 crore gain"],
-              answer: 1,
-              why: "VaR is the loss not exceeded at the confidence level; the complement (5%) is the chance of exceeding it.",
-            },
-            {
-              question: "Which VaR method assumes returns are normally distributed?",
-              options: ["Historical simulation", "Variance–covariance (parametric)", "Monte Carlo simulation", "Stress testing"],
-              answer: 1,
-              why: "The parametric/variance–covariance method relies on the normality assumption.",
-            },
-            {
-              question: "A key limitation of VaR is that it:",
+              question: "From the GOVERNMENT's viewpoint, financial risk is evaluated as:",
               options: [
-                "Cannot be expressed in money terms",
-                "Says nothing about the size of losses beyond the threshold",
-                "Only works for a single asset",
-                "Requires no assumptions",
+                "The firm's gearing ratio",
+                "Bank/FI failure or downgrade spreading distrust (e.g. Lehman), wilful defaulters, sovereign crises",
+                "Excessive lending by one company",
+                "Currency volatility only",
               ],
               answer: 1,
-              why: "VaR ignores the magnitude of tail losses beyond the cut-off — addressed by Expected Shortfall.",
+              why: "ICAI's government viewpoint centres on systemic distrust from failing institutions and sovereign risk.",
+            },
+            {
+              question: "The Z-score used for a 99% confidence level (per the ICAI VaR example) is:",
+              options: ["1.65", "1.96", "2.33", "3.00"],
+              answer: 2,
+              why: "ICAI uses Z = 2.33 at 99%; multiplying it by the rupee standard deviation gives VaR.",
+            },
+            {
+              question: "To convert a 1-day VaR into a 10-day VaR you multiply by:",
+              options: ["10", "√10", "10²", "1/10"],
+              answer: 1,
+              why: "VaR scales with the square root of time: 10-day VaR = 1-day VaR × √10.",
+            },
+            {
+              question: "Which is NOT a listed application of VaR?",
+              options: [
+                "Fixing limits for front-office treasury dealers",
+                "Asset-Liability Management in banks",
+                "Performance benchmarking of a trade",
+                "Computing a company's income-tax liability",
+              ],
+              answer: 3,
+              why: "ICAI's applications cover max-loss measurement, performance benchmarking, dealer limits, trading strategy and ALM — not tax computation.",
             },
           ],
         },
@@ -378,5 +336,5 @@ export const afmCh2RiskManagementDoc: ChapterDoc = {
     },
   ],
   footer:
-    "AFM Chapter 2 · Risk Management — authored from the ICAI CA Final AFM syllabus as a first-reading aid. Confirm definitions and figures against your ICAI study material.",
+    "AFM Chapter 2 · Risk Management — built from the ICAI Study Material (Chapter 2). The VaR worked sums are the ICAI example and the chapter's practical question; verify any figure against your book.",
 };

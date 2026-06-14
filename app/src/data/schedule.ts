@@ -70,10 +70,10 @@ export const SCHEDULE: StudyPhase[] = [
     plannedHours: 33,
     days: [
       day("sa", 1, "2026-06-14", "14 Jun", "Sun", "Financial Policy + Risk Management", "Ch 1–2", [
-        ["Financial Policy & Corporate Strategy — interface of financial & strategic management, balanced scorecard", 2],
-        ["Risk Management — sources, types, the financial-risk framework", 2],
+        ["Financial Policy & Corporate Strategy — CFO's role, SFM & functions, hierarchy levels, financial planning, SGR", 2],
+        ["Risk Management — risk types, the 5 financial-risk categories, evaluation, Value at Risk", 2],
         ["One-page map of both theory chapters", 1],
-        ["10 theory MCQs", 1],
+        ["10 theory MCQs from the chapter quizzes", 1],
       ]),
       day("sa", 2, "2026-06-15", "15 Jun", "Mon", "Advanced Capital Budgeting — I", "Ch 3", [
         ["Replacement decisions, capital rationing, inflation adjustment", 2.5],
@@ -143,17 +143,17 @@ export const SCHEDULE: StudyPhase[] = [
     ledgerName: "Risk, global & corporate",
     plannedHours: 32,
     days: [
-      day("sc", 12, "2026-06-25", "25 Jun", "Thu", "Interest Rate Risk Management", "Ch 10", [
+      day("sc", 12, "2026-06-25", "25 Jun", "Thu", "Interest Rate Risk Management", "Ch 12", [
         ["FRAs, interest-rate futures, caps / floors / collars", 2.5],
         ["Interest-rate & currency swaps — valuation", 2],
         ["Solve 5 questions", 1],
       ]),
-      day("sc", 13, "2026-06-26", "26 Jun", "Fri", "Forex Exposure & Risk Management", "Ch 11", [
+      day("sc", 13, "2026-06-26", "26 Jun", "Fri", "Forex Exposure & Risk Management", "Ch 10", [
         ["Transaction, translation & economic exposure", 1.5],
         ["Hedging: forward, money-market, futures, options, leading/lagging", 2.5],
         ["Solve 5 forex problems", 1.5],
       ]),
-      day("sc", 14, "2026-06-27", "27 Jun", "Sat", "International Financial Mgmt + Forex Qs", "Ch 12", [
+      day("sc", 14, "2026-06-27", "27 Jun", "Sat", "International Financial Mgmt + Forex Qs", "Ch 11", [
         ["Sources of international finance, GDR/ADR; IRP, PPP, IFE parity", 2.5],
         ["International capital budgeting", 1.5],
         ["Forex marathon — 8 mixed problems", 2.5],

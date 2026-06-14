@@ -1,215 +1,308 @@
 // AFM Chapter 1 — Financial Policy and Corporate Strategy.
 //
-// NOTE: there is no AFM ICAI source text in this repo (only FR material lives in
-// 01_FR_Financial_Reporting/). This workspace is authored from the established
-// ICAI CA Final AFM (Paper 2) syllabus for Chapter 1 — a first-reading study aid,
-// not an extract of an uploaded module. Verify figures against your ICAI book.
+// Authored from the ICAI CA Final AFM (Paper 2) Study Material, Chapter 1
+// (ICAI_Materials_Text/02_AFM_Advanced_Financial_Management/001 - Chapter 1 ...).
+// Section numbering (¶1–¶6) follows the ICAI chapter.
 
 import type { ChapterDoc } from "../chapterDoc";
 
 export const afmCh1FinancialPolicyDoc: ChapterDoc = {
   id: "afm-ch1",
   storageKey: "afmch1done",
-  kicker: "Advanced Financial Management · Chapter 1 · AFM Sprint Day 1",
-  heroTitle: "Where money meets strategy: <em>how financial policy funds, shapes and limits what the business can become.</em>",
+  kicker: "Advanced Financial Management · Chapter 1 · ICAI Study Material",
+  heroTitle: "Where money meets strategy: <em>the CFO's expanded role, and how financial policy funds, shapes and limits corporate strategy.</em>",
   heroStrap:
-    "A theory-first chapter. Master four blocks — strategic financial management and its functions, financial planning, the interface of financial policy with corporate strategy, and the one number the exam loves: the sustainable growth rate. Learn the definitions verbatim, then drill the SGR maths.",
+    "A theory chapter. Six blocks: the advanced role of the CFO, the strategic financial decision-making framework, strategy at three hierarchy levels, financial planning, the financial-policy / strategy interface, and the one number the exam loves — the sustainable growth rate. Learn the definitions and lists verbatim.",
   heroStats: [
-    { value: "3", label: "Core decisions" },
+    { value: "6", label: "ICAI sections" },
+    { value: "4", label: "Key decisions" },
     { value: "3", label: "Strategy levels" },
-    { value: "PRAT", label: "SGR model" },
-    { value: "1", label: "Worked sum" },
+    { value: "SGR", label: "Growth rate" },
     { value: "8", label: "MCQs" },
   ],
   flow: {
-    eyebrow: "The money cycle",
-    title: "Every strategic move passes through four financial decisions",
+    eyebrow: "Chapter spine",
+    title: "Strategy + Finance + Management = Fundamentals of Business",
     steps: [
-      { title: "Invest", body: "Capital budgeting — commit funds to projects that earn above the cost of capital." },
-      { title: "Finance", body: "Choose the debt–equity mix that funds the strategy at the lowest risk-adjusted cost." },
-      { title: "Distribute", body: "Dividend vs retention — return cash or reinvest to grow." },
-      { title: "Control", body: "Monitor results, feed them back into the next round of decisions." },
+      { title: "CFO & value creation", body: "From controls and compliance to risk, supply chain, M&A and ESG financing." },
+      { title: "Decisions & levels", body: "Financing, investment, dividend and portfolio decisions — set at corporate, SBU and functional levels." },
+      { title: "Plan & interface", body: "Financial planning (FR + FT + FG); capital structure is the key interface with strategy." },
+      { title: "Sustainable growth", body: "Grow only as fast as policy can fund: SGR = ROE × (1 − payout)." },
     ],
-    foot: "Objective throughout · maximise shareholder wealth",
+    foot: "Objective throughout · maximise shareholders' wealth",
   },
   sections: [
     {
-      id: "sfm",
+      id: "cfo",
       folio: "¶ 1",
-      title: "Strategic Financial Management",
-      lede: "Financial management becomes <strong>strategic</strong> when financial decisions are taken to serve the firm's long-term goals, not just this year's profit. The lodestar is <strong>maximisation of shareholder wealth</strong>, not profit.",
+      title: "Advanced Role of the CFO in Value Creation",
+      lede: "Traditionally the CFO's job was <strong>wealth maximisation</strong> — guarding the firm's financial health and running adequate financial controls. Globalisation, the information explosion and the pandemic have <strong>drastically expanded</strong> that brief.",
+      blocks: [
+        {
+          kind: "split",
+          left: {
+            tag: "Traditional",
+            tagTone: "ntr",
+            title: "Govern, comply, control",
+            body: "Wealth maximisation for shareholders, overseeing financial health, and implementing adequate financial controls — plus governance, compliance and business ethics.",
+          },
+          right: {
+            tag: "Advanced",
+            tagTone: "cap",
+            title: "Strategic & operational partner",
+            body: "On top of the traditional role, today's CFO contributes to <b>strategic and operational decision-making</b>, taking a leadership role in <b>value creation</b> — and on a <b>sustainable</b> basis for the long term.",
+          },
+        },
+        {
+          kind: "cards",
+          columns: 2,
+          items: [
+            {
+              tag: "Area a",
+              tagTone: "cap",
+              title: "Risk Management",
+              body: "CFOs now look after the overall functioning of the organisation's <b>risk-management framework</b>.",
+            },
+            {
+              tag: "Area b",
+              tagTone: "cap",
+              title: "Supply Chain",
+              body: "Post-pandemic supply-chain stress threatens sustainable growth; as caretakers of finance, CFOs judge the <b>financial viability</b> of supply-chain management.",
+            },
+            {
+              tag: "Area c",
+              tagTone: "cap",
+              title: "Mergers, Acquisitions & Restructuring",
+              body: "A spate of M&A to hold growth and market share makes the CFO crucial — an error in these <b>strategic</b> decisions can collapse the whole business.",
+            },
+            {
+              tag: "Area d",
+              tagTone: "cap",
+              title: "ESG Financing",
+              body: "With ESG evolving, the CFO's role shifts from traditional financing to <b>sustainability financing</b>.",
+            },
+          ],
+        },
+      ],
+    },
+    {
+      id: "framework",
+      folio: "¶ 2",
+      title: "Strategic Financial Decision-Making Framework",
+      lede: "Capital investment is the <strong>springboard for wealth creation</strong>. Because capital is the limiting factor, the strategic problem is allocating limited funds between competing uses so the firm can sustain or raise investor returns.",
+      blocks: [
+        {
+          kind: "note",
+          body: "Every business needs three fundamental essentials: <b>(1)</b> a clear and realistic strategy, <b>(2)</b> the financial resources, controls and systems to see it through, and <b>(3)</b> the right management team and processes to make it happen. Hence: <b>Strategy + Finance + Management = Fundamentals of Business</b>.",
+        },
+        {
+          kind: "cards",
+          columns: 2,
+          items: [
+            {
+              tag: "Definition",
+              tagTone: "ntr",
+              title: "Strategy",
+              body: "The <b>long-term direction and scope</b> of an organisation to achieve <b>competitive advantage</b> through the configuration of resources within a changing environment, for the fulfilment of stakeholders' aspirations and expectations.",
+            },
+            {
+              tag: "¶ 2.1",
+              tagTone: "cap",
+              title: "Strategic Financial Management",
+              body: "The <b>application of financial management techniques to strategic decisions</b> to help achieve the decision-maker's objectives. It marries the backward-looking, report-focused discipline of accounting with the forward-looking subject of financial management — identifying strategies that <b>maximise market value</b> and allocating scarce capital among competing opportunities.",
+            },
+          ],
+        },
+        {
+          kind: "bullets",
+          items: [
+            "<b>Functions of SFM (¶ 2.2):</b> continual search for the best investment opportunities;",
+            "selection of the best, most profitable opportunities;",
+            "determination of the optimal mix of funds for the opportunities;",
+            "establishment of systems for internal controls; and",
+            "analysis of results for future decision-making.",
+          ],
+        },
+        {
+          kind: "cards",
+          columns: 2,
+          items: [
+            {
+              tag: "Key decisions ×4",
+              tagTone: "cap",
+              title: "The scope of financial strategy",
+              bullets: [
+                "<b>Financing decisions</b> — the mode of financing / mix of equity and debt capital",
+                "<b>Investment decisions</b> — profitable use of funds, especially long-term capital projects (return vs risk)",
+                "<b>Dividend decisions</b> — split of earnings between payouts and reinvestment",
+                "<b>Portfolio decisions</b> — evaluate investments by their contribution to the whole corporation, not in isolation",
+              ],
+              note: "Financing, investment and dividend decisions were met at Intermediate; <b>portfolio decisions</b> are developed later in this Study Material.",
+            },
+            {
+              tag: "Planning horizons",
+              tagTone: "ntr",
+              title: "Strategic · tactical · operational",
+              body: "<b>Strategy</b> is a long-term course of action (senior management); <b>tactics</b> are intermediate plans (middle management); <b>operations</b> are short-term functions (line management). The investment and financing functions apply across all three horizons.",
+            },
+          ],
+        },
+      ],
+    },
+    {
+      id: "levels",
+      folio: "¶ 3",
+      title: "Strategy at Different Hierarchy Levels",
+      lede: "Strategies at different levels are the outcome of different planning needs. There are <strong>three levels</strong> — corporate, business unit and functional.",
       blocks: [
         {
           kind: "cards",
           columns: 3,
           items: [
             {
-              tag: "Investment",
+              tag: "Level 1",
               tagTone: "cap",
-              title: "Where to commit capital",
-              body: "Capital-budgeting and asset-allocation decisions — long-term (projects, expansion, M&A) and short-term (working capital). Accept only what earns above the cost of capital.",
+              title: "Corporate level",
+              body: "Concerned with the <b>selection of businesses</b> the company should compete in, and coordinating that portfolio of businesses.",
             },
             {
-              tag: "Financing",
+              tag: "Level 2",
               tagTone: "cap",
-              title: "How to raise it",
-              body: "The mix of debt and equity (capital structure) and the specific sources. Target the lowest weighted-average cost of capital for an acceptable level of financial risk.",
+              title: "Business-unit (SBU) level",
+              body: "An SBU is any <b>profit centre</b> that can be planned independently. The issues: practical coordination of operating units and building/sustaining a <b>competitive advantage</b> for its products and services.",
             },
             {
-              tag: "Dividend",
+              tag: "Level 3",
               tagTone: "cap",
-              title: "Distribute or retain",
-              body: "How much profit to pay out versus plough back. The retention decision directly funds future growth — and ties straight into the sustainable growth rate.",
+              title: "Functional level",
+              body: "Operating divisions and departments (R&D, operations, marketing, finance, HR). Among these, <b>finance assumes the highest importance</b> — it mobilises and deploys money, the most critical resource.",
             },
           ],
         },
         {
-          kind: "split",
-          left: {
-            tag: "Goal — weak",
-            tagTone: "exp",
-            title: "Profit maximisation",
-            body: "Ignores <b>timing</b> of returns, ignores <b>risk</b>, and is vague (whose profit, short or long run?). Can be gamed by deferring maintenance or cutting R&D.",
-          },
-          right: {
-            tag: "Goal — sound",
-            tagTone: "cap",
-            title: "Shareholder wealth maximisation",
-            body: "Maximise the market value of equity = PV of expected future cash flows discounted at the risk-adjusted rate. Captures <b>cash flow, timing and risk</b> together.",
-          },
-        },
-        {
-          kind: "note",
-          body: "<b>Strategy</b> is a course of action, including the specification of resources, required to achieve an objective. <b>Strategic financial management</b> is the application of financial techniques to those strategic decisions so the firm's objectives are met.",
-        },
-      ],
-    },
-    {
-      id: "functions",
-      folio: "¶ 2",
-      title: "Functions of Strategic Financial Management",
-      blocks: [
-        {
-          kind: "bullets",
+          kind: "cards",
+          columns: 2,
           items: [
-            "<b>Continual search for the best investment opportunities</b> — scanning the environment for projects that create value.",
-            "<b>Selection of the best, most profitable opportunities</b> — appraising and ranking them under capital constraints.",
-            "<b>Determination of the optimal mix of funds</b> — the capital structure that minimises the cost of capital for the chosen risk level.",
-            "<b>Establishment of a system of internal controls</b> — to govern the deployment and use of funds.",
-            "<b>Analysis of results</b> for feedback into future decision-making — closing the loop.",
+            {
+              tag: "Corporate-level test",
+              tagTone: "gold",
+              title: "Three questions a corporate strategy must answer",
+              table: {
+                columns: ["Test", "What it asks"],
+                rows: [
+                  { label: "<b>Suitability</b>", values: ["Would the strategy work to accomplish the company's common objective?"] },
+                  { label: "<b>Feasibility</b>", values: ["What kind and number of resources are needed to formulate and implement it?"] },
+                  { label: "<b>Acceptability</b>", values: ["Are the stakeholders satisfied? — can be financial and non-financial."] },
+                ],
+              },
+            },
+            {
+              tag: "Top-down / bottom-up",
+              tagTone: "ntr",
+              title: "How the levels interact",
+              body: "Functional units feed information (customer feedback, resources and capabilities) up to business-unit and corporate strategy; once the higher-level strategy is set, functions translate it into discrete action plans. Corporate strategy deploys resources; <b>financial strategy mobilises and effectively utilises money</b>.",
+            },
           ],
-        },
-        {
-          kind: "trap",
-          body: "<b>Exam framing:</b> the three <i>decisions</i> (investment, financing, dividend) answer <i>what</i> to decide; the five <i>functions</i> answer <i>how</i> the finance team operates. Don't conflate the two lists.",
         },
       ],
     },
     {
       id: "planning",
-      folio: "¶ 3",
+      folio: "¶ 4",
       title: "Financial Planning",
-      lede: "Financial planning is the process of framing objectives, policies, procedures, programmes and budgets for the firm's financial activities — so the right funds are available at the right time and used well.",
+      lede: "Financial planning is the <strong>backbone</strong> of business and corporate planning — a systematic approach to maximise existing financial resources using financial tools to achieve financial goals.",
       blocks: [
+        {
+          kind: "formula",
+          lines: [
+            "<b>Financial Planning = FR + FT + FG</b>",
+            "FR = Financial Resources · FT = Financial Tools · FG = Financial Goals",
+          ],
+        },
         {
           kind: "cards",
           columns: 3,
           items: [
-            {
-              tag: "Objective 1",
-              tagTone: "ntr",
-              title: "Determine capital requirements",
-              body: "Both <b>fixed</b> and <b>working</b> capital; both <b>long-term</b> and <b>short-term</b> needs — sized to the strategy.",
-            },
-            {
-              tag: "Objective 2",
-              tagTone: "ntr",
-              title: "Determine capital structure",
-              body: "The proportion of debt to equity — set the gearing the firm can service at an acceptable financial risk.",
-            },
-            {
-              tag: "Objective 3",
-              tagTone: "ntr",
-              title: "Frame financial policies",
-              body: "Policies for cash control, lending, borrowing and investment of surplus — the rules of day-to-day money management.",
-            },
-          ],
-        },
-        {
-          kind: "timeline",
-          nodes: [
-            { phase: "1", title: "Project the financials", body: "Prepare projected statements to see the financial impact of the plan." },
-            { phase: "2", title: "Determine funds needed", body: "Estimate funds required for assets, growth and operations over the horizon." },
-            { phase: "3", title: "Forecast availability", body: "Forecast funds generated internally and those to be raised externally." },
-            { phase: "4", title: "Install controls", body: "Establish and maintain systems to control the allocation and use of funds." },
-            { phase: "5", title: "Procedures & feedback", body: "Develop procedures and a performance-linked review so the plan adapts." },
+            { tag: "Component 1", tagTone: "ntr", title: "Financial Resources (FR)", body: "The funds the firm has and can mobilise — internally generated and externally raised." },
+            { tag: "Component 2", tagTone: "ntr", title: "Financial Tools (FT)", body: "The techniques used to deploy resources toward the goals — budgeting, appraisal, analysis." },
+            { tag: "Component 3", tagTone: "ntr", title: "Financial Goals (FG)", body: "The financial objectives, consistent with the corporate mission and objectives, decided at the very outset." },
           ],
         },
         {
           kind: "note",
-          body: "<b>Why it matters:</b> adequate funds when needed, a balance between inflows and outflows, support for growth/expansion, reduced uncertainty about market swings, and a lower overall cost of finance.",
+          body: "<b>Outcomes of financial planning:</b> financial objectives, financial decision-making, and financial measures for evaluating corporate performance (e.g. <b>ratio analysis</b> and <b>cash-flow statement analysis</b>) — the chosen measures depend on the corporate objectives.",
         },
       ],
     },
     {
       id: "interface",
-      folio: "¶ 4",
+      folio: "¶ 5",
       title: "Interface of Financial Policy & Strategic Management",
-      lede: "Strategy needs funds; <strong>financial policy</strong> governs how those funds are procured, used and distributed. The two must move together — the way you finance a strategy shapes how much risk and flexibility you carry into it.",
+      lede: "The <strong>starting point</strong> of an organisation is money and its <strong>end point</strong> is also money. No firm can run a business or fund expansion without a suitable internally- and/or externally-mobilised financial base.",
       blocks: [
         {
           kind: "cards",
           columns: 2,
           items: [
             {
-              tag: "Most important dimension",
+              tag: "Dimension 1 — the key one",
               tagTone: "cap",
               title: "Sources of finance & capital structure",
-              body: "The single biggest link. The debt–equity choice fixes financial risk, the cost of capital, and the firm's strategic flexibility. <b>Aggressive</b> (debt-heavy) financing magnifies returns and risk; <b>conservative</b> financing preserves flexibility at a higher cost.",
+              body: "Funds come from <b>ownership capital</b> (equity / preference shares) and <b>borrowed capital</b> (debentures); public deposits give short/medium-term funds; overdraft, cash credit, bill discounting, bank loans and trade credit give short-term funds.",
+              note: "Debt–equity norms (for minimising the risk of excessive loans): <b>public sector ≈ 1:1</b>, <b>private sector ≈ 2:1</b> — but the ideal varies by industry; capital-intensive industries carry a much higher proportion of debt.",
             },
             {
-              tag: "Deployment",
+              tag: "Dimension 2",
               tagTone: "cap",
-              title: "Investment & cash policy",
-              body: "Long-term funds are committed only after capital-budgeting appraisal, with the financing mix in view. Cash-management policy trades off <b>liquidity vs profitability</b>; dividend policy balances signalling and reinvestment.",
+              title: "Investment & fund-allocation decisions",
+              body: "A planner frames policies for fixed-asset investment and current-asset restraint. Investment proposals fall into three groups:",
+              bullets: [
+                "Addition of a <b>new product</b>",
+                "Increasing the level of operation of an existing product (more capacity / a new plant)",
+                "<b>Cost reduction</b> and efficient resource use",
+              ],
             },
           ],
         },
         {
-          kind: "split",
-          left: {
-            tag: "Strategy levels",
-            tagTone: "ntr",
-            title: "Where strategy is set",
-            body: "<b>Corporate</b> — which businesses to be in. <b>Business / SBU</b> — how to compete within a business. <b>Functional / operational</b> — marketing, finance, production, HR plans that execute the above.",
-          },
-          right: {
-            tag: "Finance's role",
-            tagTone: "ntr",
-            title: "At every level",
-            body: "Corporate strategy needs capital allocation across businesses; business strategy needs project finance and pricing of risk; functional plans need budgets. Financial policy threads through all three.",
-          },
-        },
-        {
-          kind: "note",
-          body: "Execution is often tracked with tools like the <b>balanced scorecard</b>, linking financial targets to customer, internal-process and learning measures — but in AFM the exam-weight sits on the <i>financing and capital-structure</i> interface above.",
+          kind: "cards",
+          columns: 2,
+          items: [
+            {
+              tag: "Dimension 3",
+              tagTone: "cap",
+              title: "Dividend policy",
+              body: "Decides earnings <b>distributed as dividend</b> vs <b>retained</b> for expansion. From a long-term funding view, dividend is the part of earnings that cannot be profitably used by the firm.",
+              bullets: [
+                "<b>Stability</b> of dividend has a positive impact on share prices",
+                "A <b>constant percentage</b> of net earnings aids flexibility and signals lower risk",
+                "Some pay a <b>minimum dividend + extra</b> when earnings are above normal",
+                "Cash vs <b>stock dividend</b> must also be examined",
+              ],
+            },
+            {
+              tag: "Interdependence",
+              tagTone: "gold",
+              title: "Cause and effect run both ways",
+              body: "Financial policy cannot be framed in isolation of other functional policies — it shapes investors' awareness of the firm. So financial policy must be considered <b>during corporate planning itself</b>: sometimes corporate strategy is the cause and financial policy the effect, and sometimes the reverse.",
+            },
+          ],
         },
       ],
     },
     {
       id: "sgr",
-      folio: "¶ 5",
+      folio: "¶ 6",
       title: "Balancing Financial Goals vis-à-vis Sustainable Growth",
-      lede: "The <strong>sustainable growth rate (SGR)</strong> is the maximum rate a firm can grow sales and assets <strong>without issuing new equity</strong> and <strong>without changing</strong> its operating efficiency, payout or leverage. Grow faster and you must raise external finance; grow slower and you build surplus cash.",
+      lede: "Sustainable growth forces managers to weigh the <strong>financial consequences of sales increases</strong> and to set growth goals consistent with the firm's operating and financial policies. Too fast or too slow both hurt — finance should keep growth close to the sustainable rate.",
       blocks: [
         {
           kind: "formula",
           lines: [
-            "<b>SGR = ROE × b</b>",
-            "where b = retention ratio = 1 − dividend-payout ratio",
-            "Expanded (PRAT model): <b>SGR = P × R × A × T</b>",
-            "P = Net profit margin (PAT ÷ Sales) · R = Retention ratio · A = Asset turnover (Sales ÷ Assets) · T = Financial leverage (Assets ÷ Equity)",
-            "P × A × T = ROE, so PRAT collapses back to ROE × b",
+            "<b>SGR = ROE × (1 − Dividend-payout ratio)</b>",
+            "= ROE × retention ratio (b)",
+            "Driving variables: net profit margin · asset-turnover ratio · assets-to-equity ratio · retention rate",
+            "Decomposition (ROE = margin × asset turnover × equity multiplier) gives the familiar P × R × A × T view — same result.",
           ],
         },
         {
@@ -217,23 +310,27 @@ export const afmCh1FinancialPolicyDoc: ChapterDoc = {
           columns: 2,
           items: [
             {
-              tag: "The four levers",
+              tag: "Higgins' model",
               tagTone: "cap",
-              title: "What lifts sustainable growth",
+              title: "Three assumptions of the SGR",
               bullets: [
-                "<b>Higher profit margin (P)</b> — more profit retained per rupee of sales",
-                "<b>Higher retention (R)</b> — pay out less, plough back more",
-                "<b>Higher asset turnover (A)</b> — sweat assets harder for sales",
-                "<b>Higher leverage (T)</b> — more debt per rupee of equity (raises risk too)",
+                "Maintain a <b>target capital structure without issuing new equity</b>",
+                "Maintain a <b>target dividend-payout ratio</b>",
+                "Increase sales <b>as rapidly as market conditions allow</b>",
               ],
+              note: "Because the only new equity is retained earnings, sales and assets cannot grow faster than retained earnings plus the debt those earnings can support. If the firm <i>is</i> willing to issue equity, there is in principle no financial constraint on growth.",
             },
             {
-              tag: "Higgins' insight",
+              tag: "Twin cornerstones",
               tagTone: "gold",
-              title: "Growth must be financed",
-              body: "If actual growth &gt; SGR, the firm faces a <b>financing gap</b> — it must raise equity, take on more debt, lift margins or cut payout. If actual growth &lt; SGR, it accumulates cash and may return it or reinvest. SGR aligns the <b>growth goal</b> with the <b>financial policy</b> that can fund it.",
+              title: "Strategy AND capability",
+              body: "Achieving sustainable growth needs both a <b>growth strategy</b> and <b>growth capability</b> (the infrastructure to execute it). An excellent strategy without the infrastructure — or vice-versa — dooms long-term growth.",
             },
           ],
+        },
+        {
+          kind: "note",
+          body: "<b>Mature firms</b> often grow <i>slower</i> than their SGR; with surplus cash they raise dividends, buy back stock, cut debt — or acquire fast-growing companies (raising actual growth). <b>Inflation</b> raises the external finance required and, if a historical-cost debt-equity ratio must stay constant, <b>lowers the sustainable growth rate</b>.",
         },
         {
           kind: "tyk",
@@ -242,23 +339,25 @@ export const afmCh1FinancialPolicyDoc: ChapterDoc = {
               ref: "Worked sum",
               title: "Compute the sustainable growth rate",
               question:
-                "A company earns a net profit margin of 8% on sales of ₹50 crore, holds total assets of ₹40 crore financed by ₹25 crore of equity, and pays out 30% of profits as dividend. Find its sustainable growth rate using the PRAT model.",
+                "A company earns PAT of ₹4 crore on equity of ₹25 crore and pays out 30% of profits as dividend. Find its sustainable growth rate.",
               solution:
-                "<b>P</b> = 8% = 0.08.<br/><b>R</b> = retention = 1 − 0.30 = 0.70.<br/><b>A</b> = Sales ÷ Assets = 50 ÷ 40 = 1.25.<br/><b>T</b> = Assets ÷ Equity = 40 ÷ 25 = 1.60.<br/><br/>SGR = P × R × A × T = 0.08 × 0.70 × 1.25 × 1.60 = <b>0.112 = 11.2%</b>.<br/><br/>Cross-check: ROE = PAT ÷ Equity. PAT = 0.08 × 50 = ₹4 cr, so ROE = 4 ÷ 25 = 16%. SGR = ROE × b = 16% × 0.70 = <b>11.2%</b> ✓. The firm can grow ~11.2% a year on its current policy; faster growth needs external finance.",
+                "ROE = PAT ÷ Equity = 4 ÷ 25 = <b>16%</b>. Retention b = 1 − 0.30 = 0.70.<br/>SGR = ROE × (1 − payout) = 16% × 0.70 = <b>11.2%</b>.<br/><br/>So the firm can grow sales/assets about 11.2% a year on its current margins, asset use, payout and leverage — without issuing new equity. Faster growth needs external finance, a higher retention or better margins. (Cross-check via the P×R×A×T decomposition gives the same 11.2% because P×A×T = ROE.)",
             },
             {
-              ref: "Concept",
-              title: "Financial policy ↔ corporate strategy",
-              question:
-                "“Financial policy and corporate strategy are two sides of the same coin.” Explain the interface and the role of capital structure.",
+              ref: "TYK 1",
+              title: "Explain the interface of financial policy and strategic management",
+              question: "Explain the interface of financial policy and strategic management. (ICAI TYK — refer ¶ 5.)",
               solution:
-                "Corporate strategy sets the direction (which businesses, how to compete, how fast to grow); it cannot be executed without funds. <b>Financial policy</b> decides how funds are <b>procured</b> (sources, capital structure), <b>deployed</b> (capital budgeting, working-capital and cash policy) and <b>distributed</b> (dividend policy). The <b>most important dimension</b> of the interface is the <b>sources of finance and capital structure</b>: the debt–equity mix fixes financial risk, the cost of capital and strategic flexibility. A strategy of rapid growth, for instance, raises the sustainable-growth financing gap and must be matched by a financing policy (retain more, lever up, or issue equity). Hence the two must be formulated together, not in sequence.",
+                "The starting and ending point of any organisation is money, so financial policy and strategy are inseparable. The <b>most important dimension</b> is the <b>sources of finance and capital structure</b> — ownership vs borrowed capital and the debt–equity mix (norms ≈ 1:1 public, 2:1 private, varying by industry). The second is <b>investment and fund-allocation</b>: framing policies for fixed and current assets and selecting among new-product, capacity-expansion and cost-reduction proposals via capital budgeting. The third is <b>dividend policy</b> — the split between distribution and retention, and its signalling effect on share price. Because investors judge the firm through its financial policy, that policy must be settled <b>during corporate planning itself</b>: corporate strategy can be the cause and financial policy the effect, or vice-versa.",
+            },
+            {
+              ref: "TYK 2",
+              title: "Short note — balancing financial goals vis-à-vis sustainable growth",
+              question: "Write a short note on balancing financial goals vis-à-vis sustainable growth. (ICAI TYK — refer ¶ 6.)",
+              solution:
+                "Sustainable growth (Higgins) is the maximum rate of sales growth a firm can sustain given its profitability, asset utilisation, dividend payout and leverage — i.e. the most it can grow <b>without issuing new equity</b>: <b>SGR = ROE × (1 − payout)</b>. The model assumes a target capital structure with no new equity, a target payout, and sales growing as fast as the market allows. A conflict arises when growth goals are inconsistent with the sustainable rate: growing too fast opens a financing gap (raise equity/debt, retain more, or slow down); growing too slowly leaves surplus cash to return or redeploy. Sustainable growth needs both a growth <b>strategy</b> and the <b>capability/infrastructure</b> to deliver it, so finance must keep actual growth close to the sustainable rate.",
             },
           ],
-        },
-        {
-          kind: "trap",
-          body: "<b>Watch the leverage lever:</b> raising T lifts SGR on paper but adds financial risk and interest burden — the exam rewards noting that sustainable growth assumes <i>unchanged</i> policy, so funding growth purely by piling on debt is not 'sustainable'.",
         },
       ],
     },
@@ -271,52 +370,52 @@ export const afmCh1FinancialPolicyDoc: ChapterDoc = {
           kind: "quiz",
           items: [
             {
-              question: "The overriding objective of strategic financial management is:",
-              options: ["Profit maximisation", "Sales maximisation", "Shareholder wealth maximisation", "Minimising the tax bill"],
-              answer: 2,
-              why: "Wealth maximisation captures cash flow, timing and risk together; profit maximisation ignores timing and risk.",
-            },
-            {
-              question: "Which is NOT one of the three core financial decisions?",
-              options: ["Investment decision", "Financing decision", "Dividend decision", "Recruitment decision"],
+              question: "Which is NOT one of the four post-pandemic areas where the CFO's role has advanced (per ICAI)?",
+              options: ["Risk management", "Supply chain", "ESG financing", "Statutory audit sign-off"],
               answer: 3,
-              why: "The three core decisions are investment, financing and dividend.",
+              why: "ICAI lists risk management, supply chain, M&A/restructuring and ESG financing — not signing the statutory audit.",
             },
             {
-              question: "In the PRAT model, ‘T’ stands for:",
-              options: ["Tax rate", "Asset turnover", "Financial leverage (Assets ÷ Equity)", "Retention ratio"],
+              question: "“Strategy + Finance + Management” equals:",
+              options: ["Corporate governance", "Fundamentals of business", "The balanced scorecard", "Working capital"],
+              answer: 1,
+              why: "ICAI: the three fundamental essentials sum to the Fundamentals of Business.",
+            },
+            {
+              question: "How many key decisions fall within the scope of financial strategy per ICAI?",
+              options: ["Two", "Three", "Four (financing, investment, dividend, portfolio)", "Five"],
               answer: 2,
-              why: "P = profit margin, R = retention, A = asset turnover, T = leverage = Assets ÷ Equity.",
+              why: "ICAI lists four — financing, investment, dividend and portfolio decisions.",
             },
             {
-              question: "Sustainable growth rate equals:",
-              options: ["ROE × payout ratio", "ROE × retention ratio", "ROCE × retention ratio", "Net margin × payout ratio"],
+              question: "A corporate-level strategy must answer Suitability, Feasibility and:",
+              options: ["Affordability", "Acceptability", "Availability", "Accountability"],
               answer: 1,
-              why: "SGR = ROE × b, where b is the retention ratio (1 − payout).",
+              why: "The three tests are Suitability, Feasibility and Acceptability (stakeholder satisfaction).",
             },
             {
-              question: "If a firm's actual growth exceeds its sustainable growth rate, it will generally need to:",
-              options: ["Return cash to shareholders", "Raise external finance or cut payout", "Reduce its asset turnover", "Do nothing — growth funds itself"],
-              answer: 1,
-              why: "Faster-than-sustainable growth opens a financing gap that must be closed with external funds, higher retention or better margins.",
+              question: "Financial Planning, per ICAI, equals:",
+              options: ["FR + FT + FG", "Debt + Equity", "NPV + IRR", "Risk + Return"],
+              answer: 0,
+              why: "Financial Planning = Financial Resources + Financial Tools + Financial Goals.",
             },
             {
-              question: "The single most important dimension of the financial-policy / strategy interface is:",
+              question: "The most important dimension of the financial-policy / strategy interface is:",
               options: ["Dividend declaration dates", "Sources of finance and capital structure", "The audit timetable", "Petty-cash controls"],
               answer: 1,
-              why: "The debt–equity mix drives financial risk, cost of capital and strategic flexibility.",
+              why: "ICAI states sources of finance and capital structure are the most important dimensions.",
             },
             {
-              question: "‘Determining the optimal mix of funds’ is best described as a:",
-              options: ["Function of strategic financial management", "Step of the audit", "Type of dividend policy", "Working-capital ratio"],
-              answer: 0,
-              why: "It is one of the listed functions of strategic financial management.",
+              question: "The ICAI debt-equity norm cited for private-sector firms is approximately:",
+              options: ["1:1", "2:1", "1:2", "3:1"],
+              answer: 1,
+              why: "Public sector ≈ 1:1, private sector ≈ 2:1 — varying by industry.",
             },
             {
-              question: "Deciding which businesses the company should operate in is a strategy set at the:",
-              options: ["Functional level", "Business / SBU level", "Corporate level", "Operational level"],
-              answer: 2,
-              why: "Corporate-level strategy chooses the portfolio of businesses; SBU level decides how to compete within one.",
+              question: "The sustainable growth rate (Higgins) equals:",
+              options: ["ROE × payout ratio", "ROE × (1 − payout ratio)", "ROCE × payout ratio", "Net margin × payout ratio"],
+              answer: 1,
+              why: "SGR = ROE × (1 − dividend-payout) = ROE × retention ratio.",
             },
           ],
         },
@@ -324,5 +423,5 @@ export const afmCh1FinancialPolicyDoc: ChapterDoc = {
     },
   ],
   footer:
-    "AFM Chapter 1 · Financial Policy and Corporate Strategy — authored from the ICAI CA Final AFM syllabus as a first-reading aid. Confirm definitions and figures against your ICAI study material.",
+    "AFM Chapter 1 · Financial Policy and Corporate Strategy — built from the ICAI Study Material (Chapter 1). Section numbers follow the ICAI chapter; verify any figure against your book.",
 };
