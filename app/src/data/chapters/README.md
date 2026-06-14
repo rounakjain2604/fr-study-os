@@ -1,41 +1,42 @@
 # Authoring AFM Chapter Workspaces — Guide for Codex
 
 **Read this fully before writing any chapter.** You are building the study
-material the user will actually study from. **The user will NOT open the ICAI
-PDF/text.** The chapter workspace you produce is the *sole* reference for that
-AFM chapter. Therefore the bar is **total fidelity and total completeness**, not
-a summary.
+material the user will actually study from. The goal is a **simplified,
+exam-testable** workspace that **saves the student time** — NOT a reproduction
+of the ICAI chapter.
+
+> ⛔️ **Do NOT paste or lightly re-flow the ICAI / Mistral-OCR text.** Two earlier
+> attempts dumped the whole chapter verbatim (one ran ~2,900 lines / 277 KB) and
+> were thrown away. Verbatim = rejected. **Author from understanding, tightly.**
 
 ---
 
-## 0. The Completeness Contract (the most important rule)
+## 0. The brief: tight, exam-focused, curated
 
-For each chapter, your `ChapterDoc` must let a student pass the exam **without
-ever opening the ICAI book**. That means you reproduce **everything** in the
-source chapter, in the student's words but losing **no** content:
+For each chapter, your `ChapterDoc` should let a student revise the examinable
+core **fast**. Cover every *topic*, but be ruthless about volume:
 
-- **Every concept, definition and classification** — verbatim where ICAI states
-  a definition or a list (definitions are examined word-for-word).
-- **Every formula** — with each symbol defined, and any conditions/assumptions.
-- **Every illustration / example / worked problem** — reproduced as a `tyk`
-  block with the **full step-by-step solution and the final figure**. Do not
-  shorten or "leave as an exercise." If ICAI shows 7 illustrations, your chapter
-  has all 7.
-- **Every Test-Your-Knowledge (TYK) theoretical question and practical
-  question** at the end of the ICAI chapter — included with full answers.
-- **Every table** ICAI gives (rate tables, comparison tables, formats).
-- **Every important note, caveat, exception and exam trap.**
-- **All MCQs you can derive** — build a generous quiz (8–15 questions) covering
-  the chapter's testable points.
+- **Concepts & definitions** — crisp, in your own words. Keep the exact ICAI
+  wording only for definitions/lists that are examined verbatim. One or two
+  sentences each, not paragraphs.
+- **Every formula** — stated once in a `formula` block, each symbol defined.
+- **Worked sums — curated, not exhaustive.** Pick **one tight, representative
+  worked sum per calculation type** (e.g. one expected-NPV, one SD/CV, one
+  certainty-equivalent…). **Do NOT reproduce all of ICAI's illustrations** — if
+  the chapter has 13 illustrations covering 6 techniques, you write ~6 clean
+  worked sums, not 13. Each shows: formula → substitution → **bold final
+  answer**, with a clean `<table class="tbl">` for any working.
+- **The key contrasts and traps** — comparison tables (RADR vs CE, fundamental
+  vs technical…) and the common exam traps.
+- **A quiz** of 10–12 MCQs on the testable points.
 
-If in doubt, **include it**. Over-inclusion is correct here; omission is a bug.
-A finished AFM chapter doc is typically **large** (Ch 1–2 are the *smallest*
-chapters and already run ~250–400 lines each; calculation-heavy chapters like
-3, 5, 6, 9, 10, 13, 14 will be **much** larger — that is expected and required).
+**Aim for roughly 250–500 lines per chapter** (Ch 1–4 are good references at
+~250–450 lines). If you're past ~600, you're dumping — cut it back. Simpler and
+shorter is better, as long as every *topic* and *formula* is present.
 
-**Do not invent facts.** Everything must come from the chapter's ICAI source
-file (see §2). If the source is ambiguous, keep ICAI's exact wording rather than
-guessing.
+**Don't invent facts**, but **do** simplify, paraphrase and omit ICAI's padding
+(history, repeated prose, redundant illustrations). The student wants the
+testable essence, not the textbook.
 
 ---
 
@@ -79,9 +80,9 @@ this and was rejected — learn from it:
    tables, variance tables).
 3. Figures must tie out to ICAI exactly (same rounding, same PV factors).
 
-If reproducing one illustration cleanly takes 40–80 lines, that is correct.
-Quality and readability are the whole point — the student reads *this*, not the
-book.
+Keep each worked sum tight — a clean table plus a few lines of working, not a
+page. And remember §0: include **one representative sum per technique**, not
+every ICAI illustration.
 
 ---
 
@@ -219,7 +220,7 @@ All "rich text" fields accept a **limited inline-HTML subset**: `<b> <strong>
 | `flips` | `{ kind:"flips", title?, items:[{label,question,answer}] }` | Self-test flashcards (tap to reveal). Great for definitions/quick recall. **Feeds the recall-card deck.** |
 | `timeline` | `{ kind:"timeline", nodes:[{phase,title,body}] }` | Ordered processes / steps / phases. |
 | `bullets` | `{ kind:"bullets", items: string[] }` | A plain list (renders as one card). |
-| `tyk` | `{ kind:"tyk", items:[{ref,title,question,solution}] }` | **Every illustration, worked example, and end-of-chapter question.** Accordion: `ref` = "Illustration 4" / "TYK Q2", `question` = full problem, `solution` = **complete step-by-step working with the final answer in bold.** |
+| `tyk` | `{ kind:"tyk", items:[{ref,title,question,solution}] }` | **Curated worked sums — one per technique** (see §0). Accordion: `ref` = "Worked sum", `title` = short label, `question` = the problem, `solution` = **tight step-by-step working with the final answer in bold** (use `<table class="tbl">` for tabular working). |
 | `quiz` | `{ kind:"quiz", items:[{question,options[],answer,why}] }` | MCQ bank. `answer` is the **0-based index** of the correct option. `why` explains it. **Feeds the recall-card deck.** |
 | `drill` | `{ kind:"drill", yesLabel?, noLabel?, items:[{prompt,capitalise:boolean,why}] }` | A rapid binary-decision drill. The field is named `capitalise` for historical reasons — it just means **"is the `yesLabel` choice the correct one?"**. Set `yesLabel`/`noLabel` to your two choices. |
 | `calculator` | `{ kind:"calculator", calc: "forex"\|"capRate"\|"commencement" }` | **Avoid for AFM.** Only those three Ind AS 23 calculators exist. Put computations in `tyk`/`formula` instead (see §6). |
@@ -278,7 +279,9 @@ the user's spaced-repetition deck — include them generously.
 
 ## 8. Constraints & gotchas (will save you a failed build)
 
-- `columns` on `cards` is **only `2` or `3`**.
+- `columns` on `cards` is **only `2` or `3`** — `1` is a TYPE ERROR that fails the
+  build. For a single full-width card (e.g. a wide comparison table) use
+  `columns: 2` with one item; CSS makes a lone card span the whole row.
 - `quiz.answer` is a **0-based index**.
 - `drill.capitalise` = "the `yesLabel` option is correct" (boolean).
 - Rich text = the inline-HTML subset above only; maths via Unicode.
@@ -331,7 +334,7 @@ Then commit the source on `main` and push.
 - [ ] Every ICAI section represented, in order.
 - [ ] Every definition/classification reproduced (verbatim where ICAI is exact).
 - [ ] Every formula in a `formula` block with symbols defined.
-- [ ] **Every illustration & practical** as a `tyk` with a complete worked solution.
+- [ ] **One representative worked sum per technique** as a `tyk` (NOT every ICAI illustration).
 - [ ] Every end-of-chapter TYK question included with its answer.
 - [ ] Every ICAI table reproduced.
 - [ ] Notes, exceptions and exam traps captured.
