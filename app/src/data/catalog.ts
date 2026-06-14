@@ -6,6 +6,7 @@ import { frCh3PresentationDoc } from "./chapters/frCh3Presentation";
 import { afmCh1FinancialPolicyDoc } from "./chapters/afmCh1FinancialPolicy";
 import { afmCh2RiskManagementDoc } from "./chapters/afmCh2RiskManagement";
 import { afmCh3CapitalBudgetingDoc } from "./chapters/afmCh3CapitalBudgeting";
+import { afmCh4SecurityAnalysisDoc } from "./chapters/afmCh4SecurityAnalysis";
 export type StudyStatus = "Live" | "Dashboard" | "Planned" | "Source Ready";
 
 export type ChapterAsset = {
@@ -411,7 +412,8 @@ const afmChapters: ChapterAsset[] = [
     afmCh3CapitalBudgetingDoc),
   afm(4, "Security Analysis", "exp", ["fundamental", "technical", "EMH"],
     "Fundamental analysis (economy–industry–company), technical analysis, and the Efficient Market Hypothesis.",
-    "004 - Chapter 4- Security Analysis - 74831bos60509-cp4.txt"),
+    "CA_Final_May_2027_Command_Center/ICAI_Materials_Text/02_AFM_Corrected/004 - Chapter 4- Security Analysis - 74831bos60509-cp4_mistral.md",
+    afmCh4SecurityAnalysisDoc),
   afm(5, "Security Valuation", "cap", ["bonds", "YTM", "duration", "DDM", "FCFE"],
     "Valuing debt and equity — bond pricing, YTM, duration and convexity; dividend discount models, FCFE/FCFF and relative-valuation multiples.",
     "005 - Chapter 5- Security Valuation - 74832bos60509-cp5.txt"),

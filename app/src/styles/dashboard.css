@@ -462,6 +462,11 @@
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+/* A lone card (e.g. a wide comparison table) should span the full row. */
+.block-grid > .concept-card:only-child {
+  grid-column: 1 / -1;
+}
+
 .concept-card {
   border: 1px solid var(--rule);
   border-radius: 14px;
