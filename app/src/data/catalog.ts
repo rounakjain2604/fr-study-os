@@ -5,11 +5,7 @@ import { frCh2FrameworkDoc } from "./chapters/frCh2Framework";
 import { frCh3PresentationDoc } from "./chapters/frCh3Presentation";
 import { afmCh1FinancialPolicyDoc } from "./chapters/afmCh1FinancialPolicy";
 import { afmCh2RiskManagementDoc } from "./chapters/afmCh2RiskManagement";
-// NOTE: afmCh3CapitalBudgeting.ts exists as a DRAFT but is intentionally NOT
-// wired in — its content is a raw PDF-text extraction (broken formula layout,
-// mojibake, whitespace-collapsed tables) and must be re-authored to the README
-// standard before going Live. Re-add the import + 7th arg once that's done.
-
+import { afmCh3CapitalBudgetingDoc } from "./chapters/afmCh3CapitalBudgeting";
 export type StudyStatus = "Live" | "Dashboard" | "Planned" | "Source Ready";
 
 export type ChapterAsset = {
@@ -393,7 +389,7 @@ const afm = (
   readiness: 0,
   tone,
   doc,
-  sourceFile: `${AFM_SOURCE_DIR}/${srcFile}`,
+  sourceFile: srcFile.includes("/") ? srcFile : `${AFM_SOURCE_DIR}/${srcFile}`,
   tags,
   summary,
   sections: [],
@@ -411,7 +407,8 @@ const afmChapters: ChapterAsset[] = [
     afmCh2RiskManagementDoc),
   afm(3, "Advanced Capital Budgeting Decisions", "cap", ["NPV", "risk analysis", "EAC", "simulation"],
     "Replacement decisions, capital rationing, inflation adjustment, and risk analysis — sensitivity, scenario, simulation, decision trees and certainty equivalents.",
-    "003 - Chapter 3- Advanced Capital Budgeting Decisions - 74830bos60509-cp3.txt"),
+    "02_AFM_Corrected/003 - Chapter 3- Advanced Capital Budgeting Decisions - 74830bos60509-cp3_mistral.md",
+    afmCh3CapitalBudgetingDoc),
   afm(4, "Security Analysis", "exp", ["fundamental", "technical", "EMH"],
     "Fundamental analysis (economy–industry–company), technical analysis, and the Efficient Market Hypothesis.",
     "004 - Chapter 4- Security Analysis - 74831bos60509-cp4.txt"),
