@@ -7,6 +7,7 @@ import { afmCh1FinancialPolicyDoc } from "./chapters/afmCh1FinancialPolicy";
 import { afmCh2RiskManagementDoc } from "./chapters/afmCh2RiskManagement";
 import { afmCh3CapitalBudgetingDoc } from "./chapters/afmCh3CapitalBudgeting";
 import { afmCh4SecurityAnalysisDoc } from "./chapters/afmCh4SecurityAnalysis";
+import { afmCh9DerivativesDoc } from "./chapters/afmCh9Derivatives";
 export type StudyStatus = "Live" | "Dashboard" | "Planned" | "Source Ready";
 
 export type ChapterAsset = {
@@ -428,7 +429,8 @@ const afmChapters: ChapterAsset[] = [
     "008 - Chapter 8- Mutual Funds - 74835bos60509-cp8.txt"),
   afm(9, "Derivatives Analysis & Valuation", "cap", ["futures", "options", "Black-Scholes"],
     "Forwards and futures (cost-of-carry, hedging) and options — payoffs, put-call parity, binomial and Black-Scholes-Merton valuation, and strategies.",
-    "009 - Chapter 9- Derivatives Analysis and Valuation - 74836bos60509-cp9.txt"),
+    "009 - Chapter 9- Derivatives Analysis and Valuation - 74836bos60509-cp9.txt",
+    afmCh9DerivativesDoc),
   afm(10, "Foreign Exchange Exposure & Risk Management", "cap", ["exposure", "hedging", "forex"],
     "Transaction, translation and economic exposure, and the toolkit to hedge it — forwards, money-market, futures, options and leading/lagging.",
     "010 - Chapter 10- Foreign Exchange Exposure and Risk Management - 74837bos60509-cp10.txt"),
