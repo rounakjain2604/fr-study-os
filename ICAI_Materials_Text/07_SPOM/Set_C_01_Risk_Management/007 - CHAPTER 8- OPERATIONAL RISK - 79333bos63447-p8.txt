@@ -1,0 +1,469 @@
+Source PDF: 07_SPOM/Set_C_01_Risk_Management/007 - CHAPTER 8- OPERATIONAL RISK - 79333bos63447-p8.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_01_Risk_Management\007 - CHAPTER 8- OPERATIONAL RISK - 79333bos63447-p8.pdf
+Extracted at: 2026-05-31T10:29:56+05:30
+Pages: 13
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          8
+
+
+OPERATIONAL RISK
+
+
+                       LEARNING OUTCOMES
+
+After going through the chapter student shall be able to understand:
+
+   Process level Risk Management
+
+   Outsourcing Risks & 3rd Party Risk
+
+   Supply Chain (Sale/ Purchase)
+
+   Product/Service Quality etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+8.22.2            RISK MANAGEMENT
+
+ CHAPTER OVERVIEW
+
+
+                           OPERATIONAL
+                                  RISK
+
+
+ Process level Risk      Outsourcing Risks     Supply Chain (Sale/      Product/Service
+   Management       & 3rd Party Risk          Purchase)              Quality etc.
+
+
+Operational risk begins with the initiation of business operations and encompasses a spectrum of
+potential hazards,  including  disruptions,  fraudulent  activities, human  errors,  malicious  acts,
+breaches of laws and regulations, as well as digital attacks and disasters. This risk factor has been
+inherent in business operations since their inception, and the evolution of business practices has
+spurred the refinement of operational risk management.
+In the financial services industry, operational risk is also referred to as non-financial risk, setting it
+apart from credit risk, market risk, and liquidity risk, which stem from purely financial activities such
+as credit allocation and market trading. Unlike these financial risks, operational risk originates from
+non-financial sources such as flawed processes, human elements, or system breakdowns.
+Operational  risk  is defined as the  risk of losses resulting from inadequate or failed internal
+processes,  people and  systems  or  from  external  events.  (Basel  Committee on  Banking
+Supervision, 2003)
+
+     1. PROCESS LEVEL RISK MANAGEMENT
+The functional level/ Process Level is the level of the operating divisions and departments. The
+strategic issues  at  this  level are related  to functional business processes and value chain.
+Functional level strategies in R&D, operations, manufacturing, marketing, finance, and human
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+OPERATIONAL RISK              8.3         2.3
+
+resources involve the development and coordination of resources through which business unit
+level strategies can be executed effectively and efficiently. Functional units of an organization are
+involved in higher level strategies by providing input to the business unit level and corporate level
+strategy, such as providing information on customer feedback or on resources and capabilities on
+which the higher-level strategies can be based. Once the higher-level strategy is developed, the
+functional units translate them into discrete action plans that each department or division must
+accomplish for the strategy to succeed.
+Process Level Risk Management is related to assessment, prevention and remediation of eclectic
+types of events that can materialise  in numerous ways.   Analysis of losses over the years
+consistently shows that two-thirds of the losses that firms endure each year are caused by the 0.5
+percent largest operational incidents (ORX Association, 2022).
+Efficient Process Level Risk management balances the costs of controls with the level of losses
+expected, in normal and worst – case scenarios. Comparable and consistent Process Level Risk
+assessment provides necessary information for directing investments to additional controls for the
+risks where the reduction in potential losses will be greatest. Process level Risk management sets
+out to ensure management attention is directed to these potential high- severity events, and not
+just to those risks with more frequent occurrence but modest potential losses. The use of common
+metrics for  risk, together with comprehensive identification and assessment of risks, provides
+quality risk information to be used in decision making at all levels.
+
+     2. OUTSOURCING RISKS & 3RD PARTY RISK
+An outsourcing decision is often called a ‘make or buy’ decision.  It involves a decision about
+whether to continue 'making' a product versus ‘buying’  it from an external firm. Outsourcing
+enables a firm to
+•     reduce costs or
+•      benefit from supplier efficiencies
+Outsourcing decision requires incremental analysis. The incremental amounts are based on the
+difference in the cost of buying a product or service compared to the cost of producing the item or
+providing the service in house.
+Incremental costs are the additional costs incurred from outsourcing. The main cost  is the
+purchase price of the products or the cost of the services that are being provided by external firms.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+8.42.4            RISK MANAGEMENT
+
+Incremental cost savings are reductions in costs that will no longer be incurred as a result of
+outsourcing. They are often called avoidable costs because if a company outsources, it can 'avoid'
+certain costs. Variable product cost savings are always incremental. Because they reduce total
+costs, they cause profits to increase. In some circumstances, a portion of fixed costs, such as
+equipment rental costs or supervisor salaries, can be avoided.
+Opportunity costs are the costs forgone as a result of selecting a different alternative. They are
+always incremental. For example, if a company decides to outsource, it is able to lease its factory
+space that the product being outsourced will no longer occupy.
+While considering the decision to outsource, the management should consider qualitative aspects
+like quality of goods, reliability of suppliers, impact on customers and suppliers, etc.
+2.1 When should a company outsource?
+A firm generally decides to outsource:
+•         If it costs less than to manufacture it internally.
+•         If the return on the necessary investment to be made to manufacture  is not attractive
+      enough.
+•         If the company does not have the requisite skilled manpower to make.
+•         If the concern feels that manufacturing internally will mean additional labour problems.
+•         If adequate managerial manpower  is not available to take charge of the extra work of
+      manufacturing.
+•         If the component shows much seasonal demand,  resulting  in a considerable  risk  of
+       maintaining inventories.
+•         If transport and other infrastructure facilities are adequately available.
+•         If the process of making is confidential or patented.
+•         If there is a risk of technological obsolescence for the component, such that  it does not
+      encourage capital investment in the component.
+2.2 Risks of Outsourcing
+The primary risks associated with outsourcing are as follows:
+(i)    Loss of control: While engaging with external vendors may be a common practice,
+       entrusting  control  to an  unfamiliar vendor can  still be  unsettling.  In  the  context  of
+      outsourced software development,  it is essential to acknowledge the risks associated with
+       relinquishing day-to-day project management control. This inevitably results in a decreased
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+OPERATIONAL RISK              8.5         2.5
+
+       level of oversight and influence over the project. Although outsourcing can offer value in this
+       regard, it can quickly transform into a risk factor if the team lacks trustworthiness.
+(ii)   Communication challenges: Research indicates that nearly 90% of businesses perceive
+      communication  as  a  significant  hurdle  in  the  outsourcing  process.  While  some
+      communication obstacles are inherent in working with dispersed teams, deeper issues often
+       underlie these challenges. Differences in national and organizational cultures, as well as
+      language barriers, can exacerbate communication difficulties. Moreover, the client-service
+       provider dynamic can  further complicate  matters, as service  provider  staff may  feel
+       obligated to comply with the client's wishes, hindering open dialogue and the ability to
+      address unrealistic requests. Thus, what may initially appear as a communication issue may
+       actually stem from  cultural  disparities.  Effective communication  is  crucial  for  project
+      success, necessitating proactive measures to mitigate miscommunication regardless of its
+        origins.
+(iii)   Security breaches and Intellectual Property (IP) protection: It is imperative to recognize
+       the risks associated with vendors mishandling sensitive data or IP. Sharing confidential
+       information about IT systems inherently compromises security. While this  risk may be
+      unavoidable at times,  it is essential to carefully consider the ramifications before engaging
+       with vendors. Assess the potential repercussions of data security breaches or violations of
+       IP  rights.  Establish  clear  security  protocols and  expectations  to minimize  ambiguity.
+       Ultimately,  it is vital to hold outsourcing vendors accountable for safeguarding your data
+      and  IP.  Regular  security  risk  assessments  should  be  conducted  throughout  your
+      engagement with a software outsourcing company to ensure continued protection.
+2.3 How to avoid outsourcing risk?
+Mitigating  the  risks associated  with outsourcing may appear  daunting,  but  with meticulous
+planning,   it can be achieved. BPO  firms  that  proactively address  risks gain a  significant
+competitive edge. Here are some recommended steps for minimizing outsourcing risk:
+(i)    Address  Critical Issues: The  initial step  involves  tackling  risks  directly. By openly
+       discussing critical issues, BPO companies can proactively manage and mitigate potential
+       risks before they escalate into crises.
+(ii)   Shared Responsibility: Sharing  responsibility among  all  parties  involved  is another
+       effective strategy. This approach prevents blame games and ensures mutual satisfaction.
+(iii)   Goal Alignment: Setting clear and achievable business goals is crucial for risk mitigation.
+      Thoroughly  researched  goals  help  maintain  customer   satisfaction  and  prevent
+      disappointments.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+8.62.6            RISK MANAGEMENT
+
+(iv)    Trial Periods: Conducting trials of services offers valuable insights and helps minimize
+       outsourcing risk. Trials allow for firsthand experience and enable prompt problem-solving if
+      issues arise.
+(v)    Flexibility and Adaptability: Flexibility and adaptability are key attributes in managing
+       outsourcing  risks.  Being  responsive  to  unforeseen  circumstances  demonstrates  a
+      company's capacity for growth and evolution.
+(vi)    Prioritize Security and Privacy: Safeguarding security and privacy  is paramount  for
+       mitigating outsourcing risks. BPO users entrust sensitive data to third-party organizations
+      and must have assurance that it will remain secure.
+(vii)   Strategic Recruitment: Building a competent team is essential for minimizing outsourcing
+        risk. Recruiting individuals aligned with the company's core values fosters a supportive work
+      environment and contributes to overall risk management.
+These steps outline effective strategies for minimizing outsourcing risk within BPO companies, as
+endorsed  by  Rely  Services.  Implementing  these measures can  significantly enhance  risk
+management practices and bolster business resilience.
+
+     3. SUPPLY CHAIN (SALE / PURCHASE)
+A complete chain of serving customers or consumers, whether linked or interdependent, is the
+composition of the supply chain.  It comprises vendors that supply raw materials, producers who
+convert the material into products, warehouses that store them, distribution centres that deliver to
+retailers and retailers who sell the product to the ultimate user.
+Supply chains encourage value chains because, without them, no producer has the ability to give
+customers what they want, when and where they want, at the price they want. Deficiencies in the
+supply chain reduce the ability of the producers to compete with each other.
+The term supply chain can be referred to as the entire network of organisations working together to
+design, produce, deliver, and service products. In other words, all activities associated with the
+flow and transformation of goods from raw material to end user- is called supply chain.
+The transformation of a product from node to node includes activities such as −
+•     Production Planning
+•     Purchasing
+•      Material Management
+•      Distribution
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+OPERATIONAL RISK              8.7         2.7
+
+•     Customer Service
+•     Forecasting
+The Global Supply Chain Forum (GSCF) defines supply chain management as the “integration of
+key business processes from end user through original suppliers that provides products, services,
+and information that add value for customers and other stakeholders”.
+The following eight supply chain management processes are included in the GSCF framework:
+      Customer Relationship Management, to manage and analyse customer’s interaction and❑
+      data throughout the life cycle with the main motive of improving business relations.
+       Supplier  Relationship Management  provides  the  structure  for how  relationships  with❑
+       suppliers are developed and maintained.
+      Customer Service Management provides the key points of contact for administering product❑
+      and service agreements.
+     Demand Management provides the structure for optimising the customer's requirements❑
+       with supply chain capabilities.
+      Order Fulfilment, includes all activities necessary to define customer requirements, design❑
+       the logistics network, and fill customer orders.
+      Manufacturing Flow Management,  includes  all  activities necessary  to move products❑
+      through the plants and to obtain, implement, and manage manufacturing flexibility in the
+      supply chain.
+      Product Development and Commercialization, provides the structure for developing and❑
+       bringing to market new products jointly with customers and suppliers.
+      Returns  Management,  includes   all  activities  related  to  returns,  reverse  logistics,❑
+      gatekeeping, and avoidance.
+3.1 Types of Supply Chain
+
+3.1.1 Push and Pull
+During  the  traditional  chain,  suppliers were  at one  end.  Suppliers  give  their  products  to
+manufacturers or distributers who further send them to retailers. Although customers are the
+source of profits, they are at the end of the chain in the ‘push’ model.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+8.82.8            RISK MANAGEMENT
+
+Under Push Model stocks are produced on the basis of anticipated demand. Demand forecasting
+can be done via a variety of sophisticated techniques, such as operations research or data mining.
+Under Pull Model stocks are produced in response to actual demand. This new business model is
+less product-centric and more directly focused on the individual consumer, a more marketing
+oriented approach.
+Electronic connections are used in the pull model to meet the needs of customers.
+▪      Electronic supply chain connectivity gives end customers the opportunity to give direction to
+       suppliers, for example, about the precise specifications of the products they want.
+▪      Ultimately, customers have a direct voice in the functioning of the supply chain.
+Supply chain created through E-Commerce brings benefits to both customers and manufacturers
+thus facilitating the companies to fulfil customer needs, carry fewer inventories, and send products
+to market more quickly.
+
+3.1.2 Upstream and Downstream Flow
+A supply chain begins right from the supplier and finally ends with the end customer or consumer.
+In the total chain, there are flows of material, information, and capital or finance. When the flow
+relates to the supplier it is termed as upstream flow. If the flow is with consumers or customers, it
+is called downstream flow.
+3.2 Benefits of the Supply Chain
+Benefits of the supply chain are enormous for any business. A highly controlled supply chain
+fetches  tangible  benefits  such  as  inventory  reduction,  personnel  reduction,  productivity
+improvement, order management improvement, financial cycle improvement, etc. Further, it results
+in information visibility, new or improved processes, customer responsiveness, standardization,
+flexibility, and globalization of business performance.
+3.3 Building a Resilient and Sustainable Supply Chain
+Over the past decades, with the advent of globalization, supply chains have spread across many
+countries. Businesses are now more likely to be impacted by developments from across the world.
+In the recent past, some of the major disruptions that highlighted weaknesses in supply chains are:
+▪      Disruptions to supply chains were caused by the Covid pandemic.
+▪      Geo-political tensions conflict impacted critical supplies like food and energy.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+OPERATIONAL RISK              8.9         2.9
+
+▪     Economic collapse of countries highlighted the risk of sovereign default.
+▪     Shortage of raw materials caused delays in production. Shortage of semiconductor chips
+      caused delays in production across multiple industries, like electronics and automobiles.
+▪      Supplier plant shutdown, facilities shutdown like warehouse or port shutdown etc.
+▪     Economic uncertainties like spiralling inflation, unemployment, recession, etc.
+These disruptions can severely impact business operations. Fragile supply chains have become a
+global reality, an issue the senior management of every company needs to address. The need of
+the hour is to build resilience within the supply chain to be able to withstand not just day-to-day
+operational disruptions but also catastrophic disruptions whenever and wherever they take place.
+Resilience of supply chains implies that they need to be flexible and quickly adaptive to rapidly
+unfolding scenarios.
+How can a company build resilient supply chains to manage and adapt to unknown risks?
+•    Run stress test maps (using a digital twin) and carry out disruption scenarios to identify
+       risks and weaknesses.
+•    Each scenario is measured using key metrics to understand its impact on business.
+•     This  will  help management  assess  exposure  and  vulnerabilities,  identify  mitigation
+       strategies, and take action to address these risks.
+•     Resilience can be benchmarked against their peers.
+Not  just companies,  but governments and  regulators  also need  to assess  the  risks  that
+strategically critical industries are exposed to. Appropriate policy decisions, capacity building, etc.
+have to be taken to mitigate risks.
+
+     4. PRODUCT / SERVICE QUALITY ETC.
+Operational  risk  refers  to the  potential  for loss  resulting from inadequate or  failed  internal
+processes, systems, people, or external events. This type of risk can have a significant impact on
+the quality of a product. Here are several ways in which operational risk can affect product quality:
+1.    Process Failures:
+         •      Production Processes:  If there are failures or inefficiencies in the manufacturing or
+             production processes, it can lead to defects in the final product.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+8.102.10           RISK MANAGEMENT
+
+         •     Supply Chain Disruptions: Operational risks in the supply chain, such as delays,
+              disruptions, or quality issues with raw materials, can  affect the overall product
+               quality.
+2.    Human Error:
+         •     Employee Mistakes: Errors made by employees in various stages of the production
+            process can result in defects or inconsistencies in the final product.
+         •      Training and Competency: Insufficient training or competency of personnel can lead
+               to mistakes that impact product quality.
+3.    Technology Failures:
+         •     Equipment  Malfunctions:  Technical  failures  or  malfunctions  in  machinery  or
+            equipment used in the production process can result in defects or deviations from
+               quality standards.
+         •      Software Glitches:  If software systems are involved  in the production or quality
+              control process, glitches or failures can compromise the quality of the product.
+4.    Compliance and Regulatory Issues:
+         •     Non-Compliance: Failure to adhere to industry regulations or quality standards can
+               result in product recalls, fines, and damage to the brand's reputation.
+         •      Regulatory Changes: Changes in regulations or standards may pose challenges in
+             adapting processes to comply with new requirements, affecting product quality.
+5.    Communication Breakdowns:
+         •       Internal Communication: Poor communication within the organization can lead to
+             misunderstandings, misinterpretations, and mistakes that affect product quality.
+         •      External Communication: Communication breakdowns with suppliers or customers
+            can lead to issues such as incorrect specifications or changes not being properly
+            communicated.
+6.     Security Concerns:
+         •     Data Security: If there are breaches in data security, it can lead to the compromise of
+              sensitive information related to product specifications, manufacturing processes, or
+               quality control measures.
+         •       Intellectual  Property  Protection:  Operational  risks  related  to  the  protection  of
+               intellectual property can impact the uniqueness and quality of a product.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+OPERATIONAL RISK             8.11       2.11
+
+7.     Environmental Factors:
+         •      Natural Disasters: Events such as earthquakes, floods, or other natural disasters can
+              disrupt operations, damage facilities, and impact the quality of products.
+      Addressing operational risks through effective risk management, quality control measures,
+      employee training, and robust processes can help mitigate the negative impact on product
+        quality. Regular assessments and continuous improvement efforts are essential to ensure
+       that operational risks are identified and managed proactively.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+8.122.12           RISK MANAGEMENT
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    …….encompasses a spectrum  of  potential  hazards,  including  disruptions,  fraudulent
+        activities, human errors, malicious acts, breaches of laws and regulations, as well as digital
+       attacks and disasters.
+        (a)    Strategic Risk
+        (b)    Financial Risk
+        (c)    Operational risk
+        (d)    Reputation Risk
+2.  …………… is related to assessment, prevention and remediation of eclectic types of events
+       that can materialise in numerous ways.  Analysis of losses over the years consistently
+     shows that two-thirds of the losses that firms endure each year are caused by the 0.5
+      percent largest operational incidents.
+        (a)    Strategic Level Risk Management
+        (b)    Process Level Risk Management
+        (c)    Supervisory Level Risk Management
+       (d)    Audit Level Risk Management
+3.   ………….. can be defined as integration of key business processes from end user through
+        original suppliers that provides products, services, and information that add value  for
+      customers and other stakeholders.
+       (a)    General Management
+       (b)    Financial Management
+        (c)   Human Resource Management
+       (d)    Supply Chain Management
+4.   …………….. is less product-centric and more directly focused on the individual consumer, a
+     more marketing oriented approach.
+       (a)   Push Model
+       (b)    Pull Model
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+OPERATIONAL RISK             8.13       2.13
+
+        (c)    Upstream Flow Model
+       (d)   Downstream Flow Model
+5.     Operational risks due to………… such as delays, disruptions, or quality issues with raw
+       materials, can affect the overall product quality.
+       (a)    Process Failures
+       (b)    Supply Chain Disruptions
+        (c)    Regulatory Changes
+       (d)   Non-Compliances
+Answers to Multiple Choice Questions:
+    1.        (c)        2.        (b)        3.        (d)        4.        (b)        5.        (b)
+
+
+© The Institute of Chartered Accountants of India

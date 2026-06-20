@@ -1,0 +1,1376 @@
+Source PDF: 03_Audit_Assurance_Ethics/008 - Chapter 8- Specialised Areas - 74941bos60526-cp8.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\03_Audit_Assurance_Ethics\008 - Chapter 8- Specialised Areas - 74941bos60526-cp8.pdf
+Extracted at: 2026-05-31T10:21:47+05:30
+Pages: 34
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER       8
+         7
+SPECIALISED AREAS
+
+
+                          LEARNING OUTCOMES
+ After studying this chapter, you will be able to:
+   Know about special considerations applicable in respect of the audit of financial statements
+       prepared in accordance with the special purpose framework in accordance with SA 800.
+    Understand the meaning of special purpose framework.
+   Know about special considerations applicable in acceptance, planning and performance and
+       forming an opinion and reporting in such types of engagements.
+    Gain knowledge about special considerations applicable to an audit of a single financial
+       statement or of a specific element, account or item of a financial statement in accordance
+        with SA 805.
+    Understand the meaning of a single financial statement and elements of a financial statement.
+   Know about special considerations applicable in acceptance, planning and performance and
+       forming an opinion and  reporting  in such types  of engagements  in accordance  with
+       requirements of SA 805.
+    Understand the responsibilities of an auditor when undertaking an engagement to report on
+      summary financial statements derived from financial statements audited in accordance with
+      SAs by the same auditor in accordance with SA 810.
+   Know about special considerations applicable in acceptance, planning and performance and
+       forming an  opinion and  reporting  in such type  of engagements  in accordance  with
+       requirements of SA 810.
+    Understand elements of audit report issued on summary financial statements in accordance
+        with SA 810.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+8.2          ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+  CHAPTER OVERVIEW
+
+
+                                   SA 800 dealing with audit of FS
+                                    prepared in accordance with special
+                                          purpose framework
+                                 areas
+                                 SA 805 dealing with audit of a single
+                                     FS or of a specific element, account
+                                                or item of a FS                                                                        Specialised
+                                 SA 810 dealing with engagement to
+                                       report on summary FS derived from
+                                       FS audited by that same auditor
+
+
+CA. Julie has joined an audit firm based in Mumbai. On her very first day in office, she was
+handed over an assignment pertaining to the audit of a client whose financial statements had
+been prepared in pursuance to the financial reporting provisions of a contract. The said client
+had entered into a contract with various entities stipulating payments to be made to these
+entities on the basis of certain parameters in lieu of services rendered by these entities to
+the auditee client.
+The contract, inter alia, contained a provision that financial statements shall be specifically
+prepared considering the requirements of the contract. She was in a dilemma. Do Standards
+on auditing apply to such types of engagements? Are there any special considerations to be
+borne in mind by the auditor before accepting such an engagement? Most importantly, she
+was worried about reporting aspects. The report in such a case was not going to be issued
+under the Companies Act 2013. What factors would come into play in such a case? She was
+also turning sceptical towards the possible use of the report.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+SPECIALISED AREAS             8.3
+
+She was wondering whether there was any authoritative pronouncement on the issue.
+Cursing herself for passing in auditing in CA final exams with bare minimum marks, she
+turned to the ICAI website and found that SA 800 served her purpose. She also turned to
+recorded webinars on the issue to gain better clarity.
+While turning to webinars, she found that SA 800-899 series dealt with specialised areas.
+Whereas SA 800 dealt with special considerations in the audit of financial statements
+prepared  in accordance with special purpose framework, SA 805  dealt with  special
+considerations to an audit of a single financial statement or of a specific element, account or
+item of a financial statement. Although she had read about elements of financial statements,
+“single financial statement” was a new term to her.
+She found the whole topic of specialised areas quite interesting and delved deeper into the
+requirements of SA 810. She was astonished at the detailing made in SA 810 regarding
+summary financial statements, the nature of procedures, forming opinions and reporting
+considerations. All this was like a whiff of fresh breeze- She had imbibed many new things
+and was raring to apply these practically.
+
+     1.  INTRODUCTION
+Special considerations apply in respect of the audit of financial statements prepared in accordance
+with the special purpose framework. Similarly, special considerations apply to an audit of a single
+financial statement or of a specific element, account or item of a financial statement.
+Specific responsibilities are cast upon an auditor in case of undertaking an engagement to report on
+summary financial statements derived from financial statements audited in accordance with SAs by
+that same auditor.
+There are three separate SAs for the above specialised areas as under: -
+ •    SA 800 deals with special considerations applicable in respect of the audit of financial
+        statements prepared in accordance with the special purpose framework.
+ •    SA 805 deals with special considerations applicable to an audit of a single financial
+        statement or of a specific element, account or item of a financial statement.
+ •    SA 810 deals with responsibilities of an auditor when undertaking an engagement to
+        report on summary financial statements derived from financial statements audited in
+       accordance with SAs by that same auditor.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+8.4          ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+All the aforesaid discussed Standards on auditing broadly deal with following areas: -
+
+
+     2.  SA 800  - SPECIAL CONSIDERATIONS  - AUDITS OF
+       FINANCIAL    STATEMENTS    PREPARED     IN
+      ACCORDANCE    WITH    SPECIAL    PURPOSE
+      FRAMEWORKS
+As discussed above, SA 800 deals with special considerations applicable in respect of audit of
+financial statements prepared in accordance with special purpose framework.
+ SA 800 addresses special considerations that are relevant to: -
+ (a)   The acceptance of the engagement
+ (b)   The planning and performance of that engagement and
+  (c)    Forming an opinion and reporting on the financial statements but not for the purpose of
+ expressing an opinion on the effectiveness of the entity’s internal control.
+
+2.1  What is Special Purpose framework?
+SA 800 defines special purpose framework as a financial reporting framework designed to meet the
+financial information needs of specific users. The financial reporting framework may be a  fair
+presentation framework or a compliance framework.
+The requirements of the applicable financial reporting framework determine the form and content of
+the financial statements and what constitutes a complete set of financial statements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+SPECIALISED AREAS             8.5
+
+Examples of Special purpose frameworks are: -
+•    The cash receipts and disbursements basis of accounting for cash flow information that an
+        entity may be requested to prepare for creditors.
+•    The financial reporting provisions established by a regulator to meet the requirements of that
+       regulator.
+•    The financial reporting provisions of a contract, such as a bond indenture, a loan agreement,
+       or a project grant.
+
+Special purpose framework is to be distinguished from general purpose framework. A financial
+reporting framework designed to meet the common financial information needs of a wide range of
+users is known as “General purpose framework” whereas a financial reporting framework designed
+to meet the financial information needs of specific users is known as “Special purpose framework.”
+2.2  Considerations When Accepting Such Engagement
+In the case of special purpose financial statements, the financial information needs of the intended
+users are a key factor in determining the acceptability of the financial reporting framework applied
+in the preparation of the financial statements. The applicable financial reporting framework may
+encompass the financial reporting standards established by an organisation that is authorised or
+recognised to promulgate standards for special purpose financial statements.
+In that case, those standards will be presumed acceptable for that purpose if the organisation follows
+an established and transparent process involving deliberation and consideration of the views of
+relevant stakeholders. Some laws or regulations may prescribe the financial reporting framework to
+be used by management in the preparation of special purpose financial statements for a certain type
+of  entity. For example, a regulator may establish  financial reporting provisions  to meet the
+requirements of that regulator. In the absence of indications to the contrary, such a financial
+reporting framework is presumed acceptable for special purpose financial statements prepared by
+such an entity.
+Where the financial reporting standards referred to above are supplemented by legislative or
+regulatory requirements, SA 210 requires the auditor to determine whether any conflicts between
+the financial reporting standards and the additional requirements exist and prescribes actions to be
+taken by the auditor if such conflicts exist.
+The applicable financial reporting framework may encompass the financial reporting provisions of a
+contract or sources other than those described in the preceding paras. In that case, the acceptability
+of the financial reporting framework in the circumstances of the engagement is determined by
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+8.6          ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+considering whether the framework exhibits attributes normally exhibited by acceptable financial
+reporting frameworks in accordance with the requirements of SA 210.
+In the case of a special purpose framework, the relative importance to a particular engagement of
+each of the attributes normally exhibited by acceptable financial reporting frameworks is a matter of
+professional judgment.
+
+For example, for purposes of establishing the value of net assets of an entity at the date of its sale,
+the vendor and the purchaser may have agreed that very prudent estimates of allowances for
+uncollectible accounts receivable are appropriate for their needs, even though such financial
+information is not neutral when compared with financial information prepared in accordance with a
+general purpose framework.
+2.3  Considerations When Planning and Performing Such Audit
+SA 200 requires the auditor to comply with (a) relevant ethical requirements, including those
+pertaining to independence, relating to financial statement audit engagements, and (b) all SAs
+relevant to the audit. It also requires the auditor to comply with each requirement of an SA unless,
+in the circumstances of the audit, the entire SA is not relevant or the requirement is not relevant
+because it is conditional and the condition does not exist. In exceptional circumstances, the auditor
+may judge  it necessary to depart from a relevant requirement in an SA by performing alternative
+audit procedures to achieve the aim of that requirement.
+Application of some of the requirements of the SAs  in an audit of special purpose financial
+statements may require special consideration by the auditor. For example, in SA 320, judgments
+about matters that are material to users of the financial statements are based on a consideration of
+the common financial information needs of users as a group. In the case of an audit of special
+purpose financial statements, however, those judgments are based on a consideration of the
+financial information needs of the intended users.
+In the case of special purpose financial statements, such as those prepared in accordance with the
+requirements of a contract, management may agree with the intended users on a threshold below
+which misstatements identified during the audit will not be corrected or otherwise adjusted. The
+existence of such a threshold does not relieve the auditor from the requirement to determine
+materiality in accordance with SA 320 for purposes of planning and performing the audit of the
+special purpose financial statements.
+SA 260 (Revised) requires the auditor to determine the appropriate person(s) within the entity’s
+governance structure with whom to communicate. SA 260 (Revised) notes that, in some cases, all
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+SPECIALISED AREAS             8.7
+
+of those charged governance are involved in managing the entity, and the application of the
+communication requirements is modified to recognize this position. When a complete set of general
+purpose financial statements is also prepared by the entity, those person(s) responsible for the
+oversight of the preparation of the special purpose financial statements may not be the same as
+those charged with governance responsible for the oversight of the preparation of those general
+purpose financial statements.
+Forming an opinion and reporting considerations in such an audit : When forming an opinion
+and reporting on special purpose financial statements, the auditor shall apply the requirements in
+Revised SA 700.
+2.4  Description of the Applicable Financial Reporting Framework
+Revised SA 700 requires the auditor to evaluate whether the financial statements adequately refer
+to or describe the applicable financial reporting framework. In the case of financial statements
+prepared in accordance with the provisions of a contract, the auditor shall evaluate whether the
+financial statements adequately describe any significant interpretations of the contract on which the
+financial statements are based.
+Revised SA 700 deals with the form and content of the auditor’s report. In the case of an auditor’s
+report on special purpose financial statements: -
+(a)   The auditor’s report shall also describe the purpose for which the financial statements are
+      prepared and,  if necessary, the intended users, or refer to a note in the special purpose
+       financial statements that contain that information; and
+(b)       If management has a choice of financial reporting frameworks in the preparation of such
+       financial statements,  the explanation  of management’s  responsibility  for the  financial
+      statements shall also make reference to its responsibility for determining that the applicable
+       financial reporting framework is acceptable in the circumstances.
+2.5  Alerting Readers that the Financial Statements Are Prepared in
+    Accordance with a Special Purpose Framework
+The special purpose financial statements may be used for purposes other than those for which they
+were intended. For example, a regulator may require certain entities to place the special purpose
+financial statements on public record. To avoid misunderstandings, the auditor alerts users of the
+auditor’s report that the financial statements are prepared in accordance with a special purpose
+framework and, therefore, may not be suitable for another purpose.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+8.8          ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+2.6  Restriction on Distribution or Use
+In addition to the alert required as discussed above, the auditor may consider  it appropriate to
+indicate that the auditor’s report is intended solely for the specific users. Depending on the law or
+regulation applicable, this may be achieved by restricting the distribution or use of the auditor’s
+report. In these circumstances, the paragraph alerting the readers may be expanded to include these
+other matters, and the heading modified accordingly.
+
+TEST YOUR UNDERSTANDING 1
+CA  Lalita is auditor of a company. She is also offered professional work of audit of financial
+statements prepared specifically for meeting requirements of a loan agreement for the same period.
+She chooses to accept work and has made up her mind to disclose this fact in “Other matter
+Paragraph” in audit report to be issued by her for this specific engagement. Is her approach proper?
+
+TEST YOUR UNDERSTANDING 2
+CA Lakshmi has prepared a draft audit report for financial statements of X Ltd. prepared in
+accordance with financial reporting provisions of a contract with Y Ltd. She has drafted an
+unmodified opinion to be given in audit report. Besides, she has also drawn attention in draft audit
+report to Note “A “to the financial statements which describes the basis of accounting (under the
+heading “Basis of accounting”). How she should ensure that report would not be misused? Draft a
+suitable para to be included in the report for this purpose.
+
+     3.  SA  805-SPECIAL  CONSIDERATIONS—AUDITS  OF
+       SINGLE  FINANCIAL STATEMENTS AND  SPECIFIC
+       ELEMENTS, ACCOUNTS OR ITEMS OF A FINANCIAL
+      STATEMENT
+Standards on Auditing (SAs) in the 100-700 series apply to an audit of financial statements and are
+to be adapted as necessary in the circumstances when applied to audits of other historical financial
+information. SA 805 deals with special considerations in the application of those SAs to an audit of
+a single financial statement or of a specific element, account or item of a financial statement. The
+single financial statement or the specific element, account or item of a financial statement may be
+prepared in accordance with a general or special purpose framework. If prepared in accordance with
+a special purpose framework, SA 800 also applies to the audit.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+SPECIALISED AREAS             8.9
+
+SA 805 does not apply to the report of a component auditor issued as a result of work performed on
+the financial information of a component at the request of a group engagement team for purposes
+of an audit of group financial statements.
+
+The objective of the auditor, when applying SAs, in such an audit, is to address appropriately the
+special  considerations  that  are  relevant  to  the  acceptance  of engagement,  planning and
+performance of engagement and forming an opinion and reporting but not for the purpose of
+expressing an opinion on the effectiveness of the entity’s internal control.
+3.1  What is a Single Financial Statement?
+A single financial statement is to be distinguished from a complete set of financial statements. For
+example, a cash flow statement is a single financial statement.
+3.2  What is the Element of a Financial Statement?
+
+“Element of a financial statement” or “element” means an “element, account or item of a financial
+statement.” For example, trade receivables or cash and bank balances
+
+A single financial statement or a specific element of a financial statement includes the related notes
+ordinarily comprising a summary of significant accounting policies and other explanatory information
+relevant to the financial statement or to the element.
+3.3  Considerations When Accepting Such Engagement
+3.3.1 Application of SAs
+SA 200 requires the auditor to comply with all SAs relevant to the audit. In the case of an audit of a
+single financial statement or of a specific element of a financial statement, this requirement applies
+irrespective of whether the auditor is also engaged to audit the entity’s complete set of financial
+statements.  If the auditor  is not also engaged to audit the entity’s complete set of financial
+statements, the auditor shall determine whether the audit of a single financial statement or of a
+specific element of those financial statements in accordance with SAs is practicable.
+SA 200 requires the auditor to comply with (a) relevant ethical requirements, including those
+pertaining to independence relating to financial statement audit engagements, and (b)  all SAs
+relevant to the audit. It also requires the auditor to comply with each requirement of an SA unless,
+in the circumstances of the audit, the entire SA is not relevant or the requirement is not relevant
+because it is conditional and the condition does not exist. In exceptional circumstances, the auditor
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+8.10         ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+may judge  it necessary to depart from a relevant requirement in an SA by performing alternative
+audit procedures to achieve the aim of that requirement.
+Compliance with the requirements of SAs relevant to the audit of a single financial statement or of
+a specific element of a financial statement may not be practicable when the auditor is not also
+engaged to audit the entity’s complete set of financial statements. In such cases, the auditor often
+does not have the same understanding of the entity and its environment, including its internal control,
+as an auditor who also audits the entity’s complete set of financial statements. The auditor also does
+not have audit evidence about the general quality of the accounting records or other accounting
+information that would be acquired in an audit of the entity’s complete set of financial statements.
+Accordingly, the auditor may need further evidence to corroborate audit evidence acquired from the
+accounting records.
+In the case of an audit of a specific element of a financial statement, certain SAs require audit work
+that may be disproportionate to the element being audited. For example, although the requirements
+of SA 570 are likely to be relevant in the circumstances of an audit of a schedule of accounts
+receivable, complying with those requirements may not be practicable because of the audit effort
+required. If the auditor concludes that an audit of a single financial statement or of a specific element
+of a financial statement in accordance with SAs may not be practicable, the auditor may discuss with
+management whether another type of engagement might be more practicable.
+3.3.2 Acceptability of the Financial Reporting Framework
+SA 210 requires the auditor to determine the acceptability of the financial reporting framework
+applied in the preparation of the financial statements. In the case of an audit of a single financial
+statement or of a specific element of a financial statement, this shall include whether application of
+the financial reporting framework will result in a presentation that provides adequate disclosures to
+enable the intended users to understand the information conveyed in the financial statement or the
+element, and the effect of material transactions and events on the information conveyed in the
+financial statement or the element.
+A single financial statement or a specific element of a financial statement may be prepared in
+accordance with an applicable financial reporting framework that is based on a financial reporting
+framework established by an authorised or recognised standards setting organisation for the
+preparation of a complete set of financial statements.  If this is the case, determination of the
+acceptability of the applicable framework may involve considering whether that framework includes
+all the requirements of the framework on which it is based that are relevant to the presentation of a
+single financial statement or of a specific element of a financial statement that provides adequate
+disclosures.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+SPECIALISED AREAS            8.11
+
+3.4  Considerations When planning and performing the Audit
+In planning and performing the audit of a single financial statement or of a specific element of a
+financial statement, the auditor shall adapt  all SAs relevant to the audit as necessary in the
+circumstances of the engagement.
+When auditing a single financial statement or a specific element of a financial statement  in
+conjunction with the audit of the entity’s complete set of financial statements, the auditor may be
+able to use audit evidence obtained as part of the audit of the entity’s complete set of financial
+statements in the audit of the financial statement or the element. SAs, however, require the auditor
+to plan and perform the audit of the financial statement or element to obtain sufficient appropriate
+audit evidence on which to base the opinion on the financial statement or on the element.
+The individual financial statements that comprise a complete set of financial statements, and many
+of the elements of those financial statements, including  their related notes, are interrelated.
+Accordingly, when auditing a single financial statement or a specific element of a financial statement,
+the auditor may not be able to consider the financial statement or the element  in isolation.
+Consequently, the auditor may need to perform procedures in relation to the interrelated items to
+meet the objective of the audit.
+Furthermore, the materiality determined for a single financial statement or for a specific element of
+a financial statement may be lower than the materiality determined for the entity’s complete set of
+financial statements; this will affect the nature, timing and extent of the audit procedures and the
+evaluation of uncorrected misstatements.
+3.5  Form of Opinion
+SA 210 requires that the agreed terms of the audit engagement include the expected form of any
+reports to be issued by the auditor. In the case of an audit of a single financial statement or of a
+specific element of a financial statement, the auditor shall consider whether the expected form of
+opinion is appropriate in the circumstances.
+ The form of opinion to be expressed by the auditor depends on the applicable financial
+ reporting framework and any applicable laws or regulations. In accordance with Revised
+ SA 700:
+ (a) When expressing an unmodified opinion on a complete set of financial statements prepared
+  in accordance with a  fair presentation framework, the auditor’s opinion, unless otherwise
+ required by law or regulation, uses one of the following phrases: (i) the financial statements
+ present fairly, in all material respects, in accordance with the applicable financial reporting
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+8.12         ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+ framework or  (ii) the financial statements give a true and fair view in accordance with the
+ applicable financial reporting framework and
+ (b) When expressing an unmodified opinion on a complete set of financial statements prepared
+  in accordance with a compliance framework, the auditor’s opinion states that the financial
+ statements are prepared, in all material respects, in accordance with the applicable financial
+ reporting framework.
+
+In the case of a single financial statement or of a specific element of a financial statement, the
+applicable financial reporting framework may not explicitly address the presentation of the financial
+statement or of the element. This may be the case when the applicable financial reporting framework
+is based on a financial reporting framework established by an authorised or recognised standards
+setting organisation for the preparation of a complete set of financial statements The auditor
+therefore considers whether the expected form of opinion is appropriate in the light of the applicable
+financial reporting framework.
+ Factors that may affect the auditor’s consideration as to whether to use the phrases
+ “presents fairly, in all material respects”, or “gives a true and fair view” in the auditor’s
+ opinion include:
+ •     Whether the applicable financial reporting framework is explicitly or implicitly restricted to
+        the preparation of a complete set of financial statements.
+ •     Whether the single financial statement or the specific element of a financial statement
+           will:
+ ♦    Comply fully with each of those requirements ♦        If  necessary   to  achieve   fair
+         of the framework relevant to the particular         presentation, provide disclosures
+         financial statement or the particular element,        beyond    those     specifically
+       and   the   presentation   of   the   financial         required by the framework or, in
+        statement  or  the  specific  element  of  a         exceptional       circumstances,
+         financial statement include the related notes         depart from a requirement of the
+       and disclosures                                   framework.
+
+The auditor’s decision as to the expected form of opinion is a matter of professional judgment. It
+may be affected by whether use of the phrases “presents fairly, in all material respects”, or “gives a
+true and fair view” in the auditor’s opinion on a single financial statement or on a specific element of
+a financial statement prepared in accordance with a  fair presentation framework  is generally
+accepted in the particular jurisdiction.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+SPECIALISED AREAS            8.13
+
+3.6  Forming an Opinion and Reporting Considerations
+When forming an opinion and reporting on a single financial statement or on a specific element of a
+financial statement, the auditor shall apply the requirements in Revised SA 700, adapted as
+necessary in the circumstances of the engagement.
+
+If the auditor undertakes an engagement to report on a single financial statement or on a
+specific element of a financial statement in conjunction with an engagement to audit the
+entity’s complete set of financial statements, the auditor shall express a separate opinion for
+each engagement.
+
+An audited single financial statement or an audited specific element of a financial statement may be
+published together with the entity’s audited complete set of financial statements.  If the auditor
+concludes that the presentation of a single financial statement or of the specific element of a financial
+statement does not differentiate  it sufficiently from the complete set of financial statements, the
+auditor shall ask management to rectify the situation. The auditor shall also differentiate the opinion
+on the single financial statement or on the specific element of a financial statement from the opinion
+on the complete set of financial statements. The auditor shall not issue the auditor’s report containing
+the opinion on the single financial statement or on the specific element of a financial statement until
+satisfied with the differentiation.
+
+       If the opinion in the auditor’s report on an entity’s complete set of financial statements
+       is modified, or that report includes an Emphasis of matter paragraph or other matter
+      paragraph, the auditor shall determine the effect that this may have on the auditor’s
+      report on a single financial statement or on a specific element of those financial
+      statements. When deemed appropriate, the auditor shall modify the opinion on the
+      single financial statement or on the specific element of a financial statement, or include
+     an Emphasis of matter paragraph or other matter paragraph in the auditor’s report,
+      accordingly.
+       If the auditor concludes that it is necessary to express an adverse opinion or disclaim
+     an opinion on the entity’s complete set of financial statements as a whole, Revised SA
+      705 does not permit the auditor to include in the same auditor’s report an unmodified
+      opinion on a single financial statement that forms part of those financial statements or
+     on a specific element that forms part of those financial statements. This is because
+     such an unmodified opinion would contradict the adverse opinion or disclaimer of
+      opinion on the entity’s complete set of financial statements as a whole.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+8.14         ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+If the auditor concludes that it is necessary to express an adverse opinion or disclaim an
+opinion on the entity’s complete set of financial statements as a whole but, in the context of
+a separate audit of a specific element that is included in those financial statements, the
+auditor nevertheless considers  it appropriate to express an unmodified opinion on that
+element, the auditor shall only do so if:
+
+
+                                                  (b) That opinion is
+                                          expressed in an                                                                                                        (c) The specific                                              auditor’s report that                                                                       element does not        (a) The auditor is not                         is not published                                                                                   constitute a major       prohibited by law or                 together with the                                                                                 portion of the      regulation from doing                   auditor’s report                                                                                        entity’s complete set                 so;                            containing the                                                                                      of financial                                         adverse opinion or                                                                                statements.                                            disclaimer of opinion;
+                                           and
+
+
+The auditor shall not express an unmodified opinion on a single financial statement of a complete
+set of financial statements if the auditor has expressed an adverse opinion or disclaimed an opinion
+on the complete set of financial statements as a whole. This is the case even if the auditor’s report
+on the single financial statement is not published together with the auditor’s report containing the
+adverse opinion or disclaimer of opinion. This is because a single financial statement is deemed to
+constitute a major portion of those financial statements.
+
+Revised SA 700 requires the auditor, in forming an opinion, to evaluate whether the financial
+statements provide adequate disclosures to enable the intended users to understand the effect of
+material transactions and events on the information conveyed in the financial statements. In the case
+of a single financial statement or of a specific element of a financial statement, it is important that
+the financial statement or the element, including the related notes, in view of the requirements of the
+applicable financial reporting framework, provides adequate disclosures to enable the intended
+users to understand the information conveyed in the financial statement or the element, and the
+effect of material transactions and events on the information conveyed in the financial statement or
+the element.
+
+Even when the modified opinion on the entity’s complete set of financial statements, Emphasis of
+matter paragraph or Other matter paragraph does not relate to the audited financial statement or the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+SPECIALISED AREAS            8.15
+
+audited element, the auditor may still deem  it appropriate to refer to the modification in an Other
+matter paragraph in an auditor’s report on the financial statement or on the element because the
+auditor judges it to be relevant to the users’ understanding of the audited financial statement or the
+audited element or the related auditor’s report.
+
+In the auditor’s report on an entity’s complete set of financial statements, the expression of a
+disclaimer of opinion regarding the results of operations and cash flows, where relevant, and an
+unmodified opinion regarding the state of affairs is permitted since the disclaimer of opinion is being
+issued in respect of the results of operations and cash flows only and not in respect of the financial
+statements as a whole.
+ SA 800 and 805 do not override the requirements of the other SAs; nor do they purport to deal
+ with all special considerations that may be relevant in the circumstances of the engagement.
+
+ Examples    ●Accounts receivable, allowance for doubtful accounts receivable, inventory,                       the liability for accrued benefits of a private pension plan, the recorded value of
+                          identified intangible assets, or the liability for “incurred but not reported” claims of Specific
+ Elements,      in an insurance portfolio, including related notes.
+ Accounts
+ or Items of  ●Aplan, scheduleincluding ofrelatedexternallynotes.managed assets and income of a private pension
+ a Financial
+ Statement   ●A schedule of net tangible assets, including related notes.
+ are:
+          ●A schedule of disbursements  in  relation to a lease property, including
+                      explanatory notes.
+
+
+TEST YOUR UNDERSTANDING 3
+CA M. Surya is auditor for financial statements of an entity prepared in accordance with financial
+reporting provisions of a contract. He is also offered audit of trade receivables appearing in above
+financial statements. Can he accept such engagement? Discuss brief outline of his audit approach
+in such a situation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+8.16         ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+TEST YOUR UNDERSTANDING 4
+CA G is offered appointment for audit of trade payables of financial statements of a company.
+However, financial statements prepared under Companies Act, 2013 are audited by CA Jignesh.
+Discuss why it would be practically difficult for CA G to perform such an audit.
+
+     4.  SA 810 - ENGAGEMENTS TO REPORT ON SUMMARY
+       FINANCIAL STATEMENTS
+SA 810 deals with the auditor’s responsibilities when undertaking an engagement to report on
+summary financial statements derived from financial statements audited in accordance with SAs by
+that same auditor.
+4.1  What do Summary Financial Statements Reflect?
+Summary financial statements reflect historical financial information that is derived from financial
+statements, but that contains less detail than the financial statements while  still providing a
+structured representation consistent with that provided by the financial statements of the entity’s
+economic resources or obligations at a point in time or the changes therein for a period of time.
+4.2  Engagement Acceptance
+The auditor shall, ordinarily, accept an engagement to report on summary financial statements in
+accordance with this SA only when the auditor has been engaged to conduct an audit in accordance
+with SAs of the financial statements from which the summary financial statements are derived. If the
+auditor has not also audited the financial statements from which the summary financial statements
+are derived, the auditor shall not have the necessary knowledge to discharge his responsibilities in
+relation to the summary financial statements in accordance with this SA.
+Herein lies the rationale behind the requirement that engagement to report on summary financial
+statements shall, ordinarily, be accepted when the auditor has been engaged to conduct an audit of
+financial statements from which summary financial statements are derived.
+
+4.2.1 Before accepting an engagement to report on summary financial statements,
+the auditor shall:
+(a)   Determine whether the applied criteria are acceptable.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+SPECIALISED AREAS            8.17
+
+Applied criteria refer to the criteria applied by management in the preparation of the summary
+financial statements. Management is responsible for the determination of the information that needs
+to be reflected in the summary financial statements so that they are consistent, in all material
+respects, with or represent a fair summary of the audited financial statements. Because summary
+financial statements, by their nature contain aggregated information and limited disclosure, there is
+an increased risk that they may not contain the information necessary so as not to be misleading in
+the circumstances. This risk increases when established criteria for the preparation of summary
+financial statements do not exist.
+ Factors affecting the auditor’s determination of the acceptability of the applied criteria:
+ The nature of the entity
+ The purpose of the summary financial statements
+ The information needs of the intended users of the summary financial statements and
+ Whether the applied  criteria  will  result  in summary  financial statements  that are not
+    misleading in the circumstances.
+
+
+The criteria for the preparation of summary financial statements may be established by an authorised
+or recognised standards setting organisation or by law or regulation. Similar to the case of financial
+statements, as explained in SA 210, in many such cases, the auditor may presume that such criteria
+are acceptable. Where established criteria for the preparation of summary financial statements do
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+8.18         ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+not exist, criteria may be developed by management, for example, based on practice in a particular
+industry.
+If the auditor concludes that the applied criteria are unacceptable or  is unable to obtain the
+agreement of management as discussed above, the auditor shall not accept the engagement to
+report on the summary financial statements, unless required by law or regulation to do so. An
+engagement conducted in accordance with such law or regulation does not comply with this SA.
+Accordingly, the auditor’s report on the summary financial statements shall not indicate that the
+engagement was conducted in accordance with this SA. The auditor shall include appropriate
+reference to this fact in the terms of the engagement. The auditor shall also determine the effect that
+this may have on the engagement to audit the financial statements from which the summary financial
+statements are derived.
+Adequate disclosure of the summarised nature of the summary financial statements and the identity
+of the audited financial statements, may, for example, be provided by a title such as “Summary
+financial  statements  prepared  from  the  audited  financial  statements  for  the  year ended
+March 31, 20XX”
+
+(b)   Obtain the agreement of management that  it acknowledges and understands  its
+       responsibility:
+
+i.     For the preparation of the summary financial statements in accordance with the applied
+        criteria.
+ii.    To make the audited financial statements available to the intended users of the summary
+       financial statements without undue difficulty (or, if law or regulation provides that the audited
+       financial statements need not be made available to the intended users of the summary
+       financial statements and establishes the criteria for the preparation of the summary financial
+       statements, to describe that law or regulation in the summary financial statements)
+       The auditor’s evaluation whether the audited financial statements are available to the
+        intended users of the summary financial statements without undue difficulty is affected
+        by factors such as whether:
+       •    The summary financial statements describe clearly from whom or where the
+               audited financial statements are available
+       •    The audited financial statements are on public record; or
+       •    Management has established a process by which the intended users of the
+            summary financial statements can obtain ready access to the audited financial
+              statements
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+SPECIALISED AREAS            8.19
+
+iii.    To include the auditor’s report on the summary financial statements in any document that
+       contains the summary financial statements and that indicates that the auditor has reported
+      on them
+
+(c)   Agree with management on the form of opinion to be expressed on the summary
+       financial statements.
+
+4.3  Nature of Procedures to be Performed by Auditor
+ The auditor shall perform the following procedures, and any other procedures that the
+ auditor may consider necessary, as the basis for the auditor’s opinion on the summary
+ financial statements:
+ (a)    Evaluate whether the summary financial statements adequately disclose their
+      summarised nature and identify the audited financial statements.
+ (b)   When summary financial statements are not accompanied by the audited financial
+       statements, evaluate whether they describe clearly:
+            (i)    From whom or where the audited financial statements are available; or
+             (ii)   The law or regulation that specifies that the audited financial statements need not
+            be made available to the intended users of the summary financial statements and
+               establishes the criteria for the preparation of the summary financial statements.
+ (c)    Evaluate whether the summary  financial statements adequately disclose the
+       applied criteria.
+ (d)   Compare the summary financial statements with the related information in the
+       audited  financial  statements  to  determine  whether  the summary  financial
+       statements agree with or can be re-calculated from the related information in the
+       audited financial statements.
+ (e)    Evaluate whether the summary financial statements are prepared in accordance
+       with the applied criteria.
+  (f)    Evaluate, in view of the purpose of the summary financial statements, whether the
+      summary financial statements contain the information necessary, and are at an
+       appropriate level of aggregation, so as not to be misleading in the circumstances.
+ (g)   Evaluate whether the audited financial statements are available to the intended
+       users of the summary financial statements without undue difficulty, unless law or
+        regulation provides that they need not be made available and establishes the
+         criteria for the preparation of the summary financial statements as discussed
+        already.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+8.20         ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+4.4  Form of Opinion
+When the auditor has concluded that an unmodified opinion on the summary financial
+statements is appropriate, the auditor’s opinion shall, unless otherwise required by law or
+regulation, use one of the following phrases:
+
+
+     (a) The summary financial                                                   (b) The summary financial statements are consistent, in all                                         statements are a fair summary    material respects, with the                                                of the audited financial  audited financial statements, in                                          statements, in accordance with   accordance with the applied                                              the applied criteria              criteria or
+
+
+If law or regulation prescribes the wording of the opinion on summary financial statements
+in terms that are different from those described above, the auditor shall:
+
+
+                                                              (b) Evaluate whether users of the summary
+                                                         financial statements might misunderstand the    (a) Apply the procedures discussed earlier                                                        auditor’s opinion on the summary financial   and any further procedures necessary to                                                   statements and, if so, whether additional  enable the auditor to express the prescribed                                                     explanation in the auditor’s report on the                 opinion and                                          summary financial statements can mitigate
+                                                           possible misunderstanding.
+
+
+If, the auditor concludes that additional explanation in the auditor’s report on the summary financial
+statements cannot mitigate possible misunderstanding, the auditor shall not accept the engagement,
+unless required by law or regulation to do so. An engagement conducted in accordance with such
+law or regulation does not comply with this SA. Accordingly, the auditor’s report on the summary
+financial statements shall not indicate that the engagement was conducted in accordance with this
+SA.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+SPECIALISED AREAS            8.21
+
+4.5  Auditor’s Report on Summary Financial Statements
+Elements of the Auditor’s Report  :  The auditor’s report on summary financial statements shall
+include the following elements: -
+(a)   A title clearly indicating it as the report of an independent auditor
+(b)   An addressee: If the addressee of the summary financial statements is not the same as the
+      addressee of the auditor’s report on the audited financial statements, the auditor shall
+      evaluate the appropriateness of using a different addressee. Factors that may affect the
+       auditor’s evaluation of the appropriateness of the addressee of the summary financial
+      statements include the terms of the engagement, the nature of the entity, and the purpose of
+       the summary financial statements.
+(c)   An introductory paragraph:
+
+                                                           (i) Identifies the summary financial statements on which the    An Introductory
+     Paragraph             auditorincluded isin thereporting,summaryincludingfinancial thestatements.title  of Wheneach thestatementauditor
+                                            is aware that the summary financial statements will be included
+                                          in a document that contains other information, the auditor may
+                                     consider, if the form of presentation allows, identifying the page
+                               numbers on  which  the summary  financial  statements  are
+                                    presented. This helps readers to identify the summary financial
+                                   statements to which the auditor’s report relates.
+
+                                                            (ii) Identifies the audited financial statements
+
+                                                             (iii) Refers  to the  auditor’s report on the audited  financial
+                                    statements, the date of that report, and, in cases other than
+                                where audited financial statements contain modified opinion,
+                                emphasis of matter paragraph and other matter paragraph, the
+                                         fact that an unmodified opinion is expressed on the audited
+                                         financial statements;
+                                                 (iv) If the date of the auditor’s report on the summary financial
+                                   statements is later than the date of the auditor’s report on the
+                                    audited financial statements, states that the summary financial
+                                   statements and the audited financial statements do not reflect
+                                     the effects of events that occurred subsequent to the date of the
+                                       auditor’s report on the audited financial statements; and
+
+                                             (v) A statement indicating that the summary financial statements
+                              do not contain  all the disclosures required by the financial
+                                      reporting framework applied in the preparation of the audited
+                                         financial statements, and that reading the summary financial
+                                   statements is not a substitute for reading the audited financial
+                                     statements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+8.22         ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+(d)   A description of management’s responsibility for the summary financial statements,
+      explaining that management  is responsible for the preparation of the summary
+       financial statements in accordance with the applied criteria.
+(e)   A statement that the auditor is responsible for expressing an opinion on the summary
+       financial statements based on the procedures required by this SA.
+(f)   A paragraph clearly expressing an opinion.
+(g)   The auditor’s signature along with the firm registration number, wherever applicable,
+     and the membership number assigned by the Institute of Chartered Accountants of
+       India. Besides, UDIN is required to be stated.
+(h)   The date of the auditor’s report
+
+    The auditor shall date the auditor’s report on the summary
+                  financial statements no earlier than:
+
+
+                    (i) The date on which  the  auditor has
+            obtained sufficient appropriate evidence on
+            which  to  base  the  opinion,  including
+            evidence   that  the  summary   financial                 (ii) The date of the auditor’s report on the
+            statements have been prepared and those          audited financial statements.
+              with the recognised authority have asserted
+              that they have taken responsibility for them;
+           and
+
+
+(i)    The place of signature.
+4.6  Modifications to the Opinion, Emphasis of Matter Paragraph or Other
+     Matter Paragraph in the Auditor’s Report on the Audited Financial
+     Statements
+When the auditor’s report on the audited financial statements contains a qualified opinion, an
+Emphasis of Matter paragraph, or an Other Matter paragraph, but the auditor is satisfied that the
+summary financial statements are consistent, in all material respects, with or are a fair summary of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+SPECIALISED AREAS            8.23
+
+the audited financial statements, in accordance with the applied criteria, the auditor’s report on the
+summary financial statements shall, also contain followings: -
+(a)    State that the auditor’s report on the audited financial statements contains a qualified opinion,
+      an Emphasis of Matter paragraph, or an Other Matter paragraph; and
+(b)    Describe:
+
+                                                                               (i) The basis for the qualified opinion on the audited
+                                                      financial statements, and that qualified opinion; or the
+                                        Emphasis of Matter or the Other Matter paragraph in the
+                                                  auditor’s report on the audited financial statements; and
+         Describe
+
+                                                                               (ii) The effect thereof on the summary financial statements,
+                                                                                                                        if any.
+
+
+    When the auditor’s report on the audited financial statements
+  contains an adverse opinion or a disclaimer of opinion, the auditor’s
+    report on the summary financial statements shall, additionally: -
+
+     (a) State that the auditor’s                                              (c) State that, as a result of the
+   report on the audited financial     (b) Describe the basis for that    adverse opinion or disclaimer
+     statements contains an       adverse opinion or disclaimer     of opinion, it is inappropriate to
+   adverse opinion or disclaimer             of opinion; and            express an opinion on the
+             of opinion;                                    summary financial statements.
+
+4.6.1 Modified Opinion on the Summary Financial Statements
+If the summary financial statements are not consistent, in all material respects, with or are not a fair
+summary  of  the audited  financial statements,  in accordance  with  the applied  criteria, and
+management does not agree to make the necessary changes, the auditor shall express an adverse
+opinion on the summary financial statements.
+4.7  Restriction on Distribution or Use or Alerting Readers to the Basis of
+    Accounting
+When distribution or use of the auditor’s report on the audited financial statements is restricted, or
+the auditor’s report on the audited financial statements alerts readers that the audited financial
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+8.24         ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+statements are prepared in accordance with a special purpose framework, the auditor shall include
+a similar restriction or alert in the auditor’s report on the summary financial statements.
+4.8  Comparatives
+Comparatives in the audited financial statements may be regarded as corresponding figures or as
+comparative financial information. If the audited financial statements contain comparatives, but the
+summary  financial statements do not, the auditor shall determine whether such omission  is
+reasonable in the circumstances of the engagement. The auditor shall determine the effect of an
+unreasonable omission on the auditor’s report on the summary financial statements.
+If the summary financial statements contain comparatives that were reported on by another auditor,
+the auditor’s report on the summary financial statements shall also contain the matters that SA 710
+requires the auditor to include in the auditor’s report on the audited financial statements.
+
+4.9  Unaudited Supplementary Information Presented With Summary
+     Financial Statements
+The auditor shall evaluate whether any unaudited supplementary information presented with the
+summary financial statements is clearly differentiated from the summary financial statements. If the
+auditor concludes that the entity’s presentation of the unaudited supplementary information is not
+clearly differentiated from the summary financial statements, the auditor shall ask management to
+change the presentation of the unaudited supplementary information. If management refuses to do
+so, the auditor shall explain in the auditor’s report on the summary financial statements that such
+information is not covered by that report.
+4.10 Other Information  in Documents Containing Summary Financial
+     Statements
+The auditor shall read the other information included in a document containing the summary financial
+statements and related auditor’s reports to consider whether there is a material inconsistency
+between the other information and the summary financial statements.  If the auditor identifies a
+material inconsistency, the auditor shall determine whether the summary financial statements or the
+other information needs to be revised. If, the auditor becomes aware that the other information needs
+to be revised, the auditor shall discuss the matter with management.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+SPECIALISED AREAS            8.25
+
+4.11 Auditor Association
+If the auditor becomes aware that the entity plans to state that the auditor has reported on summary
+financial statements in a document containing the summary financial statements, but does not plan
+to include the related auditor’s report, the auditor shall request management to include the auditor’s
+report in the document. If management does not do so, the auditor shall determine and carry out
+other appropriate actions designed to prevent management from inappropriately associating the
+auditor with the summary financial statements in that document.
+ The auditor may be engaged to report on the financial statements of an entity, while not
+ engaged to report on the summary financial statements.  If, in this case, the auditor
+ becomes aware that the entity plans to make a statement in a document that refers to the
+ auditor and the fact that summary financial statements are derived from the financial
+ statements audited by the auditor, the auditor shall be satisfied that:
+ (a)   The reference to the auditor is made in the context of the auditor’s report on the audited
+ financial statements; and
+ (b)   The statement does not give the impression that the auditor has reported on the summary
+ financial statements.
+
+If (a) or (b) are not met, the auditor shall request management to change the statement to meet
+them, or not to refer to the auditor in the document. Alternatively, the entity may engage the auditor
+to report on the summary financial statements and include the related auditor’s report in the
+document. If management does not change the statement, delete the reference to the auditor, or
+include an auditor’s report on the summary financial statements in the document containing the
+summary financial statements, the auditor shall advise management that the auditor disagrees with
+the reference to the auditor, and the auditor shall determine and carry out other appropriate actions
+designed to prevent management from inappropriately referring to the auditor.
+4.12 Timing of Work and Events Subsequent to the Date of the Auditor’s
+     Report on the Audited Financial Statements
+When the auditor reports on the summary financial statements after the completion of the audit of
+the financial statements, the auditor is not required to obtain additional audit evidence on the audited
+financial statements, or report on the effects of events that occurred subsequent to the date of the
+auditor’s report on the audited financial statements since the summary financial statements are
+derived from the audited financial statements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+8.26         ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+TEST YOUR UNDERSTANDING 5
+CA Madhur is auditor of a company and has issued audit report dated 15th June of a particular year.
+The audit report on summary financial statements derived from such audited financial statements is
+dated 15th July of that particular year. Discuss whether there exists any additional reporting
+responsibility  for auditor  in such a situation  in respect of audit report on summary financial
+statements.
+
+
+TEST YOUR UNDERSTANDING 6
+Consider that the audit report on financial statements issued by CA Madhur for above said company
+contains qualified opinion. Can he issue an unmodified opinion on summary financial statements
+derived from audited financial statements? Discuss.
+
+ INTEGRATED CASE SCENARIO
+ Given below is an extract of abridged financial statements of schemes of “Smart Investment
+ Mutual Fund”. The abridged financial statements have been derived from audited financial
+ statements of the schemes of “Smart Investment Mutual Fund” as at 31St March 20XX and for
+ year ended 31st March,20XX.
+ Abridged Balance sheet as at 31st March 20XX                             (in `Lacs)
+   Liabilities                           Smart     investment  Smart   investment
+                                           equity and debt fund     equity savings fund
+
+   Unit Capital                                         20000.00             15000.00
+
+  Reserve and Surplus                                160000.00             80000.00
+  Other current liabilities & provisions                       100.00               100.00
+   Total                                             180100.00             95100.00
+  Assets
+  Investments                                       170000.00             90000.00
+
+  Deposits                                               100.00               100.00
+
+  Other Current assets                                 10000.00              5000.00
+   Total                                             180100.00             95100.00
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+SPECIALISED AREAS            8.27
+
+ Abridged revenue account for year ended 31st March 20XX (In `Lacs)
+  Income                                Smart   investment  Smart  investment
+                                              equity  and   debt  equity    savings
+                                          fund                fund
+  Income                                              34000.00             1000.00
+  Expenses and losses                                   3400.00             1500.00
+  Net realized gains                                    30600.00              (500.00)
+  Add: Change  in unrealized appreciation  in              2000.00              700.00
+   value of investments
+  Net Surplus                                          32600.00              200.00
+  Dividend appropriation                                  3000.00               50.00
+  Retained Surplus                                     29600.00              150.00
+ The abridged financial statements of the Schemes of the Fund have been prepared by Board of
+ Trustees of Fund pursuant to SEBI regulations and in accordance with format prescribed by
+ SEBI. Previous year figures have been ignored for purpose of case.
+ Unmodified opinion has been expressed by auditor in audited financial statements of the
+ schemes of “Smart Investment Mutual Fund” as at 31St March 20XX and for year ended
+ 31st March, 20XX.
+ Keeping in view above, answer the following questions: -
+ 1.    Given the above extract of abridged financial statements and description, which of
+       the following statements is most appropriate?
+         (a)   The auditor may presume that criteria applied by the Board of Trustees in the
+               preparation of the abridged financial statements are acceptable.
+         (b)   The auditor cannot presume that criteria applied by the Board of Trustees in
+               preparation of abridged financial statements are acceptable.
+         (c)   The abridged financial statements have been prepared by the Board of Trustees.
+            The auditor cannot ordinarily accept criteria applied by them for the preparation of
+             such abridged financial statements before detailed evaluation.
+         (d)   The auditor is duty bound to accept the criteria applied by the Board of Trustees in
+               the preparation of abridged financial statements.
+ 2.    Which of the following statements in reference to abridged financial statements is
+       not in accordance with the requirements of SA 810?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+8.28         ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+         (a)   The notes to accounts should specifically disclose that these abridged financial
+              statements have been derived from audited financial statements.
+         (b)   The Board of Trustees has disclosed that audited financial statements are available
+            on the website of the company.
+         (c)       It should be stated in the auditor’s report that abridged financial statements have
+            been compared with the related information in the audited financial statements to
+              determine whether the abridged financial statements agree with or can be re-
+               calculated from the related information in the audited financial statements.
+         (d)       It should be stated in auditor’s report that reading the abridged financial statements
+                   is not a substitute for reading the audited financial statements of the Schemes of
+               the Fund.
+ 3.    Which of the following paras is most appropriate to be included under heading
+       “Auditor’s responsibility” in the auditor’s report?
+         (a)   Our responsibility is to express an opinion on the Abridged financial statements
+            based on our procedures, which were conducted in accordance with Standards on
+               Auditing issued by the Institute of Chartered Accountants of India.
+         (b)   Our responsibility is to express an opinion on the Abridged financial statements
+            based on our procedures, which were conducted in accordance with Standard on
+               Auditing (SA) 810, “Engagements to Report on Summary Financial Statements”
+              issued by the Institute of Chartered Accountants of India.
+         (c)   Our responsibility is to express an opinion on the Abridged financial statements
+            based on our procedures, which were conducted in accordance with Standards on
+               Auditing adapted in circumstances including (SA) 810, “Engagements to Report on
+           Summary Financial Statements” issued by the Institute of Chartered Accountants
+                of India.
+         (d)   Our responsibility is to express an opinion on the Abridged financial statements
+            based on our procedures, which were conducted  in accordance  with SEBI
+               regulations and Standards on Auditing adapted in circumstances including (SA)
+              810, “Engagements to Report on Summary Financial Statements” issued by the
+                 Institute of Chartered Accountants of India.
+ 4.    Which of the following paras is most appropriate to be included under heading
+       “Opinion” in auditor’s report?
+         (a)    In our opinion, the abridged financial statements, derived from the audited financial
+              statements of the Schemes of the Fund as at March 31, 20XX and for the year
+            ended March 31, 20XX are a fair summary of those financial statements, and are
+                 in accordance with the accounting policies and standards specified  in SEBI
+               regulations and generally accepted accounting principles in India to the extent
+               applicable.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+SPECIALISED AREAS            8.29
+
+         (b)    In our opinion, the abridged financial statements, as at March 31, 20XX and for the
+              year ended March 31, 20XX are a fair summary of those financial statements.
+         (c)     In our opinion, the abridged financial statements, derived from the audited financial
+              statements of the Schemes of the Fund as at March 31, 20XX and for the year
+            ended March 31, 20XX are consistent with audited financial statements and are in
+             accordance  with  the  accounting  policies and  standards  specified  in SEBI
+               regulations and generally accepted accounting principles in India to the extent
+               applicable.
+         (d)    In our opinion, the abridged financial statements, derived from the audited financial
+              statements of the Schemes of the Fund as at March 31, 20XX and for the year
+            ended March 31, 20XX are consistent with audited financial statements.
+ 5.    Which of the following is usually not an element of audit report on abridged financial
+       statements in accordance with SA 810?
+         (a)   Emphasis of matter paragraph.
+         (b)    Other matter paragraph.
+         (c)   Management’s responsibility for abridged financial statements.
+         (d)   Key audit matters.
+
+Key Takeaways
+   SA 800 deals with special considerations applicable in respect of audit of financial statements
+      prepared in accordance with special purpose framework.
+   SA 800 defines special purpose framework as a financial reporting framework designed to
+      meet the financial information needs of specific users. The financial reporting framework may
+      be a fair presentation framework or a compliance framework.
+   SA 800 addresses special considerations  that are relevant  to the acceptance  of the
+      engagement, the planning and performance of that engagement and forming an opinion and
+       reporting on the financial statements but not for the purpose of expressing an opinion on the
+       effectiveness of the entity’s internal control.
+    The special purpose financial statements may be used for purposes other than those for
+      which they were intended. To avoid misunderstandings, the auditor alerts users of the
+       auditor’s report that the financial statements are prepared in accordance with a special
+      purpose framework and, therefore, may not be suitable for another purpose.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+8.30         ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+   SA 805 deals with special considerations applicable to an audit of a single financial statement
+       or of a specific element, account or item of a financial statement.
+    The single financial statement or the specific element, account or item of a financial statement
+     may be prepared in accordance with a general or special purpose framework. If prepared in
+      accordance with a special purpose framework, SA 800 also applies to such an audit of a
+       single financial statement or of a specific element, account or item of a financial statement.
+     Single financial statement is to be distinguished from complete set of financial statements.
+      For example, a cash flow statement is a single financial statement.
+    “Element of a financial statement” or “element” means an “element, account or item of a
+       financial statement.” For example, trade receivables or cash and bank balances
+    The objective of the auditor, when applying SAs, in such an audit, is to address appropriately
+       the special considerations that are relevant to acceptance of engagement, planning and
+      performance of engagement and forming an opinion and reporting but not for the purpose of
+      expressing an opinion on the effectiveness of the entity’s internal control.
+     In planning and performing the audit of a single financial statement or of a specific element
+       of a financial statement, the auditor shall adapt all SAs relevant to the audit as necessary in
+       the circumstances of the engagement.
+        If the auditor undertakes an engagement to report on a single financial statement or on a
+       specific element of a financial statement in conjunction with an engagement to audit the
+        entity’s complete set of financial statements, the auditor shall express a separate opinion for
+      each engagement.
+   SA 810 deals with responsibilities of an auditor when undertaking an engagement to report
+      on summary financial statements derived from financial statements audited in accordance
+       with SAs by that same auditor.
+    Summary financial statements reflect historical financial information that is derived from
+       financial statements but that contains less detail than the financial statements, while  still
+       providing a structured representation consistent with that provided by the financial statements
+       of the entity’s economic resources or obligations at a point in time or the changes therein for
+      a period of time.
+    The  auditor  shall,  ordinarily, accept an engagement  to  report on summary  financial
+      statements in accordance with this SA only when the auditor has been engaged to conduct
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+SPECIALISED AREAS            8.31
+
+      an audit in accordance with SAs of the financial statements from which the summary financial
+      statements are derived.
+    Before accepting an engagement to report on summary financial statements, the auditor shall
+      determine whether the applied criteria are acceptable. Applied criteria refer to the criteria
+       applied by management in the preparation of the summary financial statements.
+        If the date of the auditor’s report on the summary financial statements is later than the date
+       of the auditor’s report on the audited financial statements, auditor’s report on summary
+       financial statements states that the summary financial statements and the audited financial
+      statements do not reflect the effects of events that occurred subsequent to the date of the
+       auditor’s report on the audited financial statements.
+
+              TEST YOUR KNOWLEDGE
+
+Theoretical Questions
+1.   CA P is auditor of a company responsible for auditing complete set of financial statements.
+     He intends to express adverse opinion on complete set of financial statements considering
+      conclusions drawn by him during course of audit. He is also auditing trade receivables of
+     company for the same period in a separate engagement. Can he express unmodified opinion
+        in respect of trade receivables? If so, discuss those circumstances.
+2.      List out few factors affecting auditor’s determination of the acceptability of the applied criteria
+      before accepting audit of summary financial statements.
+3.   SA 800 deals with special considerations applicable in respect of audit of financial statements
+      prepared  in accordance with special purpose framework. Explain, by giving examples,
+      meaning of special purpose framework.
+4.   CA Y is auditor of a company. He has expressed adverse opinion on audited financial
+       statements. What additional points he has to keep in mind while expressing opinion on
+     summary financial statements derived from such audited financial statements?
+Answers to Test Your Understanding Questions
+1.     In the given situation, the approach of CA  Lalita is proper. There is no bar upon accepting
+      such an engagement even though she is the auditor of the company. Besides, she has
+      intended to disclose this fact in “Other Matter Paragraph” of the audit report to be issued by
+      her for such specific engagement.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+8.32         ADVANCEDA         AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+2.    She may consider  it appropriate to indicate that the auditor’s report is intended solely for
+       specific users. Depending on the law or regulation applicable, this may be achieved by
+        restricting the distribution or use of the auditor’s report. In these circumstances, the paragraph
+       alerting the readers may be expanded to include these other matters and the heading
+      modified accordingly. The draft para should read as under: -
+      Basis of Accounting and Restriction on Distribution and Use
+      Without modifying our opinion, we draw attention to Note A to the financial statements, which
+      describes the basis of accounting. The financial statements are prepared to assist the
+     company to comply with the financial reporting provisions of the contract referred to above.
+     As a result, the financial statements may not be suitable for another purpose. Our report is
+      intended solely for X Ltd. and Y Ltd. and should not be distributed to or used by parties other
+      than X Ltd. and Y Ltd.
+3.    The single financial statement or the specific element, account or item of a financial statement
+     may be prepared in accordance with a general or special purpose framework. If prepared in
+      accordance with a special purpose framework, SA 800 also applies to the audit.
+       In the given case, financial statements of the entity are prepared in accordance with financial
+       reporting provisions of a contract. It is a special purpose framework. The auditor of financial
+      statements prepared in accordance with special purpose framework is also offered audit of
+       trade receivables appearing in above financial statements which relates to audit of element
+       of financial statements prepared in accordance with special purpose framework. Hence, his
+       audit approach should include considering requirements of both SA 800 and SA 805.
+4.    Compliance with the requirements of SAs relevant to the audit of a single financial statement
+       or of a specific element of a financial statement may not be practicable when the auditor is
+       not also engaged to audit the entity’s complete set of financial statements. In such cases, the
+       auditor often does not have the same understanding of the entity and  its environment,
+       including  its internal control, as an auditor who also audits the entity’s complete set of
+       financial statements. Accordingly, the auditor may need further evidence to corroborate audit
+      evidence acquired from the accounting records.
+       In the case of an audit of a specific element of a financial statement, certain SAs require audit
+      work that may be disproportionate to the element being audited. If the auditor concludes that
+      an audit of a single financial statement or of a specific element of a financial statement in
+      accordance with SAs may not be practicable, the auditor may discuss with management
+      whether another type of engagement might be more practicable.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+SPECIALISED AREAS            8.33
+
+5.    The audit report on summary financial statements derived from audited financial statements
+        is dated 15th July of that particular year. However, the audit report on audited financial
+      statements is dated 15th June of that year.
+       In the above situation, the auditor’s report on summary financial statements should state that
+       the summary financial statements and the audited financial statements do not reflect the
+       effects of events that occurred subsequent to the date of the auditor’s report on the audited
+       financial statements.
+6.        If the auditor is satisfied that the summary financial statements are consistent, in all material
+       respects, with or are a fair summary of the audited financial statements, in accordance with
+       the applied criteria, he can issue an unmodified opinion.
+      However, when auditor’s report on audited financial statements contains a qualified opinion,
+       the auditor’s report on the summary financial statements shall, also contain following:
+        (a)    State that the auditor’s report on the audited financial statements contains a qualified
+             opinion
+       (b)    Describe:
+                    (i)    The basis for the qualified opinion on the audited financial statements, and that
+                      qualified opinion in the auditor’s report on the audited financial statements; and
+                      (ii)   The effect thereof on the summary financial statements, if any.
+      Hence, above points should be included by CA Madhur.
+Answers to Case Scenario
+1.    (a)
+2.    (c)
+3.    (b)
+4.    (a)
+5.    (d)
+Answers to Theoretical Questions
+1.     Refer to Para 3.6.
+2.     Refer to Para 4.2.
+3.     Refer to Para 2.1.
+4.     Refer to Para 4.6.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+© The Institute of Chartered Accountants of India

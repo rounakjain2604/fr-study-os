@@ -1,0 +1,526 @@
+Source PDF: 07_SPOM/Set_C_01_Risk_Management/005 - CHAPTER 6- RISK MONITORING AND REPORTING - 79331bos63447-p6.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_01_Risk_Management\005 - CHAPTER 6- RISK MONITORING AND REPORTING - 79331bos63447-p6.pdf
+Extracted at: 2026-05-31T10:29:54+05:30
+Pages: 14
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          6
+
+
+RISK MONITORING
+AND REPORTING
+
+
+                       LEARNING OUTCOMES
+
+After going through the chapter student shall be able to understand:
+
+   Information & Communication
+
+   Automation & Continuous Monitoring
+
+   Auditing & Evaluating Risk
+
+   Continuous & Periodic Reporting
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+6.22.2            RISK MANAGEMENT
+
+ CHAPTER OVERVIEW
+
+
+                                            Information & communication
+
+
+                                         Automation & Continuous                                                                      REPORTING
+        &                    Monitoring
+
+
+                                              Auditing & Evaluating Risk                                                                             MONITORING
+                               RISK                                          Continuous and Periodic
+                                                   Reporting
+
+
+     1. INFORMATION AND COMMUNICATION
+Information is said to be the currency of the 21st century and  it is considered the most valuable
+asset of an organisation. This is more so in case of organisations which use and are heavily
+dependent on Information Technology (IT). Organisations in this modern era run their business
+based on information which are processed using Information and Communication Technology
+(ICT). The ICT plays a central role in the operation of the business activities. For example, the
+stock market is virtually paperless. Banks and financial institutions have become online, where the
+customers rarely need to set foot in the branch premises. There is a heavy dependence on real
+time information from information technology assets for conducting business. Information  is a
+critical factor for continued success of the business. This dependence on Information is more
+explicit in the most organisations which are now dependent on IT for performing their regular
+business operations. We can understand the criticality of IT by imagining impact of failure or non-
+availability of IT in case of following types of organisations:
+(i)    Bank using Core banking  solution  with a  million accounts,  credit  cards,  loans, and
+      customers.
+(ii)   Companies using centralised ERP software having operations in multiple locations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+RISK MONITORING & REPORTING              6.32.3
+
+(iii)   An airline serving customers on flights daily using IT for all operations.
+(iv)   Pharmacy system filling millions of prescriptions per year (some of the prescriptions are life-
+       saving).
+(v)    Automobile factory producing/manufacturing hundreds of vehicles daily using automated
+       solution.
+(vi)   Railways managing thousands of train routes and passengers through automated ticketing
+      and reservation.
+
+     2. AUTOMATION & CONTINUOUS MONITORING
+The above situations clearly demonstrate the heavy dependence on IT systems. IT can fail due to
+multiple  factors.  Hence,  organisations  should have  appropriate  disaster  recovery  and/  or
+contingency plans for resuming operations from disruption. The disruption of business operation
+can be due to unforeseen manmade or natural disaster and this may lead to loss of productivity,
+revenue, and market share among many other impacts. Hence, organisations have  to take
+necessary steps to ensure that the impact from such disasters is minimised and build resilience
+which ensures continuity of critical operation in the event of disruptions. Modern organisations
+cannot think of running their business operations without IT. IT is prone to increased risks which
+can lead to failure of IT thus impacting operations. Hence, it is becoming increasingly important for
+organisations to have a business contingency plan for their Information Systems. The criticality of
+the plan can be determined based on the level of impact on critical business operations due to
+failure or non-availability of IT impacting service delivery. The failure of IT could be caused due to
+any or more of the following: -
+(i)    Server or network failure
+(ii)    Disk system failure
+(iii)   Hacker break-in
+(iv)    Denial of Service attack
+(v)     Electrical or extended power failure
+(vi)   Snowstorm, earthquake, tornado, tsunami, or fire
+(vii)   Spyware, malevolent virus, or worm
+(viii)  Employee error or revenge
+(ix)   Sabotage or theft
+(x)     Terrorist cyber attack
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+6.42.4            RISK MANAGEMENT
+
+(xi)   Communication link break down
+(xii)    Civil disturbance
+Disaster  is a physical event which interrupts business processes  sufficiently  to threaten the
+viability of the organisation. The basic objective of a Disaster Recovery Plan (DRP) is to document
+a set of procedures which can be used to protect a business IT infrastructure if any disaster takes
+place. DRP includes tasks like plan for disaster recovery, crisis management, recovery operations
+etc. Disaster Recovery Plan is the set of plans which are to be executed initially at the moment of
+crisis. These plans include measures to control the disaster, mitigate them and to initiate the
+recovery of the resources that is needed for the continuity of business. These plans are targeted to
+initiate/recover the resources that have been affected by a disaster. These are the first plans that
+would be executed at the time of disaster. There are three basic strategies that encompass a
+disaster recovery plan:
+•     preventive measures,
+•      detective measures, and
+•      corrective measures.
+As the name indicates, the job of preventive measures is to prevent a disaster from taking place.
+The purpose of these measures is proper identification and reduction of risks. They are designed
+to mitigate or prevent an event from turning into a disaster.
+These measures may include keeping data backed up and  off  site, using surge protectors,
+installing  generators and conducting  routine  inspections.  Further, these measures may be
+bifurcate into Detective or Corrective measures.
+For example: -
+•      Installing Fire alarms – detective
+•     Employee DR related trainings – detective
+•     Insurance Policies – Corrective
+•     Restoring systems post disaster - Corrective
+A disaster can be defined as an unplanned interruption of normal business process. It can be said
+to be a disruption of business operations that stops an organisation from providing critical services
+caused by the absence of critical resources. An occurrence of disaster cannot always be foreseen;
+hence we need to be prepared for all the types of disasters that can arise, handle them effectively
+in the shortest time.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+RISK MONITORING & REPORTING              6.52.5
+
+Business Continuity Plan (BCP) includes tasks like establishing continuity strategies, planning for
+continuity of critical operations, continuity management etc. BCP is a plan that contains the steps
+that would be taken by an entity to resume its business functions during its period of disruption.
+These plans are executed in parallel with the disaster recovery plans depending on the impact of
+the disaster. BCPs on a whole is about re-establishing existing business processes and functions,
+communications with the business contacts and resuming business processes at the primary
+business location.
+Testing the Disaster Recovery Plan
+The Disaster Recovery Co-ordinator is responsible for testing of the disaster recovery plan at least
+annually to ensure the  viability of the plan. Special Disaster Recovery testing  is undertaken
+whenever there are changes in the software and technology or business environments. Objectives
+of testing the Disaster Recovery plan/ procedures are outlined under: -
+(i)    To simulate the conditions of an actual Business recovery situation.
+(ii)    Determine the time consumed and feasibility of the recovery process.
+(iii)    Identify deficiencies  in the existing procedures  for improvement and take note of the
+       physical / practical constraints.
+(iv)   Test the completeness of the business recovery information stored at the Offsite Storage
+       Location.
+(v)    Train members of the Disaster Recovery teams the initial test of the plan will be in the form
+       of a structured walk-through and should occur within two months of the Disaster Recovery
+       plan’s acceptance. Subsequent tests should be to the extent determined by the Business
+       continuity co-ordinator that are cost effective and meet the benefits and objectives desired.
+(vi)   Test the state of resilience of the organisation and associated service providers.
+(vii)   Provide assurance to the Board and regulators that Disaster Recovery plan is operational
+      and effective.
+
+     3. AUDITING AND EVALUATING RISK
+As per SA 320, the concept of materiality is applied by the auditor both in planning and performing
+the audit, and in evaluating the effect of identified misstatements on the audit and of uncorrected
+misstatements, if any, on the financial statements and in forming the opinion in the auditor’s report.
+Materiality and audit risk are considered throughout the audit, in particular, when identifying and
+assessing the risks of material misstatement, determining the nature, timing and extent of further
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+6.62.6            RISK MANAGEMENT
+
+audit procedures; and evaluating the effect of uncorrected misstatements,  if any, on the financial
+statements and in forming the opinion in the auditor’s report
+Risk assessment assesses the level of risk in the various business processes. Risk assessment
+focuses  on  the  business  environment,  regulatory  environment,  organisation   structure,
+organizational and business environmental changes and specific concerns of management and the
+audit committee to determine the areas of greatest risk.
+3.1 Audit Risk Component
+ Nature         Description                     Commentary
+  Inherent Risk    Susceptibility  of an  assertion  to a  These are the business and other
+                 misstatement that could be material,   risks  that  arise from  the  entity’s
+                     individually or when aggregated with   objectives,  nature  of  operations
+                   other misstatements, assuming that  and    industry,   the   regulatory
+                   there are no related controls.          environment  in which   it operates
+                                                 and  its size and complexity. The                   Inherent risk is addressed at both the
+                                                                risks of material misstatement  will                     financial statement level and at the
+                                                        vary based on the nature  of the                   assertion level.
+                                                     account  balance   or   class   of
+                 For example, technological              transaction.
+                 developments might make a
+                                                       Risks of particular concern to the                     particular product obsolete, thereby
+                                                             auditor might include:                  causing inventory to be more
+                        susceptible to overstatement.        •    Complex  calculations  which
+                                                             could be misstated;
+                                                                               •    High value inventory;
+                                                                               •    Accounting estimates that are
+                                                                subject      to      significant
+                                                    measurement uncertainty;
+                                                                               •    Lack   of   sufficient  working
+                                                                      capital to continue operations;
+                                                                               •   A declining or volatile industry
+                                                                 with many business  failures;
+                                                     and
+                                                                               •    Technological  developments
+                                                                     that might make a particular
+                                                             product obsolete.
+  Control Risk    Risk that the entity’s internal control  The  entity  should   identify  and
+ (Do internal    system will not prevent, or detect and  assess its business and other risks
+  controls in      correct  on  a   timely   basis,  a  (such as  fraud) and respond by
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+RISK MONITORING & REPORTING              6.72.7
+
+  place mitigate  misstatement that could be material,  designing  and  implementing  a
+  the inherent     individually or when aggregated with  system of internal control.
+  risks?)          other misstatements.                                                                Entity level controls such as board
+                                                             oversight, IT general controls, and
+                                      HR  policies  are  pervasive  to  all
+                                                          assertions  whereas  activity  level
+                                                             controls generally, relate to specific
+                                                            assertions.
+                                         Some control risk will always exist
+                                                  because of the inherent limitations
+                                                                of any internal control system.
+                                               The   auditor    is   required    to
+                                                     understand  the   entity’s  internal
+                                                              control and perform procedures to
+                                                    assess   the   risks   of   material
+                                                      misstatement at the assertion level.
+  Detection       This is the risk that the auditor  will  The  auditor  identifies  assertions
+ Risk             not detect a misstatement that exists  where there are risks  of material
+                      in an assertion that could be material,  misstatement  and   concentrates
+                     either     individually     or   when   audit procedures on those areas.
+                 aggregated with other misstatements.                                                                In  designing and  evaluating  the
+               The acceptable level of detection risk                                                               results  of performing procedures,
+                      for a given level of audit risk bears an                                                         the  auditor  should  consider  the
+                   inverse  relationship  to the  risks  of                                                                   possibility of:
+                   material   misstatement    at    the
+                   assertion level.                                 •    Selecting  an   inappropriate
+                                                                   audit procedure;
+                                                                               •    Misapplying  an  appropriate
+                                                                   audit procedure; or
+                                                                               •    Misinterpreting   the   results
+                                                          from an audit procedure.
+
+
+Mathematically Audit Risk (AR) can be expressed as a product of Inherent Risk (IR), Control Risk
+(CR) and Detection Risk (DR), i.e. AR = IR x CR x DR
+Audit Risk has two components: Risk of material misstatement (the risk that the financial
+statements contain a material misstatement Prior to Audit) and detection risk (the risk that the
+auditor will not be able to detect such misstatement).
+The relationship can be defined as follows.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+6.82.8            RISK MANAGEMENT
+
+Audit Risk = Risk of Material Misstatement X Detection Risk
+Risk of material Misstatement: - Risk of material misstatement is anticipated risk that a material
+misstatement may exist in financial statement before start of the audit.  It has two components
+inherent risk and control risk. The relationship can be defined as:
+Risk of material Misstatement = Inherent risk X Control risk
+Detection risk:  It is a risk that a material misstatement remained undetected even  if all audit
+procedures applied.
+It should be noted that the combined level of Inherent Risk and Control Risk is inversely related
+with Detection Risk, and Audit Materiality is also inversely related with Audit Risk.
+Auditors are required to assess the risks of material misstatement at two levels. The first is at the
+overall  financial statement  level, which  refers  to  risks  of  material misstatement  that  relate
+pervasively to the financial statements as a whole and potentially affect many assertions.
+Example:  -  If the top accountant is not competent enough for the assigned tasks,  it is quite
+possible that errors could occur in the financial statements. However, the nature of such errors will
+not often be confined to a single account balance, transaction stream or disclosure. In addition, the
+error is not likely be confined to a single assertion such as the completeness of sales.  It could
+easily relate to other assertions such as accuracy, existence, and valuation.
+It relates to risks identifiable with specific assertions at the class of transactions, account balance,
+or  disclosure  level. This means  that  for each account balance,  class  of  transactions and
+disclosure, an assessment of risk (such as high, moderate, or low) should be made for each
+individual assertion (C, E, A, and V in the diagram below) being addressed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+RISK MONITORING & REPORTING              6.92.9
+
+Example:- While considering the valuation assertion, the auditor could assess the risk of error in
+payables as low; however, for inventory where obsolescence is a factor, the auditor would assess
+the valuation risk as high. Another example would be where the risks of material misstatement due
+to completeness (missing items) in the inventory balance are low, but high in relation to the sales
+balance.
+3.2 Steps for Risk Identification
+    Assess the significance of the assessed risk, impact of its occurrence and also
+       revise the materiality accordingly for the specific account balance.
+    Determine the likelihood for assessed risk to occur and its impact on auditing
+      procedures.
+    Document the assertions that are affected.
+    Consider the impact of the risk on each of the assertions.
+    (completeness, existence, accuracy, validity, valuation, and presentation) relevant
+       to the account balance, class of transactions, or disclosure.
+     Identify the degree of significant risks that would require separate attention and
+      response by the auditor. Planned audit procedures should directly address these
+        risks.
+    Enquire and document the management’s response.
+    Consider the nature of the internal control system  in place and  its possible
+       effectiveness in mitigating the risks involved. Ensure the controls:
+     Routine in nature (occur daily) or periodic such as monthly.
+     Designed to prevent or detect and correct errors.
+     Manual or automated.
+    Consider any unique characteristics of the risk.
+    Consider the existence of any particular characteristics (inherent risks) in the
+       class of transactions, account balance or disclosure that need to be addressed in
+      designing further audit procedures.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+6.102.10           RISK MANAGEMENT
+
+     4. CONTINUOUS & PERIODIC REPORTING
+As per the International Integrated Reporting Council (IIRC)  - Continuous monitoring and
+analysis of the external environment  in the context of the organization’s mission and vision
+identifies risks and opportunities relevant to the organization, its strategy and its business model.
+Most of the guidance and regulatory requirements for risk reporting were developed after the
+global financial crisis of 2007-08, but few nations have a better record than others, historically, of
+mandating or encouraging companies  to report on  risk. The US,  for example, has required
+companies listed with the Securities and Exchange Commission (SEC) to describe the risks faced
+by the business (in some form or another) since the 1970s. The EU Accounts Modernisation
+Directive of 2003 said that companies should describe the risks they face, in both annual and
+interim reports.
+Two countries have gone further than the Europe-wide requirements – Germany has its own Risk
+Reporting Standard (GAS 5), while the UK’s Corporate Governance Code states that companies
+should report at least annually on the effectiveness of their risk-management procedures. The
+UK’s Corporate Governance Code  still goes further where a more integrated approach to risk
+reporting, linking risk management to internal controls and going concern.
+The Management Discussions & Analysis (MD & A) section that  is popular in Annual Report
+disclosures was prescribed by the US Securities & Exchange Commission in the 1980s to meet the
+growing demand  of enhanced  risk  disclosures. The MD & A section  requires has  specific
+disclosures on the trends, economic uncertainties that the business is exposed to and the likely
+positive or negative impact of such trends and economic uncertainties on the revenues of the
+company. In the US, large unexpected losses on derivatives incurred by several firms in the early
+to mid-1990s reinforced demands that had already begun to emerge for better information on
+firms’ derivative positions and market risks. This led to risk disclosure requirements in Disclosures
+about Derivative Financial Instruments and Fair Value of Financial Instruments and Accounting for
+Derivative Instruments and Hedging Activities, and Disclosure of Accounting Policies for Derivative
+Financial Instruments etc. These include Germany’s requirement for companies to disclose  all
+material risks, subsequently supplemented by an accounting standard on risk reporting, and the
+EU’s requirement that a company’s annual report to include description of principal risks and
+uncertainties that it is exposed to.
+Global developments about risk reporting encompass following contemporary aspects to provide a
+holistic risk reporting disclosure to stakeholders and investors: -
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+RISK MONITORING & REPORTING             6.112.11
+
+•      Reporting of principal or material risk factors and responsibility for mitigating such risk
+       factors
+•      Clear categorisation of risks into company specific or general/ industry related
+•      Ordering or numbering the risks so that investor understand the risk priorities
+•     Movement of risks from previous reporting periods showing the context and cause for such
+      changes
+•      Risk linkages to financial statements, other important parts of the Annual Report
+•     Impact of risks on financial and non-financial matters
+•       Indictive risk appetite of the company as it may be difficult to quantify
+•      Short term Liquidity and Long-term Business Viability reporting
+•      Stress and Sensitivity analysis with specific scenarios linking back to principal risk factors
+In India, as per the SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015: -
+(i)    Under responsibility of Directors - Ensuring the integrity of the listed entity‘s accounting and
+       financial reporting systems, including the independent audit, and that appropriate systems
+       of control are in place, in particular, systems for risk management, financial and operational
+       control, and compliance with the law and relevant standards.
+(ii)   The Board of Directors shall ensure that, while rightly encouraging positive thinking, these
+      do not result in over-optimism that either leads to significant risks not being recognised or
+      exposes the listed entity to excessive risk.
+(iii)   The Board of Directors shall have ability to “step back” to assist executive management by
+       challenging the assumptions underlying: strategy, strategic initiatives (such as acquisitions),
+        risk appetite, exposures and the key areas of the listed entity’s focus.
+(iv)   The listed entity shall lay down procedures to inform members of board of directors about
+        risk assessment and minimization procedures.
+(v)   The Board of Directors shall be responsible for framing, implementing, and monitoring the
+        risk management plan for the listed entity.
+(vi)   Risk Management Committee: - The board of directors shall constitute a Risk Management
+      Committee. Majority members of Risk Management Committee shall consist of members of
+       the board of directors. The Chairperson of the Risk management committee shall be a
+     member of the board of directors and senior executives of the listed entity may be members
+       of the committee.
+     The board of directors shall define the role and responsibility of the Risk Management
+      Committee and may delegate monitoring and reviewing of the risk management plan to the
+      committee and such other functions as  it may deem  fit. The provisions of this regulation
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+6.122.12           RISK MANAGEMENT
+
+       shall be applicable to top 1000 listed entities with effect from 15 May 2021, determined
+      based on market capitalisation, as at the end of the immediately preceding financial year.
+(vii)   Under minimum information to be placed before the Board on a quarterly basis- Quarterly
+       details of foreign exchange exposures and the steps taken by management to limit the risks
+       of adverse exchange rate movement, if material.
+(viii)  Under disclosures  in Annual Reports  applicable  to  all  listed  entities except banks  -
+     Management  Discussion and  Analysis:  This  section  shall  include  discussion on  the
+       following matters within the limits set by the listed entity’s competitive position:
+       (a)     Industry structure and developments
+       (b)    Opportunities and Threats
+        (c)   Segment–wise or product-wise performance
+       (d)    Outlook, (e) Risks and concerns,
+          (f)     Internal control systems and their adequacy
+       (g)    Discussion on financial performance with respect to operational performance,
+       (h)    Material developments in Human Resources  / Industrial Relations front, including
+           number of people employed and General information to shareholders: Commodity
+              price risk or foreign exchange risk and hedging activities.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+RISK MONITORING & REPORTING             6.132.13
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.   ……………….is addressed at both the financial statement level and at the assertion level.
+        (a)    Inherent Risk
+        (b)    Control Risk
+        (c)    Detection Risk
+        (d)    Residual Risk
+2.    The acceptable level of ………………… for a given level of audit risk bears an inverse
+       relationship to the risks of material misstatement at the assertion level.
+       (a)    Inherent Risk
+       (b)    Control Risk
+        (c)     Detection Risk
+       (d)    Residual Risk
+3.   Some …………………. will always exist because of the inherent limitations of any internal
+       control system.
+       (a)    Inherent Risk
+       (b)    Control Risk
+        (c)    Detection Risk
+       (d)    Residual Risk
+4.     Mathematically Audit Risk (AR) can be expressed as………………….
+       (a)    Inherent Risk (IR) + Control Risk (CR) + Detection Risk (DR)
+       (b)    Inherent Risk (IR) - Control Risk (CR) - Detection Risk (DR)
+        (c)    Inherent Risk (IR) + Control Risk (CR) - Detection Risk (DR)
+       (d)    Inherent Risk (IR) x Control Risk (CR) x Detection Risk (DR)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+6.142.14           RISK MANAGEMENT
+
+5.     Risk of material Misstatement has two components……..
+       (a)    control risk and detection risk
+       (b)    inherent risk and control risk.
+        (c)    control risk and residual risk
+       (d)    residual risk and detection risk
+Answers to Multiple Choice Questions:
+
+    1.        (a)        2.        (c)        3.        (b)        4.        (d)        5.        (b)
+
+
+© The Institute of Chartered Accountants of India

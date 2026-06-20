@@ -1,0 +1,1308 @@
+Source PDF: 07_SPOM/Set_D_04_Digital_Ecosystem_Controls/008 - Chapter-7- System Acquisition and Development Methodologies - 79448bos63475-cp7.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_04_Digital_Ecosystem_Controls\008 - Chapter-7- System Acquisition and Development Methodologies - 79448bos63475-cp7.pdf
+Extracted at: 2026-05-31T10:36:34+05:30
+Pages: 31
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          7
+         1
+SYSTEM ACQUISITION AND
+DEVELOPMENT
+METHODOLOGIES
+
+
+                    LEARNING OUTCOMES
+After studying this chapter, you will be able to –
+   conceptualize a systematic approach  to System Acquisition and
+     review its phase-wise activities, methods, tools, controls, etc.
+   understand software procurement, acquisition from external sources,
+     evaluation of IT proposals, etc.
+   analyze the current system in view of understanding requirements.
+   compare  different SDLC models and be able  to  select the most
+     appropriate model best suited for a particular project.
+   know  the  advantages  and  disadvantages   of  various  system
+     development models.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+7.2            DIGITAL ECOSYSTEM AND CONTROLS
+
+  CHAPTER OVERVIEW
+
+
+                                 Need
+
+                              Components            Standards
+
+                                                 System components                                      Acquisition                                                       from vendors                                                SYSTEMS
+                                                             Cycle
+
+                                                                Waterfall Model                                                                            INFORMATION
+                                                         Prototyping Model
+
+                                                         Incremental Model
+                                 Methodologies
+                                                                   Spiral Model
+
+                                           RAD Model
+
+                                                               Agile Model
+
+
+                               Illustration- Online Ticketing System
+ Introduction
+ Mr. Amit waited at the booking window at the PVR, New Delhi. He had reserved center seating
+ tickets for himself and his wife for this concert fifteen days ago and for some reason the box office
+ couldn’t find his reservation and sold his tickets to another person. The PVR screen was full and
+ there were no tickets left. That was very disappointing, as he and his wife had been looking to
+  this for a long time as a part of celebration of their 15th wedding anniversary.
+ The Box Office Manager apologized to Mr. Amit saying that he wrote down his reservation on the
+ phone list, but evidently it somehow wasn’t transferred to their master seating chart. However, he
+ arranged two tickets for Mr. Amit and his wife.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                        7.3
+                            METHODOLOGIES
+
+ Later, Mr. Amit thought of developing an information system to automate the ticketing process as being
+ done manually in the current situation. He fixed a meeting with the PVR manager at the weekend to
+ understand the processes involved and information he required to develop the system.
+ Later that week Mr. Amit met with the Box Office Manager to develop an overall understanding of
+  their business processes of booking tickets especially for a concert/event, the information they
+ maintain, and the reporting needed. Mr. Amit compiled  this information and the detailed
+ requirements are listed below.
+ Requirements for Systems Analysis and Design
+ 1.    Prepare a system proposal that includes an executive summary, the requirements of the
+       system, and identification of the team members.
+ 2.    Develop appropriate process models (Use Case Descriptions/Diagrams or Data Flow
+       Diagrams – context level, level 0, level 1) per instructions.
+ 3.    Develop the appropriate data model (Class Diagram or Entity-Relationship Diagram) per
+         instructions.
+ 4.    Develop preliminary screen and report designs for each user interface identified.
+ 5.    Prepare a one-page “pre-implementation review” outlining lessons learned - what went
+         right and what went wrong on this project.
+ Mr. Amit explained his team that a database system is to be developed which would maintain
+ information about each event and tickets sold, and the patron to whom the tickets are sold. The
+ system should also generate reports on the number of tickets sold/available per performance,
+ and tickets purchased by a specific patron.
+ After gathering the detailed requirements for the system, Mr. Amit began developing data and
+ process models and designing the user interfaces. He developed an efficient online ticketing
+ system for PVR to keep track of each event and ticket sales much more efficiently.
+ Requirements for Systems Development
+ 1.    Complete the above requirements.
+ 2.    Using appropriate development tools, develop a comprehensive, user-friendly, working
+       system that will meet the requirements of PVR.
+ 3.    Prepare a user manual describing how to use the system.
+ 4.    Prepare a one-page “post-implementation review” outlining lessons learned – what went
+         right and what went wrong on this project.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+7.4            DIGITAL ECOSYSTEM AND CONTROLS
+
+    7.1  INTRODUCTION
+Over the past few years, the world has moved on from a connection amongst individuals to more of
+a connection amongst systems. We now have systems that are constantly exchanging information
+about various things and even about us, many times without human intervention. This inter-
+networking of physical devices, vehicles, smart devices, embedded electronics, software, sensors
+or any such device is often referred to as IoT (Internet of Things).
+What is interesting about various emerging technologies is that at their core we have some key
+elements, namely, People, Computer Systems (Hardware, Operating System and other Software),
+Data Resources, Networking and Communication Systems. In this chapter, we are going to explore
+each of those key elements.
+Information System is used in almost every imaginable profession. Information System (IS) is a
+combination of people, hardware, software, communication devices, network and data resources
+that process (can be storing, retrieving, transforming information) data and information for a specific
+purpose. These interrelated components collect (input), manipulate (process), store and disseminate
+(output) data and information and provide a feedback mechanism to meet an objective (Refer Fig
+7.1). The feedback system helps businesses, entrepreneurs, and organizations achieve their goals,
+such as increasing profits or improving customer service.
+
+                                 Feedback
+
+
+                                                              Output                    Input             Processing
+
+                          Fig. 7.1: Components of Information System
+The system needs inputs from the user (key in instructions and commands, typing, scanning) which
+will then be processed (calculating, reporting) using technology devices such as computers, and
+produces output (printing reports, displaying results) that will be sent to another user or other system
+via a network and a feedback method that controls the operation.
+Need of Information System in an organization
+Information is the power and information system is used in every sector and profession. Through
+this system, entrepreneurs and businesses can reach their customers, advertise their projects,
+manage their employees, communicate with all stakeholders etc. Even for individuals, information
+system is an indispensable tool that helps them to achieve their goals.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                        7.5
+                            METHODOLOGIES
+
+    7.2  INFORMATION SYSTEM ACQUISITION
+After a system is designed either partially or fully, the next phase of the system development starts,
+which relates to the acquisition of operating infrastructure including hardware, software, and
+services. Such acquisitions are highly technical and cannot be taken easily and for granted. Thereby,
+technical specifications, standards, etc. come to rescue.
+(A)   Acquisition Standards: Management should establish acquisition standards that address
+       the security and reliability issues as per current state-of-the-art development standards.
+       Acquisition standards should focus on the following:
+    o     Ensuring security, reliability, and functionality already built into a product;
+    o     Ensuring managers complete appropriate vendor, contract, and licensing reviews and
+              acquiring products compatible with existing systems;
+    o      Invitations-to-tender  soliciting  bids  from  vendors when  acquiring hardware  or
+              integrated systems of hardware and software;
+    o     Request-for-proposals  soliciting  bids when  acquiring  off-the-shelf  or  third-party
+            developed software; and
+    o     Establishing acquisition standards to ensure functional, security, and operational
+             requirements are accurately identified and clearly detailed in request-for-proposals.
+(B)   Acquiring systems components from vendors: At the end of the design phase, the
+       organization gets a reasonable idea of the types of hardware, software and services, it needs
+        for the system being developed. Acquiring the appropriate hardware and software is critical
+        for the success of the whole project. The organization can discover new hardware and
+      software developments in various ways. Management also decides whether the hardware is
+       to be purchased, leased from a third party or to be rented. A sub-committee of experts under
+       the steering committee, referred to as the 'System Acquisition Committee' is constituted. The
+      sub-committee is mandated to ensure timely and effective completion of this stage.
+     The next aspect is a call for Request for Proposal (RFP) from vendors. This stage is one of
+       the most critical phases for system acquisition as well-defined RFP leads to better acquisition.
+     RFP, means asking vendors to submit proposals for the requirements mentioned. The RFP
+      process is the initiation of the final stages for implementation. The requirements analysis and
+      design phase have been completed, before starting this phase. The following considerations
+      as given in Fig. 7.2 are valid for both acquisition of hardware and software.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+7.6            DIGITAL ECOSYSTEM AND CONTROLS
+
+           Vendor Selection
+             •This step is a critical step for success of process of acquisition of systems.
+                        It is necessary to remember that vendor selection is to be done prior to
+             sending RFP. The result of this process  is that ‘RFP are sent only to
+              selected vendors’. For vendor selection, following things are kept in mind
+               including  the background and  location advantage  of  the  vendor,  the
+                financial stability of vendor, the market feedback of vendor performance, in
+             terms of price, services etc.
+
+            Geographical Location of Vendor
+            The issue  to look  for whether the vendor has  local support persons.
+              Otherwise, the proposals submitted by vendor not as per RFP requirements
+            need to rejected, with no further discussion on such rejected proposals.
+              This stage may be referred to as ‘technical validation’, that is to check the
+              proposals  submitted by  vendors,  are  technically complying  with RFP
+              requirements.
+
+            Presentation by Selected Vendors
+                  All vendors, whose proposals are accepted after “technical validation”, are
+              allowed to make presentation to the System Acquisition Team. The team
+              evaluates the vendor’s proposals by using techniques.
+
+            Evaluation of Users Feedback
+            The best way to understand the vendor systems is to analyze the feedback
+             from present users. Present users can provide valuable feedback on
+             system, operations, problems, vendor response to support calls.
+
+          Fig. 7.2: Considerations are valid for both acquisition of Hardware and Software
+      Besides these, some specific considerations for hardware and software acquisition are
+      described as follows:
+    o    The benchmark tests to be done for the proposed machine. For hardware, there are
+              specified standard benchmark tests defined based on the nature of hardware. These
+           need to be applied to the proposed equipment.
+    o     Software considerations that can be current applications programs or new programs
+               that have been designed to represent planned processing needs.
+    o    The benchmarking problems are oriented towards testing whether a computer offered
+            by the vendor meets the requirements of the job on hand of the buyer.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                        7.7
+                            METHODOLOGIES
+
+    o    The benchmarking problems would then comprise long jobs, short jobs, printing jobs,
+              disk jobs, mathematical problems, input and output loads, etc., in proportion typical of
+             the job mix.
+    o        If the job  is truly represented by the selected benchmarking problems, then this
+            approach can provide a  realistic and tangible basis  for comparing  all vendors’
+             proposals.
+    o     Tests should enable buyers to effectively evaluate the cross performance of various
+            systems in terms of hardware performance (CPU and input/output units), compiler
+            language and operating system capabilities, diagnostic messages, ability to deal with
+              certain types of data structures and effectiveness of software utilities.
+    o    Benchmarking problems, however, suffer from a couple of disadvantages.  It takes
+             considerable time and effort to select problems representative of the job mix which
+                  itself must be precisely defined. It also requires the existence of operational hardware,
+             software and services  of systems. Nevertheless,  this approach  is very popular
+           because   it can  test  the  functioning  of vendors’  proposals. The manager can
+              extrapolate in the light of the results of benchmarking problems, and the performance
+               of the vendors’ proposals on the entire job mix.
+(C)   Other Acquisition aspects and practices: In addition to the above, there are several other
+       acquisition aspects and practices also, which are given as follows:
+          (i)    Hardware Acquisition: In the case of procuring such machinery as machine tools,
+              transportation equipment,  air conditioning equipment,  etc., the management can
+             normally rely on the time-tested selection techniques and the objective selection
+                criteria can be delegated to the technical specialist. The management depends upon
+             the vendor  for support services, systems design, education,  training,  etc., and
+            expansion of computer installation for almost an indefinite period; therefore, this is not
+                just buying the machine and paying the vendor for it, but  it amounts to an enduring
+              alliance with the supplier.
+          (ii)   Software Acquisition: Once user output and input designs are finalized, the nature
+               of the application software requirements must be assessed by the systems analyst.
+             This determination helps the systems development team to decide ‘what type of
+              application software products is needed’ and consequently, the degree of processing
+               that the system needs to handle. This helps the system developers in deciding about
+             the nature of the systems software and computer hardware that will be most suitable
+                for generating the desired outputs, and also the functions and capabilities that the
+              application software must possess. At  this stage, the system developers must
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+7.8            DIGITAL ECOSYSTEM AND CONTROLS
+
+            determine whether the application software should be created in-house or acquired
+            from a vendor.
+          (iii)   Contracts, Software Licenses and Copyright Violations: Contracts between an
+             organization  and  a  software  vendor  should  clearly  describe  the  rights  and
+               responsibilities of the parties to the contract. The contracts should be in writing with
+               sufficient detail to provide assurances for performance, source code accessibility,
+             software and data security, and other important issues. The Software license is a
+              license that grants usage permission to do things with computer software. The usual
+             goal is to authorize activities, which are prohibited by default by copyright law, patent
+              law, trademark law and any other intellectual property rights. The reason for the
+              license, essentially  is that virtually  all intellectual property laws were enacted to
+            encourage disclosure of the intellectual property. Copyright laws protect proprietary
+            as well as open-source software. The use of unlicensed software or violations of a
+              licensing agreement exposes organizations to possible litigation.
+        (iv)   Compliances with Security Protocols and Legal Requirements: The proposed
+             software should be compliant with the legal provisions (e.g. General Data Protection
+             Regulation (GDPR) and Digital Personal Data Protection (DPDP) Act), wherever
+              applicable. Moreover, they should have minimum security certificates to ensure they
+             are not inherently vulnerable to attacks. These certificates may not be guaranteed
+              protection from cyber-attacks, but they provide reasonable assurance in comparison
+              with unsecured solutions.
+       (v)    Validation of Vendors’ proposals: The contracts and software licensing process
+              consists of evaluating and ranking the proposals submitted by vendors and is quite
+                  difficult, expensive and time-consuming, but in any case,  it has to be gone through.
+             This problem is made difficult by the fact that vendors would be offering a variety of
+              configurations. The  following  factors have  to be  considered towards  rigorous
+              evaluation.
+          The performance capability of each proposed system in relation to its costs.
+          The cost and benefits of each proposed system.
+          The maintainability of each proposed system.
+          The compatibility of each proposed system with Existing Systems.
+          Vendor Support.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                        7.9
+                            METHODOLOGIES
+
+        (vi)   Methods of Validating the proposal: Large organizations would naturally tend to
+            adopt a sophisticated and objective approach to validate the vendor’s proposal. Some
+               of the validation methods are given as follows:
+          Checklists:  It is the most simple and subjective method for validation and
+                     evaluation. The various criteria are put on a checklist in the form of suitable
+                   questions against which the responses of the various vendors are validated.
+                  For  example,  Support  Service  Checklists may  have  parameters  like
+                   performance, system development, maintenance, conversion, training, backup,
+                     proximity, hardware, and software.
+          Point-Scoring Analysis: Point-scoring analysis provides an objective means
+                      of selecting a final system. There are no absolute rules in the selection process,
+                    only guidelines for matching user needs with software capabilities. Thus, even
+                       for a small business, the evaluators must consider such issues as the
+                 company’s  data  processing needs,  its in-house computer  skills, vendor
+                     reputations, software costs, and so forth. Table 7.1 illustrates a Point Scoring
+                    Analysis list.
+                               Table 7.1: Point Scoring Analysis List
+                 Software Evaluation Criteria       Possible  Vendor  Vendor  Vendor
+                                                     points     A     B     C
+           Does the software meet  all mandatory     10        7       9       6
+               specifications?
+                Will program modifications,  if any, be     10        8       9       7
+             minimal to meet company needs?
+           Does  the  software  contain adequate     10        9       9       8
+               controls?
+                 Is the performance (speed, accuracy,      7        7       5       6
+                   reliability, etc.) adequate?
+             Are  other  users  satisfied  with  the      8        7       7       5
+              software?
+                 Is the software user-friendly?              10        7       8       6
+           Can the software be demonstrated and      9        8       8       7
+               test-driven?
+           Does the software have an adequate      8        6       7       6
+              warranty?
+                 Is  the  software  flexible  and  easily      8        5       7       5
+             maintained?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+7.10           DIGITAL ECOSYSTEM AND CONTROLS
+
+                 Is online  inquiry  of  files and records     10        8       9       7
+              possible?
+                Will the vendor keep the software up to     10        8       8       7
+             date?
+              Total                                 100       80      86      70
+
+          Public Evaluation Reports: Several consultancies as well as independent
+                  agencies compare and contrast the hardware and software performance of
+                    various manufacturers and publish their reports in this regard. This method has
+                 been frequently and usefully employed by several buyers in the past. For those
+                         criteria, however, where published reports are not available, reports would have
+                      to be made to other methods of validation. This method is particularly useful
+                 where the buying staff has inadequate knowledge of facts.
+          Benchmarking problems related to Vendor’s Solutions: Benchmarking
+                  problems related to vendors’ proposals are accomplished by sample programs
+                      that represent at least a part of the buyer’s primary workload and include
+                    considerations and can be current applications that have been designed to
+                    represent planned processing needs. That  is, benchmarking problems are
+                    oriented towards testing whether a solution offered by the vendor meets the
+                   requirements of the job on the hand of the buyer.
+          Testing Problems: Test problems disregard the actual job mix and are devised
+                      to test the true capabilities of the hardware, software, or system. For example,
+                       test problems may be developed to evaluate the time required to translate the
+                  source code (program in an assembly or a high-level language) into the object
+                 code (machine language), response time  for two or more jobs  in  multi-
+                 programming environment, overhead requirements of the operating system in
+                   executing a user program, length of time required to execute an instruction, etc.
+                The results achieved by the machine can be compared and price performance
+                  judgments can be made.  It must be borne in mind, however, that various
+                      capabilities to be tested would have to be assigned relative weightage.
+          Information systems play a vital role in the success of any functional system
+                    today. It may be reckoned as the symbiosis of IT hardware and software, in
+                    today's superhighways of information infrastructure. Its functions may include
+                    the processing of business transactions to provide information needed to
+                   decide recurring issues, assisting senior officials with strategy formulations,
+                 and  linking  office  information and  corporate  data  etc. Technology has
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                     7.11
+                            METHODOLOGIES
+
+                  developed at a rapid pace but the most important aspect of any system is
+               human know-how and the use of ideas to harness the computers so that they
+                   perform  the  required  tasks.  This  process  is  essentially  ‘what  system
+                  development is all about’. To be of any use, a computer-based information
+                  system must function properly, be easy to use and suit the organization for
+                  which it has been designed. If a system helps people to work more effectively
+                 and efficiently, then deployment would be justified.
+           In  the  business  context  today,  information systems  are  inevitable.  Its
+                  deployment may be triggered by the acquisition of already functional ready-to-
+                 use systems or by the development of customized solutions using requisite IT
+                      infrastructure, environment and support. System acquisition efforts are put in
+                   place due to many reasons:
+         Due to the availability of systems at affordable prices subject to satisfactory
+                     solutions to the requisite tasks and functionalities.
+          Because of the stress in the existing system the system is not able to meet the
+                   requirements of system stakeholders and particularly, of its users and thus
+                    requires to be changed or modified. There are situations, which can be
+                managed by slight modifications, but there may be situations, which may need
+                  complete overhaul. For example: Increased competition, pressure on profits,
+                 and customer satisfaction are a  few reasons, which have forced many
+                    corporations to go for better systems. Many of them have shifted from traditional
+                   accounting packages to Enterprise Resource Planning Software.
+          Opportunity may be another reason for acquisition i.e. if management sees that
+                    there is scope for capitalising on a new business opportunity/venture, then
+                management goes for system acquisition. Many companies implement new
+                   software to capitalise on such opportunities.
+     The two cases given below describe the importance and need  to automated system
+      development:
+     Case 1: Manual Billing System: The billing clerk checks the price list of products before
+      s/he bills the same to the customer. S/he checks the approved price list of the products as is
+       applicable on the date of billing, checks for discounts and bills the products to the customer.
+       In the above process, the key issue is that the billing clerk needs to possess, an applicable
+      and authorized price  list with him. Business Process Design shall need to address the
+       following critical issues:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+7.12           DIGITAL ECOSYSTEM AND CONTROLS
+
+    o      Availability of approved price lists with the billing clerk.
+    o    How it shall be ensured that the billing has been done on applicable rates only?
+    o    How is the approval accorded to price lists?
+    o    Whether the price list updating process is pre-defined or need-based?
+    o    How exceptions to the listed price shall be documented?
+    o    How the exceptions shall be submitted to management?
+     Case 2: Computerized Billing System: In this system, every bill is generated through the
+      system. The System has in its database of approved price list. As soon as, the billing clerk
+       selects the product from product lists, the system automatically picks up the price, as  it is
+       already available in database. There is no option available with the billing clerk to modify the
+       price at the time of billing. The key processes that need to be controlled include, ensuring the
+      system price list is the approved price list. Business Process Design shall need to address
+       the following issues:
+    o      Availability of approved price lists in the system.
+    o    How it shall be ensured that the price lists in the system cannot be modified?
+    o    How is the approval accorded to price lists?
+    o    Whether the price list updating process is pre-defined or needbased?
+    o    How are the said price lists updated in the system?
+    o    How is the correctness of updates is validated?
+    o    How are exceptions, where the billed price is different from the price in the system
+             authorized?
+    o    How are the exceptions to price reported to management?
+    o    Does the system provide a separate report for the same?
+     Case 3: Integrated Systems: Integrated system means a system, which has been tightly
+       interfaced with the business processes of the entity. This shall require greater intellectual
+       inputs to the process of business process modelling. The key issue to be addressed being
+       the interface between the business process and the business objective. The issue to be
+      addressed in addition to those discussed above shall include the following:
+    o    How is the business objective change built into business process change?
+    o    How shall the business processes be documented?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                     7.13
+                            METHODOLOGIES
+
+      Business Process Modeling is an important step in the process of system development. This
+      step is important and critical for the success of better system development. An offshoot of
+        this process is the term Business Process Re-engineering. The key difference is, that in
+      Business Process Re-engineering, the existing processes are fundamentally redefined rather
+      than new processes being created,  in the  light of accommodating new environmental
+      developments.
+(D)   System Acquisition Cycle
+           It  is the activity of modifying an information system.  It  is important to have a System
+       Acquisition Strategy in place that assists departments with the selection, purchase and,  if
+       applicable, implementation of technology-related systems  i.e., hardware, software, and
+       services. The goal of this strategy is to ensure that systems to be acquired to -
+    o      align with the objectives and goals of the organization.
+    o     integrate well and are compatible with existing software and technology infrastructure.
+    o      that they result in a positive return on investment.
+     The key to getting value for organizations is to establish a win–win partnership with the
+       vendor(s). If the partnership doesn’t succeed due to inefficiencies with the vendor, etc., then
+      an exit strategy should be exercised that eventually shall allow an organization to select a
+     new vendor with minimized transition costs. The system acquisition process should include
+       the identification and analysis of alternative solutions that are each compared with the
+       established business requirements. In general, the acquisition process involves the following
+      steps as depicted in Fig. 7.3:
+       1.    Defining System Requirements: System requirements describe  the needs  or
+              objectives of the system and define the problems to be solved, business and system
+              goals, system processes to be accomplished, and the deliverables and expectations
+                for the system. System requirements include defining the information being given to
+             the system to process, the information to be processed within the system, and the
+              information expected out of the system. Each requirement should be clearly defined
+            so that later gaps in expectations are avoided.
+           System requirements can be captured by  interviewing management and those
+            expected  to use  the  information produced by  the system  to understand  their
+             expectations. Gathering requirements can also be accomplished by inspecting existing
+            systems, reviewing related paper and electronic forms and reports, observing related
+            business processes, meeting with IT management and support staff regarding their
+             expectations and  constraints  for implementing and supporting  the system and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+7.14           DIGITAL ECOSYSTEM AND CONTROLS
+
+             researching other companies in a related industry, of similar company size, and with
+           a similar technical environment to identify best practices and lessons learned.
+
+
+                                                   Performing                    Carrying                        Defining                                   Conducting                Procuring    Completing
+                    System         Identifying         a           a Risk        out the     Selected         Final
+                   Requirements     Alternatives     Feasibility       Analysis      Selection    Software    Acceptance                                                      Analysis                    Process
+
+
+                                    Fig. 7.3: System Acquisition Cycle
+       2.     Identifying Alternatives: Many options exist in procuring system solutions  (i.e.,
+              software), which include any combination of the following: off-the-shelf product,
+            purchased supplier package, contracting for development or developing the system
+             in-house, or outsourcing from another organization.
+       3.    Performing a Feasibility Analysis: A feasibility analysis defines the constraints or
+               limitations for each alternative from a technical as well as a business perspective.
+               Feasibility analysis includes the following categories: economic, technical, operational,
+               legal, contractual, and political. These concepts shall be discussed in the next section
+                in detail.
+       4.    Conducting a Risk Analysis: A risk analysis reviews the security of the proposed
+            system.  It includes an analysis of security threats and potential vulnerabilities and
+             impacts, as well as the feasibility of other controls that can be used to reduce the
+               identified risks.
+       5.    Carrying Out the Selection Process: The selection process includes identifying the
+             best match between the available  alternatives and the  identified requirements.
+            According to KPMG’s 2022 State of the Outsourcing, Shared Services, and Operations
+              Industry Survey Report, the top three sourcing trends are Agile based Tendering, API
+             driven integration, streamlined delivery models, AI driven contract Management and
+            workplace Analytics. The survey also showed that smaller organizations place more
+            importance on traditional selection criteria like industry experience and service quality
+             than business outcomes and automation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                     7.15
+                            METHODOLOGIES
+
+       6.    Procuring Selected Software: Once a technical solution has been selected, the
+            procurement process helps ensure that the right terms and conditions are negotiated.
+          One of the integral processes in any project is the procurement of services, hardware,
+           and software. In most cases, organizations consider whether to make or buy systems.
+               In either case, the procurement of external services is usually required. Depending on
+             the extent of the service, a formal RFP or other requirements document needs to be
+            prepared to request competitive bids. The requirements should include service levels
+              with contract penalties and tracking metrics/success criteria.
+       7.    Completing Final Acceptance: The procurement process sounds simple but  is
+              actually the most complicated of all the acquisition steps. It requires that the purchase
+              price and conditions be stipulated and agreed upon. These agreements take the form
+               of  contracts. When  procuring  software,  IT  managers may  complain  about
+             unpredictable license fees, pressured sales methods, poor technical support, and
+             unclear pricing for ongoing maintenance fees.
+            Software Contracts and Licenses Agreements are used to document agreements for
+            development, marketing, distribution, licensing, maintenance, or any combination.
+             Contracts can specify a fixed price or a price based on time and materials. Contracts
+           based on time and materials state that the fees charged are directly attributable to
+              actual expenses of time (hourly) or materials. These contracts place more financial
+                risk on the buyer   if the  initial  definition  of  pricing, the scope,  or the desired
+             requirements are unclear or poorly defined. Contract terms and conditions normally
+             include the following:
+         A functional definition of the work to be performed.
+           Specifications for input or output designs, such as interfaces, screens, or
+                      reports.
+          Detailed description of the necessary hardware.
+          Description of the software systems or tools required for development or
+                   implementation.
+          Terms or limitations with the use of any related trademark rights or copyrights.
+          Requirements for the conversion or transfer of data.
+          System performance or capacity such as speed, throughput, or storage.
+          Testing procedures used to identify problems and the results expected to define
+                   acceptance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+7.16           DIGITAL ECOSYSTEM AND CONTROLS
+
+          Information and system requirements serve as the basis  for defining the
+                  acceptance tests.
+          Supplier staffing and specified qualifications.
+          Contact and relationship protocols between the buyer and the supplier.
+          Expected schedules for development, implementation, and delivery.
+          Methods for providing progress reports, such as meetings or reports.
+           Definition of deliverables, which includes a clear description of each item to be
+                    delivered or provided by the supplier, when  it is to be delivered, and any
+                 consequences for missed deliverables.
+           Explicit criteria for defining acceptance of each deliverable as well as for final
+                   acceptance.
+          Requirements and expectations for installation.
+          Documentation expected to be provided to the supplier or by the supplier as
+                     well as any intellectual property rights needed to maintain or customize the
+                   documentation.
+          Training expected to be provided as part of the product or service.
+          Any applicable warranties or maintenance, including provisions  for future
+                    versions currently in development.
+          Any requirements for indemnity or recovery for losses, such as insurance or
+                  bonds.
+
+     7.3 INFORMATION     SYSTEM     DEVELOPMENT
+      METHODOLOGIES
+A System Development Methodology  is  a  formalized,  standardized,  well-organized and
+documented set of activities used to manage a system development project.  It refers to the
+framework that is used to structure, plan and control the process of developing an information
+system. Each of the available methodologies is best suited to specific kinds of projects, based on
+various  technical,  organizational,  project  and  team  considerations.  The  methodology   is
+characterized by the following:
+♦    The project is divided into several identifiable processes, and each process has a starting
+       point and an ending  point. Each process comprises several  activities, one  or more
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                     7.17
+                            METHODOLOGIES
+
+       deliverables, and several management control points. The division of the project into these
+       small, manageable steps facilitates both project planning and project control.
+♦     Specific reports and other documentation, called Deliverables must be produced periodically
+       during system development  to make development personnel accountable  for  faithful
+      execution of system development tasks.
+♦     Users, managers, and auditors are required to participate in the project, which generally
+      provides approvals, often called signoffs, at pre-established management control points.
+       Signoffs signify approval of the development process and the system being developed.
+♦    The system must be tested thoroughly prior to implementation to ensure that it meets users’
+      needs as well as requisite functionalities.
+♦   A training plan is developed for those who will operate and use the new system.
+♦    Formal program change controls are established to preclude unauthorized changes to
+      computer programs.
+♦   A post-implementation review of all developed systems must be performed to assess the
+       effectiveness and efficiency of the new system and the development process.
+Since organizations vary significantly in the way they automate their business procedures, and each
+new type of system usually differs from others, several different system development approaches
+are often used within an organization. All these approaches are not mutually exclusive, which means
+that  it is possible to perform some prototyping while applying the traditional approach. These
+approaches are established as models and include:
+
+
+          Waterfall Model-Linear Framework type
+          Prototyping-Iterative framework type
+          Incremental - Combination of linear and iterative framework type
+          Spiral - Combination linear and iterative framework type
+          Rapid Application Development (RAD) : Iterative Framework Type
+          V-Shaped Model
+                           Fig 7.3: System Development Methodologies          Agile Methodologies models
+       These models are described one by one in the following sections:
+I.     Waterfall Model: The waterfall approach is a traditional development approach in which each
+      phase is carried out in sequence or linear fashion. These phases include requirements
+       analysis, specifications and design requirements, coding, final testing, and release. In this
+        traditional approach to system development, activities are performed in sequence. Fig. 7.4
+     shows the tasks performed during each phase of the  traditional approach. When the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+7.18           DIGITAL ECOSYSTEM AND CONTROLS
+
+        traditional approach is applied, an activity is undertaken only when the prior step is fully
+      completed.
+
+         Preliminary Investigation
+
+                Requirements Analysis
+
+                            System Design
+
+                                  System Development
+                                             System Testing
+
+                                                             System
+                                                                Implementation
+                                Feedback                & Maintenance
+
+                                   Fig. 7.4: Waterfall Approach
+     The characterizing features of this model have influenced the development community in a
+       big way. Some of the key characteristics are the following:
+    o    The project is divided into sequential phases, with some overlap and splash back
+             acceptable between phases.
+    o    Emphasis is on planning, time schedules, target dates, budgets and implementation
+               of an entire system at one time.
+    o     Tight control is maintained over the life of the project through the use of extensive
+              written documentation, as well as through formal reviews and approval/signoff by the
+             user and information technology management occurring at the end of most phases
+             before beginning the next phase.
+       (a)    Strengths: The fundamental strength of the waterfall model has made it quite popular
+           and handy among the fraternity. Major strengths are given as follows (Refer Fig. 7.5):
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                     7.19
+                            METHODOLOGIES
+
+
+         Ideal for supporting less experienced project                                                       Progress of system development is          teams and project managers or project                                                                  measurable.           teams, whose composition fluctuates.
+
+
+                                               Strengths
+
+        The orderly sequence of development steps
+          and design reviews help to ensure the                                                                                                   It enables to conserve resources.                quality, reliability, adequacy and
+           maintainability of the developed software.
+
+
+                              Fig. 7.5: Strength of Waterfall Model
+       (b)   Weaknesses: Though it is a highly useful model, it suffers from various weaknesses
+               too. Experts and practitioners identify number of weaknesses including the following:
+             It  is  criticized  for being  inflexible, slow,  costly, and cumbersome due to
+                       significant structure and tight controls.
+           Project progresses forward, with only slight movement backwards.
+          There is a little to iterate, which may be essential in situations.
+             It depends upon early identification and specification of requirements, even if
+                    the users may not be able to clearly define ‘what they need early in the project’.
+          Requirement inconsistencies, missing system components and unexpected
+                  development needs are often discovered during design and coding.
+          Problems are often not discovered until system testing.
+          System performance cannot be tested until the system is almost fully coded,
+                 and under capacity may be difficult to correct.
+             It is difficult to respond to changes, which may occur later in the life cycle, and
+                                    if undertaken it proves costly and is thus discouraged.
+             It leads to excessive documentation, whose updation to assure integrity is an
+                       uphill task and often time-consuming.
+          Written specifications are often  difficult  for users to read and thoroughly
+                    appreciate.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+7.20           DIGITAL ECOSYSTEM AND CONTROLS
+
+             It promotes the gap between users and developers with a clear vision of
+                       responsibility.
+II.    The Prototyping Model: The traditional approach sometimes may take years to analyze,
+      design and implement a system. More so, many times we know little about the system until
+      and unless we go through its working phases, which are not available. In order to avoid such
+       bottlenecks and overcome the issues, organizations are increasingly using prototyping
+      techniques to develop smaller systems such as DSS, MIS and Expert systems. The goal of
+       the prototyping approach is to develop a small or pilot version called a prototype of part or all
+       of a system. A prototype is a usable system or system component that is built quickly and at
+      a lesser cost, and with the intention of modifying/replicating/expanding or even replacing it
+       with a full-scale and fully operational system. As users work with the prototype, they learn
+      about the system’s criticalities and make suggestions about the ways to manage  it. These
+      suggestions are then incorporated  to improve the prototype, which  is also used and
+       evaluated. Finally, when a prototype is developed that satisfies all user requirements, either
+            it is refined and turned into the final system or it is scrapped. If it is scrapped, the knowledge
+      gained from building the prototype is used to develop the real system.
+       Prototyping can be viewed as a series of four steps, symbolically depicted in Fig. 7.6 wherein
+      Implementation and Maintenance phases followed by full-blown developments take place
+      once the prototype model is tested and found to be meet the users’ requirements. The generic
+      phases of this model are explained as follows:
+    o     Identify Information System Requirements: In the traditional approach, the system
+             requirements are to be identified before the development process starts. However,
+            under the prototype approach, the design team needs only fundamental system
+             requirements to build the initial prototype, the process of determining them can be less
+             formal and time-consuming than when performing traditional systems analysis.
+    o    Develop the Initial Prototype: The designers create an initial base model and give
+                    little  or no  consideration  to  internal  controls,  but  instead emphasize system
+              characteristics such as simplicity, flexibility, and ease of use. These characteristics
+            enable users to interact with tentative versions of data entry display screens, menus,
+              input prompts, and source documents. The users also need to be able to respond to
+            system prompts, make inquiries about the information system, judge response times
+               of the system, and issue commands.
+    o     Test and Revise: After finishing the initial prototype, the designers first demonstrate
+             the model to users and then give it to them to experiment and ask users to record their
+               likes and dislikes about the system and recommend changes. Using this feedback, the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                     7.21
+                            METHODOLOGIES
+
+            design team modifies the prototype as necessary and then resubmits the revised
+           model to system users for reevaluation. Thus the iterative process of modification and
+             reevaluation continues until the users are satisfied.
+
+
+       Requirements Definition                   Coding, Testing
+
+           Initial Investigation                            Implementation    Maintenance
+
+
+                              System Design
+
+                                   Fig. 7.6: Prototyping Model
+    o    Obtain User Signoff of the Approved Prototype: Users formally approve the final
+             version of the prototype, which commits them to the current design and establishes a
+              contractual obligation about what the system  will, and  will  not, do or provide.
+             Prototyping is not commonly used for developing traditional applications such as
+            accounts receivable, accounts payable, payroll, or inventory management, where the
+              inputs, processing, and outputs are well-known and clearly defined.
+        (a)    Strengths: Some of its strengths identified by the experts and practitioners include
+             the following:
+             It improves both user participation in system development and communication
+               among project stakeholders.
+             It is especially useful for resolving unclear objectives; developing and validating
+                   user requirements; experimenting with or comparing various design solutions,
+                     or investigating both performance and the human-computer interface.
+           Potential exists for exploiting knowledge gained in an early iteration as later
+                      iterations are developed.
+             It  helps  to  easily  identify,  confusing  or  difficult  functions and  missing
+                       functionality.
+             It enables the team to generate specifications for a production application.
+             It encourages innovation and flexible designs.
+             It  provides  for  quick  implementation  of an  incomplete,  but  functional,
+                      application.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+7.22           DIGITAL ECOSYSTEM AND CONTROLS
+
+             It typically results in a better definition of these users’ needs and requirements
+                   than does the traditional systems development approach.
+         A very short time period is normally required to develop and start experimenting
+                     with a prototype. This short time period allows system users to immediately
+                   evaluate proposed system changes.
+          Since system users experiment with each version of the prototype through an
+                      interactive process, errors are hopefully detected and eliminated early in the
+                  developmental  process. As  a  result,  the  information  system  ultimately
+                  implemented should be more reliable and less costly to develop than when the
+                       traditional systems development approach is employed.
+       (b)   Weaknesses: Some of the weaknesses identified by the experts and practitioners
+              include the following:
+          Approval process and control are not strict.
+          Incomplete or inadequate problem analysis may occur whereby only the most
+                   obvious and superficial needs will be addressed, resulting in current inefficient
+                     practices being easily built into the new system.
+          Requirements may frequently change significantly.
+           Identification of non-functional elements is difficult to document.
+          Designers may prototype too quickly, without sufficient upfront user needs
+                     analysis, resulting in an inflexible design with narrow focus that limits future
+                  system potential.
+          The Prototype may not have sufficient checks and balances incorporated.
+          Prototyping can only be successful  if the system users are willing to devote
+                       significant time to experimenting with the prototype and provide the system
+                   developers with change suggestions. The users may not be able or willing to
+                 spend the amount of time required under the prototyping approach.
+          The interactive process of prototyping causes the prototype to be experimented
+                     with quite extensively. Because of this, the system developers are frequently
+                  tempted to minimize the testing and documentation process of the ultimately
+                  approved information system. Inadequate testing can make the approved
+                  system error-prone, and inadequate documentation makes this system difficult
+                      to maintain.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                     7.23
+                            METHODOLOGIES
+
+          Prototyping may cause behavioural problems  with system  users. These
+                  problems include dissatisfaction by users  if system developers are unable to
+                 meet  all user demands  for improvements as  well as  dissatisfaction and
+                   impatience by users when they have to go through too many interactions with
+                    the prototype.
+               In  spite  of  above-listed  weaknesses,  to some  extent, systems  analysis and
+            development have been  greatly  improved by  the  introduction  of  prototyping.
+             Prototyping enables the user to take an active part in the systems design, with the
+              analyst acting in an advisory role. Prototyping makes use of the expertise of both the
+             user and the analyst, thus ensuring better analysis and design, and prototyping is a
+               crucial tool in that process.
+III.   The Incremental Model: The Incremental model is a method of software development where
+       the model is designed, implemented and tested incrementally (a little more is added each
+       time) until the product is finished. The product is defined as finished when it satisfies all of its
+      requirements. This model combines the elements of the waterfall model with the iterative
+      philosophy of prototyping. It is pictorially depicted in Fig 7.7.
+     The product is decomposed into a number of components, each of which is designed and
+        built separately (termed as builds). Each component is delivered to the client when  it is
+      complete. This allows partial utilization of the product and avoids a long development time.
+           It also creates a large initial capital outlay with the subsequent long wait avoided. This model
+       of development also helps to ease the traumatic effect of introducing a completely new
+      system all at once. A few pertinent features are listed as follows:
+    o    A  series  of  mini-waterfalls  are  performed, where  all phases  of  the  waterfall
+            development model are completed for a small part of the system, before proceeding
+               to the next increment.
+    o     Overall requirements are defined before proceeding to evolutionary, mini – Waterfall
+            development of individual increments of the system.
+    o    The initial software concept, requirement analysis, and design of architecture and
+            system  core  are  defined  using  the  Waterfall  approach,  followed by  iterative
+              Prototyping, which culminates in the installation of the final prototype (i.e. Working
+             system).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+7.24           DIGITAL ECOSYSTEM AND CONTROLS
+
+
+        Requirements
+                        Design
+                                   Implementation
+                               and Unit Testing                                                          Integration and
+                                               System Testing
+                                                                      Operation
+
+                                   Fig. 7.7: Incremental Model
+       (a)    Strengths: Some of its strengths identified by the experts and practitioners include
+             the following:
+           Potential exists for exploiting knowledge gained in an early increment as later
+                   increments are developed.
+          Moderate control is maintained over the life of the project through the use of
+                      written documentation and the formal review and approval/signoff by the user
+                 and information technology management at designated major milestones.
+          Stakeholders can be given concrete evidence of project status throughout the
+                            life cycle.
+             It is more flexible and less costly to change scope and requirements.
+             It helps to mitigate integration and architectural risks earlier in the project.
+             It allows the delivery of a series of implementations that are gradually more
+                  complete and can go into production more quickly as incremental releases.
+          Gradual implementation provides the ability to monitor the effect of incremental
+                  changes, and isolated issues and make adjustments before the organization is
+                    negatively impacted.
+       (b)   Weaknesses: Some of the weaknesses identified by the experts and practitioners
+              include the following:
+         When utilizing a series of mini-waterfalls for a small part of the system before
+                 moving on to the next increment, there is usually a lack of overall consideration
+                      of the business problem and technical requirements for the overall system.
+          Each phase of an iteration is rigid and does not overlap each other.
+          Problems may  arise  pertaining  to system  architecture because  not  all
+                   requirements are gathered up front for the entire software life cycle.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                     7.25
+                            METHODOLOGIES
+
+          Since some modules will be completed much earlier than others, well-defined
+                     interfaces are required.
+             It is difficult to demonstrate early success to management.
+IV.    Spiral Model: The Spiral model is a software development process combining elements of
+      both design and prototyping-in-stages. It tries to combine the advantages of top-down and
+      bottom-up concepts.  It combines the features of the prototyping model and the waterfall
+      model (given in Fig. 7.8). The spiral model is intended for large, expensive and complicated
+       projects. Game development is the main area where the spiral model is used and needed,
+       that is because of the size and the constantly shifting goals of those large projects. A list of
+       pertinent characterizing features includes the following:
+    o    The new system requirements are defined in as much detail as possible. This usually
+              involves interviewing a number of users representing all the external or internal users
+           and other aspects of the existing system.
+    o    A preliminary design is created for the new system. This phase is the most important
+              part of the “Spiral Model” in which all possible alternatives that can help in developing
+           a cost-effective project are analyzed and strategies are decided to use them. This
+           phase has been added especially in order to identify and resolve all the possible risks
+                in the project development. If risks indicate any kind of uncertainty in requirements,
+              prototyping may be used to proceed with the available data and find out possible
+              solutions in order to deal with the potential changes in the requirements.
+    o    A first prototype of the new system is constructed from the preliminary design. This is
+              usually a scaled-down system, and represents an approximation of the characteristics
+               of the final product.
+    o    A second prototype is evolved by a fourfold procedure by evaluating the first prototype
+                in terms of its strengths, weaknesses, and risks; defining the requirements of the
+           second prototype; planning and designing the second prototype; and constructing and
+              testing the second prototype.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+7.26           DIGITAL ECOSYSTEM AND CONTROLS
+
+
+                                      Fig. 7.8: Spiral Model
+      Refer below Table 7.2 for strengths and weaknesses of the Spiral Model.
+                      Table 7.2: Strengths & Weaknesses of Spiral Model
+                     Strengths                          Weaknesses
+      •      It enhances risk avoidance.           •      It is challenging to determine the exact
+      •      It  is  useful  in  helping  for  optimal       composition       of     development
+           development  of  a  given  software       methodologies used for every iteration
+              iteration based on project risk.             around the Spiral.
+      •      It   can    incorporate    Waterfall,  •      It may prove highly customized to each
+             Prototyping,    and     Incremental        project, and thus is quite complex and
+           methodologies as special cases in the         limits reusability.
+            framework, and provide guidance as  •   A  skilled  and  experienced  project
+              to which combination of these models      manager is required to determine how
+            best  fits a given software  iteration,        to apply it to any given project.
+           based on the type of project risk. For  •   No  established  controls   exist   for
+           example, a project with a low risk of      moving from one cycle to another cycle.
+            not meeting user requirements but a       Without  controls,  each  cycle  may
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                     7.27
+                            METHODOLOGIES
+
+            high   risk   of  missing  budget  or       generate more work for the next cycle.
+            schedule  targets  would  essentially  •   There are no  firm deadlines, cycles
+             follow a linear Waterfall approach for       continue  with  no  clear  termination
+           a given software iteration. Conversely,        condition leading to, the inherent risk of
+                       if the risk factors were reversed, the       not meeting the budget or schedule.
+             Spiral methodology  could  yield an
+               iterative prototyping approach.
+
+V.    Rapid Application Development (RAD) Model: Rapid Application Development (RAD)
+       refers to a type of software development methodology; which uses minimal planning in favor
+       of rapid prototyping. The planning of software developed using RAD is interleaved with writing
+       the software itself. The lack of extensive pre-planning generally allows software to be written
+     much faster, and makes it easier to change requirements. Key features include the following:
+    o    The key objective is fast development and delivery of a high-quality system at a
+               relatively low investment cost,
+    o     Attempts to reduce inherent project risk by breaking a project into smaller segments
+           and providing more ease-of-change during the development process.
+    o    Aims to produce high-quality systems quickly, primarily through the use of iterative
+             Prototyping (at any stage of development), active user involvement, and computerized
+            development tools. Graphical User Interface (GUI) builders, Computer Aided Software
+             Engineering  (CASE)  tools,  Database  Management  Systems  (DBMS),  Fourth
+             generation programming languages, Code generators and object-oriented techniques
+               etc.
+    o    Key emphasis is on fulfilling the business need while technological or engineering
+             excellence is of lesser importance.
+    o     Project control involves prioritizing development and defining delivery deadlines or
+             “timeboxes.” If the project starts to slip, the emphasis is on reducing requirements to
+                       fit the timebox, not on increasing the deadline.
+    o     Generally, includes Joint Application Development (JAD), where users are intensely
+             involved in system design, either through consensus building in structured workshops,
+              or through electronically facilitated interaction.
+    o     Active user involvement is imperative.
+    o      Iteratively produces production software, as opposed to a throwaway prototype.
+    o    Produces documentation necessary to facilitate future development and maintenance.
+    o     Standard systems analysis and design techniques can be fitted into this framework.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+7.28           DIGITAL ECOSYSTEM AND CONTROLS
+
+      Refer Table 7.3 for strengths and weaknesses of the RAD Model.
+                      Table 7.3: Strengths & Weaknesses of RAD Model
+                     Strengths                          Weaknesses
+      •   The   operational   version   of  an  •    Fast speed and lower cost may affect
+              application is available much earlier        adversely affect the system quality.
+            than with Waterfall, Incremental, or  •   The project may end up with more
+              Spiral frameworks.                         requirements  than  needed   (gold-
+      •    Because RAD  produces  systems         plating).
+           more  quickly and  with a business  •    Potential for feature creep where more
+             focus, this approach tends to produce       and more features are added to the
+           systems at a lower cost.                  system    over    the   course    of
+      •    Quick initial reviews are possible.           development.
+      •    Constant     integration     isolates  •       It may lead  to  inconsistent designs
+            problems and encourages customer         within and across systems.
+            feedback.                         •       It may call for violation of programming
+      •       It holds a great level of commitment        standards   related   to   inconsistent
+            from stakeholders, both business and       naming conventions and inconsistent
+              technical, as compared to Waterfall,       documentation,
+             Incremental,  or  spiral  frameworks.  •       It may call for a lack of attention to later
+           Users are seen as gaining more of a       system administration needs built into
+           sense of ownership of a system, while        the system.
+            developers are seen as gaining more                                            •    Formal reviews and audits are more              satisfaction     from     producing                                                                           difficult  to  implement  than   for  a             successful systems quickly.                                                    complete system.
+      •       It concentrates on essential system                                            •    Tendency for difficult problems to be            elements from a user viewpoint.                                                pushed to the future to demonstrate
+      •       It provides for the  ability to rapidly        early success to management.
+           change system design as demanded                                            •    Since some modules will be completed           by users.                                           much earlier than others, well–defined
+      •       It leads to a tighter  fit between user        interfaces are required.
+            requirements     and      system
+              specifications.
+
+VI.    Agile Model: This is an organized set of software development methodologies based on
+       iterative and incremental development, where requirements and solutions evolve through
+       collaboration between self-organizing, cross-functional teams. It promotes adaptive planning,
+       evolutionary development and delivery; time-boxed iterative approach and encourages rapid
+      and flexible response to change.  It  is a conceptual framework that promotes foreseen
+       interactions throughout the development life cycle. Agile Manifesto is based on the following
+      12 features:
+    o    Customer satisfaction by rapid delivery of useful software;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                     7.29
+                            METHODOLOGIES
+
+    o    Welcome changing requirements, even late in development;
+    o     Working software is delivered frequently (weeks rather than months);
+    o     Working software is the principal measure of progress;
+    o     Sustainable development, able to maintain a constant pace;
+    o     Close, daily cooperation between business people and developers;
+    o     Face-to-face conversation is the best form of communication (co-location);
+    o     Projects are built around motivated individuals, who should be trusted;
+    o     Continuous attention to technical excellence and good design;
+    o      Simplicity;
+    o     Self-organizing teams; and
+    o     Regular adaptation to changing circumstances.
+      Refer Fig. 7.9 to know about strengths and weaknesses of the Agile Model.
+
+        Strengths
+       •    Agile methodology has the concept of an adaptive team, which enables to respond to the
+            changing requirements.
+       •   The team does not have to invest time and efforts and finally find that by the time they
+              delivered the product, the requirement of the customer has changed.
+       •   Face to face communication and continuous inputs from customer representative leaves a
+                     little space for guesswork.
+       •  The documentation is crisp and to the point to save time.
+       •  The end result is generally the high quality software in least possible time duration and
+               satisfied customer.
+
+       Weaknesses
+       •     In case of some software deliverables, especially the large ones,  it is difficult to assess
+              the efforts required at the beginning of the software development life cycle.
+       •    There is lack of emphasis on necessary designing and documentation.
+       •     Agile increases potential threats to business continuity and knowledge transfer. By nature,
+               Agile projects are extremely light on documentation because the team focuses on verbal
+            communication with the customer rather than on documents or manuals.
+       •     Agile requires more re-work and due to the lack of long-term planning and the lightweight
+            approach to architecture, re-work is often required on Agile projects when the various
+            components of the software are combined and forced to interact.
+       •    The project can easily get taken off track if the customer representative is not clear about
+               the final outcome.
+       •     Agile lacks the attention to outside integration.
+
+                      Fig. 7.9: Strengths and Weaknesses of Agile Model
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+7.30           DIGITAL ECOSYSTEM AND CONTROLS
+
+SUMMARY
+Data comprises of raw facts and information is data transformed into meaningful and useful form.
+The valuable information helps the organization to achieve its goals. Information systems are the
+set of interrelated elements that are used to collect, manipulate, store and disseminate data and
+information. Feedback is the output which is used to make modifications to input or processing
+activities. The development of the system is the key element for most organization that measure and
+control activities. The various key considerations are discussed for the selection of the method of
+development. The methods of development such as Waterfall, Prototyping, Spiral, Rapid Application
+Development (RAD) method, and Agile method are described along with their advantages and
+disadvantages.
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    Which of the following is true about Spiral Model?
+       (a)       It combines features of the prototyping model and waterfall model.
+       (b)       It combines features of the prototyping model and RAD model.
+        (c)       It combines features of the waterfall model and RAD model.
+       (d)       It is intended for small and simple projects.
+2.     During System Acquisition in SDLC, the top management of an enterprise should establish
+       acquisition standards that address the security and reliability issues as per current state-of-
+       the art development standards. Which of the following is not considered while focusing on
+       acquisition standards?
+       (a)    Ensuring security, reliability, and functionality already built into a product.
+       (b)    Ensuring managers’ complete reviews of appropriate vendor, contract and licensing.
+        (c)    Request  for proposals  soliciting bids when acquiring  off-the-shelf or  third-party
+              software.
+       (d)   To select the programming techniques and languages  to be used  for systems
+            development.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+SYSTEMS ACQUISITION AND DEVELOPMENT                                                                     7.31
+                            METHODOLOGIES
+
+3.     Softtech, a software development company, has clients in many fields like pharmaceuticals,
+       educational institutes, health industry, etc. The company follows an approach to develop the
+       software by releasing multiple versions, wherein the product is decomposed into the number
+       of components and each component is delivered to client on its completion. Identify the
+      System development approach adopted by Softtech.
+        (a)   The Waterfall Model
+        (b)   The Prototyping Model
+        (c)   The Spiral Model
+        (d)   The Incremental Model
+4     Amongst various System Development Methodologies, a software development model that
+      combines iterative and incremental methods is _______.
+       (a)    Spiral
+       (b)    Agile
+        (c)    Prototype
+       (d)    Rapid Application Development (RAD)
+5.    Which of the following is not a strength of RAD model?
+       (a)    Possibility of quick initial review.
+       (b)    Constant integration isolates problems and encourages customer feedback.
+        (c)    Provides the ability to rapidly change system design as demanded by users.
+       (d)   Enhances the risk avoidance.
+
+ANSWERS/SOLUTIONS
+     1.         (a)        2.        (d)        3.        (d)        4.        (b)        5.       (d)
+
+
+© The Institute of Chartered Accountants of India

@@ -1,0 +1,2839 @@
+Source PDF: 03_Audit_Assurance_Ethics/004 - Chapter 4- Materiality, Risk Assessment and Internal Control - 74937bos60526-cp4.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\03_Audit_Assurance_Ethics\004 - Chapter 4- Materiality, Risk Assessment and Internal Control - 74937bos60526-cp4.pdf
+Extracted at: 2026-05-31T10:21:43+05:30
+Pages: 71
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER           4
+         7
+MATERIALITY, RISK
+ASSESSMENT AND
+INTERNAL CONTROL
+
+
+                           LEARNING OUTCOMES
+ After studying this chapter, you will be able to:
+   Understand the concept of Risk Based Audit, Internal Control and Risk
+     Assessment.
+    Identify the components of Audit Risk and Internal Control.
+   Learn to review the systems of Internal Control.
+  Know  the  Internal  Control  System-Nature,  Scope,  Objective  and
+      Structure.
+   Gain knowledge of reporting to clients on Internal Control weaknesses.
+  Know the framework of Reporting of Internal Control.
+    Practicality of above concepts using examples and case study.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+4.2          ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+  CHAPTER OVERVIEW
+
+
+                                          Audit Risk and
+                                           Risk Based
+                                               Audit
+                     Reporting to                                  Internal Control
+                          clients on                          System - Nature,
+                       Internal Control                          Scope, Objective
+                   Weaknesses                          and Structure
+
+
+          Framework on         MATERIALITY, RISK                                                            Components of             Reporting of        ASSESSMENT AND                                                                                  Internal Control            Internal Controls       INTERNAL CONTROL
+
+
+                       Internal Control                          Review of the
+                    and Risk                             System of
+                   Assessment                                 Internal Controls
+                                      Manner of
+                                           Evaluation of
+                                               Internal Control
+                                       System
+
+
+CA. Y, auditor of a company for last three years, is set to assess audit risk for the engagement.
+Before he proceeded, a question struck his mind. Is such an exercise useful for him practically?
+How assessing audit risk is useful for an auditor every year? He seemed to be caught in SALY
+approach (Same as last year). Turning to a webinar on the topic helped him illuminate his insight.
+Not only assessing audit risk is mandatory under Standards on Auditing,  it leads to audit
+effectiveness and audit quality. Besides, it helps auditors to plan audits in a better way.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL               4.3
+
+By understanding the company and its internal control, auditor can identify those areas which are
+prone to misstatements whether due to errors or frauds. The risk assessment need not be same
+as of last year due to new developments like change in laws, change in business model of the
+company or due to changes in industry in which the client company operates or due to other
+factors.
+He also learnt how understanding business risks of the company and strategy formulated by the
+company to deal with business risks influences audit risk. Where the company has an established
+plan to deal with business risks peculiar to it, auditor gains comfort regarding management’s
+ability to deal with such business risks by evaluating such plans.
+Evaluation of controls of a company helps auditor in zeroing in those areas where controls are
+deficient. It also aids in discovering those areas where controls may be missing and non-existent.
+If controls are not effective or are missing, risk of material misstatement also increases due to
+increase in control risk. By using needed risk assessment procedures like inquiries, inspection
+and observation, auditors can understand areas of risks of material misstatement.  It would
+ultimately lead to performing an effective and qualitative audit.
+What happens when an auditor identifies significant deficiencies in internal control system of the
+company? Besides having an impact on audit  risk, auditor has also a responsibility to
+communicate such deficiencies to the management, to those responsible for governing the
+company.  It may induce those sitting in board rooms to take note of the same and initiate
+corrective actions. Besides, such communications also end up saving auditor’s skin. It is due to
+the reason that he has already taken pre-emptive steps in this regard. Significant deficiencies
+have already been communicated to management and this could come to defence of auditor later.
+
+
+      1.  MATERIALITY & RISK ASSESSMENT
+As per SA 320, the concept of materiality is applied by the auditor both in planning and performing
+the audit, and in evaluating the effect of identified misstatements on the audit and of uncorrected
+misstatements, if any, on the financial statements and in forming the opinion in the auditor’s report.
+Materiality and audit risk are considered throughout the audit, in particular, when identifying and
+assessing the risks of material misstatement, determining the nature, timing and extent of further
+audit procedures; and evaluating the effect of uncorrected misstatements,  if any, on the financial
+statements and in forming the opinion in the auditor’s report.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+4.4          ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+Risk assessment assesses the level of risk in the various business processes. Risk assessment
+focuses on the business environment, regulatory environment, organisation structure, organizational
+and business environmental changes and specific concerns of management and the audit committee
+to determine the areas of greatest risk.
+
+
+1.1  Identification of Risks
+Audit risk is the risk of expressing an inappropriate audit opinion on financial statements that are
+materially misstated.
+
+
+                               Fig.: Risks of Material Misstatement∗
+1.2  Audit Risk Components
+The major components of audit risk are described in the Table below
+
+
+∗ Source : Source : cjess1 audit class pln - WordPress.com
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL               4.5
+
+
+    Nature               Description                    Commentary
+ Inherent Risk   Susceptibility of an assertion to a  These are the business and other risks that
+                 misstatement   that   could  be   arise from the entity’s objectives, nature of
+                   material,   individually  or  when  operations and  industry,  the  regulatory
+                aggregated       with       other  environment in which  it operates and  its
+                 misstatements,  assuming   that   size and complexity. The risks of material
+                  there are no related controls.       misstatement will vary based on the nature
+                  Inherent risk is addressed at both   of  the  account  balance  or  class  of
+                  the financial statement level and   transaction.
+                    at the assertion level.              Risks of particular concern to the auditor
+                 For    example,    technological  might include:
+                developments  might  make  a   •   Complex calculations which could be
+                    particular    product    obsolete,       misstated;
+                 thereby causing inventory to be   •    High value inventory;
+               more        susceptible         to                                                                         •    Accounting estimates that are subject
+                 overstatement.                                                                 to      significant     measurement
+                                                              uncertainty;
+                                                                         •    Lack of sufficient working capital to
+                                                        continue operations;
+                                                                         •   A declining or volatile industry with
+                                            many business failures; and
+                                                                         •    Technological   developments   that
+                                                       might  make  a  particular  product
+                                                           obsolete.
+ Control  Risk  Risk  that  the  entity’s  internal  The entity should identify and assess its
+ (Do   internal   control system will not prevent, or  business and other risks (such as fraud)
+ controls    in   detect and  correct on a  timely  and   respond   by    designing   and
+ place            basis, a misstatement that could  implementing a system of internal control.
+ mitigate  the  be material, individually or when   Entity   level  controls  such  as  board
+ inherent       aggregated       with       other   oversight,  IT general  controls, and HR
+ risks?)         misstatements.                       policies are pervasive  to  all  assertions
+                                              whereas activity level controls
+                                                        generally, relate to specific assertions.
+                                      Some control risk will always exist because
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+4.6          ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+                                                           of the inherent limitations of any internal
+                                                         control system.
+                                           The auditor is required to understand the
+                                                               entity’s   internal   control  and  perform
+                                                 procedures to assess the risks of material
+                                                 misstatement at the assertion level.
+ Detection       This is the risk that the auditor will  The  auditor  identifies  assertions where
+ Risk            not  detect a misstatement  that   there are risks of material misstatement
+                   exists in an assertion that could be  and  concentrates  audit  procedures  on
+                   material,  either  individually  or  those areas.
+              when  aggregated   with   other   In designing and evaluating the results of
+                 misstatements.  The  acceptable  performing procedures, the auditor should
+                    level of detection risk for a given  consider the possibility of:
+                    level of audit risk bears an inverse                                                                         •    Selecting  an   inappropriate   audit
+                   relationship to the risks of material                                                        procedure;
+                 misstatement  at  the  assertion
+                                                                         •    Misapplying  an  appropriate  audit                    level
+                                                        procedure; or
+                                                                         •    Misinterpreting the  results from an
+                                                              audit procedure.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL               4.7
+
+Mathematically Audit Risk (AR) can be expressed as a product of Inherent Risk (IR), Control Risk
+(CR) and Detection Risk (DR), i.e. AR = IR x CR x DR
+Audit Risk has two components: Risk of material misstatement (the risk that the financial
+statements contain a material misstatement Prior to Audit) and detection risk (the risk that the auditor
+will not be able to detect such misstatement).
+The relationship can be defined as follows.
+                   Audit Risk = Risk of Material Misstatement X Detection Risk
+ Risk of material Misstatement: - Risk of material misstatement is anticipated risk that a
+ material misstatement may exist in financial statement before start of the audit. It has two
+ components inherent risk and control risk. The relationship can be defined as
+       Risk of material Misstatement = Inherent risk X Control risk
+ Detection risk: It is a risk that a material misstatement remained undetected even if all
+ audit procedures applied.
+  It should be noted that the combined level of Inherent Risk and Control Risk is inversely related
+ with Detection Risk, and Audit Materiality is also inversely related with Audit Risk.
+
+                                                                    Objective of the Audit to
+                        Two key elements of            reduce audit risk to an         Audit Risk                                    Audit Risk:                acceptably low level, the
+                                                                             auditor has to:
+
+         Risk of expressing an             The risk that the financial
+           inappropriate audit                statements contain a material            Assess the risks of
+          opinion when FS are               misstatement prior to audit               material misstatement;
+           containing material                           • (inherent and control risk);                     and
+             misstatement.
+
+                                     The risk that the auditor will
+                                          not detect such a
+                                         misstatement                                Limit the detection risk
+                                                                      • (detection or engagement risk)
+
+
+The objective of the audit is to reduce this audit risk to an acceptably low level. This may be achieved
+by performing procedures that respond to the assessed risks at the financial statement, class of
+transactions, account balance and assertion levels. Number of embedded assertions are included
+in management’s representations about the financial statements. These relate to the recognition,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+4.8          ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+measurement, presentation and disclosure of the various elements (amounts and disclosures) in the
+financial statements.
+
+                1. Management of ABC Ltd. may assert to the auditor that the sales balance in the
+             accounting records contains all the sales transactions (completeness assertion), the
+              transactions took place and are valid (occurrence assertion), and transactions have
+   been properly recorded in the accounting records and in the appropriate accounting period
+   (accuracy and cut-off assertion).
+
+SA 315, “Identifying and Assessing the Risks of Material Misstatement Through Understanding the
+Entity and Its Environment” categorises the types of assertions used by the auditor to consider the
+different types of potential misstatements that may occur, as follows:
+
+  Assertions           (i) Occurrence—                       transactions and events that have been                                                                  recorded have occurred and pertain to the
+  about classes                                                         entity.
+   of                         (ii) Completeness—                         all transactions and events that should
+  transactions                                            have been recorded have been recorded.
+                                                           amounts and other data relating to  and events          (iii) Accuracy—
+   for the period                                             recordedbeen recordedtransactionsappropriately.and events have
+  under audit:                                                   transactions and events have been                           (iv) Cut-off—                                                                  recorded in the correct accounting period.
+                         (v) Classification-                     transactions and events have been                                                                  recorded in the proper accounts.
+
+  Assertions           (i) Existence—                    assets, liabilities, and equity interests exist.
+  about account
+  balances at                                             the entity holds or controls the rights to assets,                                  (ii) Rights and                                                       and liabilities are the obligations of the entity.  the period                   obligations—  end:
+                                  (iii) Completeness—                all assets,  liabilities and equity interests that                                                           should have been.
+
+                                                                   assets,  liabilities,  and  equity  interests  are
+                           (iv) Valuation and               included in the FS at appropriate amounts and
+                    allocation—                   any    resulting    valuation   or    allocation                                                             adjustments are appropriately recorded.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL               4.9
+
+  Assertions           (i) Occurrence and rights and       disclosed events, transactions, and other                                                                      matters have occurred and pertain to the
+  about            obligations —                                entity.
+  presentation                                                                     all disclosures that should have been                                 (ii) Completeness—
+  and                                                             included in the financial statements have                                                             been included.
+   disclosure:                                 (iii) Classification and                   financial information is appropriately                                                                   presented and described, and                   understandability—                   disclosures are clearly expressed.
+                           (iv) Accuracy and valuation—        financial and other information are                                                                      disclosed fairly and at appropriate
+                                                                 amounts.”
+
+Auditors are required to assess the risks of material misstatement at two levels. The first is at the
+overall financial statement level, which refers to risks of material misstatement that relate pervasively
+to the financial statements as a whole and potentially affect many assertions.
+
+             2.  If the top accountant is not competent enough for the assigned tasks,  it is quite
+            possible that errors could occur in the financial statements. However, the nature of
+          such errors will not often be confined to a single account balance, transaction stream
+  or disclosure. In addition, the error is not likely be confined to a single assertion such as the
+ completeness of sales. It could easily relate to other assertions such as accuracy, existence and
+  valuation.
+
+The second relates to risks identifiable with specific assertions at the class of transactions, account
+balance, or disclosure level. This means that for each account balance, class of transactions and
+disclosure, an assessment of risk (such as high, moderate, or low) should be made for each
+individual assertion (C, E, A, and V in the diagram below) being addressed.
+
+             3. While considering the valuation assertion, the auditor could assess the risk of error
+              in payables as low; however, for inventory where obsolescence is a factor, the auditor
+          would assess the valuation risk as high. Another example would be where the risks of
+ material misstatement due to completeness (missing items) in the inventory balance are low, but
+ high in relation to the sales balance.
+
+The difference between assessing risk at the overall financial statement level and the
+assertion level is illustrated (in partial form only) below.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+4.10         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+1.3  Steps for Risk Identification
+    Assess the significance of the assessed risk, impact of its occurrence and also revise the
+       materiality accordingly for the specific account balance.
+    Determine the likelihood for assessed risk to occur and its impact on auditing procedures.
+    Document the assertions that are effected.
+    Consider the impact of the risk on each of the assertions.
+    (completeness, existence, accuracy, validity, valuation and presentation) relevant to the
+      account balance, class of transactions, or disclosure.
+     Identify the degree of significant risks that would require separate attention and response
+      by the auditor. Planned audit procedures should directly address these risks.
+    Enquire and document the management’s response.
+    Consider the nature of the internal control system in place and its possible effectiveness in
+       mitigating the risks involved. Ensure the controls:
+       Routine in nature (occur daily) or periodic such as monthly.
+       Designed to prevent or detect and correct errors.
+       Manual or automated.
+    Consider any unique characteristics of the risk.
+    Consider the existence of any particular characteristics (inherent risks) in the class of
+       transactions, account balance or disclosure that need to be addressed in designing further
+       audit procedures.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.11
+
+    Examples could include high value inventory, complex contractual agreements, absence of
+      a paper trail on certain transaction streams or a large percentage of sales coming from a
+       single customer.
+   Possible potential misstatements - Indicators
+
+
+      Completeness      Existence               Recording         Cut-Off
+       •Transactions not      •Fictitious or               •Source            Procedures
+         identified.            unauthorised              documents          •Transactions that
+       •Source                transactions entered on      captured             occur in one
+       documents not        source documents.            inaccurately.          period are
+        prepared.           •Source documents          •Processing of         recorded in
+       •Source                overstated.                  transactions is        another period.
+       documents not       •Transactions duplicated       inaccurate.
+        captured.           on source documents.       •Inaccurate
+       •Rejected source     •Capture of source           adjustments
+       documents not       documents duplicated.     made in
+        represented          •Invalid source                subsidiary
+                                                               ledgers.                          documents captured on
+                                subsidiary ledgers.
+
+
+   ILLUSTRATION 1
+   Background: During the process of extracting the exception reports, the auditors noted
+   numerous purchase entries without valid purchase orders.
+   Analysis: In terms of percentage, about 40% of purchases were made without valid purchase
+   orders and also few purchase orders were validated after the actual purchase. Also there was
+   no reconciliation between the goods received and the goods ordered.
+   Assertions: Validity of purchases
+   Pervasive/Account Balance Level: Account Balance level
+   Account Balance(s) affected : (i) Purchases, (ii) Account Payable
+   Audit Procedures: The following procedures may address the validity of the account balance:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+4.12         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+     •     Make a selection of the purchases, review correspondence with the vendors, purchase
+           requisitions (internal document) and reconciliations of their accounts.
+     •     Review Vendor listing along with the ageing details. Follow up the material amounts paid
+          before the normal credit period and analyse the reasons for exceptions.
+     •     Meet with the company's Purchase  officer and obtain responses  to our inquiries
+          regarding the purchases made without purchase orders.
+     •      Discuss the summary of such issues with the client.
+
+
+     2.  RISK-BASED AUDIT APPROACH
+Audit should be risk-based or focused on areas of greatest risk to the achievement of the audited
+entity’s objectives. Risk-based audit (RBA) is an approach to audit that analyzes audit risks, sets
+materiality thresholds based on audit risk analysis and develops audit programmes that allocate a
+larger portion of audit resources to high-risk areas.
+The auditor does not normally need to perform specific audit procedures on all areas of audit. He
+only needs to design audit programmes and procedures on areas earlier identified as major risks
+that could result in the financial statements being materially misstated.
+Risk Based Audit is an essential element of financial audit- both in the attest audit of the financial
+statements and in the audit of financial systems and transactions including evaluation of internal
+controls.  It focuses primarily on the identification and assessment of the financial statement
+misstatement risks and provides a framework to reduce the impact on the financial statements of
+these identified risks to an acceptable level before rendering an opinion on the financial statements.
+It also provides indicators of risks as a basis of opportunity for improvement of auditee risk
+management and control processes. This affords an opportunity to the auditee to improve  its
+operations from recommendations on risks that do not have a current impact on the financial
+statements but impact the audited entity’s operational strategies and performance over the longer
+term.
+In the context of performance audit, it is the risk to delivery of an activity or scheme or programme
+of the  entity with economy,  efficiency and effectiveness. Awareness  of areas  that puts the
+programme or resources at risk from the point of view of economy, efficiency and effectiveness helps
+focus audit attention on them. The risk analysis provides a framework for assurance in performance
+auditing.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.13
+
+2.1  Audit Risk Analysis
+The auditor should perform an analysis of the audit risks that impact on the auditee before
+undertaking specific audit procedures. Risk assessment is a subjective process.  It is part of the
+professional judgment of the auditor and of the particular circumstances. It is the risk that the auditor
+may unknowingly fail to appropriately modify his opinion on financial statements that are materially
+misstated.
+
+  Audit risks are brought about by error and fraud:
+ ♦   Error is an unintentional mistake resulting from omission, as when legitimate transactions
+       and/or balances are excluded from the financial statements; or by commission, as when
+      erroneous transactions and/or balances are included in the financial statements.
+ ♦   Fraud is an intentional misstatement in the accounting records or supporting documents
+      from which the financial statements are prepared.  It  is intended to deceive financial
+      statement users or to conceal misappropriations.
+
+The auditor has the responsibility to plan and perform the audit to obtain reasonable assurance
+about whether the financial statements are free of material misstatements, whether caused by error
+or fraud.
+An error risk may arise from an error in principle, estimate, critical information processing, financial
+reporting process or disclosure.
+Fraud risk involves manipulation, falsification of accounting records, or misrepresentation in the
+financial statements of events, transactions or other significant information, or misapplication of
+accounting principles or misappropriation of funds.
+2.2  General Steps in the Conduct of Risk Based Audit
+The auditor’s objective in a risk-based audit is to obtain reasonable assurance that no material
+misstatements whether caused by fraud or errors exist in the financial statements.
+This involves the following three key steps:
+•     Assessing the risks of material misstatement in the financial statements
+•     Designing and performing further audit procedures that respond to assessed risks and reduce
+       the risks of material misstatements in the financial statements to an acceptably low level; and
+•      Issuing an appropriate audit report based on the audit findings.
+The risk-based audit process is presented in three distinct phases:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+4.14         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+      Risk assessment.
+      Risk response; and
+       Reporting.
+
+2.2.1. Risk Assessment
+The risk assessment phase of the audit involves the following steps:
+•     Performing client acceptance or continuance procedures;
+•     Planning the overall engagement;
+•     Performing risk assessment procedures to understand the business and identify inherent and
+       control risks;
+•      Identifying  relevant  internal  control  procedures  and  assessing   their  design  and
+      implementation (those controls that would prevent material misstatements from occurring or
+       detect and correct misstatements after they have occurred);
+•     Assessing the risks of material misstatement in the financial statements;
+•      Identifying the significant risks that require special audit consideration and those risks for
+      which substantive procedures alone are not sufficient;
+•     Communicating any material weaknesses in the design and implementation of internal control
+       to management and those charged with governance; and
+•     Making an informed assessment of the risks of material misstatement at the financial
+      statement level and at the assertion level.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.15
+
+2.2.2. Risk response
+This phase of the audit is to design and perform further audit procedures that respond to the
+assessed risks of material misstatement and will provide the evidence necessary to support the audit
+opinion.
+
+
+  Some of the matters the auditor should consider when planning the audit procedures
+   include:
+   •     Assertions that cannot be addressed by substantive procedures alone. This can occur
+         where there is highly automated processing of transactions with  little or no manual
+           intervention.
+   •     Existence of internal control that,  if tested, could reduce the need/scope for other
+          substantive procedures.
+   •    The potential for substantive analytical procedures that would reduce the need/scope for
+          other types of procedures.
+   •    The need to incorporate an element of unpredictability in procedures performed.
+   •    The need to perform further audit procedures to address the potential for management
+          override of controls or other fraud scenarios.
+   •    The need to perform specific procedures to address “significant risks” that have been
+            identified.
+
+Audit procedures designed to address the assessed risks could include a mixture of:
+•      Tests of the operational effectiveness of internal control; and
+•      Substantive procedures such as tests of details and analytical procedures.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+4.16         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+               4. Before the conclusion of the audit, based on the results of substantive procedures
+           and other audit evidence obtained by the auditor, the auditor should consider whether
+             the assessment of control risk is confirmed. In case of deviations from the prescribed
+   accounting and internal control systems, the auditor would make specific inquiries to consider
+    their implications. Where, on the basis of such inquiries, the auditor concludes that the
+   deviations are such that the preliminary assessment of control risk is not supported, he would
+  amend the same unless the audit evidence obtained from other tests of control supports that
+   assessment. Where the auditor concludes that the assessed level of control risk needs to be
+   revised, he would modify the nature, timing and extent of his planned substantive procedures.
+
+2.2.3. Reporting
+
+
+The final phase of the audit is to assess the audit evidence obtained and determine whether it is
+sufficient and appropriate to reduce the overall Audit Risk to an acceptably low level.
+It is important at this stage to determine:
+•          If there had been a change in the assessed level of risk;
+•     Whether conclusions drawn from work performed are appropriate; and
+•          If any suspicious circumstances have been encountered.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.17
+
+Any additional risks should be appropriately assessed, and further audit procedures performed as
+required.
+When all procedures have been performed and conclusions reached:
+•      Audit findings should be reported to management and those charged with governance; and
+•     An audit opinion should be formed, and a decision made on the appropriate wording for the
+       auditor’s report.
+
+TEST YOUR UNDERSTANDING 1
+CA. R is conducting statutory audit of a Divisional office (DO) of a public sector insurance company.
+On going through delegation of powers laid down by company’s head office,  it is noticed that
+surveyors in claims under property insurance policies beyond estimated amounts of `30 lac are to
+be appointed by  Divisional Claims Committee (DCC). However, on going through surveyor
+appointment details of 10 such claims during the year, 5 instances have come to his notice where
+above delegation of powers has not been followed and appointments were made by Divisional
+manager in place of DCC.
+In the beginning, the auditor had assessed risks of material misstatement to be low. Describe why
+above finding would change auditor’s assessment in relation to above.
+
+
+TEST YOUR UNDERSTANDING 2
+You have recently been appointed as an auditor of NGO working  in the  field of “upholding
+democracy” for the first time. The last year accounts of NGO were unaudited and its activities were
+limited at a small scale. However, it is only in the current year that NGO has received substantial
+donations including foreign funds. The said NGO is also crowdfunding its donations. The government
+has now legislative power to cancel FCRA certificate of NGO. Since  it is working in field which
+encompasses political and social fields, accusations and counter-accusations are flying thick and
+fast.
+What factors you may consider for assessing audit risk?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+4.18         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+      3.  INTERNAL CONTROL SYSTEM  - NATURE, SCOPE,
+       OBJECTIVES AND STRUCTURE
+Internal controls are a system consisting of specific policies and procedures designed to provide
+management with reasonable assurance that the goals and objectives it believes important to the
+entity will be met.
+                                      "Internal Control System" means all the policies and procedures
+                                      (internal controls) adopted by the management of an entity to
+                                    assist in achieving management's objective of ensuring, as far as
+                                    practicable, the orderly and efficient conduct of  its business,
+                                   including adherence to management policies, the safeguarding
+of assets, the prevention and detection of fraud and error, the accuracy and completeness of the
+accounting records, and the timely preparation of reliable financial information.
+SA 315 defines the system of internal control as the process designed, implemented and
+maintained by those charged with governance, management and other personnel to provide
+reasonable assurance about the achievement of an entity’s objectives with regard to
+reliability of financial reporting, effectiveness and efficiency of operations, safeguarding of
+assets, and compliance with applicable laws and regulations.
+To state whether a set of financial statements presents a true and fair view,  it is essential to
+benchmark and check the financial statements for compliance with the framework. The Accounting
+Standards specified under the Companies Act, 2013 is one of the criteria constituting the financial
+reporting framework on which companies prepare and present their financial statements under the
+Act and against which the auditors evaluate if the financial statements present a true and fair view
+of the state of affairs and the results of operations of the company in an audit of the financial
+statements carried out under the Act.
+The auditor should obtain an understanding  of the control environment  sufficient  to assess
+management's attitudes, awareness and actions regarding internal controls and their importance in
+the entity. Such an understanding would also help the auditor to make a preliminary assessment of
+the adequacy of the accounting and internal control systems as a basis for the preparation of the
+financial statements, and of the likely nature, timing and extent of audit procedures.
+Ordinarily, development of the overall audit plan does not require an understanding of control
+procedures for every financial statement assertion in each account balance and transaction class.
+An auditor’s judgement as to what is sufficient and appropriate audit evidence is affected by the
+degree of risk of misstatement. The auditor should obtain audit evidence through tests of control to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.19
+
+support any assessment of control risk which is less than high. The lower the assessment of control
+risk, the more evidence the auditor should obtain that accounting and internal control systems are
+suitably designed and operating effectively.
+When obtaining audit evidence about the effective operation of internal controls, the auditor
+considers :
+
+      how   they   were        the   consistency   with       by whom they were
+        applied,                which they were applied        applied.
+                                 during the period and
+
+The concept of effective operation recognises that some deviations may have occurred. Deviations
+from prescribed controls may be caused by such factors as changes in key personnel, significant
+seasonal fluctuations in volume of transactions and human errors. When deviations are detected
+the auditor makes specific inquiries regarding these matters, particularly, the timing of staff changes
+in key internal control functions. The auditor then ensures that the tests of control appropriately
+cover such a period of change or fluctuation.
+Based on the results of the tests of control, the auditor should evaluate whether the internal controls
+are designed and operating as contemplated in the preliminary assessment of control risk. The
+evaluation of deviations may result in the auditor concluding that the assessed level of control risk
+needs to be revised. In such cases, the auditor would modify the nature, timing and extent of planned
+substantive procedures.
+             5. The auditor might obtain audit evidence about the proper segregation of duties by
+           observing the individual who applies a control procedure or by making inquiries of
+            appropriate personnel. However, audit evidence obtained by some tests of control,
+           such as observation, pertains only to the point in time at which the procedure was
+ applied. The auditor may decide, therefore, to supplement these procedures with other tests of
+ control capable of providing audit evidence about other periods of time.
+The auditor should consider whether the internal controls were in use throughout the period.   If
+substantially different controls were used at different times during the period, the auditor would
+consider each separately. A breakdown in internal controls for a specific portion of the period
+requires separate consideration of the nature, timing and extent of the audit procedures to be applied
+to the transactions and other events of that period.
+The following are the Nature, Scope, Objectives and Structure of an Internal Control System:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+4.20         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+3.1  Nature of Internal Control
+A set of internally generated policies and procedures adopted by the management of an enterprise
+is a prerequisite for an organisations efficient and effective performance.  It is thus, a primary
+responsibility of every management to create and maintain an adequate system of internal control
+appropriate to the size and nature of the business entity.
+ Internal control is a process/set of processes designed to facilitate and support the
+ achievement of business objectives. Any system of internal control is based on a
+ consideration of significant risks in operations, compliance and financial reporting.
+ Objectives such as improving business effectiveness are included, as are compliance and
+ reporting objectives.
+
+3.2  Scope of Internal Controls
+The scope  of  internal  controls extends beyond mere accounting  controls and  includes  all
+administrative controls concerned with the decision  - making process leading to managements
+authorization of  transaction, such  controls  include, production method, time and motion study,
+pricing policies, quality control, work standard, budgetary control, policy appraisal, quantitative
+controls etc.
+In an independent financial audit, the auditor  is primarily concerned with those policies and
+procedures having a bearing on the assertions underlying the financial statements. These comprise
+primarily controls relating to safeguarding of assets, prevention and detection of fraud and error,
+accuracy and completeness of accounting records and timely preparation of reliable financial
+information. Administrative controls, on the other hand, have only a remote relationship with financial
+records and the auditor may evaluate only those administrative controls which have a bearing on
+the reliability of the financial records.
+The fundamental, therefore, is that effective internal control is a process effected by people that
+supports the organization in several ways, enabling  it to provide reasonable assurance regarding
+risk and to assist in the achievement of objectives.
+Fundamental to a system of internal control is that it is integral to the activities of the company, and
+not something practiced in isolation.
+
+             6.  If production statistics were used as a basis for an analytical procedure, the
+             controls to ensure the accuracy of such data would be relevant.
+                    If non-compliance with certain laws and regulations has a direct and material effect
+  on the financial statements, the controls for detecting and reporting on such non-compliance
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.21
+
+  would be relevant.
+
+                               Facilitates the effectiveness and efficiency of operations.
+
+                        Helps ensure the reliability of internal and external financial                      CONTROL                                      reporting.
+                           SYSTEM:               Assists compliance with laws and regulations.
+                         INTERNAL                               Helps safeguarding the assets of the entity.
+
+3.3  Objectives of Internal Control System
+The objectives of internal control system are determined by the management, after considering the
+nature of business, scale operations, the extent of professionalism of the management etc.
+
+ The objectives of internal controls relating to the accounting system are:
+  (i)     Transactions are executed through general or specific management authorization.
+  (ii)     All  transactions are promptly recorded  in an  appropriate manner  to permit the
+        preparation of financial information and to maintain accountability of assets.
+  (iii)   Assets and records are safeguarded from unauthorized access, use or disposition.
+  (iv)   Assets are verified at reasonable intervals and appropriate action is taken with regard
+         to the discrepancies.
+
+Precisely, the control objectives ensure that the transactions processed are complete, valid and
+accurate. The basic accounting control objectives which are sought  to be achieved by any
+accounting control system are:
+
+                            Ensure all transactions are
+
+
+                                                                      Properly
+                             Properly    Recorded                                                         Properly     Classified      Properly Recorded      Real                           Valued       Timely                                                   Posted       and      Summarized.
+                                                                   Disclosed
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+4.22         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+If the response to all the above answer is positive, the auditor would be justified in limiting his account
+balance tests considerably.
+In the case of excellent companies, where in a system a particular control is found to be deficient,
+audit attention can be focused on the areas where basic accounting control objectives are not being
+adhered to.
+
+             7. In case,  if  it found that sales transactions are not being properly valued  in
+           accordance with the price list determined by the management, the auditor would have
+             to perform extensive searching tests on sales invoices to assure himself that the
+  recoverable amounts are correctly posted. He may also want to expand his confirmation request
+  at the year end to cover a large majority of trade receivables.
+
+3.3.1 Limitations of Internal Control - Internal control, no matter how effective, can provide an
+entity with only reasonable assurance and not absolute assurance about achieving the entity’s
+operational, financial reporting and compliance objectives.
+
+  Internal control systems are subject to certain inherent limitations, such as:
+      Management's consideration that the cost of an internal control does not exceed the
+      expected benefits to be derived.
+      The fact that most internal controls do not tend to be directed at transactions of unusual
+       nature. The potential for human error, such as, due to carelessness, distraction, mistakes
+        of judgement and misunderstanding of instructions.
+      The possibility of circumvention of internal controls through collusion with employees or
+       with parties outside the entity.
+      The possibility that a person responsible for exercising an internal control could abuse that
+        responsibility, for example, a member of management overriding an internal control.
+       Manipulations by management with respect to transactions or estimates and judgements
+       required in the preparation of financial statements.
+
+3.4  Structure of Internal Control
+In order to achieve the objectives of internal controls, it is necessary to establish adequate control
+policies and procedures. Most of these policies and procedures cover:
+3.4.1 Segregation of duties - Transaction processing are allocated to different persons in such a
+manner that no one person can carry through the completion of a transaction from start to finish or
+the work of one person is made complimentary to the work of another person. The purpose is to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.23
+
+minimize the occurrence of fraud and errors and to detect them on a timely basis, when they take
+place. The following functions are segregated -
+(a)    authorization of transactions;
+(b)    execution of transactions;
+(c)    physical custody of related assets; and
+(d)    maintenance of records and documents, while allocating duties, the considerations of cost
+      and efficacy should be kept in mind as there is a tendency to stretch the allocation of tasks
+       involved in a job to more persons than what is required resulting in cumbersome procedures,
+      over elaboration of records and unduly high cost of administration.
+Apart from segregation of duties, periodic rotation of duties of personnel is also desirable. The
+rotation of duties seeks to ensure that  if a fraud and error is committed by a person,  it does not
+remain undetected for long. It also ensures that a person cannot develop vested interest by holding
+a position for too long. Rotation of duties also ensures that each employee keeps his work up to
+date. This also makes an employee to be careful because he is aware that his performed tasks will
+be reviewed by others when duties are rotated.
+3.4.2 Authorization of Transaction - Delegation of authority to different levels and to particular
+persons are required to establish by the management for controlling the execution of transaction in
+accordance with prescribed conditions. Authorization may be general or  it may be specific with
+reference to a single transaction. It is necessary to establish procedures which provide assurance
+that authorizations are issued by persons acting within the scope of their authority, and that the
+transactions conform to the terms of the authorizations. This objective can be achieved by making
+independent comparison of transaction document with general or specific authorizations, as the case
+may be.
+3.4.3 Adequacy of Records and Documents - Accounting controls should ensure that -
+  (i)   Transactions  are  executed  in  accordance  with management’s  general  or  specific
+       authorization.
+  (ii)  Transactions and other events are promptly recorded at correct amounts.
+  (iii)  Transactions should be classified in appropriate accounts and in the appropriate period to
+      which it relates.
+  (iv)  Transaction should be recorded in a manner so as to facilitate preparation of financial
+      statements in accordance with applicable accounting standards, other accounting policies
+     and practices and relevant statutory requirements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+4.24         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+  (v)  Recording of transaction should facilitate maintaining accountability for assets.
+  (vi)  Assets and records are required  to be protected from unauthorized access, use or
+       disposition.
+  (vii) Records of assets such as sufficient description of the assets (to facilitate identification) its
+       location should also be maintained so  that the assets could be  physically  verified
+       periodically.
+
+For prompt, accurate, complete and appropriate recording of accounting transaction, several
+procedures are often established by the management. The assurance that transactions have been
+properly recorded can also be obtained through a comparison of records with an independent
+source of information which provides an indication of the execution of the relevant transactions.
+3.4.4 Accountability and Safeguarding of Assets  - The process of accountability of assets
+commences from acquisitions of assets its use and final disposal. Safeguarding of assets requires
+appropriate maintenance of records, their periodic reconciliation with the related assets. Assets like
+cash, inventories, investment scrips require frequent physical verification with book records. The
+frequency of reconciliation would differ for different assets depending upon their nature and amount.
+Assets which are considered sensitive or susceptible to error need to be reconcile more frequently
+than others. For proper safeguarding of assets, only authorized personnel should be given access
+to such asset. This not only means physical access but also exercising control over processing
+of documents relating to authorization for use and disposal of assets. It is essential to have effective
+controls over physical custody of cash, inventories, investments and other fixed assets. In some
+cases, as per requirement, special procedures regarding physical custody of assets may have to be
+designed by the management.
+3.4.5 Independent Checks  - Independent  verification  of the control systems, designed and
+implemented by the management, involves periodic or regular review by independent persons to
+ascertain whether the control procedures are operating effectively or not. Such process may be
+carried out by specially assigned staff under the banner of external audit.
+
+      4.  COMPONENTS OF INTERNAL CONTROLS
+In general, a system of internal control to be considered adequate should include the following five
+components:
+(i)     Control environment;
+(ii)     Entity’s Risk assessment Process;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.25
+
+(iii)    Control activities;
+(iv)    Information system and communication;
+(v)    Monitoring of Controls
+
+
+                         Components of Internal Control
+
+
+                        Entity’s risk                          Information     Control                              Control                          Monitoring of                   assessment                       system and  environment                               activities                             controls                     process                       communication
+
+4.1  Control Environment
+The control environment encompasses the following elements:
+(a)   Communication and enforcement of integrity and ethical values: The effectiveness of
+       controls cannot rise above the integrity and ethical values of the people who create,
+       administer, and monitor them. Integrity and ethical behavior are the product of the entity’s
+       ethical and behavioral standards, how they are communicated, and how they are reinforced
+        in  practice. The enforcement  of  integrity and  ethical  values  includes,  for example,
+     management actions to eliminate or mitigate incentives or temptations that might prompt
+      personnel to engage in dishonest, illegal, or unethical acts. The communication of entity
+       policies on  integrity and  ethical values may include the communication  of behavioral
+      standards to personnel through policy statements and codes of conduct and by example.
+(b)   Commitment to competence: Competence  is the knowledge and  skills necessary  to
+      accomplish tasks that define the individual’s job.
+(c)    Participation by those charged with governance: An entity’s control consciousness is
+       influenced  significantly  by  those  charged  with  governance. The  importance  of  the
+       responsibilities of those charged with governance is recognised in codes of practice and other
+      laws and regulations or guidance produced for the benefit of those charged with governance.
+      Other responsibilities of those charged with governance include oversight of the design and
+       effective  operation  of  whistle blower procedures and  the process  for  reviewing  the
+       effectiveness of the entity’s internal control.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+4.26         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+(d)   Management’s philosophy and operating style: Management’s philosophy and operating
+       style encompass a broad range of characteristics. For example, management’s attitudes and
+       actions toward  financial  reporting may  manifest themselves  through  conservative  or
+      aggressive selection from available alternative accounting principles, or conscientiousness
+      and conservatism with which accounting estimates are developed.
+(e)    Organisational  structure:  Establishing  a  relevant  organizational  structure  includes
+       considering key areas of authority and responsibility and appropriate lines of reporting. The
+      appropriateness of an entity’s organisational structure depends, in part, on its size and the
+      nature of its activities.
+(f)    Assignment of authority and responsibility: The assignment of authority and responsibility
+     may include policies relating to appropriate business practices, knowledge and experience of
+      key personnel, and resources provided for carrying out duties. In addition,  it may include
+       policies and communications directed at ensuring that all personnel understand the entity’s
+       objectives, know how their individual actions interrelate and contribute to those objectives,
+      and recognize how and for what they will be held accountable.
+(g)   Human resource policies and practices: Human resource policies and practices often
+      demonstrate important matters in relation to the control consciousness of an entity. For
+      example, standards  for  recruiting  the most  qualified  individuals –  with emphasis on
+       educational background, prior work experience, past accomplishments, and evidence of
+        integrity and ethical behaviour – demonstrate an entity’s commitment to competent and
+       trustworthy people. Training policies that communicate prospective roles and responsibilities
+      and include practices such as training schools and seminars illustrate expected levels of
+      performance and  behaviour.  Promotions  driven  by  periodic  performance  appraisals
+      demonstrate the entity’s commitment to the advancement of qualified personnel to higher
+       levels of responsibility.
+4.2  Entity’s Risk Assessment Process
+For financial reporting purposes, the entity’s risk assessment process includes how management
+identifies business risks relevant to the preparation of financial statements in accordance with the
+entity’s  applicable  financial  reporting framework,  estimates  their  significance, assesses  the
+likelihood of their occurrence, and decides upon actions to respond to and manage them and the
+results thereof.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.27
+
+
+             8. For example, the entity’s risk assessment process may address how the
+             entity considers the possibility of unrecorded transactions or identifies and
+           analyses significant estimates recorded in the financial statements.
+
+Risks relevant to reliable financial reporting include external and internal events, transactions or
+circumstances that may occur and adversely affect an entity’s ability to initiate, record, process, and
+report financial data consistent with the assertions of management in the financial statements.
+Management may initiate plans, programs, or actions to address specific risks or it may decide to
+accept a risk because of cost or other considerations.
+
+  Risks can arise or change due to circumstances such as the following:
+   (a)   Changes in operating environment. Changes in the regulatory or operating environment
+        can result in changes in competitive pressures and significantly different risks.
+   (b)   New personnel. New personnel may have a different focus on or understanding of
+           internal control.
+   (c)   New or revamped information systems. Significant and rapid changes in information
+        systems can change the risk relating to internal control.
+   (d)    Rapid growth. Significant and rapid expansion of operations can strain controls and
+         increase the risk of a breakdown in controls.
+   (e)   New  technology.  Incorporating new  technologies  into  production  processes  or
+          information systems may change the risk associated with internal control.
+    (f)   New  business  models,  products,  or  activities.  Entering  into  business  areas  or
+          transactions  with which an  entity has  little experience may introduce new  risks
+         associated with internal control.
+   (g)    Corporate restructurings. Restructurings may be accompanied by staff reductions and
+        changes in supervision and segregation of duties that may change the risk associated
+          with internal control.
+   (h)   Expanded foreign operations. The expansion or acquisition of foreign operations carries
+       new and often unique risks that may affect internal control, for example, additional or
+        changed risks from foreign currency transactions.
+    (i)   New accounting pronouncements. Adoption of new accounting principles or changing
+         accounting principles may affect risks in preparing financial statements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+4.28         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+4.3  Control Activities
+Generally, control activities that may be relevant to an audit may be categorised as policies and
+procedures that pertain to the following:
+(a)   Performance reviews: These control activities include reviews and analyses of actual
+      performance versus budgets, forecasts, and prior period performance; relating different sets
+       of data – operating or financial – to one another, together with analyses of the relationships
+      and investigative and corrective actions; comparing internal data with external sources of
+       information; and review of functional or activity performance.
+(b)    Information processing: The two broad groupings of information systems control activities
+      are application controls, which apply to the processing of individual applications, and general
+       IT-controls, which are policies and procedures that relate to many applications and support
+       the effective functioning of application controls by helping to ensure the continued proper
+       operation of information systems. Examples of application controls include checking the
+       arithmetical accuracy of records, maintaining and reviewing accounts and trial balances,
+      automated controls such as edit checks of input data and numerical sequence checks, and
+      manual follow-up of exception reports. Examples of general IT-controls are program change
+       controls, controls that restrict access to programs or data, controls over the implementation
+       of new releases of packaged software applications, and controls over system software that
+        restrict access to or monitor the use of system utilities that could change financial data or
+      records without leaving an audit trail.
+(c)    Physical controls: Controls that encompass:
+       The physical security of assets, including adequate safeguards such as secured
+                 facilities over access to assets and records.
+       The authorisation for access to computer programs and data files.
+       The periodic counting and comparison with amounts shown on control records (for
+            example, comparing the results of cash, security and inventory counts with accounting
+              records). The extent to which physical controls intended to prevent theft of assets are
+              relevant to the reliability of financial statement preparation, and therefore the audit,
+           depends  on  circumstances  such  as when  assets  are  highly  susceptible  to
+              misappropriation.
+(d)   Segregation  of duties: Assigning  different people  the  responsibilities  of  authorising
+       transactions, recording transactions, and maintaining custody of assets. Segregation of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.29
+
+       duties is intended to reduce the opportunities to allow any person to be in a position to both
+       perpetrate and conceal errors or fraud in the normal course of the person’s duties.
+       Certain control activities may depend on the existence of appropriate higher level policies
+       established by management or those charged with governance. For example, authorisation
+       controls may be delegated under established guidelines, such as, investment criteria set by
+      those charged with governance;  alternatively, non-routine transactions such as, major
+       acquisitions or divestments may require specific high level approval, including in some cases
+       that of shareholders.
+4.4  Information System, Including the Related Business Processes,
+Relevant to Financial Reporting, and Communication
+An information system consists of infrastructure (physical and hardware components), software,
+people, procedures, and data. Many information systems make extensive use of information
+technology (IT).
+
+  The information system relevant to financial reporting objectives, which includes the
+   financial reporting system, encompasses methods and records that:
+   (a)     Identify and record all valid transactions.
+   (b)    Describe on a timely basis the transactions  in  sufficient  detail  to permit proper
+           classification of transactions for financial reporting.
+   (c)   Measure the value of transactions in a manner that permits recording their proper
+        monetary value in the financial statements.
+   (d)    Determine the time period  in which transactions occurred  to permit recording  of
+          transactions in the proper accounting period.
+   (e)    Present properly the transactions and related disclosures in the financial statements.
+
+The quality of system-generated information affects management’s ability to make appropriate
+decisions in managing and controlling the entity’s activities and to prepare reliable financial reports.
+Communication, which involves providing an understanding of individual roles and responsibilities
+pertaining to internal control over financial reporting, may take such forms as policy manuals,
+accounting and financial reporting manuals, and memoranda. Communication also can be made
+electronically, orally, and through the actions of management.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+4.30         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+4.5  Monitoring of Controls
+An important management responsibility is to establish and maintain internal control on an ongoing
+basis. Management’s monitoring of controls includes considering whether they are operating as
+intended and that they are modified as appropriate for changes in conditions. Monitoring of controls
+may include activities such as, management’s review of whether bank reconciliations are being
+prepared on a timely basis, internal auditors’ evaluation of sales personnel’s compliance with the
+entity’s policies on terms of sales contracts, and a legal department’s oversight of compliance with
+the entity’s ethical or business practice policies. Monitoring is done also to ensure that controls
+continue to operate effectively over time. For example,  if the timeliness and accuracy of bank
+reconciliations are not monitored, personnel are likely to stop preparing them.
+Internal auditors or personnel performing similar functions may contribute to the monitoring of an
+entity’s controls through separate evaluations. Ordinarily, they regularly provide information about
+the functioning of internal control, focusing considerable attention on evaluating the effectiveness of
+internal control, and communicate information about strengths and deficiencies in internal control
+and recommendations for improving internal control.
+Monitoring activities may include using information from communications from external parties that
+may indicate problems or highlight areas in need of improvement. Customers implicitly corroborate
+billing data by paying their invoices or complaining about their charges. In addition, regulators may
+communicate with the entity concerning matters that affect the functioning of internal control, for
+example,  communications  concerning  examinations  by  bank  regulatory  agencies.  Also,
+management may consider communications relating to internal control from external auditors in
+performing monitoring activities.
+The overall systems of internal control comprises of Administrative Control and Accounting
+Controls, Internal Checks and Internal Audit are important constituents of Accounting
+Controls.
+1.     Internal Check System - Internal check system implies organization of the overall system of
+book-keeping and arrangement of staff duties in such a way that no one person can carry through a
+transaction and record every aspect thereof. It is a part of the overall control system and operates
+basically as a built-in-device as far as organization and job-allocation aspects of the controls are
+concerned.
+The system provides existence of checks on the day-to-day transactions which operate continuously
+as part of the routine system whereby the work of each person is either proved independently or is
+made complimentary to the work of another.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.31
+
+   The following are the objectives of the internal check system:
+     (i)    To detect error and frauds with ease.
+      (ii)   To avoid and minimize the possibility of commission of errors and fraud by any staff.
+      (iii)   To increase the efficiency of the staff working within the organization.
+     (iv)   To locate the responsibility area or the stages where actual fraud and error occurs.
+    (v)   To protect the integrity of the business by ensuring that accounts are always subject to
+          proper scrutiny and check.
+     (vi)   To prevent and avoid the misappropriation or embezzlement of cash and falsification of
+          accounts.
+
+The effectiveness of an  efficient system of internal check depends on the following
+considerations-
+(i)     Clarity of Responsibility  - The responsibility of different persons engaged in various
+       operations  of  business  transactions  should be  properly  identified. A  well-integrated
+       organizational chart depicting the names of responsible persons associated with specific
+       functions may help to fix up responsibility.
+(ii)    Division of Work - The segregation of work should be made in such a manner that the free
+       flow of work is not interrupted and also helps to determine that the work of one person is
+      complementary to the other. Then, it is suggested that rotation of different employees through
+       various components of the job should be effectively implemented.
+(iii)   Standardization  - The entire process of accounting should be standardized by creating
+       suitable policies commensurate with the nature of the business, so as to strengthen the
+      system of internal check.
+(iv)   Appraisal - Periodic review should be made of the chain of operations and workflow. Such
+      process may be carried out by preparing an audit flow chart.
+       The general condition pertaining to the internal check system may be summarized
+       as under:
+             (i)    no single person should have complete control over any important aspect of the
+              business operation. Every employee’s action should come under the review of
+              another person.
+              (ii)     Staff duties should be rotated from time to time so that members do not perform
+               the same function for a considerable length of time.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+4.32         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+              (iii)   Every member of the staff should be encouraged to go on leave at least once a
+                year.
+           (iv)   Persons having physical custody of assets must not be permitted to have access
+                 to the books of accounts.
+          (v)    There should exist an accounting control in respect of each class of assets, in
+                 addition, there should be periodical inspection so as to establish their physical
+                condition.
+           (vi)   Mechanical devices should be used, where ever practicable to prevent loss or
+               misappropriation of cash.
+            (vii)   Budgetary control should be exercised and wide deviations observed should be
+                reconciled.
+             (viii)  For inventory taking, at the close of the year, trading activities should, if possible
+             be suspended, and it should be done by staff belonging to several sections of the
+                organization.
+           (ix)   The financial and administrative powers should be distributed very judiciously
+            among different officers and the manner in which those are actually exercised
+              should be reviewed periodically.
+          (x)    Procedures should be laid down for periodical verification and testing of different
+               sections of accounting records to ensure that they are accurate.
+
+The scope of statutory audit is limited by both time and cost. Therefore,  it is increasingly being
+recognized that for an audit to be effective especially in case of large organization, the existence of
+a system of internal check is essential.
+2.     Internal Audit  - Internal audit may be defined as, an independent appraisal function
+established within an organization to examine and evaluate  its activities as a service to the
+organization. The scope of the internal audit is determined by the management. Internal auditing
+includes a series of processes and techniques through which an organizations own employees
+ascertain  for  the management,  by means  of  on-the-job  observation,  whether  established
+management controls are adequate, and are effectively maintained; records and reports financial,
+accounting and otherwise reflect actual operation and results accurately and properly; each division,
+department or other units are carrying out the plans, policies and procedures for which they are
+responsible.
+Note: For a detailed discussion on internal audit refer Chapter on Internal Audit in Module 3.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.33
+
+
+TEST YOUR UNDERSTANDING 3
+RK Living Limited is engaged in manufacturing and processing of textile fabrics. It purchases its raw
+material from a company based in Silvassa taxable @ 12%. It takes about 3-4 days for raw materials
+to reach the company’s plant.  Recently, the company has revamped its internal control system for
+recording its transactions. You have also assumed charge as head of internal audit department of
+the company few days before.
+It is noticed that information system requires booking of purchases in purchase ledger and stock
+records from date of purchase invoice only. How you would deal with above matter as internal auditor
+of the company?
+
+
+TEST YOUR UNDERSTANDING 4
+A company as part of its internal control set up has a system under which quarterly budgeted targets
+in respect of sales are analysed with respect to actual performance achieved. It also involves fixing
+responsibilities of different product departmental heads and taking timely correction. In case of
+product departmental heads not achieving quarterly budgeted targets, they have to give a detailed
+justification for the same and also lay down how shortfalls would be compensated in ensuing
+quarters.
+Identify and explain component of internal control alluded to in above scenario.
+
+     5.  REVIEW OF THE SYSTEM OF INTERNAL CONTROLS
+The control environment sets the tone of an organization, influencing the control consciousness of
+its people. The control environment includes the governance and management functions and the
+attitudes, awareness, and actions of those charged with governance and management concerning
+the entity’s internal control and its importance in the entity.
+Evaluating the design of a control involves considering whether the control, individually or in
+combination with other controls, is capable of effectively preventing, or detecting and correcting,
+material misstatements. Implementation of a control means that the control exists and that the entity
+is using it. There is little point in assessing the implementation of a control that is not effective, and
+so the design of a control is considered  first. An improperly designed control may represent a
+material weakness or significant deficiency in the entity’s internal control.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+4.34         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+An entity’s system of internal control contains manual elements and often contains automated
+elements. The use of manual or automated elements in internal control also affects the manner in
+which transactions are initiated, recorded, processed, and reported. An entity’s mix of manual and
+automated elements in internal control varies with the nature and complexity of the entity’s use of
+information technology.
+Manual elements in internal control may be more suitable where judgment and discretion are
+required such as for the following circumstances:
+      Large, unusual or non-recurring transactions.
+      Circumstances where errors are difficult to define, anticipate or predict.
+       In changing circumstances that require a control response outside the scope of an existing
+      automated control.
+       In monitoring the effectiveness of automated controls.
+The extent and nature of the risks to internal control vary depending on the nature and characteristics
+of the entity’s information system. The entity responds to the risks arising from the use of IT or from
+use  of manual elements  in  internal control by establishing  effective controls  in  light  of the
+characteristics of the entity’s information system.
+The review of the internal control system enables the auditor -
+(i)     to formulate his opinion as to the reliance he may place on the system itself i.e. whether the
+      system is such as would enable the management to produce a true and fair set of financial
+       statements; and
+(ii)     to locate the areas of weakness in the system so that the audit programme and the nature,
+       timing and extent of substantive and compliance audit procedures can be adjusted to meet
+       the situation.
+
+                     9.  If the auditor is not satisfied with the control system as regards trade
+                   receivable, he may decide to have a wider coverage for confirmation of trade
+                   receivables’ balances. Normally, investments and cash are physically verified
+         at the end of the period and this routine is known to the client and his employees. In case
+        the auditor comes across a weakness in the control either he may provide in the
+       programme for a surprise cash count or investment verification on a day preceding or
+        succeeding the routine verification. In such a case, a surprise check will be more useful
+               if it is undertaken after the routine verification is over. Similarly, if he is of the view that
+       because of weak controls the possibility of wrong billing to customers exists, be may
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.35
+
+        extend the programme for comparison of the invoices with the forwarding notes and for
+        checking of the extensions and castings of the invoices.
+
+Deciding the point of time appropriate for undertaking the review of the internal controls is a matter
+for individual judgement of the auditor. This decision can be taken on a consideration of the size and
+complexity of the client’s operations. If the auditor, because of his continuing relationship with his
+client, is already aware of the features and efficacy of internal controls, he may just review the
+changes that have taken place in the intervening period because of changes in the operations of the
+client. However, a comprehensive review in such cases must be made at an interval of, say, 3 years.
+Ordinarily, the review of internal controls should be undertaken as a distinct phase of audit before
+finalisation of the audit programme. However, if the size of operations is rather small, the review
+can be undertaken in conjunction with other audit procedures and the programmes can be adjusted
+for any extension or elimination of checking.
+When the auditor finds inadequacies or weaknesses in the internal control system, he should advise
+his client about such inadequacies and weaknesses and the consequences that may follow. It should
+be the duty of the auditor to see, in the course of his audit, how far the inadequacies and weaknesses
+have been removed. He will take this into account in preparing his audit report. It is a useful practice
+to note the following after each function, set out in the audit programme –
+
+  (a) Any change in the system of internal control from that record in the appropriate section of
+  the internal control questionnaire.
+
+  (b) Any further weakness noted in the internal control.
+
+
+  (c) Any instance where the prescribed system or procedure has not been followed.
+
+These should be considered in deciding whether any further modification in the audit programme is
+called for. Also, these should be communicated to the client and confirmation should be sought as
+regards changes in the system.
+The review of internal control consists mainly of enquiries of personnel at various organisational
+levels within the enterprise together with reference to documentation such as procedures, manuals,
+job description and flow-charts, to gain knowledge about the controls which the auditor has identified
+as significant to his audit. The auditor may trace a few transactions through the accounting system
+to assist in understanding that system and it is related to internal controls. The auditor’s preliminary
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+4.36         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+evaluation of internal controls should be made on the assumption that the controls operate generally
+as described and that they function effectively throughout the period of intended reliance The
+purpose of the preliminary evaluation is to identify the particular controls on which the auditor still
+intends to rely and to test through compliance procedures. Different techniques are used to record
+information relating to an internal control system. Selection of a particular technique is a matter for
+the auditor’s judgement.
+
+      6.  INTERNAL CONTROL ASSESSMENT & EVALUATION
+                                      The quality & effectiveness of internal controls is
+                                                       directly   dependent  on   the   organisational
+                                             environment.  The tone at the top (the Board &
+                                             Executive Management) & the credibility of the
+                                      message on internal controls from top plays an
+                                               important  role  in  establishing  strong  control
+                                             environment.   Following are some  of the key
+                                        components to assess & evaluate the controls
+                                             environment:
+Standard Operating Procedures (SOPs): A  well  defined  set  of SOPs helps  define  role,
+responsibilities, process & controls & thus helps clearly communicate the operating controls  to all
+touch points of a process. The controls are likely to be clearly understood & consistently applied
+even during employee turnover
+1.     Enterprise Risk Management: An organization which has robust process to identify &
+       mitigate risks across the enterprise & its periodical review will assist in early identification of
+      gaps & taking effective control measures. In such organizations, surprises of failures in
+       controls is likely to be few.
+2.    Segregation of Job Responsibilities: A key element of control is that multiple activities in
+      a transaction/decision should not be concentrated with one individual. Segregation of duties
+        is an important element of control such that no two commercial activities should be conducted
+      by the same person.
+
+                   10. A buyer should not be involved in receiving of materials or passing of bills.
+                    Similarly bank reconciliation should be prepared by a person other than the
+                one who maintains bank book.
+
+3.    Job Rotation in Sensitive Areas: Any job carried out by the same person over a long period
+       of time is likely to lead to complacency & possible misuse in sensitive areas. It is therefore
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.37
+
+       important that in key commercial functions, the job rotation is regularly followed to avoid
+      degeneration of controls.
+
+                               If the same buyer continues to conduct purchase function for long period, it is
+                       likely that he gets into comfort zone with existing vendors & hence does not
+                  exercise adequate controls  in terms  of vendor development, competitive
+        quotes etc.
+
+4.    Delegation of Financial Powers Document: As the organization grows, it needs to delegate
+       the financial & other powers to their employees. A clearly defined document on delegation of
+      powers allows controls to be clearly operated without being dependent on individuals.
+5.    Information Technology based Controls: With the advent of computers & enterprise
+      resource planning (ERP) systems, it is much easier to embed controls through the system
+       instead of being human dependent. The failure rate for IT embedded controls is likely to be
+       low, is likely to have better audit trail & is thus easier to monitor. For example at the stage of
+      customer invoicing, application of correct rates  in invoices or credit control can  all be
+      exercised directly through IT system improving control environment.
+6.1  Techniques of evaluation of Internal control
+The following are the techniques of evaluation of internal control:
+
+6.1.1 Questionnaire
+Because of the widespread experience that auditors possess about the business operations in
+general and the knowledge about the appropriate control, most of the auditing firms have developed
+their own standardised internal control questionnaire on a generally applicable basis. In developing
+the standard questionnaire, endeavour is made to make it as wide as possible so that all situations,
+generally found, are included therein but all of these may not be applicable in a particular case. A
+questionnaire is a set of questions framed in an organised manner, about each functional area,
+which has as purpose the evaluation of the effectiveness of control and detection of its weakness if
+any.  A questionnaire usually consists of several separate sections devoted to areas such as
+purchases, sales, trade receivables, trade payables, wages, etc. The questionnaire is intended to
+be filled by the company executives who are in charge of the various areas. However, this poses
+some practical difficulties. The questionnaire is to travel from executives and, therefore, it may take
+a pretty long time to be filled; also the questions may not be readily intelligible to busy executives
+and there is a possibility of the questionnaire being misplaced while travelling from one table to
+another. Having regard to these difficulties, it is now almost an accepted practice that the auditor (or
+his representative) arranges meetings with the executives concerned and gets the answers filled by
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+4.38         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+each executive. Sometimes, the auditor himself may be required to fill the answers. In such a case,
+he should ensure that the concerned executive has initiated the answers as a token of his agreement
+therewith.
+Questions are so framed as generally to dispense with the requirement of a detailed answer to each
+question. For this purpose, often one general question is broken down into a number of questions
+and sub-questions to enable the executive to provide a just ‘Yes’, ‘No’ or ‘Not applicable’ form of
+reply. Questions are also framed in such a manner that generally a “No” answer will reflect weakness
+in the control system.  This requires giving a positive power to the question, keeping in view what
+the proper control should be.  Consider the question ‘Are  all receipts recorded promptly and
+deposited in bank daily? If the answer to this is ‘Yes’, it fits with the plan of good internal control. But
+if  it is ‘No’  it indicates weakness in the system in as much as the moneys received may not be
+recorded and may be defalcated because the cashier has continued control over the amount for an
+uncertain period.  However, this should not be taken as an unbreakable rule. Questions may be
+framed also when a ‘Yes’ answer would indicate weakness. The only thing that should be borne in
+mind is that the scheme of questions should be consistent, sequential, logical, and  if possible
+corroborative. Wherever it is necessary, slightly detailed answers also may be asked for to bring
+clarity to the matter.
+
+    In the use of standardized internal control questionnaire, certain basic assumptions
+   about elements of good control are taken into account. These are -
+
+     (i)     Certain procedures in general used by most business concerns are essential  in
+          achieving reliable internal control. This is a time-tested assumption. Deposit into bank
+           of the entire receipts of a day or daily balancing of the cash book and ledgers or
+           periodic reconciliation with the control accounts are examples of widely used practices
+         which are considered good internal control practices. Besides, basic operations giving
+            rise to these practices exist in all businesses irrespective of their nature.
+
+      (ii)    Organisations are such that permit an extensive division of duties and responsibilities.
+        The larger the organisation, the greater is the scope of such division.
+
+      (iii)   Employees concerned  with accounting  function are not assigned any  custodial
+           function.
+
+     (iv)   No single person is thrust with the responsibility of completing a transaction all by
+           himself.
+
+    (v)    There should always be evidence to identify the person who has done the work whether
+           involving authorisation, implementation or checking.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.39
+
+     (vi)   The work performed by each one is expected to come under review of another in the
+          usual course of routine.
+
+     (vii)   There is proper documentation and recording of the transactions.
+
+The questionnaire serves the purpose of a record so far as the auditor is concerned about the state
+of internal control as given to him officially. A question naturally arises as to whether it is necessary
+to issue questionnaire for every year of the auditor’s engagement.
+For the first year of engagements, issue of questionnaire is necessary.
+For subsequent years, the auditor, instead of issuing a questionnaire again, may request the client
+to confirm whether any change in the nature and scope of business has taken place that necessitated
+a corresponding change in the control system, or whether, even without a change in the nature and
+scope of business, the control system has undergone a change.
+If there has been a change, the auditor should take note of its and enter appropriate comments on
+the relevant part of the questionnaire. However, it would be a good practice in the case of continuing
+engagements to issue a questionnaire irrespective of any change, say, every third year. This will
+obviate unnecessary trouble of filling the answers every time and to that extent the client’s and the
+auditor’s own time will be saved. The rationale for issuance of a questionnaire every three years, in
+the case of even no change, lies in altering the client as regards unnoticed and unspectacular
+changes that might have taken place during the intervening period; also this will make the client
+more control-conscious. Questionnaires can be prepared for various aspects of the internal control
+system.
+
+6.1.2 Check List
+It is a series of instructions or questions on internal control which the auditor must follow or answer.
+When a particular instruction is carried out, the auditor initials the space opposite the instruction. If
+it is in the form of a question, the answer generally ‘Yes’, ‘No’ or ‘Not Applicable’ is entered opposite
+the question. A check list is more in the nature of a reminder to the auditor about the matters to be
+checked for testing the internal control system. While a questionnaire is basically a set of questions
+put to the client, a check list which may be in a form of instructions, questions or just points to be
+checked may be meant for the auditor’s own staff it is a set of instructions or points; it may be meant
+for the client if it is in the form of questions. The question form of check list may even be meant for
+the auditor’s own staff.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+4.40         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+             11. Questions in the check list may be formed in the following manner (this is
+           an illustrative set of questions to be answered by the audit staff).
+           Have you checked that the cashier -
+    (i)      is not responsible for opening the incoming mails;
+    (ii)    does not authorise any of the ledgers;
+    (iii)   does not authorise any expenditure or receipt;
+   (iv)   does not sign cheques;
+   (v)    takes his annual leave regularly;
+   (vi)    inks and balances the cash book everyday;
+    (vii)    verifies physical cash balance with the book figure daily at the end of the day;
+    (viii)  prepares monthly bank reconciliation statement;
+   (ix)   holds no other funds or investment;
+   (x)    holds no unnecessary balance in hand;
+   (xi)  does not pay money without looking into compliance with proper procedure and due
+          authorisation; and
+    (xii)   has tendered proper security or has executed a fidelity bond?
+
+When the check list is in question form, it is hardly different from a questionnaire. However, generally
+questionnaire is a popular medium for the evaluation of the internal control system.
+
+   The basic distinction between internal control questionnaire and check list are as
+   under:
+    1.    The ICQ incorporates a large number of detailed questions but the check list generally
+          contains questions relating to the main control objective with the area under review.
+    2.     In ICQ, questions are usually answered by company executives. However, in a check
+               list, the same are required to be answered by auditor/auditor staff.
+    3.    The significance of ‘No’ in an ICQ does indicate a weakness but the significance of that
+        weakness  is not revealed automatically.  However,  in the check  list, a specific
+          statement is required where an apparent weakness may prove to be material in relation
+           to the accounts as a whole.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.41
+
+6.1.3 Flow chart
+The flow charting technique can also be resorted to for evaluation of the internal control system. It
+is a graphic presentation of internal controls in the organisation and is normally drawn up to show
+the controls in each section or sub-section. As distinct from a narrative form, it provides the most
+concise and comprehensive way for reviewing the internal controls and the evaluator’s findings. In
+a flow chart, narratives, though cannot perhaps be totally banished are reduced to the minimum and
+by that process, it can successfully bring the whole control structure, specially the essential parts
+thereof, in a condensed but wholly meaningful manner. It gives a bird’s eye view of the system and
+is drawn up as a result of the auditor’s review thereof.  It should, however, not be understood that
+details are not reflected in a flow chart. Every detail relevant from the control point of view and the
+details about how an operation is performed can be included in the flow chart.  Essentially a flow
+chart is a diagram full with lines and symbols and, if judicious use of them can be made, it is probably
+the most effective way of presenting the state of internal controls in the client’s organisation.
+ A properly drawn up flow chart can provide a neat visual picture of the whole activities of
+ the section or department involving flow of documents and activities. More specifically,
+  it can show-
+  (i)     at what point a document is raised internally or received from external sources;
+  (ii)    the number of copies in which a document is raised or received;
+  (iii)    the intermediate stages set sequentially through which the document and the activity
+        pass;
+  (iv)    distribution of the documents to various sections, department or operations;
+ (v)    checking authorisation and matching at relevant stages;
+  (vi)     filing of the documents; and
+  (vii)    final disposal by sending out or destruction.
+
+As a matter of fact, a very sound knowledge of internal control requirements is imperative for,
+adopting flow-charting technique  for evaluation of internal controls; also  it demands a highly
+analytical mind to be able to see clearly the inter division of a job and the appropriate control at
+relevant points.
+It has been stated earlier that flow charts should be made section-wise or department-wise. The
+suggestion has been made to ensure readability and intelligibility of the flow charts.
+Drawing of a flow chart - A flow chart is normally a horizontal one in which documents and activities
+are shown to flow horizontally from section to section and the concerned sections are shown as the
+vertical column heads; in appropriate cases an individual also may be shown as the vertical column
+head. Care should be taken to see that the first column head is devoted to the section or the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+4.42         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+individual wherefrom a transaction originates, and the placements of other column heads should be
+in the order of the actual flow of the transaction.
+It has been started earlier that a flow chart is a symbolic representation the flow of activity and
+related documents through the section from origin to conclusion. These can be sales, purchases,
+wages, production, etc. Each one of the main functions is to be linked with related functions for
+making a complete course. Purchase is to be linked with trade payables and payments; sales with
+trade receivables and collections. By this process, a flow chart will become self contained, complete
+and meaningful for evaluation of internal controls.
+
+
+Generally, a questionnaire is also enclosed with a flow chart, incorporating questions, the answers
+to which are to be looked into from the flow chart. This is an evaluation of the control system through
+the process of flow charting. The internal control questionnaire contains questions; answers are
+available in the flow chart and they  will reveal weakness,  if any, in the system.  In fact, the
+questionnaire is a guide for the study of a control system through flow charts.
+We may examine the flow charting techniques for evaluation of internal controls on the sales and
+trade receivables function. Let us assume that these are -
+1.    Order receiving function.
+2.     Dispatch function.
+3.      Billing function.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.43
+
+4.     Accounting in the trade receivables’ ledger.
+5.    Main accounting functions.
+6.     Inventory recording function.
+All these functions are carried out in distinct sections. As regards the Order Receiving Section, let
+us further assume that the section receives orders:
+(i)    through mail;
+(ii)    by telephone; and
+(iii)    through the company’s salesmen.
+Basing the receipts of orders of customers, the section raises internal “Sales advices”. These sales
+advices are consecutively numbered (by reference to the last number on the order book) and entered
+in the order book with the consecutive number, date, the party and other relevant details. The orders
+received from customers are temporarily filed in the alphabetical order. The sales advices are
+prepared in sets of four with a noting for the customer’s sales-tax status. All the four copies are sent
+to the dispatch section. The dispatch section, after dispatch of the goods, sends back to the Order
+receiving Section the last copy of the sales advice after entering thereon the date of dispatch and
+the quantity despatched. Upon receipt of the last copy, the Order receiving Section enters the date
+of dispatch and the quantity despatched in the order book.  If the quantity despatched is fulfillment
+of the quantity ordered, the last copy of the sales invoices is annexed to customer’s order and filed
+in the customer’s file. If, however, the order is only partly executed, the copy of the sales advice is
+kept in a temporary file in numerical order. Periodically this file is checked to determine the unfulfilled
+orders and, if inventory is then available, the Section again initiates fresh sales advices in respect
+of the unfulfilled part and all the processes, as in the case of original, are repeated. The last copy of
+the original set is annexed to the customer’s order and kept in the customer’s file.
+The salesmen use the same advice form as is being used by the order receiving section.
+For the purpose of drawing a flow chart to incorporate the above narration it is useful to know -
+1.     the point for originating the flow of transaction.
+2.     the documents, internal and external, and the flow of the transaction, number of copies,
+        distribution flow and the details.
+3.     the books, if any, maintained and the details recorded there in and the source or sources for
+       the details.
+4.     that there exists an alternative possibility.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+4.44         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+The flow chart for the above may be as under -
+
+
+                             CHART 1
+We can extend the activity flow now to the dispatch section which is the logical second stage of
+operation. The work and procedure content of the dispatch section is assumed to be as follows:
+After the receipt of the sales advices in sets of four, the dispatch section arranges dispatch of
+materials and put the date of dispatch and the quantities despatched; the head of the Section initials
+the advices. The last copy of the advice is sent back to the Order Receiving Section. The first copy
+is sent as a packing slip with the goods, the second copy goes to the Billing Department and the
+third copy accompanies the goods when delivered  to the buyer and, obtaining the buyer’s
+acknowledgement of the receipt of the goods therein, is received back and filed date-wise. In case
+of goods not directly delivered to the buyers, i.e., when the goods are sent either by rail, road or
+water transport, the copy constitutes the basis for raising the relevant forwarding note on the basis
+of which R.R. etc., can be prepared.
+The flow chart for the dispatch section may be as follows -
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.45
+
+
+                             CHART 2
+This flow is taken to the Billing Section. The Section generally accumulates the second copy of the
+Sales Advice for two or three days and prepares sales invoices in sets of four. The pricing of the
+sales invoice is done by reference to the company’s current price list or the catalogue. The number
+of the sales advice is entered on the corresponding invoice which is pre-numbered, also, the number
+of the invoice is recorded on the copy of the sales advice which is then filed alphabetically. The first
+copy of the invoice is sent to the customer while the second, third and fourth copies are respectively
+sent to the trade receivables ledger clerk, the Inventory Section and the Accounts Section. The
+Billing Section also is responsible for raising credit notes on the basis of documents received. Credit
+notes are also prepared in sets of four and are distributed in exactly the same way as invoices. The
+inventories of invoice and the credit note forms remain in the Billing Section.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+4.46         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+The Flow Chart for this Section is given below -
+                             CHART 3
+
+
+Now, in the order of the flow of activities, more sectional flow charts can be prepared to cover the
+activities in the Accounts Section and the Inventory Section and they together, when sequentially
+assembled, will constitute the complete flow chart for the sales transactions and trade receivables
+recordings.
+(These flow charts have been prepared on the basis of the approach and the symbols used in the
+book “Analytical Auditing” by Skinner and Anderson. Students who desire to study the subject of
+preparation of flow charts further may refer to Chapter 4 of that book.)
+It is now left for us to see how these flow charts reveal the state of internal control. A close look into
+flow charts will show the following:
+(i)    The advices are sent by salesmen; though prepared on the same sales advice form as is
+      prepared in the section, there is no check that all the advices sent by salesmen have been
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.47
+
+       received. This may entail loss of business because of non-receipt of sales advice. (Refer to
+       the flow chart for the Order Receiving Section).
+(ii)   The raising of sales advises on the basis of telephonic orders, irrespective of the party’s
+      standing and record of performance is risky from the business point of view. (Refer to the
+       flow chart for the Order Receiving Section).
+(iii)   There is no system of prior credit sanction to the parties; in consequence, there may be
+       dispatch of goods to bad credit risks. (Refer to the flow chart for the Dispatch Section).
+(iv)   There is no check that all the second copies of the sales advices sent by the Dispatch Section
+      have been received by the Billing Section. The possibility of dispatch not being, billed exists,
+       (Refer to the flow chart for the Dispatch as well as the Billing Section.
+(v)    There is no check in respect of pricing, extension and addition on the invoice or the credit
+       notes. This may result in loss of revenue for wrong pricing or wrong calculation. (Refer to the
+       flow chart for Billing Section).
+(vi)      It is not clear whether the supporting documents are adequate for authorising the issue of
+       credit notes where there is a need for a greater caution. (Refer to the flow chart for Billing
+       Section).
+So far we have seen the points of weaknesses that are evident from these flow charts. For a clearer
+understanding of the flow chart as a medium for evaluating internal controls, the following further
+points may be useful:
+(a)    There exists proper numerical control over orders booked (except the case for the salesmen’s
+       orders).
+(b)    There is a permanent and continuous record of the orders booked in the form of order book.
+(c)    There is a definite basis for raising sales advices.
+(d)   The order book record  is always kept complete by entering the information about the
+      execution of the order and this keeps the information about the pending orders ready at any
+      moment.
+(e)    Partly executed orders are reviewed from time to time so that as soon as goods are available,
+       the same may be despatched to customers.
+(f)    The customer’s purchase order and the related sales advice are matched and kept together
+        in the customer’s file.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+4.48         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+(g)   The sales advices are initialed by the Dispatch Section head as token of his having satisfied
+       himself about the correctness of the entries as regards the quantity despatched and the date
+       of dispatch.
+(h)   Record of actual direct delivery is maintained through the copy of the sales advice bearing
+       the customer’s, acknowledgement of his having received the goods.  Similarly, the record of
+       out station deliveries is kept in the copy of the forwarding note annexed to the sales advice
+      copy.
+(i)    Documents have as many copies as are necessary for ensuring proper flow and proper
+       control. There is neither wastage through unnecessary copies nor any hold up because of
+      inadequacy of copies.
+(j)    There are supporting documents for raising invoices and credit notes.
+(k)   The distribution of invoices and credit notes is such as would enable the recording of billing
+       at the relevant centres independent of each other.
+(l)    There is control over the number of invoices and credit notes by pre-numbering.
+Thus, by flow charting, an auditor can very clearly see the inter-relationships of the activities and
+flows and how they are integrated from stage to stage. However, the auditor has to be careful about
+the readability and intelligibility of the chart. Identification of all individual functions in a section is
+also highly relevant for preparation of the flow chart. The smaller the segment, the better is the
+possibility of quick comprehension.  Naturally, the auditor should try to see each section as the
+natural assembly of distinct and identified components.
+
+     7.  REPORTING TO CLIENTS ON INTERNAL CONTROL
+      WEAKNESSES
+During the course of audit work, the audit may notice material weaknesses in the internal control
+system. Material weaknesses are defined as absence of adequate controls on flow of transactions
+that increases the possibility of errors and frauds in the financial statements of the entity.
+
+             12. In case,  if monthly age-wise analysis of trade receivables  is not performed
+            then  it may result in inadequate provisioning of bad debts for the fiscal year under
+              audit.
+
+The auditor should communicate such material weaknesses to the management or the audit
+committee, if any, on a timely basis. This communication should be, preferably, in writing through a
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.49
+
+letter of weakness or management letter. Important points with regard to such a letter are as
+follows:
+(a)   The letter  lists down the area of weaknesses in the system and offers suggestions for
+      improvement.
+(b)       It should clearly indicate that it discusses only weaknesses which have come to the attention
+       of the auditor as a result of his audit and that his examination has not been designed to
+      determine the adequacy of internal control for management.
+(c)    This letter serves as a valuable reference document for management for the purpose of
+       revising the system and insisting on its strict implementation.
+(d)   The letter may also serve to minimize legal liability in the event of a major defalcation or other
+       loss resulting from a weakness in internal control.
+It should be appreciated that by writing a letter to the management about the weaknesses in the
+system, the auditor is not absolved from his duty to report the shortcomings in the accounts by way
+of qualification where the defects have not been corrected to the auditor’s satisfaction weighing the
+materiality of weaknesses and their impact, if considered necessary.
+The practice of the issue of letter of weaknesses has a great merit in relieving the auditor from
+liability in case serious frauds or losses have occurred, which probably would not have taken place
+had the client taken due note of the auditor’s points in the letter of weakness. In the case Re S.P.
+Catterson & Ltd. (1937, 81, Act L.R. 62), the auditor was acquitted of the charge of negligence for
+employee’s fraud in view of the fact that he had already informed the client about the unsatisfactory
+state in the specific areas of accounts and had suggested improvements which were not acted upon
+by the management.
+The Council of ICAI has issued SA 265 on “Communicating Deficiencies in Internal Control to Those
+Charged with Governance and Management” in this regard. This Standard on Auditing (SA) deals
+with the auditor’s  responsibility to communicate appropriately to those charged with governance
+and management deficiencies in internal control that the auditor has identified in an audit of financial
+statements. This SA does not impose additional responsibilities on the auditor regarding obtaining
+an understanding of internal control and designing and performing tests of controls over and above
+the requirements of SA 315 and SA 330.
+The objective of the auditor is to communicate appropriately to those charged with governance and
+management deficiencies in internal control that the auditor has identified during the audit and that,
+in the auditor’s professional judgment, are  of  sufficient importance  to merit  their respective
+attentions.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+4.50         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+The auditor shall determine whether, on the basis of the audit work performed, the auditor has
+identified one or more deficiencies in internal control.
+If the auditor has identified one or more deficiencies in internal control, the auditor shall determine,
+on the basis of the audit work performed, whether, individually or in combination, they constitute
+significant deficiencies.
+The auditor shall communicate in writing significant deficiencies in internal control identified during
+the audit to those charged with governance on a timely basis.
+
+
+  The auditor shall also communicate to management at an appropriate level of
+   responsibility on a timely basis:
+   (a)   In writing, significant deficiencies in internal control that the auditor has
+       communicated or intends to communicate to those charged with governance,
+       unless it would be inappropriate to communicate directly to management in the
+        circumstances; and
+   (b)  Other deficiencies in internal control identified during the audit that have
+       not been communicated to management by other parties and that, in the
+        auditor’s professional judgment, are  of  sufficient importance  to merit
+
+
+The auditor shall include in the written communication of significant deficiencies in internal control:
+
+    (a)   A description of the deficiencies and an explanation of their potential effects; and
+    (b)    Sufficient information to enable those charged with governance and management to
+         understand the context of the communication. In particular, the auditor shall explain
+            that:
+                (i)    The purpose of the audit was for the auditor to express an opinion on the
+                   financial statements;
+                 (ii)   The audit included consideration of internal control relevant to the preparation
+                   of the  financial statements  in order  to design  audit procedures  that are
+                 appropriate in the circumstances, but not for the purpose of expressing an
+                 opinion on the effectiveness of internal control; and
+                 (iii)   The matters being reported are limited to those deficiencies that the auditor has
+                   identified during the audit and that the auditor has concluded are of sufficient
+                importance to merit being reported to those charged with governance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.51
+
+Based upon risks of material misstatements identified and assessed by the auditor, auditor
+develops responses to assessed risks.
+SA 330, “The Auditor’s Responses to Assessed Risks” deals with the auditor’s responsibility to
+design and implement responses to the risks of material misstatement identified and assessed by the
+auditor in accordance with SA 315.
+The objective of the auditor in accordance with SA 330 is to obtain sufficient appropriate audit evidence
+about the assessed risks of material misstatement, through designing and implementing appropriate
+responses to those risks.
+SA 330 states that:
+
+
+                           The auditor shall design and
+                           implement overall responses to
+                              address the assessed risks of      The auditor shall design and perform
+                                material misstatement at the         further audit procedures whose
+                                      financial statement level.         nature, timing and extent are based
+                                                        on and are responsive to the
+                                                                    assessed risks of material
+                                                             misstatement at the assertion level.
+
+
+ In designing the further audit procedures to be performed, the auditor shall:
+ (a)  Consider the reasons for the assessment given to the risk of material
+ misstatement at the assertion level for each class of transactions, account balance,
+ and disclosure, including:
+  (i)  The likelihood of material misstatement due to the particular characteristics of the
+ relevant class of transactions, account balance, or disclosure (i.e., the inherent risk); and
+  (ii)  Whether the risk assessment takes into account the relevant controls  (i.e., the
+ control risk), thereby requiring the auditor to obtain audit evidence to determine whether
+ the controls are operating effectively (i.e., the auditor intends to rely on the operating
+ effectiveness of controls in determining the nature, timing and extent of substantive
+ procedures); and
+ (b)  Obtain more persuasive audit evidence the higher the auditor’s assessment
+ of risk.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+4.52         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+The auditor shall design and perform tests of controls to obtain sufficient appropriate audit
+evidence as to the operating effectiveness of relevant controls when:
+(a)  The auditor’s assessment of risks of material misstatement at the assertion level includes an
+expectation that the controls are operating effectively (i.e., the auditor intends to rely on the operating
+effectiveness of controls in determining the nature, timing and extent of substantive procedures); or
+(b)  Substantive procedures alone cannot provide sufficient appropriate audit evidence at the
+assertion level.
+In designing and performing tests of controls, the auditor shall obtain more persuasive audit
+evidence the greater the reliance the auditor places on the effectiveness of a control.Irrespective of
+the assessed risks of material misstatement, the auditor shall design and perform substantive
+procedures for each material class of transactions, account balance, and disclosure.
+
+TEST YOUR UNDERSTANDING 5
+CA. S is statutory auditor of a listed company. On reviewing internal controls of the company, he is
+of the view that there can be possible situations where insurance premiums for keeping insurance
+policies current in respect of various assets of company may have become due and payable but
+internal control systems established by the company may not be able to capture it.
+Elaborate how he should proceed to deal with the above matter.
+
+     8.  FRAMEWORKS OF INTERNAL CONTROL
+Corporate internal controls are part of governance mechanisms of every organisation and, whether
+a company adopts a global internal control framework or develops its own, management should
+always be guided by the need to safeguard business value. There are a number of global internal
+control frameworks that provide guidance to entities for developing and establishing their internal
+control systems.
+Control should be built and established within the processes through which the company pursues its
+objectives. It follows that, rather than developing separate risk reporting systems, it would be more
+appropriate to build early warning mechanisms into existing management information systems. The
+board of directors or those charged with governance need to consider whether they have enough
+timely, relevant and reliable reports on progress against business objectives and significant risks.
+Objective: Internal control is fundamental to the successful operation and day-to-day running of a
+business and it assists the company in achieving its business objectives. It is wider in scope and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.53
+
+encompasses all controls incorporated into the strategic, governance and management process,
+covering the company’s entire range of activities and operations, and not limited to those directly
+related to financial operations and reporting. There are many internal control frameworks. The
+objective of this chapter is to give an overview of the common international frameworks.
+Guidance Note on Audit of Internal Financial Controls Over Financial Reporting: ICAI has
+issued a Guidance Note on Audit of Internal Financial Controls Over Financial Reporting which
+covers aspects such as Scope of reporting on internal financial controls under Companies Act 2013,
+essential components of internal controls, Technical guidance on audit of Internal Financial Controls,
+Implementation guidance on audit of Internal Financial Controls. The Guidance Note states as
+below:
+“To state whether a set of financial statements presents a true and fair view,  it is essential to
+benchmark and check the financial statements for compliance with the financial reporting framework.
+The Accounting Standards specified under the Companies Act, 1956 (which are deemed to be
+applicable as per Section 133 of the 2013 Act, read with Rule 7 of Companies (Accounts) Rules,
+2014) is one of the criteria constituting the financial reporting framework based on which companies
+prepare and present their financial statements and against which the auditors evaluate if the financial
+statements present a true and fair view of the state of affairs and operations of the company in an
+audit of the financial statements carried out under the Companies Act, 2013.
+Similarly, a benchmark internal control system, based on suitable criteria, is essential to enable the
+management and auditors to assess and state adequacy of and compliance with the system of
+internal control. In the Indian context, students are advised to refer Appendix 1 “Internal Control
+Components” of SA 315, “Identifying and Assessing the Risks of Material Misstatement Through
+Understanding the Entity and its Environment” provides the necessary criteria for internal financial
+controls over financial reporting for companies.
+8.1  International Internal Control Frameworks
+An overview of different internal control frameworks followed internationally are given below:
+
+A.     Internal Control  - Integrated Framework issued by Committee of the Sponsoring
+      Organisations of the Treadway Commission (COSO Framework)
+
+COSO’s Internal Control – Integrated Framework was introduced in 1992 as guidance on how to
+establish better controls so companies can achieve their objectives. COSO categorizes entity-level
+objectives into operations, financial reporting, and compliance. The framework includes more than
+17 basic principles representing the fundamental concepts associated with its five components:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 54 ======================
+
+
+4.54         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+control environment,  risk assessment, control  activities, information and communication, and
+monitoring. Some of the principles include key elements for compliance, such as integrity and ethical
+values, authorities and responsibilities, policies and procedures, and reporting deficiencies.
+However, the Framework clarifies the requirements for effective internal control. This was largely
+done through the articulation of the 17 principles, which are relevant to every entity and must be
+present and functioning in order to have an effective system of internal control. Here are the tiles of
+the 17 internal control principles by internal control component as presented in COSO’s framework:
+
+ Control Environment      Risk             Control           Information    and   Monitoring
+                        Assessment      Activities        Communication
+     Demonstrates             Specifies        Selects and     Uses   relevant      Conducts
+    commitment       to       suitable         develops          information          ongoing
+      integrity and ethical       objectives        control          Communicates       and/or
+     values                       Identifies          activities           internally            separate
+     Exercises  oversight     and             Selects and     Communicates       evaluations
+      responsibility             analyses        develops          externally            Evaluates and
+     Establishes                  risk             general                            communicate
+      structure,  authority,      Assesses        controls                                  deficiencies
+    and responsibility          fraud risk        over
+                                               technology     Demonstrates               Identifies
+    commitment       to     and            Deploys
+    competence              analyses        through
+     Enforces                    significant        policies and
+     accountability           change         procedures
+
+The COSO Framework is designed to be used by organizations to assess the effectiveness of the
+system of internal control to achieve objectives as determined by management. The Framework lists
+three categories of objectives as below:
+•     Operations Objectives – related to the effectiveness and efficiency of the entity’s operations,
+       including operational and financial performance goals, and safeguarding assets against loss.
+•     Reporting Objectives – related to internal and external financial and non-financial reporting
+       to stakeholders, which would encompass reliability, timeliness, transparency, or other terms
+      as established by regulators, standard setters, or the entity’s policies.
+•    Compliance objectives – In the Framework, the compliance objective was described as
+        “relating to the entity’s compliance with applicable laws and regulations.” The Framework
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 55 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.55
+
+      considers the increased demands and complexities in laws, regulations, and accounting
+       standards.
+Limitations of Internal Control: The Framework acknowledges that there are limitations related to
+a system of internal control. For example, certain events or conditions are beyond an organization’s
+control, and no system of internal control will always do what  it was designed to do. Controls are
+performed by people and are  subject  to human  error,  uncertainties  inherent  in judgment,
+management override, and their circumvention due to collusion. An effective system of internal
+control recognizes their inherent limitations and addresses ways to minimize these risks by the
+design, implementation, and conduct of the system of internal control. However, an effective system
+will not eliminate these risks. An effective system of internal control provides reasonable assurance,
+not absolute assurance, that the entity will achieve its defined operating, reporting, and compliance
+objectives.
+ B.    Guidance on Assessing Control published by the Canadian Institute of Chartered
+       Accountants (CoCo)
+
+CoCo was introduced with the objective of improving organizational performance and decision-
+making with better controls, risk management, and corporate governance.
+The Criteria of Control (CoCo) framework was developed by the Canadian Institute of Chartered
+Accountants with the objective of improving organisational performance and decision making with
+better controls, risk management, and corporate goverance. The framework includes 20 criteria for
+effective control in four areas of an organization: purpose (direction), commitment (identity and
+values), capability (competence), and monitoring and learning (evolution).
+The framework emphasizes that control involves the entire organization but begins on an individual
+level, with the employee.
+The CoCo framework outlines criteria for effective control in the following four areas:
+•     Purpose
+•     Commitment
+•      Capability
+•      Monitoring and Learning
+In order to assess whether controls exist and are operating effectively, each criterion would be
+examined to identify the controls that are in place to address them.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 56 ======================
+
+
+4.56         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+C.    Control Objectives for Information and Related Technology (COBIT)
+
+COBIT stands for Control Objectives for Information and Related Technology.  It is a framework
+created by the ISACA (Information Systems Audit and Control Association) for IT governance and
+management. COBIT has 34 high-level processes that cover 210 control objectives categorized in
+four domains: planning and organization, acquisition and implementation, delivery and support, and
+monitoring and evaluation. It is designed as a supportive tool for managers and allows bridging the
+crucial gap between technical issues, business risks and control requirements.
+Business managers are equipped with a model to deliver value to the organization and practice
+better risk management practices associated with the IT processes.  It is a control model that
+guarantees the integrity of the information system. Today, COBIT is used globally by all managers
+who are responsible for the IT business processes. It is a thoroughly recognized guideline that can
+be applied to any organization across industries. Overall, COBIT ensures quality, control and
+reliability of information systems in organization, which is also the most important aspect of every
+modern business.
+This framework guides an organization on how to use IT resources (i.e., applications, information,
+infrastructure, and people) to manage IT domains, processes, and activities to respond to business
+requirements,  which  include  compliance,  effectiveness,  efficiency,  confidentiality,  integrity,
+availability, and reliability. Well-governed IT practices can assist businesses in complying with laws,
+regulations, and contractual arrangements.
+ D.     Internal Control: Guidance for Directors on the Combined Code, published by the
+        Institute of Chartered Accountants in England & Wales (known as the Turnbull
+       Report)
+
+When the Combined Code of the Committee on Corporate Governance (the Code) was published,
+the Institute of Chartered Accountants in England & Wales agreed with the London Stock Exchange
+that it would provide guidance to assist listed companies to implement the requirements in the Code
+relating to internal control. The key principles of the Code are enunciated as below:
+•    The board should maintain a sound system of internal control to safeguard shareholders’
+      investment and the company’s assets.
+•    The directors should, at least annually, conduct a review of the effectiveness of the group’s
+      system of internal control and should report to shareholders that they have done so. The
+      review should cover all controls, including financial, operational and compliance controls and
+        risk management.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 57 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.57
+
+•     Companies which do not have an internal audit function should from time to time review the
+      need for one.
+The guidance requires  directors  to exercise judgement  in reviewing how the company has
+implemented the requirements of the Code relating to internal control and reporting to shareholders
+thereon. The guidance is based on the adoption by a company’s board of a risk-based approach to
+establishing a sound system of internal control and reviewing its effectiveness. This should be
+incorporated by the company within its normal management and governance processes. It should
+not be treated as a separate exercise undertaken to meet regulatory requirements.
+
+E.    Sarbanes-Oxley Section 404
+
+Section 404 of Sarbanes-Oxley Act (Sarbanes-Oxley Act Section 404) of United States of America
+mandates that all publicly-traded companies must establish internal controls and procedures for
+financial reporting and must document, test and maintain those controls and procedures to ensure
+their effectiveness. The purpose of SOX is to reduce the possibilities of corporate fraud by increasing
+the stringency of procedures and requirements for financial reporting. The Sarbanes Oxley Act, has
+revamped federal regulations pertaining to publicly traded companies’ corporate governance and
+reporting obligations.  It was followed up with constitution of PCAOB (Public Company Accounting
+Oversight Board).   It regulates the audits of public companies and SEC-registered brokers and
+dealers in order to protect investors and further the public interest in the preparation of informative,
+accurate, and independent audit reports.
+The SEC rules and PCAOB standard require that:
+•    Management perform a formal assessment of its controls over financial reporting including
+       tests that confirm the design and operating effectiveness of the controls.
+•    Management include in its annual report an assessment of ICFR.
+•    The external auditors provide two opinions as part of a single integrated audit of the company:
+          -     An independent opinion on the effectiveness of the system of ICFR.
+          -     The traditional opinion on the financial statements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 58 ======================
+
+
+4.58         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+Case Study
+Following is extract of information taken from draft financial statements of Find me Limited engaged in
+manufacturing of bicycles put up before you for audit for year 2022-23: -              (` In lacs)
+
+Particulars                                                      2022-23          2021-22
+Revenue from operations                                         35000           25000
+Cost of sales                                                  26950           20000
+Gross Profit                                                    8050            5000
+Operating expenses                                              3825            3825
+Finance costs                                                    225             275
+Depreciation and amortization expenses                              1200            1300
+Profit before tax                                                 2800              (400)
+Tax expense – current tax                                          750               0
+Deferred tax                                                                  (50)              (385)
+Total tax expense                                                 700              (385)
+Profit after tax                                                   2100              15
+Trade receivables                                                6000            3000
+Inventories                                                    10000            6000
+The company has not made any substantial additions in its plant capacity during year 2022-23. It
+has reduced its dealer network and is approaching customers directly using its online platform.
+Encouraging response has been received from customers and sales have gathered momentum
+through online platform.
+You are planning to use analytical procedures as risk assessment procedures. Keeping in view
+above, answer the following questions: -
+1.  The revenue from operations of company has increased by 40% in year 2022-23 as
+compared to last year. There are no additions in plant capacity. Which of the following
+statements is most appropriate in this regard?
+(a)  There is audit risk that revenue from operations is overstated.
+(b)  There is audit risk that revenue from operations is not overstated.
+(c)  There is audit risk that fresh customers of company do not make payments.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 59 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.59
+
+(d)  There  is audit risk that company  is overutilizing  its plant capacity leading to rapid plant
+obsolescence.
+2.  The operating expenses of financial year 2021-22 and 2022-23 are same. Which of the
+following statements is most appropriate in overall context of case study?
+(a)  Operating expenses figures of two years can be same. There is no audit risk involved.
+(b)    It is an anomaly. However, there is no audit risk involved.
+(c)  There is audit risk that previous year figures need to be revised under Companies Act.
+(d)  There is audit risk that previous year figures have been presented in place of current year
+figures in draft financial statements.
+3.   Trade receivables turnover ratio has increased from 1.44 months in year 2021-22 to more
+than 2 months in year 2022-23. Identify the most appropriate statement.
+(a)   In direct distribution through online platform, trade receivables turnover ratio is estimated to be
+high. Therefore, there is no audit risk involved.
+(b)   In direct distribution through online platform, trade receivables turnover ratio should have fallen.
+Therefore, there is no audit risk involved.
+(c)   In direct distribution through online platform, trade receivables turnover ratio should have fallen.
+It is possible that some of the dealers may not be meeting their commitments of past contracts.
+Therefore, there is audit risk that trade receivables could be undervalued.
+(d)   In direct distribution through online platform, trade receivables turnover ratio should have fallen.
+It is possible that some of the dealers may not be meeting their commitments of past contracts.
+Therefore, there is audit risk that trade receivables could be overvalued.
+4.   The gross  profit  ratio of company has increased by 3% during year 2022-23  in
+comparison to last year. Which of the following statements is most appropriate?
+(a)  There is audit risk that there is overstatement of cost of sales.
+(b)  There is audit risk that margins with customers may have increased.
+(c)  There is audit risk that closing inventories may be undervalued.
+(d)  There is audit risk that cost of sales may not be completely recorded.
+5.   Inventory turnover ratio has increased from 2.88 months in year 2021-22 to about 3.42
+months in year 2022-23. Which of the following statements is likely to be in accordance with
+overall context of case study?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 60 ======================
+
+
+4.60         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+(a)  Revenue jump in current year may have led to need for raising inventory holding levels.
+Therefore, there is audit risk pertaining to misstatement of inventories.
+(b)  Raising of inventory levels may raise locked up funds in inventories. There is audit risk that it
+can lead to rise in costs.
+(c)  Revenue jump in current year may have led to need for raising inventory holding levels.
+However, there is also a risk that some of inventories with dealers could have become obsolete. It
+leads to audit risk that inventories may be overvalued.
+(d)  There is audit risk on account of both the factors stated at [b] & [c].
+
+
+Key Takeaways
+
+     Audit risk is the risk of expressing an inappropriate audit opinion on financial statements that
+      are materially misstated. The components of audit risk include inherent risk, control risk and
+       detection risk. Audit Risk (AR) can be expressed as a product of Inherent Risk (IR), Control
+      Risk (CR) and Detection Risk (DR), i.e. AR = IR x CR x DR
+     Auditors are required to assess the risks of material misstatement at two levels. The first is
+       at the overall financial statement level, which refers to risks of material misstatement that
+       relate pervasively  to the  financial statements as a whole and  potentially  affect many
+       assertions and second one relates to risks identifiable with specific assertions at the class of
+       transactions, account balance, or disclosure level.
+   A set of internally generated policies and procedures adopted by the management of an
+       enterprise is a prerequisite for an organisations efficient and effective performance. It is thus,
+      a primary responsibility of every management to create and maintain an adequate system of
+       internal control appropriate to the size and nature of the business entity.
+     Internal control is the process designed, implemented and maintained by those charged with
+      governance, management and other personnel to provide reasonable assurance about the
+      achievement  of an  entity’s  objectives  with regard  to  reliability  of  financial  reporting,
+       effectiveness and efficiency of operations, safeguarding of assets, and compliance with
+       applicable laws and regulations.
+     Internal  control, no matter how  effective, can provide an  entity with only reasonable
+      assurance and not absolute assurance about achieving the entity’s operational, financial
+       reporting and compliance objectives.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 61 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.61
+
+    Components of internal control include control environment, entity’s risk assessment process,
+       the information system, including the related business processes, relevant to financial
+       reporting, and communication, control activities and monitoring of controls.
+    Review of internal control system enables auditor to formulate his opinion as to the reliance
+      he may place on the system itself i.e. whether the system is such as would enable the
+     management to produce a true and fair set of financial statements; and     to   locate   the
+      areas of weakness in the system so that the audit programme and the nature, timing and
+       extent of substantive and compliance audit procedures can be adjusted to meet the situation.
+      In accordance with SA 265,  it is auditor’s responsibility to communicate appropriately to
+      those charged with governance and management deficiencies in internal control that the
+       auditor has identified during the audit and that, in the auditor’s professional judgment, are of
+        sufficient importance to merit their respective attentions.
+    Based upon risks of material misstatements identified and assessed by the auditor, auditor
+      develops responses to assessed risks.SA 330 deals with the auditor’s responsibility to design
+      and implement responses to the risks of material misstatement identified and assessed by
+       the auditor in accordance with SA 315.
+    Corporate internal controls are part of governance mechanisms of every organisation and,
+      whether a company adopts a global  internal control framework  or develops  its own,
+     management should always be guided by the need to safeguard business value. There are a
+     number of global internal control frameworks that provide guidance to entities for developing
+      and establishing their internal control systems.
+
+    FOR SHORTCUT TO ENGAGEMENT & QUALITY CONTROLS STANDARDS
+                       WISDOM: SCAN ME !
+
+
+Note : Content of SA 315-Identifying and Assessing the Risk of Material Misstatement through
+Understanding the Entity and its Environment and SA 320-Materiality in Planning and Performing an
+Audit is covered in depth at Intermediate level. Thus, application part of above SAs may be
+discussed in the form of Case Study at Final level.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 62 ======================
+
+
+4.62         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+              TEST YOUR KNOWLEDGE
+
+Theoretical Questions
+1.    CA. B was appointed as the auditor of ABC Limited for the financial year 2022-23. During the
+      course of planning for the audit, CA. B intends to apply the concept of materiality for the
+       financial statements as a whole. Please guide him with respect to the factors that may affect
+       the identification of an appropriate benchmark for this purpose.
+     What benchmark should be adopted by CA. B, if ABC Limited is engaged in:
+          (i)     the manufacture and sale of air conditioners and is having regular profits.
+           (ii)    the construction of large infrastructure projects and incurred losses in the previous two
+               financial years, due to pandemic.
+2.    What are the components of an internal control framework?
+3.     During the course of his audit, the auditor noticed material weaknesses in the internal control
+      system and he wishes to communicate the same to the management. You are required to
+       elucidate the important points the auditor should keep in the mind while drafting the letter of
+      weaknesses in internal control system.
+4.     Explain briefly the Flow Chart technique for evaluation of the Internal Control system.
+5.    As auditor of Z Ltd., you would like to limit your examination of account balance tests. What
+      are the control objectives you would like the accounting control system to achieve to suit your
+      purpose?
+6.   New Life Hospital is a multi-speciality hospital which has been facing a lot of pilferage and
+       troubles regarding their inventory maintenance and control. On investigation into the matter
+            it was found that the person in charge of inventory inflow and outflow from the store house is
+       also responsible for purchases and maintaining inventory records. According to you, which
+       basis system of control has been violated? Also  list down the other general conditions
+       pertaining to such system which needs to be maintained and checked by the management.
+7.    Compute the overall Audit Risk  if looking to the nature of business there are chances that
+     40%  bills  of  services  provided would be  defalcated,  inquiring on  the same  matter
+     management has assured that internal control can prevent such defalcation to 75%.At his
+       part the Auditor assesses that the procedure he could apply in the remaining time to complete
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 63 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.63
+
+       Audit gives him satisfaction level of detection of frauds & error to an extent of 60%. Analyse
+       the Risk of Material Misstatement and find out the overall Audit Risk.
+8.    ST Ltd is a growing company and currently engaged in the business of manufacturing of tiles.
+     The company is planning to expand and diversify  its operations. The management has
+      increased the focus on the internal controls to ensure better governance. The management
+      had a discussion with the statutory auditors to ensure the steps required to be taken so that
+       the statutory audit is risk based and focused on areas of greatest risk to the achievement of
+       the company’s objectives. Please advise the management and the auditor on the steps that
+      should be taken for the same.
+9.   Y Co. Ltd. has five entertainment centers to provide recreational facilities for public especially
+        for children and youngsters at 5 different locations in the peripheral of 200 kilometers.
+       Collections are made in cash. Specify the adequate system towards collection of money.
+10.   The effectiveness of controls cannot rise above the integrity and ethical values of the people
+     who create, administer, and monitor them. Explain.
+11.   Your engagement team is seeking advice from you as engagement partner regarding steps
+        for risk identification. Elaborate.
+12.   BSF Limited is engaged in the business of trading leather goods. You are the internal auditor
+       of the company for the year 2019-20. In order to review internal controls of the Sales
+      Department of the company, you visited the Department and noticed the work division as
+       follows:
+        (1)   An officer was handling the sales ledger and cash receipts.
+        (2)    Another official was handling dispatch of goods and issuance of Delivery challans.
+        (3)   One more officer was there to handle customer/ debtor accounts and issue of receipts.
+     As an internal auditor, you are required to briefly discuss the general condition pertaining to
+       the internal check prevalent in internal control system. Do you think that there was proper
+       division of work in BSF Limited? If not, why?
+Answers to Case Study Question
+1.     (a)
+2.     (d)
+3.     (d)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 64 ======================
+
+
+4.64         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+4.     (d)
+5.      (c)
+Answers to Test your Understanding Question
+1.     Evaluation  of  internal  controls  influences  auditor’s assessment  of  risks  of  material
+      misstatement. Risks of material misstatement also consists of control risk.
+       In the given situation of statutory audit of a Divisional office of a public sector insurance
+      company, it is noticed that procedure relating to delegation of powers has not been followed
+      and surveyor appointments have been made in violation of laid down procedures.  It is a
+       serious violation and shows that controls are not operating effectively as laid down by
+     company management.
+     Such deviations from established controls may lead auditor to conclude that control risk needs
+       to be revised. Revision of control risk assessment is likely to lead to revision in risks of
+       material misstatement.   It may also result in modification of nature, timing and extent of
+      planned substantive procedures.
+2.    For assessing audit risk, auditor shall consider all components of audit risk. The said NGO is
+      working  in a  political-cum-social  field which can make  its  activities  inherently  risky.
+      Crowdfunding donations may have to be seen in relation to constitution of NGO which may
+     make these risky. Since the NGO is in receipt of foreign funds,  it may make transactions
+       inherently risky. The credibility and integrity of persons behind NGO is important. Shady
+    NGOs can be involved in money laundering activities and may be involved in mis utilizing
+      funds from donors. Since last year accounts were unaudited, it also increases inherent risk
+      due to probable effect of misstatements, if any, of last year. Non-compliance with strict laws
+      has the potential to make activities of NGO inherently risky.
+      Since NGO has received substantial donations in current year and its activities were on a
+        relatively small scale during last year, formal controls may not be in place. Lack of formal
+       controls may lead to non-compliance with laws. Non-compliance with FCRA can have serious
+      consequences including cancelling such certificate of NGO. Therefore, control risk could be
+       high.
+       Further, audit for NGO has been accepted for the  first time. There may be a lack of
+      understanding of activities of NGO. It may lead to higher detection risk due to inappropriate
+      sampling procedures or faulty application of audit procedures.
+3.     Internal audit involves continuous and critical appraisal of functioning of an entity with a view
+       to suggest improvements thereto and add value to and strengthen the overall governance
+     mechanism of the entity including its strategic risk management and internal control system.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 65 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.65
+
+       Internal audit also involves evaluation of internal control to provide assurance to management
+       regarding design, implementation and operating effectiveness of control.
+       In the given situation, information system requires booking of purchases in purchase ledger
+      and stock records from date of invoice. Such a control system is likely to present a distorted
+       picture of stocks of the company. It would show stocks of raw material as received whereas
+      these goods could be in transit. Therefore, design of the control itself is faulty which allows
+      booking from date of purchase invoice only. Further, such a system can have implications
+       with respect to GST laws.
+    The internal auditor should report above matter asking management for corrective action.
+4.    The above referred component of internal control is “Control activities”. Control activities that
+     may be relevant to an audit include policies and procedures that pertain to “performance
+       reviews”.
+     Such control activities include reviews and analyses of actual performance versus budgets,
+       forecasts, and prior period performance; relating different sets of data – operating or financial
+      – to one another, together with analyses of the relationships and investigative and corrective
+       actions; comparing internal data with external sources of information; and review of functional
+       or activity performance.
+     The control activities pertaining to analysis of budgeted target of sales with respect to actual
+      performance, fixing of responsibilities and taking timely corrective action falls in nature of
+      performance reviews. Such performance reviews are part of control activities which is a
+      component of internal control.
+5.   A deficiency in internal control exists when: -
+          (i)   A control is designed, implemented or operated in such a way that  it is unable to
+              prevent, or detect and correct, misstatements in the financial statements on a timely
+             basis or
+           (ii)   A control necessary to prevent, or detect and correct, misstatements in the financial
+             statements on a timely basis is missing.
+       In above situation, there is a possibility that internal control systems established by the
+     company may not be able to capture insurance premiums which may have become due and
+      payable. It is a significant deficiency as failure to keep insurance policies current would render
+      assets of the company uninsured.  It may lead to losses for the company in case of any
+       eventuality.
+       Further, in accordance with SA 265, the significance of a deficiency or a combination of
+       deficiencies in internal control depends not only on whether a misstatement has actually
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 66 ======================
+
+
+4.66         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+       occurred, but also on the likelihood that a misstatement could occur and the potential
+      magnitude of the misstatement. Significant deficiencies may, therefore, exist even though the
+       auditor has not identified misstatements during the audit.
+     The susceptibility to loss of an asset is a factor in determining whether a deficiency constitutes
+        significant deficiency in internal control.
+     The auditor shall communicate in writing significant deficiency in internal control to those
+      charged with governance and include in the written communication of significant deficiencies
+        in internal control: -
+       (a)   A description of the deficiencies and an explanation of their potential effects and
+       (b)    Sufficient information to enable those charged with governance and management to
+            understand the context of the communication.
+Answers to Theoretical Questions
+1.    Use of Benchmarks in Determining Materiality for the Financial Statements as a Whole:
+     As per SA 320, determining materiality involves the exercise of professional judgment. A
+      percentage  is often applied to a chosen benchmark as a starting point in determining
+       materiality for the financial statements as a whole.
+      Factors that may affect the identification of an appropriate benchmark include the
+      following:
+      •    The elements of the financial statements (for example, assets,  liabilities, equity,
+             revenue, expenses);
+      •     Whether there are items on which the attention of the users of the particular entity’s
+               financial statements tends to be focused (for example, for the purpose of evaluating
+               financial performance users may tend to focus on profit, revenue or net assets);
+      •    The nature of the entity, where the entity is at in its life cycle, and the industry and
+           economic environment in which the entity operates;
+      •    The entity’s ownership structure and the way it is financed (for example, if an entity is
+             financed solely by debt rather than equity, users may put more emphasis on assets,
+           and claims on them, than on the entity’s earnings); and
+      •    The relative volatility of the benchmark.
+      Determining a percentage to be applied to a chosen benchmark involves the exercise of
+       professional judgment. There  is a relationship between the percentage and the chosen
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 67 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.67
+
+      benchmark, such that a percentage applied to profit before tax from continuing operations
+         will normally be higher than a percentage applied to total revenue.
+       In case if ABC Limited is engaged in manufacture and sale of air conditioner, and is having
+       regular profits: CA. B, the auditor may consider profit before tax /Earnings.
+       In case  if ABC Limited is engaged in the construction of large infrastructure projects and
+       incurred losses in the previous two financial years, due to pandemic: CA. B, the auditor may
+       consider Revenue or Gross Profit as benchmarking. Alternatively, CA B, the auditor may
+       consider the criteria relevant for audit of the entities doing public utility programs/ projects,
+       Total cost or net cost (expenses less revenues or expenditure less receipts) may be
+       appropriate benchmarks for that particular program/project activity. Where an entity has
+      custody of the assets, assets may be an appropriate benchmark.
+2.    There are five components of an internal control framework. They are as follows:
+      •     Control Environment;
+      •     Risk Assessment;
+      •      Information & Communication;
+      •      Monitoring;
+      •     Control Activities.
+3.    Important Points to be kept in Mind While Drafting Letter of Weakness: As per SA 265,
+      “Communicating Deficiencies in Internal Control to Those who Charged with Governance and
+      Management”,  the  auditor  shall  include  in  the  written communication  of  significant
+       deficiencies in internal control -
+          (i)   A description of the deficiencies and an explanation of their potential effects; and
+           (ii)     Sufficient information to enable those charged with governance and management to
+            understand the context of the communication.
+       In other words, the auditor should communicate material weaknesses to the management or
+       the audit committee, if any, on a timely basis. This communication should be, preferably, in
+       writing through a letter of weakness or management letter. Important points with regard to
+      such a letter are as follows-
+       (1)   The letter lists down the area of weaknesses in the system and offers suggestions for
+            improvement.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 68 ======================
+
+
+4.68         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+        (2)       It should clearly indicate that it discusses only weaknesses which have come to the
+              attention of the auditor as a result of his audit and that his examination has not been
+            designed to determine the adequacy of internal control for management.
+        (3)    This letter serves as a valuable reference document for management for the purpose
+               of revising the system and insisting on its strict implementation.
+       (4)   The letter may also serve to minimize legal liability in the event of a major defalcation
+              or other loss resulting from a weakness in internal control.
+4.     Refer Para 6.1.3
+5.     Basic Accounting Control Objectives: The basic accounting control objectives which are
+      sought to be achieved by any accounting control system are -
+          (i)    Whether all transactions are recorded;
+           (ii)    Whether recorded transactions are real;
+           (iii)   Whether all recorded transactions are properly valued;
+         (iv)   Whether all transactions are recorded timely;
+        (v)    Whether all transactions are properly posted;
+         (vi)   Whether all transactions are properly classified and disclosed;
+         (vii)   Whether all transactions are properly summarized.
+6.    Basic system of Control: Internal Checks and Internal Audit are important constituents of
+      Accounting Controls. Internal check system implies organization of the overall system of
+      book-keeping and arrangement of Staff duties in such a way that no one person can carry
+      through a transaction and record every aspect thereof.
+       In the given case of New Life Hospital, the person-in-charge of inventory inflow and outflow
+      from the store house is also responsible for purchases and maintaining inventory records.
+      Thus, one of the basic system of control i.e. internal check which includes segregation of
+       duties or maker and checker has been violated where transaction processing are allocated
+       to different persons in such a manner that no one person can carry through the completion
+       of a transaction from start to finish or the work of one person is made complimentary to the
+      work of another person.
+     The general condition pertaining to the internal check system may be summarized as under-
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 69 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.69
+
+          (i)   No single person should have complete control over any important aspect of the
+            business operation. Every employee’s action should come under the review of another
+             person.
+           (ii)     Staff duties should be rotated from time to time so that members do not perform the
+          same function for a considerable length of time.
+           (iii)   Every member of the staff should be encouraged to go on leave at least once a year.
+         (iv)   Persons having physical custody of assets must not be permitted to have access to
+             the books of accounts.
+        (v)    There should exist an accounting control in respect of each class of assets, in addition,
+             there should be periodical inspection so as to establish their physical condition.
+         (vi)   Mechanical devices should be used, where ever practicable to prevent loss or
+             misappropriation of cash.
+         (vii)   Budgetary control should be exercised and wide deviations observed should be
+              reconciled.
+          (viii)  For inventory taking, at the close of the year, trading activities should, if possible be
+            suspended, and  it should be done by staff belonging to several sections of the
+              organization.
+         (ix)   The financial and administrative powers should be distributed very judiciously among
+               different officers and the manner in which those are actually exercised should be
+            reviewed periodically.
+        (x)    Procedures should be laid down for periodical verification and testing of different
+             sections of accounting records to ensure that they are accurate.
+7.     According to SA-200, “Overall Objectives of the Independent Auditor and the Conduct of an
+       Audit in Accordance with Standards on Auditing”, the Audit Risk is a risk that Auditor will issue
+      an inappropriate opinion while Financial Statements are materially misstated.
+       Audit Risk, has two components: Risk of material Misstatement and Detection Risk. The
+       relationship can be defined as follows.
+       Audit Risk = Risk of material Misstatement X Detection Risk
+      Risk of material Misstatement:  - Risk of Material Misstatement is anticipated risk that a
+       material Misstatement may exist in Financial Statement before start of the Audit. It has two
+      components Inherent risk and Control risk. The relationship can be defined as
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 70 ======================
+
+
+4.70         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+      Risk of material Misstatement = Inherent risk X control risk
+       Inherent risk: it is a susceptibility of an assertion about account balance; class of transaction,
+       disclosure towards misstatements which may be either individually or collectively with other
+      Misstatement becomes material before considering any related internal control which is 40%
+        in the given case.
+       Control risk: it is a risk that there may be chances of material Misstatement even if there is a
+       control applied by the management and it has prevented defalcation to 75%.
+      Hence, control risk is 25% (100%-75%)
+      Risk of material Misstatement: Inherent risk X control risk  i.e. 40% X 25 % = 10%
+     Chances of material Misstatement are reduced to 10% by the internal control applied by
+      management.
+       Detection risk: It is a risk that a material Misstatement remained undetected even if all Audit
+      procedures applied, Detection Risk is 100-60=40%
+       In the given case, overall Audit Risk can be reduced up to 4% as follows:
+       Audit Risk: Risk of Material Misstatement X Detection Risk = 10X 40% = 4%
+8.     Refer Para 2.2
+9.    Control System over Selling and Collection of Tickets: In order to achieve proper internal
+       control over the sale of tickets and its collection by the Y Co. Ltd., following system should
+      be adopted -
+          (i)     Printing of tickets:  Serially numbered pre-printed  tickets should be used and
+            designed in such a way that any type of ticket used cannot be duplicated by others in
+             order to avoid forgery. Serial numbers should not be repeated during a reasonable
+              period, say a month or year depending on the turnover. The separate series of the
+               serial should be used for such denomination.
+           (ii)    Ticket sales: The sale of tickets should take place from the Central ticket office at
+           each of the 5 centres, preferably through machines. There should be proper control
+             over the keys of the machines.
+           (iii)    Daily cash reconciliation: Cash collection at each office and machine should be
+             reconciled  with the number  of  tickets  sold.  Serial number  of  tickets  for each
+             entertainment activity/denomination will facilitate the reconciliation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 71 ======================
+
+
+MATERIALITY, RISK ASSESSMENT AND INTERNAL CONTROL              4.71
+
+         (iv)   Daily banking: Each day’s collection should be deposited in the bank on next working
+            day of the bank. Till that time, the cash should be in the custody of properly authorized
+            person preferably in joint custody for which the daily cash in hand report should be
+            signed by the authorized persons.
+        (v)    Entrance ticket: Entrance tickets should be cancelled at the entrance gate when
+              public enters the centre.
+         (vi)   Advance booking: If advance booking of facility is made available, the system should
+            ensure that all advance booked tickets are paid for.
+         (vii)   Discounts and free pass: The discount policy of the Y Co. Ltd. should be such that
+             the concessional rates, say, for group booking should be properly authorized and
+            signed forms for such authorization should be preserved.
+          (viii)  Surprise checks: Internal audit system should carry out periodic surprise checks for
+            cash counts, daily banking, reconciliation and stock of unsold tickets etc.
+10.   Communication and enforcement of integrity and ethical values: Refer Para 4.1
+11.   Refer Para 1.3
+12.   The general condition pertaining to the internal check system may be summarized as under:
+       refer para 4.5
+       In the given scenario, Company has not done proper division of work as:
+          (i)     the receipts of cash should not be handled by the official handling sales ledger and
+           (ii)    delivery challans should be verified by an authorised official other than the officer
+             handling despatch of goods.
+
+
+© The Institute of Chartered Accountants of India

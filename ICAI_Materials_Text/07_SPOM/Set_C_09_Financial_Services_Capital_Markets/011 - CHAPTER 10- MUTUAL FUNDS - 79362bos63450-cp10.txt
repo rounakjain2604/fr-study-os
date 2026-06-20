@@ -1,0 +1,2383 @@
+Source PDF: 07_SPOM/Set_C_09_Financial_Services_Capital_Markets/011 - CHAPTER 10- MUTUAL FUNDS - 79362bos63450-cp10.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_09_Financial_Services_Capital_Markets\011 - CHAPTER 10- MUTUAL FUNDS - 79362bos63450-cp10.pdf
+Extracted at: 2026-05-31T10:34:40+05:30
+Pages: 60
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+11CHAPTER         10
+
+MUTUAL FUNDS
+
+
+                       LEARNING OUTCOMES
+After going through the chapter student shall be able to understand
+    Basics of Mutual Funds- Including its concepts and benefits etc.
+    Evolution of the Indian Mutual Fund Industry
+    Types of Mutual Funds
+       (1)    Structural Classification            (2)    Portfolio Classification
+    Evaluating performance of Mutual Funds
+       (1)    Net Asset Value (NAV)             (2)    Costs incurred by Mutual Fund
+       (3)    Holding Period Return (HPR)
+   The criteria for evaluating the performance
+       (1)   Sharpe Ratio                       (2)    Treynor Ratio
+       (3)    Jensen’s Alpha                     (4)    Sortino Ratio
+    Advantages and Disadvantages of Mutual Fund
+    Factors influencing the selection of Mutual Funds
+    Signals highlighting the exit of the investor from the Mutual Fund Scheme
+   Money Market Mutual Funds (MMMFS)
+   Exchange Traded Funds
+    Side Pocketing
+    Tracking Error
+    Real Estate Investment Trusts (ReITs)
+     Infrastructure Investment Trusts (InvITs)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+10.2           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+CHAPTER OVERVIEW
+
+                           Mutual Funds
+
+                            Basics of Mutual
+                             Funds
+
+                     Meaning     Evolution             Organization
+
+                                                        Sponsor
+
+                                                              Trustee
+
+                                                       Asset Management
+                                                 Company
+
+                                 Types of Mutual Funds
+
+        On the basis      On the basis of      Based on       On the basis of
+             of Structure            clasification of       Investment      Investment Portfolio
+                                          portfolio            objective
+                           Management
+           Open Ended                                                Equity
+                                      Active
+             Close Ended                                           Debt
+                                    Passive
+                                                                        Hybrid
+
+                                                                            Solution
+                                                                      Oriented &
+                                                                         other Funds
+
+                                                                               Multi Asset
+                                                              Funds
+
+                                                                               Arbitrage
+                                                                 Funds
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+10.3                          MUTUAL FUNDS
+
+
+    Explanation of Importants Terms
+
+    Net Asets Value (NAV) and Indicative NAV
+
+
+                             Performance Measurement
+
+                                                       Jenson
+    Cost         Point to         Rolling       Sharp &       Alpha &        Alpha &
+   Incurred     Point Return      Return      Treynor ratio      Sortino     Benchmarking
+                                                                 Ratio
+
+    Advantages and Disadvantages
+
+
+    Factors Influencing the Selection of Mutual Funds
+
+
+         Signals Highlighting the Exit of the Investor from the Mutual Fund Scheme
+
+           Money Market Mutual Funds
+
+                Separation of Distribution and Advisory Functions in the MF Industry
+
+               Exchange Traded Funds
+
+                Side Pocketing
+
+              Tracking Error
+
+        Real Estate Investment Trusts (REITs) & Infrastructure Investment Trusts (INVITs)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+10.4           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+     1.  MEANING
+A Mutual Fund is a pool of funds from a diverse cross section of society, that imparts the benefits of
+scale and professional management to the investors, which otherwise would not have been available
+to them. The rationale for any pooling of service is two-fold: affordability and convenience. Office
+commuters can go to the office by own vehicle or taxicab, which is the synonym for do-it-yourself in
+the context of investments. The other way of doing the office commute is by public transport like bus
+or train, which essentially is the pooling concept, bringing transport within the reach of those people
+who cannot afford their own vehicle. The synonym here is the Mutual Fund. To be noted, it is not
+just affordability due to which people may take to public transport; there could be reasons like saving
+the hassles of maintaining and driving own vehicle. The other benefit in the mutual fund context is
+professional management and tracking of investments.
+
+
+The diagram above illustrates that a mutual fund is a common pool of investments of a cross section
+of investors. To understand the concept better, please look at the following diagram:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+10.5                          MUTUAL FUNDS
+
+
+A Mutual Fund is a pool of investment funds of several investors who have a common investment
+objective. The asset management company that manages the day-to-day running of the fund invests
+the money collected in securities like stocks, bonds etc. The investors, called unit holders as they
+hold units in the pool proportionate to their investment, earn from the appreciation in the investments
+and dividend / coupon received in the fund. Thus, a Mutual Fund is the most suitable investment for
+the common man as well as HNIs since   it offers an opportunity  to invest  in a  diversified,
+professionally managed basket of securities at a relatively low cost.
+
+     2.  EVOLUTION
+2.1  History of Mutual Funds (Global)
+
+A mutual fund, as the term suggests, is a pooling of resources of many investors and is managed
+by professionals. The concept of pooling money for investments has been there for a long time. It
+began in the Netherlands in the 18th century; today it is a growing, international industry with fund
+holdings accounting for trillions of dollars in the United States alone. The closed-end investment
+companies launched in the Netherlands in 1822 by King William  I is supposedly the first mutual
+funds. Another theory says a Dutch merchant named Adriaan van Ketwich whose investment trust
+created in 1774 may have given the king the idea. The concept spread to Great Britain and France,
+and then to the United States in the 1890s.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+10.6           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+2.2  Expansion
+
+By the late 1920s, there were quite a few mutual funds in the USA. With the stock market crash of
+1929, some funds were wiped out, particularly the leveraged ones. The creation of the Securities
+and Exchange Commission (SEC), and the Securities Act of 1933 put certain safeguards for investor
+protection.
+
+Despite the global financial crisis of 2008-2009, the story of the mutual fund is far from over. In fact,
+the industry is still growing. In the U.S. alone there are more than 10,000 mutual funds and fund
+holdings are measured in the trillions of dollars.
+2.3  History of Mutual Funds in India
+
+The evolution of the mutual fund industry in India has been relatively more ‘administered’ i.e., there
+have been quite a few administrative interventions. The history, as delineated by Association of
+Mutual Funds of India (AMFI), is as follows:
+
+The mutual fund industry in India started in 1963 with the formation of Unit Trust of India, at the
+initiative of the Government of India and Reserve Bank of India. The history of mutual funds in India
+can be broadly divided into four distinct phases:
+
+2.3.1  First Phase – 1964-87
+
+Unit Trust of India (UTI) was established in 1963 by an Act of Parliament.  It was set up by the
+Reserve Bank of India and functioned under the Regulatory and administrative control of the
+Reserve Bank of India. In 1978 UTI was de-linked from the RBI and the Industrial Development Bank
+of India (IDBI) took over the regulatory and administrative control in place of RBI. The first scheme
+launched by UTI was Unit Scheme 1964. At the end of 1988, UTI had ` 6,700 crore of assets under
+management.
+
+2.3.2 Second Phase – 1987-1993 (Entry of Public Sector Funds)
+
+1987 marked the entry of non- UTI, public sector mutual funds set up by public sector banks and
+Life Insurance Corporation of India (LIC) and General Insurance Corporation of India (GIC). SBI
+Mutual Fund was the first non- UTI Mutual Fund established in June 1987 followed by Canbank
+Mutual Fund (Dec 87), Punjab National Bank Mutual Fund (Aug 89), Indian Bank Mutual Fund (Nov
+89), Bank of India (Jun 90), Bank of Baroda Mutual Fund (Oct 92). LIC established its mutual fund
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+10.7                          MUTUAL FUNDS
+
+
+in June 1989 while GIC had set up its mutual fund in December 1990. At the end of 1993, the mutual
+fund industry had assets under management of `47,004 crore.
+
+2.3.3 Third Phase – 1993-2003 (Entry of Private Sector Funds)
+
+With the entry of private sector funds in 1993, a new era started in the Indian mutual fund industry,
+giving the Indian investors a wider choice of fund families. Also, 1993 was the year in which the first
+Mutual Fund Regulations came into being, under which all mutual funds, except UTI, were to be
+registered and governed. The erstwhile Kothari Pioneer (now merged with Franklin Templeton) was
+the first private sector mutual fund registered in July 1993.
+
+The 1993 SEBI (Mutual Fund) Regulations were substituted by a more comprehensive and revised
+Mutual Fund Regulations in 1996. The industry now functions under the SEBI (Mutual Fund)
+Regulations, 1996.
+
+The number of mutual fund houses went on increasing, with many foreign mutual funds setting up
+funds in India and the industry has witnessed several mergers and acquisitions. As at the end of
+January 2003, there were 33 mutual funds with total assets of ` 1,21,805 crore. The Unit Trust of
+India with `44,541 crore of assets under management was way ahead of other mutual funds.
+
+2.3.4 Fourth Phase – since February 2003
+In February 2003, following the repeal of the Unit Trust of India Act 1963, UTI was bifurcated into
+two separate entities. One is the Specified Undertaking of the Unit Trust of India with assets under
+management of ` 29,835 crore as at the end of January 2003, representing broadly, the assets of
+US 64 scheme, assured return, and certain other schemes. The Specified Undertaking of Unit Trust
+of India, functioning under an administrator and under the rules framed by Government of India does
+not come under the purview of the Mutual Fund Regulations.
+The second is the UTI Mutual Fund, sponsored by SBI, PNB, BOB and LIC. It is registered with SEBI
+and functions under the Mutual Fund Regulations. With the bifurcation of the erstwhile UTI which
+had in March 2000 more than `76,000 crore of assets under management and with the setting up of
+a UTI Mutual Fund, conforming to the SEBI Mutual Fund Regulations, and with recent mergers taking
+place among different private sector funds, the mutual fund industry has entered its current phase
+of consolidation and growth.
+Growth in terms of quantum of funds managed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+10.8           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+                                       [Source: Website of Association of Mutual Funds (AMFI)]
+2.4  Mutual Fund Organization
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+10.9                          MUTUAL FUNDS
+
+There are various entities involved in the overall structure. They are explained as below:
+
+Sponsor
+Sponsor is the entity that creates a mutual fund. The rules are set by the Securities and Exchange
+Board of India, in the Mutual Fund Regulations of 1996. Sponsor  is defined under the SEBI
+regulations as any person who, acting alone or in combination with another body corporate,
+establishes a mutual fund. Sponsor is the promoter of the fund. A Sponsor could be a bank, a
+corporate or a financial institution. Sponsors then form a Trust and appoint a Board of Trustees. The
+sponsor also appoints Custodian.
+As per SEBI regulations, a sponsor must contribute at least 40% of the net worth of the Asset
+Management Committee (AMC) and possess a sound financial track record over five years prior to
+registration. Sponsor signs the trust deed with the trustees. Sponsor creates the AMC and the trustee
+company and appoints the board of directors of companies, with SEBI approval. Sponsor should
+have at least a 5-year track record in the financial services business and should have made a profit
+in at least 3 out of the 5 years. The AMC’s capital is contributed by the sponsor. Sponsor should
+contribute at least 40% of the capital of the AMC.
+Trust
+The Mutual Fund is a trust under the Indian Trusts Act, 1882. The trust deed is registered under the
+Indian Registration Act, 1908. The Trust oversees the safekeeping of the unit holders’ investments.
+Trustee
+The Board of Trustees i.e., the body of individuals, looks after safeguarding the interest of the unit
+holders. At least 2/3rd of the Trustees is independent i.e. not associated with the Sponsor. A mutual
+fund in India is form as Trust under Indian Trust Act, 1882. The trust-mf is managed by the Board of
+Trustees. The Board of Directors i.e. Trustees do not manage the portfolio of securities directly
+rather they supervise the work of AMC (Asset Management Company) and ensure that the fund is
+managed by stated objectives and as per SEBI regulations.
+Trusts always work for the interest of unit holders, and it is created through a document called Trust
+Deed that is executed by sponsors in favor of Trustees. The Trustees being the primary guardians
+of unit holder’s funds and assets, they must ensure that the investor’s interests are safeguarded and
+that the AMC operations are as per regulation laid down by SEBI. SEBI mandates a minimum of
+2/3rd independent directors on the board of the trustee company. Trustees are appointed by the
+sponsor with SEBI approval. The trustees make sure that the funds are managed according to the
+investor’s mandate.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+10.10          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+Asset Management Company (AMC)
+The AMC is that part of the mutual fund system that looks after the operations and investments of
+the MF. Formation of the AMC requires approval by SEBI. The AMC needs to have a net worth of `
+50 crore. The role of AMC is to act as investment manager of trust. The AMC (as appointed by
+trust/sponsor) requires approval by SEBI.
+The AMC is under the supervision of its own board of directors and the directors of trustees and
+SEBI. The trustees are empowered to terminate the appointment of AMC and appoint a new AMC
+with prior approval of SEBI and unit holders. The AMC, in the name of the Trust, manages different
+investment schemes as per the investment management agreement with the trustees. A Director of
+AMC should have complete professional experience in finance.
+The AMC cannot act as a trustee of any other MF. The AMC always acts in the interest of unit
+holders (investor). The AMC gets a fee for managing the funds, according to the mandate of the
+investors. At least ½ of the AMC’s Board should be of independent members. An AMC cannot
+engage in any business other than portfolio advisory and management. An AMC of one fund cannot
+be Trustee of another fund. AMC should be registered with SEBI. Also, AMC signs an investment
+management agreement with the trustees.
+
+     3.  TYPES OF MUTUAL FUNDS
+There are various types of mutual funds, classified primarily based on the underlying portfolio.
+3.1  On the basis of Structure
+
+3.1.1 Open Ended Funds
+It is a commonly used term in the mutual fund industry; let us understand the term for the investor.
+Most of the funds (or Schemes, technically) are open ended, ones that are available for purchase
+from the AMC and redemption with the AMC on an on-going basis, round the year on all working
+days, till it is wound up.
+What it means for the investor is, there is liquidity round the year - can be purchased anytime and
+can be sold (redeemed, technically) anytime i.e. the investor can enter and exit anytime. AMC issues
+new units when investor enters/purchase units form AMC and redeem/sells the units back to AMC.
+Listed open-ended funds can be sold at the Exchange as well, but in case of redemption with the
+AMC, liquidity is assured. There is no additional cost for this liquidity as AMCs do not charge any
+premium for redemption.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+10.11                          MUTUAL FUNDS
+
+Sometimes there is an exit load in an open-ended fund. It means  if the investor exits within that
+period, there will be a penalty charged on the exit value, but liquidity is available nonetheless at the
+cost of the exit load. It is a matter of discipline so that the investor comes in with the requisite horizon
+in mind and if she exits within that period, she pays adequate compensation to the other investors
+who are staying back.
+The implications of open-ended funds for the AMC are fund (or Scheme) corpus size volatility; fund
+size increases when investors purchase units from the AMC and fund size comes down when
+investors redeem units.
+An open-ended fund comes into existence through the New Fund Offer (NFO) process and the Fund
+(or Scheme) parameters are decided by the NFO documents - Scheme Information Document (SID)
+and Key Information Memorandum (KIM). There is another document called Scheme Additional
+Information (SAI).
+There is no defined maturity date for open-ended funds. If there is a single investor- the Scheme
+continues to be in existence. There are limitations on maximum holding by a single investor:  it is
+referred to commonly as the 20/25 rule i.e., there must be a minimum 20 investors to float a Scheme
+and maximum permissible holding per investor is 25%.
+
+3.1.2 Close Ended Funds
+Close ended funds are available for subscription only during the New Fund Offer (NFO) period and
+not beyond that. The initial subscription amount is collected from investors and the fund is ‘closed’
+after the NFO closure date i.e., no further purchase is allowed. There is no redemption possible with
+the AMC. Hence from the AMC’s perspective, the fund (or Scheme) corpus size is stable and there
+is no need to keep some portion in liquid or easily marketable securities to meet sudden redemption
+pressure.
+Close ended funds may have a defined maturity date e.g., fixed maturity plans (FMPs) that have a
+maturity date. In an open-ended structure, it is practically not feasible to have a maturity date as it
+is meant to be available for investment and redemption on an on-going basis. Closed ended funds
+are listed at the Exchange but are not as liquid as open-ended funds as there is no defined liquidity
+like redemption with the AMC.
+Broadly, open-ended funds are much more popular than closed ended as the mutual fund industry
+is supposed to provide investment solutions along with liquidity that is available at any point of time.
+Close Ended Funds are meant to fulfil a particular requirement.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+10.12          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+Difference between Open Ended Funds and Close Ended Funds
+ Particulars             Open-Ended Mutual Funds    Close-ended Mutual Funds
+ Lock-In Period           Such funds have no  lock-in  Close-ended mutual funds have
+                               period.  The  units  of  open-  a specific lock-in period.
+                        ended funds can be bought
+                         and sold at any point in time.
+
+                                                     Redemption of the units of such                        Sometimes the only exception                                                          funds is only possible after the                                 to  this  is  the  Equity Linked                                                                expiry of the said lock-in.                           Savings Scheme. It is an open-
+                        ended mutual fund that has a
+                             3-year lock-in.
+ Liquidity                 Open-ended funds are highly  Close-ended mutual funds have
+                                  liquid since the units can be  no liquidity since they can only
+                           bought and sold freely without  be redeemed after the expiry of
+                         any restrictions.                 the lock-in period.
+
+                                                         For  liquidity they have  to be
+                                                                  liquidated  by  selling  through
+                                                        Markets where they trade.
+ Mutual  Fund  Units  and  There’s no limit on either the  The number  of units and the
+ Fund Size               number of units in open-ended  fund size in close-ended mutual
+                           mutual funds or the fund size.   funds is limited.
+
+                     New units are created by the   Investors cannot invest in such
+                            fund  house  as  and  when  funds once  all the listed units
+                                individuals invest money into  have been subscribed.
+                             the fund.
+ Investment Method        Open-ended   mutual   funds  Since you can only subscribe to
+                            support    both    lump-sum   the units of a close-ended fund
+                            investments   as    well   as   during  the New  Fund  Offer
+                            Systematic Investment Plans  (NFO)  period,  only lump-sum
+                               (SIPs).                        investments are allowed.
+ Track     Record      of  Since   open-ended   mutual  Close-ended funds do not have
+ Performance               funds are perpetual by nature,  any     track     record     of
+                               track    records    of    past  performance.
+                          performances are available
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+10.13                          MUTUAL FUNDS
+
+3.2  On the basis of Classification of Portfolio Management
+Active Funds:
+Active Funds are mutual funds where the fund manager plays an active role in deciding whether to
+buy, sell or hold the investments. Active funds employ a variety of strategies to construct and
+manage their portfolios. For example, to outperform the entire market and others acting as powerful
+hedges against unforeseen market declines or corrections. In an Active Fund, the Fund Manager is
+‘Active’ in deciding whether to Buy, Hold, or Sell the underlying securities and in stock selection.
+Active funds adopt different strategies and styles to create and manage the portfolio.
+The investing strategy and style are explicitly available in the Scheme Information document (offer
+document). Active funds seek to outperform their benchmark index in terms of returns. Furthermore,
+the fund strategy determines  its risk and return characteristics. Active funds are expected to
+generate better returns (alpha) than the benchmark index. The risk and return in the fund will depend
+upon the strategy adopted. Active funds implement strategies to ‘select’ the stocks for the portfolio.
+Passive Funds:
+Passive funds are the index funds which track the market index and try to generate returns in line
+with the index. Fund managers of the passive funds invest in the components of the underlying index
+in the same proportion as the index. The objective of the passive funds is to generate market like
+returns. Passive Equity funds are the index funds which follow equity indices like Nifty 50 index or
+any of the sectoral indices.
+If you are a beginner and find it challenging to choose the right equity investment for your portfolio,
+passive equity funds are the ideal choice for you. These are simple, low cost and easy to track.
+Passive Funds hold a portfolio that replicates a stated Index or Benchmark, for example, Index
+Funds and Exchange Traded Funds (ETFs)
+In a Passive Fund, the fund manager has a passive role, as the stock selection / Buy, Hold, Sell
+decision is driven by the Benchmark Index and the fund manager / dealer merely needs to replicate
+the same with minimal tracking error.
+Difference Between Active and Passive Funds:
+(i)    Active Funds
+      •     Rely on professional fund managers who manage investments.
+      •    Aim to outperform Benchmark Index.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+10.14          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+      •     Suited for investors who wish to take advantage of fund managers' potential for
+             generating higher income.
+(ii)   Passive Funds
+      •     Investment holdings mirror and closely track a benchmark index, e.g., Index Funds or
+           Exchange Traded Funds (ETFs).
+      •     Suited for investors who want to allocate exactly as per market index.
+      •     Lower Expense ratio hence lower costs to investors and better liquidity.
+3.3  Investment based on Investment Objective
+Mutual funds offer products that cater to the different investment objectives of the investors such
+as–
+•      Capital Appreciation (Growth)
+•      Capital Preservation
+•     Regular Income
+•      Liquidity
+•     Tax-Saving
+Mutual funds also offer investment plans, such as Growth and Dividend options, to help tailor the
+investment to the investors’ needs.
+(Source: https://www.amfiindia.com/investor-corner/knowledge-center/types-of-mutual-fund-schemes.html)
+3.4  On the Basis of Investment Portfolio
+The Schemes would be broadly classified in the following groups:
+a.    Equity Schemes
+       Equity Schemes are those schemes which invest in Equity Shares. The target here is capital
+       appreciation and they are riskier due to equity component. Markets are considered to have
+       cycles thus these funds are considered better from the long-term perspective, as in the short
+       term, markets can be volatile.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+10.15                          MUTUAL FUNDS
+
+
+b.    Debt Schemes
+      Debt Schemes invest in fixed income securities thus target fixed income. The idea here is
+        diversification and they are safer than equity funds. But the quality of debt instrument in which
+       the fund is investing is always to be considered and selected.  If the quality, i.e. safety of
+       investment, is more then obviously the returns will be lower and vice versa. Thus, there are
+        different types of debt funds which are differentiated based on safety and returns they offer.
+      “The more the credit risk, the greater the return and less the credit risk lessor the return”.
+c.    Hybrid Schemes
+      Hybrid funds Invest in a mix of equities and debt securities. SEBI has classified Hybrid funds
+        into 7 sub-categories as follows:
+          (i)    Conservative Hybrid Fund  - 10% to 25% investment in equity & equity related
+             instruments; and 75% to 90% in Debt instruments.
+          (ii)   Balanced Hybrid Fund  - 40%  to 60% investment  in  equity &  equity  related
+             instruments; and 40% to 60% in Debt instruments.
+          (iii)   Aggressive Hybrid Fund  - 65% to 80% investment  in equity & equity related
+             instruments; and 20% to 35% in Debt instruments.
+        (iv)   Dynamic Asset Allocation or Balanced Advantage Fund -Investment in equity/ debt
+               that is managed dynamically (0% to 100% in equity & equity related instruments; and
+         0% to 100% in Debt instruments).
+        (v)    Multi Asset Allocation Fund - Investment in at least 3 asset classes with a minimum
+              allocation of at least 10% in each asset class.
+        (vi)   Arbitrage Fund - Scheme following arbitrage strategy, with minimum 65% investment
+                in equity & equity related instruments.
+         (vii)  Equity Savings Fund  - Equity and equity related instruments (min.65%); debt
+             instruments (min.10% and derivatives (min. for hedging to be specified in the SID).
+d.    Solution-oriented & Other funds
+          (i)    Retirement Fund - Lock-in for at least 5 years or  till retirement age whichever is
+                earlier.
+          (ii)    Children’s Fund - Lock-in for at least 5 years or till the child attains age of majority
+            whichever is earlier.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+10.16          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+          (iii)   Index Funds/ ETFs - Minimum 95% investment in securities of a particular index.
+        (iv)   Fund of Funds (Overseas/ Domestic) - Minimum 95% investment in the underlying
+              fund(s).
+       (v)   Hybrid funds - Invest in a mix of equities and debt securities. They seek to find a
+              ‘balance’ between growth and income by investing in both equity and debt.
+e.     Multi Asset Funds
+     A multi-asset fund offers exposure to a broad number of asset classes, often offering a level
+       of diversification typically associated with institutional investing. Multi-asset funds may invest
+        in several traditional equity and fixed income strategies, index-tracking funds, financial
+       derivatives as well as commodities like gold. This diversity allows portfolio managers to
+       potentially balance risk with reward and deliver steady, long-term returns for investors,
+        particularly in volatile markets.
+f.     Arbitrage Funds
+       “Arbitrage” is the simultaneous purchase and sale of an asset to take advantage of the price
+        differential in the two markets and profit from price difference of the asset on different markets
+       or in different forms. An arbitrage fund buys a stock in the cash market and simultaneously
+        sells it in the Futures market at a higher price to generate returns from the difference in the
+       price of the security in the two markets. The fund takes equal but opposite positions in both
+       the markets, thereby locking in the difference.
+     The positions must be held until expiry of the derivative cycle and both positions need to be
+      closed at the same price to realize the difference. The cash market price converges with the
+      Futures market price at the end of the contract period. Thus, it delivers risk-free profit for the
+       investor/trader. Price movements do not affect the initial price differential because the profit
+        in one market is set off by the loss in the other market. Since mutual funds invest their own
+       funds, the difference is the return.
+      Hence, Arbitrage funds are a good choice for cautious investors who want to benefit from a
+        volatile market without taking on too much risk.
+
+      (Source:https://www.amfiindia.com/investor-corner/knowledge-center/types-of-mutual-
+      fund-schemes.html)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+10.17                          MUTUAL FUNDS
+
+A.    Equity Schemes:
+  Sl.       Category of        Scheme Characteristics        Type of scheme
+ No.      Schemes                                                           (uniform description of
+                                                          scheme)
+  1    Multi Cap Fund      Minimum investment in equity   Multi Cap Fund – An open-
+                      & equity related instruments –  ended     equity    scheme
+                     65% of total assets              investing  across  large  cap,
+                                                      mid cap, small cap stocks
+  2   Large Cap Fund      Minimum investment in equity  Large Cap Fund – An open-
+                      & equity related instruments of  ended     equity    scheme
+                               large cap companies – 80% of  predominantly   investing   in
+                                     total assets                      large cap stocks
+  3   Large &  Mid  Cap  Minimum investment in equity  Large & Mid Cap Fund – An
+      Fund             & equity related instruments of  open-ended  equity  scheme
+                               large cap companies – 35% of   investing in both large cap and
+                                     total assets                  mid cap stocks
+                        Minimum investment in equity
+                      & equity related instruments of
+                          mid cap stocks – 35% of total
+                             assets
+  4   Mid Cap Fund       Minimum investment in equity  Mid Cap Fund – An open-
+                      & equity related instruments of  ended     equity    scheme
+                          mid cap companies – 65% of  predominantly investing in mid
+                                     total assets                  cap stocks
+  5   Small Cap fund      Minimum investment in equity  Small Cap Fund – An open-
+                      & equity related instruments of  ended     equity    scheme
+                              small cap companies – 65% of  predominantly   investing   in
+                                     total assets                     small cap stocks
+  6    Dividend Yield Fund   The     scheme      should  An open-ended equity scheme
+                             predominantly     invest     in  predominantly   investing   in
+                              dividend yielding stocks.         dividend yielding stocks
+                        Minimum investment in equity
+                          – 65% of total assets
+  7   Value Fund         Scheme should follow a value  An open-ended equity scheme
+                             investment strategy.             following a value investment
+                                                                 strategy                        Minimum investment in equity
+                      & equity related instruments –
+                     65% of total assets
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+10.18          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+  8   Contra Fund         The scheme should follow a  An open-ended equity scheme
+                               contrarian investment strategy.   following            contrarian
+                                                            investment strategy                        Minimum investment in equity
+                      & equity related instruments –
+                     65% of total assets
+  9   Focused Fund      A  scheme  focused  on  the  An open-ended equity scheme
+                         number  of stocks (maximum   investing   in  maximum  30
+                             30)                            stocks  (mention  where  the
+                                                  scheme intends to focus, viz;                        Minimum investment in equity                                                                    multi cap, mid cap, small cap)                      & equity related instruments –
+                     65% of total assets
+  10   Sectoral / Thematic   Minimum investment in equity  An open-ended equity scheme
+                      & equity related instruments of   investing in - sector (mention
+                          a  particular sector/ particular   the sector)
+                         theme – 80% of total assets                                                An open-ended equity scheme
+                                                                  following – theme (mention the
+                                                        theme)
+  11  ELSS              Minimum investment in equity  An open-ended equity linked
+                      & equity related instruments –  saving scheme with a statutory
+                     80%   of   total   assets   (in   lock  in  of 3 years and  tax
+                           accordance with Equity Linked   benefit
+                            Saving Scheme, 2005 notified
+                           by Ministry of Finance)
+
+For classification of companies as per market capitalization, the definition is as follows:
+•     Large Cap: 1st -100th company in terms of full market capitalization
+•    Mid Cap: 101st -250th company in terms of full market capitalization
+•     Small Cap: 251st company onwards in terms of full market capitalization
+B.    Debt Schemes:
+   Sr.         Category of        Scheme Characteristics      Type of scheme
+   No.         Schemes                                     (uniform description of
+                                                             scheme)
+    1     Overnight Fund          Investment    in    overnight  An   open-ended    debt
+                                       securities having maturity of 1  scheme    investing     in
+                               day                            overnight securities
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+10.19                          MUTUAL FUNDS
+
+    2      Liquid Fund             Investment   in  Debt  and  An   open-ended    liquid
+                            money market securities with  scheme
+                                     maturity of upto 91 days only
+    3      Ultra-Short    Duration  Investment in Debt & Money  An  open  ended  ultra  –
+         Fund                   Market instruments such that   short  term  debt scheme
+                                    the Macaulay duration of the   investing   in  instruments
+                                          portfolio is between 3 months   with  Macaulay   duration
+                               – 6 months                 between 3 months and 6
+                                                         months
+    4    Low Duration Fund       Investment in Debt & Money  An    open-ended    low
+                                 Market instruments such that   duration   debt   scheme
+                                    the Macaulay duration of the   investing   in  instruments
+                                          portfolio is between 6 months   with  Macaulay   duration
+                               – 12 months                between 6 months and 12
+                                                         months
+    5    Money market Fund      Investment in Money Market  An   open-ended    debt
+                                   instruments having  maturity  scheme investing in money
+                                  upto 1 year                  market instruments
+    6     Short Duration Fund      Investment in Debt & Money  An open-ended short-term
+                                 Market instruments such that  debt scheme investing  in
+                                    the Macaulay duration of the  instruments with Macaulay
+                                          portfolio is between 1 year –   duration between 1  year
+                               3 years                    and 3 years
+    7    Medium Duration Fund   Investment in Debt & Money  An  open-ended  medium-
+                                 Market instruments such that  term     debt    scheme
+                                    the Macaulay duration of the   investing   in  instruments
+                                          portfolio is between 3 years –   with  Macaulay   duration
+                               4 years                    between 3  years and 4
+                                                                years
+    8    Medium     to    Long  Investment in Debt & Money  An  open-ended  medium-
+          Duration Fund           market instruments such that  term     debt    scheme
+                                    the Macaulay duration of the   investing   in  instruments
+                                          portfolio  is between 4 – 7   with  Macaulay   duration
+                                  years                      between 4  years and 7
+                                                                years
+    9    Long Duration Fund      Investment in Debt & Money  An   open-ended    debt
+                                 Market Instruments such that  scheme    investing     in
+                                    the Macaulay duration of the  instruments with Macaulay
+                                          portfolio  is  greater  than 7   duration  greater  than  7
+                                  years                        years
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+10.20          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+   10    Dynamic Bond           Investment across duration    An  open-ended  dynamic
+                                                                debt  scheme   investing
+                                                               across duration
+   11    Corporate Bond Fund    Minimum    investment     in  An   open-ended    debt
+                                   corporate bonds – 80%  of  scheme     predominantly
+                                            total assets (only in highest   investing  in highest rated
+                                    rated instruments)             corporate bonds
+   12     Credit Risk Fund       Minimum    investment     in  An   open-ended    debt
+                                   corporate bonds – 65%  of  scheme investing in below
+                                            total  asset  (investment   in   highest   rated  corporate
+                                below     highest      rated  bonds
+                                    instruments)
+   13    Banking and PSU Fund  Minimum investment in Debt  An   open-ended    debt
+                                    instrument  of banks, Public  scheme     predominantly
+                                   Sector Undertakings, Public   investing       in     Debt
+                                     Financial Institutions – 80% of  instruments    of   banks,
+                                            total assets                    Public             Sector
+                                                                 Undertakings,       Public
+                                                                     Financial Institutions
+   14      Gilt Fund             Minimum    investment     in  An   open-ended    debt
+                              Gsecs – 80% of total assets  scheme    investing     in
+                                    (across maturity)             government      securities
+                                                               across maturity
+   15      Gilt Fund with 10-year  Minimum  investment  in G  An   open-ended    debt
+          constant duration        secs – 80% of  total assets  scheme    investing     in
+                                such   that   the  Macaulay  government      securities
+                                     duration  of  the  portfolio  is  having a constant maturity
+                                  equal to 10 years                of 10 years
+   16     Floater Fund           Minimum    investment     in  An   open-ended    debt
+                                         floating  rate  instruments  –  scheme     predominantly
+                         65% of total assets             investing  in  floating  rate
+                                                                  instruments
+
+For debt funds, the classification is based on Macaulay Duration, and not based on Average Maturity
+of Modified Duration.
+The calculation of Macaulay Duration has been dealt with in the Chapter – Security Valuation in the
+Advanced Financial Management Paper of CA Final Course.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+10.21                          MUTUAL FUNDS
+
+C.    Hybrid Schemes:
+   Sr.       Category of           Scheme              Type of scheme
+   No.       Schemes            Characteristics     (uniform description of scheme)
+    1     Conservative        Investment  in  equity &  An  open-ended  hybrid  scheme
+          Hybrid Fund         equity             related   investing  predominantly  in  debt
+                               instruments  –  between  instruments
+                      10% and 25 % of  total
+                              assets
+                              Investment     in   Debt
+                               instruments  –  between
+                      75% and 90%  of  total
+                              assets
+    2     Balanced   Hybrid  Equity & Equity  related  An open-ended balanced scheme
+         Fund               instruments  –  between   investing   in   equity  and  debt
+                      40% and 60 % of  total  instruments
+                                assets.
+                            Debt    instruments   –
+                           between 40% and 60% of
+                                      total assets
+                       No  arbitrage  would be
+                               permitted in this scheme
+          Aggressive Hybrid  Equity & Equity  related  An  open-ended  hybrid  scheme
+         Fund               instruments  –  between   investing predominantly  in equity
+                      65% and 80%  of  total  and equity related instruments
+                                assets;
+                            Debt    instruments   –
+                           between 20% and 35% of
+                                      total assets
+    3    Dynamic    Asset  Investment  in  equity   /  An open-ended dynamic  assets
+           Allocation       or  debt  that   is  managed   allocation fund
+         Balanced           dynamically
+         Advantage
+    4      Multi       Assets   Invests in at least three  An open-ended scheme investing
+           Allocation           asset  classes   with  a   in the three different asset classes
+                         minimum allocation of at
+                                  least 10%  each  in  all
+                                three asset classes
+    5     Arbitrage Fund     Scheme         following  An open-ended scheme investing
+                                 arbitrage        strategy.   in arbitrage opportunities
+                         Minimum  investment  in
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+10.22          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+                                equity &  equity  related
+                               instruments  – 65%  of
+                                      total assets
+    6     Equity Savings     Minimum  investment  in  An open-ended scheme investing
+                                equity &  equity  related   in equity, arbitrage and debt
+                               instruments  – 65%  of
+                                      total assets and minimum
+                              investment in debt – 10%
+                                   of total assets
+                         Minimum   hedged   &
+                          unhedged to be stated in
+                               the SID
+
+D.    Solution Oriented Schemes:
+  Sr. No.     Category of           Scheme              Type of scheme
+                                    Characteristics            Schemes                             (Uniform description of scheme)
+    1     Retirement Fund   Scheme having a lock –  An open ended retirement solution
+                                     in for at least 5 years or   oriented scheme having a lock – in
+                                                           till     retirement    age   of 5 years or   till retirement age
+                             whichever is earlier        (whichever is earlier)
+    2      Children’s Fund    Scheme having a lock –  An open-ended fund for investment
+                                     in for at least 5 years or   for children having a lock – in for at
+                                                           till the child attains age of   least 5 years or till the child attains
+                                 majority   whichever    is  age  of  majority  (whichever   is
+                                    earlier                         earlier)
+E.    Other Schemes:
+ Sr. No.     Category of           Scheme              Type of scheme
+                                    Characteristics            Schemes                             (Uniform description of scheme)
+
+    1     Index   Funds     /  Minimum  investment  in  An open-ended scheme replicating
+         ETFs                 securities of a particular    / tracking an index
+                              index  (which   is  being
+                                 replicated   /  tracked)  –
+                      95% of total assets
+    2    FOFs (Overseas  /  Minimum  investment  in  An  open-ended  fund   of  fund
+          Domestic)           the  underlying  fund  –  scheme investing  in a  particular
+                      95% of total assets        fund (mention the underlying fund)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+10.23                          MUTUAL FUNDS
+
+3.5  SEBI Allowed Flexicap Plans in Relief to Fund Houses Facing Tight
+     Regulation
+The Securities and Exchange Board of India introduced flexicap schemes under the broader equity
+mutual fund category. The move came as a relief to fund houses which operated multicap schemes
+after the capital markets regulator tightened investment norms for this category. The majority of the
+large multicap schemes were shifted to the new flexicap category. Kotak Standard Multicap Fund,
+the largest scheme in the category was renamed Kotak Standard Flexicap. The fund manager,
+investment process and fund portfolio remained the same. The new category gave the fund manager
+flexibility to invest in a mix of large, midcap and smallcap stocks. The scheme needs to invest at
+least 65% of the corpus to equity, SEBI said in a circular.
+The decision to introduce flexicap schemes followed protests from a section of the mutual fund
+industry after the regulator on September 11, 2020, unexpectedly asked multicap funds to allocate
+at least 25% of their portfolios to large-, mid- and smallcap stocks each. Till then, there were no
+investment restrictions for this product, resulting in many of these schemes holding as much as 75%
+of  their portfolios  in largecap stocks, resembling large and midcap schemes as per SEBI’s
+classification. Multicap portfolios manage 20% of the industry's equity assets under management.
+Motilal Oswal Multicap Fund, another large scheme in the category, was also being shifted to the
+flexicap category. Most multicap funds got their schemes reclassified into the flexicap category.
+Fund managers of large multicap funds were opposed to staying in this category under the new
+investment rules, which would require them to shift a large chunk of their corpus in largecap stocks
+to small and midcaps. They feared the rush to make obligatory purchases of illiquid smaller stocks
+to meet the norms that would drive up these stocks and be detrimental to the multicap investor.
+     4.  DIRECT PLAN AND REGULAR PLAN
+One may invest in mutual funds directly i.e., without involving or routing the investment through any
+distributor/agent in a ‘Direct Plan’. Or one may choose to invest in mutual funds with the help of a
+Mutual Fund distributor/agent in what is termed as a ‘Regular Plan’. 'Direct Plan' and 'Regular Plan’
+are both part of the same mutual fund scheme, have the same/common portfolio, and are managed
+by the same fund manager, but have different expense ratios (recurring expenses that are incurred
+by the mutual fund scheme).
+The Direct Plan has a lower expense ratio than the Regular Plan, as there is no distributor/agent
+involved, and hence there are savings in terms of distribution cost/commissions paid out to the
+distributor/agent, which is added back to the returns of the scheme. Hence, a Direct Plan has a
+separate NAV, which is higher than the “Regular” Plan’s NAV. In due course, the lower expense
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+10.24          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+ratio of the Direct Plan translates to higher returns on the investments which keep compounding
+over the years. Thus, the investment in the Direct Plan would be worth more over a period, in
+comparison to investment in the Regular Plan of the same scheme. It should be however borne in
+mind that the difference between NAV of Direct Plan and Regular Plan tends to be marginal.
+Direct Plans are for those who prefer to invest DIRECTLY in a mutual fund scheme without the help
+of any distributor/agent. Investing in a Direct Plan is like buying a product from the manufacturer
+directly, whereby the cost to the customer would be lower. Except that, investing in a mutual fund
+scheme directly is not as simple as buying some item from a factory outlet, because choosing a
+mutual fund scheme requires adequate knowledge and awareness of the mutual fund product,
+especially the risks that are associated with the potential rewards. Choosing a Direct Plan means
+making your own decisions about fund/scheme selection (and the related execution work) which not
+everyone may be capable of.
+In short, Direct Plan is suited for those who understand what kind of mutual funds are needed for
+different  kinds  of  investment  needs, can  research  these  independently, and  are  able  to
+identify/shortlist the funds to invest in, and then go through the process of investing without the help
+of an intermediary. However, when the markets fall and investment values come under pressure,
+independent advice from a professional advisor can help one stay the course. Thus, a Direct Plan
+makes sense only if you have adequate knowledge and capability to select good funds yourself; or
+are willing to seek professional advice from a registered investment adviser for a fee.
+While the Direct Plan makes sense for knowledgeable, Do-it-Yourself (DIY) investors, it may not be
+suited for all investors, especially new and inexperienced investors. So,  if you are a new and
+inexperienced investor or unsure of which scheme to invest in and need guidance/assistance in
+investing, you may be better off seeking the help of a mutual fund distributor and investing in a
+Regular Plan.
+     5.  EXPLANATION OF IMPORTANT TERMS USED  IN
+      MUTUAL FUNDS
+New Fund Offer (NFO): A mutual fund house, also known as an asset management company, will
+issue a New Fund Offer (NFO) when they choose to introduce a new mutual fund scheme. It's a mutual
+fund scheme's initial offer that gives investors the chance to invest early and earn substantial profits.
+A mutual fund house can raise the necessary funds through an NFO to buy stocks or debt
+instruments. Customers can purchase units at INR 10 per unit NAV for a subscription duration
+ranging from ten (10) to fifteen (15) days offered by AMCs. Investors receive units from AMCs
+according to a first-come, first-served policy.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+10.25                          MUTUAL FUNDS
+
+Expense Ratio: Under SEBI (Mutual Funds) Regulations, 1996, Mutual Funds are permitted to
+charge certain operating expenses for managing a mutual fund scheme – such as sales & marketing/
+advertising expenses, administrative expenses, transaction costs, investment management fees,
+registrar fees, custodian fees, audit fees – as a percentage of the fund’s daily net assets.
+All such costs for running and managing a mutual fund scheme are collectively referred to as ‘Total
+Expense Ratio’ (TER). The TER is calculated as a percentage of the Scheme’s average Net Asset
+Value (NAV). The daily NAV of a mutual fund is disclosed after deducting the expenses.
+                                                                       (Source: Amfi Website)
+Scheme Information Document (SID):
+Scheme Information Document contains basic information about the scheme which investors should
+know about before investing. The scheme information document usually runs into several pages and
+may seem too technical for novice investors. However, it has very useful scheme related information,
+which can help investors make informed investment decisions. However, some key information
+which investors should look for and read in the scheme information document are as follows:
+•  Fund management team details
+•  Risks factors
+•  Scheme details
+•  Other information
+Statement of Additional Information (SAI):
+This document is essentially an addendum to the SID. Information provided in the SAI includes the
+following: -
+(i)    Constitution of the mutual fund  i.e. the Asset Management Company of the scheme,
+     scheme sponsors and trustees. The sponsor is the promoter of the Asset Management
+     Company. The sponsor provides capital, creates a board of trustees and sets up the Asset
+     Management Company (AMC). The role of the trustees is to protect the interest of investors,
+       monitoring the AMC and ensuring compliance with regulations.
+(ii)   Key information about the AMC i.e. Key personnel of the AMC, key associates of the AMC
+        like Bankers, Custodians, Registrars, Auditors and Legal Counsel, Financial and legal issues
+        etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+10.26          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+Key Information Memorandum (KIM):
+KIM is Key Information Memorandum. As the name suggests, it has key scheme related information.
+The KIM is essentially a concise version of the SID. The KIM is available with all mutual fund scheme
+application forms. It is recommended to read the KIM carefully before investing, especially  if you
+have not gone through the SID.
+(Source : https://www.miraeassetmf.co.in/quiz-module-list/topic-2/intermediate-level/investor-rights-
+obligations/sid-sai-kim-before-investing
+Systematic Investing Plan (SIP):
+It is designed to aid you in achieving your financial objectives over time. It offers a straightforward
+way to regularly invest a predetermined sum in your chosen mutual funds. SIP, with its promise to
+make investing accessible to everybody, has become a major change in financial planning and asset
+management. But besides understanding the meaning of SIP, it is also important to understand how
+it works and how it can play a huge role in the success of your wealth-building journey. Let's discuss
+SIP in detail.
+How does SIP work?
+SIP offers a convenient method for investing in mutual funds, allowing you to determine your desired
+regular investment amount easily. This amount is automatically deducted from your bank account to
+buy mutual fund units. Over time, these investments grow due to compounding. There are two
+principles on which the SIP works. They are as follows:
+(i)    Regular Investing
+SIPs offer a strategic shield against the unpredictable tides of the financial markets. By adhering to
+consistent investments, SIPs ensure that the average purchase cost remains stable over the long
+term.
+In practical terms, when market conditions are buoyant, you acquire fewer units of your chosen
+investment, and during market downturns, you secure more units for your investment. This key
+difference between SIP and mutual fund investing can provide investors with a risk-mitigation
+strategy and potentially higher returns over time.
+(ii)   Power of Compounding
+The power of compounding in SIP refers to reinvesting the returns generated by your mutual fund
+investments back into the same fund. Over time, this process leads to exponential growth as your
+returns earn additional returns.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+10.27                          MUTUAL FUNDS
+
+The longer you stay invested, the more significant the compounding effect becomes, potentially
+resulting in substantial wealth accumulation, making SIP an effective strategy for long-term financial
+goals.
+Let's consider two friends, Alice and Bob. Alice started investing `10,000 annually in an SIP at 25,
+with an expected SIP return rate of 10% per annum. Over 30 years, she has made a total contribution
+of ` 3,00,000. On the other hand, Bob started his investments at the age of 35 and invested ` 10,000
+annually, expecting a 10% annual return. Over 20 years, Bob's total investment amounted to
+` 2,00,000.
+(Source: https://www.kotak.com/en/stories-in-focus/mutual-funds/what-is-sip.html)
+(iii)  Law of averages:
+If NAV of the units comes down SIP helps in averaging, as investor is investing the same amount of
+money every month (period) the no. of units he/she can buy with that amount is more as the NAV
+has come down, which will reduce the overall cost of the portfolio of mutual fund. When the NAV
+starts recovering again the breakeven point arrives early because of law of averages.
+Lump Sum Investment:
+In a lump sum, it means a single, bulk amount invested a one-time mutual fund investment. It is just
+like FD. It is different than SIP where the money was pumped in periodically. In Lump sum money is
+invested in one shot and without the intention to repeat it periodically.
+The Systematic Transfer Plan (STP): It eliminates the additional burden involved in moving or
+transferring funds between mutual fund schemes. When you have a large quantity of money to invest
+in one go, this is the option you should pick. It does assist you in distributing your money over time
+to lessen the effects of dealing with the market at its highest point. It is preferable to go from equity
+plans to debt schemes and vice versa when you want to be risk-adverse with a plan.
+Systematic Withdrawal Plan (SWP): One can periodically take out a predetermined amount of
+money from one’s assets by using a systematic withdrawal plan. Retirees benefit most from this plan
+because they may require a consistent income stream most of the time. But they also use this
+technique to invest in new schemes or adjust their existing investments.
+
+     6.  NET ASSET VALUE (NAV)
+There is a valuation of the fund done at the end of every business day, so that the investor knows
+the value of his/her investments as on that date. The term ‘value’ here refers to the market value
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+10.28          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+i.e., if hypothetically the entire portfolio were to be liquidated, how much would be realized. Since
+each investor holds units in the pool of funds, the valuation is published in terms of per unit, so that
+the value of one’s holdings can be computed. The formula for computation of NAV is:
+               Market ValueofInvestmentsheldby theFund+ Valueof Current Assets-
+                      Valueof CurrentLiabilitiesandProvisionsNAV=
+                   No.of Units on the valuation date before redemption
+                               or creation on units
+
+From the above formula, it can be observed that from the market value of the investments as on that
+day, we must add the cash equivalents or other current assets and need to deduct any expenses
+that have accrued but not paid out, so that the NAV represents a true and fair picture. That is the
+reason it is called ‘net’ asset value i.e., it is net of liabilities, expenses, etc.
+Example
+From the following information in respect of a mutual fund, calculate the NAV per unit:
+
+                                     `
+
+Cash and Bank Balance                 6,00,000
+Bonds and Debenture (unlisted)          7,50,000
+Equities (current market value)         13,00,000
+Quoted Government Securities         10,50,000
+Accrued Expenses                      1,25,000
+Number of outstanding units             2,50,000
+Solution
+Cash and Bank Balance                 6,00,000
+Bonds and Debenture (unlisted)          7,50,000
+Equities (current market value)         13,00,000
+Quoted Government Securities         10,50,000
+Total Assets (Realizable Value)       37,00,000
+Less: Accrued Expenses                1,25,000
+Net Assets                           35,75,000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+10.29                          MUTUAL FUNDS
+
+Number of outstanding units             2,50,000
+Net Assets Value (NAV)/unit             14.30
+NAV is published on every business day for all funds; for Liquid Funds, NAV is published on Sundays
+as well. In equity funds, returns come mostly from price movement. Hence the differential in NAV
+between two dates is mostly the difference in market value of the investments. In debt funds, returns
+come mostly from interest accrual. Hence the differential in NAV between two dates is mostly the
+accrual, provided the period is sufficiently long to absorb short term volatilities.
+     7.  INDICATIVE NET ASSET VALUE
+A measurement of an investment's intraday net asset value (NAV) is called indicative net asset value
+(iNAV). Approximately every 15 seconds, INAV is reported. It provides investors with a gauge of the
+investment's worth throughout the day.
+(i)   Key characteristics
+            Indicative net asset value (iNAV) is a measurement of an investment's intraday net
+             asset value (NAV).
+          An agent that calculates indicative net asset value (iNAV)—typically the exchange
+           where the investment is traded—reports it roughly every 15 seconds.
+           Both exchange-traded funds and closed-end mutual funds can publish indicative net
+             asset value (iNAV) (ETFs).
+           The calculation agent will utilise the established prices of all securities in the portfolio to
+              get the overall asset value, which is then reduced by the fund's liabilities and divided by
+              the number of shares to determine the indicative net asset value (iNAV).
+(ii)   Comparing net asset value and indicative net asset value (NAV)
+      The iNAV is a tool that aids in preserving trading of assets close to par value.  It provides a
+      glimpse of a fund's worth that is almost real-time thanks to iNAV reports that are sent out every
+      15 seconds. A fund may be able to avoid considerable premium and discount trading by reporting
+      an iNAV.
+      Because they fall under the Investment Company Act of 1940's definition of a mutual fund
+       investment, closed-end funds, and ETFs compute net asset values. The funds trade like stocks
+      on the open market, with transactions taking place at the market price, while they determine a
+        daily net asset value.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+10.30          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+     8.  PERFORMANCE MEASUREMENT
+It comes as a statutory warning that “mutual fund investments are subject to market risks . . . past
+performance is not an indication of future performance”. Very few people read it or understand the
+importance of the statement. The implication of the statement is that the performance we are looking
+at today is the result of certain investment decisions taken by the fund manager in the past. The
+fund manager is ultimately a human being, and future decisions may or may not be as effective and
+hence future returns from that fund may or may not be as good.
+Even though past performance may not be repeated in future, there is no logic to go for a Fund that
+has been an underperformer, because that fund manager could not prove himself / herself efficient
+over the period under consideration. The outperformer has something going for himself / herself.
+Hence, let us look at past performance also as a hygiene factor.
+What should be avoided is,
+•      looking at past performance over a short period of time
+•      looking at returns only till a particular date and comparing the numbers.
+•     basing a decision on a ranking system, ranked only by returns till a particular date.
+Let us now understand why the above practices should be avoided.
+A short period of time is not adequate to judge the performance of a fund manager, just like the runs
+scored or wickets taken by a cricketer in 5 matches is not enough to judge his class - at best it shows
+his current form. Similarly, if a bond fund is outperforming the peer group over a period of say 1 or
+2 months,  it may be that the calls (investment decisions) taken by the fund manager over 1 or 2
+months have proved better than other fund managers and that’s it. Fund managers who have proven
+herself over a long period of time should be preferred.
+As discussed earlier, a Fund may have done well over say a 1-year period which makes it eligible
+for ‘5 stars’ (performance ranking done by some agencies / websites) as against another Fund which
+is say ‘4 stars’ or ‘3 stars’ and you take the decision to invest in the 5-star rated Fund, it may not be
+an entirely correct decision. Nothing wrong about a fund doing well, more so  if the performance-
+based ranking is over an adequate period and it is done on a ‘Risk-Adjusted Basis’ i.e., adjusted for
+volatility in returns.
+The point is, there are certain ‘hygiene factors’ which should be considered. Lay investors would be
+attracted by the ‘5 stars’ and would not be aware that a 5-star rated Fund may be low on the hygiene
+factors. For example, a Fund with a corpus of `1,000 crore from a leading AMC / sponsor with 4-
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+10.31                          MUTUAL FUNDS
+
+star performance should be preferred over a 5-star rated Fund with a corpus of `20 crore which is
+from an AMC that ranks among the bottom 5 in terms of corpus / their sponsor is not so well known
+or if the credit quality of the Fund is relatively poor.
+8.1  Performance Measures
+There are various ways of measuring performance; what is most used is looking at point to point
+returns (i.e., returns from one date to today’s date) over various time periods e.g., 1 month, 3 month,
+6 months, 1 year, 2 years, etc.
+As a matter of regulation, returns from fixed income funds for a period of less than 1 year should be
+annualized on a simple basis and for a period of more than 1 year,  it should be annualized on a
+compounded basis. There are more refined methods of looking at point to point returns, which are
+•      looking at risk-adjusted (i.e., adjusted for volatility) returns.
+•      looking at various statistical ratios e.g., Sharpe Ratio, Alpha Ratio, Treynor Ratio, etc.
+
+8.1.1 Costs incurred by Mutual Fund
+Costs, when high, reduce the returns of an investor. High Costs are the cause of below par performance
+of some mutual funds. Costs carry two components: (1) Initial Expenses attributable to establishing a
+scheme under a Fund and (2) Ongoing recurring expenses (Management Expense Ratio) which is made
+up  of  (a) Cost  of employing  technically sound investment analysts  (b) Administrative Costs  (c)
+Advertisement Costs involving promotion and maintenance of Scheme funds. The Management Expense
+Ratio is measured as a % of average value of assets during the relevant period.
+Expense Ratio = Expense / Average value of Portfolio
+If Expenses are expressed per unit, then Expense Ratio = Expenses incurred per unit  /
+Average Net Value of Assets.
+For example, a mutual fund has paid annual expenses of Rs. 20 lakhs. The assets under
+management in the beginning and at the end of year were Rs. 200 lakhs and Rs. 400 lakhs
+respectively.
+                     Rs.20 lakhsExpense Ratio =                     x100=6.67%
+               (Rs.200+ Rs.400lakhs) / 2
+
+The Expense Ratio relates to the extent of assets used to run the Mutual Fund. It is inclusive of
+travel costs, management consultancy and advisory fees. It, however, excludes brokerage expenses
+for trading as purchase is recorded with brokerage while sales are recorded without brokerage.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+10.32          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+8.1.2 Point to Point Returns
+Point to point simply measures returns from a past date to the current date, by taking the NAV at
+these two dates. For measurement of returns, the growth option NAV should be taken and not the
+dividend option as there would be complications of adding back dividend. As an example, the return
+over one year from 31 December 2017 to 31 December 2018 is the increment in the growth option
+NAV divided by the NAV as on 31 Dec 2017.
+Similarly, returns over three months from 30 September 2018 to 31 December 2018 is the increment
+in the growth option NAV divided by the NAV as on 31 December 2017. The return over three years
+from 31 December 2015 to 31 December 2018 is the increment in the growth option NAV divided by
+the NAV as on 31 December 2015. To be noted, returns from equity funds over a period of less than
+one year is expressed as absolute and for more than one year, it is annualized on a compounded
+basis. Further, fixed income funds for a period of less than one year should be annualized on a
+simple basis and for a period of more than one year,  it should be annualized on a compounded
+basis.
+Point to point return explained.
+Example: Yash Vardhan Large Cap Equity Investment began on January 2, 2015. Initial investment
+amount is ` 10,00,000. NAV at the start of the fund Rs 100.54. Ending on January 2, 2017 - Closing
+NAV ` 172.95. If you were requested to find out the returns, you probably could without much trouble.
+Let's calculate -
+Solution – By dividing `10,00,000 by `100.54, you get 9946.290 units. The final investment value
+is equal to 9946.290 units x ` 172.95 (or `17,20,210.86).
+The CAGR method can be used to determine the growth of this lump sum investment over a two-
+year period: = [Ending Value/Beginning Value] ^ (1/2) - 1 = [17,20,210.86/10,00,000] ^ (1/2) - 1
+= 31.16%. It would be considered as a tremendous growth rate.
+
+8.1.3 Rolling Returns
+The method  to  iron out the possible skew  in  point-to-point returns which may  result from
+outperformance / underperformance in the recent past, is to look at rolling returns. Measurement of
+rolling returns works like this - For a period under consideration, it takes many short periods of fixed
+frequency, measures the return from the Fund over these shorter time periods and take the average
+of all the data over the entire period.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+10.33                          MUTUAL FUNDS
+
+Performance of a Liquid Fund over a 3-month period:
+•     Point-to-point: Simply measure the performance of the growth option NAV from the start
+      date to today’s date, annualized.
+•     Rolling return of daily frequency: Measure the return from the start date to next date, from
+      next date to next-to-next date and so on and take the average of all these observations.
+•     Rolling return of weekly frequency: Measure the return from the start date to next week,
+      from next week to next-to-next week and so on and take the average of all these observations.
+Performance of an Equity / Bond Fund over a 3-year period:
+•     Point-to-point: Simply measure the performance of the growth option NAV from the start
+      date to today’s date, annualized on a compounded basis.
+•     Rolling return of monthly frequency: Measure the return from the start date to one-month-
+        later date, from next month to next-to-next month and so on and take the average of all these
+       observations.
+•     Rolling return of quarterly frequency: Measure the return from the start date to three-
+       month-later date, from next quarter to next-to-next quarter and so on and take the average of
+         all these observations.
+The superiority of rolling return as a performance measurement over simple point-to-point return is
+that it irons out the various smaller pockets of outperformance and underperformance against the
+peer group and throws up a more dependable (smoothened out) data.
+Rolling Returns explained
+The objective is to find the fund's 2-year rolling return. So, let us start in 2015 to do this.
+Firstly, calculate the return between the NAV on January 2, 2015, and the NAV on January 2, 2013,
+which is two years ago. Secondly, shift the date by one day, i.e., between January 3, 2015, and
+January 3, 2013, and then compute the return between these dates using the NAV for these two
+dates. Once again change the date to January 4th, 2013, or 2015, and compute the return.
+So, the purpose is to keep on going in this manner until a time series with a 2-year return is arrived
+at.
+Let's figure out the initial rolling return:
+NAV as of January 2nd, 2013, was 100.54.
+NAV on January 2nd, 2015, was 172.95.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+10.34          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+Since the period is two years, we use CAGR: [172.95/100.54] ^ (1/2)-1 = 31.16%.
+
+NAV on January 3, 2013, would be the second rolling return in this series, at 101.75.
+NAV on January 3, 2015, was 173.65; So, the CAGR in this situation = [173.65/101.75] ^ (1/2)-1 =
+30.64.
+Next, it will be calculated from January 4, 2013, to January 4, 2015, and so on.
+8.2   Statistical Ratios
+
+8.2.1 Sharpe Ratio (Reward to Variability)
+The Sharpe ratio evaluates the relationship between an investment's return and risk. The idea that
+excess returns over time may indicate greater volatility and risk rather than investment expertise is
+expressed mathematically in this way.
+As a result of his work on the capital asset pricing model (CAPM), economist William F. Sharpe
+proposed the Sharpe ratio in 1966 under the name reward-to-variability ratio.
+The numerator of the Sharpe ratio is the difference over time between realised or predicted returns
+and a benchmark, such as the performance of a certain investment category or the risk-free rate of
+return. The standard deviation of returns over the same period, which serves as a gauge of volatility
+and risk, serves as its denominator.
+Furthermore, investors prefer stocks or portfolios with relatively less risk or less volatility. But how
+do we evaluate portfolios with different returns and different levels of risk? Let us take an example.
+
+
+                                         Portfolio A      Portfolio B      Benchmark
+  Annualized return                     7.9%           6.9%             7.5%
+  Annualized risk                       5.5%           3.2%             4.5%
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+10.35                          MUTUAL FUNDS
+
+  Sharpe ratio
+  (Risk-free rate = 2%)              7.9% - 2.0%    6.9% - 2.0%      7.5% - 2.0%
+            rP -rF                         5.5%          3.2%            4.5%  SR =
+       σ P                          = 1.07         = 1.53           = 1.22
+
+rP is the portfolio return
+rF is the risk-free rate
+σP is the SD of the portfolio
+SR = Sharpe Ratio
+As we see in the table above, though the return of portfolio A (7.9%) is higher than portfolio B (6.9%)
+and Benchmark (7.5%), variability also is higher. The Sharpe Ratio of portfolio A (1.07) is much
+lower than portfolio B (1.53) and lower than benchmark portfolio (1.22).
+The higher the Sharpe ratio, the better because the portfolio has given that much higher return to
+compensate for the higher variability. The Sharpe ratio is a very popular method for measuring risk-
+adjusted return.
+
+8.2.2. Treynor Ratio
+The output of Treynor ratio is like Sharpe Ratio, the difference being that in the denominator, instead
+of taking standard deviation, it takes beta of the portfolio i.e., systematic risk.
+
+
+                                  rP -rFTreynor Ratio (TR) =
+                     β P
+Pβ = Beta of the portfolio
+The Treynor ratio measures excess return generated per unit of risk in the portfolio i.e. excess return
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+10.36          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+earned above the risk-free investment. Treasury bills are usually taken as the proxy for risk-free
+return as  it is issued by the Government and duration is not very long. Risk refers to the portfolio
+beta i.e. the extent to which the portfolio performance varies along with the relevant market.
+Let's consider the following example to understand Treynor Ratio:
+
+Portfolio Return: 10%
+
+Risk-Free Rate: 6%
+
+Portfolio Beta: 1.2
+
+Treynor Ratio = (10% - 6%) / 1.2 = 3.33%
+In this example, the portfolio generated a Treynor Ratio of 3.33%, which shows its performance in
+comparison to its exposure to systematic risk.
+
+8.2.3 Jensen’s Alpha
+This is the difference between a fund’s actual return and those that could have been made on a
+benchmark portfolio with the same risk- i.e., beta. It measures the ability of active management to
+increase returns above those that are purely a reward for bearing market risk. Caveats apply
+however since it will only produce meaningful results if it is used to compare two portfolios which
+have similar betas.
+
+Assume Two Portfolios
+                              A      B   Market Return
+ Return                               12       14             12
+ Beta                                      0.7        1.2               1.0
+
+Risk Free Rate = 9%
+The return expected = Risk Free Return + Beta portfolio (Return of Market - Risk Free Return)
+
+Using Portfolio A, the expected return =  0 .09 + 0.7 (0.12 - 0.09) = 0.09 + 0.021 = 0.111
+Jensen Alpha = Return of Portfolio- Expected Return= 0.12 - 0.111 = 0.009
+If “apples are compared to apples”- in other words a computer sector fund A is compared with
+computer sector fund B - it is a viable number. But if taken out of context, it loses meaning. Alphas
+are found in many rating services but are not always developed the same way- so you can’t compare
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+10.37                          MUTUAL FUNDS
+
+an alpha from one service to another. However, we have usually found that their relative position in
+the rating service is to be viable. Short-term alphas are not valid. A minimum time frame of one to
+three years is preferable.
+
+8.2.4 Sortino Ratio
+Sortino ratio is a variation of the concept of Sharpe or Treynor ratios; instead of measuring it against
+any type of risk, Sortino measures it against only downside risk in the portfolio.
+
+
+         rP -rFSR =
+     σ D
+
+Here,
+σD is the standard deviation on the downside i.e., not just the entire deviations in the portfolio but
+the downside deviations only.
+Sortino ratio penalizes only returns below a specified rate. Sharpe and Sortino measure risk-
+adjusted return, but they are different. Sortino ratio differentiates negative volatility from entire
+volatility by taking the standard deviation of negative returns, called downside, rather than total
+standard deviation.
+For example, assume Mutual Fund A has an annualized return of 14% and a downside deviation of
+10%. Mutual Fund B has an annualized return of 12% and a downside deviation of 7%. The risk-free
+rate is 5.5%. The Sortino ratios for both funds would be calculated as:
+                 14% - 5.5%
+Mutual Fund A Sortino =   10%       = 0.85
+                 12% - 5.5%
+Mutual Fund B Sortino =   7%        = 0.93
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+10.38          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+Even though Mutual Fund A is returning 2% more on an annualized basis, it is not earning that return
+as efficiently as Mutual Fund B, given their downside deviations. Based on this metric, Mutual Fund
+B is the better investment choice.
+
+8.2.5  Portfolio or Fund Alpha
+The Alpha is the excess return over broad market, represented by the benchmark. Beta is the
+systematic return or return along with the market whereas Alpha is the return over and above the
+market generated by active fund management and by taking risks i.e., unsystematic risks. To gauge
+the excess return over the market, the index or benchmark is taken to represent the market return
+and the excess return over the index / benchmark is the Alpha. Alpha may be positive or negative
+i.e., active portfolio calls or portfolio churning can go either way.
+
+8.2.6 Benchmarking
+For any performance evaluation, benchmarking is very important. However, the question is, what is
+the correct benchmark? In most literature on mutual funds and on communications from AMCs, the
+standard / official benchmark is mentioned. For example, for a large cap equity fund, the Nifty 50
+Index can be used or if it is a Short-Term Bond Fund, the CRISIL index for Short Term Bond Funds
+(STBex) would be mentioned.
+
+     9.  ADVANTAGES AND DISADVANTAGES OF MUTUAL
+      FUND
+9.1  Advantages
+(i)    Professional expertise: Except for some large corporate investors with dedicated treasury
+      departments, it is not possible for an investor to replicate the expertise and professional fund
+     management skills of MFs. The market is dynamic and portfolio reshuffling calls must be
+      taken as and when required. Active tracking of portfolio is not the job of the archetype
+       investor.
+(ii)   Risk Diversification — Buying shares in a mutual fund is an easy way to diversify your
+      investments across many securities and asset categories such as equity, debt, and gold,
+      which helps in spreading the risk - so you won't have all your eggs in one basket. This proves
+       to be beneficial when the underlying security of a given mutual fund scheme experiences
+      market headwinds.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+10.39                          MUTUAL FUNDS
+
+
+      With diversification, the risk associated with one asset class is countered by the others. Even
+            if one investment in the portfolio decreases in value, other investments may not be impacted
+      and may even increase in value. In other words, you don’t lose out on the entire value of your
+      investment if a particular component of your portfolio goes through a turbulent period. Thus,
+        risk diversification is one of the most prominent advantages of investing in mutual funds.
+(iii)   Operational  / Transaction ease: The process of buying and selling an instrument in the
+      secondary market is quite cumbersome as compared to the process of investing / redeeming
+        in MFs. For a similar  / comparable return, the investor would rather settle for an easier
+      process.
+(iv)   Affordability & Convenience (Invest Small Amounts) — For many investors, it could be
+     more costly to directly purchase all the individual securities held by a single mutual fund. By
+       contrast, the minimum initial investments for most mutual funds are more affordable.
+(v)    Accessibility: Mutual Funds are easy to access, through distributors, online, acceptance
+       centers etc.
+(vi)   Ticket Size: All ticket sizes are available, from as small as `5000 to multiples of crores.
+(vii)   Liquidity: In mutual funds, liquidity is just a redemption away. Nowadays,  it can be done
+       online, and the money gets credited to your bank account. The time for getting the credit
+      depends on the nature and terms of the fund; it may be T+1 day to T+3 days.
+(viii)  Option of multiple funds: There are multiple categories of funds discussed earlier, there is
+      one to suit your requirement, managed by professionals. That is not the case with direct
+      investment in equity stocks / bonds.
+(ix)   Well-Regulated: Mutual Funds are regulated by the capital markets regulator, Securities and
+      Exchange Board of India (SEBI) under SEBI (Mutual Funds) Regulations, 1996. SEBI has
+        laid down stringent rules and regulations keeping investor protection, transparency with
+       appropriate risk mitigation framework and fair valuation principles.
+(x)   Tax Benefits: Investment in ELSS upto `1,50,000 qualifies for tax benefit under section 80C
+       of the Income Tax Act, 1961. Mutual Fund investments when held for a longer term are tax
+        efficient.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+10.40          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+9.2  Disadvantages of Mutual Fund
+(i)       If you are running your own portfolio, you can run your own strategies. In mutual funds, you
+      are following the fund manager thus, dependent on him.
+(ii)     In developed markets like the USA, there is a shift towards passively managed funds i.e., ETFs
+       (discussed below) as there is not much alpha generated over the broad market. ETFs run at a
+     much lower cost than actively managed funds. While ETFs also are mutual funds, the point is, the
+      alpha is missing in developed markets due to better information and efficiency in markets.
+
+     10. FACTORS INFLUENCING THE SELECTION OF MUTUAL
+      FUNDS
+(1)    Past Performance – The Net Asset Value is the yardstick for evaluating a Mutual Fund. The
+       higher the NAV, the better it is. Performance is based on the growth of NAV during the referral
+       period after taking into consideration Dividend paid.
+      Growth = (NAV1 – NAV0) + D1 / NAV0.
+      Where,
+     NAV1 = Closing NAV
+     NAV0 = Opening NAV
+     D1 = Dividend paid by the Mutual Fund
+
+      Example:
+     NAV at the beginning ` 80
+     NAV at the end ` 100
+      Dividend per unit   ` 1.50
+      Growth = (NAV1 – NAV0) + D1 / NAV0
+            = (100 – 80) + 1.50/80 x 100 = 26.875%
+(2)   Timing – The timing when the mutual fund is raising money from the market is vital. In a
+       bullish market, investment in mutual funds falls significantly in value whereas in a bearish
+      market, it is the other way round where it registers growth. The turns in the market need to
+      be observed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+10.41                          MUTUAL FUNDS
+
+
+(3)    Size of Fund– Managing a small sized fund and managing a large sized fund is not the same
+      as it is not dependent on the product of numbers. Purchasing through large sized fund may
+      by itself push prices up while sale may push prices down, as large funds get squeezed both
+      ways. So, it is better to remain with medium-sized funds.
+(4)   Age of Fund– Longevity of the fund in business needs to be determined and its performance
+        in rising, falling and steady markets must be checked. Pedigree does not always matter as
+       also success strategies in foreign markets.
+(5)    Largest Holding – It is important to note where the largest holdings in mutual fund have been
+       invested.
+(6)   Fund Manager– One should have an idea of the person handling the fund management. A
+      person of repute gives confidence to the investors.
+(7)   Expense Ratio– SEBI has laid down the upper ceiling for Expense Ratio. A lower Expense
+       Ratio will give a higher return which is better for an investor.
+(8)   PE Ratio– The ratio indicates the weighted average PE Ratio of the stocks that constitute the
+      fund portfolio with weights being given to the market value of holdings. It helps to identify the
+        risk levels in which the mutual fund operates.
+(9)    Portfolio Turnover – The fund manager decides as to when he should enter or quit the
+      market. A very low portfolio turnover indicates that he is neither entering nor quitting the
+      market very frequently. A high ratio, on the other hand, may suggest that excessively frequent
+     moves have led the fund manager to miss out on the next big wave of investments. A simple
+      average of the portfolio turnover ratio of peer group updated by mutual fund tracking agencies
+     may serve as a benchmark.
+
+     11. SIGNALS HIGHLIGHTING THE EXIT OF THE INVESTOR
+      FROM THE MUTUAL FUND SCHEME
+(1)   When the mutual fund consistently under performs the broad-based index, it is high time that
+       the investor should get out of the scheme. It would be better to invest in the index itself either
+      by investing in the constituents of the index or by buying into an index fund.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+10.42          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+(2)   When the mutual fund consistently under performs its peer group instead of it being at the top. In
+      such a case, the investor would have to pay to get out of the scheme and then invest in the winning
+      schemes.
+(3)   When the mutual fund changes its objectives e.g., instead of providing a regular income to
+       the investor, the composition of the portfolio has changed to a growth fund mode which is not
+        in tune with the investor’s risk preferences.
+(4)   When the investor changes his objective of investing in a mutual fund which no longer is
+       beneficial to him.
+(5)   When the fund manager, handling the mutual fund schemes, has been replaced by a new
+       entrant whose image is not known.
+
+     12. MONEY MARKET MUTUAL FUNDS (MMMFs)
+The Government of India thought of introducing Money Market Mutual Funds (MMMFs) on Indian
+financial canvass in 1992. The aim of the Government was to develop the money market and to
+enable individual investors to gain from money market instruments since it is practically impossible
+for individuals to invest in instruments like Commercial Papers (CPs), Certificate of deposits (CDs)
+and Treasury bills (TBs) which require huge investments. The Government constituted a Task Force
+on MMMFs under the chairmanship of Shri D. Basu.
+Money market funds are generally the safest and most secure of mutual fund investments because
+the period is short term and the visibility is clear, thus probability of default is not present there. The
+goal of a money-market fund is to preserve principal while yielding a modest return. Money-market
+mutual fund is akin to a high-yield bank account but is not entirely risk free. When investing in a
+money-market fund, attention should be paid to the interest rate that is being offered.
+     13. SEPARATION  OF  DISTRIBUTION AND  ADVISORY
+       FUNCTIONS IN THE MUTUAL FUND INDUSTRY
+The industry association  of Mutual Funds  in India (AMFI) prohibited  distributors from using
+nomenclature that includes references to advisors, therefore some mutual fund (MF) distributors
+may need to rename themselves. The move follows the decision taken by markets regulator
+Securities and Exchange Board of India (SEBI) to separate distribution and advisory functions in the
+MF industry.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+10.43                          MUTUAL FUNDS
+
+“Pursuant to the regulatory amendment, MF distributors whose registered name has terms such as
+adviser  / advisor  / financial adviser/ investment adviser/ wealth adviser/wealth manager etc., are
+required get their registered name changed,” AMFI said in a circular.
+AMFI issued a non-exhaustive list of names that are permitted and prohibited for distributors.
+“The name of an MF distributor should reflect the registration held by the entity and should not in
+any way create an impression of performing a role for which the entity is not registered. Thus, every
+MF distributor, while dealing in distribution of securities, should clearly specify that he /she is acting
+as an MF distributor,” AMFI has said.
+The industry body also prescribed  font size  for MF  distributors  to be used  in  all forms  of
+communication such as websites, mobile apps, business cards and signboards.
+
+     14. EXCHANGE TRADED FUNDS (ETFS)
+14.1 Introduction
+An exchange-traded fund (ETF) is a Mutual Fund Scheme that is traded on stock exchanges, much
+like stocks.  If the ETF represents a portfolio, it being listed as an ETF means the entire portfolio is
+being traded as one unit at the Stock Exchange. ETFs can be diverse; the portfolio may comprise
+stocks, bonds, commodities, index, etc. It usually trades close to its intrinsic value or market value
+of the underlying assets, but it is nothing hard and fast.
+14.2 Advantages of ETFs
+Fund management expenses are lower in ETFs than actively managed funds, as these are passively
+managed funds, investing in assets like gold or equity index.
+•    ETFs offer intra-day purchase and sale on the Exchange, which suits active traders. This is
+       not possible with conventional funds.
+•     Close-ended funds have a fixed corpus. ETFs also have a given corpus, but that may change
+      as per demand. Authorized Participants can create new units or redeem existing units with
+       the AMC. This makes the ETF price realistic i.e., it moves with the movement in the underlying
+      market.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+10.44          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+                           Equity ETFs listed on NSE
+     Issuer Name            Name                Underlying      Launch Date
+    Edelweiss AMC     Edelweiss Exchange Traded    NIFTY 50 Index     08-May-2015
+                        Scheme - NIFTY
+  ICICI Prudential AMC   ICICI Prudential NIFTY ETF    NIFTY 50 Index     20-Mar-2013
+      Kotak AMC            Kotak NIFTY ETF        NIFTY 50 Index     02-Feb-2010
+   MotilalOswal AMC       MOSt Shares M50        NIFTY 50 Index      28-Jul-2010
+    Quantum AMC       Quantum Index Fund -      NIFTY 50 Index      10-Jul-2008
+                               Growth
+     Religare AMC       Religare Invesco NIFTY ETF    NIFTY 50 Index     13-Jun-2011
+       SBI AMC             SBI ETF NIFTY         NIFTY 50 Index      23-Jul-2015
+       UTI AMC             UTI NIFTY ETF         NIFTY 50 Index     03-Sep-2015
+   Birla Sun Life AMC       Birla Sun Life NIFTY ETF     NIFTY 50 Index     21-Jul-2011
+  ICICI Prudential AMC     ICICI Prudential CNX 100       NIFTY 100       20-Aug-2013
+                            ETF
+      Kotak AMC           Kotak Banking ETF         NIFTY Bank      04-Dec-2014
+       SBI AMC             SBI ETF Banking          NIFTY Bank      20-Mar-2015
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+10.45                          MUTUAL FUNDS
+
+
+   MotilalOswal AMC      MOSt Shares M100      NIFTY Midcap 100    31-Jan-2011
+       SBI AMC          SBI ETF NIFTY Junior       NIFTY Next 50     20-Mar-2015
+      Kotak AMC          Kotak PSU Bank ETF      NIFTY PSU BANK    08-Nov-2007
+  ICICI Prudential AMC   ICICI Prudential Sensex ETF   S&P BSE Sensex    10-Jan-2003
+       UTI AMC             UTI Sensex ETF       S&P BSE Sensex    03-Sep-2015
+  Reliance Nippon Life    Reliance ETF NIFTY BeES     NIFTY 50 Index     28-Dec-2001
+  Asset Management
+                          Reliance ETF NIFTY 100       NIFTY 100       22-Mar-2013        Limited
+                         Reliance ETF Bank BeES       NIFTY Bank       27-May-04
+                       CPSE ETF          NIFTY CPSE Index    28-Mar-14
+                           Reliance ETF Dividend      NIFTY Dividend      15-Apr-14
+                                 Opportunities            Opportunities 50
+                         Reliance ETF Consumption      NIFTY India        03-Apr-14
+                                                   Consumption
+                          Reliance ETF Infra BeES         NIFTY          29-Sep-10
+                                                                Infrastructure
+                         Reliance ETF Junior BeES     NIFTY Next 50      21-Feb-03
+                          Reliance ETF PSU Bank     NIFTY PSU BANK     25-Oct-07
+                           BeES
+  ICICI Prudential AMC      BHARAT 22 ETF      S&P BSE BHARAT    28-Nov-17
+                                                    22 index
+
+    15.  SIDE POCKETING
+What Does Mutual Fund Side Pocketing Mean?
+A strategy to protect investors in instruments with exposure to risky assets is called side pocketing.
+It  is essentially an accounting technique used to distinguish between liquid and high-quality
+investments and illiquid investments in a loan portfolio.
+How does it function?
+The fund houses move the illiquid asset into a side pocket whenever a bond owned by the fund has
+its rating downgraded, and the current holders receive a pro rata allocation in it.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+10.46          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+What Effect Does Side Pocketing Have on NAV?
+The fund's NAV only represents the value of liquid assets when side pocketing is used; illiquid assets
+are placed into a separate pocket and have a different NAV determined by an estimate of the
+realisable value of investors.
+Does it Protect Investing?
+Risky bets can be separated from safer and more liquid investments with the use of side pocketing
+so that they are not affected by changes in the risky assets' credit profiles. Here, attempts are taken
+to maintain the scheme's net asset value so that small investors' ability to redeem their investment
+won't be harmed by any abrupt withdrawals by large investors.
+Additionally, side pocketing makes sure that investors who held the investment at the time of the
+write-off will benefit if the bond is ever recovered. As allotment and redemption are carried out on
+liquid assets, the side pocketing process assures that investors owning units of the core plan do not
+experience a liquidity crunch.
+New Development
+Debt mutual funds are now able to use the "side pocket" idea, thanks to the market regulator
+Securities and Exchange Board of India (SEBI). In the past, the regulator opposed side-pocketing
+and prohibited mutual fund companies from segregating their problematic investments.
+The Association of Mutual Funds of India (AMFI) approached SEBI in 2016 to request the creation
+of regulations governing side-pockets when the market experiences a credit event after JP Morgan
+Asset Management (India investments)'s in Amtek Auto defaulted and the fund house turned to the
+side pocket. SEBI, however, turned down the suggestion at the time.
+The NAV of numerous debt schemes fell precipitously in 2018. Following these schemes, credit
+ratings were lowered for investments in Infrastructure Leasing & Financial Services Ltd (IL&FS) and
+certain of its subsidiaries. The rule on debt funds was changed because of this catastrophe.
+Will side-pocketing entice investment firms to take on more credit risk?
+Ajay Tyagi, Chairman of SEBI, was quoted as saying, "SEBI would take sufficient measures and
+implement safeguards to guarantee that this provision is not abused. These protections will be
+included in the  final guidelines. Segregated or hazardous investments  will be closed to new
+subscriptions after the investment segregation process is complete. Investors can still subscribe to
+the portion made up of liquid assets or safer assets, nevertheless.
+Institutional investors typically have the first right of redemption in times of crises. Retail investors
+become trapped in hazardous or segregated assets because of this process. Because other holdings
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+10.47                          MUTUAL FUNDS
+
+are unaffected, side-pocketing is implemented in this situation to help fund companies manage
+redemption pressures better. Let's use an example to better understand the procedure now:
+Example
+Let's say a fund has a corpus of ` 5000 crores. Of this, a firm that is in default on its debt holds `
+250 crores. An institutional investor wishes to redeem the entire investment in this scenario. To pay
+substantial investors, this redemption pushes the fund manager to sell good bonds. Toxic assets
+that are still present at the end of the accounting year account for a significant amount of the corpus.
+Thus, the process influences retail investors. Side pocketing will be used to protect each investor;
+250 crores will be set aside, and 4750 crores will serve as the safer corpus. Following that, units will
+be distributed to investors (both institutional and retail).
+Are there drawbacks to side pocketing?
+Side pocketing is a technique that needs to be applied with caution. Illiquid investment value is also
+a sensitive topic. The illiquid asset's NAV will therefore continue to be of concern. Investors will also
+find  it challenging to track two NAVs—one for each of the liquid and illiquid assets. Finally, the
+availability of side pockets  will provide fund houses more leverage. Therefore,  it  is the fund
+manager's responsibility to apply the method carefully and logically.
+
+     16. TRACKING ERROR
+16.1 Concept of Tracking Error and its distinction with Tracking Difference
+Passive funds don't actively choose their stocks; instead, they invest according to rules. They
+purchase all equities with the same weight as in the index to copy the performance of an index (such
+as the Nifty 50 or Nifty 500). The fund may deviate somewhat from the benchmark's return during
+the replication process due to several practical difficulties.
+The tracking difference (TD) and tracking error (TE) are metrics used to describe these variations in
+the returns. TD represents the discrepancy between benchmark return and fund return. Assume that
+over the course of a year, the benchmark Nifty 50 Index returned 12% while the Nifty 50 Index Fund
+generated 11% in returns. The 1% deviation in returns represents the tracking difference.
+TD is usually negative because of the total expense ratio (TER) and other costs. Avoid any fund with
+a greater TD that  is either positive or negative. Higher TD may indicate less effective fund
+management. The fact that TD examines point-to-point data to assess the effectiveness of fund
+management is one of its shortcomings.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+10.48          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+TE is used to observe how the fund is run during the period. Higher TE is brought on by continuous
+movements in the daily monitoring difference over time. It is the daily tracking difference's variability
+(or volatility), which can be called as the tracking difference’s standard deviation. If an investor wants
+to compare index funds that track the same index without using technical terms, he can use the
+following rule of thumb: the lower the TE, the more well a fund tracks the index. When we mix TD
+and TE, things become fascinating. Both should ideally be lower and considered together when
+assessing the fund’s performance.
+Investors should choose the fund with the lowest tracking error and tracking difference after
+comparing the performance of various schemes tracking the same index. It's crucial to keep in mind,
+though, that a fund may have a high tracking error and still beat its peers. Investors should evaluate
+both characteristics to make an informed decision when choosing an efficiently managed fund rather
+than relying primarily on one when making their decision. A fund with a higher tracking error doesn't
+necessarily suggest inefficient index tracking, and vice versa, therefore concentrating solely on
+tracking error or tracking difference can be deceptive.
+16.2 Reasons for Deviation Between a Scheme’s Return and the Benchmark
+     (Index) Return
+What causes the fund to depart from benchmark returns, though? The same returns as the index
+are essentially impossible for a fund manager to attain. A fund manager encounters several real-
+world obstacles that cause the scheme return to differ from the benchmark return, which are follows:
+(i)    Total Expense Ratio (TER):  It is charged by passive funds to cover management and
+       operating costs related to running the fund. The returns on the funds are directly impacted by
+      a higher or lower TER.
+(ii)   Cash holdings: To honor investor redemptions, passive funds also keep a specific portion
+       of their Assets Under Management (AUM) in cash and cash equivalents, which are often
+        liquid securities. Since this money isn't invested, rising or falling markets may cause it to add
+       to or detract from the fund's returns.
+(iii)   Securities lending: In addition to receiving returns from the index, passive funds may also
+      generate income. For a fee, they can lend securities they own to other market players for a
+       short time. The increased income aids in cost-cutting and betters tracking accuracy.
+(iv)   Timing of execution: Several stocks are added or withdrawn when the index is rebalanced.
+      Although the index calculates returns using closing day prices, in practice fund managers
+      might not be able to execute trades precisely at the closing prices. Due to this, the execution
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+10.49                          MUTUAL FUNDS
+
+       price has a minor discrepancy, which results in tracking difference. This also applies to
+      managing the cash flow of investors daily.
+(v)   Dividend receipt is delayed, which could increase the tracking difference. When a fund gets
+       dividends from the underlying securities, there is a timing gap between when the payout is
+     made and when the benchmark index takes those payments into account.
+(vi)   Other costs: Passive funds also incur other expenses like goods and services tax on
+     management fees, brokerage fees for buy and sell transactions, exit load expenses, etc.,
+      which also impact fund returns. Apart from these, several factors such as corporate actions
+       (stock splits, mergers and acquisitions, spinoffs, etc.) also cause tracking differences.
+16.3 Calculation of Tracking Error
+
+        d -d   ∑ (        2                    )
+TE =
+         n-1
+d = Return of Portfolio
+d= Return of Benchmark
+n = No. of observation
+Example
+The following data is available for the yearly returns for both Fund PQR and the Nifty:
+             Year                   Fund PQR                       Nifty
+             2022                      15.54%                   20.73%
+             2021                      13.34%                      10.96
+             2020                      3.50%                    1.38%
+             2019                      10.00%                   12.79%
+             2018                      34.69%                   31.49%
+
+Calculate the tracking error. Also suggest the course of action for the investor.
+                     ( Return of a portfolio – Return of a benchmark ) 2Tracking Error =
+                                                       (n-1)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+10.50          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+    (15.54% - 20.73) 2 + (13.34% -10.96) 2 + (3.50% -1.38%) 2 + (10.00% -12.79%) 2 + (34.69% - 31.49%) 2 =                                                                                            
+                                                 (5-1)                                          
+
+= 0.037
+The small tracking error in the question shows that Fund PQR does not considerably exceed the
+benchmark. As a result, the investor can think about taking his money out of the fund and investing
+it in a different, more promising investment options. Alternatively, he can be content with the fact
+that his portfolio is gaining ground on the market.
+
+     17. REAL ESTATE INVESTMENT TRUSTS (REITs)
+17.1 Introduction
+A Real Estate Investment Trust (ReIT) is a form of investing in real estate, where the operator, the
+REIT, owns, and operates the real estate. ReITs may own commercial real estate like warehouses,
+offices, etc. ReITs can be publicly traded or private. The unitholders of a REIT earn their income
+from real estate without directly owning it. As a regulation, REITs must pay out at least 90% of their
+income to unitholders.
+
+     Type of ReIT                           Holdings
+       Equity          Own and operate income-producing real estate
+      Mortgage           Provide mortgages on real property
+       Hybrid          Own properties and make mortgages
+17.2 Indian Context
+SEBI notified regulations for investment trusts in September 26, 2014: specifically, real estate
+investment trusts (REITs) and infrastructure investment trusts (InvITs) – which was subsequently
+amended in September 23, 2016. REITs and InVITs allow sponsors to monetize revenue-generating
+real estate and infrastructure assets while enabling investors or unit holders to invest in these assets
+without owning them. REITs and InVITs enjoy favourable tax treatment, including exemption from
+dividend distribution tax and relaxation of capital gains tax.
+17.3 Structure of investment trust
+Investment trusts to hold assets either directly or through SPV. Investment trusts can invest in two-
+level SPV structure through Holding Company (Holdco), subject to sufficient shareholding in the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+10.51                          MUTUAL FUNDS
+
+
+Holdco and the underlying SPV and other safeguards including the following:
+a.     Investment trusts to have right to appoint majority directors in the SPV(s),
+b.    Holdco to distribute 100% cash flows realized from underlying SPVs and at least 90% of the
+      remaining cash flows.
+Mandatory sponsor holding shall not less than 25% of the total units of the REIT after initial offer on
+a post-issue basis (the minimum sponsor holding specified in this clause shall be held for a period
+of at least three years from the date of listing of such units). The sponsor shall always hold not less
+than 15% of the outstanding units of the listed REIT. In the case of InvIT, mandatory sponsor holding
+is 15%. There is no limit on the number of sponsors both in the case of REIT and InvIT. REITs can
+invest up to 20% in under-construction assets, while InvITs (through public issue) can invest up to
+10% in under-construction assets.
+Investment trusts shall hold controlling interest and not less than 50% equity share capital or interest
+in the SPVs (except in the case of public private partnership projects where such holding is
+disallowed by the government or regulatory provisions).
+Furthur, SPVs shall hold not less than 80% of assets (90% in case of InvITs) directly in properties
+(infrastructure projects for InvITs) and not invest in other SPVs.
+Lastly, SPVs should not engage in any activity other than those pertaining and incidental to the
+underlying projects.
+17.4 Stipulations to ensure transparency
+Trustee to hold assets for the benefit of unit holders, oversee activities, and ensure compliance with
+respect to reporting and disclosure requirements.
+A full valuation shall be conducted by an independent valuer not less than once in every financial
+year; a half yearly valuation of the assets shall be conducted by the valuer for the half-year ending
+September 30 for incorporating any key changes in the previous six months.
+All related-party transactions should be on an arm’s-length basis.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+10.52          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+ Source: Google to https://commercialobserver.com/2013/03/reit-so-sweet-investors-reconsider-
+                                   real-estate-investment-trusts/
+ReITs recently took off in India; the first IPO of REIT has been Embassy Office Parks REIT, backed
+by Blackstone Group, raised about `4,750 crore in India’s first real estate investment trust listing.
+The REIT, which includes Embassy Group properties, offered 158.6 million units at `299 to `300 a
+piece.  It started taking orders from anchor investors before moving on to a public offering. A
+successful listing of the REIT has opened a fundraising avenue for India’s cash-starved property
+companies. The nation’s real estate developers are struggling with sluggish sales and price declines.
+The trust’s portfolio comprises about 33 million square feet of office space across four Indian cities,
+Bengaluru, Pune, Mumbai, and Noida, as per Offer Document filed with SEBI. Its Express Towers
+property, located in Mumbai’s central business district, counts Wells Fargo & Co., Warburg Pincus
+as well as Blackstone as tenants.
+The following chart  illustrates the relationship between the Embassy REIT, the Trustee, the
+Manager, and the Unitholders (which include the Sponsors) on the Listing Date.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+10.53                          MUTUAL FUNDS
+
+
+                                        Unitholders (including
+                                   Sponsors and Sponsor
+                                          Group)
+
+                                          Units           Distributions
+
+
+                                                           Holds the REIT assets in trust for the
+                      REIT Management                           benefit of the Unitholders
+                               Service
+      Manager                                                                      Trustee
+                    REIT Management FEE      Embassy          Trustee Fee
+                                            REIT
+
+
+                                                                                 /Equity                 Flows                  Management                        ManagementFee                     Services
+              Property                                                      Cash                                       Property                                                                         Instruments                                                                                                                                Debt/Equity
+                                                                           Linked                                                                                                                                                                                                                 Distributable
+                                                Net                                                                                                                                Shareholder
+
+
+                                          Assets
+                                  SPVs
+
+(Source: Embassy REIT Offer Document)
+
+     18. INFRASTRUCTURE INVESTMENT TRUSTS (INVITS)
+An InvITs is a pool of money for investing in infrastructure projects and distribution of the earnings
+to the unit holders. An InvIT issues units that are listed on the Stock Exchange. In that sense, InvITs
+are like Exchange Traded Funds (ETFs) of Mutual Funds. The difference is, in a Mutual Fund, the
+underlying portfolio of shares or bonds change in value every day and there is an NAV declared
+every day. An InvIT invests in the projects which are identified as Special Purpose Vehicles (SPVs)
+that are not valued everyday but once in six months for publicly offered InvITs. Both InvITs and
+Mutual Funds are regulated by SEBI.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 54 ======================
+
+
+10.54          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+InvITs are set up as a trust and registered with SEBI. An InvIT involves four entities: Trustee,
+Sponsor, Investment Manager and Project Manager. The trustee, who oversees the role of an
+InvIT, is a SEBI registered debenture trustee and he cannot be an associate of the Sponsor or
+Manager. ‘Sponsor’ means promoters and refers to any company or body corporate with a net worth
+of ` 100 crore which sets up the InvIT and is designated as such while applying to SEBI. Promoters
+or Sponsors, collectively, must hold at least 15% in the InvIT for a minimum of 3 years. The value of
+the assets owned/proposed to be owned by InvIT shall be at least `500 crore. The minimum issue
+size for an initial offer is ` 250 crore. InvITs are allowed to add projects in the same vehicle in future
+so that investors can benefit from diversification as well as growth in their portfolio.
+Given the challenging phase of infrastructure in the country today, InvITs may provide an alternate
+source of funds. Several existing infrastructure projects which are under development in India are
+delayed and ‘stressed’ on account of varied reasons like increasing debt finance costs, lack of
+international finance flowing to Indian infrastructure projects, project implementation delays caused
+by various factors like global economic slowdown, cost overruns, etc. InvITs may offer a source of
+long-term re-finance for existing infrastructure projects. InvITs may help in attracting international
+finance into Indian infrastructure sector. These would also enable the investors to hold a diversified
+portfolio of infrastructure assets. Among Asian markets, Singapore is a success story for listed
+Trusts. In Singapore, there are 39 listings with a market capitalization of approx $70 billion, but the
+bias is on REITs than on InvITs.
+There is a debate on whether an InvIT, by nature of investment, is equity or debt as it has features
+of both. It is somewhere in between; loosely, debt-plus or equity-minus in terms of risk return profile.
+It has equity-like features such as the units are listed, can change hands like equity stocks, there is
+periodic valuation of the projects akin to periodic results of companies and economic factors like
+higher GDP growth or higher inflation would lead to expectation of higher revenue and hence higher
+price of the units at the Exchange. Its debt-like features are - there is periodic pay-out of the earnings
+of the InvIT from the underlying SPVs, which is not exactly like contractual coupon pay-out on bonds
+but somewhat comparable as the valuation gives a perspective on how much to expect.  It is a hybrid
+instrument with a somewhat predictable cash flow yield (akin to debt) and potential appreciation with
+growth of the economy (akin to equity).
+Taxation wise, an InvITs is a pass-through vehicle. There is a mandate to distribute at least 90% of
+net-distributable cash flows. Interest component of income distributed by trust to the unit holders
+would attract withholding tax @ 10% for resident unit holders. Interest income is taxable in the hands
+of the unit holder. Dividend income is exempt in the hands of the unit holder and there is no dividend
+distribution tax.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 55 ======================
+
+
+10.55                          MUTUAL FUNDS
+
+
+At this point of time, InvIT is not a retail product, the minimum primary application amount being
+` 10 lakh and the minimum secondary transaction amount being ` 5 lakh. The restriction is imposed
+because there is no track record and lack of awareness. There is a liquidity risk as well, in the
+secondary market, the units may not be traded every day as the investor base is not wide at this
+point of time. May be over a period, with the development of this market, SEBI would look to ease
+the threshold amount for REITs and InvITs. As of now, investors should keep  it on the radar and
+participate through the mutual fund route who have a better understanding of the risk factors and
+can handle secondary market liquidity issues.
+SEBI allows unlisted InvITs to raise funds via right issues
+The Securities and Exchange Board of India has allowed unlisted infrastructure investment trusts
+(InvITs) to raise funds through rights issue of their units.
+The regulator has come up with detailed guidelines on conditions for issuance of units, pricing,
+timelines, and allotments. SEBI said InvITs can make a rights issue of units provided  it fulfil the
+conditions, including none of the respective promoters or partners or directors of the sponsor or
+investment manager or trustee is a fugitive economic offender, nor are they barred from the
+accessing the securities market.
+If the InvIT wants to have the issue underwritten, it can appoint underwriters, SEBI said.
+The regulator said the minimum allotment to any investor will be Rs 1 crore. Besides, the rights issue
+should open within three months from the record date and kept open for at least three working days
+but not more than 15 days.
+The InvIT shall not make any further issue of units in any manner during the period between the date
+of filing the letter of offer with the Board and the allotment of the units offered through the letter of
+offer. The InvIT shall file an allotment report with the Board providing details of the allottees and
+allotment made within 15 days of the issue closing date,” SEBI said in a circular.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 56 ======================
+
+
+10.56          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    The funds which allows to issue and redeem units any time during the life of the scheme and
+     new investors can join the scheme any time by directly applying to the mutual fund and can
+     redeem their units any time by surrendering the units to the Mutual Fund are called: -
+        (a)    Balanced Funds
+        (b)    Liquid Funds
+        (c)    Close Ended Funds
+        (d)   Open Ended Funds
+2.     Mr. Rahul is 25 years old. He has just started his career by taking a job in a well-known Steel
+     Company. He wants to grow his money and wants to generate wealth in long term by investing
+        in Mutual funds. He should invest in which type of mutual funds: -
+        (a)    Debt Fund
+        (b)    Liquid fund
+        (c)    Equity fund
+        (d)    Gold ETF
+3.    Market Value of Total Assets of the Mutual Fund is at ` 15 cr. and Total Liabilities is at 3 cr.
+           It has 1 cr. outstanding Units issued. Calculate the N.A.V. per unit of the Mutual Fund: -
+       (a)   ` 17
+       (b)   ` 10
+        (c)   ` 12
+       (d)   ` 15
+4.    Which type of fund is more volatile?
+       (a)    Large-cap funds
+       (b)    Mid-cap funds
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 57 ======================
+
+
+10.57                          MUTUAL FUNDS
+
+        (c)    Small-cap funds
+       (d)    Hybrid Funds
+5.    ____________ are an important link between fund managers and investors.
+       (a)    Trustees
+       (b)    Asset Management Companies
+        (c)    Custodians
+       (d)    Registrar And Transfer Agents
+6.    What is an open-ended mutual fund?
+       (a)       It is the one that has an option to invest in any kind of security
+       (b)       It has units always available for sale and repurchase.
+        (c)       It has an upper limit on its NAV
+       (d)       It has a fixed fund size
+7.    ________ is a method of investing in mutual funds wherein an investor chooses a mutual
+      fund scheme and invests the fixed amount of his choice at fixed intervals.
+       (a)    Systematic Transfer Plan
+       (b)    Systematic Withdrawal Plan
+        (c)    Systematic Investment Plan
+       (d)    Systematic Innovative Plan
+8.    Which among the following is not one of the ways of measuring performance of mutual funds?
+       (a)   Sharpe Ratio
+       (b)    Treynor Ratio
+        (c)     Liquidity Ratio
+       (d)    Sortino Ratio
+9.    Which among the following is true in case of rolling returns?
+       (a)       It simply measures the performance of the growth option NAV from the start date to
+              today’s date, annualized.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 58 ======================
+
+
+10.58          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+       (b)   Measure the return from the start date to next date, from next date to next-to-next date
+           and so on and take the average of all these observations.
+        (c)   measure the return from the start date to next week, from next week to next-to-next
+           week and so on and take the average of all these observations.
+       (d)     All of the above
+10.   The CEO, Sumesh Kumar Nahta wants to know from the CFO, CA Aakash Mehta that if the
+       equity fund is redeemed at ` 20 and the exit load is 2.50%, what will be the NAV of the equity
+      fund?
+       (a)    19.50
+       (b)    20.50
+        (c)    19.975
+       (d)    20.00
+11.    Front end load is also called ………...
+        (a)    Entry Load
+       (b)    Exit Load
+        (c)    Both Entry and Exit Load
+       (d)     Trail Commission
+Theoretical Questions
+1.      Briefly describe the organization of Mutual Funds.
+2.     Explain Mutual Funds based on Classification of Portfolio Management.
+3.    What is a Net Assets Value? Explain with the help of an example.
+4.    As a performance measurement, what is the difference between Point-to-Point Returns and
+       Rolling Returns?
+5.     Explain the significance of Side Pocketing in protecting mutual fund investors. What effect
+      does side pocketing have on NAV? Are there any drawbacks to side pocketing?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 59 ======================
+
+
+10.59                          MUTUAL FUNDS
+
+Practical Questions
+1.     Mr. Shreyas wants to invest in Ready Mutual Fund Scheme for which the following information
+        is available:
+      Asset Value at the beginning of the month                    ` 80
+      Annualized return                                          15 %
+       Distributions made in Income & Capital gain (per unit respectively).  ` 0.80 and ` 0.60
+       Calculate the month end net asset value of the mutual fund scheme.
+2.    An investor purchased 400 units of a Mutual Fund at ` 12.25 per unit on 31st December 2021.
+     As on 31st December 2022 he has received ` 1.50 as dividend and ` 1.00 as capital gains
+        distribution per unit.
+      Required:
+          (i)    The return on the investment if the NAV as of 31st December 2022 is ` 13.25.
+           (ii)   The return on the investment as on 31st December 2022 if all dividends and capital
+             gains distributions are reinvested into additional units of the fund at ` 12.50 per unit.
+
+ANSWERS/SOLUTIONS
+Answers to the MCQ based Questions.
+    1.        (d)        2.        (c)        3.        (c)        4.        (c)        5.        (a)
+    6.        (b)        7.        (c)        8.        (c)       9        (d)      10        (b)
+   11.        (a)
+Explanations to the practical Questions in the MCQs
+3.    Net Assets Value = Value of Assets – Value of Liabilities/Total Number Outstanding Units
+     = ` 15 crore – ` 3 crore/` 1 crore = ` 12 crores
+10.   Redemption Price = NAV/ (1 + Exit Load)
+       Or, 20 = NAV/ (1 + 0.025) So, NAV = ` 20.5
+Answers to the Theoretical Questions
+1.    Please refer to paragraph 2.4
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 60 ======================
+
+
+10.60          FINANCIAL SERVICES AND CAPITAL MARKETS
+
+2.    Please refer to paragraph 3.2
+3.    Please refer to paragraph 6
+4.    Please refer to paragraph 8.1
+5.    Please refer to paragraph 15
+Answers to the Practical Questions
+1.     Calculation of NAV at the end of month:
+      Given Annual Return = 15%
+     Hence Monthly Return (r) = 1.25%
+              (Closing NAV - Opening NAV) + Dividend+ CapitalGain         r =
+                            Opening NAV
+                   ( Closing NAV − ` 80 ) + ` 0.80 + ` 0.60      0.0125 =
+                         ` 80
+      1 = Closing NAV  - `78.60
+       Closing NAV = ` 79.60
+                                     (Closing NAV - Opening NAV) + Dividend+ CapitalGain
+2.       (i)     Return on Investment =
+                                                Opening NAV
+                 (13.25 - 12.25) + 1.5+1           =                    x100 = 28.57%
+                       12.25
+           (ii)       If all dividends and capital gain are reinvested into additional units ` 12.5 per unit, the
+              position would be as follows:
+              Total amount reinvested = ` 2.5 x 40 Units = ` 1000
+                                 1000
+              Additional units added =      = 80 units
+                                      12.5
+            Value of now 480 (400 + 80) units as on 31/12/2022 = 480 units x ` 13.25 = ` 6360
+             Price paid for 400 units as on 31/12/2021 = 400 units x ` 12.25 = ` 4900
+                     6360- 4900            Return =           x100 = 29.80%
+                       4900
+
+
+© The Institute of Chartered Accountants of India

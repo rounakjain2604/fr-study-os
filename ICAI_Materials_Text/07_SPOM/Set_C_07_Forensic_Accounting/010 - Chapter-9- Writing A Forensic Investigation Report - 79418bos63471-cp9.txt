@@ -1,0 +1,750 @@
+Source PDF: 07_SPOM/Set_C_07_Forensic_Accounting/010 - Chapter-9- Writing A Forensic Investigation Report - 79418bos63471-cp9.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_07_Forensic_Accounting\010 - Chapter-9- Writing A Forensic Investigation Report - 79418bos63471-cp9.pdf
+Extracted at: 2026-05-31T10:33:03+05:30
+Pages: 20
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          9         1
+
+WRITING A FORENSIC
+INVESTIGATION REPORT
+
+
+                       LEARNING OUTCOMES
+After studying this chapter, you would be able to understand-
+
+    Meaning of Forensic Investigation Report.
+   Some broad points considered while drafting a summary of findings.
+    Techniques used for make the presentation of the findings.
+    Points to consider and note while “Using Expert’s Work” in report.
+    Reporting of cases where evidence was gathered from the digital domain in the engagement.
+    Reporting of data analytics part undertaken by the professional.
+    Reporting of interviews taken by the professional during the forensic accounting and investigation
+      engagement.
+    Important considerations to be followed by professionals at the time of issuance of “interim
+        reports”.
+   Key elements/qualities of report as per FAIS.
+   No “expression on opinion” in the report by the professional.
+    Reporting of limitations that restrict the methodologies or procedures applied in carrying out the
+       assignment.
+    Best practices and standardisation for better presentation in reporting.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+9.2          FORENSIC ACCOUNTING
+
+ CHAPTER OVERVIEW
+
+
+Certain drafting qualities of the report
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+WRITING A FORENSIC INVESTIGATION REPORT              9.3
+
+      9.1  SUMMARY OF FINDINGS (CHECKING ALL EVIDENCE)
+The Professional shall issue a written report which conveys the results of the assignment clearly and
+accurately. It is a logical and clear representation of the facts collected and found necessary by the
+professional to reach the result of the assignment. The findings reported shall be based on evidence
+gathered which are reliable and relevant and in line with FAIS 320 on “Evidence and Documentation”.
+Following are the broad points that can be considered while drafting a summary of findings:
+1.     Clarity  and  Conciseness:  Ensure  the  summary   is  clear,  concise,  and  easily
+      understandable by stakeholders who may not have a deep understanding of financial or
+       forensic matters.
+2.    Chronological Order: Present findings in a logical and chronological order. This helps in
+      understanding the sequence of events leading to the issues uncovered.
+3.    Scope and Objectives: Briefly outline the scope and objectives of the investigation to
+      provide context for the findings.
+4.    Quantify Findings: Where possible, quantify the impact of the findings. For example,  if
+       financial losses occurred, specify the amount.
+5.    Legal Implications: Clearly highlight any findings with legal implications. This may include
+       fraud, embezzlement, or other criminal activities.
+6.    Root Causes: Identify and articulate the root causes of the issues. This helps in addressing
+       the problems at their source rather than just treating the symptoms.
+7.    Recommendations: Provide actionable recommendations for addressing the identified
+       issues. These should be practical and feasible.
+8.    Supporting Evidence: Include references to supporting evidence. This could be in the
+      form of documents, transaction records, or other relevant materials.
+9.     Potential Future Risks: Discuss any potential future risks  if the identified issues are not
+      addressed promptly.
+10.   Management Response: If available, include responses or comments from management
+      regarding the findings. This adds another layer of transparency.
+11.   Language: Use non-technical language where possible, or provide explanations  for
+       technical terms. The goal is to make the report accessible to a broad audience.
+Summary of findings can be correlated with the concept of providing an executive summary which
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+9.4          FORENSIC ACCOUNTING
+
+entails key matters and issues which would be important  in  the decision-making process.
+Professionals could consider including the findings which can be categorised of high and medium
+importance / priority.
+Professionals could follow an internal process of answering the WH questions and more importantly
+attempt to correlate the findings with the potential financial impact or implications or loss to the
+aggrieved party. Following are illustrative checkpoints which would
+♦     individuals who were signatories  / approving authorities to the transactions or decision-
+      making,
+♦    how the transactions / decision-making was undertaken and what was the modus operandi,
+♦     timeline as to when the modus operandi was undertaken,
+♦    what are the other relevant points surrounding the findings about the process, and
+       underlying documents.
+♦    attempt to understand why certain transactions / decision-making would have taken place
+       including the decoding of why a particular modus operandi would have been adopted
+        Professionals may explore and make the presentation of the findings, by using the
+               following: some of the examples of the templates generally used like Link-Network
+           Diagram (for emplaining links and relationships between parties involved, Tim Flow
+            Diagrams maybe used to depict the Tim flow. Images for the above may be added to
+             the chapter for better understanding.
+♦     tabular presentation,
+♦    process flow,
+♦    fund trail through charts,
+        Following are the additional points to be kept in mind at the time of writing a report,
+              especially the findings part:
+♦     the report would be read by a lay person, and thereby complete background of the finding
+     need to be provided
+♦      all the amounts need to be substantiated by the evidence
+♦     reference to the evidence should be clearly provided
+♦    chain of custody should be specifically mentioned as to who had provided the evidence or
+     how was it discovered
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+WRITING A FORENSIC INVESTIGATION REPORT              9.5
+
+♦    mention the representatives with whom information gathering discussions had taken place
+♦    prepare a timeline of events for the case, to understand the background and context
+♦    prepare a timeline of events of the assignment / engagement, from the data of engagement
+        letter to information requirement list to sharing of data, any in-person or field visits and how
+       the overall assignment was spread across the review, in form of a GAANT chart, if possible
+♦    prepare a glossary of terms used in the report
+♦    prepare a list of names used in the report, in terms of their designation and make a caveat
+        that, any names in the report do not tantamount to involvement and that the report must be
+      read in full
+♦     tabular summary of applicable laws and its implication on the case, can help objectively
+       classify the correlation between the same
+      When using  the work  of an  expert,  following must be noted and taken  into
+             consideration in the report:
+♦    Expert's Qualifications: Clearly state the qualifications and credentials of the expert,
+       including their professional certifications, relevant experience, and any specific expertise
+        in the field related to the investigation.
+♦    Scope of Engagement: Define the specific scope of the expert's engagement. Clearly
+       articulate the tasks assigned, the areas covered, and the limitations of their work.
+♦    Independence and Objectivity: Highlight the independence and objectivity of the expert.
+      Confirm that the expert is not influenced by any party involved in the investigation and has
+      provided an unbiased analysis.
+♦    Methodology and Approach: Describe the methodology and approach used by the expert
+        in conducting their analysis. This may include technical procedures, models, or forensic
+      techniques employed.
+♦    Data and Information Provided: Specify the data, information, and documentation
+      provided to the expert for analysis. Ensure that the expert had access to  all relevant
+       materials necessary for a thorough examination.
+♦    Reliance on Third-Party Information:  If the expert relied on information obtained from
+        third parties, disclose the sources and explain how the reliability of such information was
+      assessed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+9.6          FORENSIC ACCOUNTING
+
+♦    Findings and Conclusions:  Clearly present the  expert's  findings and conclusions.
+       Articulate how these  findings contribute  to the  overall  investigation and support  or
+      challenge the main hypotheses.
+♦    Limitations and Constraints: Discuss any limitations or constraints faced by the expert
+      during the analysis. This may include restrictions on data access, time constraints, or
+      challenges in obtaining certain information.
+♦    Quality Control Procedures: Highlight the quality control procedures implemented by the
+      expert to ensure the accuracy and reliability of their work. This may include peer reviews
+       or other validation processes.
+♦    Documentation: Include any reports, exhibits, or documentation provided by the expert as
+       part of the investigation. Attach relevant appendices to the report for reference.
+♦    Communication with the Expert:  Detail  the communication process between  the
+       investigator and the expert. Clarify how questions, concerns, or additional information
+      requests were addressed.
+When reporting is to be done for cases where evidence was gathered from the digital domain during
+the forensic accounting and investigation engagement, following must be noted and taken into
+consideration in the report:
+♦    Introduction: Provide an overview of the digital evidence gathering process, highlighting
+         its importance in the investigation.
+♦    Scope and Objectives: Clearly define the scope of digital evidence gathering and state
+       the specific objectives. This sets the boundaries for the investigation.
+♦    Legal and Ethical Compliance: Emphasize adherence to legal and ethical standards in
+        digital evidence  collection. Ensure  that  all  actions comply  with  relevant laws and
+       regulations.
+♦    Authorization and Consent: Specify the authorization obtained  for  digital evidence
+       collection. Highlight any consents received from relevant parties.
+♦    Chain of Custody: Describe the chain of custody procedures followed to maintain the
+        integrity of digital evidence. This includes documenting the handling, storage, and transfer
+       of evidence.
+♦     Digital Devices and Storage Media: List all digital devices and storage media examined
+      during the investigation. Include details such as make, model, serial numbers, and capacity.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+WRITING A FORENSIC INVESTIGATION REPORT              9.7
+
+♦    Forensic Tools and Techniques: Provide an overview of the forensic tools and techniques
+      used for digital evidence extraction. Highlight their reliability and acceptance in the forensic
+      community.
+♦    Data Acquisition: Detail the process of data acquisition, including the identification,
+       preservation, and imaging of digital evidence. Specify any challenges encountered.
+♦    Recovery of Deleted Data:  If applicable, describe methods used for recovering deleted
+       data. Highlight the significance of recovered data in the investigation.
+♦    Timeline Analysis: Present a  timeline analysis  of  digital  activities  relevant  to  the
+       investigation. This may include login/logout times, file creation/modification dates, etc.
+♦    Communication Analysis: Analyze digital communications, such as emails, messages,
+     and calls. Present findings related to communication patterns, content, and frequency.
+♦    Encryption and Decryption: If encryption is encountered, explain how it was addressed.
+     Document any successful decryption processes and their impact on the investigation.
+♦    Metadata Examination: Discuss the examination of metadata associated with digital files.
+      Explain how metadata contributed to the understanding of the timeline and context.
+♦    Limitations and Challenges: Acknowledge any limitations or challenges faced during
+        digital evidence  gathering. This may  include encrypted  data, hardware  failures,  or
+      uncooperative subjects.
+      When reporting is to be done for the data analytics part undertaken by the professional
+             during the forensic accounting and investigation engagement, following must be noted
+           and taken into consideration in the report:
+♦    Introduction to Data Analytics: Provide an introductory section explaining the role and
+       significance of data analytics in the forensic investigation.
+♦    Objective of Data Analytics: Clearly state the objectives of using data analytics in the
+       investigation. Specify whether it was used for pattern recognition, anomaly detection, trend
+       analysis, etc.
+♦    Scope and Limitations: Define the scope of data analytics, including the types of data
+      analyzed and any limitations associated with the analysis.
+♦    Data Sources:  List the data sources used  for analytics, such as  financial records,
+       transaction logs, databases, or any other relevant datasets.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+9.8          FORENSIC ACCOUNTING
+
+♦    Data Preparation: Describe the steps taken to prepare the data for analysis. This may
+       include data cleaning, normalization, and transformation processes.
+♦     Analytical Tools and Techniques: Provide details about the specific tools and techniques
+      employed for data analytics. Highlight their relevance to the investigation.
+♦    Pattern Recognition: If applicable, discuss any identified patterns in the data. This could
+       include recurring trends, unusual spikes, or other noteworthy patterns.
+♦    Anomaly Detection:  Highlight instances where data  analytics was used  to  detect
+      anomalies or outliers in the financial data. Explain the significance of these anomalies.
+♦    Trend Analysis: Present  findings from  trend  analyses, showcasing any  trends  or
+        irregularities in financial transactions over time.
+♦   Red Flag Indicators: Identify and explain red flag indicators revealed through data
+       analytics. These could be indicators  of fraud, financial mismanagement, or irregular
+        activities.
+♦    Quantitative Findings: Quantify the impact of data analytics on the investigation. For
+      example, mention the percentage of transactions flagged as suspicious.
+♦    Relationship Mapping:  If applicable, describe how data analytics was used to map
+       relationships between entities, such as customers, vendors, or employees.
+♦    Predictive Analytics  (if used):   If  predictive  analytics was employed,  discuss  the
+       predictions made and their accuracy. Highlight any instances where predictions contributed
+       to the investigation.
+♦    Data Visualization: Include visual representations of key analytics findings, such as
+      graphs, charts, or dashboards. Ensure that these visuals are easy to interpret.
+♦     Statistical Significance: Discuss the  statistical significance of findings. Explain how
+       certain patterns or anomalies were determined to be statistically significant.
+♦     Interpretation of Results: Provide a clear interpretation of the results obtained through
+      data analytics. Explain how these results contribute to the overall investigation.
+♦    Implications for the Forensic Accounting and Investigation: Discuss the implications
+       of data analytics findings on the investigation. This may include uncovering hidden
+       transactions, identifying suspects, or supporting other evidence.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+WRITING A FORENSIC INVESTIGATION REPORT              9.9
+
+♦    Limitations and Challenges: Acknowledge any limitations or challenges faced during the
+      data  analytics  process. This may  include incomplete  data, data  quality  issues,  or
+       constraints in analytical tools.
+      When reporting is to be done for the interviews taken by the professional during the
+              forensic accounting and investigation engagement, following must be noted and taken
+               into consideration in the report:
+♦    Objective and Neutral Tone: Maintain an objective and neutral tone throughout the report.
+      Avoid subjective language or personal opinions.
+♦    Detailed Documentation: Document interviews thoroughly, including the date, time,
+       location, participants, and any observations. Use verbatim quotes sparingly and accurately.
+♦    Interviewee Information: Clearly state the identity and role of each interviewee. Specify
+        their relationship to the case or investigation.
+♦    Informed Consent: Ensure that each interviewee provides informed consent to participate
+        in the interview. Document the consent process.
+♦    Chronological Reporting: Present information in a chronological order if relevant to the
+       investigation. This helps in creating a clear timeline.
+♦    Adverse Findings: If discrepancies or inconsistencies arise from interviews, report them
+       objectively. Avoid making premature conclusions.
+♦    Limitations of Interviews: Acknowledge the limitations of interviews as a source of
+       information. Interviews may be subjective, and memories may be fallible.
+♦    Legal and Ethical Compliance: Ensure that the interview process complies with legal and
+       ethical standards. Be aware of any laws or regulations governing interviews.
+
+      9.2  PRESENTING & DISCUSSING DRAFT REPORT (MAIN
+        FACTORS - AS PER FAIS)
+The principles of natural justice require a discussion of the observations with the subject party. In
+some cases, this is done by the Primary Stakeholders through their own internal processes (e.g.,
+disciplinary committee, show-cause  notice,  etc.). At times, the Professional  is requested  to
+incorporate the discussion of draft findings as part of the interview process with the subject. Where
+the engagement mandate requires a discussion of the draft findings with the subject party, any
+response received from them shall also be included in the written report issued by the Professional.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+9.10          FORENSIC ACCOUNTING
+
+The report shall be issued within reasonable time frame as per the engagement terms. The
+Professional may be required to provide interim reports as per the engagement terms which can be
+given to the extent practicable without compromising the progress of the Investigation. Such interim
+reports are also subject to this Standard.
+Where the mandate of the engagement requires a discussion of the findings with the subject party
+prior to finalisation, a summary of the responses received from them shall be included in the report.
+The Professional may consider the following at the time of issuance of interim reports:
+♦    The report may contain ‘Interim Report’ in the title.
+♦   A statement to the addressee of the Interim Report that the observations contained in the
+       report are based on the work procedures performed till date, which may change on account
+       of performance of complete work procedures or information gathered post the date of the
+       Interim Report.
+♦   A statement that the Interim Report may not be in accordance with  all the Forensic
+      Accounting and Investigation Standards.
+♦   A statement that due care should be taken by the addressee before taking any actions
+      based on the observations in the Interim Report on account of incomplete work procedures.
+♦        If, for any reason, the Professional is unable to complete a FAI engagement, the incomplete
+      work procedures and the reasons thereof may be adequately captured in the Final Report
+      subsequently to be issued by the Professional.
+
+      9.3  KEY  ELEMENTS  AS  PER  FAIS  (TABLE  OF
+        CONTENTS, NO OPINION)
+Certain drafting qualities of the report are important to ensure its credibility. Examples of some of
+these are as follows:
+Free from bias: The report is prepared on the basis of facts determined during the course of the
+engagement without any personal bias. The report should not include opinions or conclusions on
+whether or not a person is guilty or innocent.
+Factual: Facts stated in the report are generally supported with relevant and reliable evidence. Such
+evidence may be annexed to the main report.
+Clear and unambiguous: The language used in the report should be easy to understand.
+Transparent: The report may contain complete details of all the findings. In case of any limiting
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+WRITING A FORENSIC INVESTIGATION REPORT              9.11
+
+factor in the engagement, the same may be highlighted in the report.
+Chronological: The report may establish the chronology of the events which occurred regarding the
+issue under consideration.
+Meeting the objective: The report may be reviewed to evaluate whether the findings are in line with
+the objective of the engagement.
+Circulation: The  report may have  restricted  circulation and only  circulated  to the primary
+stakeholders unless it has been expressly mentioned in the letter of engagement that the report has
+to be shared with others. The report may clearly highlight who it can be circulated to and include a
+note to maintain confidentiality.
+(a).    Title, addressee and distribution list (if any)
+(b).   Scope and objectives of the assignment
+(c).   Approach and broad work procedures undertaken
+(d).   An Executive Summary of the results, covering all important aspects and the essence of
+       the findings
+(e).   Reference to use of an Expert, where applicable
+(f).   The fact that the assignment has been conducted in accordance with FAIS, or any material
+      departures therefrom
+(g).    List of findings supported by key evidences, sources of evidences, and other relevant
+       matter;
+(h).   Assumptions, limitations and disclaimers of the assignment
+(i).    Conclusions (if any) drawn from the assessment undertaken.
+A detailed understanding of each component is provided hereunder:
+Covering letter: It is a good practice for the Professional to issue a covering letter along with the
+report addressing it to the primary stakeholders and referencing it to the engagement letter.
+Executive summary: The executive summary is a concise overview of the engagement and the
+findings. It provides a comprehensive picture of the concerns raised, work procedures carried out
+and the findings. It is a good practice to include a disclaimer stating that the executive summary is
+not a substitute to the report and should be read in conjunction with the report.
+Title, addressee, distribution list: The title of the report may include the case reference number,
+or project name, as appropriate. The report shall be addressed to the primary stakeholders.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+9.12          FORENSIC ACCOUNTING
+
+Distribution of the report to others shall be with the prior approval of the Primary Stakeholders. A
+disclaimer may be added to restrict the distribution of the report beyond the primary stakeholders.
+Scope and objectives of the engagement: The report may begin with the scope and objective of
+the engagement defined at the time of agreeing the terms. However, any additional scope items may
+be included for an assignment, if appropriate.
+Approach and broad work procedures undertaken: This section documents the work procedures
+performed by the Professional to gather evidence and information to determine the facts reported.
+This confirms that the Professional conducted procedures that were sufficient, appropriate and
+commensurate to the scope of the engagement. The work procedures may include sampling
+methodologies, digital tools and techniques, people interviewed, information gathered from public
+domain and site visits conducted, amongst others.
+Reference to use of expert: The work of an Expert may be included in the report along with the
+credentials and the scope of work.
+Reference to FAIS or any other standards adhered to: The report would include a statement
+confirming that the engagement has been conducted  in accordance with the FAIS and also
+highlighting deviations, if any.
+Detailed  findings:   The  report  includes  details  of  findings based on  the  evidence and
+documentation. As a good practice, the findings are referenced to the relevant evidence and
+information gathered, which may be annexed to the report. The Professional may list the findings on
+the basis of evidence relied upon, the modus operandi identified and the quantum (to the extent
+possible) of the deviations noted. The Professional would choose a structure most conducive to
+convey the findings as per stakeholder format requirements. For example, tables or matrix with
+diagrams or graphical flow charts may be used to depict fund flows.
+Assumptions, limitations and disclaimers: Where the Professional makes any assumptions, such
+assumptions and the reliance placed on them may be adequately disclosed in the report. When the
+Professional has not been able to review relevant information or perform relevant tests, a limitation
+on the scope of the work, the reasons for the limitations, the potential impact of the limitations, and
+any other disclaimers, may be disclosed in the report. The Professional may exercise discretion at
+the time of drafting limitations and disclaimers.
+Conclusions: Based on the findings noted, the Professional may arrive at certain conclusions
+regarding the objectives of the engagement. For example, the conclusions may indicate whether
+there has been any deviation to procedures, legal violations etc. However, the Professional shall
+refrain from expressing any opinion, such as those relating to the guilt or innocence of any person
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+WRITING A FORENSIC INVESTIGATION REPORT              9.13
+
+in the report.
+The  report  shall not express an opinion or pass any judgment on the  guilt or innocence.
+Determination of culpability is either a disciplinary process internal to the organization under review,
+or a judicial process depending on the specific situation under review. The report can, at best,
+highlight the circumstances and facts that may aid a Stakeholder decision or further a civil or criminal
+investigation. While no fixed form or content of the report is mandated by this Standard, the report
+shall include certain key elements to enable the recipient to understand the purpose of the
+assignment, the  extent and scope  of work performed by  the  Professional, any  limitations,
+assumptions or disclaimers, the facts and evidence gathered during the course of the engagement
+and the conclusions drawn. Where the form and content of the report is mandated by the Primary
+Stakeholders, or specified by the statutory or regulatory requirements, the Professional shall report
+in line with those requirements, while keeping in mind the key elements.
+Indicative Report Template
+COVERING LETTER
+Name & Address of the Professional
+Date of issue of report
+Primary stakeholders
+Subject: Forensic Accounting / Investigation report for {Case reference}
+I/We have conducted a Forensic Accounting / Investigation into {matter at hand} in accordance with
+the terms of engagement laid out in the engagement letter dated {date}.
+Attached is the fact-finding report.
+CONFIDENTIAL REPORT
+ Distribution List          Primary Stakeholders
+                          Others (where approved by Primary Stakeholders)
+ Case Reference         Case reference number / Project name, if any
+ Assignment Start date   Date of starting the assignment, as agreed upon in the terms of the
+                        engagement
+ Assignment End date    Date up to which work was performed
+ Report Date             Date on which report is issued
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+9.14          FORENSIC ACCOUNTING
+
+ Notice to the reader     Any  limitation  or statement  to be  highlighted  to  the primary
+                            stakeholders may be provided here.
+                        Examples include:
+                               1.     This assignment  is conducted  in accordance  with  the
+                                 requirements  of  Forensic Accounting and  Investigation
+                                 Standards, issued by The Institute of Chartered Accountants
+                                       of India (ICAI).
+                               2.     This assignment is governed by the scope defined in the
+                               Engagement/Appointment Letter dated XXX
+                               3.    The {Professional} has  relied upon the information and
+                              documents provided up to XXX date
+                               4.     This report is issued to provide summary of findings.
+                               5.    The Professional has  relied upon the work  of  {expert},
+                                    {Credentials of the expert and scope of his work} who is an
+                                   expert in the field of {subject matter}.
+                               6.     This report must not be circulated further without the written
+                                  approval of the Professional.
+                               7.    No part of the report must be read in isolation.
+ Scope                 The objective of conducting the engagement, as defined in the
+                                   letter of engagement/appointment.
+ Work Done             The broad work procedures  performed,  detailing  the  people
+                             interviewed, the devices reviewed and the period of coverage.
+ Executive Summary     Summary of key findings.
+ Detailed findings        The detailed list of findings provide a reference to the evidence,
+                          which may be annexed to the report as well as any assumptions
+                     made in order to test the findings.
+ Conclusion             Whether or not the evidence collected through the course of the
+                              investigation supports the concerns
+
+      9.4  ASSUMPTIONS AND  LIMITATIONS (EXCLUSIONS
+       AND CAVEATS – EXAMPLES)
+The Professional shall list any relevant assumptions made during the course of the engagement
+having a significant bearing on the subject matter. In addition, the Professional may encounter
+limitations that restrict the methodologies or procedures applied in carrying out the assignment. Such
+limitations can be in the form of lack of (or limited) management support, restricted (or denied)
+access to required records, information or people, due to any reason such as order of Competent
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+WRITING A FORENSIC INVESTIGATION REPORT              9.15
+
+Authority, short timelines, etc. These disclaimers would be covered in the report as a key element
+of the report. The Professional shall address the report to the Primary Stakeholders as per FAIS 250
+on “Communication with Stakeholders”, unless the engagement terms state otherwise. If required,
+a copy of the report may be shared with Other Stakeholders, but with the prior approval of the
+Primary Stakeholders.
+The professional may be unable to complete an engagement for the following reasons:
+♦     Possible involvement of primary stakeholder.
+♦     Limitations in availability of evidence.
+♦    Non availability of stakeholders.
+♦     Life Threatening Circumstances.
+♦    Any other extenuating circumstances.
+In such circumstances the Professional would need to record the reasons for non-completion of the
+engagement and communicate as per the revised communications protocols and incorporate the
+same in the final report.
+Sample points that could be included in the limitations, disclaimers and assumption section of the
+report:
+♦    Basis premise of the report: The Draft Report / Interim Update / Report issued is to be read
+        in totality, not in parts, and conjunction with the relevant sections referred to in this document.
+     The Report is based on the review of details as provided by the representatives but is not an
+       opinion of any guilt.
+♦    Acceptance of terms: By reading this document, the reader of this report shall be deemed
+       to have accepted the terms specified in this section or anywhere else mentioned in the
+       Report.
+♦    Not an audit: The scope of our services does not constitute an audit conducted in accordance
+       with generally accepted auditing standards, or an examination of internal controls/procedures
+       or other attestation or review services or services to perform agreed-upon procedures in
+      accordance with standards established by the Institute of Chartered Accountants of India.
+      Our services do not involve expressing an opinion or providing any other form of assurance,
+      concerning any matters.
+♦    Not a legal advice: Our work does not make any representation regarding questions of legal
+       interpretation and cannot render legal advice. Regulatory authority  / investigation agency
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+9.16          FORENSIC ACCOUNTING
+
+      should consult with its attorneys concerning any legal matters or items that require legal
+       interpretation including Indian laws, rules or regulations. Our report should not form the sole
+       basis for any decision as to a potential course of action without independent confirmation of
+         its findings; nor should it be relied upon as preferred advice of any nature.
+♦    Non-binding nature: Our views are not binding on any person, entity, authority or court and
+      hence, no assurance is given that a position contrary to our assessments expressed herein
+         will not be asserted by any person, entity, authority and/or sustained by an appellate authority
+       or a court of law.
+♦    Reliance on data: Our ability to perform all the work procedures depends on the nature,
+       quality and quantity of the information provided to us. While we relied on the information and
+      have taken reasonable steps to corroborate the same, we have not necessarily independently
+        verified the complete data sets for its authenticity and source and hence, cannot guarantee
+         its reliability or completeness. For these reasons, this report should be used for guidance
+      purposes only.
+♦    Timeline of review: We have prepared this document based on our understanding and
+       interpretations and are limited to the work procedures performed during the particular period.
+♦    Obtaining third party clarifications: Our procedures did not involve obtaining formal
+       explanations/clarifications from the suspected individuals. Further, work procedures are
+       limited to our understanding and interpretations. Additionally, our scope of work did not
+       include a review of any process adopted by third parties and have accordingly relied on
+       information and documentation as available with any regulatory authority  / investigation
+      agency. To that extent, we reserve the right to amend our findings,  if further information
+     becomes available. We request the regulatory authority  / investigation agency to obtain
+       further clarifications from the Suspects/Accused/Target, and third parties, as required.
+♦     Clarity on the amount represented in the Report: All the amounts stated in the report are
+       reported in Indian Rupees (‘INR’), and for simplicity purposes are represented in lakhs
+        (‘lakhs’) or crores (‘crs’) and rounded off unless stated otherwise. During our workings as
+        well, we might have rounded off certain amounts, thereby, before considering any amount for
+      any other reference, re-calculation may be advisable to arrive at the precise number if the
+      need be.
+♦   When the information has been gathered from the public domain: Although the
+       information may have been gathered from online public record information which is generally
+      accepted to be accurate, we cannot guarantee its integrity; nor can we monitor the speed
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+WRITING A FORENSIC INVESTIGATION REPORT              9.17
+
+       with which these public record sources update their records. In undertaking the public record
+      research and information gathering on this Engagement, we have identified information
+       currently  available. We may  not have  identified  information  previously  filed on  but
+      subsequently removed from the public record before this date, nor will we have identified
+       information subsequently filed on those data sources after this document date.
+♦   When there is scope for updating the report and also if the data provided is flawed: We
+      reserve the right to amend any findings if deemed necessary by us on the availability of any
+       further information post-submission of this document. We, our founder, team members, or
+      employees do not undertake responsibility in any way to any person due to errors that arise
+        in this document basis incorrect information or explanations as provided by the Company or
+      any of its representatives.
+
+      9.5  GENERAL  BEST  PRACTICES FOR  WRITING A
+        REPORT
+Following are the sample best practices and standardisation that can be adopted and incorporated
+as a checkpoint to have better sanity in reporting and overall presentation:
+♦    Use of Capital letters. The following are the scenarios where capital letters should be used:
+        In the names of people, places, or related words.
+        At the beginning of a sentence.
+        In abbreviations.
+♦    Numbers should either have no decimals or two decimals.
+♦    Use of Indent function. (Increase or Decrease of space between the left and right margin
+       of a paragraph)
+♦    Use of Slide Master/Heading styles. (While preparing Presentation)
+♦    Alignment and formatting
+♦    Table should be properly formatted. The following points should be done while formatting
+      a table:
+        Text: Top left aligned.
+       Number: Top right aligned.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+9.18          FORENSIC ACCOUNTING
+
+      No extra spaces
+♦    Use of the footnote function whenever reference is required. (In word the same can found
+      under Reference Tab and for presentation Superscript the number under text option)
+♦     Pictures should be uniformly formatted  i.e. Borders (What  is the number) and Wrap
+      Function
+♦    Amounts are always in INR Cr.
+♦    Date format is 03 April 2023 or in the table it can be 03 Apr 2023.
+♦    Short forms should be used in the main part of the report not in the limitations and
+       disclaimers.
+♦    Anything verbatim (example: management comments) should be in "Italics".
+♦    Headers and Footers should be as per the structure of the report.
+♦    Always define the names of the representatives (i.e. designation and the entity).
+♦     Certain questions can be answered before issuing the report:
+       Did we check the date before sending?
+       Did we revisit to check the following:
+          Casting?
+           Serial number in all tables?
+          Annexure referencing?
+          Numbering of the report?
+          Did we perform the grammar checks
+          Did we make Copy Paste mistakes (For example: Format of ABC report is used
+                       for making the report of XYZ, and there is ABC still appearing in the report)?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+WRITING A FORENSIC INVESTIGATION REPORT              9.19
+
+            TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    Which of the following would NOT be an acceptable section to include in a written fraud
+      examination report?
+       (a)   A findings section that summarizes the facts and findings of the investigation.0
+       (b)   A conclusion section that evaluates the guilt or innocence of the suspect.
+        (c)   A follow-up or recommendations section for recommendations related to procedures
+           and controls.
+       (d)   A scope section that describes the range of issues reviewed in the examination.
+2.    Which of the following is a recommended method for organizing and presenting information
+        in a fraud examination report?
+       (a)   By the order in which the information was discovered
+       (b)   By Suspects
+        (c)    Chronologically
+       (d)     All of the above
+3.     Characteristics of a well-written fraud examination report include which of the following?
+       (a)    Clear and unambiguous
+       (b)    Factual
+        (c)    Free from Bias
+       (d)     All of the Above
+4.    Which of the following is NOT a purpose of the follow-up/recommendations section of a
+       written fraud examination report?
+       (a)   To calculate the amount of loss caused by any misconduct identified during the
+              investigation
+       (b)   To state necessary remedial measures for the organization to undertake
+        (c)   To identify any aspect of the investigation that remains outstanding
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+9.20          FORENSIC ACCOUNTING
+
+       (d)   To make recommendations related to procedures and controls
+5.   When preparing a fraud examination report, which of the following opinions is permissible
+       to include in the report?
+       (a)    Reports or documentation provided by the expert
+       (b)    Opinions on a party's guilt
+        (c)    Opinions on the genuineness of witnesses
+       (d)   None of the above
+Answers to Multiple Choice Questions:
+    1.        (b)        2.         (c)        3.        (d)        4.         (a)        5.         (a)
+
+
+© The Institute of Chartered Accountants of India

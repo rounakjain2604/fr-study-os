@@ -1,0 +1,736 @@
+Source PDF: 07_SPOM/Set_C_09_Financial_Services_Capital_Markets/012 - CHAPTER 11- PRIVATE EQUITY - 79363bos63450-cp11.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_09_Financial_Services_Capital_Markets\012 - CHAPTER 11- PRIVATE EQUITY - 79363bos63450-cp11.pdf
+Extracted at: 2026-05-31T10:34:36+05:30
+Pages: 19
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+11CHAPTER          11
+
+PRIVATE EQUITY
+
+
+                       LEARNING OUTCOMES                       LEARNING OUTCOMES
+After going through the chapter student shall be able to understand
+   Meaning and Classification
+      (1)  Venture Capital
+      (2)  Buyouts
+      (3)  Hurdle Rate
+      (4)  Paid in Capital
+      (5)  Term Sheet
+   Cost of Investing in Private Equity
+    Exit Routes
+   Valuation of Private Equity Transactions
+   Private Equity Funds (Distribution of returns  in General Partner and
+     Limited Partners)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+11.2            FINANCIAL SERVICES AND CAPITAL MARKETS
+
+ CHAPTER OVERVIEW
+
+
+                                                                  Venture Capital
+
+
+                                                                    Buyouts
+
+
+                     Meaning and Classification                      Hurdle Rate
+
+
+                   Cost of Investing in Private Equity                  Paid in Capital
+
+         Equity
+                                    Exit routes                         Term Sheet
+          Private
+
+                         Valuation of Private equity
+                                transactions
+
+
+                       Private equity funds (distribution of returns in General
+                                   partner and Limited Partner)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+11.3                        PRIVATE EQUITY
+
+     1.  MEANING OF PRIVATE EQUITY (PE)
+Private Equity is the capital brought in by the Private Equity firms (simply called ‘PE firms’) into the
+enterprise as part of equity capital. PE firms are the investment fund companies who take a strategic
+stake in the enterprise. PE is one form of Venture Capital which takes the form of equity capital of
+the company. PE firms are in a broader sense, the long-term investors into the enterprise and act
+like ‘mentors’ to the management.
+Industry Overview: The capital raised by way of Initial Public offer is referred to as public equity,
+however capital raised privately is known as private equity.
+Private Equity (PE) is the different form of investment, as compared to publicly traded equity
+markets, where the PE investor (or the PE firm) invests majorly into startups and emerging sectors
+through strategies like early funding, venture capital, growth capital, etc. The main characteristic is
+that these investments function on a higher risk to reward model, and to amplify the returns, the PE
+firms use a leveraged approach of using debt as the funding instrument. The PE firms expect returns
+through valuation increase of the company in which capital is invested.
+The PE industry has grown significantly in the past three decades, and over a period of time PE
+firms like Bain Capital, Blackstone have grown tremendously entering successfully into Asian
+markets too. There was a temporary setback in the PE industry during the dotcom bubble seen in
+2000-2003, but has staged a comeback, stronger and more resilient. The growth in PE has also
+seen a marked increase in regulations in both the US and Europe. In the US, the SEC regulates PE
+industry, and  in addition has added FATCA (Foreign Account Tax Compliance Act) and the
+Alternative Investment Fund Managers Directive to have greater transparency in the workings of PE.
+
+     2.  CLASSIFICATION OF PRIVATE EQUITY
+2.1  Venture Capital (VC)
+2.1.1 Introduction
+Fertile brains can generate ideas – Venture capitalists provide the money to fuel these ideas and
+innovations to reality. Simply put ‘venture capital’ is the capital provided to especially new startups
+and entrepreneurship enterprises to stand up and deliver.
+A venture capitalist is an institutional investor who has the access to liquid funds and is ever willing
+to part it with talented startups and innovative enterprises that require that extra bit of hand holding.
+Note the word used ‘ever willing’ will essentially be the distilled result of a strict selection criteria-
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+11.4            FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+based evaluation of the startup, its promoters, its vision and of course, the numbers in terms of
+estimated cash flows, breakeven point, and a whole lot of similar parameters that we would see
+shortly.
+Some of the most successful ideas in the new age world have got the momentum and the trajectory
+all but thanks to venture funds – WhatsApp, Spotify, Facebook – all had venture capitalists helping
+them to get the much required capital as well as to get them to get on to the big stage of mergers
+and takeovers by larger entities.
+A venture capital fund, as opposed to a venture capitalist, is a firm that works as an investment fund
+having pooled resources from various self-styled and serious venture capitalists and is seeking
+private equity stake in startups and innovative enterprises.
+VCs usually invest as either ‘early stage’ funds or ‘late stage’ funds. Early stage would mean the VC
+is taking a riskier approach of investing in startups exhibiting ‘raw potential’, whereas later stage
+would mean the less risky way of investing in firms having proven their business viability and are
+wanting to expand their operations.
+Who stands to gain from Venture Capital (VC) funding?
+1.     Startups
+2.     Innovative enterprises who are still in the early stages of their growth
+3.    High risk – high reward business lines
+4.    Niche business segments, etc.
+In the Indian scenario, the e-commerce segment has seen sustained interest for funding by VCs, for
+example:
+1.     Online services like Makemytrip, Taxi for Sure etc.
+2.     Online marketing portals like Bookmyshow, Myntra, etc.
+3.     Online health care segments like Practo, etc.
+2.1.2 Setting up a VC.
+Step 1:  Large corporate houses, mutual funds, Insurance companies, Banks, High net-worth
+           individuals etc. along with Private Equity firms creates special purpose vehicle (SPV) for
+           identifying and doing the investments. SPV is funded substantially by such corporate
+         houses, mutual funds, insurance companies, banks, High net-worth individuals etc. and a
+           certain portion of investments comes from the Private Equity firms too.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+11.5                        PRIVATE EQUITY
+
+
+Step 2:  Once SPV is funded and in place, General Partners and Limited Partners are also
+         appointed to the SPV alongwith the Investment manager.
+         General Partners are responsible for management, operations, administration, and any
+          kind of decision making in the SPV formed. They are appointed by the Private Equity firm
+           to the SPV created.
+          Limited partners come with very limited control, with the objective of returns of investment.
+        They are appointed by the institutions which fund substantially i.e. large corporate houses,
+         mutual funds, insurance companies, banks, High net-worth individuals etc.
+Step 3:   Investment manager analyses the different proposals for investments into startups and
+          gives feedback to General Partners.
+Step 4:  Once the deal is finalized, investment is placed in the form of private equity.
+Step 5:  An expert is also appointed to the Board of directors of the company to guide and govern
+          the overall performance.
+Step 6:   Exit from the investment at the right time and right valuation later (generally 5-10 years).
+2.1.3 Business Model for a VC
+So, what is the business model for a VC? The first and foremost step will be to identify a startup or
+a diverse idea that can become a revenue generator and hence warrants capital funding. And this
+is the toughest part of the job. The selection matrix can involve a whole battery of parameters, the
+critical ones listed as below:
+(i)    The fundamental ‘idea’ or the ‘business model’ of the company
+(ii)   The ability to generate customer interest thereby increasing the possibility of a successful
+      business manifold – which explains why e-commerce companies in India can garner a
+      largesse of the VC funds.
+(iii)   The breakeven point – obviously the shorter the time frame the better
+(iv)   The future prospect of the startup to be taken over by a bigger entity.
+Apart from the revenue perspective, a smart VC also investigates the possibility of how much a
+startup can create ‘brand recall value’ – the higher the possibility the more is the prospect of a valued
+takeover deal. For example, WhatsApp, in which VCs had strategic stake, had so correctly marketed
+the concept that it got the attention of Facebook. Its acquisition by Facebook has brought smiles to
+everyone involved – the VC got a good price, and so did the founders of the company, and Facebook
+has had its customer connect significantly enhanced.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+11.6            FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+The next important step would be to measure the exact amount of capital to be provided to the
+venture. This would entail the need to check the background of the promoters, business culture,
+current and future growth prospects, cash flow estimates, breakeven point analysis, and the brand
+value creation. This whole process can also be called as ‘due diligence’ process, and finally the VC
+will make an exhaustive report of the same, to justify the decision to finance the venture / enterprise
+or otherwise.
+And the last step would obviously be the exit point of the VC from the enterprise. It’s very important
+to appreciate the fact that the primary objective of any VC is to provide funds with a clear-cut time
+frame for returns on investment. Once the desired returns are achieved, the VC exits out of the
+enterprise, either through a stake sell-out, or through an outright merger with an outside enterprise.
+The following is a pictorial representation of the basic VC investment cycle:
+
+
+                                              Identify the startup
+
+
+                          Exit out                          Due Diligence
+
+
+                                           Providing the
+                                        funds in various
+                                           stages
+
+
+As stated earlier, once the target returns are achieved, the VC would like to exit out to realize the
+gains and move on to another investment. This brings us to the concept of ‘private equity’.
+2.1.3 Types of Funding by a VC
+A VC will fund typically in the following ways:
+1.    Seed Capital
+2.    Crowdfunding
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+11.7                        PRIVATE EQUITY
+
+
+3.     Early-stage funding
+4.     Interim funding - Bridge financing, mezzanine
+5.    Expansion funding
+Let’s analyze each of these in detail:
+1.    Seed Capital: This is the preliminary source of funds provided to the startup for either
+       acquiring fixed assets of startup like computers, machineries etc; or for leasing out premises
+      and such other operational setups. The seed capital is usually limited, and just enough for
+       the startup to shore up its capital assets. In recent times, there are ‘incubators’ who have
+       specialized in this type of funding purely for seed capital and seek to exit out once other
+       investors find value.
+2.    Crowdfunding: This involves raising funds through platforms on which a huge number of
+       small investors invest money in the different startups listed on that platform. As the name
+      suggests, investment happens through crowd at large and hence crowdfunding.
+3.     Early-stage funding: This is typically the Series A funding where the VC provides the funds
+        for setting up the entire plant  / site  / services line which may also include the infusion of
+      working capital.
+4.     Interim funding: Once the enterprise breaks even, the immediate focus will be on having
+       stable cash flows. In the meantime, the management may also seek additional capital to ramp
+      up its’ operations model to its full capacity. This can be done in different ways –
+       a.    The management can seek a ‘bridge loan’ that is essentially a plank provided for
+             stepping up to ramp up  / reach the full capacity. A bridge loan, being a short-term
+              financing loan, is an ideal way for enterprises to get a temporary source of funds before
+                        it can get replaced with a larger or a longer time frame-based loan.
+       b.    The management can seek a ‘mezzanine’ financing which is typically a hybrid of debt
+           and preferred stock finance. In some cases, the mezzanine is purely a debt form of
+              finance. In both cases, the repayment schedule gets tailored to the enterprise’s cash
+             flows thereby exhibiting flexibility to the management. However, the fund comes at a
+              price – the VC gets a direct stake in the equity of the enterprise post the conversion
+               of preferred stock, which may make some management uncomfortable for this sort of
+           an arrangement. There are variants of mezzanine funding with some VCs who
+             estimate that if the enterprise has high future potential, it can forego the requirement
+                for a collateral value altogether or atleast keep it to minimal levels, whereas some VCs
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+11.8            FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+            would like to have an asset-backed security for the debt component. The equity
+           component also gives the VC a say in the management affairs of the enterprise, which
+           makes this route quite attractive to them. From the borrowers’ point of view, this may
+           be the costliest form of funding as the rate of interest would be quite high, to recognize
+             the risks getting carried in the form of uncollateralized debt. This can leave the
+           management with a huge refinance cost; however, as stated earlier the VC would also
+             take care of this in the tailoring of the repayment schedule.
+5.    Expansion funding: Once the enterprise is running full steam and has managed to create
+         its own space in the market in terms of brand recall value, the VC will surely be interested to
+       provide additional funding in terms of long-term finance for future growth prospects. This may
+       also put the enterprise ‘on the block’ for potential buyers, especially large sized companies
+     who regularly scout for smaller niche enterprises to add further variety to their developed
+       shelf of products and services.
+The following is a pictorial representation of the VC funding stages:
+                                                                         Bridge Financing
+
+    Seed Capital                                          Initial funding             Interim Funding        Expansion funding       Infusion
+
+                                                                    Mezzanine
+2.1.4 Angel Investor
+An angel investor is a multi-millionaire who has funds, usually idle with him or her, and wants to take
+a share of risk to promote a startup by investing in the same. In return, they usually get an ownership
+stake or a preferred stocks and board rights. Seldom do they settle for subordinated debt unless the
+case for investment is too strong to an opportunity to be missed. The biggest pitfall for an angel
+investor is that they need to bear extremely high risks, and hence their rate of returns is also the
+highest.
+Usually, angel investors are retired fund managers and successful entrepreneurs themselves who
+have a know-how of the segment that they would like to invest in and rely a bit more on intuition and
+gut feel about a particular investment. After all it’s their own funds, as compared to VC funds who
+manage other’s funds. It is not uncommon to find angel investors having common segment interest
+to team together, such as two investors having a liking for e-retailing space would approach for an
+assessment of a particular enterprise together.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+11.9                        PRIVATE EQUITY
+
+2.2  Buyouts for a PE
+There are two popular ways of buyouts getting executed – Leveraged Buyouts (LBOs) and
+Management Buyouts (MBOs).
+2.2.1 Leveraged Buy Outs (LBOs)
+Leveraged buyout is a series of actions that include investment, divestment, and restructuring. In an
+LBO, the acquirer uses a significant amount of debt to finance the acquisition of a target and then
+pursues restructuring actions, with the goal of exiting the target with a sale or public listing.
+In the process, they leverage the debt and create value (both perceived and real) and then they
+either spin off the management control to another entity for a price or go for an outright sale.
+Some of the examples of a successful LBO deal include the buyout by Tata Steel of UK’s Corus,
+and the acquisition of SLI Sylvania by Havells India.
+2.2.2 Management Buy Outs (MBOs)
+The classic MBO represents the buyout made by the entity’s managers themselves. The logical
+reasoning is that they are best placed to run the operations efficiently. However, the other side to
+this is that the managers of the entity may not be the best of the lot to bring in additional clients.
+Similarly, they may be on the conservative side when it comes to risk taking.
+The MBOs are often funded  to management by private equity firms  i.e., private equity firm
+contributes capital to the management to initiate MBO.
+However, with changing times, MBOs are also getting attention from PEs themselves. In an article
+published in The Hindu Business Line print edition dated July 10, 2008, explaining on the emerging
+features of MBOs - ‘Traditionally, Management Buy Outs (MBOs) involved the management wanting
+to purchase a controlling interest in the company and working along with financial advisors to fund
+the change of control. Today, MBO activities involve promoters divesting their stake in a firm by
+selling out to PE players willing to finance the asking price.
+The PE players are flexible enough to enter a partnering relationship with the existing management.
+This sort of arrangement is basically just a stake buyout and not a classical MBO. It is common in
+scenarios where owners want to hive off entities with poor results and the management lacks funds
+to hold on to the entity (and their jobs) and are, in turn, bailed out by the PE firm’. This means that
+PE brings in finance as well as their clout in the market to attract additional business lines. Once the
+expected IRR is achieved, or the estimated cash-on-cash multiple is attained, the PE may also
+choose to exit out. One of the good examples of MBO in India is the purchase of Intelenet Global
+Services by Blackstone.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+11.10           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+2.3  Hurdle rate
+The minimum rate of return that is required by the investor before the sharing of profits – for e.g., a
+hurdle rate of 15% would mean for the PE that this should be the minimum return to be generated
+before the sharing of profits starts. In other words, the hurdle rate is the minimum guaranteed return
+for Limited Partners before sharing the gains with the General Partners, as per the carried interest
+arrangement. Carried interest or simply stated as ‘carry’ is the share of profits of the General Partner
+more than the investment made by him in the portfolio.
+2.4  Paid in Capital
+Paid in Capital is the amount of capital contributed by the shareholders. It is the amount of capital
+"paid in" by investors during the issue of equity shares to the public, including the par value of the
+shares themselves. Paid in capital represents the funds raised by the business from equity, and not
+from ongoing operations." "Paid-Up Capital” is shown in the ‘equity’ section of the balance sheet. It
+represents the amount of money shareholders have paid into the company by purchasing shares. It
+basically involves two accounts, the par value of the shares and the excess over par value.
+2.5  Term Sheet
+The term sheet is the agreement copy that the VC hands over to the management, which contains
+the terms and conditions, fee structure, payout terms, liquidation rights, anti-dilution provisions, pre-
+emptive rights, exit terms etc.
+Critical Terms that appear in a Term Sheet:
+(i)    Fee structure: The standard fee structure of a PE fund is made to balance the financial
+interests of the fund's investors and the PE firm. The "2 and 20" fee structure in PE describes how
+a fund's investment manager and general partner (GP), and consequently, its PE professionals, are
+paid: the "2%" refers to the management fee paid by the LPs annually to a fund's investment
+manager while the "20" represents the percentage of net fund profits, also known as carried interest
+or "carry," paid to its GP. Pro rata distribution of a fund's profits, or 80% of them, is made to the LPs.
+If carried interest is the primary financial incentive for PE experts, their attention will.
+(ii)   Harvest year: The year projected to be the exit year for the PE/VC.
+(iii)  Down round: This would mean that the investors pay a lower per share price than what
+previous investors paid, which indirectly implies that the investors have valued the VC at a lower
+value in the current round than the previous round. This decline is called as ‘down round’. For
+example, if the initial round of financing earned INR 1 Crore for an entity, and round two has obtained
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+11.11                        PRIVATE EQUITY
+
+
+a value of INR 0.7 Lacs, then this means that the investors have valued the entity lower in the second
+round, causing a ‘down round’. Down round causes a dilutive effect of original investor rights.
+(iv)   Methods for computing anti-dilution rights: To avoid a possible dilution to a ‘down round’
+situation, the term sheet will usually contain an anti-dilutive clause. This is achieved either by a ‘full
+ratchet’ method or a ‘weighted average’ method, and the preferred method is mentioned in the term
+sheet. In a rare case where  it is not explicitly stated, the weighted average method is usually
+adopted.
+Illustrative example on the application of anti-dilutive clause:
+The position of holding in a VC before the second round (Series B) -
+                         Number of Shares   Per share         Value   % holding
+  Common Stock                        600,000    1.00            600,000        60%
+   Series A investor                       400,000    1.00            400,000        40%
+                                        1,000,000    1.00           1,000,000       100%
+
+Now, in Series B an investor has given a down round value of only INR 6, 00,000 with 50% stake after
+down round. Without an anti-dilution clause, the revised stake-holding would be as:
+  Common Stock                  300,000               0.60       180,000        30%
+   Series A investor                 200,000               0.60       120,000        20%
+   Series B investor                 500,000               0.60       300,000        50%
+                                  1,000,000                         600,000        100%
+You would note that the share of Series A investor has gone down, whereas the late entrant Series
+B investor has an upper hand.
+Now, say if there was an anti-dilutive clause which stated to protect Series A investor against a down
+round – the revised sheet would look as below –
+                       Number of Shares       CP         Value   % holding
+  Common Stock                      100,000         0.60         60,000        10%
+   Series A investor                     400,000         0.60       240,000        40%
+   Series B investor                     500,000         0.60       300,000        50%
+                                      1,000,000                    600,000
+(v)   Up round: The opposite of down round where the successive round of investment has valued
+the venture at a value higher than the earlier round.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+11.12           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+(vi)   Break Fee: A fee typically payable to the investor  if the company declines the investment
+described in the Term Sheet or  if the company or founders breach exclusivity or other binding
+provisions in the Term Sheet.
+(vii)   Exclusivity Agreement: A kind of non-compete period during which the company cannot
+negotiate for investments with outsiders for additional investments in the company. This is to protect
+the holding rights of the PE.
+
+     3.  COST OF INVESTING FOR PRIVATE EQUITY
+The cost of investment for a PE will be economically the same as seen for a VC, barring the capital
+cost in specific cases. The cost of investing in PE would typically be equal to the weighted average
+cost of capital for the amounts raised by PE for the purpose of investing in the venture. This is based
+on the expectations of the investor as well as fund management costs including the commission etc.
+payable as mentioned above.
+
+     4.  EXIT ROUTES FOR A PE
+There are four ways to exit out of a PE investment once the horizon period is met, or otherwise by
+management decision.
+(i)    IPO (initial public offer): This represents a highly successful exit strategy, riding on a strong
+business model. The payback can be instantaneous through selling the own shares immediately on
+listing on the stock exchange. However as per regulations there are restrictions and regulations for
+the exit planned through IPO which are notified by Securities and Exchange Board of India.
+(ii)    Strategic Acquisition: The share of the PE is acquired by a larger company, usually in the
+same business segment. Thus, a small IT company into a niche testing technology line may get
+acquired by a bigger IT company, which  is often seen in India. Another example can be the
+acquisition of Instagram by Facebook. This is perhaps the most commonly used exit route and is
+usually a win-win situation for both the exiting investor as well as the management of the enterprise.
+(iii)   Secondary Sale: The investor PE exits by transferring its share to another PE. Such an
+exchange is seen either when a larger PE finds value in the venture thereby giving a sweetened
+deal to the smaller PE, or, where the business may require more money which is not in the capacity
+of the current equity fund.
+(iv)   Repurchase by existing management (founder members): This is an ideal scenario type
+where the founders get back to owning the majority stake in their entity, and a golden handshake to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+11.13                        PRIVATE EQUITY
+
+
+the exiting PE. This is also referred to as ‘Management Buyout’ (MBO). The exiting PE may, in rare
+cases, also get to earn a trail fee for the next n years as may be mutually agreed to by the parties,
+usually a % of EBIT, or a multiple based terminal value.
+(v)    Liquidation: This is the least preferred method of exit, where the investor leaves out at a
+cash loss on capital invested. This usually happens where the investor cannot take further losses,
+or has made an overestimate of expected returns, or a particular idea behind the venture hasn’t
+really taken off or was well received in the market. The term sheet usually provides financial
+safeguards to the VC against drastic losses.
+
+     5.  VALUATION OF PRIVATE EQUITY TRANSACTIONS
+There are certain terminologies that are intrinsic to valuation exercises performed by VCs  / PEs,
+these includes:
+(i)    Pre-money and post-money valuation: Simply put, pre-money valuation is the value of the
+enterprise before the investment; and post-money is the valuation after the investment by the VC.
+For example – assume a startup has a share capital of ` 10,000 represented by 1000 equity shares
+of `. 10 each. X, a VC, has shown interest in doing an initial funding of ` 4000 worth represented
+by 400 equity shares.
+In this case the pre-money valuation is INR 10,000 (before investment). The post-money valuation
+will be the fully diluted impact on the equity which will be computed using the following formula:
+New Investment Amount* (Total shares post investment ÷ Shares issued in new investment)
+In the example, the post-money valuation will be calculated as follows:
+                               Number of shares    Face Value         Valuation
+  Pre-money                                      1000           10          10,000
+  Post-money
+        Existing                                    1000           10          10,000
+     New Investment                               400           10           4,000
+  Post-money shares outstanding                    1400           10          14,000
+  Post-money Valuation                                                           14,000
+
+Note: The above illustration is a simplistic representation of how pre and post money valuation works
+in mathematical terms. In real life, the VC would perform a valuation based on due diligence and the
+value would either be at a premium or discount.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+11.14           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+Assume in the above example the fresh capital is introduced at ` 20 per share and the amount
+invested is 8,000 by purchasing 400 shares.
+The post money valuation would be (8000/400)*1400 = 28,000 (basis formulae above)
+(ii)   Ownership dilution: Each additional investment from the VC  will end up diluting the
+ownership control of the management of the enterprise. In the example above, the effective
+ownership control of management has gone down from 100% to 71.43%. If there is a further round
+of investment, the management control even  will well go below 50%. Anti-dilution clauses are
+mandated in the term sheet to help overcome this problem. The number of shares to be issued will
+be adjusted to maintain the ratio of holding.
+(iii)   Liquidation Preference: It is an important term associated with Private Equity financing. This
+term provides preference  to  receive funds by VC over and above preferred and common
+stockholders in the event of liquidation or deemed liquidation.
+(iv)   Series A and B: Series A will be the initial round of funding, whereas Series B are the
+subsequent rounds  of funding, which are usually  after the enterprise achieves certain pre-
+determined milestones.
+(v)    ROI: The rate of return that the enterprise would offer to the investor (VC) on the investment.
+(vi)   Terminal Value: The value of the enterprise that would be at the end of the time frame of the
+investment cycle of the VC, used at the time of acquisition / sale to a third party. An Exit Multiple
+would be used, usually calculated as on Enterprise Value (EV/EBIDTA), that the VC has been
+expecting to obtain at the exit through selloff.
+(vii)  Tranches: The investor (PE or VC etc.) will bring the funds only based on certain agreed
+‘milestones. The funding is, thus, made in parts or ‘tranches.
+(viii)  Deemed Liquidation: This term implies in addition to liquidation,  it includes change of
+control, acquisition, amalgamation etc., sale of a company or sale of most of its assets. As mentioned
+above deemed liquidation normally are considered trigger events for liquidity preferences.
+
+     6.  PRIVATE EQUITY FUNDS (DISTRIBUTION OF RETURNS
+         IN GENERAL PARTNER AND LIMITED PARTNERS)
+The terms General Partner and Limited Partner are generic to PE world and represent the way the
+stakeholders and their rights are structured within PE. The PE fund is structured as a liability
+partnership; and General Partner (GP) is the one who represents the PE firm in terms of raising the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+11.15                        PRIVATE EQUITY
+
+
+capital from a basket of pension funds, angel investors, HNIs (high- net worth individuals), and the
+Limited Partners (LPs) are these investors (pension funds, angel investors etc) who have invested
+with the GP. The GP acts like the investment  / fund manager and will formulate the investment
+portfolios (the enterprises where the PE will invest funds) and determine the ‘capital commitment’
+by the LPs.
+For example: a PE looking to fund an enterprise into e-retailing (portfolio)  will have  its GP
+approaching its pool of LPs and, say, if a couple of LPs agree to investing the sum required, then
+this becomes the capital committed from the LPs end. One practical scenario will be that the
+investments are not required in one go – it will be in tranches –and hence there will be ‘calls’ raised
+by the GP for fund requests from the designated LPs (two in our case). Suppose  if one of them
+doesn’t honor the call, the GP normally has the right to forfeit the amount invested by the LP to that
+point of time, unless the agreement specifically states otherwise, or allows for a ‘replacement’ by
+another LP who would purchase at a discount the existing share. The GP will usually stand to earn
+through ‘management fee’ which will be a % fixed on the deal amount and through ‘incentive fees’
+– called hurdle rates.
+Generally, 5% of the entire fund is also contributed by General Partners so that they have a fiduciary
+relationship with Limited Partners. Limited partners participate in the returns after fund relates
+expenses, hurdle rate and other admin cost of the fund is reduced. The returns for the fund are
+calculated by determining the fair value of the underlying investment. This can be realized or
+unrealized as well.
+Conclusion
+We have seen that venture capital funds and PEs fill in the capital requirement gap of new emerging
+technologies and innovations. In mature markets like US, PEs does play a significant role in funding
+such segments. In India, VCs and PEs are still in evolving stages though e-commerce companies
+have certainly progressed due to their innovative entry and exit strategies. VCs work towards short
+and medium term goals, whereas PE funds stay put for the long run. However, both have well defined
+exit strategies, typically through acquisitions or IPO mode. In India, they come within the ambit of
+SEBI and must follow the established rules and procedures for equity sourcing and funding.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+11.16           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+               TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.     Private equity uses funds raised from which sources.
+        (a)     Initial Public Offer
+        (b)    Mutual funds, HNIs, Insurance etc
+        (c)    Taxpayers’ money
+        (d)    Follow on Public Offer
+2.    Once investment is initiated by private equity then:
+        (a)    Exit of investment happens when life cycle or term sheet is completed.
+       (b)    Expert is appointed to the board of directors.
+        (c)    Next series funding is not allowed.
+       (d)   a and b are correct
+3.   A company is floated with authorized shares of 10,000 @ ` 10 each as face value. Promoters
+      have invested into 5000 shares as paid-up capital. After 5 years of running the business, they
+       got an offer from Private Equity for a 40% stake at ` 80,000 capital. Please calculate the gain
+       to promoters once this valuation is accepted and the deal is executed.
+       (a)   ` 70,000
+       (b)   No gain or loss
+        (c)   ` 50,000
+       (d)   Cannot say.
+4.    The purchase of a stake in a target company by substantially borrowing the funds is regarded
+      as
+       (a)   Management Buyout.
+       (b)    Leverage Buy out.
+        (c)   Management Buy in
+       (d)    Leveraged buy in
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+11.17                        PRIVATE EQUITY
+
+
+5.     Private equity refers to investment in business and issuance of shares under circumstances
+       other than:
+        (a)     Initial Public offer
+        (b)    Follow on public offer.
+        (c)    Private issuance of shares
+       (d)    Both a and b
+6.    While doing financial due diligence which among the following a private equity may not
+      consider before investing?
+       (a)    Off-balance sheet financial instruments
+       (b)    Weakening working capital trends
+        (c)   Dependence on powerful suppliers or a concentrated customer base
+       (d)    Accounting adjustments to obscure actual performance
+7.    Which among the following is not a disadvantage of IPO in the exit strategy of private equity?
+       (a)    Risks of going to market
+       (b)    Strategics require a majority stake
+        (c)    Lock-up
+       (d)    Uncertainty of returns
+Theoretical Questions
+1.   Who are venture capitalists? Who stands to gain from venture capital funding?
+2.      Briefly explain the business model for a venture capitalist.
+3.    Discuss the difference between Leveraged Buy Outs and Management Buy Outs.
+4.     Explain the critical terms that appear in a Term Sheet.
+5.    Discuss the various exit routes for a PE.
+Practical Questions
+1.   PQ Ltd, a PE firm, purchases ` 1 crore EBIDTA company having an EBIDTA multiple of 10
+       times. The purchase is funded by 50% debt. After 5 years EBIDTA is expected to grow by
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+11.18           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+     20% on a constant annual growth basis. However, the EBIDTA multiple is expected to come
+     down to 9 after 5 years. Compute the EBIDTA numbers appearing after 5 years?
+2.     Continuing the facts above, please compute the gain to PE firm after 5 years assuming all
+       the debt is repaid in 3rd year?
+3.   A VC firm is looking at an investment of ` 20 crores in a start-up company today. Exit will be
+        in 5 years at a revenue multiple of 10 times and Year 5 revenue of ` 150 crores. No debt is
+       required. No additional equity to be raised. Cash flow profile:
+       Year                0         1         2         3         4         5
+      Cash Flow              (2)         0         0         0         0        120
+     IRR is 70%. You are required to calculate the post money valuation and the equity % of the
+     company the VC may ask for.
+
+ANSWERS/SOLUTIONS
+Answers to the MCQ based Questions.
+    1.        (b)        2.        (d)        3.        (a)*        4.        (b)        5.        (d)
+    6.         (c)        7.        (b)        8.
+
+*(80,000/40%*60%-50,000)
+Answers to the Theoretical Questions
+1.    Please refer paragraph 2.1.1
+2.    Please refer paragraph 2.1.3
+3.    Please refer paragraph 2.2
+4.    Please refer paragraph 2.5
+5.    Please refer paragraph 4
+Answers to the Practical Questions
+1.    EBIDTA current = ` 1 cr
+     EBIDTA 5 years = ` 1 crores * (1.20)^5 = ` 2.48832 crores
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+11.19                        PRIVATE EQUITY
+
+
+2.     Investment value in current year = 1 cr * 10 * 50% = 5 cr
+      Investment value after 5 years = 2.48832*9*100% = 22.39488 cr
+      Gain to PE firm = ` 17.39488 cr
+3.     Exit Value = 10 x ` 150 crores = ` 1500 crores
+      Post money valuation = 1500/1.70^5 = ` 105.64 crores.
+     The equity percentage of the company the VC may ask for
+     = ` 20 crores/` 105.64 crores = 18.93%
+
+
+© The Institute of Chartered Accountants of India

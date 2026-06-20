@@ -1,0 +1,1062 @@
+Source PDF: 07_SPOM/Set_C_07_Forensic_Accounting/007 - Chapter-6- Fraud Detection - 79415bos63471-cp6.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_07_Forensic_Accounting\007 - Chapter-6- Fraud Detection - 79415bos63471-cp6.pdf
+Extracted at: 2026-05-31T10:32:52+05:30
+Pages: 28
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          6
+         1
+FRAUD DETECTION
+
+
+                       LEARNING OUTCOMES
+After studying this chapter, you would be able to understand-
+  Fraud Risk
+  Contextualisation of situation
+  Examples of Red Flags/Eary warning signs
+  Categorization of Fraud risk indicators
+  Some statistical techniques and data visualization tools used for
+    data analysis
+  Data Mining and its techniques
+   Qualitative Evidence
+   Applicability of laws and regulations in FAI engagement
+  Need for gathering evidence as per relevant laws and regulations
+  Hypothesis theory
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+6.2          FORENSIC ACCOUNTING
+
+ CHAPTER OVERVIEW
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+FRAUD DETECTION              6.3
+
+INTRODUCTION
+Forensic Accounting and Investigation (FAI) engagements generally involve the possibility of
+fraudulent events or suspicious transactions. Fraud is any intentional or deliberate act to deprive
+another of property or money through deception or other unfair means.
+Typical characteristics of a “Fraud” involve an incentive or pressure to commit fraud, a perceived
+opportunity to do so, and some rationalization of the act. Therefore, the question of intent
+becomes critical as part of the engagement objectives. “Risk” is the possibility of an unfavourable
+event or outcome, such as the presence of a fraud.
+Fraud risk is, therefore, the concept of risk applied in a fraud scenario. It helps the professional to
+focus and prioritise the work on areas of importance and with greater vulnerability to fraud.
+
+      6.1  FRAUD PREDICATION/INDICATORS
+(A)   Fraud Predication: Contextualisation of situation  is one of basic principles of a FAI
+      engagement. FAI engagements involving possibility of fraudulent events or suspicious
+       transactions should adhere to law and professionals should not conduct such engagements
+       without proper  predication. Predication  is based on a review of the  totality  of
+      circumstances and evaluating the probability of the occurrence of a fraud or some
+      unlawful activity which requires to be examined.
+     What makes each FAI engagement unique  is the context  of the  situation and the
+      environment in which the respective events take place. Similarly, no engagement begins in
+       the  anticipation  of “finding something” and there  is always a need  to have  the
+      “probability of the occurrence of some activity” even if it is only a suspicion.
+       In fact, mandate coming from primary stakeholders  will always indicate some type of
+       predication or a suspicion (e.g., the suspicion of the collusion between a purchasing
+     manager and a vendor or supplier). This is, particularly, important at the time of establishing
+       objectives of the engagement through discussions with primary stakeholder. A subsequent
+        risk assessment will also help to identify the important fraud risk indicators which again will
+       assist in establishing the predication.
+(B)   Fraud  Indicators: Any FAI engagement would  require  the  professional  to  act on
+       predication, which is based on a review of the totality of circumstances and evaluating the
+       probability of the occurrence of a fraud or some unlawful activity which requires to be
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+6.4          FORENSIC ACCOUNTING
+
+      examined. For example, presence of “red flags”, “yellow flags”, “green flags” or “fraud
+       indicators” may be reasonable triggers to conduct a FAI engagement.
+     Red Flags refers to certain undesirable attributes in any Company’s Financials Statements
+       or related documents which may indicate the presence of fraud or inappropriate behaviour.
+      Although it may not always result in a fraud but review and investigation of such indicators
+        is important.
+      Yellow Flags refer to the routine activities or transactions which are flagged because they
+      are unusual in nature. Such activities are normally routine and completely legal, but may
+      pose a future risk and may be used to design a preventive control. For example, Banks
+     now call up the credit card holder to verify if an unusual transaction, like higher in value, or
+      from a different location or a foreign location are genuine before authorization
+     Green Flags are the opposite of red flags in many ways. They can be referred to the TOO
+    GOOD TO BE TRUE indicators. An example a can be that a certain Company is performing
+      very well when there is actually a downtrend in the industry. These are only indicators and
+      are not conclusive evidence of fraudulent activity and need to be investigated before
+      reaching a conclusion.
+      Fraud indicators are high risk and vulnerable areas of fraud. Such areas are identified for
+        prioritising work and assigning appropriate  skillsets.  The  fact  that fraud  is usually
+      concealed can make it very difficult to detect. Nevertheless, the professional may identify
+      events or conditions that indicate an incentive or pressure to commit fraud (the motive) or
+      provide the situations to perpetrate one (the opportunity).
+      Frauds are generally driven by a motive to gain, combined with the exploitation of a
+     weakness in the system and are rationalised as acceptable.
+6.1.1  Examples of Fraud risk indicators
+The professional may consider the following fraud risk indicators (also called red flags and early
+warning signs) in assessing the significance of fraud risk: -
+General indicators
+♦    Unusual financial statement and performance indicators such as: -
+       (a)   A pattern of similar audit adjustments proposed year after year
+       (b)    Persistent cash flow problems, even when the organisation has regularly reported
+               profits
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+FRAUD DETECTION              6.5
+
+        (c)    Outstanding results when the rest of the industry has suffered a downturn
+       (d)    Transactions in the books that are not recorded in a complete or timely manner or
+             are improperly recorded as to amount, accounting period, classification, or policy
+       (e)    Unreconciled subsidiary & general ledger accounts
+♦    Unusual financial condition of the organisation such as: -
+       (a)   Unusual financial ratios when compared to competitors
+       (b)    Significantly outpacing competitors in the industry
+        (c)   A sudden change in fortunes of an organisation (huge profits or losses)
+       (d)    Constant financial pressures (cash flows or profits)
+       Unusual close association with vendors or customers
+       Excessive related party transactions
+       Inadequate segregation of duties or employee unwilling to share duties
+       Excessive cash transactions
+       Employee behaviour and lifestyle inconsistencies
+       Lack of transparency and information sharing
+       Unexplained inventory discrepancies
+       Lack of independent oversight
+        Non-following of hierarchy structure in the organisation’s decision making
+        Inconsistent, vague, or implausible responses from management or employees arising
+            from inquiries or analytical procedures
+        Limited or poor written policies and/or procedures
+       Lack of internal controls or casual approach to reported internal control lapses
+       Instance of management override of controls
+        Financial pressures significant to the operations, brand value and reputation
+        Suffering of any financial damages by employees
+       Causing of financial damage to third parties
+        Criminal, civil and regulatory liabilities
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+6.6          FORENSIC ACCOUNTING
+
+       Reputation damage among stakeholders
+Indicators in relation to revenue
+♦    Unexplained variations between budgeted revenues and actual revenues
+♦    Revenue recognition manipulation in form of booking revenue prematurely or improperly to
+        inflate revenue figures
+♦     Fictitious revenue or sales- not supported with proof of delivery or service
+♦    Increase in quantity of sales without increase in sales value
+♦    Unexplained or unapproved high discounts, especially towards period end
+♦    Non-compliance with the industry-specific regulations and accounting standards related to
+       the revenue recognition
+Indicators in relation to expenses and vendor onboarding
+♦    Siphoning  off funds through  fictitious or inflated expenses in the books of accounts,
+      personal profiteering and kickbacks through vendor-employee collusion
+♦    Huge/unexplained variation in major spends booked not commensurate with the size of
+      business and nature of operations of the organization
+♦    Unusual patterns in budgeted spends in comparison with actuals
+♦    Expenses booked towards the end of accounting period as adjustment entries
+♦    Sudden spikes in business volumes to vendor and onboarding of vendors not in accordance
+       with organisation’s regular onboarding procedures
+♦    Use of "ghost vendors” to manipulate financial records with fictitious invoices
+♦    Bid rigging collusions to distort fair competition in procurement
+♦     Delivering of substandard and inferior goods or services or use cheaper alternatives by
+      vendors resulting in financial losses (Substitution fraud)
+♦     Manipulating vendor selection process due to undisclosed conflict of interest leading to
+      improper vendor selection, inflated prices, or inferior goods or services
+♦     Collusion  of employees  with vendors  to make purchases  not  required,  leading  to
+      obsolescence, fraudulent payments and potential receipt of kickbacks or bribes
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+FRAUD DETECTION              6.7
+
+♦    Submission of falsified documentation, such as forged contracts, certificates, licenses, to
+      deceive compliance with certain requirements or qualifications
+♦    Onboarding of higher quoted vendor despite vendor quoting lower value
+♦    Vendor collusions and concentrated vendors (including mafias)
+Indicators in relation to loans
+♦     Acquiring loans from banks on the basis of manufactured audited financial statements
+       particularly by inflated valuations of property
+♦    Use of forged or altered documents including financials etc to acquire loans
+♦    Transactions immediately before and after the receipt of loan funds to understand the flow
+       of funds or any potential instances of unauthorized application of loan funds
+♦     Specific elements in relation to security involved with the loan transactions, such as
+      whether the security is owned by a third party,  if so, what is the nature of relationship
+      between them or any undisclosed  lien already created on the security offered  for a
+       particular loan, which may hamper the security coverage for either of the loans
+♦    Loans not being serviced on time and reasons for default, if any
+♦     Misrepresentation of value or condition of collateral used to secure a loan
+♦     Collusion of employees of lending institutes with borrowers to manipulate loan approvals,
+      disregard creditworthiness assessment etc.
+♦    Loans acquired through identity theft
+Indicators in relation to Information Technology, IT
+♦     Targeting of IT systems by hackers and cybercriminals to gain unauthorized access to
+       sensitive data or disrupt operations. The loss or theft of customer data can lead to financial
+       fraud, identity theft, or other fraudulent activities (Cyber security breaches)
+♦    Access to valuable information, systems or infrastructure, by employees or third-party
+       associates, making them potential sources of fraud. Any unauthorized access to data,
+        intellectual property theft, or misuse of company resources for personal gain (Insider
+       threats)
+♦    Misuse of IT software, systems, or platforms through unauthorized modifications to code or
+       configurations, unauthorized access to systems, or intentional introduction of vulnerabilities
+        for malicious purposes
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+6.8          FORENSIC ACCOUNTING
+
+The above fraud risk indicators, although indicative, cover a broad range of situations. Nevertheless,
+they are only examples and, accordingly, the professional may identify additional or different fraud
+risk indicators as part of their work procedures.
+6.1.2  Industry specific examples
+In case of banks, some early warning signals which should alert about some wrongdoings in loan
+accounts which may turn out to be fraudulent are as under: -
+
+♦     Default in undisputed payment to the statutory bodies as declared in the annual report,
+      bouncing of high value cheques
+♦    Frequent change in scope of the project to be undertaken by the borrower
+♦    Costing of the project which is in wide variance with standard cost of installation of the
+       project
+♦    Foreign bills remaining outstanding with the bank for a long time and tendency for bills to
+      remain overdue
+♦    Frequent invocation of bank guarantees and devolvement of letter of credits
+♦    Large number of transactions with inter-connected companies and large outstanding from
+      such companies
+♦     Substantial increase in unbilled revenue year after year
+♦     Significant increase in working capital borrowing as percentage of turnover
+♦    Frequent change in accounting period and/or accounting policies
+♦    Heavy cash withdrawal in loan accounts
+♦    High value RTGS payment to unrelated parties
+
+In case of insurance companies, few fraud risk indicators could be: -
+
+♦    Lodging of several claims of a similar nature in a relatively shorter period (in case of general
+      insurance)
+♦    Claimants willing to settle claim amounts for a low amount for quick disposal
+♦     Declining of insurance coverage to a person/entity by other insurers
+♦    Customer complaints regarding intermediaries (like agents/brokers) regarding premium
+     money or non-receipt of policies
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+FRAUD DETECTION              6.9
+
+♦    Unsound quality of data and data architecture among insurers
+♦    Cyber security breaches due to increased digitization of insurance business
+
+6.1.3  Categorization of Fraud risk indicators
+Fraud risk indicators can also be categorized as those arising from external factors and as those
+arising from governance and culture.
+                       Categorization of Fraud risk indicators
+
+                          Fraud risk indicators arising from external factors
+
+
+                      Fraud risk indicators arising from governance and culture
+
+
+A.    Examples of Fraud Risk Indicators arising from External Factors
+       High  vulnerability  to  rapid changes, such as changes  in  technology,  product
+            obsolescence, or interest rates
+       High degree of competition or market saturation, accompanied by declining margins
+       Rapid growth or unusual profitability especially compared to that of other companies
+                in the same industry
+      A strong financial presence or ability to dominate a certain industry sector that allows
+             the entity to dictate terms or conditions to suppliers or customers that may result in
+              inappropriate or non-arm’s-length transactions
+        Significant declines in customer demand and increasing business failures in either the
+              industry or overall economy
+       Perceived or real adverse effects of reporting poor financial results on significant
+            pending transactions, such as business combinations or contract awards
+       Excessive pressure on management to meet the requirements or expectations of third
+              parties
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+6.10          FORENSIC ACCOUNTING
+
+B.    Examples of Fraud Risk Indicators arising from governance and culture
+        Ineffective communication, implementation, support, or enforcement of the entity’s
+             values or ethical standards by management, or communication of inappropriate values
+              or ethical standards
+       The practice by management of committing to analysts, creditors, and other third
+              parties to achieve aggressive or unrealistic forecasts
+       Excessive interest by management in maintaining or increasing the entity’s stock price
+              or earnings trend
+      No distinction by promoters between personal and business transactions
+       Dispute between shareholders in a closely held entity
+       Known history of potential violations of securities laws or other laws and regulations,
+              or claims against the entity, its senior management, or those charged with governance
+              alleging fraud or violations of laws and regulations
+       Personal financial fortunes of management or those charged with governance closely
+              linked with the entity’s financial performance arising from any of such factors like
+               significant financial interests in the entity, significant portions of their compensation
+                (for example, bonuses, stock options, and earn-out arrangements) being contingent
+           upon achieving aggressive targets for stock price, operating results, financial position,
+              or cash flow, excessive pressure on management or operating personnel to meet
+               financial targets established by those charged with governance, including sales or
+                profitability incentive goals
+       Low morale among senior management
+        Non-effective monitoring of management
+       Complex or unstable organizational structure
+        Non-effective accounting and information systems  including  situations  involving
+               significant deficiencies in internal control
+       Inadequate monitoring of controls, including automated controls and controls over
+              interim financial reporting (where external reporting is required)
+       Management failing to remedy known significant deficiencies in internal control on a
+              timely basis
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+FRAUD DETECTION              6.11
+
+        Straining of relationship between management and current or predecessor statutory
+              auditor due to any of reasons such as frequent disputes with current or predecessor
+              statutory auditor on accounting, auditing, or reporting matters, unreasonable demands
+           on statutory auditor such as unrealistic time constraints regarding the completion of
+             the statutory audit or the issuance of the statutory auditor’s report, restrictions on
+              statutory auditor inappropriately limiting access to people or information or the ability
+               to communicate  effectively  with  those charged  with  governance,  domineering
+           management behaviour in dealing with the statutory auditor, especially involving
+             attempts to influence scope of statutory auditor’s work or the selection or continuance
+               of personnel assigned to or consulted on the audit engagement
+       High turnover rates or employment of accounting, internal  audit, or information
+             technology staff
+
+      6.2  QUANTITATIVE  EVIDENCE- DATA  MINING AND
+         ANALYSIS
+The fraud risk identification process requires an understanding of all the possible areas where a
+fraud could be perpetrated and accordingly estimating the likelihood of the risk being materialised.
+To understand the possible avenues of fraud, the professional may review relevant policies and
+procedures and even consider a brief walkthrough of certain fraud vulnerable processes to get an
+appreciation of the control environment.
+In order to understand the financial impact of the fraud risk, attempt may be made to quantify it using
+financial information such as the annual financial statements, Independent Auditor’s Report, the
+Internal audit reports, the Companies (Auditors Report) Order (CARO) report, the Internal Controls
+over Financial Reporting (ICFR). Further, a general financial analysis to note any particular areas
+which may point towards a need for deeper data analytics may be considered.
+For example, long outstanding debtors or a sharp increase in debtor turnover ratio may indicate
+cash flow issues and a risk of timely loan repayments.
+Data analysis is applied in FAI engagements for examining basic information to analyse and discover
+patterns of irregular and inconsistent activities or other anomalies. Data used for this purpose is
+generally obtained from application systems or underlying databases of the organisation and at
+times, even from external sources. The result of data analysis work  is used to support the
+hypotheses and observations which may form part of the conclusions to be reported. It is a dynamic
+area converging with new technologies such as Artificial Intelligence (AI), Machine Learning (ML),
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+6.12          FORENSIC ACCOUNTING
+
+Natural Language Processing (NLP) etc. All these are also getting collectively referred as “Fraud
+Investigation”  (FI)  tools which have evolved  to support and  facilitate data  analysis  in FAI
+engagements.
+Some of the commonly known advanced tools available for data analysis include Knime, ACL, IDEA,
+SQL, SAS, Python, R, amongst others. Such tools are based upon statistical techniques and require
+specific training to use them efficiently. Besides, there are many data visualization tools available
+that have graphic data representation capabilities along with limited data analysis capabilities such
+as Power BI, Tableau, etc. The professional may take decision on the tools and their use in the
+course of the engagement. Data analysis, thus, tests hypotheses which aids professional in arriving
+at conclusions.
+Data mining is the process of extracting patterns from large amount of data. It assists in identifying
+patterns and relationships camouflaged in data. Data mining techniques consist of applying filters to
+volumes of data to locate specific transactions. It makes data mining an indispensable tool in fraud
+detection as  it helps in identifying patterns. Suspicious and abnormal patterns are used to detect
+further repeating patterns. Data mining, by identifying suspicious patterns, makes its usable for other
+data analysis.
+
+      6.3  QUALITATIVE EVIDENCE
+When assessing the significance of fraud risk to the engagement, qualitative factors have also to be
+considered. The quantified list of risks would only be a starting point, but a more comprehensive
+evaluation would be possible only by incorporating other non-financial information and other
+qualitative inputs.
+The professional can also review the qualitative aspects of the transactions, such as the parties
+involved, the individual signatories, and any possible connection between the parties. These
+connections may be in the form of: -
+♦    Connections or relationship between the parties and individuals involved in the transaction
+        in terms of relations not covered as per the various statutes, old friendships or associations
+     and other possible connections.
+♦     Significant financial interests in form of loans or other transactions between the parties and
+       individuals involved in the transaction.
+♦    Personal guarantees or securities for loan facilities provided amongst the parties and
+       individuals involved in the transaction.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+FRAUD DETECTION              6.13
+
+Qualitative evidence assists professional to bare open hidden intentions or relationships which could
+prove to be crucial in finding the truth.
+Example of Data Analysis Test
+An illustrative data analysis test which may be run by a professional during a FAI assignment
+involving allegations in the Procure-to-Pay function, may be as below: -
+
+♦    Three-way or Four-way match of quantity and price, i.e., Purchase Requisition (PR) vis-à-
+       vis Purchase Order (PO) vis-à- vis Goods Receipt Note (GRN) vis-à-vis Invoice
+♦     Invoices booked at the end of financial year or end of the quarter
+♦    Money trail to trace the flow of funds
+♦     Significant price variation for the same material (between procurements from same vendor
+       or procurements from different vendors)
+♦    Purchase Order splitting or invoice/ payment splitting
+♦    Payment date before invoice date
+♦    Goods received before issuance of PO
+♦    Round amounts
+♦    High value or duplicate invoices/ payments
+♦    Payments over non-business hours or weekends / holidays
+♦    Payments processed before the due date (or goods received/work completed)
+♦    Vendor details matching with employee data or customer data
+♦     Multiple vendors with same details/ coordinates
+♦    Segregation of duty concerns – e.g., person in charge of procurement is also approving the
+    GRN
+♦   GRN punched without actual receipt of material (Can be verified through LR reference)
+♦    Payment to non-existent vendor
+♦    Procurement of inventory in excess of production plan
+♦    Procurement from old unconsumed budget of closed project
+♦    Purchase orders open in spite of project is completed and closed
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+6.14          FORENSIC ACCOUNTING
+
+♦    Purchase of short shelf-life material and subsequent write-off
+♦    Payment done to vendor although advance given to vendor and no further transaction
+♦     Additional margins earned through higher logistics charges and low base price
+♦     Invoice number altered at the time of booking to facilitate multiple payment for same
+       invoices
+♦    Spot rates negotiated in spite of rate contract in place
+♦    Bank account and vendor name difference
+
+      6.4  LAW AND EVIDENCE
+6.4.1  Applicability of laws in FAI engagement
+Each FAI engagement is unique and, in some cases, subject to relevant applicable statutes. The
+professional is expected to adhere to those provisions in addition to general applicable laws which
+form part of any engagement. Hence, the requirement to understand the law and discover suitable
+evidence in such engagements is critical.
+FAIS 130 states that FAI engagements may arise either: -
+(a)   where the professional is appointed in accordance with some specific law or regulation
+        (e.g., by a competent authority) – which may provide both, the mandate and the process,
+       of conducting the engagement or
+(b)   where the professional is appointed by the client through a contractual arrangement – which
+     may provide the mandate but is subject to the provisions of various laws and regulations
+      and conducts the engagement within the framework of those laws and regulations.
+A professional appointed under specific laws or regulations shall ensure that the objectives of the
+engagement are in line with the provisions of those laws and regulations. Any mandate, agreed with
+the stakeholders through a contractual arrangement, shall be consistent with the relevant laws and
+regulations.
+When conducting an engagement, the provisions of various laws and regulations which stipulate the
+manner in which such engagement work needs to be conducted and the evidence or testimony
+needs to be presented have to be considered.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+FRAUD DETECTION              6.15
+
+6.4.1.1 Direct Impact laws
+Despite all laws being an integral part of the engagement, certain laws are specifically applicable to
+FAI engagements. These laws, known as direct impact laws, form an essential basis for the
+professional to conduct the engagement.
+For example, there are certain statutes with provisions relating to white collar crime, corruption and
+money laundering, and certain contract or company related laws with specific provisions concerning
+frauds and irregularities. The professional is expected to have a basic understanding of these direct
+impact laws to plan and conduct the engagements.
+An example of a direct impact laws is Indian Evidence Act, 1872 which defines various aspects of
+evidence and the manner in which evidence can be gathered so that it is considered admissible in
+a court of law or before competent authorities. Similarly, Information Technology Act, 2000 is another
+example of direct impact laws as electronic gathering of evidence is governed by special procedure
+mentioned in this law. Other direct impact laws will depend upon the nature of each engagement.
+The modus operandi of frauds is also a determining factor while considering the direct impact laws.
+For example, in case of a FAI engagement related to non-performing loan accounts of a company,
+the professional may require to conduct the assignment as per RBI’s guidelines. Since the borrower
+is a corporate entity, provisions of Companies Act, 2013 may also apply. In case the loan was
+borrowed using forged or manipulated documents, provisions of Indian Penal Code, 1860 also
+become relevant. In case funds are diverted or siphoned, it may involve money laundering aspects.
+Hence. the assignment may require to incorporate relevant provisions of the Prevention of Money
+Laundering Act, 2002. Based upon the modus operandi, the professional may have to study the
+Information Technology Act, 2002 and the Indian Evidence Act,1872 to gather the evidences
+relevant to the case.
+Procedure to establish the chain of custody:
+In order to ensure the integrity and authenticity the maintenance of Chain of custody is of utmost
+importance. In absence of such chain, it will also be difficult to prove to the Court that data collected
+during audit is not altered later on. This is very important even in case of the Digital evidence. Some
+steps which can be followed to ensure the Chain of custody are as follows–
+(i)    Perform hash test analysis on digital evidence. Preserve the Hash certificates to be
+      presented in the Court of Law in case.
+(ii)    Working to be done on the copies, while the original data is unaltered and sealed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+6.16          FORENSIC ACCOUNTING
+
+(iii)   Preserve the documents for reference later on. Ensure to verify the copies from the original
+      documents
+(iv)   Date and time stamp of the data, and change of hands of the physical custody.
+6.4.1.2 Engagement specific laws
+In addition to the direct impact laws mentioned above, there are certain specific laws, known as
+engagement specific laws, which apply when engagements are planned and executed. These
+engagement specific laws shall govern the overall conduct of the engagements in such situations.
+For example, there are laws concerning insolvency and bankruptcy which codify the manner in which
+FAI procedures need to be conducted to gather evidence and laws concerning how evidence needs
+to be admissible before a competent authority. The professional  is expected to have a basic
+understanding of these engagement specific laws for proper conduct of work procedures.
+A bank may appoint a professional to detect a loan fraud as per certain provisions of master
+directions released by the Reserve Bank of India (RBI) or Resolution professional may be appointed
+under the Insolvency and Bankruptcy Code (IBC).  In above cases, such laws and regulations are
+examples of engagement specific laws.
+Given below are more examples of different situations which involve various laws and
+regulations (both direct impact laws and engagement specific laws).
+
+♦     In case of piracy of software, the provisions of Copyright Act, 1957 are considered. This is
+        in addition to the direct impact laws of Indian Evidence Act, 1872 and the Information
+      Technology Act, 2000.
+♦    Where the professional is appointed to investigate the allocation of coal to certain entities
+      under specific regulation, the professional has to study the particular regulation and the Act
+      under which such  coal  is  distributed and  allocated  to  the  entities.  Further, broad
+      understanding of the Indian Evidence Act, 1872 and Indian Penal Code, 1860 is also
+       required to investigate the relevant cases.
+♦     In case of securities market, professional may be appointed to examine any act of diversion,
+       mis-utilisation or siphoning off of assets or earnings of a company whose securities are
+        listed or to examine any concealment of such act or any device, scheme or artifice to
+      manipulate the books of accounts or financial statements of such a company that would
+        directly or indirectly manipulate the price of securities of that company. Understanding of
+     SEBI Regulations and provisions in this regard is important to identify, gather and collect
+       relevant evidences during the engagement.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+FRAUD DETECTION              6.17
+
+♦    Under Insolvency & Bankruptcy Code, 2016 (IBC), professional may be appointed as
+       transaction auditor to investigate specific transactions under such a code. Predominantly
+      such transaction uses the acronym of PUFE Transactions (Preferential, Undervalued,
+      Fraudulent Trading and Extortionate  Credit). The Professional would understand the
+       relevant provisions of IBC which explain these transactions and specific situation and
+      reasons to identify such transactions as PUFE in the insolvency process. Understanding
+      these provisions is important to identify, gather and collect relevant evidences during the
+      engagement.
+♦     In case of banking and loan frauds, professional would first understand the nature and
+       objective of engagement Also, the professional would confirm whether the borrower is a
+        firm, a company or an individual. In case of loan frauds, where borrower company has
+      submitted overstated financial statements or stock statements, the professional would
+      understand whether the loan fraud may attract the provisions of Section 36 of Companies
+       Act, 2013. It will be helpful for professional to gather the evidence as per the requirements
+       of these legal provisions.
+♦    The professional may be involved in an investigation of a case of credit card fraud where
+      card number along with login credential of bank customer is stolen and used by another
+      person. Such cases  fall under the provisions of Information Technology Act 2000, the
+       provision of the Payment and Settlement Systems Act, 2007 and directions/guidelines/
+       regulations issued by RBI from time to time, and possibly provisions of Indian Penal Code.
+      Understanding the provisions related to identity theft may be helpful in gathering the
+       relevant evidences.
+♦     In case of a partnership firm, consider a situation where the partners deducted the tax
+     amount from vendor’s payment but did not deposit this with the tax authorities. Instead, the
+     amount was utilized for the personal benefit of the partners. In such cases, the professional
+     may require the understanding of Income Tax Act, 1961 and Indian Penal Code, 1860 as
+       the provisions related to such offences will most likely be mentioned in the charge sheet.
+
+6.4.2  Gathering Evidence
+One of the main objectives of FAI engagement is to gather evidence which may withstand scrutiny
+and cross examination and be admissible before a competent authority. Therefore, professional is
+expected to plan the work procedure and gather evidence in a manner which would comply with
+relevant laws and regulations. Hence, understanding provisions of all applicable laws, rules and
+regulations of the jurisdiction where the incident took place becomes utmost important.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+6.18          FORENSIC ACCOUNTING
+
+A process driven approach (such as a customised checklist or an automated solution) to assist in
+identifying any significant deviations or non-compliances concerning laws and regulations impacting
+the subject matter of the engagement needs to be adopted. On complex and important matters, the
+professional may seek expert legal advice.
+For example, where the professional is engaged to investigate mining royalty related frauds or other
+malpractices, the professional may engage a geologist or lawyer with an understanding of both the
+terrain and the law. An understanding of the Mines Act, 1952 and the Mines and Minerals
+(Development and Regulation) Act, 1957 would help in appreciating the difference between mines,
+quarry, major mineral and minor mineral etc. and their relevance to the engagement. Even though
+they may be capable of appreciating such broad provisions, the professional cannot generally be
+supposed to have all the expertise related to those laws or regulations. Therefore, in such situations
+a professional may take the help of legal or other experts.
+It’s worth mentioning here how, in certain cases, the professional may be called upon to testify
+before competent authorities. At that time, professional has to be aware that the complexities of the
+litigation process come with substantial risks and potential pitfalls. Translating forensic findings into
+court settings may be undermined by the professional’s inability to adhere to strict evidentiary and
+discovery requirements, comply properly with court proceedings and rules of court, understand the
+various rules that individual jurisdictions mandate, or fall short of the sophistication that rigorous
+legal cross-examination may necessitate. Additionally, there could be multitude of laws over which
+the professional may be called upon to assist the legal counsel in  trial preparation Therefore,
+professional is advised to seek the help of legal experts in accordance with FAIS 230 in this regard.
+Therefore, knowledge and understanding of laws and regulations is imperative in a FAI engagement.
+Need for gathering evidence is also an important consideration for getting into legal nuances. Like,
+in case of a FAI engagement involving corporate fraud, provisions of Companies Act, 2013 apply
+and fraud definition under section 447 of Companies Act, 2013 would become relevant. The term
+“fraud” has been defined very broadly under section 447 of Companies Act, 2013 covering almost
+every conceivable situation as compared to somewhat narrow definition of fraud under Indian
+Contract Act, 1872. Hence, these finer nuances become relevant when FAI engagements are
+expected to lead to legal proceedings.
+Where the appointment of professional is on a contractual basis, by say, the promotor of a small
+company, who is suspecting the accountant of defalcation and is seeking professional help to gather
+evidence to confirm the suspicion,  there may be no need to gather evidence in a manner as
+meticulous as stipulated by the Indian Evidence Act, 1872 and the promotor may be satisfied with
+mere “secondary” evidence and not insist on “primary” evidence as is usually the case when the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+FRAUD DETECTION              6.19
+
+appointment is expected to lead to legal proceedings. However, there is always the risk of the
+suspect taking legal recourse for wrongful dismissal, hence  it’s advisable to take a meticulous
+approach in all evidence gathering efforts, even if it results in extra time and costs.
+In most other cases, the professional is appointed on the understanding of gathering primary
+evidences and therefore the act of gathering the evidences is done in such a meticulous manner
+that not only these evidences are admissible in the court (legal compliance is ensured) but also can
+withstand the test of cross examination by the other party.
+Further, basic principles of FAIS expect the professional to respect the rights of all concerned.
+Hence, due importance shall be given to the principle of natural justice which provides for a fair
+hearing to the other party. Due to the nature of FAI assignments, it is critical to obtain and understand
+views and standpoint of all parties. Just as much as the professional has the right of examination to
+unearth the truth, the suspects have a similar right to defend their innocence. The professional is
+expected to seek information and evidence from the suspects to understand their perspectives.
+Ample opportunity should be given to all parties to present their case, evidences and perspectives.
+This, however, should be done at the right time and in the right manner, such as through written
+communication, for example, show-cause notice, written explanation etc. All FAI engagements need
+to adhere to the laws, including law of privacy to the suspect. The principles of natural justice, which
+give the other party full right to be heard with opportunity to present their version of the facts, should
+also be considered.
+
+    6.5    APPLYING HYPOTHESES
+FAIS 140 states that a hypothesis is a provisional, unproven theory, supposition or proposed
+explanation, based on limited facts, assumptions and observations, the merits of which needs to be
+established through further examination and study of evidences.
+In any FAI engagement,  it is necessary to have a clear and defined plan to achieve the given
+objective. At the same time, maintaining the basic principle of objectivity is also fundamental to the
+engagement. This is achieved by formulating various hypotheses for examining the subject matter,
+since this allows for a balance between professional skepticism and the need to maintain neutrality.
+Applying hypotheses is a technique which makes the process of evidence gathering more methodical
+and effective. Although the hypothesis may not be referred to in the report, the quality of the evidence
+gathered as a result of such application, makes the outcome more reliable and suitable before a
+competent authority.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+6.20          FORENSIC ACCOUNTING
+
+In  forensic accounting engagements, the hypothesis  is  generally  verified by  testing  certain
+transactions and balances to prove or disprove the possibility of some exceptions. In Investigation
+engagements, the hypothesis is generally developed considering the facts of the case, tested and
+revised to support or reject a possible modus operandi of fraud schemes.
+6.5.1 How hypotheses are formed and tested?
+The concept of hypothesis is to be understood and applied  (if applicable) to help validate the
+possibility of potential violations or exceptions which may (or may not) have been perpetrated.
+Forming a hypothesis is an iterative process, which continues till a hypothesis is found that explains
+the case under consideration. Also, based on the evidence gathered and changing dynamics of the
+case, hypotheses can be redrafted or updated.
+FAIS 140 also requires testing the evidence gathered on various objective parameters and drawing
+logical and reliable conclusions for proving, disproving or not proving. Developing various
+hypotheses and testing them is a technique that helps to eliminate various possible logics which can
+be placed as a defence by the opposing lawyer during cross-examination of the expert. Once all
+possible hypotheses are proved to be null except those which support a particular assertion or
+possibility, they help the professional to reach a valid conclusion with confidence while rejecting
+other possibilities.
+The hypotheses approach is also, sometimes, called the case theory approach to solve forensic and
+investigations cases. As an example, to better understand the basic concept of hypothesis, take the
+following situation where there are allegations of kickbacks to get a government contract. Two
+scenarios can be considered in which the first does not apply the hypotheses approach and the
+second does: -
+Scenario 1: Professional A starts to review the contract file and based on the information obtained,
+starts to interview all the staff members who were involved with bidding for the government contract.
+Included in this list of staff is also the suspect who denies the allegations. The professional gathers
+a lot of information but is not clear what can be used as evidence, and what may not be relevant,
+therefore, there is not much success.
+Scenario 2:  Professional B makes a list of possible theories. If allegation is true, some unusual
+evidence trail must have been left behind, such as: -
+♦    Someone  in the organisation made contacts with someone  in the government under
+      unusual circumstances or in odd hours.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+FRAUD DETECTION              6.21
+
+♦   Some unusual terms or conditions were included or amended  to accommodate the
+       organisation.
+♦   Some exchanges of favours were made to some government official.
+Some or all of these theories (or hypotheses) could be proved or disproved, but in checking these,
+some relevant evidence would be found to help reach a conclusion.
+So, Scenario 2 with Hypotheses, would provide professional B with a methodical approach to
+conduct the work procedures and prevent wastage of resources. In addition, as the work procedures
+progress, the theories may get modified (dropped, added or changed) and thereby minimise chances
+of digression from the core investigation.
+The final modus operandi emerges only when multiple hypotheses are formulated and tested.
+A hypothesis is generally formed once an understanding of the background of the case is obtained,
+which may include the following: -
+♦    The engagement terms and objectives
+♦    Nature of allegations or suspected violations
+♦     Availability of key documents and information
+♦    Involvement of certain individuals
+♦    Complexity of systems and processes
+♦    Relevant laws and regulations
+♦    Understanding of the control environment and other factors that might have contributed to
+      an allegation or dispute
+After  obtaining  preliminary  understanding  as  described  above,  the  professional  develops
+hypotheses and begins testing these through work procedures. A generic suggestive practical
+approach to forming a hypothesis is given as under: -
+(a)   What might have happened? – Noting down possible modus operandi in terms of the
+       actions and transactions which could have taken place and developing further hypotheses
+      around the same.
+(b)   Who might be involved? – Listing all those individuals who have a role to play in the
+      process, using the authority matrix, hierarchy and organisation structure as a basis to
+        identify the  staff and  officials. Conducting public domain searches and open-source
+       intelligence to identify any close contacts of these individuals.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+6.22          FORENSIC ACCOUNTING
+
+(c)   Why might the allegations be true? – Link the concepts of pressure, opportunity and
+       rationalisation to the extent possible and understand possible reasons for the actions.
+(d)   What are the possible concealment methods? – Identify vulnerabilities through a review of
+      previous cases and reports. At this point,  trail of events, including digital  trail,  is an
+      important consideration.
+(e)   When did it take place? – Prepare a timeline of events in chronological form, link it with the
+      involvement of individuals and their presence or absence from the place of action, list out
+       exceptional situations.
+(f)   How is the suspected fraud being perpetrated? – List down various possibilities on how the
+      suspected modus operandi could have been undertaken based on academic understanding
+      and practical experience.
+(g)   What could be the possible motives? – Understand the trigger and motivation for taking the
+       action.
+(h)   How evidence can be gathered? Determine from where (the sources) the evidence could
+      be gathered.
+       On-book vs Off-book – That is, whether it would be identified from review of books of
+             accounts, documentation review and transaction  testing or more from applying
+             techniques of interviewing, external inquiries, visits and intelligence.
+        Internal vs External to the organisation – That is, whether it would be identified from
+             review of internal records or third-party records and similarly engaging into discussions
+              with internal individuals or external parties linked to the matter.
+The above steps or methodology may be followed keeping in mind the principle of objectivity, i.e.,
+the need for professional to avoid the trap of getting focused too early on a particular path.
+Temptation of targeting any particular individual or department while formulating the hypotheses, or
+getting influenced by certain sub-conscious biases has to be avoided.
+Fraud indicators (red flags) identified may also be used to formulate a hypothesis. This is quite
+relevant so as to ensure that the work procedures are focused on the important matters.
+FAI methodologies have  to be designed  in accordance  with considered hypotheses  while
+maintaining neutrality to ensure a methodical and reliable approach. Hypotheses generated by the
+professional shall be flexible, evolving and include new or alternate hypotheses to validate or reject
+them in order to prove or disprove a larger theory or assumption, such as the modus operandi. In
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+FRAUD DETECTION              6.23
+
+formulating the theory or explanation, which form the basis of the hypotheses, the professional will
+keep an open mind and develop objective hypotheses while maintaining professional skepticism.
+As part of evidence gathering exercise, the professional shall collect all types of evidence related to
+the hypotheses, irrespective of whether it proves or disproves the hypotheses. After concluding an
+investigation, the professional shall be in a position to either prove, disprove, or not prove the
+theory as formulated.
+Examples
+
+Example 1: Concerning bank borrowings and NPA account
+A borrower’s account at a particular bank has turned into a non-performing account (NPA) from
+which the borrower had availed credit facilities. The bank has now appointed the professional with
+a mandate to check if there are any irregularities with regard to misrepresentation or manipulation
+in the books of accounts, or any diversion or siphoning of funds.
+Hypotheses
+Based on the understanding of the case and the basic review of the documentation and preliminary
+financial analysis, following hypotheses may be formulated for checking: -
+(a)    Promoters and directors could have potentially mis-utilised the funds for personal purposes
+       or purposes other than those for which funds were granted.
+(b)   Covenants in the loan agreement could have been violated, such as diverting the inflow of
+      funds to other accounts rather than the specified escrow account.
+(c)    There could be errors or irregularities in the documentation submitted to avail the loans or
+      during the submissions made for regular monitoring of the account.
+(d)    Transactions with related or connected parties could have been undertaken to misstate the
+      performance and financial position to avail further finance.
+(e)    Fictitious purchases could have been booked against which funds would have been
+      disbursed, however, the same could have been received back by the promoters.
+Application of the concept of hypotheses and work procedures
+(a)   Review of the loan documentation i.e., agreement copies, and negative covenants, along
+       with the details and data submitted to avail the funds.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+6.24          FORENSIC ACCOUNTING
+
+(b)   Review other bank account statements of the borrower to understand the inflow and outflow
+       of funds and modus operandi with regard to avoiding the inflow of funds in the escrow
+      account.
+(c)    Analysis of commercial sense in the transactions with the related parties (should be at
+      arm’s  length) along  with  transaction  testing and documentation review  for physical
+     movement of goods and realisation of funds.
+(d)    Analytical work procedures involving data analytics on purchase transactions.
+Status
+Evidence was gathered and hypothesis had following outcome: -
+(a)    Letter of credit facility was exploited for inter-group companies and related parties in order
+       to book fictitious sales in the books of accounts of one entity while increasing the purchase
+        in another, hence proved.
+(b)   Review of the documentation submitted during the continuous monitoring of the account
+      suggested that everything was in line with the actual position and affairs of the borrower,
+      hence disproved.
+(c)    Other bank account statements were not available, hence hypothesis not proved.
+Example 2: Concerning authenticity of Trade Receivables
+Management has appointed the professional to undertake forensic accounting work procedures in
+the trade receivables area since the entity has multi-location profit centres with common customers,
+to check if there are any non-existing trade receivables.
+Hypotheses
+Based on the understanding of the case and the basic review of the documentation and preliminary
+financial analysis, following hypotheses may be formulated for checking: -
+(a)    Collusion between representatives of sales and marketing department along with finance
+      department.
+(b)    Sales target might not have been met, resulting in loss of performance incentive and thus
+      pressure to indulge in such irregularity.
+(c)   Any such non-existent trade receivables might have been entered into the system around
+       the same time frame as the appraisal cycle.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+FRAUD DETECTION              6.25
+
+Application of the concept of hypotheses and work procedures
+(a)    Call for balance confirmations.
+(b)    Perform data analysis and tests of “Abnormal Duplications” (e.g., the SSS/SSD “same-
+      same-same”, “same-same-different” tests on the customer master.
+(c)   Review the documentation for material movement.
+(d)    Perform detailed ledger scrutiny to analyse the year-on-year movement, during the year
+      movement, identify any trend etc.
+(e)   Conduct site visits of the trade receivable account holders to check the actual existence.
+(f)    Perform public domain checks – to understand the business in which they operate, market
+       repute, reviews and financial strength.
+(g)    Verify the names of payees as per the books of accounts and cross-check with the names
+       reflected in the bank Statements and the narrations therein. The same could have apparent
+      mismatches, if any misrepresentation has been done in the books of accounts.
+Status
+Evidence was gathered and hypothesis had following outcome: -
+(a)    Multiple customer masters were created around the same time with a trend in the suffixes
+      used for such customer names, however, there was no web-based presence of business
+       of such customers, hence proved.
+(b)    Sales target was met well in time and there were enough sales orders in place, thus that
+      hypothesis disproved.
+(c)    There was not enough evidence to establish connection or collusion between the sales,
+      marketing and finance department, hence not proved.
+Example 3: Concerning existence of assets to support the investments
+Engagement pertains to potential irregularities at a company, with significant investments in fixed
+assets, property, plant, and equipment as the major components of the balance sheet which could
+be inflated in value.
+Hypotheses
+Based on the understanding of the case and basic review of the documentation and preliminary
+financial analysis, following hypotheses may be formulated for checking: -
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+6.26          FORENSIC ACCOUNTING
+
+(a)    Fixed assets additions could only be on paper and physically might not be in existence,
+     done to compensate for the inflated sales numbers so that the tax credit can be created in
+       the books of accounts.
+(b)   Management might have offloaded their share of investment in the company or they would
+      be planning to raise additional funds.
+(c)    Overall market is in a declining phase which has impacted sales and thereby investors have
+       raised concerns, resulting in a decline in the share price.
+(d)   There has been a delay in repayment of certain credit facilities that were maturing, this
+       depicts a potential  liquidity crunch, so there  is a contradiction with the additions  in
+      investments.
+Application of the concept of hypotheses and work procedures
+(a)   Check for any abnormality between the nature of business vs. amount of investment vs.
+      type of fixed asset.
+(b)   Check existence of records of the fixed assets, including title deeds, contracts, deeds, tax
+       records, delivery and physical verification reports.
+(c)   Compare the amount of investment compared with revenue from operations of those assets
+        for the past few years.
+(d)    Operating margin vis-à-vis overall investment in fixed assets.
+(e)   Any principal reduction or sale of fixed assets.
+(f)    Amount of term loans and other borrowings made against the fixed assets.
+(g)   Any revaluation of the fixed assets.
+(h)    Details of parties from whom the fixed assets are purchased.
+(i)     Details of impairment testing done for the fixed assets etc.
+Status
+Evidence was gathered and hypothesis had following outcome: -
+(a)   Lack of meaningful income from the assets was noted, hence proved.
+(b)   Management has not offloaded their share on the company, thus hypothesis disproved.
+(c)    Primary evidence to support the existence and ownership of the assets was not possible,
+      hence not proved.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+FRAUD DETECTION              6.27
+
+            TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    What is an example of a fraud risk indicator in relation to expenses and vendor onboarding?
+       (a)    Unexplained financial condition of the organisation
+       (b)    Siphoning off funds through fictitious or inflated expenses in the books of accounts,
+             personal profiteering and kickbacks through vendor-employee collusion
+        (c)    Non-following of hierarchy structure in the organisation’s decision making
+       (d)    High  vulnerability  to rapid changes, such as changes  in technology, product
+            obsolescence, or interest rates
+2.    Which of the following is NOT a component of data analysis in forensic accounting?
+       (a)     Artificial Intelligence (AI)
+       (b)     Statistical techniques
+        (c)    Natural Language Processing (NLP)
+       (d)   Machine Learning (ML)
+3.    Which one is the most appropriate potential red flag in the procurement process?
+       (a)    High value or duplicate invoices/payments
+       (b)    Invoices booked at the end of financial year or end of the quarter
+        (c)   Payment date before invoice date
+       (d)   Goods received before issuance of PO
+4.     In the context of forensic accounting and investigation engagements, what is the purpose
+         of establishing the chain of custody?
+       (a)   To authenticate the professional's expertise in gathering evidence.
+       (b)   To expedite the court proceedings and trial preparation.
+        (c)   To prove the competence of the professional carrying out the engagement.
+       (d)   To ensure the integrity and authenticity of collected data and evidence
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+6.28          FORENSIC ACCOUNTING
+
+5.    What is the purpose of formulating hypotheses in a forensic accounting engagement?
+       (a)   To gather methodical and effective evidence
+       (b)   To maintain objectivity and balance between professional skepticism and neutrality
+        (c)   To validate the possibility of potential violations
+       (d)   To provide a provisional theory based on limited facts and assumptions
+Answers to Multiple Choice Questions:
+    1.        (b)        2.         (c)        3.         (c)        4.        (d)        5.        (b)
+
+
+© The Institute of Chartered Accountants of India

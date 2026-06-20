@@ -1,0 +1,3682 @@
+Source PDF: 05_Indirect_Tax_Laws/006 - Chapter 6- Value of Supply - 75918bos61400-cp6.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\05_Indirect_Tax_Laws\006 - Chapter 6- Value of Supply - 75918bos61400-cp6.pdf
+Extracted at: 2026-05-31T10:25:03+05:30
+Pages: 90
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER        6
+
+
+VALUE OF SUPPLY
+
+ The section numbers referred to in the Chapter pertain to CGST Act, unless otherwise
+ specified.  Examples/illustrations/Questions and Answers given in the Chapter are
+ based on the position of GST law existing as on 30.04.2023.
+
+                LEARNING OUTCOMES
+After studying this Chapter, you will be able to –
+
+    comprehend and analyse as to what constitutes the value of
+    a taxable supply of goods / services when the supply is made
+     to an unrelated person and price is the sole consideration for
+     the supply
+
+      identify the various inclusions in/exclusions from the value of
+     supply
+
+    comprehend and analyse the various rules providing the
+    mechanism to value a supply in situations where transaction
+     value cannot be adopted and in respect of certain special
+     supplies
+
+    compute the value of a taxable supply in different scenarios
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+6.2        GOODS AND SERVICES TAX
+
+    1. INTRODUCTION
+ Every fiscal statue makes provision for the
+determination of value as tax which  is
+normally payable on ad-valorem basis.
+In GST also, tax  is payable on ad-
+valorem  basis  i.e., percentage  of
+value of the supply of goods or
+services.
+Thus,   it  becomes  important  to
+know how to arrive at the value on
+which tax is to be paid.  Provisions
+relating to ‘value of supply’ set out
+the mechanism to compute such value
+basis  which CGST  and  SGST/UTGST
+(intra-State supply) and IGST (inter-State
+supply) should be paid.
+Section 15 of the CGST Act supplemented with the rules under Chapter  IV:
+Determination of Value of Supply of the CGST Rules, 2017 prescribes the provisions
+for determining the value of supply of goods and services made in different
+circumstances and to different persons.
+Section 15 of the CGST Act provides common provisions for determining the value
+of supply of goods and services.  Sub-section (1) of section 15 provides the
+mechanism for determining the value of a supply which is made between unrelated
+persons and when price and only the price is the sole consideration for the supply.
+In most of the cases of regular normal trade, the invoice value (i.e. transaction
+value) is the taxable value, which is specified under section 15(1). However,
+when value cannot be determined under section 15(1); and for certain specific
+transactions, the value is determined using Chapter IV: Determination of Value of
+Supply of CGST Rules.
+
+ Provisions of value of supply under CGST Act have also been made applicable
+ to IGST Act vide section 20 of the IGST Act.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+VALUE OF SUPPLY.3              6.3
+
+    2. RELEVANT DEFINITIONS
+  Agent means a person, including a factor, broker, commission agent, arhatia,
+      del credere agent, an auctioneer or any other mercantile agent, by whatever
+    name called, who carries on the business of supply or receipt of goods or
+      services or both on behalf of another [Section 2(5)].
+
+                                          Factor
+                                               Who  carries
+                                                         on  business                                       Broker
+                                                                      of supply of
+                              Commission agent               goods  and
+                                                                       /or services   AGENT
+                                         Arhatia
+
+                                 Del Credre agent
+                                                   On  behalf
+                                     Auctioneer                                                                      of another
+
+                                  Mercantile agent
+   Consideration in relation to the supply of goods or services or both includes –
+       (a)   any payment made or to be made, whether in money or otherwise, in
+           respect of, in response to, or for the inducement of, the supply of goods
+           or services or both, whether by the recipient or by any other person but
+             shall not include any subsidy given by the Central Government or a
+           State Government;
+      (b)   the monetary value of any act or forbearance, in respect of, in response
+             to, or for the inducement of, the supply of goods or services or both,
+          whether by the recipient or by any other person but shall not include
+          any subsidy given by the Central Government or a State Government;
+     Provided that a deposit given in respect of the supply of goods or services or
+     both shall not be considered as payment made for such supply unless the
+      supplier applies such deposit as consideration for the said supply [Section 2(31)].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+6.4        GOODS AND SERVICES TAX
+                       CONSIDERATION
+
+
+            Payment in money                       Monetary value of
+              or  otherwise  for                       any      act     or
+              the supply                                 forbearance for the
+                                 By recipient or                                                       supply
+                                  any       other
+         Deposit      to     be     person
+         considered as payment
+
+                                      Excluding subsidy given              ONLY
+                                 by         Central/State
+                                  Governments        When    the    supplier
+            applies such deposit as
+            consideration   for  the
+            said supply
+   Family means,––
+         (i)    the spouse and children of the person, and
+         (ii)   the parents, grand-parents, brothers and sisters of the person if they
+           are wholly or mainly dependent on the said person [Section 2(49)].
+  Goods means every kind of movable property other than money and
+      securities but includes actionable claim, growing crops, grass and things
+     attached to or forming part of the land which are agreed to be severed before
+     supply or under a contract of supply [Section 2(52)].
+  Market value shall mean the full amount which a recipient of a supply is
+     required to pay in order to obtain the goods or services or both of like kind
+     and quality at or about the same time and at the same commercial level where
+     the recipient and the supplier are not related [Section 2(73)].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+VALUE OF SUPPLY.5              6.5
+
+
+                                                                                              of like kind & quality
+
+
+                                                                                                  at or about the same time
+                               Full amount which a                                                             to obtain goods and / or  MARKET VALUE         recipient is required to                                                                services                               pay
+                                                                                                   at the same commercial
+                                                                                                             level
+
+                                                                           where recipient & supplier
+                                                                                            are not related
+
+   Person includes-
+       (a)   an individual;
+      (b)   a Hindu Undivided Family;
+       (c)   a company;
+      (d)   a firm;
+       (e)   a Limited Liability Partnership;
+        (f)   an  association  of  persons  or  a  body  of  individuals,  whether
+           incorporated or not, in India or outside India;
+      (g)   any corporation established by or under any Central Act, State Act or
+            Provincial Act or a Government company as defined in section 2(45) of
+           the Companies Act, 2013;
+       (h)   any body corporate incorporated by or under the laws of a country
+           outside India;
+         (i)   a co-operative society registered under any law relating to cooperative
+             societies;
+         (j)   a local authority;
+       (k)   Central Government or a State Government;
+         (l)    society as defined under the Societies Registration Act, 1860;
+     (m)   trust; and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+6.6        GOODS AND SERVICES TAX
+
+       (n)   every  artificial juridical person, not falling within any of the above
+           [Section 2(84)].
+  Money means the Indian legal tender or any foreign currency, cheque,
+     promissory note, bill of exchange, letter of credit, draft, pay order, traveller
+     cheque, money order, postal or electronic remittance or any other instrument
+     recognised by the Reserve Bank of India when used as a consideration to
+      settle an  obligation  or exchange with  Indian  legal tender  of another
+     denomination but  shall not  include any currency  that  is held  for  its
+     numismatic value [Section 2(75)].
+
+                          Indian legal tender
+
+                        Foreign Currency
+
+                         Cheque
+
+
+                        Promissory note
+                                       When used as a
+                                                     consideration                                 Bill of Exchange
+                                                         to   settle  an
+                                                       obligation   or
+                                              exchange  with                            Letter of Credit                                            Currency
+                                                      Indian     legal                                                             EXCLUDING    held for its                                                    tender       of                                                                               numismatic
+                                                   another  Money                       Draft                                                      value                                                 denomination
+
+                        Pay Order
+
+                           Traveller Cheque
+
+                     Money Order
+
+                        Postal or electronic
+                            remittance
+
+                   Any other instrument
+                        recognised by RBI
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+VALUE OF SUPPLY.7              6.7
+
+   Prescribed means  prescribed by  rules made under  this  Act on  the
+     recommendations of the Council [Section 2(87)].
+   Principal means a person on whose behalf an agent carries on the business
+      of supply or receipt of goods or services or both [ Section 2(88)].
+   Recipient of supply of goods or services or both, means—
+       (a)   where a consideration is payable for the supply of goods or services or
+           both, the person who is liable to pay that consideration;
+      (b)   where no consideration is payable for the supply of goods, the person
+           to whom the goods are delivered or made available, or to whom
+           possession or use of the goods is given or made available; and
+       (c)   where no consideration is payable for the supply of a service, the person
+           to whom the service is rendered,
+     and any reference to a person to whom a supply is made shall be construed
+     as a reference to the recipient of the supply and shall include an agent acting
+     as such on behalf of the recipient in relation to the goods or services or both
+     supplied [Section 2(93)].
+   Services means anything other than goods, money and  securities but
+      includes activities relating to the use of money or its conversion by cash or
+     by any other mode, from one form, currency or denomination, to another
+     form, currency or denomination  for which a separate consideration  is
+     charged.
+     Explanation - For the removal of doubts,  it  is hereby clarified that the
+     expression  “services”  includes  facilitating  or  arranging  transactions  in
+      securities [Section 2(102)].
+   Supplier in relation to any goods or services or both, shall mean the person
+     supplying the said goods or services or both and shall include an agent acting
+     as such on behalf of such supplier in relation to the goods or services or both
+     supplied [Section 2(105)].
+   Voucher means an instrument where there is an obligation to accept it as
+     consideration or part consideration for a supply of goods or services or both
+     and where the goods or services or both to be supplied or the identities of
+      their potential suppliers are either indicated on the instrument itself or in
+      related documentation, including the terms and conditions of use of such
+     instrument [Section 2(118)].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+6.8        GOODS AND SERVICES TAX
+
+    3. VALUE OF SUPPLY [SECTION 15]
+
+       STATUTORY PROVISIONS
+
+  Section                    Value of taxable supply
+    15
+
+   Sub-    Clause                         Particulars
+  section
+
+     (1)    The value of a supply of goods or services or both shall be the
+             transaction value, which is the price actually paid or payable for the
+             said supply of goods or services or both where the supplier and the
+             recipient of the supply are not related and the price  is the sole
+            consideration for the supply.
+
+     (2)    The value of supply shall include-
+
+                 (a)    any taxes, duties, cesses, fees and charges levied under any
+                    law for the time being in force other than this Act, the State
+                   Goods and Services Tax Act, the Union Territory Goods and
+                       Services  Tax  Act  and  the  Goods  and  Services  Tax
+                    (Compensation to States) Act, if charged separately by the
+                         supplier;
+
+                 (b)    any amount that the supplier is liable to pay in relation to
+                     such supply but which has been incurred by the recipient of
+                      the supply and not included in the price actually paid or
+                     payable for the goods or services or both;
+
+                   (c)     incidental expenses, including commission and packing,
+                    charged by the supplier to the recipient of a supply and any
+                  amount charged  for anything done by the supplier  in
+                       respect of the supply of goods or services or both at the time
+                            of, or before delivery of goods or supply of services;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+VALUE OF SUPPLY.9              6.9
+
+                 (d)     interest or late fee or penalty for delayed payment of any
+                      consideration for any supply; and
+
+                  (e)     subsidies directly linked to the price excluding subsidies
+                     provided  by   the   Central  Government  and   State
+                    Governments.
+
+            Explanation.––For the purposes of this sub-section, the amount of
+            subsidy shall be included in the value of supply of the supplier who
+             receives the subsidy.
+
+     (3)    The value of the supply shall not include any discount which is given
+
+                 (a)     before or at the time of the supply if such discount has been
+                      duly recorded in the invoice issued in respect of such supply;
+                  and
+
+                 (b)     after the supply has been effected, if—
+
+                                   (i)  such discount is established in terms of an agreement
+                          entered into at or before the time of such supply and
+                               specifically linked to relevant invoices; and
+
+                                   (ii)  input tax credit as is attributable to the discount on the
+                            basis of document issued by the supplier has been
+                           reversed by the recipient of the supply.
+
+     (4)    Where the value of the supply of goods or services or both cannot be
+           determined under sub-section (1), the same shall be determined in
+           such manner as may be prescribed.
+
+     (5)     Notwithstanding anything contained in sub-section (1) or sub-section
+                (4), the value of such supplies as may be notified by the Government
+          on the recommendations of the Council shall be determined in such
+          manner as may be prescribed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+6.10       GOODS AND SERVICES TAX
+
+ Explanation—For the purposes of this Act,––
+  (a)   persons shall be deemed to be “related persons” if––
+
+               (i)    such persons are officers or directors of one another’s businesses;
+
+               (ii)   such persons are legally recognised partners in business;
+
+               (iii)   such persons are employer and employee;
+
+            (iv)   any person directly or indirectly owns, controls or holds twenty-
+                   five percent or more of the outstanding voting stock or shares of
+               both of them;
+
+            (v)   one of them directly or indirectly controls the other;
+
+            (vi)   both of them are directly or indirectly controlled by a third person;
+
+             (vii)   together they directly or indirectly control a third person; or
+
+             (viii)   they are members of the same family;
+
+  (b)   the term “person” also includes legal persons;
+
+   (c)   persons who are associated in the business of one another in that one is
+        the  sole agent or  sole  distributor or  sole concessionaire, howsoever
+        described, of the other, shall be deemed to be related
+
+     ANALYSIS
+
+The CGST law has different provisions for determining the value of a supply of
+goods / services in the following situations:
+A.   Supplies made solely for a price in money (monetary consideration), to
+     unrelated persons - Valuation governed by sub-section (1) of section 15;
+B.    Supplies made solely for non-monetary consideration, or for part monetary
+     consideration and part non-monetary consideration, or involving additional
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+VALUE OF SUPPLY.11            6.11
+
+      consideration, or to related persons – Valuation governed by sub-section (4)
+      of section 15 read with relevant rules
+C.    Supplies of specified categories of goods or services – Valuation governed by
+     sub-section (5) of section 15 read with relevant rules
+A.  Supplies  to  unrelated  persons  where  price  is  the  sole
+    consideration
+(i)  Transaction value [Section 15(1)]
+    When a transaction of supply of goods / services is made
+      between two persons (see definition of “person”) who are not related
+           to each other (see definition of “related person” in ‘Explanation’ to
+           section 15), and
+       price is the sole consideration (see definition of consideration) for the
+           supply,
+     the value of the supply is the  “transaction value”  .
+
+
+                                               Price is the                         Value of           Supply  is                                                 sole                            supply will          between                                              considerati-                        be            unrelated                                   on for the                        Transaction            persons                                            supply                            value
+
+
+     The definition of ‘related person’ under the explanation to section 15 covers
+      various situations of control, including sole agent, sole distributor and sole
+      concessionaire. The concept of related person has been presented by way of
+     a diagram in ensuing pages.
+      Therefore, if the supply is between persons who are related in terms of the
+     explanation to section 15, the value of the supply would not be the
+      transaction value but would be determined through the valuation rules
+     provided in the CGST Rules.  Only when the supply is between unrelated
+     persons and price is the sole consideration, the value thereof would be the
+      transaction value in terms of section 15(1).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+6.12       GOODS AND SERVICES TAX
+
+            Related Persons [Explanation to section 15]
+
+                                                 Such       persons       are
+                                                 IF      officers/directors    of   one Persons including DEEMED AS    RELATED
+  Legal Persons            PERSONS            another’s business
+                                                 Such   persons   are   legally
+                                                      recognised     partners     in
+                                                       business
+                                                 Such persons are employer &
+                                                employee
+
+                                        A    third   person   controls
+                                                                    (directly/indirectly)   or  own/
+                                                       holds   ≥   25%    voting
+                                                          stock/shares of both of them
+
+                                          One    of   them    controls
+                                                                  (directly/indirectly) the other
+
+                                        A    third   person   controls
+                                                                    (directly/indirectly)  both   of
+                                              them
+                                                 Such persons together control
+                                                                  (directly/indirectly)   a   third
+                                                   person
+
+                                                 Such persons are members of
+                                                       the same family [See definition
+                                                               of family]
+
+                                          One  of  them   is  the  sole
+                                                       agent/sole     distributor/sole
+                                                        concessionaire of the other
+
+                 (1) Ms. Priya holds 30% shares of ABC Ltd. and 35% shares of XYZ
+                  Ltd. ABC Ltd. and XYZ Ltd. are related.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+VALUE OF SUPPLY.13            6.13
+
+      (2) Q Ltd. has a deciding role in corporate policy, operations management
+     and quality control of R Ltd.  It can be said that Q Ltd. controls R Ltd. Thus,
+   Q Ltd. and R Ltd. are related.
+      (3) Alpha Ltd. controls the composition of Board of directors of Beta Ltd. and
+    Gama Ltd.  It is said to control both Beta Ltd. and Gama Ltd. Beta Ltd. and
+    Gama Ltd. are related persons.
+      (4)  Brita Ltd. and Grita Ltd. together control Margarita Ltd.  Brita Ltd. and
+      Grita Ltd. are related persons.
+     Under section 15(1), the transaction value which  is applicable between
+     unrelated persons where price is the sole consideration for the supply is -
+     the price actually paid or payable for the said supply of goods or services
+     or both.
+      This is the price for the specific supply that is being valued.  It includes the
+    amount already paid at the time the supply is being valued for tax, as well as
+     the amount payable and not yet paid at that time. The word ‘payable’ refers
+      to price that is agreed to be paid for the goods / services.
+                 (5) Wholesale price for 1 MT of cement sold by X Ltd. in the ordinary
+               course of business: ` 7,000.
+      Price   of  1  MT   of  cement   sold  by  X   Ltd.   to  an   unrelated
+      customer Y : ` 6,700.
+     Value of supply made by X Ltd. to Y is ` 6,700 which is the price actually paid or
+     payable and not the wholesale price.
+
+                The value of taxable supply of goods and services shall
+                    ordinarily be ‘the transaction value’ which is the price paid
+                   or payable, when the parties are not related and price is the
+                    sole consideration.  Section 15 of the CGST Act further
+       elaborates  various  inclusions and  exclusions from  the ambit  of
+       transaction value. For example, the transaction value shall not include
+      refundable deposit, discount allowed subject to certain conditions.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+6.14       GOODS AND SERVICES TAX
+
+(ii)  Inclusions in value [Section 15(2)]
+     The value of supply includes certain elements which are enumerated and
+     discussed below.
+       Taxes, duties, cesses, fees and charges other than CGST, SGST, UTGST,
+         GST Compensation Cess, if charged separately
+      Payments to third parties  Any amount that the supplier is liable to
+          pay in relation to supply but which has been incurred by the recipient
+           of the supply and not already included in the price.
+       Incidental expenses, such as, commission and packing, charged by the
+           supplier to the recipient of a supply
+      Any amount charged for anything done by the supplier in respect of the
+           supply of goods and/or services at the time of, or before delivery of
+         goods /supply of services
+       Interest or late fee or penalty for delayed payment of consideration
+       Subsidies, directly linked to the price, other than subsidies given by the
+           Central Government or State Governments
+     The above elements are discussed below.
+    Taxes other than GST & GST Compensation Cess [Section 15(2)(a)]
+     Any taxes, duties, cesses, fees and charges levied under any law for the time
+     being in force except the CGST Act, the SGST Act, the UTGST Act and the GST
+     (Compensation to States) Act,  if charged separately by the supplier, are
+      includible in the value of supply. In case of inter-State supply liable to IGST,
+     the  value  of supply  will  include  taxes other than IGST and the GST
+     Compensation Cess in terms of third proviso to section 20 of IGST Act.  In
+       effect, all the taxes, duties etc. which are not subsumed in GST form part of
+     the taxable value for the purpose of levying GST.
+     For instance, if a supplier of goods pays municipal tax in relation to the goods
+     being supplied and charges the same separately, such tax will form part of
+     the value of supply.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+VALUE OF SUPPLY.15            6.15
+
+    TCS under Income-Tax Act, 1961 not includible in the taxable value for
+     the purpose of GST
+     CBIC vide Circular No. 76/50/2018 GST dated 31.12.2018 (amended vide
+     corrigendum  dated  7.03.2019)  has  clarified  that  for  the  purpose  of
+     determination of value of supply under GST, tax collected at source (TCS)
+     under the provisions of the Income Tax Act, 1961 would not be includible as
+         it is an interim levy not having the character of tax. In other words, TCS under
+     Income-Tax Act, 1961 (though other than GST) is not includible in the taxable
+     value for the purpose of GST as it is only a modality for collection of tax.
+    Payments made to third parties by the recipient on behalf of the
+     supplier in relation to the supply [Section 15(2)(b)]
+    A supplier may need to incur various expenses in order to make a particular
+     supply of goods / services. In the normal course, he would pay these amounts
+     and they would form part of the price that he charges from the customer
+      (recipient of supply). However, even if the customer makes direct payment
+      of some of such liabilities (of the supplier) to the third parties, and the
+      supplier does not include this amount in his bill, it would still form part of the
+     value of the supply.
+    A point to note here is that amount paid by the recipient to third parties will
+     be added to the value under this clause only when the supplier is under
+      contractual liability to make payment to such third parties and the said
+     payment is in relation to such supply.
+                (6) Grand Biz contracts with ABC Co. to conduct a dealers’ meet.
+                 In furtherance of this, Grand Biz contracts with vendors to deliver
+             goods / services, like water, soft drinks, audio system, projector,
+      catering, flowers etc. at the venue on the stipulated dates at the stipulated
+      prices. Grand Biz is liable to make these payments as contracted.
+     The soft drinks supplier wants payment upon delivery; ABC Co. agrees to pay
+     the bill raised by the soft drinks vendor on Grand Biz on receiving the crates
+      of soft drinks. This amount is not billed by Grand Biz to ABC Co. However, it
+     would be added to the value of supply provided by Grand Biz to ABC Co. for
+     payment of GST.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+6.16       GOODS AND SERVICES TAX
+
+     Valuation of supply made by a component manufacturer using moulds and
+      dies owned by Original Equipment Manufacturers (OEM) sent free of cost
+     (FOC) to him
+      Circular No. 47/21/2018 GST dated 08.06.2018 has  clarified  that while
+      calculating the value of the supply made by the component manufacturer
+     using moulds and dies owned by Original Equipment Manufacturers (OEM)
+     sent free of cost (FOC) to him, the value of such moulds and dies shall not be
+     added to the value of supply made by him because the cost of moulds/dies
+     was not to be incurred by the component manufacturer and thus, does not
+     merit inclusion in the value of supply in terms of section 15(2)(b).
+     However, if the contract between OEM and component manufacturer was for
+     supply of components made by using the moulds/dies belonging to the
+     component manufacturer, but the same have been supplied by the OEM to
+     the component manufacturer on FOC basis, the amortised cost of such
+     moulds/dies shall be added to the value of the components1.
+                   This clarification affirms the view that if an element or a
+                   constituent of a supply, which the supplier is responsible to
+                   incur/provide for the same, is actually paid for or made by
+                  the recipient, the value of such element or constituent of the
+       supply is to be added to the value of the supply being charged by the
+        supplier.  If, however, the supplier is not responsible to incur/provide for
+       such element or constituent and the recipient provides for the same, the
+        respective value is not to be added to the value of supply.
+
+     Incidental expenses [Section 15(2)(c)]
+      Incidental expenses, such  as, commission and packing charged by the
+      supplier or anything else done by the supplier in relation to the supply at the
+     time of or before delivery of goods or supply of services must be added to
+      value.
+
+
+1 Aspects relating to reversal of input tax credit on moulds and dies supplied free of cost, which
+have been clarified in this Circular, have been included in Chapter 7: Input Tax Credit in Module
+2 of this Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+VALUE OF SUPPLY.17            6.17
+
+                (7) Commission: This may be paid to an agent and recovered
+              from the buyer of the goods/services; this is part of the value of
+               the supply.
+      (8) Packing, if charged by the supplier to the recipient, is similarly part of
+     the value of the supply.
+      (9)  Inspection or certification charges is another element that will be
+     added to the value, if incurred before/at the time of supply and billed to the
+      recipient of supply.
+     (10)  Installation and testing charges at the recipient’s site will also be
+     added, being an amount charged for something done by the supplier in
+      respect of the supply at the time of making the supply.
+     (11)  Weighment charges, loading charges, designing charges etc.
+      incurred before/at the time of supply will be added to the value, if billed to
+     the recipient of supply.
+    Outward freight, transit insurance
+    Where the supplier agrees to deliver the goods at the buyer’s premises and
+     arranges for transport and insurance the contract of supply becomes a
+     composite supply; the principal supply being the supply of goods. Therefore,
+     outward freight and transit insurance become part of the value of the
+     composite supply and GST is payable thereon at the same rate as applicable
+      for the relevant goods. However, if the contract for supply is on ex-factory
+      basis where buyer pays the outward freight and insurance, the same will not
+     be included in the value of supply of goods.
+     Interest, late fee or penalty for delayed payment [Section 15(2)(d)]
+     The value for a supply will include not only the base price but also the charges
+      for delay in payment.
+               (12) A supply priced at ` 2,000 is made, with a credit period of 1
+            month for payment. Thereafter interest @ 12% is chargeable. The
+             payment is received after the lapse of two months from the date
+      of supply. The amount of interest @ 12% p.a. (i.e. 1% per month) on ` 2,000
+      for one month after the free credit period of one month, is ` 20. Such interest
+       will be added to the value and thus, the value of supply will work out to be
+     ` 2,020, assuming the interest to be exclusive of GST.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+6.18       GOODS AND SERVICES TAX
+
+            Time of supply for such interest/ late fee/ penalty is the date
+           when such amount is received by the supplier.  Further, since
+      such charges are an addition in the value of supply, same rate of tax as
+       applicable on the main supply of goods / service are applicable on such
+      charges as well.
+
+     Subsidies linked with price [Section 15(2)(e)]
+     Subsidy is a sum of money given to keep the price of a service or commodity
+      low. The subsidy is added to the value of supply of the supplier who receives
+     the subsidy.  It must be noted that only subsidies directly linked to the price
+      of goods/services are added to the value. Blanket subsidy/donation received
+      are not includible in the value. Note that if the subsidy is given by the State
+     or Central Government, it is not to be added to the value of supply.
+                (13) The selling price of a notebook is ` 50. For notebooks sold
+                to students in Government schools, a company uses its CSR funds
+                to pay the seller ` 30, so that the students pay only ` 20 per
+     notebook. The value of the notebook will be ` 50, as this is a non-government
+      subsidy.  If the same subsidy is given/granted by the Central Government or
+      State Government, the value of the notebook would be ` 20.
+     Incentive paid by MeitY to acquiring banks under Incentive scheme for
+     promotion of RuPay Debit Cards and low value BHIM-UPI transactions
+     considered as subsidy
+    Under the Incentive scheme for promotion of RuPay Debit Cards and low
+     value BHIM- UPI transactions, Ministry of Electronics and Information
+     Technology  (MeitY) pays  the  acquiring banks an  incentive  as a
+     percentage of value of RuPay Debit card transactions and low value
+    BHIM-UPI transactions up to ` 2000.  The Payments and Settlements
+     Systems Act, 2007 prohibits banks and system providers from charging
+    any amount from a person making or receiving a payment through
+    RuPay Debit cards or BHIM-UPI.
+     The service supplied by the acquiring banks in the digital payment
+     system in case of transactions through RuPay/BHIM UPI is the same as
+     the service that they provide in case of transactions through any other
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+VALUE OF SUPPLY.19            6.19
+
+     card or mode of digital payment.  The only difference  is that the
+     consideration for such services, instead of being paid by the merchant or
+     the user of the card, is paid by the Central Government in the form of
+      incentive.
+     However, it is not a consideration paid by the Central Government for
+    any service supplied by the acquiring bank to the Central Government.
+     The incentive is in the nature of a subsidy directly linked to the price of
+     the service and the same does not form part of the taxable value of the
+     transaction in view of the provisions of section 2(31) and section 15.
+       It is hereby clarified that incentives paid by MeitY to acquiring banks
+     under the Incentive scheme for promotion of RuPay Debit Cards and low
+     value BHIM-UPI transactions are in the nature of subsidy and thus not
+     taxable2.
+(iii) Exclusion of discounts from value [Section 15(3)]
+     Discounts are a common phenomenon for businesses. Numerous kinds of
+     discounts are given by the suppliers to  their customers namely, trade
+      discounts, cash discounts, quantity/volume/performance discounts etc. Such
+     discounts are reduced from the sale price of the supply. Since, the value of a
+      taxable supply is the transaction value, GST is leviable on the value after
+     deducting the discounts.
+     However, not all discounts offered by the supplier to their customers are
+     allowed as a deduction from the value. Only such discounts which satisfy the
+     conditions prescribed in section 15(3), are allowed as deduction from the
+      value. The essence of the conditions prescribed in section 15(3) is that the
+      price as established at the time of supply should form the basis of value. The
+     discounts which do not fulfill the conditions specified in section 15(3) are not
+     deductible from the value, i.e. GST in such a case is levied on the gross value
+      of the supply without considering the discount.
+     Discounts that are allowed as deduction from the value are as follows:
+      (a)  Discounts given before or at the time of supply and shown in the
+          tax invoice – Example for such discount can be discounts that are
+
+2 Circular No. 190/02/2023 GST dated 13.01.2023
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+6.20       GOODS AND SERVICES TAX
+
+           offered for making the payment at the time of supply  itself.  Such
+           discounts are thus, recoded in the invoice and thus, GST is charged on
+           the gross value less discount duly recorded in the invoice.
+      (b)  Post supply discounts-  It  is not always commercially feasible to
+          determine all discounts before or at the time of supply or record them
+             in the invoice.  For instance, cash discount given for making the
+         payment within a  stipulated  time.   Even though the discount  is
+           established before/at the time of supply, the supplier cannot record
+          such discount in the invoice as he does not know if the buyer will make
+           the payment  within  the  stipulated  time.    Likewise,  in  case  of
+          quantity/volume/performance discount also, the supplier is not aware
+           before/at the time of supply as to whether the buyer would purchase
+           the requisite quantity within the stipulated time. Therefore, in this case
+             also, the discount cannot be recorded in the invoice.  In such cases,
+              initially the GST  is paid on the gross value indicated in the invoice
+           without considering the discount.  The supplier, however, passes the
+           discount to the buyers subsequently by issuing credit notes.
+           Post supply discounts, i.e. the discounts that are given after supply is
+        made are allowed as a deduction from the value of supply  if the
+           following two conditions are satisfied:
+         o    Discount is in terms of an agreement that existed at the time of
+                supply and can be worked out invoice-wise; and
+         o    Proportionate input tax credit is reversed by the recipient - The
+               buyer would have availed input tax credit of GST payable on the
+                gross value specified in the invoice. Thus, when a credit note3 is
+                issued to him by the supplier for the discount, the buyer will
+                 reverse  the  proportionate  credit; consequent  to  which,  the
+                  supplier’s output tax liability will be reduced by the same amount.
+                  If any of the above conditions are not satisfied, the GST liability of
+           supplier cannot be reduced.  The  supplier, however, can issue a
+
+
+3 Credit notes governed under GST law are issued under section 34. Provisions of section 34 are
+discussed in Chapter 9: Tax Invoice; Credit & Debit Notes in Module 2 of this Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+VALUE OF SUPPLY.21            6.21
+
+          commercial credit note4 for the value of discount.  In such a scenario,
+           the buyer will not be required to reverse any input tax credit.
+     The provisions relating to allowability of discount as a deduction from the
+     value have been depicted by way of a diagram given in the next page.
+
+                                                       Yes                       At the time of supply +
+                                        Shown  in  the                                          No
+                                                      invoice   Discounts            Before the supply +
+     given
+                                                                        Discounts
+                                                            In  terms  of an       deducted
+                                               agreement   that      from value                            After the supply             +                                                      existed   at  the        of supply
+                                                    time of+supply
+                                                                  Discounts                                          Can be linked
+                                                                     not                                                       to invoices
+                                                                deducted
+                                                                from value                +
+                                                   Proportionate       of supply
+                                                ITC   reversed
+                                            by recipient
+                                         No
+                                                     Yes
+
+     Allowability of certain specific types of discounts offered by the
+     suppliers  as  clarified  vide  Circular No.  92/11/2019 GST dated
+     07.03.2019
+       (i)   Staggered discounts (‘Buy more, Save more’ offers): In case of
+          staggered  discounts,  rate  of  discount  increases  with  increase  in
+          purchase volume.  For example – One may get 10 % discount for
+          purchases above ` 5,000/-, 20% discount for purchases above ` 10,000/-
+
+
+4 A commercial credit note is not governed under GST law and is issued only for the value of
+discount/reduction in value of the supply, without any GST.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+6.22       GOODS AND SERVICES TAX
+
+         and 30% discount for purchases above ` 20,000/-.  Such discounts are
+         shown on the invoice itself.
+          Such discounts are excluded to determine the value of supply.
+        (ii)   Periodic / year ending discounts/volume discounts: These discounts
+           are offered by the suppliers to their stockists, etc.  For example- Get
+           additional discount of 1% if you purchase 10,000 pieces in a year, get
+           additional discount of 2% if you purchase 15,000 pieces in a year. Such
+           discounts are established in terms of an agreement entered into at or
+           before the time of supply though not shown on the invoice as the actual
+         quantum of such discounts gets determined after the supply has been
+           effected and generally at the year end.  In commercial parlance, such
+           discounts are colloquially referred to as “volume discounts”.  Such
+           discounts are passed on by the supplier through credit notes.
+          Such discounts are excluded to determine the value of supply provided
+           they satisfy the parameters laid down in section 15(3) including the
+            reversal of ITC by the recipient of the supply as is attributable to the
+           discount on the basis of document (s) issued by the supplier.
+        (iii)  Secondary discounts:  These are the discounts which are not known
+            at the time of supply or are offered after the supply is already over. For
+          example, M/s A supplies 10,000 packets of biscuits to M/s B at ` 10/-
+          per packet.   Afterwards, M/s A re-values  it at ` 9/- per packet.
+           Subsequently, M/s A issues credit note to M/s B for ` 1/- per packet.
+          Such secondary discounts shall not be excluded while determining the
+           value of supply as such discounts are not known at the time of supply
+         and the conditions laid down in section 15(3)(b) are not satisfied.
+                 It may be noted that financial / commercial credit note(s) can be issued
+          by the supplier even if the conditions mentioned in section 15(3)(b) are
+          not satisfied. Such credit notes do not include GST, and do not have
+          any impact on value of supply for the purposes of GST.
+            Examples of discount deductible from value of supply
+               (14) Royal Biscuit Co. gives a discount of 30% on the list price to
+       its distributors. Thus, for a carton of Spice biscuit, in the tax invoice the list
+      price is mentioned as ` 200, on which a discount of 30% is given to arrive at
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+VALUE OF SUPPLY.23            6.23
+
+     the final price of ` 140. The value is ` 140, as the discount is allowed at the
+     time of supply and shown in the invoice.
+     Post supply discounts
+     (15)  The agreement of Raju Electrical Appliances with its dealers is that
+     purchase of rice cookers over 1,000 pieces in the Diwali month shall entitle
+    them to discount of 5% per cooker. Therefore, the quantum of discount can
+     be determined only  at the end of Diwali month.  However, since the
+     agreement relating to discount was in existence at the time of supply, and
+     the discount can be worked out for each invoice, such post supply discount
+       will be allowed as a deduction from the value of supply of rice cookers.
+     Raju Electrical Appliances can issue credit note for discount of 5% of the value
+      of goods along with GST and claim adjustment of excess tax paid. The dealer
+     must reverse the proportionate input tax credit on the relevant stock to bring
+         it in line with the reduced tax.
+     (16)  Pink and Blue Pvt. Ltd. (PBPL) sold goods to Orange Pvt. Ltd. (OPL) on
+      15th January at ` 50,000 (exclusive of taxes and discounts) and charged ` 9,000
+      as IGST @ 18%. The terms of supply stipulated that discount @ 2% will be
+     given to OPL if it makes the payment within one month of the supply. OPL
+      avails the input tax credit of ` 9,000 in the month of January and makes the
+     payment for the goods on 10th February. PBPL issues credit note for ` 1180
+      [` 1,000 for value of discount and ` 180 for proportionate IGST leviable
+     thereon] to OPL on 11th February. After receiving credit note, OPL reverses the
+      input tax credit of ` 180 attributable to the discount given by the PBPL. PBPL
+     can reduce its GST liability of the month of February by ` 180. OPL would have
+     paid ` 57,820 (` 50,000 + ` 9,000 - ` 1,000 - ` 180) to PBPL on 10th February.
+    Examples of discount not deductible from value of supply
+     (17) In the above example, if the terms of supply did not provide for discount
+   @ 2% for payment within one month but PBPL offers such discount to OPL at
+     the time of payment after negotiation, the discount will not be allowed as a
+     deduction from the value. PBPL will issue a commercial credit note for only
+     the value of discount, i.e. for ` 1,000. OPL will not reverse any input tax credit
+     and PBPL will also not be able to reduce its GST liability for the month of
+      February. In this case, OPL would pay ` 58,000 (` 50,000 + ` 9,000 - ` 1,000)
+      to PBPL on 10th February.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+6.24       GOODS AND SERVICES TAX
+
+               (18) A company announces turnover discounts after reviewing
+                dealer performance during the year. The discounts are based on
+              performance slabs and are given as cash-back. As these discounts
+     were not known at the time of supply of the goods, they will not be deducted
+     from value of those goods. Hence, the company will not be able to adjust
+     excess tax paid from its tax liability.
+    No Claim Bonus permissible as deduction under section 15(3)(a) for the
+     purpose of calculation of value of supply of the insurance services
+     provided by insurance company to insured
+     The issue which arose for clarification was whether ‘No Claim Bonus’
+     (NCB) provided by the insurance company to the insured can be
+     considered as an admissible discount for the purpose of determination of
+     value of supply of insurance service provided by the insurance company
+     to the insured.
+     The insurance companies make the disclosure of the fact of availability
+     of discount in form of NCB, subject to certain conditions, to the insured
+      in the insurance policy document itself and also provide the details of
+     the NCB in the invoices also. The pre-disclosure of NCB amount in the
+     policy documents and specific mention of the discount in form of NCB in
+     the invoice is in consonance with the conditions laid down for deduction
+     of discount from the value of supply under section 15(3)(a).
+     Since as per section 15(3)(a), value of supply shall not include any
+     discount which is given before or at the time of supply if such discount
+     has been duly recorded in the invoice issued in respect of such supply, it
+       is, therefore, clarified that NCB is a permissible deduction under said
+     section for the purpose of calculation of value of supply of the insurance
+      services provided by the insurance company to the insured.
+     Accordingly, where the deduction on account of NCB is provided in the
+     invoice issued by the insurer to the insured, GST shall be leviable on
+     actual insurance premium amount, payable by the policy holders to the
+      insurer, after deduction of NCB mentioned on the invoice5.
+
+
+5 Circular No. 186/18/2022 GST dated 27.12.2022
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+VALUE OF SUPPLY.25            6.25
+
+ILLUSTRATION 1
+
+BW Ltd. manufactures tobacco products.   It has provided the following particulars
+relating to goods sold by it to CF Ltd.
+
+   Particulars                                  `
+   Price of the goods (exclusive of all taxes/duties and discounts)          60,000
+   Excise duty                                                         6,000
+   Packing charges                                                    2,000
+   Freight (arranged by BW Ltd.)                                    1600
+   Total amount billed to CF Ltd. before any discount                    69,600
+   Discount @ 2% of the price of goods recorded in the invoice
+
+The final amount charged from CF Ltd. is ` 69,600 less discount @ 2%.
+Determine the value of taxable supply made by BW Ltd.
+
+ANSWER
+                 Computation of value of taxable supply
+
+                                                                    `  Particulars
+  Price of the goods (exclusive of taxes and discounts)                    60,000
+  Add: Excise duty [Note 1]                                               6,000
+       Packing charges [Note 2]                                         2,000
+        Freight [Note 3]                                                  1,600
+  Less: Discount @ 2% on ` 60,000 [Note 4]                                  (1,200)
+ Value of taxable supply                                         68,400
+Notes:
+(1)   As per section 15(2)(a), any taxes, duties, cesses, fees and charges other than
+     CGST, SGST, UTGST, IGST and GST Compensation Cess, if charged separately
+     by the supplier should be included in the value of supply. Thus, excise duty
+     charged separately has been added in the value.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+6.26       GOODS AND SERVICES TAX
+
+(2)   As per section  15(2)(c), incidental expenses, including commission and
+      packing, charged by the supplier to the recipient of a supply should be
+     included in the value. Thus, packing charges have been added in the value.
+(3)   Since transport is arranged by the supplier, the contract of supply becomes a
+     composite supply; the principal supply being the supply of goods. Therefore,
+      freight becomes part of the value of the composite supply.
+(4)   As per section 15(3)(a), the value of the supply does not include any discount
+     which is given before or at the time of the supply if such discount has been
+      duly recorded in the invoice issued in respect of such supply. Therefore, since
+      in this case, discount is known at the time of supply and recorded in the
+      supply, it is deductible from the value.
+
+ILLUSTRATION 2
+SA Ltd. is a manufacturer of biscuits. The price of a 200 gm pack of biscuit sold by
+SA Ltd. is `30.  It has received price linked subsidy of `5 per pack of biscuit sold from
+NM Ltd. as part of NM Ltd.’s CSR activity. SA Ltd. supplied 1000 packs of biscuits @
+` 25 per pack to one of its wholesalers namely, MA Pvt. Ltd. during a tax period.
+Loading charges of ` 1200 have also been charged separately from MA Pvt. Ltd. MA
+Pvt Ltd. delayed the payment of consideration and thus, paid ` 5,000 as interest (no
+separate amount of GST is paid on the interest by MA Ltd.) in the next tax period.
+Assume the rate of GST to be 18%.
+Determine the value of taxable supply made by SA Ltd.
+ANSWER
+                Computation of value of taxable supply
+
+                                                                    `  Particulars
+  Price of 1,000 packs of biscuits @ ` 25                                25,000
+  Add: Subsidy received from NM Ltd. @ ` 5 for 1000 packs of         5,000
+        biscuits [Note 1]
+       Loading charges [Note 2]                                        1,200
+        Interest for delay  in payment of consideration [Note 3]          4,237
+       (rounded off)
+  Value of taxable supply                                          35,437
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+VALUE OF SUPPLY.27            6.27
+
+Notes:
+(1)   As per section 15(2)(e), subsidies directly linked to the price excluding
+      subsidies provided by the Central Government and State Governments should
+     be included in the value.
+(2)   As per section  15(2)(c), incidental expenses, including commission and
+      packing, charged by the supplier to the recipient of a supply and any amount
+     charged for anything done by the supplier in respect of the supply of goods
+     or services or both at the time of, or before delivery of goods or supply of
+      services should be included in the value.
+(3)   As per section 15(2)(e), interest or late fee or penalty for delayed payment of
+     any consideration for any supply should be included in the value. However,
+     as per section 12(6), the time of supply to the extent it relates to an addition
+      in the value of supply by way of interest is the date when such interest is
+      received.  In the given case, since GST has not been paid separately on the
+      interest, the same is inclusive of GST. Thus, the value has been computed by
+                                         Interest              making back calculations            × 100   . The time of supply in relation                                                                             100 + tax rate             
+      to the addition in value by way of such interest will fall in the next tax period
+    on the date when the same is received.
+B.   Supplies where value cannot be determined u/s 15(1) [Sub-section
+     (4) of section 15]
+     Section 15(4) lays down that where sub-section (1) is not applicable, i.e. if the
+      transaction is with a related party, and/or price is not the sole consideration
+      for the supply of goods / services, then the value will be determined in the
+     manner as prescribed (see the definition of ‘prescribed’), which means as
+      stipulated in the rules for valuation, i.e. Chapter IV: Determination of Value of
+     Supply of CGST Rules.  Rules 27 to 31 of the CGST Rules provide the
+     mechanism to determine value in all such scenarios. These rules are discussed
+     under Heading 4 in the ensuing pages of this Chapter.
+C.   Supplies of specified categories of goods or services [Sub-section
+     (5) of section 15]
+     Section 15(5) lays down that in respect of certain notified supplies also, the
+     value will be determined in the manner as stipulated in the rules for valuation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+6.28       GOODS AND SERVICES TAX
+
+      Thus, the methodology of transaction value will not apply for such notified
+      categories of transactions; instead the rules will prescribe a different method
+      of determining value for these notified transactions.  At present, the rules
+     have prescribed a different valuation method for
+         (i)    the service of purchase or sale of foreign currency including money
+           changing,
+         (ii)   the service of booking air tickets by an air travel agent,
+         (iii)   life insurance service
+        (iv)  buying and selling of second hand goods,
+       (v)   vouchers, token, coupons or stamps (other than postage stamps)
+          redeemable against goods or services;
+        (vi)   services provided without consideration between  distinct persons
+          under GST law that are different units of the same legal entity.
+        (vii)  supply in case of lottery, betting, gambling and horse racing
+The scheme of valuation as provided under section 15 is depicted by way of a
+diagram given below:
+
+            Value of supply under
+                   section 15
+
+
+         Whether price is the sole       No        Supply to be valued as per
+           consideration for supply?                 Chapter IV: Determination of
+                                                  Value of Supply of CGST Rules
+                        Yes
+         Whether supplier and the       Yes
+              recipient are related?
+
+                      No
+          Whether the supply is a         Yes
+           notified supply u/s 15(5)?
+
+                      No
+     Assessable Value = Transaction Value u/s 15(1)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+VALUE OF SUPPLY.29            6.29
+
+    4. RULES FOR VALUATION OF SUPPLY OF
+     GOODS AND/OR SERVICES
+
+        CHAPTER IV: DETERMINATION OF VALUE OF
+         SUPPLY OF CGST RULES
+
+  Rule 27   Value of supply of goods or services where the consideration is
+            not wholly in money.-
+  Sub-rule  Clause                        Particulars
+           Where the supply of goods or services is for a consideration not wholly
+               in money, the value of the supply shall,-
+                   (a)    be the open market value of such supply;
+
+                   (b)       if the open market value is not available under clause (a),
+                    be the sum total of consideration in money and any such
+                         further  amount  in  money  as   is  equivalent  to  the
+                       consideration not in money, if such amount is known at the
+                      time of supply;
+                     (c)       if the value of supply is not determinable under clause (a)
+                        or clause (b), be the value of supply of goods or services or
+                     both of like kind and quality;
+                   (d)       if the value is not determinable under clause (a) or clause
+                           (b) or clause (c), be the sum total of consideration in money
+                   and such further amount in money that is equivalent to
+                       consideration  not  in  money  as  determined  by  the
+                        application of rule 30 or rule 31 in that order.
+                 Illustration:
+                (1) Where a new phone is supplied for twenty thousand rupees along
+                  with the exchange of an old phone and if the price of the new
+               phone without exchange  is twenty four thousand rupees, the
+               open market value of the new phone is twenty four thousand
+                   rupees.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+6.30       GOODS AND SERVICES TAX
+
+                (2) Where a laptop is supplied for forty thousand rupees along with
+                  the barter of a printer that is manufactured by the recipient and
+                  the value of the printer known at the time of supply  is four
+                thousand rupees but the open market value of the laptop is not
+                known, the value  of the supply  of the laptop  is  forty four
+                thousand rupees.
+  Rule 28   Value of supply of goods or services or both between distinct or
+             related persons, other than through an agent.-
+            The value of the supply of goods or services or both between distinct
+             persons as specified in sub-section (4) and (5) of section 25 or where
+              the supplier and recipient are related, other than where the supply is
+          made through an agent, shall-
+                   (a)    be the open market value of such supply;
+                   (b)       if the open market value is not available, be the value of
+                      supply of goods or services of like kind and quality;
+                     (c)       if the value is not determinable under clause (a) or (b), be
+                       the value as determined by the application of rule 30 or rule
+                        31, in that order:
+             Provided that where the goods are intended for further supply as such
+            by the recipient, the value shall, at the option of the supplier, be an
+           amount equivalent to ninety percent of the price charged for the
+             supply of goods of like kind and quality by the recipient to his
+             customer not being a related person:
+             Provided further that where the recipient is eligible for full input tax
+                 credit, the value declared in the invoice shall be deemed to be the
+            open market value of the goods or services.
+  Rule 29   Value of supply of goods made or received through an agent.-
+            The value of supply of goods between the principal and his agent
+               shall-
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+VALUE OF SUPPLY.31            6.31
+
+                   (a)    be the open market value of the goods being supplied, or at
+                       the option of the supplier, be 90 percent of the price charged
+                          for the supply of goods of like kind and quality by the
+                         recipient to his customer not being a related person, where
+                       the goods are intended  for further supply by the said
+                          recipient.
+                           Illustration: A principal supplies groundnut to his agent and
+                       the agent is supplying groundnuts of like kind and quality
+                         in subsequent supplies at a price of five thousand rupees per
+                        quintal on the day of the supply. Another independent
+                        supplier is supplying groundnuts of like kind and quality to
+                       the said agent at the price of four thousand five hundred
+                   and fifty rupees per quintal. The value of the supply made
+                     by the principal shall be four thousand five hundred and
+                               fifty rupees per quintal or where he exercises the option, the
+                      value shall be 90 percent of five thousand rupees i.e., four
+                     thousand five hundred rupees per quintal.
+                   (b)    where the value of a supply  is not determinable under
+                       clause (a), the same shall be determined by the application
+                         of rule 30 or rule 31 in that order.
+  Rule 30   Value of supply of goods or services or both based on cost.-
+           Where the value of a supply of goods or services or both  is not
+             determinable by any of the preceding rules of this Chapter, the value
+               shall be one hundred and ten percent of the cost of production or
+            manufacture or the cost of acquisition of such goods or the cost of
+              provision of such services.
+  Rule 31   Residual method for determination of value of supply of goods
+             or services or both.-
+           Where the value of supply of goods or services or both cannot be
+             determined under rules 27 to 30, the same shall be determined using
+             reasonable means consistent with the principles and the general
+              provisions of section 15 and the provisions of this Chapter:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+6.32       GOODS AND SERVICES TAX
+
+             Provided that in the case of supply of services, the supplier may opt
+                for this rule, ignoring rule 30.
+  Rule 31A  Value of supply in case of lottery, betting, gambling and horse
+             racing
+     (1)     Notwithstanding anything contained in the provisions of this Chapter,
+              the value in respect of supplies specified below shall be determined
+               in the manner provided hereinafter.
+     (2)     The value of supply of lottery shall be deemed to be 100/128 of the
+              face value of ticket or of the price as notified in the Official Gazette
+            by the Organising State, whichever is higher.
+              Explanation:  - For the purposes of  this sub-rule, the expression
+             “Organising State” has the same meaning as assigned to it in clause
+                    (f) of sub-rule (1) of rule 2 of the Lotteries (Regulation) Rules, 2010.
+     (3)     The value of supply of actionable claim in the form of chance to win
+               in betting, gambling or horse racing in a race club shall be 100% of
+              the face value of the bet or the amount paid into the totalisator.
+  Rule 32   Determination of value in respect of certain supplies.-
+  Sub-rule   Clause                        Particulars
+     (1)     Notwithstanding anything contained in the provisions of this Chapter,
+              the value in respect of supplies specified below shall, at the option of
+              the supplier, be determined in the manner provided hereinafter.
+     (2)     The value of supply of services in relation to the purchase or sale of
+              foreign currency, including money changing, shall be determined by
+              the supplier of services in the following manner, namely:-
+                   (a)     for a currency, when exchanged from, or to, Indian Rupees,
+                       the value shall be equal to the difference in the buying rate
+                        or the selling rate, as the case may be, and the Reserve Bank
+                         of India reference rate  for that currency at that time,
+                        multiplied by the total units of currency:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+VALUE OF SUPPLY.33            6.33
+
+                      Provided that in case where the Reserve Bank of India
+                        reference rate for a currency is not available, the value shall
+                    be one percent of the gross amount of Indian Rupees
+                      provided or received by the person changing the money:
+                      Provided further that in case where neither of the currencies
+                    exchanged is Indian Rupees, the value shall be equal to one
+                       percent  of the  lesser  of the two amounts the person
+                     changing the money would have received by converting any
+                         of the two currencies into Indian Rupee on that day at the
+                        reference rate provided by the Reserve Bank of India.
+                      Provided also that a person supplying the services may
+                         exercise the option to ascertain the value in terms of clause
+                           (b)  for a  financial year and such option  shall not be
+                    withdrawn during the remaining part of that financial year.
+                   (b)     at the option of the supplier of services, the value in relation
+                        to  the  supply  of  foreign  currency,  including money
+                      changing, shall be deemed to be-
+                                     (i)   one  percent  of  the  gross  amount  of  currency
+                         exchanged for an amount up to one lakh rupees,
+                              subject to a minimum amount of two hundred and
+                                       fifty rupees;
+                                     (ii)  one thousand rupees and half of a percent of the gross
+                       amount  of  currency  exchanged  for  an amount
+                           exceeding one lakh rupees and up to ten lakh rupees;
+                        and
+                                     (iii)   five thousand and five hundred rupees and one tenth
+                               of a  percent  of  the  gross amount  of  currency
+                         exchanged for an amount exceeding ten lakh rupees,
+                              subject to a maximum amount of  sixty thousand
+                              rupees.
+     (3)     The value of the supply of services in relation to booking of tickets for
+               travel by air provided by an air travel agent shall be deemed to be an
+           amount calculated at the rate of five percent of the basic fare in the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+6.34       GOODS AND SERVICES TAX
+
+             case of domestic bookings, and at the rate of ten percent of the basic
+               fare in the case of international bookings of passage for travel by air.
+              Explanation.- For the purposes of this sub-rule, the expression “basic
+               fare” means that part of the air fare on which commission is normally
+             paid to the air travel agent by the airlines.
+     (4)     The value of supply of services in relation to life insurance business
+               shall be,-
+                   (a)    the gross premium charged from a policy holder reduced by
+                       the amount allocated for investment, or savings on behalf
+                         of the policy holder, if such an amount is intimated to the
+                         policy holder at the time of supply of service;
+                   (b)     in case of single premium annuity policies other than (a),
+                       ten percent of single premium charged from the policy
+                        holder; or
+                     (c)     in  all other cases, twenty  five percent of the premium
+                     charged from the policy holder in the first year and twelve
+                   and a half percent of the premium charged from the policy
+                       holder in subsequent years:
+             Provided that nothing contained in this sub-rule shall apply where
+              the entire premium paid by the policy holder is only towards the risk
+              cover in life insurance.
+     (5)     Where a taxable supply is provided by a person dealing in buying and
+                selling of second hand goods i.e., used goods as such or after such
+            minor processing which does not change the nature of the goods and
+            where no input tax credit has been availed on the purchase of such
+              goods, the value of supply shall be the difference between the selling
+               price and the purchase price and where the value of such supply is
+              negative, it shall be ignored:
+             Provided that the purchase value  of goods repossessed from a
+              defaulting borrower, who is not registered, for the purpose of recovery
+               of a loan or debt shall be deemed to be the purchase price of such
+            goods by the defaulting borrower reduced by five percentage points
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+VALUE OF SUPPLY.35            6.35
+
+                for every quarter or part thereof, between the date of purchase and
+              the date of disposal by the person making such repossession.
+     (6)     The value of a token, or a voucher, or a coupon, or a stamp (other
+             than postage stamp) which is redeemable against a supply of goods
+              or services or both shall be equal to the money value of the goods or
+               services or both redeemable against such token, voucher, coupon, or
+             stamp.
+     (7)     The value  of taxable services provided by such class of service
+              providers  as may  be  notified  by  the  Government,  on  the
+            recommendations of the Council, as referred to in paragraph 2 of
+             Schedule I of the said Act between distinct persons as referred to in
+               section 25, where input tax credit is available, shall be deemed to be
+               NIL.
+  Rule 33   Value of supply of services in case of pure agent.
+             Notwithstanding anything contained in the provisions of this Chapter,
+              the expenditure or costs incurred by a supplier as a pure agent of the
+               recipient of supply shall be excluded from the value of supply, if all
+              the following conditions are satisfied, namely,-
+                         (i)     the supplier acts as a pure agent of the recipient of the
+                        supply, when he makes the payment to the third party on
+                       authorisation by such recipient;
+                         (ii)    the payment made by the pure agent on behalf of the
+                         recipient of supply has been separately indicated in the
+                        invoice issued by the pure agent to the recipient of service;
+                   and
+                         (iii)    the supplies procured by the pure agent from the third party
+                      as a pure agent of the recipient of supply are in addition to
+                       the services he supplies on his own account.
+              Explanation.- For the purposes of this rule, the expression “pure
+             agent” means a person who-
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+6.36       GOODS AND SERVICES TAX
+
+                   (a)     enters into a contractual agreement with the recipient of
+                      supply to act as his pure agent to incur expenditure or costs
+                         in the course of supply of goods or services or both;
+                   (b)     neither intends to hold nor holds any title to the goods or
+                         services or both so procured or supplied as pure agent of the
+                         recipient of supply;
+                     (c)    does not use for his own interest such goods or services so
+                       procured; and
+                   (d)     receives only the actual amount incurred to procure such
+                    goods or services in addition to the amount received for
+                      supply he provides on his own account.
+                Illustration.- Corporate services firm A is engaged to handle the legal
+            work pertaining to the incorporation of Company B. Other than its
+               service fees, A also recovers from B, registration fee and approval fee
+                for the name of the company paid to the Registrar of Companies. The
+               fees charged by the Registrar of Companies for the registration and
+             approval of the name are compulsorily levied on B. A is merely acting
+             as a pure agent in the payment of those fees. Therefore, A’s recovery
+               of such expenses is a disbursement and not part of the value of supply
+          made by A to B.
+  Rule 34   Rate of exchange of currency, other than Indian rupees, for
+            determination of value.-
+  Sub-rule                             Particulars
+     (1)     The rate of exchange for determination of value of taxable goods shall
+            be the applicable rate of exchange as notified by the Board under
+               section 14 of the Customs Act, 1962 for the date of time of supply of
+             such goods in terms of section 12 of the Act.
+     (2)     The rate of exchange for determination of value of taxable services
+               shall be the applicable rate of exchange determined as per the
+              generally accepted accounting principles for the date of time of
+             supply of such services in terms of section 13 of the Act.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+VALUE OF SUPPLY.37            6.37
+
+  Rule 35   Value of supply inclusive of integrated tax, central tax, State
+              tax, Union territory tax.-
+           Where the value of supply is inclusive of integrated tax or, as the case
+          may be, central tax, State tax, Union territory tax, the tax amount
+               shall be determined in the following manner, namely,-
+            Tax amount = (Value inclusive of taxes X tax rate in % of IGST or, as
+              the case may be, CGST, SGST or UTGST) ÷ (100+ sum of tax rates, as
+               applicable, in %)
+ Explanation.- For the purposes of the provisions of this Chapter, the
+ expressions-
+     (a)     “open market value” of a supply of goods or services or both means
+              the full value in money, excluding the integrated tax, central tax, State
+                tax, Union territory tax and the cess payable by a person in a
+               transaction, where the supplier and the recipient of the supply are not
+               related and the price is the sole consideration, to obtain such supply
+              at the same time when the supply being valued is made;
+     (b)      “supply of goods or services or both of like kind and quality” means
+            any other supply of goods or services or both made under similar
+             circumstances that, in respect of the characteristics, quality, quantity,
+              functional components, materials, and the reputation of the goods or
+               services or both  first mentioned,  is the same  as, or  closely or
+               substantially resembles, that supply of goods or services or both.
+
+    ANALYSIS
+
+When a supply cannot be valued in terms of section 15(1) as also in case of certain
+specified supplies, valuation rules need to be resorted to. Rules 27-35 of Chapter
+IV of CGST Rules provide the different methods of valuation in such scenarios.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+6.38       GOODS AND SERVICES TAX
+
+Rules 27 to 35 may be categorized as under for the purpose of discussion:
+
+    Rules  27  to  29                                   Valuation of supplies involving non-monetary    supplemented by                                   consideration or related parties    rules 30 and 31
+
+    Rules 31A and 32              Valuation of specified supplies
+
+                                   Valuation of supply made as pure agent of the         Rule 33                                     recipient
+
+     Rules 34 and 35            Other rules relevant for valuation
+
+
+Rule 27 - Value of supply of goods or services where the consideration
+is not wholly in money
+
+If the consideration for a supply of goods and /or services is wholly or partly in
+non-monetary terms, the supply is valued in accordance with provisions of rule 27.
+
+          Examples of supplies valued as per rule 27
+
+        •   Barter transaction
+        •   Exchange transaction
+        •   Permanent transfer or disposal of business assets where
+           input tax credit has been availed on such assets
+
+The methods provided in rule 27 are to be used in order of sequence, i.e. the
+one coming later in the sequence is applicable only if the previous method(s)
+are not applicable.
+Rule 27 lays down the following methods to value a supply when the consideration
+thereof is not solely in terms of money:
+(a)   The open market value of such supply;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+VALUE OF SUPPLY.39            6.39
+
+(b)     If open market value of the supply is not known, the consideration in money
+      plus the money equivalent of the non-money consideration, if such amount
+        is known at the time of supply;
+(c)     If the value cannot be determined under the previous two clauses, the value
+      of supply of goods and/or services of like kind and quality;
+(d)    Finally,  if the value is not ascertainable by using the above methods, the
+     consideration  in money plus the money equivalent of the non-money
+      consideration, as worked out based on cost of the supply plus 10% mark-up
+      [Rule 30-Cost based valuation] or by other reasonable means [Rule 31-Best
+     Judgement method] in that sequence.
+        First, rule 30 is to be applied, if that is not feasible, rule 31 is to be applied.
+     However, in case of supply of services, the supplier has an option to skip rule 30
+     and directly apply rule 31.  [Rule 30 regarding cost-based valuation and rule 31
+      regarding reasonable means are discussed in subsequent pages of this Chapter].
+To understand the method of valuation provided in the above rule, the concepts of
+‘Open Market Value’ and ‘Supply of like kind and quality’ need to be understood first.
+
+                                               What is
+                                               open market
+
+        Open market value means
+         full value of money excluding taxes under GST law,
+         payable by a person to obtain such supply
+         at the time when supply being valued is made,
+         provided such supply is between unrelated persons and
+         price is the sole consideration for such supply.
+                What is supply of like kind
+                       and quality?
+
+
+          Supply of like kind & quality means
+        any other supply made under similar circumstances,
+        which is same or closely or substantially resembles
+         in   respect  of   characteristics,   quality,   quantity,
+               functionality, reputation
+         to the supply being valued.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+6.40       GOODS AND SERVICES TAX
+
+          (19)  X Pvt. Ltd. offers a new mobile phone worth ` 20,000/- to Y in
+         exchange of old mobile phone and cash payment of ` 16,000. Exchange
+          value of old phone lowers the price of a new phone. The known market
+value of the new phone (without exchange of old phone), i.e. the open market value
+is ` 20,000, which is the taxable value in this case.
+(20) Laptop is manufactured and supplied for ` 40,000.  Further, a printer valued
+` 4,000 is also received in the barter. Market value of the laptop is not known.  Its
+taxable value will be ` 44,000.
+
+                               Monetary consideration + Money value of non-
+                               monetary consideration ⇒ computed on the
+                                      basis of 110% of cost of supply or by other
+                                   reasonable means
+
+                            Value of supply of like kind and
+                               quality
+
+           Monetary consideration + Money
+             value of non-monetary
+             consideration
+
+  Open market value
+
+
+Rule 28 - Value of supply of goods or services or both between distinct
+or related persons, other than through an agent
+
+A person who is under influence of another person is called a related person like
+members of the same family (See definition of family) or subsidiaries of a group
+company etc.  Under GST law various categories of related persons have been
+specified and as relation may influence the price between two related persons
+therefore, special valuation rule has been framed to arrive at the taxable value of
+transactions between related persons.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+VALUE OF SUPPLY.41            6.41
+
+Rule 28 deals with transactions between related persons [See definition of related
+person in Explanation to section 15] and between ‘distinct persons’ as specified
+under section 25, which means different registrations/establishments of the same
+entity (with same PAN) [Refer Chapter 8: Registration in Module 2 of this Study
+Material for a detailed discussion on the concept of ‘distinct persons’].  This rule,
+however, does not provide the value of the supply made through an agent.
+It may be recollected that a supply between related persons or between distinct
+persons as specified in section 25, when made in the course or furtherance of
+business  is treated as supply even  if made without consideration in terms of
+paragraph 2 of Schedule I of CGST Act. Thus, rule 28 provides the value of such
+kind of supplies when the same are made for a consideration as well as when
+the same are made without consideration.
+The concept of related person has been explained by way of diagram given in the
+preceding pages.
+        Example of related person
+          (21)  Mr. A and Mr. B are legally recognised partners in the partnership
+          firm A&B Co. Mr. A & Mr. B are related persons. Thus, a transaction of
+supply between Mr. A & Mr. B in the course or furtherance of business is treated
+as supply even if made without consideration.
+
+         A person who has obtained or is required to obtain more than     ✪
+         one registration, whether in one State or Union territory or more
+  than one State or Union territory shall, in respect of each such registration,
+  be treated as distinct persons for the purposes of this Act [Section 25(4)].
+          a person who has obtained or is required to obtain registration ✪Where
+  in a State or Union territory in respect of an establishment, has an
+  establishment in another State or Union territory, then such establishments
+  shall be treated as establishments of distinct persons for the purposes of
+  this Act. [Section 25(5)].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+6.42       GOODS AND SERVICES TAX
+
+           Examples of supplies valued as per rule 28
+
+        •   Intra-State  stock  transfer  of goods between  different
+            registrations of an entity under same PAN
+        •   Inter-State  stock  transfer  of goods between  different
+            registrations of an entity under same PAN
+        •   Import  of  services by  a company from  a  holding/
+           subsidiary company in course or furtherance of buisness
+The methods of valuation of transactions between related persons and between
+distinct persons, in the sequence in which they are to be applied, are as follows:
+(a)   the open market value of such supply;
+(b)     if open market value is not available, the
+     value of supply of goods or services of
+       like kind and quality;
+(c)     if value cannot be determined under the
+     above methods, it must be worked out
+     based on the cost of the supply plus
+    10% mark-up [Rule 30 regarding cost-
+     based valuation has been discussed in
+     subsequent pages of this Chapter) or by
+     other reasonable means, in that sequence [Rule 31 regarding reasonable
+    means has been discussed in subsequent pages of this Chapter].
+
+  If the goods are intended to be supplied AS SUCH by the recipient
+
+ Value = 90% of the price charged for the supply of goods of like kind
+          and quality by the recipient to his unrelated customer
+ However, it is not mandatory for the supplier to adopt this method of valuation.
+ He can opt to value his goods in accordance with the valuation methods
+  prescribed in clause (a), (b) or (c) above.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+VALUE OF SUPPLY.43            6.43
+
+        It is important to note that as per valuation
+      rule 32(7), the value of taxable services
+     provided  by  notified  class  of  service
+      providers,  without  any   consideration,
+     between distinct persons is NIL,  if ITC is
+      available.
+
+Rule 32 has been discussed in detail in subsequent pages of this Chapter.  The
+valuation mechanism prescribed in rule 28 read with rule 32(7) has been explained
+by way of a flow diagram in the ensuing pages.
+Value declared is accepted when recipient is eligible for full input tax credit
+As mentioned in sticky note on previous page, where the recipient is eligible for full
+input tax credit, the value declared in the invoice shall be deemed to be the open
+market value of goods or services. This provision is applicable only in following cases:
+(a)    distinct person as specified in section 25(4) and 25(5) of CGST Act i.e. where same
+     person with single PAN has taken separate registration in different States or even
+       in the same State
+(b)   related person.
+The rationale behind this simplified valuation is that since the recipient can take entire
+input tax credit, there cannot be any intention to evade tax.  It enables ‘ease of doing
+business’ as it simplifies the valuation in case of transactions between related persons
+and reduces disputes and litigation.
+          (22)  ABC Pvt. Ltd., a registered supplier, is a manufacturer of taxable
+         goods.  The company’s factory is located in Noida, Uttar Pradesh and
+         depot in Gurugram, Haryana. Gurugram depot is eligible for full ITC.
+Noida factory agrees to supply goods worth ` 1,00,000 to a customer of Gurugram
+depot (on its behalf). Noida factory ships the goods directly to the customer in
+Gurugram and bills the Gurugram depot. Noida factory has the option of billing to
+Gurugram depot at ` 90,000 (90% of ` 1,00,000).   It can also bill the Gurugram
+depot on actual cost as Gurugram depot is eligible for full ITC.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+6.44       GOODS AND SERVICES TAX
+
+In the same scenario, if goods are replaced by services, the option of valuing the
+services @ 90% of value charged by the recipient to unrelated customer will not be
+available.  However, since recipient is eligible for full ITC, the value of supply of
+service declared in the invoice shall be taken as open market value (taxable value).
+
+Rule 29 – Value of supply of goods or received through an agent
+
+Supply of goods between principal and agent6 [Refer definitions of principal and
+agent under Heading 2: Relevant Definitions] is valued by the following methods,
+applied in sequence:
+(a)  Open  market  value  of  goods  being
+     supplied                                       This rule  is applicable
+                                                 only  for valuation of                       OR                                                supply    of   goods
+    90% of the price charged for the supply of      between principal and
+     goods  of  like kind and  quality by the       agent.
+      recipient to his unrelated customer
+      [Supplier has the option to choose either of the two methods]
+               (23) ABC Ltd. supplies goods to its agent and the agent is supplying
+             goods of like kind and quality in subsequent supplies at a price of
+              ` 1,000 per unit on the day of the supply.
+    ABC Ltd. also supplies goods to an unrelated customer at the price of ` 950 per
+      unit on the day of the supply. The value of the supply made by ABC Ltd. to agent
+       shall be ` 950 per unit or where it exercises the option, the value shall be 90% of
+     ` 1,000 i.e., ` 900 per unit.
+(b)   In case value cannot be determined under (a) then following values have to
+     be considered sequentially to determine the taxable value:
+           i.    Value of supply based on cost i.e. cost of supply plus 10% mark-up
+
+
+6 The relationship between principal agent has been discussed in detail in Chapter 1: Supply under
+GST in this Module of this Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+VALUE OF SUPPLY.45            6.45
+
+           ii.    Value of supply determined by using reasonable means consistent with
+            principles & general provisions of GST law (Best Judgement Method)
+It may be noted that only the supply of goods between principal and agent is
+valued vide this rule. Therefore, supply of services like commission-based services
+provided by a commission agent for procuring orders, undertaking market research
+etc. are not valued as per rule 29.
+
+             Examples of supplies valued as per rule 29
+
+             • Supply of goods by a principal to his agent when
+            the agent supplies the goods on behalf of the
+              principal
+             • Supply of goods by an agent to his principal when
+            the agent receives the goods on behalf of the
+              principal
+
+
+    1
+          Open
+          Market
+           Value
+
+                                           3    Best
+        OR                2                       Judgement                                 110%
+                                           of cost              Method
+    1                                    of                       (value using           90% of the price                                          supply                 reasonable              charged for the                                                             means)             goods  of   like
+               kind and quality
+             by the recipient
+               to his unrelated
+              customer
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+6.46       GOODS AND SERVICES TAX
+
+Rule 30 – Value of supply of goods or services or both based on cost
+
+If the value of a supply of goods and/or services cannot be worked out by the
+foregoing  methods,   its  value  will  be 110%  of  the  cost  of  production/
+manufacture/acquisition of such goods or cost of provision of such services.
+
+Rule 31 – Residual method for determination of value of supply of
+goods or services or both [Best Judgement Method]
+
+The supplier of goods needs to sequentially follow rules 27 to 30 before valuing
+goods as per this residual rule 31. Service providers, however, have the option of
+valuing services as per rule 30 or rule 31 after sequentially following rules 27 to 29.
+The residual method consists of determination of value by using reasonable means
+consistent with the principles and general provisions of section 15 and these Rules.
+
+ Supplier
+     of        Rule 27      Rule 28      Rule 29      Rule 30      Rule 31
+  goods
+
+ Supplier
+    of        Rule 27      Rule 28      Rule 29      Rule 30      Rule 31
+  service
+
+          (24) A cosmetics company buys its products from a subcontractor, who
+           supplies “testers” of each product, to be placed in retail outlets, free of
+          charge. These are of different size from the product that is sold.
+The company and the sub-contractor are related persons. The sub-contractor does
+not have details of cost of acquisition of such testers. As none of the methods in rules
+27 to 30 will work for valuing these testers, the value will have to be determined by
+using reasonable means consistent with the principles and general provisions of
+section 15 and the Rules.
+A possible method may be pro rata reduction of the price based on difference in size
+from the product that is sold.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+VALUE OF SUPPLY.47            6.47
+
+  Taxable supply made between related
+  persons and/or between distinct persons
+
+
+  Whether the supply is of a service provided by notified
+  service providers between distinct persons without      YES                                                      Value= NIL  any consideration and ITC is available?
+
+        NO
+                             Whether  the  supplier Whether theNOsupply is of                                 Value= 90%                               has  opted  to  value goods intended to be                                     of the  price                            goods at 90% of the  sold  as  such  by  the   YES                               of like goods                                    price of like goods sold   YES  recipient?                                                   sold by  the                             by  the  recipient  to                                                                 recipient  to
+         NO                  unrelated customer?                                                           unrelated                     NO
+                                                      customer Whether        the
+  recipient  is eligible
+                         YES  for full ITC?                                 Invoice Value = Open market value
+         NO
+   Is   the  open   market   value   YES
+                                      Value = Open market value  available?
+
+        NO
+                                    YES Value = Value of supplies of like kind   Is the value of supplies of like                                and quality
+  kind and quality available?
+
+        NO
+                                          YES  Value =  110%  of  cost  of
+  Whether cost of production/provision                                            production/provision of supply
+  of supply is available?
+
+         NO
+ Value to be computed as per reasonable
+ means (Best Judgement Method)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+6.48       GOODS AND SERVICES TAX
+
+Rule 31A – Value of supply in case of lottery, betting, gambling and
+horse racing
+
+A new rule 31A has been inserted in CGST Rules to provide for valuation of supply
+of lottery and actionable claim in the form of chance to win in betting, gambling or
+horse racing in a race club. The rule provides that valuation of such supplies will
+be governed by the specific provisions set out in the said rule and not by any other
+valuation rule.
+               Supply                             Value
+ Supply  of  lottery by the Organising  Higher of the two amounts to be
+  State                          deemed as the value
+ Organising  State  means  the  State  100/128 of the face value of ticket
+ Government which conducts the lottery             OR
+  either in  its own territory or  sells  its                                     100/128 of the price as notified in the
+  tickets in the territory of any other State                                                  Official Gazette by  the  organising
+                                           State
+ Supply of actionable claim in the form of  100% of the face value of the bet or
+ chance to win in betting, gambling or  the amount paid into the totalisator*
+ horse racing in a race club
+
+* Totalisator is a computerised device that pools the wagers/bets (after deduction of
+charges and statutory taxes) of various persons placing the bet and also divides the total
+wager amount to be distributed to the winning persons.
+          (25)  The Government of a State runs a lottery where face value of a
+           lottery ticket is ` 250 and the price notified by the State Government in
+          the Official Gazette is ` 240. Here, the value of lottery is ` 195.313, i.e.
+higher of ` 195.313 (250 x 100/128). or ` 187.50 (240 x 100/128).
+(26) The Government of a State runs a lottery where face value of a lottery ticket
+is ` 250 and the price notified by the State Government in the Official Gazette is
+` 260. Here, the value of lottery is ` 203.13, i.e. higher of ` 195.313 (250 x 100/128)
+or ` 203.13 (260 x 100/128).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+VALUE OF SUPPLY.49            6.49
+
+Rule 32 – Determination of value in respect of certain supplies
+
+               Rule 32 provides the valuation methods for five specific      ✪
+             supplies.
+              Rule 32 overrides other rules of valuation. Thus, the supplies      ✪
+ prescribed in this rule need not be valued by sequentially following rules 27
+ to 31.
+     The valuation methods prescribed under rule 32 are optional; the ✪
+ supplier can use them if he so desires. He can also opt to value his supplies
+ in accordance with other valuation rules.
+The special provisions related to determination of value of such specific supplies
+are discussed below:
+
+                         Purchase or                                           Booking of                            sale of foreign                                                       tickets for                            currency                                                           air travel by                             including                                          an air travel
+                      money              agent
+                          changing
+
+                                  SPECIAL
+                            VALUATION              Life
+                          METHODS          insurance
+                              FOR 5            business
+                                 SUPPLIES
+
+                           Value of                                            Value of                        redeemable                                            supply of                           vouchers/                                           second                          stamps/                                         hand                         coupons/                                         goods                            tokens
+
+(i)   Special provision relating to determination of value of service of purchase
+     or sale of foreign currency including money changing [Sub-rule (2)]
+     The value of service in relation to purchase or sale of foreign currency,
+      including money changing, is determined by either of the two methods:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+6.50       GOODS AND SERVICES TAX
+
+    Method-1
+     Case 1:  Transaction where one of the currencies exchanged is Indian
+    Rupees
+                    The value of supply is difference between buying rate or
+                           selling rate of currency and RBI reference rate for that
+                       currency at the time of exchange multiplied by total units
+                        of foreign currency.
+                     However,  if RBI reference  rate  for a currency  is not
+      available then value of supply is 1% of the gross amount of Indian Rupees
+     provided/ received by the person changing the money.
+               (27) On 10th May, Mr. Doshi converted USD $ 100 into ` 7,400 @
+               ` 74 per USD through Eastern Money Changers. RBI reference rate
+             on 10th May for US $ is ` 75 per US $. The value of supply in this
+     case is (` 75 – ` 74)* $ 100 = ` 100 and GST will be levied on this amount.
+         If the RBI reference rate is not available, then 1% of ` 7,400 i.e., ` 74 will be
+     the value of supply of service.
+     Case 2: Transaction where neither of the currencies exchanged is Indian
+    Rupees
+     The value of supply  is 1% of the lesser of the two amounts the person
+     changing the money would have received by converting (at RBI reference
+      rate) any of the two currencies in Indian Rupees.
+               (28) US $ 9,000 are converted into UK £ 4,500. RBI reference rate
+                 at that time for US $ is ` 74 per US dollar and for UK £ is ` 98 per
+            UK Pound.   In this case, neither of the currencies exchanged is
+      Indian Rupee.
+     Hence, in the given case, value of taxable service would be 1% of the lower
+      of the following:-
+       (a)  US dollar converted into Indian rupees = $ 9,000 × ` 74 = ` 4,41,000
+      (b)  UK pound converted into Indian rupees = £ 4,500 × ` 98 = ` 6,66,000
+          Value of supply of service          = 1% of ` 4,41,000 = ` 4,410
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+VALUE OF SUPPLY.51            6.51
+
+   Method-2
+    The person supplying the service may also exercise the following option (based
+   on slab rates) to ascertain the value of service, however, once opted he cannot
+    withdraw it during the remaining part of the financial year:
+        S.   Currency exchanged              Value of supply
+      No.
+         1.   Upto ` 1,00,000     1%  of  the  gross amount  of  currency
+                               exchanged
+                                       OR
+                                  ` 250, whichever is higher
+         2.    Exceeding ` 1,00,000   ` 1,000 + 0.50% of the (gross amount of
+           and upto ` 10,00,000   currency exchanged - ` 1,00,000)
+         3.    Exceeding ` 10,00,000  ` 5,500 + 0.1% of the (gross amount of
+                                    currency exchanged - ` 10,00,000)
+                                       OR
+                                  ` 60,000, whichever is lower
+
+    ILLUSTRATION 3
+    X Pvt. Ltd., a money changer, has exchanged US $ 10,000 to Indian rupees @ `74
+      per US $. X Pvt. Ltd. wants to value the supply in accordance with rule 32(2)(b) of
+    CGST Rules.
+     Determine the value of supply made by X Pvt. Ltd.
+    ANSWER
+     As per rule 32(2)(b) of CGST Rules, the value in relation to the supply of
+      foreign currency, including money changing, is deemed to be-
+         (i)  1% of the gross amount of currency exchanged for an amount up to
+          ` 1,00,000, subject to a minimum amount of ` 250;
+         (ii)   ` 1,000 and 0.5% of the gross amount of currency exchanged for an
+         amount exceeding ` 1,00,000 and up to ` 10,00,000.
+      Therefore, the value of supply, made by X Pvt. Ltd., under rule 32(2)(b) of
+    CGST Rules is computed as under:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+6.52       GOODS AND SERVICES TAX
+
+
+                                                            `         `       Particulars
+       Value of currency exchanged in Indian rupees [` 74 x  7,40,000
+     US $ 10,000]
+      Upto ` 1,00,000                                                  1,000
+       For ` 6,40,000 [0.50% x ` 6,40,000]                                  3,200
+      Value of supply                                              4,200
+
+(ii)   Special provision relating to determination of value of service of
+     booking of tickets for air travel by an air travel agent [Sub-rule (3)]
+     Value of service of booking of tickets for air travel by an air travel agent is 5% of
+      basic fare in case of domestic travel and 10% of basic fare in case of international
+       travel.
+
+
+                                             Internati-         Domestic                                        onal air            air travel           5% of                travel  10% of
+                 basic fare               basic fare
+
+
+             BASIC                  Air fare on which         to the air tarvel
+            FARE                commisison is           agent by the
+                                      normally paid                  airlines
+
+
+    ILLUSTRATION 4
+    UB & Sons is an air travel agent. Compute the value of supply of service made
+     by the firm during a month with the help of following particulars furnished by
+         it:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+VALUE OF SUPPLY.53            6.53
+
+            Particulars       Basic fare    Other    Taxes  Total value of
+                                      (`)       charges      (`)    tickets (`)
+                                   and fee
+                                                    (`)
+      Domestic Bookings       1,00,900      9,510     4,990      1,15,400
+        International            3,16,880     20,930    15,670     3,53,480
+       Bookings
+
+    ANSWER
+    Computation of value of supply of services made by UB & Sons in a month
+
+                                                           `         `       Particulars
+       Basic fare in case of domestic bookings              1,00,900
+       Value of supply @ 5% [A] Refer Note below                       5,045
+       Basic fare in case of international bookings           3,16,880
+       Value of supply @ 10% [B] Refer Note below                    31,688
+      Value of supply [A] + [B] (rounded off)                     36,733
+
+     Note:
+     As per rule 32(3) of CGST Rules, the value of the supply of services in relation to
+     booking of tickets for travel by air provided by an air travel agent is 5% of the
+      basic fare in the case of domestic bookings, and 10% of the basic fare in the case
+      of international bookings.
+(iii)  Special provision relating to determination of value of service in relation
+     to life insurance business [Sub-rule (4)]
+     Value of life insurance service varies with nature of insurance policy. The details
+      are as follows:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 54 ======================
+
+
+6.54       GOODS AND SERVICES TAX
+
+                            •Taxable value = Gross premium charged          Policy with dual                                   less     amount      allocated      for          benefits of risk                             investments/savings if such allocation is          coverage and                             intimated to the policy holder at the time           investment                              of collection of premium
+
+                            •Taxable value = 10% of the single premium
+          Single premium     charged from  the  policy  holder where
+          annuity policy      allocation for investments/savings  is not
+                             intimated to the policy holder
+
+                            •Taxable value = 25% of premium charged
+                          from the policy holder in the 1st year and           Other cases                          12.5% of premium charged for subsequent
+                              years
+       Policy with ONLY risk  •Taxable value = Entire premium charged from
+              cover          the policy holder
+
+    ILLUSTRATION 5
+     Arihant Life Insurance Company Ltd. (ALICL) has charged gross premium of
+   ` 180 lakh from policy holders with respect to life insurance policies in the
+     2020-21; out of which ` 100 lakh have been allocated for investment on behalf
+      of the policy holders.
+     Compute the value of supply of life insurance services provided by ALICL:
+         (i)      if the amount allocated for investment has been intimated by ALICL to
+            policy holders at the time of supply of service.
+         (ii)     if the amount allocated for investment has not been intimated by ALICL
+            to policy holders at the time of providing of service.
+         (iii)    if the gross premium charged by ALICL from policy holders is only towards
+             risk cover.
+     Note: ALICL has started its operations in the year 2020-21.  Thus, the entire
+      gross premium of `180 lakh is the premium for the first year of all the policies.
+     ALICL has not issued any single premium annuity policy.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 55 ======================
+
+
+VALUE OF SUPPLY.55            6.55
+
+    ANSWER
+     As per rule 32(4), of the CGST Rules, value of supply of services in relation to
+        life insurance services is
+       (a)   the gross premium reduced by the amount allocated for investment on
+           behalf of the policy holder, if such an amount is intimated to the policy
+           holder at the time of supply of service;
+      (b)   in all other cases, 25% of the premium in the 1st year and 12.5% of the
+         premium in subsequent years
+     However, where the entire premium paid by the policy
+     holder is only towards risk cover, such gross premium
+        is the value of supply of life insurance services.
+      In the light of the aforesaid provisions, value of supply
+      of life insurance services provided by ALICL in financial year 2020-21 will be
+     computed as follows:
+         (i)   Amount allocated for investment intimated to policy holder at the time
+           of supply of service
+          Value of service = ` (180-100) lakh = ` 80,00,000
+         (ii)  Amount allocated for investment not intimated to policyholders at the
+          time of supply of service
+          Value of service = 25% of ` 180 lakh = ` 45,00,000
+         (iii)  Gross premium received is only towards risk cover
+          Value of service = ` 180 lakh
+(iv)  Special provision relating to determination of value of second hand
+    goods by a dealer of second hand goods – Margin Scheme [Sub-rule (5)]
+     Normally GST is charged on the transaction value of the goods. However, in
+      respect of second hand goods, a person dealing in such goods may be
+     allowed to pay tax on the margin, i.e. the difference between the value at
+     which the goods are supplied and the price at which the goods are purchased,
+         if ITC is not availed.   If there is no margin, no GST is charged for such supply.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 56 ======================
+
+
+6.56       GOODS AND SERVICES TAX
+
+                The purpose of the margin scheme is to avoid double
+                  taxation as the goods, having once borne the incidence of
+                     tax, re-enter the supply chain.
+
+     The taxable value of supply of second hand goods, i.e. used goods as such or
+      after such minor processing which does not change the nature of goods is
+     the difference between the purchase price and the selling price, provided no
+     ITC has been availed on purchase of such goods. However, if the selling price
+        is less than purchase price, that negative value is ignored.
+
+         VALUE OF SECOND HAND GOODS
+
+      When ITC is not availed                              When ITC is availed          [Margin Scheme]
+       • Value = Selling price - Purchase     • Normal valuation as per other
+                                             applicable provisions        price
+       • Selling price < Purchase price
+      ⇒Ignore negative value
+       • CGST on second hand goods
+        received   from   unregistered
+        supplier exempt
+
+
+                (29) A company X Ltd., which deals in buying and selling of second
+             hand cars, purchases a second hand Maruti Alto Car of March, 2015
+            make (Original price ` 5 lakh) for ` 3 lakh from an unregistered
+      person.  It incurs ` 30,000 on minor furbishing and sells the car for ` 3,50,000.
+     The company does not avail any ITC. The value for GST purpose shall be ` 50,000,
+         i.e. the difference between the selling and the purchase price of the company.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 57 ======================
+
+
+VALUE OF SUPPLY.57            6.57
+
+                      Persons who purchase second hand goods after          ✪
+                payment of tax to supplier of such goods, are governed
+                by this valuation rule only when they do not avail ITC on
+                  such input supply.  If ITC is availed, then such supply is
+      governed by normal GST valuation provisions.
+        Margin scheme is available only for supply of used goods by a person   ✪
+      dealing in buying and selling of second-hand goods.
+
+     Old and used motor vehicles7:
+      Different rates of taxes have been prescribed for old and used vehicles
+     depending upon the size and engine capacity of such motor vehicles and
+     value of supply in such case, when ITC is not availed, is value that represent
+     margin of the supplier, on supply of such goods determined as follows
+       (i)   In case of a registered person who has claimed depreciation under
+           section 32 of the Income-Tax Act,1961on the said goods,
+           •    Value = Consideration received - Depreciated value on the date
+                 of supply,
+           •    Consideration < Depreciated value ⇒ Ignore negative value
+        (ii)   In any other case
+           •    Value= Selling price - Purchase price
+           •     Selling price < Purchase price ⇒ Ignore negative value
+    When ITC is availed
+     Normal valuation as per other applicable provisions
+     Purchase value of supply of goods repossessed from a defaulting
+     borrower
+    Many a times goods taken on loan are repossessed by the lender in the event
+      of default in payment of the loan. The purchase value of such repossessed asset
+        is-
+
+
+7 vide Notification No. 8/2018 CT(R) dated 25.01.2018
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 58 ======================
+
+
+6.58       GOODS AND SERVICES TAX
+
+         If the defaulting borrower is         If the defaulting borrower is
+             un-registered                       registered
+
+        Purchase value = Purchase
+          price in the hands of such           The repossessing lender
+       borrower reduced by 5% for         agency will discharge GST
+       every quarter or part thereof,          at the supply value without
+      between the date of purchase           any reduction from
+     and the date of disposal by the          actual/notional purchase
+           person making such                        value
+               repossession
+
+(v)   Special provisions relating to determination of value of redeemable
+     vouchers/stamps/coupons/tokens [Sub-rule (6)]
+     The value of a token, voucher or coupon, or a stamp (other than postage
+     stamp) which is redeemable against a supply of goods and/or services is
+     equal to the money value of the goods and/or services redeemable against
+     such token, voucher, coupon or stamp.
+              (30)   If ` 1,500 worth of meal coupons are supplied by the taxable
+               person, the value of supply of such coupons under GST law will also be
+     ` 1,500.
+(vi)  Special  provisions  relating  to  determination  of  value  of  services
+     provided by notified service providers between distinct persons [Sub-
+      rule (7)]
+     Value of taxable services provided by notified class of service providers,
+     without consideration, between distinct persons [as referred to in Para 2 of
+     Schedule 1 of CGST Act], is deemed to be NIL if ITC is available.
+    No such services have been notified so far.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 59 ======================
+
+
+VALUE OF SUPPLY.59            6.59
+
+Rule 33 – Value of supply of services in case of pure agent
+
+Supply as a pure agent is an independent concept relevant
+for valuation.   It may happen sometimes that a supplier
+making a supply also incurs some expense for the recipient
+which is not a part of the supply made by him.   If such
+expense is incurred by the supplier as a pure agent of the
+recipient, it is not includible in the value of supply; if not incurred as pure agent,
+the same is includible in the value of supply.
+Broadly speaking, a pure agent is one who while making a supply to the recipient,
+also receives and incurs expenditure on some other supply on behalf of the
+recipient and claims reimbursement (as actual, without adding it to the value of his
+own supply) for such supplies from the recipient of the main supply.
+While the relationship between them (provider of service and recipient of service)
+in respect of the main service is on a principal to principal basis, the relationship
+between them in respect of other ancillary services is on pure agent basis.
+The concept of ‘pure agent’  is identical to concept of ‘Reimbursement of
+expenses incurred by supplier on behalf of customer’. Since GST is on ‘supply
+of goods or services’, transactions which are not part of ‘supply’ will not form part
+of value of goods or services supplied.
+However, if such expenses are part of supply of goods or services, these cannot get
+covered under concept of ‘pure agent’ or ‘reimbursement of expenses incurred by
+supplier on behalf of buyer’.
+           (31) A is an importer and B is a custom broker. A approaches B for
+          customs clearance work in respect of an import consignment.  The
+           clearance of import consignment and delivery of the consignment to A
+would also require taking service of a transporter. So A, also authorises B, to incur
+expenditure on his behalf for procuring the services of a transporter and agrees to
+reimburse B for the transportation cost at actuals.
+Here, B is providing customs brokers service to A, which would be on a principal-
+to-principal basis.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 60 ======================
+
+
+6.60       GOODS AND SERVICES TAX
+
+The ancillary service of transportation, is procured by B on behalf of A as a pure
+agent and expenses incurred by B on transportation should not form part of value
+of customs broker service provided by B to A.  This, in sum and substance is the
+relevance of the pure agent concept in GST.
+The important thing to note is that a pure agent does not use the goods or services
+so procured for his own interest and this fact has to be determined from the terms
+of the contract.
+In the illustration of importer and customs broker given above, assuming that the
+contract was for clearance of goods and delivery to the importer at the price agreed
+upon in the contract, the customs broker would be using the transport service for
+his own interest (as the agreement requires him to deliver the goods at the
+importers place) and thus, would not be considered as a pure agent for the services
+of transport procured.
+Another important fact is that the person who provides any service as a pure agent
+receives only the actual amount for the services provided. Coming back to our
+example of importer and customs broker, the agreement provides reimbursement
+of transport services utilised at actuals.
+In this case, let’s say the value of transport service was `10,000/-.If the customs
+broker charges any amount more than `10,000/-, then he will not be considered as
+a pure agent for the services of transport and the value of transport service will be
+included in the value of his customs broker service.
+Relevance of pure agent under GST: Expenditure/costs incurred as pure agent
+excluded from value of supply
+Subject to fulfilment of certain conditions, the expenditure and costs incurred by
+the supplier as a pure agent of the recipient of supply of service, has to be
+excluded from the value of supply.
+The preceding paras explained who is considered as a pure agent. The valuation
+rules provide that expenditure incurred as pure agent, are excluded from the value
+of supply, and thus, also from aggregate turnover.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 61 ======================
+
+
+VALUE OF SUPPLY.61            6.61
+
+However, such exclusion of expenditure incurred as pure agent is possible only and
+only  if all the conditions required to be considered as a pure agent and further
+conditions stipulated in the rules are satisfied by the supplier in each case.
+Expenditure or costs incurred by the supplier of services (‘S’) as pure agent of the
+recipient of services (‘R’) is excluded from the value of supply, if all the following
+conditions (in addition to the conditions required to be satisfied to be considered
+as a pure agent) are satisfied:
+   The payment arises out of a contract between ‘R’ and a third party, and ‘S’
+      acts as pure agent of ‘R’ when he makes the payment;
+    ‘R’ authorizes ‘S’ to make payment on his behalf;
+     ‘S’ shows the payment separately in the invoice issued by him to ‘R’;
+   The supplies procured by ‘S’ from the third party as pure agent of ‘R’ are in
+      addition to the supplies that he provides on his own account.
+‘Pure agent’ here means a person ‘S’ who -
+   enters into contractual agreement with ‘R’ to act as
+      his pure agent  to  incur  expenditure/costs  in  the
+     course of supply of goods and /or services;
+   does not hold or intends to hold any  title to the
+     goods   and    /   or    services   so   procured   or   supplied   as
+     pure agent of ‘R’;
+   does not use for his own interest such goods or services so procured; and
+   receives only the actual amount incurred to procure such goods or services
+      (apart from the amount for the services provided on his own account)
+The supplier needs to fulfil ALL the above conditions in order to qualify as a pure
+agent.   In case the conditions are not satisfied, such expenditure incurred  is
+included in the value of supply under GST.
+The following illustration will make the concept clearer:
+          (32)  Corporate services firm A is engaged to handle the legal work
+          pertaining to the incorporation of Company B.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 62 ======================
+
+
+6.62       GOODS AND SERVICES TAX
+
+   Other than  its service fees, A also recovers from B, registration fee and
+     approval fee for the name of the company paid to Registrar of the Companies.
+   The fees charged by the Registrar of the Companies for registration and
+     approval of the name are compulsorily levied on B.
+  A is merely acting as a pure agent in the payment of those fees.
+   Therefore, A’s recovery of such expenses is a disbursement and not part of
+     the value of supply made by A to B.
+Some examples of expenditure/costs incurred as pure agent are:
+(33) Port fees, port charges, custom duty, dock dues, transport charges etc. paid
+by customs broker on behalf of the owner of goods.
+(34) Expenses incurred by C&F agent and reimbursed by principal such as freight,
+godown charges.
+(35)  Suppose a customs broker issues an invoice for reimbursement of a few
+expenses and for consideration towards agency service rendered to an importer.
+the amounts charged by the customs broker are as below:
+ S.No.  Component charged in invoice               Amount
+
+ 1     Agency income                                    ` 10,000/-
+
+ 2       Traveling expenses; Hotel expenses                 ` 15,000/-
+
+ 3     Customs duty                                     ` 55,000/-
+
+ 4      Docks dues                                       ` 5000/
+
+In the above situation, agency income and travelling/ hotel expenses shall be added
+for determining the value of supply by the customs broker whereas docks dues and
+the customs duty shall not be added to the value, provided the conditions of pure
+agent are satisfied.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 63 ======================
+
+
+VALUE OF SUPPLY.63            6.63
+
+(36) If supply contract is ex-factory, but the supplier pays freight to transporter for
+convenience and then recovers the same, it will not form part of ‘value’.
+(37) Advocate paying Court fees on behalf of client.
+The pure agent concept is very important for businesses as it has direct implications
+on the value of taxable supply.  It has direct bearing on the amount of GST charged
+on a particular supply.  It also has bearing on the aggregate turnover of the supplier
+and therefore, on calculating the threshold limit for registration.
+Whenever the supplier intends to act as a pure agent, care should be taken to
+ensure that the conditions specified for such pure agents and other conditions
+given in the valuation rules are also met so that only the real value of the service
+provided is subjected to GST.
+Taxability of airport levies collected by airlines as pure agent - Circular No.
+115/34/2019 GST dated 11.10.2019
+Services provided by an airport operator to passengers against consideration in the
+form of user development fee (UDF) and passenger development fee (PSF) are
+liable to GST8. PSF and UDF are collected by the airlines as an agent and is not a
+consideration for any service provided by the airlines.
+Thus, airline is not responsible for payment of GST on UDF or PSF provided the
+airline satisfies the conditions prescribed for a pure agent under rule 33.  It is the
+licensee, that is the airport operator which is liable to pay GST on UDF and PSF.
+The airline acting as pure agent of the passenger should separately indicate actual
+amount of PSF and UDF and GST payable on such PSF and UDF by the airport
+licensee, in the invoice issued by airlines to its passengers.
+The airline shall not take ITC of GST payable or paid on PSF and UDF. The airline
+would only recover the actual PSF and UDF and GST payable on such PSF and UDF
+
+
+8 The chargeability of USF and PSF has been explained in detail by Circular No. 115/34/2019
+GST dated 11.10.2019. The same has been discussed in Chapter 2: Charge of GST of this Module
+of the Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 64 ======================
+
+
+6.64       GOODS AND SERVICES TAX
+
+by the airline operator. The amount so recovered will be excluded from the value
+of supplies made by the airline to its passengers.
+In other words, the airline shall not be liable to pay GST on the PSF and UDF (for
+airport services provided by airport licensee), provided the airline satisfies the
+conditions prescribed for a pure agent under rule 33.
+The registered passengers, who are the ultimate recipient of the airport services,
+may take ITC of GST paid on PSF and UDF on the basis of pure agent’s invoice
+issued by the airline to them.
+
+Rule 34 – Rate of exchange of currency, other than Indian rupees, for
+determination of value
+
+Goods: The relevant rate of exchange for determining the value of taxable goods
+is the rate notified by CBIC under section 14 of the Customs Act, 1962, prevalent
+on the date of time of supply of said goods.
+Services: The relevant rate of exchange for determining the value of taxable service
+is the rate determined as per GAAP, prevalent on the date of time of supply of said
+service.
+
+Rule 35 – Value of supply inclusive of integrated tax, central tax,
+State tax, Union territory tax
+
+Where the value of supply is inclusive of GST, the tax amount is determined in the
+following manner:
+Tax amount = (Value inclusive of taxes x GST rate in %) [IGST or CGST,
+SGST/UTGST] / (100 + sum of GST rates in %)
+        (38)  If the value inclusive of tax is ` 100/- and applicable GST rate is 18%
+        [IGST or CGST, SGST/UTGST] then,
+Tax amount = (100x18)/(100+18)= 1800/118=` 15.25
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 65 ======================
+
+
+VALUE OF SUPPLY.65            6.65
+
+       LET US RECAPITULATE
+
+                  VALUE OF SUPPLY
+
+
+  Supply made  to                                          Supply    where     Supply    is   a
+  unrelated person      Supply made to                                                 price  is not  the     notified  supply                          related person where price is the                                                 sole consideration     u/s 15(5)
+  sole
+
+       Value of supply
+          =
+                                  Value to be determined under Chapter IV:  Transaction value u/s 15(1)
+                                 Determination of Value of Supply of CGST
+                                   Rules
+
+                                Inclusions in value u/s 15(2)
+ ⇒  Taxes other than GST
+ ⇒  Third party payments made by recipient in relation to supply, which supplier
+      was liable to pay and were not included in the price
+ ⇒  Incidental expenses including anything done by the supplier in respect of the
+      supply till delivery of goods/supply of services, if charged to recipient
+ ⇒  Subsidies directly linked to price of supply other than the ones given by
+       Central/State Governments
+ ⇒  Interest/late fee/penalty for delay in payment of consideration
+
+                             Exclusions from value u/s 15(2)
+ ⇒  Discounts given before or at the time of supply and recorded in the invoice
+ ⇒  Post supply discount/incentive, if known in advance & linked with invoices
+      and proportionate input tax credit reversed by the recipient
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 66 ======================
+
+
+6.66       GOODS AND SERVICES TAX
+
+                          VALUATION RULES
+
+RULE  27:  Consideration   RULE  28: Supply between   RULE   29:   Supply
+not wholly in money          distinct/  related  persons,   made/received
+Value shall be either of the   other than agent             through an agent
+following in the given order:    Value  shall be either of the    Value shall be either of
+• open market value            following in the given order:      the  following  in  the
+• total of consideration  in    • open market value             given order:
+  money + amount equal to    • value of supplies of like kind    • open market value or
+  the consideration not  in    and quality                 90% of price charged
+  money                       • value as per rule 30 or 31 in     by  recipient  to  his
+• value of supplies of  like      that order.                        unrelated  customer
+  kind and quality            ♦Option to supplier to value       for supplies of  like
+• consideration in money +   goods   sold   as  such  by      kind and quality;
+  money  value  of  non-    recipient⇒Value=  90%   of    • value as per rule 30
+  monetary   consideration    price charged by recipient to      or 31 in that order.
+  computed as per rule 30 or     its unrelated customer
+  31 in that order.             ♦Recipient eligible for ITC ⇒
+                                 invoice value = open market
+                               value (taxable value)
+
+RULE 31A: Value of supply of lottery, chance to win  RULE 30: Value based on cost
+in betting/ gambling/ horse racing in race club      Value shall be 110% of cost of
+                                                          production/acquisition/Lottery organised by State Government - 100/128 of                                                           provision of goods or servicesthe face value of ticket OR 100/128 of the price as
+notified in the Official Gazette by the organising State,
+whichever is higher                                            RULE 31: Residual method
+Actionable claim in form of chance to win in betting,  (Best Judgement Method)
+gambling or horse racing in a race club - 100% of the  Value  shall  be  determined
+face value of the bet or the amount paid into the  using   reasonable   means
+totalisator                                                 consistent with the principles
+                                                and  general  provisions  ofOrganising State - State Government which conducts
+                                                           section 15 & valuation rules.the lottery either within the State or outside the State
+                                                        For services, rule 31 can be
+                                                  adopted before rule 30.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 67 ======================
+
+
+VALUE OF SUPPLY.67            6.67
+
+                          VALUATION RULES
+
+RULE 32: Value in respect of certain specific supplies
+⇒ Purchase/sale of foreign currency: 1st method-Value = [Buying/Selling rate - RBI reference
+rate at that time] x total units of currency.  If no RBI reference rate, value = 1% of INR
+received/provided.  If the currencies exchanged are not in INR, value = lesser of the 2 amounts
+that would have been received by converting any of currencies into INR at RBI reference rate
+OR 2nd method
+                Currency                          Value
+        Upto ` 1,00,000        1% or ` 250 whichever is higher
+        From  `1,00,001  to  `  ` 1,000 + 0.5%
+          10,00,000
+        From ` 10,00,001          ` 5,500 + 0.1% subject to maximum of ` 60,000
+⇒ Booking of tickets by air travel agent: Value = 5% of basic fare for domestic bookings and
+10% of the basic fare for international bookings.
+⇒ Life insurance business:  If amount allocated for investment is intimated - Value = Gross
+premium less amount allocated for investment; Single premium annuity policies where amount
+allocated for investment is not intimated - Value = 10% of single premium; Other cases – Value
+= 25% of premium in 1st year and 12.5% of premium in subsequent years; Policy only towards
+ risk cover – Value = Entire premium
+⇒ Buying & selling of second hand goods: Value = Selling price – Buying price (ignore if
+value is negative); Purchase value of goods repossessed from unregistered borrower = Purchase
+price- 5% per quarter or part thereof from date of purchase till the date of disposal by the person
+making repossession
+⇒Coupon/voucher: Value = money value of supplies redeemable against such voucher/
+coupon
+⇒ Notified services between distinct persons without consideration: Value = Nil, if ITC is
+available
+
+RULE 33: Supply as a pure agent
+Costs incurred by the supplier as a pure agent of recipient shall be excluded from value
+
+RULE 34: Rate of exchange for determination of value
+Goods = Rate notified by CBIC under Customs Act on the date of time of supply of such goods;
+Services = Rate as per GAAP on the date of time of supply of such services
+
+ Rule 35: Value inclusive of taxes
+Where value of supply is inclusive of CGST, SGST/UTGST or IGST, the tax amount is calculated
+by making back calculations. Tax amount = (Value inclusive of GST x GST rate in % of IGST or
+ CGST, SGST/UTGST)/100 + sum of applicable GST rates in %)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 68 ======================
+
+
+6.68       GOODS AND SERVICES TAX
+
+      TEST YOUR KNOWLEDGE
+
+1.   Income tax collected at source should be included in value of the supply in
+     terms of section 15(2)(a). Examine the correctness of the statement.
+2.   How should the supply made by a component manufacturer be valued, when
+     he uses moulds and dies owned by the original equipment manufacturer sent
+      free of cost to him? Explain.
+3.   Examine whether the following discounts ought to be excluded to determine
+      the value of supply:
+         (i)   Company offering 20% discount for single purchase above ` 10,000
+         (ii)  Company offering additional discount of 1% on purchase of 10,000 pieces
+            in a year
+         (iii)   After selling a product, the company re-valued the product at a lower
+           value and issued credit note to the buyer for the differential amount.
+4.    Rajesh &  Co., a  partnership  firm,  provides  financial and management
+     consultancy to a group of companies for an annual retainership fee of ` 15
+      lakh.  Further, the firm is provided with a car (along with a driver) for its
+      exclusive use throughout the year. The fuel cost is also borne by the Group.
+     Rajesh & Co. pays GST on the amount of ` 15 lakh.
+        Is the value for the service provided by Rajesh & Co. correct under GST law? If
+      not, please elaborate.
+5.   The supplies of commodity ‘y’ to the market are channelled through a State
+     Marketing Corporation which conducts an auction each day to arrive at the
+       price.  Gupta and Co. supplies commodity  ‘y’ through the State Marketing
+      Corporation.
+    How  will the supply  of  ‘y’ made by Gupta and Co. to State Marketing
+     Corporation be valued for paying tax?
+6.    Easy Coupons Ltd. sells coupons that are redeemable against specified luxury
+     food products at retail outlets. Each coupon is sold for value of ` 900 but is
+     redeemable for supplies worth ` 1000.
+    What is the value of supply of such coupon under GST law?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 69 ======================
+
+
+VALUE OF SUPPLY.69            6.69
+
+7.   A pharmaceutical company supplies a drug intermediate to its own unit in
+     another State for conversion into formulations.  The drug intermediate  is
+      exclusive to this company, and there is no market sale in India of this drug
+      intermediate.  Goods of like kind and quality are also not available. After
+      conversion, the finished product is sold from the said unit itself by the company.
+    How will the value of the supply of this drug intermediate be determined under
+    GST law?
+8.   Dushyant rents out a commercial building owned by him to Bharat for the
+    month of December, for which he charges a rent of `19,50,000. Dushyant pays
+      the maintenance charges of ` 1,00,000 (for the December month) as charged
+     by the local society.  These charges have been reimbursed to him by Bharat.
+      Also, Dushyant has paid municipal tax of ` 2,85,000 which he has not charged
+     from Bharat.
+     You are required to determine the value of supply and the GST liability of
+     Dushyant for the month of December assuming CGST and SGST rates to be 9%
+      each.
+      Note: All the amounts given above are exclusive of GST.
+9.   Vayu Ltd. provides you the following particulars relating to goods supplied by
+         it to Agni Ltd.:
+
+       Particulars                                    Amount
+                                                            (`)
+         List  price  of  the  goods  (exclusive  of  taxes/duties and     76,000
+       discounts)
+       Special packing at the request of customer to be charged to      5,000
+       the customer
+      Duty levied by local authority on the sale of such goods           4,000
+      CGST and SGST charged separately in invoice                  14,400
+        Price linked subsidy received from an NGO in relation to the      5,000
+      goods sold (The price of ` 76,000 given above  is  after
+       considering the subsidy)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 70 ======================
+
+
+6.70       GOODS AND SERVICES TAX
+
+     Vayu Ltd. offers 3% discount on the list price of the goods which is recorded in
+      the invoice for the goods.
+     Determine the value of taxable supplies made by Vayu Ltd.
+10.   Binaca  Electronics  Ltd.  (hereinafter  referred  to  as  BEL)  is engaged  in
+     manufacturing televisions.   It is registered in the State of Haryana.   It has
+     appointed distributors across the country who sell the televisions manufactured
+     by it.
+     The maximum retail price (MRP) printed on the package of a television is
+   ` 12,000. The applicable rate of GST on televisions is 18%. BEL dispatches the
+      stock of televisions to its distributors ordered by them on a quarterly basis.
+      In order to promote its sales, the Sales Head of BEL has formulated a sales
+     promotion scheme on 1st April. Under this scheme, BEL offers a discount of 10%
+      (per television) on televisions supplied to the distributors if the distributors sell
+     500 televisions in a quarter.
+     The discount is offered on the price at which the televisions are sold to the
+      distributors (excluding all charges and taxes).
+         It appoints Shah Electronics (an unrelated party as per GST Law) as  its
+      distributor in Haryana on 1st April and dispatches 750 televisions on 8th April
+     as stock for the quarter April-June.
+     BEL has sold the televisions to distributor - Shah Electronics at ` 8,400 per
+      television (exclusive of applicable taxes). Shah Electronics has requested BEL
+      for a special packing of the televisions delivered to it for which BEL has charged
+   ` 1,200 per television.
+     Shah Electronics places a purchase order of 1,000 televisions with BEL for the
+      quarter July-September. The distributor reports sales of 700 televisions for the
+      quarter April-June and 850 televisions for the quarter July-September.
+     The discount policy offered by BEL as explained above is also available to Shah
+      Electronics as per the distributorship agreement.
+     While Shah Electronics reverses the input tax credit availed for the quarter July-
+     September, it has failed to reverse the input tax credit availed for the quarter
+      April-June.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 71 ======================
+
+
+VALUE OF SUPPLY.71            6.71
+
+     Examine the scenario with reference to section 15 and compute the taxable
+     value of televisions supplied by BEL to Shah Electronics during the quarters
+      April-June and July-September assuming the rate of tax applicable on the
+      televisions as 18%.
+11.  Prada Forex Private Limited, registered in Delhi, is a money changer.   It has
+     undertaken the following purchase and sale of foreign currency:
+         (i)   1,000 US $ are purchased from Nandi Enterprises at the rate of ` 74 per
+         US $. RBI reference rate for US $ on that day is ` 74.60.
+         (ii)   2,000 US $ are sold to Menavati at the rate of ` 74.50 per US$.  RBI
+           reference rate for US $ for that day is not available.
+     Determine the value of supply in each of the above cases in terms of rule
+      32(2)(a) and rule 32(2)(b).
+12.   Rolly Polly Manufacturers  Ltd., registered  in Mumbai (Maharashtra),  is a
+     manufacturer of footwear. It imports a footwear making machine from USA.
+      Rolly Polly Manufacturers Ltd. enters into a contract with Rudra Logistics, a
+      licensed customs broker with its office at Ahmedabad (Gujarat), to meet all the
+      legal formalities in getting the said machine cleared from the customs station.
+     Apart from this, Rolly Polly Manufacturers Ltd. authorises Rudra Logistics to
+      incur, on  its behalf, the expenses in relation to clearance of the imported
+     machine from the customs station and bringing the same to the warehouse of
+      Rolly Polly Manufacturers  Ltd. which  shall be reimbursed by Rolly Polly
+     Manufacturers Ltd. to Rudra Logistics on the actual basis in addition to agency
+      charges.
+     Rudra Logistics provided following details in the invoice issued by it to Rolly
+     Manufacturers Ltd.:
+
+        S. No.  Particulars                               Amount
+                                                                               (`)
+               (i)    Agency charges                                        5,00,000
+              (ii)    Unloading of machine at Kandla port, Gujarat            50,000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 72 ======================
+
+
+6.72       GOODS AND SERVICES TAX
+
+              (iii)    Charges for transportation of machine from Kandla       25,000
+                  port, Gujarat  to  its Rudra  Logistics’ godown  in
+             Ahmedabad, Gujarat
+            (iv)    Charges for transportation of machine from Rudra       28,000
+                   Logistics’ Ahmedabad godown to the warehouse of
+                 Rolly  Polly  Export  Import  House  in  Mumbai,
+              Maharashtra
+            (v)    Prepared and submitted  Bill  of  Entry and paid     5,00,000
+              customs duty
+            (vi)   Dock dues paid                                       50,000
+            (vii)    Port charges paid                                     50,000
+            (viii)   Hotel expenses                                        45,000
+            (ix)    Travelling expenses                                    50,000
+            (x)    Telephone expenses                                     2,000
+
+     Compute the value of supply made by Rudra Logistics with the help of given
+      information.
+     Would your answer be different if Rudra Logistics has charged ` 13,00,000 as
+     a lump sum consideration for getting the imported machine cleared from the
+     customs station and bringing the same to the warehouse of Rolly Polly
+     Manufacturers Ltd.?
+13.   Rustagi & Co. manufactures customized products at  its unit situated and
+      registered in Madhya Pradesh. Cost of production of 1,000 products for Rustagi
+   & Co. is ` 20,00,000.
+     These products require further processing before sale, and for this purpose
+     products are transferred from its Madhya Pradesh unit to  its another unit
+      situated and registered in Himachal Pradesh. The value declared on the invoice
+      for such transfer is the cost of production of such products.
+     The Himachal Pradesh unit, apart from processing its own products, engages
+      in processing of similar products of other persons who supply the products of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 73 ======================
+
+
+VALUE OF SUPPLY.73            6.73
+
+      the same kind and quality.  Thereafter, the Himachal Pradesh unit sells these
+     processed products to wholesalers.   There are no other  factories  in the
+     neighbouring area which are engaged in the same business as that of Himachal
+     Pradesh unit.
+     1,000 units of the products of same kind and quality are supplied to Himachal
+     Pradesh unit, at the time when goods are sent by Madhya Pradesh unit, by
+     another manufacturer located in Himachal Pradesh.
+     The ex-factory price of such goods is ` 19,00,000. The Himachal Pradesh unit
+      of Rustagi & Co. is eligible for full ITC.
+     Determine the value of 1000 products supplied by Rustagi & Co. to its Himachal
+     Pradesh unit.
+14.  Dev Enterprises is the supplier of water coolers. Dev Enterprises supplied water
+      coolers to an unrelated party, Vimal Traders for consideration of ` 2,95,000
+      (inclusive of GST @ 18%). Vimal Traders also gave some materials to Dev
+      Enterprises [valuing ` 10,000 (exclusive of GST)] as an additional consideration
+      for such supply.
+     At the same time, Dev Enterprises has supplied the same goods to another
+      unrelated person at price of ` 2,97,360 (inclusive of GST@18%).
+     You are required to:
+       (1)   Determine the value of goods supplied by Dev Enterprises to Vimal
+            Traders.
+       (2)  What would your answer be if price of ` 2,97,360 is not available at the
+           time of supply of goods to Vimal Traders? Explain briefly.
+15.   Chirayu Life Insurance Company Limited (CLICL) has collected premium from
+      policy subscribers.  It does not intimate the amount allocated for investment to
+      subscribers of the policy at the time of supply of insurance services.  The
+    company has provided the following details in relation to its receipts:
+
+         SI. No.   Particulars                        Amount
+            1.    Premium for only risk cover                25,00,000
+            2.    Premium from new policy subscribers       40,00,000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 74 ======================
+
+
+6.74       GOODS AND SERVICES TAX
+
+            3.     Renewal premium                         80,00,000
+            4.     Single premium on annuity policy         1,00,00,000
+
+        All amounts are exclusive of tax. You are required to compute the value of
+       supply by CLICL in terms of rule 32(4).
+16.   Aviant Ltd., registered in Noida (Uttar Pradesh), is a supplier of machinery used
+      for making bottle caps. The supply of machinery is effected as under:
+     −    The wholesale price of the machinery (excluding all taxes and other
+           expenses) at which it is supplied in the ordinary course of the business to
+           various customers is ` 42,00,000.
+          However, the actual price at which the machinery  is supplied to an
+            individual customer varies within a range of ± 10% depending upon the
+          terms of contract of supply with the particular customer.
+     −    Apart from the price of the machinery, Aviant Ltd. charges from the
+          customer the following incidental expenses:
+       ♦    associated handling and loading charges of ` 10,000
+       ♦    installation and commissioning charges of ` 1,00,000
+     −    The machinery can be dismantled and erected at another site, if required.
+          The above charges are compulsorily levied in case of each supply of
+           machinery.
+     −    Transportation of machinery to the customer’s premises is arranged by
+           Aviant  Ltd. through a third-party service provider [Goods Transport
+          Agency (GTA)].
+          The customer enters into a separate service contract with the GTA and
+          pays the freight directly to it.
+     −   A cash discount of 2% on the price of the machinery is offered at the time
+            of supply, if the customer agrees to make the payment within 15 days of
+           the receipt of the machinery at his premises.
+            In the event of failure to make the payment within the stipulated time,
+           the company-
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 75 ======================
+
+
+VALUE OF SUPPLY.75            6.75
+
+       ♦    recovers the discount given at the time of receiving payment from
+                 the customer (no separate amount of GST is recovered); and
+       ♦    charges simple interest @ 1% per month or part of the month (no
+                 separate amount of GST is recovered) on the total amount due from
+                 the customer (towards the machinery supplied) from the date of
+              making the supply till the date of payment. However, no interest is
+               charged on the tax dues.
+     −    For every machinery supplied, Aviant Ltd. receives a price linked subsidy
+            of ` 2,00,000 from its holding company Diligent Ltd.
+     Aviant Ltd. has supplied a machinery to an unrelated party, Daffodil Pvt. Ltd.
+     on 29th August at a price of `40,00,000 (excluding all taxes). Invoice was issued
+     on 29th August by Aviant Ltd.
+     The corporate office of Daffodil Ltd., which is at New Delhi, has entered into
+      contract with Aviant Ltd. for supply of machinery. However, the machinery has
+     been installed at Daffodil Pvt. Ltd’s registered manufacturing unit located in
+     Gurugram (Haryana). Daffodil Pvt. Ltd. has paid the freight directly to the GTA.
+     Discount @ 2% on the price of machinery excluding taxes was given to Daffodil
+      Pvt. Ltd. as it agreed to make the payment within 15 days. However, Daffodil
+      Pvt. Ltd. paid the consideration on 30th September.
+     Assume the rates of taxes to be as under:
+        Bottle cap making machine
+      CGST – 6%     SGST – 6%     IGST – 12%
+        Service of transportation of goods
+      CGST – 2.5%    SGST – 2.5%    IGST – 5%
+       Other services involved in the above supply
+      CGST – 9%     SGST – 9%     IGST – 18%
+      Calculate the GST liability [CGST, SGST or IGST, as the case may be] with
+      respect to the supply of machinery and support your conclusions with legal
+      provisions in the form of explanatory notes.
+    Make suitable assumptions, wherever needed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 76 ======================
+
+
+6.76       GOODS AND SERVICES TAX
+
+      ANSWERS/HINTS
+
+1.   The statement is not correct. CBIC vide Circular No. 76/50/2018 GST dated
+     31.12.2018 (amended vide corrigendum dated 7.03.2019) has clarified that
+      for the purpose of determination of value of supply under GST, tax collected
+      at source (TCS) under the provisions of the Income Tax Act, 1961 would not
+     be includible as it is an interim levy not having the character of tax.
+2.    Circular No. 47/21/2018 GST dated 08.06.2018 has  clarified  that while
+      calculating the value of the supply made by the component manufacturer
+     using moulds and dies owned by Original Equipment Manufacturers (OEM)
+     sent free of cost (FOC) to him, the value of such moulds and dies shall not be
+     added to the value of supply made by him because the cost of moulds/dies
+     was not to be incurred by the component manufacturer and thus, does not
+     merit inclusion in the value of supply in terms of section 15(2)(b).
+     However, if the contract between OEM and component manufacturer was for
+     supply of components made by using the moulds/dies belonging to the
+     component manufacturer, but the same have been supplied by the OEM to
+     the component manufacturer on FOC basis, the amortised cost of such
+     moulds/dies shall be added to the value of the components.
+3.      (i)   The given case is a case of staggered discounts where rate of discount
+           increases with increase in purchase volume. Such discounts are shown
+         on the invoice itself. Therefore, the same are excluded to determine the
+           value of supply.
+          (ii)   The given case is a case of volume discount which are offered by the
+           suppliers to their stockists, etc. Such discounts are established in terms
+           of an agreement entered into at or before the time of supply which can
+          be specifically linked to the relevant invoices though not shown on the
+           invoice as the actual quantum of such discounts gets determined after
+           the supply has been effected and generally at the year end. Such type
+           of volume discounts are excluded/deducted to determine the value of
+           supply provided they satisfy the parameters laid down in section 15(3)
+           including the reversal of ITC by the recipient of the supply as  is
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 77 ======================
+
+
+VALUE OF SUPPLY.77            6.77
+
+            attributable to the discount on the basis of document (s) issued by the
+            supplier.
+          (iii)   This is a case of secondary discounts. These are the discounts which are
+          not known at the time of supply or are offered after the supply is already
+           over as per the agreement made at or before the time of supply.Therefore,
+          such discounts shall not be excluded while determining the value of
+           supply.
+4.    Rajesh & Co. gets a car along with driver (including the fuel) for the whole
+      year, which is an additional non-monetary consideration for its services. The
+      equivalent monetary value of such additional consideration must be added
+      to the retainership fee (` 15 lakh) in order to arrive at the value of the taxable
+      service provided by Rajesh & Co, as per rule 27 relating to valuation.
+5.   The State Marketing Corporation  is an  ‘agent’  in the meaning of the
+     expression  as  defined  in  section  2(5), which  includes an  auctioneer.
+      Therefore, the value of supply of ‘y’ will be determined in terms of rule 29
+      relating to valuation.
+     There is no open market for the first supply of commodity ‘y’, as it is compulsorily
+      supplied to the State Marketing Corporation.  However, Gupta & Co. has the
+     option of valuing the supply of ‘y’ at 90% of price of goods of like kind and
+      quality sold by the State Marketing Corporation to its unrelated customers.
+         If the value cannot be determined by this method, it needs to be determined
+    on the basis of the cost plus 10% mark up as per rule 30 or on the basis of
+     Best Judgement Method as per rule 31, in that order.
+6.    In terms of rule 32(6) relating to valuation, the value of a coupon is equal to
+     the money value of the goods redeemable against it. Therefore, though the
+     coupon is sold for ` 900, its value is ` 1000.
+7.    Since the supply is made to a distinct person, the same will be valued in
+     accordance with rule 28 relating to valuation.
+     There is no open market value of the drug intermediate as also there are no
+       like goods.  Therefore, value of supply of such drug intermediate will be
+     determined in terms of clause (c) of rule 28 i.e., by using rule 30. Thus, the
+     value of supply of such drug intermediate  will be 110% of  its cost of
+     production or manufacture.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 78 ======================
+
+
+6.78       GOODS AND SERVICES TAX
+
+     However, if the recipient unit is eligible for full ITC, the value declared in the
+      invoice by the supplier will be deemed to be the open market value of the
+     drug intermediate and thus, the invoice value will be the value of taxable
+      supply.
+8.   Computation of the value of supply and the GST liability of Dushyant for
+     the month of December
+       Particulars                                    Amount (`)
+      Rent of the commercial buiding                               19,50,000
+      Maintenance charges paid to the local society, reimbursed   1,00,000
+      by Bharat [Note 1]
+       Municipal tax paid by Dushyant [Note 2]                       Nil
+      Value of supply                                         20,50,000
+     CGST @ 9%                                            1,84,500
+     SGST @ 9%                                               1,84,500
+
+     Notes:
+       (1)   Since such charges are reimbursed by the tenant (Bharat), such charges
+            ultimately form part of the rent paid by Bharat to Dushyant and thus,
+          form part of the value as per section 15(2)(c).
+       (2)   Since municipal tax is paid by the supplier (Dushyant) and not charged
+           to the recipient, the same is not includible in the value.
+9.        Computation of value of taxable supplies by Vayu Ltd.
+
+                                                                         `       Particulars
+         List price of the goods                                         76,000
+       Add: Special packing [Note 1]                                     5,000
+           Duty levied by local authority on sale of goods [Note 2]       4,000
+          CGST and SGST charged [Note 2]                                       -
+            Subsidy received from an NGO [Note 3]                      5,000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 79 ======================
+
+
+VALUE OF SUPPLY.79            6.79
+
+        Less: Discount offered                                               (2,280)
+         = 3% of List price = ` 76,000 × 3% [Note-4]
+      Value of taxable supplies                                   87,720
+     Notes:
+       1.    Being incidental expenses charged by the supplier to the recipient of
+           supply, packing charges are includible in the value as per section
+             15(2)(c).
+       2.    Taxes, duties, etc. levied under any law for the time being in force other
+          than CGST, SGST/UTGST, IGST are includible in the value as per section
+             15(2)(a).
+       3.    Subsidy directly linked to the price received from a non-Government
+         body is includible in the value in terms of section 15(2)(e).
+       4.    Since discount is known at the time of supply, it is deductible from the
+           value in terms of section 15(3)(a).
+10.  Section 15(3)(a) allows discounts to be deducted from the value of taxable supply
+         if the same is given before or at the time of the supply and if such discount has
+     been duly recorded in the invoice issued in respect of such supply. In other
+     words, pre-supply discounts recorded in invoices are allowed as deduction.
+      Further, post supply discounts are also allowed as deduction from the value
+      of supply under section 15(3)(b) if-
+         (i)   such discount is established in terms of an agreement entered into at
+           or before the time of such supply and specifically linked to relevant
+            invoices; and
+         (ii)   input tax credit as  is attributable to the discount on the basis of
+         document issued by the supplier has been reversed by the recipient of
+           the supply.
+      In the given case, Shah Electronics is entitled for 10% discount on televisions
+     supplied by BEL for the quarters April-June as well as July-September as it has
+      sold more than 500 televisions in each of these quarters. However, since the
+      sales targets are achieved after the entire stock for the respective quarters of
+      April-June and July-September has been dispatched, the discounts on the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 80 ======================
+
+
+6.80       GOODS AND SERVICES TAX
+
+      televisions supplied to Shah Electronics for the quarters of April-June and
+     July-September is a post-supply discount.
+     Such post-supply discount will be allowed as a deduction from the value of
+     supply since the discount policy was known before the time of such supply
+     and the discount can be specifically linked to relevant invoices (invoices
+      pertaining to televisions supplied to Shah Electronics for the quarters of April-
+     June and July-September) provided Shah Electronics reverses the input tax
+      credit attributable to the discount on the basis of document issued by BEL.
+     The value of supply for the quarters of April-June and July-September will
+      thus, be computed as under:
+           Computation of value of supply for the quarter - April-June
+
+       Particulars                                    Amount
+                                                                              (`)
+        Price  at which  the  televisions  are  supplied  to Shah         8,400
+        Electronics [Note 1]
+       Add: Packing expenses [Note 2]                                   1,200
+        Less: Discount [Note 3]                                                    Nil
+      Value of taxable supply of one unit of television               9,600
+      Value of taxable supply of televisions for the quarter      72,00,000
+       April-June [` 9,600 x 750]
+
+     Notes:
+       (1)   The value of a supply is the transaction value, which is the price actually
+           paid or payable for the said supply, in terms of section 15(1) presuming
+            that the supplier and the recipient of supply are not related and price
+               is the sole consideration for the supply as the supplier and recipient are
+          not related parties.
+       (2)   The value of supply includes incidental expenses like packing charges
+             in terms of section 15(2)(c).
+       (3)   Since Shah Electronics has not reversed the input tax credit attributable
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 81 ======================
+
+
+VALUE OF SUPPLY.81            6.81
+
+           to such discount on the basis of document issued by BEL, the conditions
+            specified in section 15(3)(b) have not been fulfilled.  Thus, the post-
+           supply discount will not be allowed as deduction from the value of
+           supply.
+       Computation of value of supply for quarter - July-September
+
+       Particulars                                      Amount
+                                                                                    (`)
+        Price at which the televisions are supplied to Shah                 8,400
+        Electronics [Note 1]
+       Add: Packing expenses [Note 2]                                   1,200
+        Less: Discount [Note 3]                                              (840)
+      Value of taxable supply of one unit of television               8,760
+      Value of taxable supply of televisions for the quarter      87,60,000
+      July-September [` 8,760 x 1,000]
+
+     Notes:
+       (1)   The value of a supply is the transaction value, which is the price actually
+           paid or payable for the said supply, in terms of section 15(1) presuming
+            that the supplier and the recipient of supply are not related and price
+               is the sole consideration for the supply as the supplier and recipient are
+          not related parties.
+       (2)   The value of supply includes incidental expenses like packing charges
+             in terms of section 15(2)(c).
+       (3)   Since all the conditions specified in section 15(3)(b) have been fulfilled,
+           the post-supply discount will be allowed as deduction from the value
+           of supply.  The input tax credit to be reversed will work out to be
+           `1,51,200 [1,000 x (8,400 x 10%) x 18%].
+11.  Rule 32(2) prescribes the provisions for determining the value of supply of
+      services in relation to the purchase or sale of foreign currency, including
+    money changing.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 82 ======================
+
+
+6.82       GOODS AND SERVICES TAX
+
+     Determination of value under rule 32(2)(a)
+         (i)   Value of supply of services for a currency, when exchanged from, or to,
+           Indian Rupees, shall be equal to the difference in the buying rate or the
+            selling rate, as the case may be, and the Reserve Bank of India (RBI)
+           reference rate for that currency at that time, multiplied by the total units
+           of currency. Thus, value of supply is:
+        = (RBI reference for US $ - Buying rate of US $) × Total number of units
+           of US $ bought
+        = (74.6 – 74) × 1,000
+        = ` 600/-
+         (ii)  When the RBI reference rate for a currency is not available, the value
+             shall be 1% of the gross amount of Indian Rupees provided or received
+          by the person changing the money. Thus, value of supply is:
+           = 1% of the gross amount of Indian Rupees received
+           = 1% of (74.50 × 2,000) = ` 1,490/-
+     Determination of value under rule 32(2)(b)
+     Rule 32(2)(b) provides that value in relation to the supply of foreign currency,
+      including money changing shall be deemed to be –
+        S. No.   Currency exchanged   Value of supply
+            1.    Upto` 1,00,000      1% of the gross amount of currency
+                                   exchanged
+                                      OR
+                                      ` 250 whichever is higher
+            2.     Exceeding ` 1,00,000    ` 1,000 + 0.50% of the (gross amount
+              and upto` 10,00,000     of currency exchanged - 1,00,000)
+            3.     Exceeding ` 10,00,000   ` 5,500 + 0.1% of the (gross amount
+                                          of currency exchanged - 10,00,000)
+                                      OR
+                                      ` 60,000 whichever is lower
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 83 ======================
+
+
+VALUE OF SUPPLY.83            6.83
+
+      Thus, the value of supply in the given cases would be computed as under:
+         (i)   Gross amount of currency exchanged = ` 74 × 1,000 = ` 74,000.
+           Since the gross amount of currency exchanged is less than ` 1,00,000,
+           value of supply is 1% of the gross amount of currency exchanged i.e.
+        1% of ` 74,000 or ` 250, whichever is higher, i.e. = ` 740/-
+         (ii)   Gross amount of currency exchanged = ` 74.50 × 2,000 = ` 1,49,000.
+           Since the gross amount of currency exchanged exceeds ` 1,00,000 but
+               is less than ` 10,00,000, value of supply is ` 1,000 + 0.50% of (` 1,49,000
+             - ` 1,00,000), i.e. = ` 1,245/-
+12.  As per explanation to rule 33, a “pure agent” means a person who-
+       (a)   enters into a contractual agreement with the recipient of supply to act
+           as his pure agent to incur expenditure or costs in the course of supply
+           of goods or services or both;
+      (b)   neither intends to hold nor holds any title to the goods or services or
+          both so procured or supplied as pure agent of the recipient of supply;
+       (c)   does not use for his own interest such goods or services so procured;
+         and
+      (d)   receives only the actual amount incurred to procure such goods or
+            services in addition to the amount received for supply he provides on
+            his own account.
+     The supplier needs to fulfil all the above conditions in order to qualify as a
+     pure agent.
+      In the given case, Rudra Logistics has entered into a contractual agreement
+     with recipient of supply, Rolly Polly Manufacturers Ltd., to incur, on behalf of
+     such recipient, the expenses mentioned in S. No. (ii) to (vii) incurred in
+      relation to clearance of the imported machine from the customs station and
+     bringing the same to the warehouse of the recipient. Further, Rudra Logistics
+     does not hold any title to said services and does not use them for his own
+      interest.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 84 ======================
+
+
+6.84       GOODS AND SERVICES TAX
+
+       Lastly, Rudra Logistics receives only the actual amount incurred to procure
+     such services in addition to agency charges.  Thus, Rudra Logistics qualifies
+     as a pure agent.
+      Further, rule 33 stipulates that notwithstanding anything contained in the
+      provisions of Chapter IV – Determination of Value of supply, the expenditure
+     or costs incurred by a supplier as a pure agent of the recipient of supply shall
+     be excluded from the value of supply,  if all the following conditions are
+       satisfied, namely-
+         (I)   the supplier acts as a pure agent of the recipient of the supply, when
+         he makes the payment to the third party on authorisation by such
+            recipient;
+         (II)   the payment made by the pure agent on behalf of the recipient of
+           supply has been separately indicated in the invoice issued by the pure
+          agent to the recipient of service; and
+         (III)  the supplies procured by the pure agent from the third party as a pure
+          agent of the recipient of supply are in addition to the services he
+           supplies on his own account.
+     Since conditions (I) to (III) mentioned above are satisfied in the given case,
+     expenses (ii) to (vii) incurred by Rudra Logistics as a pure agent of Rolly Polly
+     Manufacturers Ltd. shall be excluded from the value of supply.
+      Accordingly, value of supply made by Rudra Logistics is as follows:
+       Particulars                                      Amount
+                                                                                   (`)
+      Agency charges                                                5,00,000
+       Add: Unloading of machine at Kandla port, Gujarat                     Nil
+           Charges for transport of machine from Kandla port,               Nil
+             Gujarat to its godown in Ahmedabad, Gujarat
+           Charges for transport of machine from Rudra Logistics’           Nil
+          Ahmedabad godown to the warehouse of Rolly Polly
+            Export Import House in Mumbai, Maharashtra
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 85 ======================
+
+
+VALUE OF SUPPLY.85            6.85
+
+           Customs duty                                                       Nil
+          Dock charges                                                       Nil
+             Port charges                                                        Nil
+            Hotel expenses                                          45,000
+             Travelling expenses                                      50,000
+           Telephone expenses                                        2,000
+      Value of supply                                           5,97,000
+      Yes, the answer would be different. If lump sum amount of ` 13,00,000 is paid
+     then the value of supply shall be ` 13,00,000 and tax shall be charged on
+     value of supply since individual cost are not given.
+13.  As per section 25(4), a person who has obtained or is required to obtain more
+     than one registration, whether in one State or Union territory or more than
+     one State or Union territory shall, in respect of each such registration, be
+      treated as distinct persons for the purposes of this Act.  Therefore, units of
+     Rustagi & Co. in Madhya Pradesh and Himachal Pradesh are distinct persons
+     under GST.
+     As per rule 28, the value of the supply of goods between distinct persons,
+     other than where the supply is made through an agent, shall –
+       (a)   be the open market value of such supply;
+      (b)     if open market value is not available, be the value of supply of goods of
+             like kind and quality;
+       (c)     if value cannot be determined under the above methods, be cost of the
+           supply plus 10% mark-up or be determined by other reasonable means,
+             in that sequence.
+     Rule 28 also provides that where the goods are intended for further supply
+     as such by the recipient, the value shall, at the option of the supplier, be an
+    amount equivalent to 90% of the price charged for the supply of goods of
+       like kind and quality by the recipient to his customer not being a related
+     person.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 86 ======================
+
+
+6.86       GOODS AND SERVICES TAX
+
+      Further, rule 28 provides that where the recipient is eligible for full input tax
+      credit, the value declared in the invoice by the supplier shall be deemed to
+     be the open market value of the goods or services.
+      In the given case, the option of valuing the goods @ 90% of the price charged
+     by the recipient to his unrelated customer is not available as the goods are
+     not further supplied ‘as such’ but only after processing at Himachal Pradesh
+       unit.  However, since the Himachal Pradesh unit is eligible for full ITC, the
+     value declared by the Madhya Pradesh unit in the invoice for transfer of such
+      products, i.e. ` 20,00,000 shall be deemed to be the open market value of the
+      products.
+      Thus, the value of 1000 products supplied by Rustagi & Co. to its Himachal
+     Pradesh unit in terms of rule 28 is the open market value of such products
+     which is ` 20,00,000.
+14.   (1)   In the given case, price is not the sole consideration for the supply.
+          Apart from monetary consideration, the buyer has given some material
+           to the supplier as consideration for such supply. Hence, the value of the
+           supply cannot be determined on the basis of the transaction value in
+          terms of section 15(1).
+           Here, the value will be determined with the help of rule 27 which
+            specifies that where the consideration for a supply is not wholly in
+         money, the value will be the open market value.
+        Open market value of a supply means the full value in money, excluding
+           the applicable GST, where the supplier and the recipient of the supply
+           are not related and the price is the sole consideration, to obtain such
+           supply at the same time when the supply being valued is made.
+           Therefore, in the given case, the open market value of the goods
+           supplied is ` 2,52,000 (` 2,97,360 x 100/118) and is therefore, the value
+           of such goods.
+      (2)   Rule 27 further provides that if open market value of the supply is not
+          known, the value of the supply will be the consideration in money plus
+           the money equivalent to the non-monetary consideration,  if such
+         amount is known at the time of supply.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 87 ======================
+
+
+VALUE OF SUPPLY.87            6.87
+
+           Therefore, the value in the given case will be (` 2,95,000 x 100/118) +
+          ` 10,000, which is ` 2,60,000.
+15.  As per rule 32(4), the value of supply of services in relation to life insurance
+      business, when the amount allocated for investment/ savings on behalf of the
+      policy holder is not intimated to the policy holder at the time of supply of
+      service, is-
+         (i)    in case of single premium annuity policies,10% of single premium
+          charged from the policy holder;
+         (ii)    in all other cases, 25% of the premium charged from the policy holder
+             in the first year and 12.5% of the premium charged from the policy
+           holder in subsequent years;
+         (iii)   in case the entire premium paid by the policy holder is only towards the
+             risk cover in life insurance, the premium so paid.
+      Therefore, in the given case, the value of the services provided by CLICL will
+     be computed as under:
+                 Computation of value of supply for CLICL
+       Particulars                                   Amount (`)
+      Premium for only risk cover                                   25,00,000
+      Premium from new policy subscribers 25% of ` 40,00,000       10,00,000
+      Renewal premium 12.5% of ` 80,00,000                        10,00,000
+       Single premium on annuity policy10% of ` 1,00,00,000         10,00,000
+       Total value of supply                                    55,00,000
+
+16.                Computation of GST liability of Aviant Ltd.
+       Particulars                                                                (`)
+        Price of machine [Note 1]                                     40,00,000
+       Add: Handling and loading charges [Note 2]                     10,000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 88 ======================
+
+
+6.88       GOODS AND SERVICES TAX
+
+              Installation and commissioning charges [Note 3]           1,00,000
+            Transportation cost [Note 4]                                        Nil
+             Price linked subsidy from Diligent Ltd. [Note 5]            2,00,000
+             Total price of the machine                              43,10,000
+        Less: 2% cash discount on price of machinery                     (80,000)
+            = ` 40,00,000 × 2% [Note 6]
+       Taxable value of supply                                       42,30,000
+      Tax liability for the month of August [Note 10]
+      IGST @ 12% [Note 7 and Note 8] – [A]                          5,07,600
+      Tax liability for the month of September [Note 10]
+        Interest collected @ 2% on ` 41,10,000 [Note 9]                  82,200
+       Add: Cash discount recovered [Note 9]                          80,000
+       Value of interest and cash discount inclusive of tax              1,62,200
+      IGST = (`1,62,200/112) x 12 - [B]                               17,379
+       Total IGST payable on the machinery [A] + [B]              5,24,979
+
+     Notes:
+       (1)   As per section 15(1), the value of a supply is the transaction value i.e.,
+           the price actually paid or payable for the said supply when the supplier
+         and the recipient of the supply are not related and the price is the sole
+           consideration for the supply.
+       (2)    All incidental expenses charged by the supplier to the recipient of a
+           supply are includible in the value of supply in terms of section 15(2)(c).
+       (3)  Any amount charged for anything done by the supplier in respect of the
+           supply of goods at the time of, or before delivery of goods is includible
+             in the value of supply in terms of section 15(2)(c).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 89 ======================
+
+
+VALUE OF SUPPLY.89            6.89
+
+       (4)   Transportation cost has not been included in the value of supply of the
+          machinery as it is a separate service contract between the customer and
+           the third-party service provider. The customer pays the freight directly
+           to the service provider.
+         The supplier (Aviant Ltd), in this case, merely arranges for the transport
+         and does not provide the transport  service on  its own account.
+           Therefore, there will be no impact from valuation point of view on
+           transport expenses incurred for supply of machinery as the supplier is
+          not the party to such supply of services.
+       (5)   Subsidies directly linked to the price excluding subsidies provided by
+           the Central Government and State Governments are includible in the
+           value of supply in terms of section 15(2)(e).
+       (6)   Cash discount was deducted by Aviant Ltd. upfront at the time of supply
+         on 1st August, and hence, the same is excluded from the value of supply
+           as it did not form part of the transaction value.
+       (7)   In the given case-
+       ♦     the location of the supplier is in Noida (UP); and
+       ♦     the place of supply of machinery is the place of installation of
+                 the machinery  i.e., Gurugram (Haryana) in terms of section
+                   10(1)(d) of the IGST Act, 2017.
+           Therefore, the given supply is an inter-State supply as the location of
+           the supplier and the place of supply are in two different States [Section
+             7(1)(a) of IGST Act, 2017]. Thus, the supply will be leviable to IGST in
+          terms of section 5(1) of the IGST Act, 2017.
+       (8)   The given supply  is a composite supply involving supply of goods
+           (machinery) and services (handling and loading and installation and
+          commissioning) where the principal supply is the supply of goods.
+          As per section 8(a), a composite supply is treated as a supply of the
+            principal supply involved therein and charged to tax accordingly. Thus,
+            tax rate applicable to the goods (machinery) has been considered.
+       (9)   Interest for the delayed payment (which excludes subsidy related
+         amount of Rs 2,00,000 as the same was not recoverable from the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 90 ======================
+
+
+6.90       GOODS AND SERVICES TAX
+
+            recipient) of any consideration for any supply is includible in the value
+           of supply in terms of section 15(2)(d). Further, cash discount recovered
+              will also be includible in the value of supply as now the transaction value
+                  i.e., the price actually paid for the machinery is devoid of any discount.
+         The cash discount recovered and interest respectively are inclusive of
+             tax.  Thus, tax payable thereon has to be computed by making back
+            calculations in terms of rule 35.
+      (10)  Invoice for the supply has been issued on 29th August. Thus, the time of
+           supply of goods is 29th August in terms of section 12(1)(a).
+          As per section 12(6), the time of supply in case of addition in value by
+         way  of  interest,  late  fee,  penalty  etc.  for  delayed payment  of
+           consideration for goods is the date on which the supplier receives such
+           addition in value. Thus, the time of supply of interest received and cash
+           discount recovered on account of delayed payment of consideration is
+            30th September, the date when the full payment was made. The supplier
+        may issue a debit note for such interest and cash discount recovered.
+
+
+© The Institute of Chartered Accountants of India

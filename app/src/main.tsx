@@ -48,7 +48,13 @@ if ("serviceWorker" in navigator) {
       .catch(() => undefined);
     if ("caches" in window) {
       caches.keys()
-        .then((keys) => Promise.all(keys.filter((key) => key.startsWith("fr-study-os")).map((key) => caches.delete(key))))
+        .then((keys) =>
+          Promise.all(
+            keys
+              .filter((key) => key.startsWith("trinsic") || key.startsWith("fr-study-os"))
+              .map((key) => caches.delete(key)),
+          ),
+        )
         .catch(() => undefined);
     }
   }

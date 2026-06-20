@@ -1,0 +1,2387 @@
+Source PDF: 04_Direct_Tax_Laws_International_Taxation/021 - Chapter 25- Fundamentals of BEPS - 88430bos-aps2299-m4-ch25.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\04_Direct_Tax_Laws_International_Taxation\021 - Chapter 25- Fundamentals of BEPS - 88430bos-aps2299-m4-ch25.pdf
+Extracted at: 2026-05-31T10:23:53+05:30
+Pages: 54
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER           25
+
+FUNDAMENTALS OF BEPS
+
+
+                         LEARNING OUTCOMES
+
+After studying this chapter, you would be able to -
+❑   gain a broad understanding of the concept of Base Erosion and Profit
+      Shifting (BEPS);
+❑   appreciate the significance of action plans of BEPS;
+❑   comprehend and appreciate the provisions incorporated in the Indian
+      tax laws in line with the different Action Plans of BEPS.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+25.2           INTERNATIONAL TAXATION
+
+     25.1 BACKGROUND
+Impact of Globalisation
+
+Globalisation has benefited our domestic economies, boosted trade and increased foreign direct
+investments in many countries. The unrestricted movement of capital and labour, the shift of
+manufacturing bases from high-cost to low-cost locations, the gradual removal of trade barriers,
+technological and  telecommunication  developments, and  the  ever-increasing  importance  of
+managing risks and of developing, protecting and exploiting intellectual property, have had an
+important impact on the way cross-border activities take place.  In this way, it accelerated growth,
+created jobs and fostered innovation. Globalisation is not new, but the pace of integration of national
+economies and markets has increased substantially in recent years. It has a significant impact on a
+country’s corporate income tax regimes.
+
+Growth of Multi-national Enterprises and consequent tax abuse
+
+Way back in 1920s, pursuant to the  first world war, the League of Nations recognised that the
+interaction of domestic tax systems can lead to double taxation with adverse effects on growth and
+global prosperity. Globally, countries concur on the need to eliminate double taxation and the need to
+achieve this on the basis of accepted international laws that are clear and predictable, giving certainty
+to both governments and businesses. International tax law is, therefore, a pillar in facilitating the
+development of the global economy. With the economy, the enterprises also became more globally
+integrated. Multi-national enterprises (MNE) now represent a significant proportion of global GDP.
+
+Also, the increasing significance of the service component of the economy, and of digital products
+which are deliverable over the Internet, has made  it much easier for businesses to locate many
+productive activities in geographic locations that are distant from the physical location of their
+customers. These developments have been accompanied by the increasing sophistication of tax
+planners in identifying and exploiting the legal arbitrage opportunities and the boundaries of
+acceptable tax planning, thus, encouraging MNEs to minimise their tax burden by resorting to
+aggressive tax planning.
+
+Adverse Effects of BEPS
+
+Base Erosion and Profit Shifting (BEPS) refers to tax planning strategies that exploit gaps and
+mismatches in tax rules to make profits ‘disappear’ for tax purposes or to shift profits to locations
+where there is little or no real activity but the taxes are low, resulting in little or no overall corporate
+tax being paid. This has become a critical issue since governments have to cope with less revenue
+and a higher cost to ensure compliance. Moreover, BEPS undermines the integrity of the tax system,
+as reporting of low corporate taxes is considered to be unfair. In developing countries, the lack of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+FUNDAMENTALS OF BEPS               25.3
+
+tax revenue leads to significant under-funding of public investment that could help foster economic
+growth. Further, when tax laws permit businesses to reduce their tax burden by shifting their income
+away from jurisdictions where income producing activities are conducted, other taxpayers, especially
+individual taxpayers in that jurisdiction bear a greater share of the burden. This gives rise to tax
+fairness issues on account of individuals having to bear a higher tax burden. Also, enterprises that
+operate only in domestic markets, including family-owned businesses or new innovative businesses,
+may have difficulty competing with MNEs that have the ability to shift their profits across borders to
+avoid or reduce tax. Fair competition is harmed by the distortions induced by BEPS.
+
+Need for international collaboration to protect tax sovereignty of  its
+countries
+
+Taxation is at the core of countries’ sovereignty, but the interaction of domestic tax laws with the tax
+laws of other countries in certain cases leads to gaps and frictions. While developing their domestic
+tax laws, sovereign states may not adequately take into consideration the effect of other countries’
+laws. The interaction of separate sets of domestic laws enforced by sovereign countries causes
+frictions, including potential double taxation for corporations operating in many countries.  It also
+causes gaps, in cases where corporate income is untaxed, both in the country of source and in the
+country of residence, or is taxed only at nominal rates. In the domestic context, coherence is
+generally achieved through a principle of matching – a payment that is deductible by the payer is
+usually taxable in the hands of the recipient, unless explicitly exempted. There is no similar principle
+of coherence at the international level, which leaves considerable scope for arbitrage by taxpayers,
+though sovereign states have united to ensure coherence in a narrow field, namely, to prevent
+double taxation. BEPS relates primarily to instances where the interaction of different tax rules &
+tax systems leads to double non-taxation. It also relates to arrangements that achieve no or low
+taxation by shifting profits away from the jurisdictions where the activities creating those profits take
+place. International standards have tried to reduce these frictions in a manner that respects tax
+sovereignty; however, gaps still remain. Therefore, there is a need for countries to collaborate on
+tax matters so that they are able to get their due share of taxes.
+
+     25.2 OVERVIEW OF BEPS
+
+In the background of the above repercussions and the global financial crisis in 2009, the G-20
+countries shifted their focus to strengthen the international financial system. The G-20 mandated the
+OECD to address the issue of tax avoidance, in light of which during February 2013, the OECD
+published a report on “Addressing Base Erosion and Profit Shifting” iterating the need for analyzing
+the issue of tax base erosion and profit shifting by global corporations. The OECD followed it up with
+publishing draft Action Plan on Base Erosion and Profit Shifting (BEPS Action Plan) in July 2013
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+25.4           INTERNATIONAL TAXATION
+
+
+which came to final fruition in October 2015. The BEPS action plan identifies fifteen actions to
+address BEPS in a comprehensive manner and sets a deadline to implement those actions.
+
+The Action Plans were structured around three fundamental pillars viz.:
+(i)     Introducing coherence in the domestic rules that affect cross-border activities.
+(ii)    Reinforcing of ‘substance’ requirements in existing international standards; Alignment of
+       taxation with location of value creation and economic activity; and
+(iii)   Improving transparency and tax certainty.
+
+A brief classification of the various action plans based on the fundamental pillars is as under:
+
+               BEPS Actions as per Objectives
+
+      Coherence       Substance       Transparency       Horizontal
+
+           Action 2          Action 5 - 1st       Action 5 - 2nd       Action 1
+          Neutralise the        component        component            Digital
+             effects of             Preferential         Exchange of       economy
+              hybrid              tax regimes          information on
+          mismatch                                                          tax rulings
+         arrangements                                              Action 15                              Action 6                                                                                     Multilateral                             Prevent treaty
+                                                  Action 11         instrument
+           Action 3           abuse            Data analysis
+        Strengthen CFC
+               rules              Action 7
+                               Prevent the           Action 12
+                                                  Mandatory                                                artificial
+                                                        disclosure rules           Action 4         avoidance of PE
+           Limit interest              status                                                  Action 13
+            deductibility                                                Re-examine
+                             Action 8-10          transfer pricing
+                                Aligning transfer                                                 documentation
+                                       pricing
+                           outcomes with          Action 14
+                               value creation:                                                       Dispute
+                                 Intangibles; Risk                                                            resolution
+                          and capital; and
+                             Other high-risk
+                                  transactions
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+FUNDAMENTALS OF BEPS               25.5
+
+               Substance   Transparency  Coherence
+                                Present tax laws must be                                                                Greater transparency                                  modified: To align tax with     Domestic tax                                      and improved data: Pre-                                  substance.     systems are coherent                                            requisites to evaluate the
+     – tax deductible           Domestic and international         impact and magnitude of
+     payments by one            tax laws should ideally relate                    BEPS.
+     person results in             to both income and the
+     income inclusions by       economic activity that
+                                 generates it. - since at           Taxpayers to report their      the recipient.
+                                      times,tax treaty and transfer        aggressive tax planning
+                                        pricing facilitate the separation      arrangements and rules
+      International                  of taxable profits from value-         about transfer pricing
+     coherence in                creating activities, such as         documentation, breaking
+     corporate income          through shell companies that      down the information on a                               have little or no economic      taxation - A pre-                                               country-by-country basis:                                  substance.      requisite to                                                            Assist governments
+     complement the           Concerns in the area of                  identify risk areas and
+      standards that prevent       transfer pricing should be        focus their audit strategies.
+     double taxation with a      addressed within the
+    new set of standards        prevalent system : These
+                                 areas include returns related to            Making dispute     designed to avoid
+                                         over-capital-isation, risk and         resolution mechanisms     double non-taxation
+                                       intangible assets. Specific             more effective: To
+                                         rules, either within or beyond          provide businesses with
+                                    the arm’s length principle, may                                                                          greater certainty and
+                              be required for this purpose.                                                                                              predictability
+
+The BEPS measures range from new minimum standards to a revision of pre-existing international
+standards, and to common approaches which will facilitate the convergence of national rules and
+guidance drawing on best practices.
+
+An unprecedented amount of interest and participation has been witnessed by OECD with more than
+sixty countries, both OECD members and G-20 countries, being directly involved as a part of
+technical groups  in the development of congruent international tax standards. The Inclusive
+Framework on BEPS works to ensure that the international tax framework for MNEs remains relevant
+for today and the future, thereby promoting economic efficiency and global welfare. It will also ensure
+that governments continue to efficiently raise revenues not only from traditional but also from digital
+businesses, both for direct tax and indirect tax purposes.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+25.6           INTERNATIONAL TAXATION
+
+
+The summary explanatory statement indicates the level of political commitment by OECD, G20 and
+other States involved in the 2015 work to the various reports. The OECD has iterated the following
+terms to indicate the commitment by various participant countries:
+
+New minimum standard  - New minimum standard implies application of a new rule to be
+implemented by all states, since non-implementation may result in negative spill overs (including
+adverse impact of competitiveness) on other countries. Each of the four BEPS minimum standards
+[namely, Actions 5, 6, 13 and 14] is subject to peer review in order to ensure timely and accurate
+implementation and thus safeguard the level playing field. All members of the Inclusive Framework
+on BEPS commit to implementing the minimum standards and commit to participating in the peer
+review.
+
+Revision of a standard which already exists – Existing standards have been updated and will be
+implemented but with the caveat that  all BEPS participants have not endorsed the underlying
+standards on tax treaties or transfer pricing; and
+
+Best practice – A best practice is not a standard but optional recommendation for states to follow.
+Guidance based on best practices will support those countries proposing to act in the areas of
+mandatory disclosure initiatives or controlled foreign company (CFC) legislation.
+(1)  ACTION PLAN 1 – ADDRESSING THE CHALLENGES OF THE
+    DIGITAL ECONOMY
+Digital economy: Dissolving link between income-producing activity and
+physical location
+
+At present, in the digital domain, business may be conducted without regard to national boundaries
+and may dissolve the link between an income-producing activity and a specific location. Hence,
+business in digital domain doesn’t actually occur in any physical location but instead takes place in
+"cyberspace." Persons carrying business in digital domain could be located anywhere in the world.
+Entrepreneurs across the world have been quick to evolve their business to take advantage of these
+changes. It has also made it possible for the businesses to conduct themselves in ways that did not
+exist earlier, and given rise to new business models that rely more on digital and telecommunication
+network, do not require physical presence, and derives substantial value from data collected and
+transmitted from such networks.
+
+Given the rise of e-commerce, an entire digital economy has emerged in the last decade. Since
+there is a concept of ‘intangibility’ attached to the digital model of business, tax authorities often
+faced challenges rightly bringing to tax the profits earned from a digital business. To address the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+FUNDAMENTALS OF BEPS               25.7
+
+same, the first action plan of the BEPS project was developed by the OECD which outlines the
+methods and principles based on which physical and digital economies can be taxed at par. Before
+the same, physical locations of the servers of such digital businesses were considered to establish
+the tax jurisdiction in which the profits of digital businesses could be taxed.  It was observed that
+servers were, therefore, placed in tax efficient jurisdictions, even though the main income generation
+and customers were from other jurisdictions.
+Taxation issues in E-Commerce
+
+These new business models under the industrial revolution 4.0 have created new tax challenges.
+Since the existing international tax system was designed during early 20th century, they remain
+archaic and are incompatible with the modern day business dynamics:
+
+The typical taxation issues relating to digitalisation are:
+
+(i)     the difficulty in characterizing the nature of payment and establishing a nexus or link between
+      a taxable transaction, activity and a taxing jurisdiction,
+
+(ii)    the difficulty of locating the transaction, activity and identifying the taxpayer for income tax
+      purposes.
+
+The digital business, thus, challenges physical presence-based permanent establishment rules. If
+permanent establishment (PE)  principles are  to remain  effective  in the new economy, the
+fundamental PE components developed for the old economy i.e., place of business, location, and
+permanency must be reconciled with the new digital reality.
+OECD Recommendations under Action Plan 1 of the BEPS project
+
+The OECD has recommended several options to tackle the direct tax challenges which include:
+
+             Modifying the  existing Permanent Establishment (PE)  rule  to  provide
+              whether an enterprise engaged in fully de-materialized digital activities would
+                constitute a PE,   if   it maintained a  significant  digital presence  in another
+                country's economy.
+
+          A virtual fixed place of business PE in the concept of PE i.e., creation of a
+           PE when the enterprise maintains a website on a server of another enterprise
+                    located in a jurisdiction and carries on business through that website
+
+              Imposition of a final withholding tax on certain payments for digital goods or
+               services provided by a foreign e-commerce provider or imposition of a equalisation
+              levy on consideration for certain digital transactions received by a non-resident from
+            a resident or from a non-resident having PE in other contracting state.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+25.8           INTERNATIONAL TAXATION
+
+
+Taking into consideration the potential of new digital economy and the rapidly evolving nature of
+business operations, it becomes necessary to address the challenges in terms of taxation of such
+digital transactions.
+OECD  - BEPS 2.0 – Consensus based solution for tax challenges arising out of
+digitalisation
+
+The 2015 Action 1 report provided for options to safeguard against BEPS on account of digitalisation,
+however it did not provide for any recommendations and left it to the discretion of the countries to
+resort to these measures as part of their domestic law. The report also indicated that it was agreed
+between the members to continue to monitor developments in respect of the digital economy, with
+a further report to be delivered by October, 2021
+
+After the delivery of the Interim Report in March 2018, the Inclusive Framework has released details
+of an agreement on 8th October 2021, titled “Statement on a Two-Pillar Solution to Address the Tax
+Challenges Arising from the Digitalisation of the Economy”.
+
+Pillar 1 - Re-allocation of profit and revised nexus rules: This pillar explores potential solutions for
+determining where tax should be paid for new business models and on what basis ("nexus"), as well
+as what portion of profits could or should be taxed in the jurisdictions where clients or users are
+located ("profit allocation").
+
+Pillar 2 - Global anti-base erosion mechanism (Minimum Tax): This pillar explores the design of a
+system to ensure that multinational enterprises pay a minimum level of tax. This pillar is intended to
+address remaining issues identified by the OECD/G20 BEPS initiative by providing countries with
+new tools to protect their tax base from profit shifting to jurisdictions which tax these profits at below
+the minimum rate.
+
+The Pillar Two Model Rules have been designed to make sure they accommodate a diverse range
+of tax systems, including different tax consolidation rules, income allocation, entity classification
+rules etc., as well rules for specific business structures such as joint ventures and minority interests.
+As such, many of the specific provisions of the  Pillar Two Model Rules  will not apply to  all
+jurisdictions or each individual inscope MNE. Taxpayers that either have no foreign presence or that
+have less than EUR 750 million in consolidated revenues are not in scope of the Model Rules. In
+addition, the Pillar Two Model Rules do not apply to government entities, international organisations
+and non-profit organisations (preserving domestic tax exemptions for sovereign, non-profit and
+charitable entities), nor do they apply to entities that meet the definition of a pension, investment or
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+FUNDAMENTALS OF BEPS               25.9
+
+real estate fund (preserving the widely shared tax policy of not wishing to add an additional layer of
+taxation between the investment and the investor). These entities are excluded even  if the MNE
+group they control remains subject to the rules. Taxpayers in scope of the rules calculate their
+effective tax rate for each jurisdiction where they operate, and pay top-up tax for the difference
+between their effective tax rate per jurisdiction and the 15% minimum rate. Any resulting top-up tax
+is generally charged in the jurisdiction of the ultimate parent of the MNE. A de minimis exclusion
+applies where there is a relatively small amount of revenue and income in a jurisdiction. The Pillar
+Two Model Rules also contemplate the possibility that jurisdictions introduce their own domestic
+minimum top-up tax based on the GloBE mechanics, which eliminates (or is at least fully creditable
+against) any liability under GloBE, thereby preserving a jurisdiction’s primary right of taxation over
+its own income.
+                                   Indian Taxation Regime
+
+The concept of ‘Significant Economic Presence’ (SEP) which is similar to the virtual fixed place PE as
+recommended in the 2015 BEPS Action Plan 1 report has been introduced in the Income-tax Act, 1961
+vide Explanation 2A to section 9(1)(i).
+
+Significant economic presence of a non-resident in India shall also constitute business connection in
+India. Significant economic presence means-
+                Nature of transaction                          Condition
+ (a)   in respect of any goods, services or property  Aggregate of payments arising from such
+       carried out by a non-resident with any person   transaction  or  transactions  during  the
+        in India including provision of download of data   previous year should exceed ` 2 crores.
+       or software in India
+ (b)  systematic  and  continuous   soliciting   of  The number of users should be atleast
+      business activities or engaging in interaction  3 lakhs.
+       with users in India
+
+Further, the above transactions or activities shall constitute significant economic presence in India,
+whether or not,—
+
+(i)     the agreement for such transactions or activities is entered in India;
+
+(ii)    the non-resident has a residence or place of business in India; or
+
+(iii)    the non-resident renders services in India:
+
+However, where a business connection is established by reason of significant economic presence
+in India, only so much of income as is attributable to the transactions or activities referred to in (a)
+or (b) above shall be deemed to accrue or arise in India.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+25.10           INTERNATIONAL TAXATION
+
+Chapter VIII in the Finance Act, 2016 on Equalisation Levy
+
+In order to address the challenges of the digital economy, Chapter VIII of the Finance Act, 2016,
+titled "Equalisation Levy", provided for an equalisation levy of 6% of the amount of consideration for
+specified services received or receivable by a non-resident not having permanent establishment in
+India, from a resident in India who carries out business or profession, or from a non-resident having
+permanent establishment in India. This was provided for in section 165 of the Finance Act, 2016.
+
+Meaning of “Specified Service”
+
+(1)    Online advertisement;
+
+(2)   Any provision for digital advertising space or any other facility or service for the purpose of
+       online advertisement.
+
+Specified Service also includes any other service as may be notified by the Central Government.
+
+Further, in order to reduce burden of small players in the digital domain, it is also provided that no
+such levy shall be made if the aggregate amount of consideration for specified services received or
+receivable by a non-resident from a person resident in India or from a non-resident having a
+permanent establishment in India does not exceed ` 1 lakh in any previous year.
+
+However, the consideration received or receivable for specified services would not include the
+consideration, which are taxable as royalty or fees for technical services in India under the
+Income-tax Act, 1961 read with the DTAA notified by the Central Government under section 90 or
+section 90A.
+
+Chapter VIII of the Finance Act, 2016 related to equalisation levy was amended by Finance Act,
+2020 to provide for imposition of equalization levy (EL) of 2% on the amount of consideration
+received/ receivable by an e-commerce operator from e-commerce supply or services.
+
+To  reduce  the  compliance  burden,  equalisation  levy @2%  has been  withdrawn  by  the
+Finance (No. 2) Act, 2024 on consideration received or receivable for e-commerce supply or
+services, on or after the 1st August, 2024.
+
+Further, equalisation levy @ 6% on specified services has also been withdrawn by the Finance
+Act, 2025 with effect from 1st April 2025.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+FUNDAMENTALS OF BEPS              25.11
+
+(2)  ACTION PLAN  2   - NEUTRALISE THE EFFECTS OF HYBRID
+    MISMATCH ARRANGEMENTS
+
+Before understanding what Action Plan 2 recommends, we must understand what a hybrid mismatch is.
+Hybrid Mismatch Arrangement: Meaning
+
+A hybrid mismatch is an arrangement that:
+
+    Exploits a                           Under the                    Of an entity                           To achieve  difference in                            laws of two                           or an                               double non-     the tax                                  or more tax                        instrument                                   taxation   treatment                                    jurisdictions
+
+
+Hybrid mismatch arrangements are sometimes used to achieve unintended double non-taxation or
+long-term tax deferral in one or more of the following ways -
+
+                                    Creation of two
+                                    deductions for
+                                  a single
+                                       borrowal
+
+
+                                                         Generation of
+                                    Hybrid              deductions                  Participation                               mismatch               without                exemption                                     arrange-            corresponding                 regmies                                 ments              income
+                                                                   inclusions
+
+
+                                   Misuse of
+                                          foreign tax
+                                                credit
+
+
+Specific country laws that allow taxpayers to opt for the tax treatment of certain domestic and foreign
+entities may aid hybrid mismatches. It may not be easy to find out which country has in fact lost tax
+revenue, since the laws of each country involved have been complied with; however, there is a
+reduction of the overall tax paid by all parties involved as a whole, which ultimately has an adverse
+effect on competition, economic efficiency, transparency and fairness.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+25.12           INTERNATIONAL TAXATION
+
+
+Recommended general amendments are as follows:
+•   A rule denying transparency to entities where the non-resident investors’ resident
+      country treats the entity as opaque;
+       Example
+        Let us say, X Co., a parent company in country X indirectly holds Y Co., an operating
+       company in country Y. Between X Co. and Y Co. is a hybrid entity that is treated as
+        transparent or disregarded for country X tax purposes and as non-transparent for country
+      Y tax purposes. X Co. holds all or almost all equity interest in the hybrid entity which in turn
+        holds all or almost all equity interests in Y Co. The hybrid entity borrows money from a third
+         party and the loan is used to invest equity into Y Co (or to buy the shares in Y Co from
+         either another company of the same group or from an unrelated third party). The hybrid
+          entity pays interest on the loan. Except for the interest, the hybrid entity does not claim any
+        other significant deduction and does not have any significant income.
+
+        With respect to Country Y, for tax purposes, Hybrid Entity is subject to corporate income
+         tax. Its interest expenses can be used to offset other country Y group companies’ income
+        under the country Y group tax relief regime. On the other hand, country X treats the hybrid
+          entity as transparent or disregarded, with the result that its interest expenses are allocated
+         to X Co, which deducts the interest expense to offset unrelated income. The net effect is
+         that there are two deductions for the same contractual obligation in two different countries.
+
+        Therefore, by virtue of rule denying transparency to an entity which is treated as opaque in
+        the subsidiary company’s country, the double deduction can be avoided.
+•    A rule denying an exemption or credit for foreign underlying tax for dividends that are
+      deductible by the payer;
+       Example
+      N Co, a company resident in country N is funded by M Co., a company resident in country
+     M with an instrument that qualifies as equity in country M but as debt in country N. A
+       payment made under the instrument would be deductible as interest expense for N Co under
+        country N tax law. The corresponding receipts are treated as exempt dividends under the
+         tax laws of country M. Consequently, deduction is available under the tax laws of country N
+        without a corresponding income inclusion in country M.
+
+        Therefore, by virtue of rule denying an exemption or credit for foreign underlying tax for
+        dividends that are deductible by the payer, exemption of such income in country M would
+        not be possible.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+FUNDAMENTALS OF BEPS              25.13
+
+•    A rule denying a foreign tax credit for withholding tax where that tax is also credited
+       to some other entity; and
+•    Amendments to CFC and similar regimes attributing local shareholders the income of
+      foreign entities that are treated as transparent under their local law.
+
+Treaty changes - Action Plan 2 recommends a new provision in the case of income earned by a
+transparent entity. As per the new provision, treaty benefits will only be afforded to so much of the
+income of the entity as the income of a resident of that State. A specific or general saving rule is
+proposed so that a State can tax a resident entity generally unrestricted by treaty.
+
+Anti-hybrid rules - The report further issued a series of dedicated domestic anti-hybrid rules which
+would work in two stages. The primary rules would deny deductions to payers in situations where either
+
+(i)    Those payments will not be included in the recipient’s ordinary income, or
+
+(ii)   The same amount is being simultaneously deducted by another entity.
+Treatment of Branch mismatches: 2017 Report
+
+Branch mismatches arise where the ordinary rules for allocating income and expenditure between
+the branch and head office result in a portion of the net income of the taxpayer escaping the
+charge to taxation in both the branch and residence jurisdiction. Unlike hybrid mismatches, which
+result from conflicts in the legal treatment of entities or instruments, branch mismatches are the
+result of differences in the way the branch and head office account for a payment made by or to
+the branch. The 2017 report identifies five basic types of branch mismatch arrangements that give
+rise to one of three types of mismatches:
+
+
+                                      deduction/no
+                                       inclusion outcomes
+
+
+                                    Three types of
+                                   mismatches
+
+                       indirect deduction/                    double
+                   no inclusion                      deduction
+                     outcomes                     outcomes
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+25.14           INTERNATIONAL TAXATION
+
+
+The 2017 report includes specific recommendations for improvements to domestic law intended to
+reduce the frequency of branch mismatches as well as targeted branch mismatch rules which adjust
+the tax consequences in either the residence or branch jurisdiction in order to neutralise the hybrid
+mismatch without disturbing any of the other tax, commercial or regulatory outcomes.
+(3)  ACTION  PLAN  3    -  STRENGTHEN CONTROLLED  FOREIGN
+   COMPANY (CFC) RULES
+Shifting investment income and passive income to subsidiaries in low tax
+or no tax jurisdictions: Deferral of home country taxation
+
+Under the tax laws of several countries, a shareholder of a corporation  is not taxed on the
+corporation's income until the income is distributed as a dividend. Therefore,  it was common for
+publicly traded companies to form foreign subsidiaries in tax havens and shift "portable" income to
+those  subsidiaries. Generally, income  shifted were mainly investment income  (interest and
+dividends) and passive income (rents and royalties), as well as sales and services income involving
+related parties. Tax in parent country on this income was avoided until the tax haven country paid a
+dividend to the shareholding company. This dividend could be avoided indefinitely by loaning the
+earnings to the shareholder without actually declaring a dividend.
+
+Many countries (where global multi-nationals are based) have high tax rates as compared to certain
+other countries, which used their low tax rates as a means of attracting inward investment. As a
+result, when dividends were repatriated from these lower tax countries, the recipient generally
+suffered additional tax on those profits. Therefore, many companies have a tendency to leave the
+profits from these low-taxed subsidiaries offshore, with the objective of deferring home country
+taxation.
+
+Obviously, Governments were disturbed that multinationals based in their countries kept large
+amounts of profits offshore. In order to address this issue, governments in various countries have
+introduced legislation aimed at eliminating the benefits of deferral, by currently taxing income in the
+parent country even when the income has not been repatriated or remitted to that country. These
+rules are generally referred to as Controlled Foreign Corporation (CFC) rules.
+CFC Rules: Addressing BEPS
+
+Controlled foreign company (CFC) rules respond to the risk that taxpayers with a controlling interest
+in a foreign subsidiary can strip the base of their country of residence and, in some cases, other
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+FUNDAMENTALS OF BEPS              25.15
+
+countries by shifting income into a CFC. Without such rules, CFCs provide opportunities for profit
+shifting and long-term deferral of taxation.
+
+The OECD Final Report does not propose a minimum standard for controlled foreign company (CFC)
+regimes. However, OECD regards CFC rules as being important in tackling BEPS and has made a
+series of best practice recommendations in relation to the ‘building blocks’ of an effective CFC
+regime. The major reason why the OECD was unable to provide more than best practice was
+fundamental disagreement over the policy of CFC regimes, in particular whether states should use
+the regime to protect other states’ tax bases from earnings stripping.
+(4)  ACTION PLAN 4 – INTEREST DEDUCTIONS AND OTHER FINANCIAL
+    PAYMENTS
+
+The OECD is concerned that multinational groups are able to erode their tax base (i.e., reduce their
+taxable profits) with interest expense, for example by:
+
+•     Locating third party debt in high tax countries;
+
+•     Using intra-group loans to achieve interest deductions in excess of the group’s actual third
+       party interest expense;
+
+•     Using related party or third party debt to finance the production of exempt or deferred income.
+
+The use of third party and related party interest is perhaps one of the most simple of the profit-
+shifting techniques available in international tax planning. The fluidity and fungibility of money makes
+it a relatively simple exercise to adjust the mix of debt and equity in a controlled entity.
+
+In particular, the deductibility of interest expense can give rise to double non-taxation in both inbound
+and outbound investment scenarios. The interest payments are deducted against the taxable profits
+of the operating companies while the interest income is taxed at comparatively low tax rates or not
+at all at the level of the recipient.
+
+BEPS Action Plan 4 calls for the development of recommendations for the design of domestic rules
+to prevent tax base erosion through the use of interest expense and other financial payments that
+are economically equivalent to interest.
+
+Common Approach: Linking an entity’s net interest deduction to its level of economic activity
+
+The mobility and fungibility of money enables multinational groups to achieve favourable tax results
+by adjusting the amount of debt in a group entity. The 2015 Report established a common approach
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+25.16           INTERNATIONAL TAXATION
+
+
+which directly links an entity’s net interest deductions to its level of economic activity, based on
+taxable earnings before interest income and expense, depreciation and amortisation (EBITDA). This
+approach includes three elements:
+
+   A Fixed Ratio Rule
+                     A Group Ratio Rule
+    Based on a benchmark net
+      interest/  EBITDA ratio                              Targeted Rules                                This rule allows an entitiy to
+                              deduct    more     interest
+                                                    These Rules address                            expense  based  on   the
+                                                                     specific risks                                   position   of   its  worldwide
+                                group.
+
+
+                                  Indian Taxation Regime
+Section 94B of the Income-tax Act, 1961: Addressing Thin Capitalization
+
+Debt financing of cross-border transactions is often favorable than equity financing for taxpayer. In
+view of the above, in line with the recommendations of OECD BEPS Action Plan 4, section 94B of
+the Income-tax Act, 1961 provides a cap on the interest expense that can be claimed by an entity to
+its associated enterprise. The total interest paid in excess of 30% of its earnings before interest,
+taxes, depreciation and amortization (EBITDA) or interest paid or payable to associated enterprise
+for that previous year, whichever is less, shall not be deductible.
+Applicability
+
+The provision is applicable to an Indian company, or a permanent establishment of a foreign
+company, being the borrower, who pays interest in respect of any form of debt issued by a non-
+resident who is an 'associated enterprise' of the borrower. Further, the debt is deemed to be treated
+as issued by an associated enterprise where it provides an implicit or explicit guarantee to the lender,
+being a non-associated enterprise, or deposits a corresponding and matching amount of funds with
+such lender.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+FUNDAMENTALS OF BEPS              25.17
+
+Carry forward of disallowed interest expenditure
+
+The provision allows for carry forward of disallowed interest expense for 8 assessment years
+immediately succeeding the assessment year for which the disallowance is first made and deduction
+against the income computed under the head "Profits and gains of business or profession” to the
+extent of maximum allowable interest expenditure.
+Threshold limit
+
+In order to target only large interest payments, it provides for a threshold of interest expenditure of
+` 1 crore in respect of any debt issued by a non-resident associated enterprise exceeding which the
+provision would be applicable. Banks, Insurance business and such class of NBFCs notified by the
+Central Government are excluded from the ambit of the said provisions keeping in view of special
+nature of these businesses. A finance company, located in any IFSC, has also been excluded from
+the ambit of said provisions. Also, section 94B would not be attracted on interest paid in respect of
+debt issued by a lender which is a permanent establishment in India of a non-resident, being a
+person engaged in the business of banking.
+(5)  ACTION PLAN 5 – COUNTER HARMFUL TAX PRACTICES
+
+The Action 5 Report is one of the four BEPS minimum standards. The minimum standard of the
+Action 5 Report consists of two parts. One part relates to preferential tax regimes, where a peer
+review is undertaken to identify features of such regimes that can facilitate base erosion and profit
+shifting, and therefore have the potential to unfairly impact the tax base of other jurisdictions. The
+second part includes a commitment to transparency through the compulsory spontaneous exchange
+of relevant information on taxpayer-specific rulings which, in the absence of such information
+exchange,  could  give  rise  to BEPS concerns.  Thirdly,  the  review  of  substantial  activities
+requirements in no or only nominal tax jurisdictions to ensure a level playing field.
+
+                                  Indian Taxation Regime
+
+In India, the Finance Act, 2016 has introduced vide Section 115BBF of the Income-tax Act, a
+concessional taxation regime  for  royalty income from patents  for the purpose  of promoting
+indigenous research and development and making India a global hub for research and development.
+The purpose of the concessional taxation regime is to encourage entities to retain and commercialise
+existing patents and for developing new innovative patented products. Further, this beneficial
+taxation regime  will  incentivise  entities  to  locate  the  high-value  jobs  associated  with  the
+development, manufacture and exploitation of patents in India.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+25.18           INTERNATIONAL TAXATION
+
+Section 115BBF of the Income-tax Act, 1961: In line with nexus approach of
+BEPS Action 5
+
+The nexus approach has been recommended by the OECD under BEPS Action Plan 5. This
+approach requires attribution and taxation of income arising from exploitation of Intellectual property
+(IP) in the jurisdiction where substantial research and development (R & D) activities are undertaken
+instead of the jurisdiction of legal ownership. Accordingly, section 115BBF of the Income-tax Act,
+1961 provides that where the total income of the eligible assessee includes any income by way of
+royalty in respect of a patent developed and registered in India, then such royalty shall be taxable
+at the rate of 10% (plus applicable surcharge and cess). For this purpose, “developed” means atleast
+75% of the expenditure should be incurred in India by the eligible assessee for any invention in
+respect of which patent is granted under the Patents Act, 1970.
+(6)  ACTION PLAN 6 – PREVENTING TREATY ABUSE
+Protection against treaty shopping: Minimum Standard
+
+Bilateral tax treaties concluded by jurisdictions in the world have served to prevent harmful double
+taxation and remove obstacles to cross-border trade in goods and services, and movements of
+capital, technology and persons. This extensive network of tax treaties has, however, also given rise
+to treaty abuse and "treaty-shopping" arrangements.
+
+Treaty shopping typically involves the attempt by a person to indirectly access the benefits of a tax
+treaty between two jurisdictions without being a resident of one of those jurisdictions. There are a
+wide number of arrangements through which a person who is not a resident of a jurisdiction that is
+a party to a tax agreement may attempt to obtain benefits that a tax agreement grants to a resident
+of that jurisdiction.
+
+Taxpayers engaged in treaty shopping and other treaty abuse strategies undermine tax sovereignty
+by claiming treaty benefits in situations where these benefits were not intended to be granted,
+thereby depriving jurisdictions of tax revenues.
+
+Treaty abuse is one of the most important sources of BEPS concerns. It is undesirable for several
+reasons, including:
+
+-    Treaty benefits negotiated between the parties to a treaty are economically extended to
+     residents of a third jurisdiction in a way the parties did not intend. The principle of reciprocity
+      is therefore breached and the balance of concessions that the parties make is altered;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+FUNDAMENTALS OF BEPS              25.19
+
+-    Income may escape taxation altogether or be subject to inadequate taxation in a way the parties
+     did not intend; and
+
+-   The jurisdiction of residence of the ultimate income beneficiary has less incentive to enter into
+    a tax treaty with the jurisdiction of source, because residents of the jurisdiction of residence
+    can indirectly receive treaty benefits from the jurisdiction of source without the need for the
+      jurisdiction of residence to provide reciprocal benefits.
+
+Given the risk to revenues posed by treaty shopping, countries have committed to ensure a minimum
+level of protection against treaty shopping (the minimum standard). That commitment will require
+countries to include in their tax treaties an express statement that their common intention is to
+eliminate double taxation without creating opportunities for non-taxation or reduced taxation through
+tax evasion or avoidance, including through treaty shopping arrangements.
+
+Countries will implement this common intention by including in their treaties:
+
+(i)   the combined approach of Limitation of Benefits (LOB) and Principal Purpose Test (PPT) rule,
+
+(ii)   the PPT rule alone, or
+
+(iii)  the LOB  rule supplemented by a mechanism  that would  deal  with  conduit  financing
+    arrangements not already dealt with in tax treaties.
+Implementation of Action 6 Minimum Standard
+
+The latest peer review on the implementation of the Action 6 minimum standard reveals that a large
+majority of Inclusive Framework members have modified, or are in the process of modifying, their
+treaty network to implement the minimum standard and other BEPS treaty-related measures.
+
+As in previous editions, the latest peer review report continues to demonstrate the efficiency of the
+BEPS Multilateral Instrument (BEPS MLI) in implementing the minimum standard. It is by far the
+main tool of Inclusive Framework members for implementing the minimum standard. The majority of
+the jurisdictions that have signed the MLI have listed almost all their treaties under the MLI.
+
+The provisions of the BEPS MLI have started to take effect with respect to treaties concluded by
+pairs of jurisdictions that have signed and ratified the BEPS MLI. For the treaties for which the MLI
+is effective, tax administrations can now use effective treaty provisions to put an end to treaty
+shopping.
+                                  Indian Tax Regime
+
+LoB clause introduced in India-Mauritius Tax Treaty - On 10th May, 2016, India and Mauritius
+has signed a protocol amending the India-Mauritius tax treaty at Mauritius. In the said treaty, for the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+25.20           INTERNATIONAL TAXATION
+
+
+first time, it has been provided that gains from the alienation of shares acquired on or after 1.4.2017
+in a company which is a resident of India may be taxed in India. The tax rate on such capital gains
+arising during the period from 1.4.2017-31.3.2019 should, however, not exceed 50% of the tax rate
+applicable on such capital gains in India. A Limitation of Benefit (LOB) Clause has been introduced
+which provides that a resident of a Contracting State shall not be entitled to the benefits of 50% of
+the tax rate applicable in transition period if its affairs are arranged with the primary purpose of taking
+advantage of concessional rate of tax. Further, a shell or a conduit company claiming to be a resident
+of a Contracting State shall not be entitled to this benefit. A shell or conduit company has been
+defined as any legal entity falling within the meaning of resident with negligible or nil business
+operations or with no real and continuous business activities carried out in that Contracting State. A
+resident of a Contracting State is deemed to be a shell/conduit company  if its expenditure on
+operations in that Contracting State is less than Mauritian rupee 15,00,000 or Indian ` 7,00,000 in
+the respective Contracting State as the case may be, in the immediately preceding period of 12
+months from the date the gains arise.
+LoB clause in India-Singapore Tax Treaty - On similar lines, India and Singapore has signed a
+protocol amending the India-Singapore tax treaty. Capital gains on sale of shares of an Indian
+company by a resident of Singapore was taxable only in Singapore, if such shares were acquired
+before 1.4.2017. After amendment of the treaty, capital gains on alienation of shares would be
+taxable in a similar manner as laid out in India-Mauritius tax treaty, subject to LoB clause. The
+transition period benefit is also similar to that contained in India-Mauritius Tax Treaty. In respect of
+shares acquired after 1.4.2017 and sold before 1.4.2019, the expenditure test needs to be met for
+the 12 month period immediately preceding the date of transfer.
+(7)  ACTION PLAN 7 – PREVENT THE ARTIFICIAL AVOIDANCE OF
+   PERMANENT ESTABLISHMENT (PE) STATUS
+
+Tax treaties generally provide that the business profits of a foreign enterprise are taxable in a
+jurisdiction only to the extent that the enterprise has in that jurisdiction a permanent establishment
+to which the profits are attributable. The definition of permanent establishment included in tax
+treaties is therefore crucial in determining whether a non-resident enterprise must pay income tax in
+another jurisdiction.
+
+Strategies used to avoid having a taxable presence in a jurisdiction under tax treaties may cause
+cross-border income to go untaxed or be taxed at low rates. The BEPS Action Plan called for a
+review of that definition to prevent the use of certain common tax avoidance strategies used to
+circumvent the former Model permanent establishment definition, such as arrangements through
+which taxpayers replace subsidiaries that traditionally acted as distributors by commissionnaire
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+FUNDAMENTALS OF BEPS              25.21
+
+arrangements, with a resulting shift of profits out of the jurisdiction where the sales took place without
+a substantive change in the functions performed in that jurisdiction.
+
+These changes will ensure that where the activities that an intermediary exercises in a country are
+intended to result in the regular conclusion of contracts to be performed by a foreign enterprise, that
+enterprise will be considered to have a taxable presence in that country unless the intermediary is
+performing these activities in the course of an independent business. The changes will also restrict
+the application of a number of exceptions to the definition of permanent establishment to activities
+that are preparatory or auxiliary nature and will ensure that it is not possible to take advantage of
+these exceptions by the fragmentation  of a cohesive operating business  into several small
+operations; they will also address situations where the exception applicable to construction sites is
+circumvented through the splitting-up contracts between closely related enterprises.
+
+Thus, the following steps have been advocated:
+
+•    Reworking exceptions to PE definition – An anti-fragmentation rule to be adopted to
+      aggregate all activities carried by an enterprise in a state, along with activities undertaken by
+         its closely related entities undertaking business operation that create tax mismatch and are
+      cohesive in nature. The above test can also be applied to understand whether the activities
+      undertaken by an enterprise in a state are ‘preparatory or auxiliary’.
+
+•     Analyzing arrangements entered through contractual agreements –A Commissionnaire
+      arrangement may be broadly defined as an arrangement through which a person sells
+      products in a State in its own name but on behalf of a foreign enterprise that is the owner of
+      these products. Through such an arrangement, a foreign enterprise is able to sell its products
+        in a State without technically having a permanent establishment to which such sales may be
+       attributed for tax purposes and without, therefore, being taxable in that State on the profits
+       derived from such sales. Since the person that concludes the sales does not own the products
+       that it sells, that person cannot be taxed on the profits derived from such sales and may only
+      be taxed on the remuneration that  it receives for  its services (usually a commission).
+      Commissionnaire arrangements have been a major cause of concern for tax administrations
+        in many countries.
+
+Progress in implementation of BEPS Action Plan 7
+
+The changes to the PE definitions were integrated in the 2017 OECD Model Tax Convention and in
+Part IV of the MLI (Articles 12 to 15). The Multilateral Instrument (MLI) is a flexible instrument that
+allows jurisdictions to adopt BEPS treaty-related measures to counter BEPS and strengthen their
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+25.22           INTERNATIONAL TAXATION
+
+
+treaty network. The MLI was signed by nearly 90 jurisdictions and about half of the MLI Signatories
+have so far adopted the MLI articles that implement the permanent establishment changes [For
+detailed understanding of MLI, refer to discussion under Action 15].
+(8)  ACTION PLAN 8-10 - TRANSFER PRICING OUTCOMES IN LINE WITH
+    VALUE CREATION/INTANGIBLES/RISK AND CAPITAL AND OTHER
+    HIGH-RISK TRANSACTIONS
+
+Over the last decades and in step with the globalisation of the economy, worldwide intra-group trade
+has grown exponentially. Transfer pricing rules, which are used for tax purposes, are concerned with
+determining the conditions, including the price, for transactions within an MNE group resulting in the
+allocation of profits to companies within the group in different countries. In this regard, based on the
+arm’s length principle, transactions between associated enterprises have to be priced as  if the
+enterprises were independent, operating at arm’s length and engaging in comparable transactions
+under similar conditions and economic circumstances.
+
+The arm’s length principle has proven useful as a practical and balanced standard  for tax
+administrations and taxpayers to evaluate transfer prices between associated enterprises, and to
+prevent double taxation. However, with  its perceived emphasis on contractual allocations  of
+functions, assets and risks, the existing guidance on the application of the principle has also proven
+vulnerable to manipulation. This manipulation can lead to outcomes which do not correspond to the
+value created through the underlying economic activity carried out by the members of an MNE group.
+The aforesaid Action plans represent the OECD’s work on transfer pricing which has been a core
+focus of the BEPS Action Plans. The specific Actions focus on Intangibles, Risks and capital and
+other high-risk transactions. These are the hard areas of transfer pricing and are summarized
+together in the Final Report ‘Aligning Transfer Pricing Outcomes with Value Creation’.
+
+Clarification and Strengthening of existing standards on transfer pricing
+
+Transfer pricing rules, which are set out in Article 9 of tax treaties based on the OECD and UN Model
+Tax Conventions and the Transfer Pricing Guidelines, are used to determine on the basis of the ALP
+the conditions, including the price, for transactions within an MNE group. The existing standards in
+this area have been clarified and strengthened, including the guidance on the arm’s length principle
+and an approach to ensure the appropriate pricing of hard-to-value-intangibles has been agreed
+upon within the arm’s length principle. The work has focused on three key areas.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+FUNDAMENTALS OF BEPS              25.23
+
+ Action                                        Details
+  Plan
+
+    8     Addresses  transfer  pricing  issues  relating  to  controlled  transactions  involving
+            intangibles, since intangibles are by definition mobile and they are generally difficult-
+           to-value. Misallocation of the profits generated by valuable intangibles is a significant
+         cause of BEPS.
+
+    9     Contractual allocations of risk are respected only when they are supported by actual
+          decision-making and thus exercising control over these risks. Moreover, Action 9
+          addresses the level of returns to funding provided by a capital-rich MNE group member,
+         where those returns do not correspond to the level of activity undertaken by the funding
+         company.
+
+   10     This action focuses on other high-risk areas, which include:
+               -   the scope for addressing profit allocations resulting from controlled transactions
+             which are not commercially rational,
+               -   the scope for targeting the use of transfer pricing methods in a way which results
+                  in diverting profits from the most economically important activities of the MNE
+               group, and
+               -   the use of certain type of payments between members of the MNE group (such as
+            management fees and head office expenses) to erode the tax base in the absence
+                 of alignment with the value-creation.
+
+Progress in Implementation
+
+-      Additional guidance on the attribution of profits to permanent establishments resulting from
+       the changes in the Action 7 Final Report to Article 5 of the OECD Model Tax Convention was
+      published in March 2018.
+
+-     Revised guidance on transactional profit split method (Action 10) was published in June 2018
+      and has been incorporated into the next edition of the OECD Transfer Pricing Guidelines.
+
+-      Additional guidance addressed to tax administrations on the application of the hard-to-value
+       intangibles (HTVI) approach (Action 8) was finalised in June 2018 and has been incorporated
+        in the next edition of the OECD Transfer Pricing Guidelines.
+
+-    New transfer pricing guidance on financial transactions (Actions 4 and 8-10) was published
+        in February 2020 and has been incorporated in the next edition of the OECD Transfer Pricing
+       Guidelines.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+25.24           INTERNATIONAL TAXATION
+
+(9)  ACTION PLAN 11 – MEASURING AND MONITORING BEPS
+
+The adverse fiscal and economic impacts of BEPS have been the focus of the OECD/G20 BEPS
+Project since its inception. While anecdotal evidence has shown that tax planning activities of some
+multinational enterprises (MNEs) take advantage of the mismatches and gaps in the international
+tax rules, separating taxable profits from the underlying value-creating activity, The Addressing Base
+Erosion and Profit Shifting report (OECD, 2013) recognised that the scale of the negative global
+impacts on economic activity and government revenues have been uncertain.
+
+Although measuring the scale of BEPS proves challenging given the complexity of BEPS and the
+serious data limitations, the fiscal effects of BEPS are significant. BEPS causes other adverse
+economic effects, including tilting the playing field in favour of tax-aggressive MNEs, exacerbating
+the corporate debt bias, misdirecting foreign direct investment, and reducing the financing of needed
+public infrastructure.
+
+Measuring the impact and scale of BEPS activities and the effect of the implementation of the BEPS
+measures are important components of the ongoing work of the OECD/G20 Inclusive Framework on
+BEPS. Such measurement and monitoring is necessary to inform both policymakers and taxpayers
+of the effectiveness of the BEPS measures and the extent to which BEPS issues continue to exist.
+Indicators of BEPS activity
+
+Six indicators of BEPS activity highlight BEPS behaviour using different sources of data, employing
+different metrics, and examining different BEPS channels. When combined and presented as a
+dashboard of indicators, they confirm the existence of BEPS, and its continued increase in scale in
+recent years.
+(i)    The profit rates of MNE affiliates located in lower-tax countries are higher than their
+      group’s average worldwide profit rate. For example, the profit rates reported by MNE
+        affiliates located in lower-tax countries are twice as high as their group’s worldwide profit rate
+      on average.
+(ii)   The effective tax rates paid by large MNE entities are estimated to be lower than similar
+      enterprises with only domestic operations  - This  tilts the playing-field against local
+      businesses and non-tax aggressive MNEs, although some of this may be due to MNEs’
+       greater utilisation of available country tax preferences.
+(iii)   Foreign direct investment (FDI) is increasingly concentrated - FDI in countries with net
+      FDI to GDP ratios of more than 200% increased from 38 times higher than all other countries
+        in 2005 to 99 times higher in 2012.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+FUNDAMENTALS OF BEPS              25.25
+
+(iv)   The separation of taxable profits from the location of the value creating activity is
+       particularly clear with respect to intangible assets, and the phenomenon has grown
+       rapidly - For example, the ratio of the value of royalties received to spending on research
+      and development in a group of low-tax countries was six times higher than the average ratio
+        for all other countries, and has increased three-fold between 2009 and 2012.
+(v)    Royalties received by entities located in these low-tax countries accounted for 3% of
+       total royalties  - This provides evidence of the existence of BEPS, though not a direct
+      measurement of the scale of BEPS.
+(vi)   Debt from both related and third-parties is more concentrated in MNE affiliates in
+      higher statutory tax-rate countries. The interest-to-income ratio for affiliates of the largest
+       global MNEs in higher-tax rate countries is almost three times higher than their MNE’s
+      worldwide third-party interest-to-income ratio.
+(10) ACTION PLAN 12 – DISCLOSURE OF AGGRESSIVE TAX PLANNING
+   ARRANGEMENTS
+
+A significant challenge faced by tax authorities worldwide is the lack of timely, comprehensive and
+relevant information on aggressive tax planning strategies. Timely access to such information would
+facilitate quick response to tax risks through informed  risk assessment, audits, or changes to
+legislation or regulations. Action 12 contains recommendations regarding the design of mandatory
+disclosure rules for aggressive tax planning schemes, taking into consideration the administrative
+and compliance costs for tax administrations and business and drawing on experiences of countries
+that have implemented such rules. It recognises the advantages of tools designed to facilitate the
+information flow on tax risks to tax administrations and tax policy makers. The Report provides a
+modular framework for guidance drawn from best practices for use by countries without mandatory
+disclosure rules to design a regime that suits their requirement to get early information on potentially
+aggressive or abusive tax planning schemes and their users. The Action 12 report also sets out
+specific recommendations  for  rules  targeting  international  tax schemes, as  well as  for the
+development and implementation of more effective information exchange and co-operation between
+tax administrations. The recommendations in this Report do not represent a minimum standard and
+countries can decide whether or not to introduce mandatory disclosure regimes. Where a country
+opts for mandatory disclosure rules, the recommendations provide the necessary  flexibility to
+balance a country’s need for better and more timely information with the compliance burdens for
+taxpayers. It also sets out specific best practice recommendations for rules targeting international
+tax schemes, as well as for the development and implementation of more effective information
+exchange and co-operation between tax administrations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+25.26           INTERNATIONAL TAXATION
+
+(11) ACTION  PLAN   13   –  RE-EXAMINE  TRANSFER  PRICING
+    DOCUMENTATION
+
+The lack of quality data on corporate taxation has been a major limitation to measuring the fiscal
+and economic effects of tax avoidance, making it difficult for authorities to carry out transfer pricing
+assessments on transactions between linked companies and even more difficult to carry out audits.
+
+Under BEPS Action 13, all large multinational enterprises (MNEs) are required to prepare a country-
+by-country (CbC) report with aggregate data on the global allocation of income, profit, taxes paid
+and economic activity among tax jurisdictions in which it operates. This CbC report is shared with
+tax administrations in these jurisdictions, for use in high level transfer pricing and BEPS risk
+assessments.  This  report  contains  revised  standards  for  transfer  pricing  documentation
+incorporating a master file, local file, and a template for country-by-country reporting of revenues,
+profits, taxes paid and certain measures of economic activity. The revised standardised approach
+requires  taxpayers  to  articulate  consistent  transfer  pricing  positions and  will  provide  tax
+administrations with useful information to assess transfer pricing and other BEPS risks, make
+determinations about where audit resources can most effectively be deployed, and, in the event
+audits are called for, provide information to commence and target audit enquiries. Country-by-
+country reports will be disseminated through an automatic government-to-government exchange
+mechanism. The implementation package included in this report sets out guidance to ensure that
+the reports are provided in a timely manner, that confidentiality is preserved and that the information
+is used  appropriately,  by  incorporating model  legislation and model Competent  Authority
+Agreements forming the basis for government-to-government exchanges of the reports.
+
+Requirements as per OECD report on Action 13 of BEPS Action Plan
+
+The OECD report provides for:
+
+(a)    revised standards for transfer pricing documentation; and
+
+(b)   a template for country-by-country reporting of income, earnings, taxes paid and certain
+      measure of economic activity.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+FUNDAMENTALS OF BEPS              25.27
+
+Three-tier structure mandated by BEPS
+
+The BEPS report recommends that countries adopt a standardised approach to transfer pricing
+documentation; it mandates the following three-tier structure:-
+
+     Document                                Information
+ (1)  Master File     Standardised information relevant for all multinational enterprises (MNE)
+                    group members.
+                    Master file requires MNEs to provide tax administrations with high-level
+                       information regarding their global business operations and transfer pricing
+                          policies. The master file is to be delivered by MNEs directly to local tax
+                        administrations.
+
+ (2)  Local file       Local file requires maintaining of transactional information specific to each
+                      country  in detail covering related-party transactions and the amounts
+                       involved in those transactions. In addition, relevant financial information
+                      regarding specific transactions, a comparability analysis and analysis of
+                      the selection and application of the most appropriate transfer pricing
+                   method should also be captured. The local file is to be delivered by MNEs
+                          directly to local tax administrations.
+
+ (3)  Country-by-    The BEPS  Action 13  report  provides a  template  for  multinational
+      country         enterprises (MNEs) to report annually and for each tax jurisdiction in which
+       report          they do business the information set out therein. This report is called the
+                     Country-by-Country (CbC) Report.
+                  To facilitate the implementation of the CbC Reporting standard, the BEPS
+                      Action 13 report includes a CbC Reporting Implementation Package which
+                       consists of
+                                  (i)   model legislation which could be used by countries to require the
+                             ultimate parent entity of an MNE group to file the CbC Report in its
+                                jurisdiction of residence including backup filing requirements and
+                                    (ii)   three model Competent Authority Agreements that could be used to
+                                  facilitate  implementation  of  the  exchange  of  CbC  Reports,
+                             respectively based on the:
+                             a)  Multilateral Convention on Administrative Assistance  in Tax
+                                Matters;
+                             b)  Bilateral tax conventions; and
+                              c)  Tax Information Exchange Agreements (TIEAs).
+                    Following information are required in the CbC report:
+                       Information relating to the global allocation of the MNE's income and taxes
+                        paid; and
+                        Indicators of the location of economic activity within the MNE group.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+25.28           INTERNATIONAL TAXATION
+
+               CBC report requires MNEs to provide an annual report of economic
+                        indicators viz. the amount of revenue, profit before income tax, income tax
+                      paid and accrued  in relation to the tax  jurisdiction  in which they do
+                      business. CBC reports are required to be filed in the jurisdiction of tax
+                      residence  of  the  ultimate  parent  entity,  being  subsequently shared
+                   between other jurisdictions through automatic exchange of information
+                   mechanism.
+
+Advantages of the three-tier structure [As per BEPS Report]:
+(a)    Taxpayers will be required to articulate consistent transfer pricing positions;
+(b)   Tax administrations would get useful information to assess transfer pricing risks;
+
+(c)   Tax administrations would be able to make determinations about where their resources can
+      most effectively be deployed, and, in the event audits are called for, provide information to
+     commence and target audit enquiries.
+
+                                  Indian Taxation Regime
+Transfer Pricing provisions under the Income-tax Act, 1961
+
+Chapter X of the Income-tax Act, 1961 comprising sections 92 to 92F contain provisions relating to
+transfer pricing regime.
+
+Section 92D  requires maintenance  of prescribed  information and document  relating  to the
+international transaction and specified domestic transaction by every person who has entered into
+an international transaction. Also, a constituent entity of an international group is required to keep
+and maintain the prescribed information and document in respect of the international group.
+Implementation of international consensus in India
+
+India is one of the active members of BEPS initiative and part of international consensus. For the
+purpose of implementing the international consensus, a specific reporting regime in respect of CbC
+reporting and also the master file has been incorporated in the Income-tax Act, 1961. The essential
+elements have been incorporated in the Income-tax Act, 1961 while the remaining aspects would be
+dealt with in detail in the Income-tax Rules, 1962.
+
+Note – Refer to Chapter 24 Transfer Pricing, wherein the following have been discussed at length -
+
+(i)    Elements relating to CbC reporting requirement and related matters which have been
+       incorporated in section 286 of the Income-tax Act, 1961
+
+(ii)    Maintenance and furnishing of Master file: Consequent provisions incorporated in section
+     92D of the Income-tax Act, 1961.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+FUNDAMENTALS OF BEPS              25.29
+
+Threshold limit of consolidated group revenue for applicability of CbC
+reporting requirement
+
+The CbC reporting requirement for a reporting year does not apply unless the consolidated revenues
+of the preceding accounting year of the group, based on consolidated financial statement, exceeds
+a threshold to be prescribed. This threshold for total consolidated group revenue of the international
+group prescribed under section 286 of the Income-tax Act, 1961 read with Rule 10DB of the Income-
+tax Rules, 1962 is ` 6,400 crores.
+(12) ACTION PLAN  14  – MAKING DISPUTE RESOLUTION MORE
+    EFFECTIVE
+
+As novel challenges relating to international taxation surface, the necessity of having robust dispute
+resolution processes in place becomes increasingly apparent.
+
+Recent statistics show that tax administrations are closing more cases than ever before. However,
+new MAP cases as from 2016 are increasing significantly, thus putting upward pressure on countries'
+MAP inventories. Therefore, the total inventory of MAP cases keeps increasing every year since the
+number of cases closed has not been able to keep up with the number of new cases.
+
+The BEPS Action 14 Minimum Standard seeks to improve the resolution of tax-related disputes
+between jurisdictions. Inclusive Framework jurisdictions have committed to have their compliance
+with the minimum standard reviewed and monitored by its peers through a robust peer review
+process that seeks to increase efficiencies and improve the timeliness of the resolution of double
+taxation disputes.
+
+                   Objective of measures developed under Action 14 of BEPS
+
+
+                                                            Minimize unintended double
+         Minimize the risks of uncertainty                                                                             taxation
+
+
+                                         through
+
+
+             Consistent and proper
+                                                                    Effective and timely resolution of         implementation of tax treaties
+                                                           disputes regarding their interpretation
+                                                                   or application through MAP
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+25.30           INTERNATIONAL TAXATION
+
+
+Eliminating opportunities for cross-border tax avoidance and evasion and the effective and efficient
+prevention of double taxation are significant to developing an international tax system that facilitates
+economic growth and a buoyant global economy. Countries concur that the measures introduced to
+address BEPS pursuant to the BEPS Action Plans should not result in unnecessary uncertainty for
+compliant taxpayers and in unintended double taxation. Improving dispute resolution mechanisms
+is, therefore, a critical component of the work on BEPS issues.
+
+The Action 14 Minimum Standard consists  of elements and best practices, which assess a
+jurisdiction’s legal and administrative framework in the following four key areas:
+
+-    preventing disputes;
+
+-     availability and access to MAP;
+
+-     resolution of MAP cases;
+
+-    implementation of MAP agreements.
+Peer review implications for India
+
+    The BEPS Action Plan 14 had suggested a peer review mechanism to ensure adequate
+      implementation of the suggested minimum standard. As a result, the peer review undertaken
+        for  India  in 2019  highlighted  India's  progress on MAP Programme and suggested
+      recommendations for more effective functioning of the MAP. According to the peer review
+      and BEPS Action Plan 14, the Indian tax authorities have taken significant steps to reform
+       the MAP framework and make it effective.
+
+    The significant reforms include:
+
+    o    The CBDT substituted Rule 44G and omitted Rule 44H of the Income-tax Rules, 1962
+             vide CBDT  Notification No. 23/2020 dated 6th May, 2020. The new  rule 44G
+              extensively deals with the implementation and the procedural framework for the MAP
+             process.
+
+    o      In line with the BEPS Action Plan 14 recommendation, India had released a detailed
+            guidance   note   on  MAP   dated   7th   August,   2020,    available    at
+             https://www.incometaxindia.gov.in/news/map_guidance_7_8_2020.pdf.  The  MAP
+            guidance addresses many of the open issues on procedural aspects of MAP and, more
+              importantly, clarifies key practical nuances absent in the pre-BEPS era regime for the
+             taxpayers to resort.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+FUNDAMENTALS OF BEPS              25.31
+
+(13) ACTION PLAN 15 – DEVELOPING A MULTILATERAL INSTRUMENT
+MLI’s role in tackling BEPS
+
+Abuse of tax treaties is an important source of BEPS. The MLI helps the fight against BEPS by
+implementing the tax treaty-related measures developed through the BEPS project in existing
+bilateral tax treaties in a synchronized and efficient manner. These measures will prevent treaty
+abuse, improve dispute resolution, prevent the artificial avoidance of permanent establishment
+status and neutralize the effects of hybrid mismatch arrangements.
+
+Action 15 of the BEPS Action Plan provides for an analysis of the tax and public international law
+issues related to the development of a multilateral instrument to enable countries that wish to do so
+to implement measures developed in the course of the work on BEPS and amend bilateral tax
+treaties.
+Formation of ad hoc Group to develop MLI
+
+Based on this analysis, a mandate for the formation of an ad hoc Group to develop a multilateral
+instrument on tax treaty measures to tackle BEPS, was approved by the OECD Committee on Fiscal
+Affairs and endorsed by the G20 Finance Ministers and Central Bank Governors in February 2015.
+
+In line with Action 15 report, an ad-hoc group was formed with a pre-defined purpose of development
+of such Multilateral Instrument (MLI) and that adopted the text of the Convention and accompanying
+Explanatory Statement in November 2016. India was part of the Ad Hoc Group of more than 100
+countries and jurisdictions from G20, OECD, BEPS associates and other interested countries, which
+worked on an equal footing on the finalization of the text of the Multilateral Convention, starting May
+2015. The text of the Convention and the accompanying Explanatory Statement was adopted by the
+Ad hoc Group on 24th November 2016.
+Features of MLI
+
+The Multilateral Convention is, thus, an outcome of the OECD/ G20 Project to tackle Base Erosion
+and Profit Shifting (the "BEPS Project") i.e., tax planning strategies that exploit gaps and mismatches
+in tax rules to artificially shift profits to low or no-tax locations where there is little or no economic
+activity, resulting in little or no overall corporate tax being paid.
+
+The MLI modifies tax treaties that are “Covered Tax Agreements”. A Covered Tax Agreement is an
+agreement for the avoidance of double taxation that is in force between Parties to the MLI and for
+which both Parties have made a notification that they wish to modify the agreement using the MLI.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+25.32           INTERNATIONAL TAXATION
+
+
+The MLI is a flexible instrument which will modify tax treaties according to a jurisdiction’s policy
+preferences with respect to the implementation of the tax treaty-related BEPS measures. The MLI
+provides for different types of flexibility:
+
+(i)     jurisdictions can choose amongst alternative provisions in certain MLI articles;
+
+(ii)     jurisdictions can choose  to apply optional provisions  (for instance, the provisions on
+      mandatory binding arbitration);
+
+(iii)    jurisdictions may also choose to reserve the right not to apply MLI provisions (to opt out
+      through a “reservation”) with respect to all of their Covered Tax Agreements or with respect
+       to a subset of their Covered Tax Agreements. Jurisdictions only have the possibility to opt
+       out of provisions that do not reflect a BEPS minimum standard, with the possibility to withdraw
+        their reservation (and opt in) later.
+Coverage of the MLI
+
+In the first signing ceremony of the MLI on 7th June, 2017, more than 65 countries have signed the
+MLI making it a historic moment in the international tax framework. India is an active participant in
+the BEPS programme and was one of the jurisdictions during the signing event. USA and Brazil
+have not signed the MLI and thereby not a party to this convention. The current status of signatories
+and  parties  to  MLI  is  available  at  https://www.oecd.org/tax/beps/beps-mli-signatories-and-
+parties.pdf.
+
+The MLI entered into for the avoidance of taxes is a new concept in International Taxation. The
+fundamentals of MLI can be decoded using the rhetoric 3W1H principles (Why, What, When and
+How).
+
+Why the need for MLI under the BEPS? – The evolution from Bilateral to Multilateral
+
+Before we embark into what is MLI, we must understand the need for an MLI under the international
+tax laws. The existing framework of international tax law is through tax treaties entered bilaterally
+between countries.
+
+The MLI convention is synonymous to a treaty. Treaties are instruments which create international
+law, it is one of the most common and important sources of international law. They are agreements
+between sovereign states and are binding on every sovereign state signatory to such agreement. A
+treaty is defined by the Vienna Convention on the Law of Treaties (commonly referred to as ‘VCLT’)
+as ‘an  international agreement concluded between States  in  written form and governed by
+international law, whether embodied in a single instrument or in two or more related instruments and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+FUNDAMENTALS OF BEPS              25.33
+
+whatever its particular designation’. As much as treaties are instruments under international law,
+conventions, agreements, charters are all synonymously used along with treaty.
+
+The tax treaty framework is through Countries which have entered into Double Tax Avoidance
+Agreements (generally referred to as ‘DTAA’) with several other countries on a bilateral basis i.e.
+agreement between two countries (e.g. Country A with Country B) to prevent double taxation of
+income. India has entered bilateral tax treaties with more than 90 countries. The bilateral tax treaties
+are, inter alia, entered with a view, majorly to prevent double taxation of income and give relief in
+respect of doubly taxed incomes.
+
+The rapid growth of globalization led to the creation of Multinational Enterprises (MNEs) wherein the
+entities within a group were present all over the world and in many cases at jurisdictions which were
+set up with the main objective to obtain tax arbitrage using treaty shopping mechanism. Consequent
+to the 2008 global economic crisis, the international organizations and the fellow nations came up
+with the BEPS action plan to recognise and counter unfair tax planning strategies adopted by certain
+MNEs which had exploited the gaps in the global taxation system by artificially shifting profits to low
+or no-tax locations (where there is little or no economic activity which leads to little or no tax being
+paid). These tax planning strategies violated the ‘Economic Allegiance’ principle which means to
+compensate to a nation or a kingdom for the benefits that one derived from exploiting that nation or
+kingdom’s resources. This resulted in the source taxation principle under the international tax
+principles.
+
+As a result of the BEPS agenda, 15 Action Plans were brought out by the OECD under G20’s
+mandate to tackle the unfair tax planning mechanisms adopted by MNEs. The action plan 15 can be
+considered as the machinery action, which is intended to put into play the anti-avoidance tax
+solutions proposed in the other BEPS action items. The need for such a machinery action item is
+because currently there are more than 3000 bilateral tax treaties that are active and to invoke the
+solutions proposed under the BEPS action plans, these bilateral tax treaties have to be amended.
+Amending the bilateral treaties and involves cumbersome legal process as each country have their
+own constitutional or other legal mechanisms to invoke international treaties into their domestic laws.
+Further, mere incorporation of these solutions in domestic law will not achieve the desired objective
+as the tax treaties will remain a tool for tax evaders. Therefore, to ensure the BEPS solutions are
+transposed into the tax treaty, action plan 15 objective was to bring all these amendments under
+one single umbrella and hence, the work on developing a multilateral agreement was undertaken.
+
+Multilateral agreements are entered by three or more nations, thus, bringing many countries under
+one roof. Such agreements are considered effective and less time-consuming. The World Trade
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+25.34           INTERNATIONAL TAXATION
+
+
+Organization (WTO) agreement, in which India is a party, is a classic example of multilateralism.
+Multilateral agreements, in the context of international taxation, is not new as there have been
+precedents from Scandinavian, Caribbean countries entering into such an agreement to avoid
+double taxation.  India also has its experience through the SAARC Limited Multilateral Agreement
+for the avoidance of double taxation. But what distinguishes those agreements from the BEPS MLI
+is that the MLI is exclusively entered to ensure there are no double nontaxation and reduction of
+taxes, unlike the former whose objective was inter alia to avoid double taxation and to promote
+economic relations.
+
+Therefore, the MLI modifies tax treaties not by directly amending the text of the tax treaty, but by
+being applied together with the relevant tax treaty. They do not make the existing DTAA otiose, they
+operate along with the existing DTAA and will modify the application of some clauses in the existing
+DTAA using the lex posterior (later in time) principle. Therefore, the BEPS MLI is an effective tool
+to implement the anti-avoidance measures in a synchronised manner without the need to bilaterally
+renegotiate each and every agreement. The BEPS MLI can act as a retaliatory tool for tax enforcers
+to use against the tax evaders, as it can disentitle a taxpayer from undertaking treaty shopping or
+availing unfair treaty benefits based on the anti-avoidance measures initiated under the BEPS action
+items. Having seen the need for an MLI on tax treaties, we will dwell further on the operational
+aspects of the same.
+
+What is MLI? – Structure and key organs
+
+The MLI under the BEPS action plan 15 is to implement the BEPS work into the existing treaty
+network. The MLI will enable to provide a standard language for modification of all the existing
+DTAAs. This enables elimination of disputes arising on account of  different terms being used
+differently or distinctively  in each of the DTAA between contracting states thereby acting as
+deterrence for tax abuse. It is reiterated that the BEPS MLI is an enabler to the existing tax treaties
+and does not replace the existing tax treaties. It operates along with the existing DTAA by modifying
+the application of a provision under the DTAA.
+
+Structure of the MLI
+
+Just as bilateral tax treaties are agreements, the MLI is also a similar instrument and its interpretation
+will be governed by the principles laid down by VCLT. There are 7 parts and 39 articles in the MLI.
+The coverage of MLI through its articles in light of the BEPS action plans is structured in the manner
+provided below. Articles 3 to 17 are recognised as substantive provisions under the MLI convention.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+FUNDAMENTALS OF BEPS              25.35
+
+     Part                      Particulars                              Article
+ Part I       Scope and Interpretation of terms                Article 1-Article 2
+
+ Part II        Hybrid Mismatches                                Article 3-Article 5
+
+ Part III       Treaty Abuse                                       Article 6-Article 11
+
+ Part IV       Avoidance of PE Status                           Article 12-Article 15
+
+ Part V        Improving Dispute Resolution                     Article 16-Article 17
+
+ Part VI        Arbitration                                          Article 18-Article 26
+
+ Part VII       Final Provisions                                    Article 27- Article 39
+
+Key Organs of the MLI
+
+Each country before becoming a signatory  is required to adopt certain ‘mandatory minimum
+standards’, make ‘notification’ of MLI provisions, ‘make a reservation’ to certain provisions of MLI
+and also provides for ‘compatibility clauses’ to ‘opt-in and opt-out’ of MLI provisions. Here, we will
+discuss the key organs of the MLI which acts as a fulcrum for the operation of the instrument.
+
+                               Key organs
+
+               Covered Tax Agreement
+
+                   Compatibility Clause
+
+                 Reservation Clauses
+
+              Minimum Standard
+
+Covered Tax Agreements (CTA)
+
+The entire scope and starting point of the MLI revolve around CTA. Article 2 of MLI defines a CTA
+as: ‘an agreement for avoidance of double taxation with respect to taxes on income that is in force
+between two or more parties and/or jurisdictions with respect to which each party has notified to the
+Depository as a listed agreement under the MLI’.
+
+It  is, therefore, extremely relevant that to make the MLI operational between two parties (or)
+jurisdictions/ states, each country must notify each other's bilateral tax treaty while becoming a
+signatory to the MLI. Each country has to notify the DTAA with other jurisdiction under the MLI, upon
+which the said DTAA will be the CTA for the purposes of MLI operation.
+
+India has notified 93 jurisdictions under the MLI at the time of ratifying the MLI convention. Similarly,
+it is also important that the countries which have signed a bilateral treaty with India must also notify
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+25.36           INTERNATIONAL TAXATION
+
+
+DTAA with India while depositing their instrument with OECD. Therefore, ‘the matching principle’ is
+a key attribute and only when the other country also notifies the DTAA with India, the DTAA between
+India and that country will be considered as a CTA.
+Examples
+Exhibit 1: Whether the India & Australia DTAA is a CTA under the MLI?
+   Steps                   Considerations                    Comments
+ Step 1      Whether India and Australia already have a DTAA  Yes, move to step 2
+                 in existence?
+
+ Step 2      Whether India and Australia are signatories to  Yes,  both  the  parties  are
+            MLI?                                               signatories to the MLI.
+
+ Step 3      Whether India has notified DTAA with Australia as  Yes, India has notified DTAA
+             a CTA in its MLI deposit note to the OECD?        with Australia as a CTA.
+
+ Step 4      Whether Australia has notified DTAA with India as  Yes,  Australia  has  notified
+             a CTA in its MLI deposit note to the OECD?      DTAA with India as a CTA.
+
+ Step  5   -   Article 2 – Scope provisions matched and hence  MLI provisions will apply.
+ Conclusion   India -Australia DTAA is a CTA.
+
+Exhibit 2: Whether the India & Mauritius DTAA is a CTA under the MLI?
+   Steps                  Considerations                    Comments
+ Step 1      Whether  India and  Mauritius  already have a  Yes, move to step 2
+          DTAA in existence?
+
+ Step 2      Whether India and Mauritius are signatories to  Yes,  both  the  parties  are
+            MLI?                                               signatories to the MLI.
+
+ Step 3      Whether India has notified DTAA with Mauritius  Yes, India has notified DTAA
+             as a CTA in its MLI deposit note to the OECD?     with Mauritius as a CTA.
+
+ Step 4      Whether Mauritius has notified DTAA with India  No, Mauritius has not notified
+             as a CTA in its MLI deposit note to the OECD?   DTAA with India as a CTA.
+ Step 5       India – Mauritius DTAA matching provisions not  MLI provisions will NOT apply.
+ Conclusion   satisfied. Therefore, the said DTAA is not a CTA.   Will  be  governed  only  by
+                                                                      existing DTAA provisions
+ Note: India-Mauritius DTAA was amended in the year 2016, inter alia, to incorporate certain
+ BEPS provisions. This may be the possible reason for Mauritius not notifying DTAA with India as
+ a CTA. This shows the flexibility that is available under the MLI for countries to choose.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+FUNDAMENTALS OF BEPS              25.37
+
+Further, there are some countries like the USA and Brazil amongst others which have not signed
+the MLI Convention. Hence, in such a scenario, the India-USA DTAA or the India-Brazil DTAA will
+have no consideration towards the MLI and the existing DTAA provisions will only govern the tax
+treaty framework.
+
+Therefore, once an existing tax treaty is recognised as a CTA in the MLI context, the tax treaty will
+have to take cognizance of the operational aspects of the MLI.
+Compatibility Clauses – Bridge between the DTAA and the MLI
+
+Once the existing DTAA becomes a CTA, we move to the next main organ of the MLI i.e. the
+compatibility clauses. One of the core objectives of the MLI is to ensure consistency amongst the
+nations to incorporate the BEPS solutions in their treaty network. Further, the objective of MLI is to
+only modify the application of certain provisions in the existing DTAA. Therefore, parties to the MLI
+are given the flexibility to choose the relevant provisions of the MLI that needs to be transposed to
+their existing DTAA. In a bilateral DTAA, two countries negotiate and have the flexibility to decide
+which provisions to be incorporated. Since tax policy of countries vary, flexibility is important to
+attract countries to sign the MLI. Therefore, the flexibility is provided in the form of compatibility
+clause and the reservation clause.
+
+The compatibility clause is to ensure that there is no conflict between the two treaties i.e. the DTAA
+and the MLI. This is because of the uniqueness of the MLI, which is not a standalone treaty as it
+operates alongside the bilateral tax treaties. If there is a possible conflict that may arise between
+the two treaties i.e., the DTAA and the MLI, the compatibility clause would resolve this conflict.
+Further, the compatibility clause also gives options to parties to leave an existing provision of the
+DTAA undisturbed,  if the existing provision serves the desired objective with which a particular
+provision of the MLI was placed to.
+
+There are 4 different categories of compatibility clause(s) which are found under the MLI convention.
+They are depicted in the following table
+   Compatibility          Meaning                 Effect           Notification Criteria
+      Clause
+ “in place of”      Purpose of this clause is  The       concerned  Only when  both  the
+                        to  replace an  existing   provision of MLI shall   parties  to  the  CTA
+                      provision  of  the CTA,   replace  the  existing   notify,     the   CTA
+                       with  that  of  mutually  CTA provision.          provision be replaced
+                         notified  provisions   of                       by the MLI provision.
+                  MLI    between    two
+                       countries.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+25.38           INTERNATIONAL TAXATION
+
+ “in the absence  Purpose of this clause is  The  concerned  MLI  Only when  both  the
+ of”                   to   enforce   a  new   provision is added to   parties  to  the  CTA
+                      provision into the CTA,   the    existing  CTA   notify,     the    MLI
+                  where such provision is  which    does    not   provision gets added in
+                    absent in the CTA.        contain    such    a   the CTA.
+                                                   provision.
+ “applies  to”  or  Purpose of this clause is   This existence of this  Only when  both  the
+ “modifies”          that  the  relevant CTA   compatibility clause is   parties  to  the  CTA
+                      provision      will    be   that there should be a   notify,     the    MLI
+                     modified    by    MLI   mutually notified CTA   provision  would  be
+                      provision        without   provision  on  which  made applicable to the
+                      replacing    the   CTA   this condition is made   existing CTA provision.
+                       provision.                   effective.  Thereafter,
+                                               the    relevant   MLI
+                                                 provision   shall  be
+                                    made applicable to an
+                                                    existing       CTA
+                                                 provision      without
+                                                 replacing          the
+                                                 provisions of CTA.
+ “in place of or in  Purpose of this clause is  Use of “in place of”:   With  regard   to  the
+ the absence of”     to  replace an  existing  Where        existing   notification,    this    is
+                      provision  in CTA  with   provisions of CTA are   different   from   the
+                      the   MLI    provision.   notified    by    two   earlier        clauses,
+                       Further, where there is   countries,  then,  the  wherein even   if both
+                  no such provision in the  MLI   provisions  are   the parties to the CTA
+                  CTA, the MLI provision  replaced   with  CTA  does  not  notify  this
+                             will  be  added  to  the   provisions.              clause,    the    MLI
+                       existing CTA.          Use   of   “in   the   provision  shall  apply
+                                       absence of”:         and  supersede   the
+                                                                         provisions of the CTA                     This    is   the   most  Where   no    such
+                                                                                to   the   extent    of                  commonly used clause   provisions  exist  in a
+                                                                                incompatibility.   The                          in   many    of    the  CTA,  then  the  MLI
+                                                      same holds good even                      substantive   provisions   provisions    includes
+                                                                                                                                 if   only  one   party                        of the MLI.             them and gets added
+                                                                                   notifies this clause.                                                      into the CTA.
+
+Reservation Clauses – ‘Opt-Out’ Mechanism
+
+The reserved provisions of MLI shall not apply to a CTA if either of the parties makes a reservation.
+A reservation is defined in the VCLT as a “unilateral statement made by a State, when signing,
+ratifying, accepting, approving or acceding to a multilateral instrument, whereby  it purports to
+exclude or to modify the legal effect of certain provisions of the Convention”
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+FUNDAMENTALS OF BEPS              25.39
+
+Hence, reservations under treaties, introduce flexibility in treaty negotiations, so that States come
+forward to be a signatory to such multilateral conventions. The general rule of multilateral instrument
+is that its parties are bound by the entire instrument unless the parties make a reservation. The MLI
+enables states to opt-out of the provisions, either entirely or partially, by introducing a mechanism
+of reservations.
+
+However, reservations concerning minimum standard provisions (discussed later) under the MLI can
+be made only on limited situations and subject to satisfying certain conditions.
+Examples:
+
+1)     India has reserved its position on Article 3 of the MLI on transparent entities (BEPS Action
+        2), therefore Article 3 will not be added or modified in any of India’s existing DTAA as India
+      has opted-out.
+
+2)    France has reserved its position on Article 4 of the MLI on dual resident entities (BEPS Action
+        2), therefore when we apply India-France DTAA, Article 4 of the MLI will not affect the DTAA
+       since France has opted-out/reserved its position on the said Article 4 of the MLI.
+
+A party to the MLI may reserve the right for provisions of the MLI to not apply:
+
+       to its covered tax treaties in their entirety; or
+
+     a subset of its covered tax treaties
+
+Further, the reservations made under the MLI by a party will apply symmetrically wherein it applies
+to the reserving party and other parties to the convention. In certain exceptional situation, the
+reservation provision also works asymmetrically, which is a unique feature of the MLI, unlike other
+multilateral agreements.
+Mandatory Minimum Standards
+
+The mandatory minimum standards form the genesis of MLI and without which the object of MLI may
+not be fulfilled. One of the core objectives of developing the MLI is to ensure consistency amongst
+the 3000 odd tax treaties that are currently in existence. As we have seen earlier, the MLI also gives
+flexibility to the parties through compatibility and reservation clause, however, to ensure there is
+some consistency, the parties have to adhere to incorporating mandatory minimum standard
+provisions in the MLI.
+
+The objective of the minimum standard provisions is to ensure that these anti-abuse provisions will
+help eliminating the treaty shopping mechanism and consequentially the elimination of double non-
+taxation scenarios by tax-evaders. The minimum standards under the MLI, therefore, achieve certain
+consistency amongst the existing tax treaties. These minimum standard provisions, which have to
+be incorporated in the tax treaties, help in combating tax avoidance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+25.40           INTERNATIONAL TAXATION
+
+
+Out of the four minimum standards prescribed under the BEPS action plan i.e.
+
+Action 5 - Countering Harmful Tax Practices
+
+Action 6 - Treaty abuse prevention mechanism
+
+Action 13 - Country by Country Reporting
+
+Action 14 - Effective Dispute Resolution Mechanism
+
+Action 6 and Action 14 solutions are specifically provided as a minimum standard provision under
+the BEPS MLI. With regards to Action 5 and Action 13, the solutions are to be incorporated under
+domestic laws.
+
+However, in a case where the Contracting States together agree to reflect the minimum standard
+provisions specified under the MLI into their existing DTAA, then, such treaty partner may opt-out of
+the minimum standards under the MLI.
+
+When – Entry into Force and Effective Date
+
+The historic MLI was signed on 07 June 2017 by more than 65 countries at Paris, France during the
+initial signing ceremony. The Entry into Force and the Effective Date is specified under Articles 34-
+36 of the MLI. Since the MLI is a new instrument for the signatory countries, many countries which
+were not part of the initial signing ceremony have been signing the MLI on an ongoing basis. It is,
+therefore, important to understand when the MLI enters into force and the effective date.
+
+The MLI will apply only to those countries which have:
+
+-     Signed the MLI;
+
+-       Ratified, accepted or approved the MLI under the domestic law and deposited such
+       instrument of ratification with the OECD depositary.
+
+Upon deposit of the instrument of ratification, the MLI enters into force on the first day of the month
+following the expiry of 3 calendar months beginning on the date of such subsequent deposit.
+Effective date
+
+Once the MLI is entered into force by both the Contracting States, the effective date of the MLI shall be:
+For withholding taxes – 1st day of next calendar year that begins on or after the latest of the dates
+on which this Convention enters into force for each of the Contracting Jurisdictions to the CTA.
+For other taxes – Taxable period that begins on or after the expiration of a period of 6 calendar
+months from the latest of the dates on which this Convention enters into force for each of the
+Contracting Jurisdictions to the CTA.
+
+India’s journey and effective date on the applicability of the MLI
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+FUNDAMENTALS OF BEPS              25.41
+
+        Date                                   Event
+  7th June, 2017       The signing of the MLI
+ 25th June 2019        Deposit of ratification instrument with the OECD depository.
+  1st October 2019      Entry into Force of India’s MLI
+The provisions of the said Convention would have effect in India with respect to a Covered Tax
+Agreement in accordance with the provisions of Article 35 of the said Convention.  Accordingly, in
+exercise of the powers conferred by  section 90(1) of the Income-tax Act, 1961, the Central
+Government    has,    vide    Notification   No.57/2019   dated   9.8.2019    (available    at
+https://www.incometaxindia.gov.in/communications/notification/notification57_2019.pdf),    notified
+that the provisions of the said Convention shall be given effect to in the Union of India, in accordance
+with India’s Position under the said Convention, as set out in the Annexure thereto.
+
+If a country has signed and notified DTAA with India, however, the MLI has not entered into force,
+then in such a case, the MLI provisions will not be applicable. For e.g., Italy has notified DTAA with
+India as a CTA; however, Italy has not ratified its MLI under its domestic laws and hence the
+provisions of MLI cannot be applied until Italy’s MLI is entered into force. Therefore, the MLI does
+not apply in respect for India-Italy DTAA.
+ILLUSTRATION 1
+
+An Indian company intends to withhold taxes on a payment to be made to an Italian Company on
+10th April 2025. In this regard, the Indian company wants to understand whether the provisions of
+MLI are applicable to read it along with the India-Italy DTAA.
+SOLUTION
+
+With effect from 1st April 2020, India’s MLI has entered into effect. However, Italy has not yet ratified
+the MLI as on 10th April 2025, therefore, the MLI provisions of Italy has not entered into force yet
+and therefore, the MLI provisions are not applicable. The Indian company will rely only on the existing
+India-Italy DTAA.
+
+How does the MLI Operates - Mechanics
+
+The MLI is only an addition to the existing DTAA and does not replace the DTAA. It only intends to
+modify/amend the existing DTAA subject to the discretion of the parties and hence has to be read
+along with the DTAA between the parties. Due to the unique feature of MLI not being a standalone
+agreement, the operation of the MLI is critical and needs proper application.
+
+The mechanics for applying the MLI is on the satisfaction of the conditions as follows:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+25.42           INTERNATIONAL TAXATION
+
+
+             Both the Contracting States to the DTAA should be signatories to the MLI.
+
+
+           Both the Contracting States should have duly notified their DTAA as a Covered
+               Tax Agreement (CTA) and the MLI should have entered into force.
+
+         The substantive provisions and choices of the Contracting States to be analysed
+           through the compatibility clause and notification clause, regarding the provisions
+                                 of the CTA that is to be modifed by the MLI.
+
+          To identify, whether any reservation is made on the application of a provision of
+                              the MLI by either of the contracting parties.
+
+ILLUSTRATION 2
+
+Whether MLI provisions will apply in the following scenarios?
+
+(a)    Country A and Country B are signatories to the MLI. Both countries have ratified the MLI
+      agreement as per their domestic legislative process. Country A has notified DTAA with
+      Country B as a CTA, however, Country B has not notified DTAA with Country A.
+
+(b)    Country A - Country B DTAA is a CTA under Article 2 of the MLI as both the countries have
+        notified the concerned DTAA. Country A has ratified the MLI under their domestic laws and
+      has deposited the ratification instrument. Country B has not ratified the MLI owing to political
+        instability in their country. In this regard, Country A wishes to invoke the MLI provisions while
+      accessing the Country A – Country B DTAA.  Is the action of Country A valid?
+SOLUTION
+
+(a)    Since Country B has not notified DTAA with Country A as CTA, the MLI provisions will not
+      apply with regard to the Country A - Country B DTAA, as per Article 2 of the MLI.
+
+(b)   Under Article 34 - Entry into Force of the MLI, only when a Country deposits its instrument of
+        ratification, the MLI will enter into force according to the timelines stipulated in the mentioned
+        Article. In the given scenario, since Country B has not ratified the MLI, consequently, the MLI
+       with regards to Country B has not entered into force yet. Hence, Country A - Country B CTA
+      under MLI is not in force yet and, therefore, provisions of the MLI are not applicable. The
+       action of Country A is, therefore, invalid.
+
+Resources: The discussion on BEPS Action Plans contained in this chapter is essentially based on the Action
+Plans developed  in  the  context  of  the OECD/G20 BEPS  Project and  available  at  the  website
+https://www.oecd.org/en/topics/policy-issues/base-erosion-and-profit-shifting-beps.html#beps-actions
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+FUNDAMENTALS OF BEPS              25.43
+
+
+                                                        from        be                                                                       business                                    should
+                                                                                                                  should                                                                                                 arisingtransactionsyear
+
+                              or                                                                                         constitute                                              users
+                                    also             Condition        payments        previouscrores.  of                            of              Laws                                                the `  3                economy                        shall                                                       transaction 2         lakhs.                                                                                                                  number           Tax
+                                            India                                                                                                                             Aggregatesuchduring exceed   Theatleast                digital                  in means-                      Indian
+       the in                    of                                             any      of
+    of
+                                                            with                                                                               presence                        property
+                            or                                                                                     India           solicitingin                                                                                                           non-resident                                                      provision                                  interaction
+                                  in
+         a                      challenges    incorporated
+                  of                                                                               economic                        services       the                                                                                                                                                                engaging                                                                                                                                                                                   non-resident                                                                                                                                               includingsoftware  SUMMARY                                        or                                  or           continuous               a                                                                                   goods,                                Provision          presence                                                                       presence                                                                                                             Significant         anybyIndiadata   and     India
+                                          in                                                                                                        transaction                      Addressing                                                                                                                                                                                                        activities                            ofoutinof  :                   of  1                                   India.                                               economic   economic in                                                   users                                                                                                 respect         Plan                                                         Nature  incarriedpersondownload           systematicbusiness with
+
+                                          (a)            (b)             Action                             Significant    Significant connection
+         BEPS                                                                                                              place                                                                                                                                                                                                          carries                                PE                                                                                                                                                                                                                 through                                                                                                                                digitalanother                                                        in                                                          existing    (PE)providean engagedde-digitalwoulditif           PE    of a                             &
+                a                                                                                                                                                                                                                                               enterprise websitea                                                                                                                                                                                                                                                                             enterprise                                      in economy                                                                                                                                                           server                                                                                                              fixed                     to          fully                                                                        the
+                          a                                                                                                                                                                                                                                                       website.              OECD                                                                                                                                          business                                                                                                                                                                                                                                               business                                                                                                                                                         virtual                                                                 ModifyingPermanentEstablishmentrulewhether enterpriseinmaterializedactivitiesconstitutemaintained significantpresence country's Aofwhen maintainsonanotherlocatedjurisdiction on that                                                              Recommendation
+
+
+       i                           ii
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+25.44           INTERNATIONAL TAXATION
+
+         orgross                    Act,
+                                    facilitythe                                   e-commerce  of                                                                                Finance
+       an
+                                  the       of                                             electronic                           @0.1%          by         or
+                            services                               digitalsource       of             itsat                                            withdrawn
+                tax                    been                               provisionthrough
+       or                                 deduct               has
+
+           to                 goodsoperator       of      liable                                        services
+              sale  is both.
+             or                                                              2025.                                             e-commerce                                                                                                       specified                 where        operator
+         an                       on April              thatby        services                                     1st
+             or                                  @6%
+                                                  from                            provides          e-commerce sales                                                 facilitated                        Levy
+         is    such                              effect                 194-O    such of
+                                                  with                        Sectionparticipantplatform, amount                                               Equalisation 2025
+
+                 final
+
+
+   a                               certaindigital servicese-    an oncertain    Non-aresidenthaving other         on              foreign    of Levyfor  a       of   for a                                                            transactions         the             tax                                                                                                               state.             or         provider.          by               by                            from
+                                   in                                                                                                                                                                                                     Non-resident                                   Impositionwithholdingpayments goodsprovidedcommerce          Imposition Equalisationconsiderationdigitalreceivedresidentor PEcontracting
+
+
+          iii            iv
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+FUNDAMENTALS OF BEPS              25.45
+
+                            been       not    thewith         in       was  onas                         to                out                                                                                                                             entitled                                                                             Treaty.                     hascompany                                                                                        negligible                            gains                               be              ita                                                                                                                                                        manner    Tax                in          however,                                                                                                                                    carried                                               not     with                                                                                                   entitledarranged                                                                                                                                                                                                        Singapore                                   time,                                                                                                                                                                          capital                                                                                                                                                                                  similar                         beare                of                                                                              shall         a                                   first1.4.2017        should,    not                                   resident activities                  thatin                     the                                      affairs                                                          tax. State  of                                                                                                                                                                                                                 1.4.2017.                                                   India-Mauritius                     forafter                 shallitsof                                                      resident
+                           if        a                                                       in                            Treaties     or                                                                                                                                                                          providetaxable                     and                                                          rate                                                                                                                                                       business     by                on             India. State                                                                                                                                           before to                                                                                                                             meaning          Tax           in                          be                                                                                period                                                                                                                                                                            Contracting    the                                                     clause.                a                                            would           contained                                                                                                                                                                                       1.4.2017-31.3.2019 gains       of                     Indian          amendedacquired                                                                                                                                                           companyacquired       LoB                                                                                                              that                                                                                                           within continuous                                amended  to                                                      India.                                                                                                                                         Contractingtransitionconcessional       in    was            abuse                                                       to                                         from
+                  in            a                                                                              capital                                                                                             were                           inof                                                                                                                                                                                                           1.4.2017                                                shares                                                                                                                                     Indian                                                                                                                             resident                                                                                                                             falling and                                                                                                 been                         of                      on                a                of                                                                           real                                                                                                                                                                                         subject                                            an              treaty                 treaty                                                                                                                                                                                                 similar                                             taxed arising                                                                                                                               after                               be                                             rate                     tax                                                                                                           entity                                      no     Treaty ofshares hasor                               to                  be                                                                                                              also                                         incorporated Treaty                                                                                                                                      applicableadvantage                                  tax  resident                                                   on treaty,                                                   gains                                                                           with  Tax     such                                                                                         legal                                                                                alienationmay  a                                              if treaty              Tax                                          is                                                      rate                                                                               tax                                      or              shares                        Preventing                                                                                                                             claiming    any                                                                                      taking                     clause                                            of    tax                                                  thattax                        theIndia capital                                    is     6:                                                                                                                                                                                                 benefit                             of                                                                                                                                                                                                           acquired                                               Co.                  of            applicable    the                                                                                                         India-Mauritiusfrom          LoB                                                     Co.             sale                                                                                                                       State.                                         such         Plan                                  the  of                                            operations                                                                                                                                                                                                                                        Singapore,                     the                                            on                                                                                                                                                                      period                                        gains  on of  provides                    in       shares                                                                                                     purpose  conduit                                                                    India-Mauritius                 resident          50%                                                                                                                                                                                                                                                             India-Singapore       of India-Mauritius                a        conduit                                thata              Action  in                                         rate 50%  of  or benefit. or                  is                                                                                                                                                       business                                                                          Clause                                                                                                                                                                                                                                                                                                                                                                             India-Singapore                               tax                                                                                                                                                                                                                          Contracting                                                                               out  transition                                                                                                     primary                                                                      10.5.2016,                     in gainsonly    in                                                         nil                                                                  this                                                                              shell                                                                                         shell         BEPS       clause Onprovidedwhich The exceed LOBbenefitsthe                A                                 to                  A                                      orthat clause Capitaltaxable Thealienation laid The
+              LoB •  • •  • •     LoB • •  •
+                to oftreatytheir  of          rule,    rulea deal                                      by         financing                                            level                          BenefitsPrincipal                                              revenuesshopping,      in           or                             already                                                                                                     would                  treaties.                            Standard                                                                   not                                                                (PPT)            to                                                                                                      alone,                                                                      committed                                 approachof                                                                      tax                                                                                 that                                            LOB        in                                                                    againstincluding         andTest                                                       rule                       risktreaty                                                             minimum                                                                                conduit                               have                      by                                                                                             with                        Minimum         a                                                                                                       combined       PPT                 theby                                       theLimitation(LOB)Purpose the thesupplemented mechanismwitharrangementsdealt              OECD                             Givenposedcountries ensureprotectionshoppingtreaties: (i)             (ii) (iii)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+25.46           INTERNATIONAL TAXATION
+
+
+                    the         ofthe              ofplays              1961  activity                                                    that              Act,                                                               contracts                                                                                                 grantingor                                         behalf of
+                                    theNR                                               businessonhabitually                                    forthat  NR                or                                   Income-tax any                                         acting      be-   orby     that          the                         conclusion       of,                            or by              toshould or      owned       in     who,contracts                                               includes            NR;              Status                                        use;                            to                                                                                                                          services                                 the ownership     PE                person     leading                               of       a                  contracts of ofproperty right     of                                 concludes                            role                                          incorporated                              use, the                                                          Connection            Such name                                                through                                  transfer                          to has provision                             NR. the
+                      in forright NR for                     Avoidance                                    habituallyprincipalthe                               Provision                                               BusinesscarriedNR,theby (i) (ii)           (iii)
+                        Artificial
+                      of
+       the
+                                                                                        anti-to   are  of                 Prevent                                                                                                                                           activity
+     7:                           of                                                                          Rule     which                                                                                                                                                Fragmentationactivities                                              benefit                                                                                                            whole          Plan                   of                                                fragmentation a
+              Action     PEof                 wayBybusiness                                 functions     avail                                                                                                                                                                                                                   Introductionfragmentationpreventofotherwisetoexemption                                                                                         avoidance          BEPS                                                 Recommendation                              tax                                                         definition         a of                                                                    the
+           of              OECD                                                                     prevent                                               Articlepersonplaysleading
+                                   ofa      in                    To                                  Review                                                                             agent                                                                  role                                                                                                                                                           Commissionaire                 of                            of                    include              conclusion                                                                                                                                                             habitually                                     to
+                                          way                                                                                                                                                                                                                   Modification5(5)whoprincipaltocontractsdefinition                            ByArrangements
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+FUNDAMENTALS OF BEPS              25.47
+
+              1961
+                                       of         no.
+                                           of                                                                          and              Act,             286        and                                                                    and                                                                                                                     amountbefore                                                                                                                                                                                                            business                                                                                                               matters                                                                                                                                                                                                                                                                                                    constituent                                                                                                                                                                                            capital,nature                                                                                                                                 amountpaid                      1961                                                                             etc.                                                                                                    Reporting                                 aggregate   P&L                                                              Section                                                                                                                     w.r.t.                    main                                                                                                          each                                  Income-tax     Act,                                                                                                                                             stated  of                                                                                                                                                                     entity                                 CBCrequirement related                                                     of
+          the    IT,                                                                                                                                                    Requires        revenue,       in                                                                                                                                                                                                                                            income-tax,income-tax          employees,                 the                                                 ofdetailsactivity                                                                                                                                                                                                                       information                        accrued,           in
+
+
+              &                              documentation                              ofFile   of   and                                         incorporated                                                        Provisions       92D         (TP)                                                                                                                                                    FurnishingMaster                          prescribed         documents                                                                                                                                                        Maintenance                                                              Section                                                                      Maintenance           information                pricing Provisions
+                   transfer
+                                                                                                               relating &&theeco.the                    taxthe                                    ofthe                                                          parent                                                       in                                                                            income                                                                                                                                                                                                                                                                                                                                                      jurisdiction                                                                    paid;                       Re-examine                                 Report                    allocation                                      ofwithin                                                                                                                                                                                       entity     13                                                                                    group                            filed                                                                                                                                                                                                                                            ultimate                           CBC            globalMNE’s                     be
+                                                           of                                                       Toresidence         Plan                              documentation                                                              Informationtooftaxesindicatorslocationactivity MNE                           Standard  TP
+           to                 in              Action
+                                    File                                                                                                                       specific each           party         BEPS Minimum                                                                                                              MNEstax                                             approach           Local                               by                                                                                                                                                                                    Transactionalinfo tocountrydetailcoveringrelatedtransactions              OECD                                                                                             local
+                                                         to                                                for           TP                        delivered                                    File              MNE                                                                                                                                            administrations                                                       bedirectly                                                                   Standardised
+                                                       To                                                     Master                                                                                                                                                                      Standardisedinformation relevantallgroupmembersregardingglobalbusinessoperations&policies
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+25.48           INTERNATIONAL TAXATION
+
+                                                                                 India                                           June,                                                                                      month                                              related                                                                                                       (India’son                                                                                                             months by                                                            Shifting                                                for                                                                                   Covered                                                                                                                                             India)                          7th                                                                                                  deposited                                                                                                                                      deposit                                                   the                        of                                                                                                                                                                                                                      Conventionfrom                 on                                                                      for                                                                                                                                       months                                      of                                       treaty                                  of                                                                                                                                          Depositary                                             Profit                                 had                                               list                                                                                      this                    tax                                                                                     calendar             (six                                                                             date                                                                                                                     force                                         the                                           of                                                   day                                 andthe                       andFrance                                                                                                                                                                       notifications                            to             Convention                                                                                              into           MLI                                                                                      firstthree the         2020                                                                 said        of                                       and                                    of                                                   Paris,                                                           implement                                                                                                being                                                                                                                     entry                                                   the                                                the                                                                                                                                       April,                                                     Erosionat                                                                                                                      along-with                                                                                                                                                                                                                      provisions             to                                               of                                of                                                                                                            Convention                                                                   1st                   Force                                                                                                                                                                                                                                                                      ratification.                                                                                                             period                                                                                                                                                        Convention)                                                                                                2019,                              BaseIndia                                                                                      beinga                                        of                                                                theis date                                           said            (MLI)                                                                                 force               into                                    of                 by                                                                                                                                                          reservationssaid                                                                      the                                 theratification                                                                 into          June,     whenIndia                                                                                      2019,                                                                 Convention                                             in                                         the                   Entry                                                     prevent       of                                                                                                             expiry                                                                             25th                                                   signed                                                                                      date                                                                                                                     2019,                                                                                                                                                                                                         instrument               to                                                                          2019. entry                                      on                                                                                       ratified                                                      the                                                                                                                                       effect                         Instrument                                of                                                                     under                          was                                                            the
+                                 had                                        of                                                                              Multilateral                                                                             October,                                                                                                                                             Agreements,     June, date                                                                                                                      instrument                                                                                                                                                                           earliesttake October,                                                   1st                    Themeasures(BEPS) 2017.  IndiatheTaxPosition 25th Theisfollowing beginning India Thecan 1st                              Multilateral       ➢   ➢     ➢    ➢
+  a
+                                                                                       force                                                                         made         –                                              treaty-existing                    arean      the                                                             thatis                                   in                 to                                                                                                 using               in                  is                         Developing       tax                                                                         have
+     15                                                                                                                                                  arrangements.  treaties                                                                                                                                                   Agreement                                                     Project manner                               that                                              tax              Parties          Plan                                        status                                                 Tax                  agreement                              BEPS      PE                             taxationboth                                                                              implementing         efficient                             the                                                                                          mismatch               Action             bythe      of                                                                                                                           modifies                          and                                            which                                                                                                                  Covereddouble                       Report          A   formodify          BEPS                                                                             which  of                          BEPS                                       to                                                     through                          hybrid                      of          and                                                                                           avoidance               BEPS                                                                             wish                                                                                          resolution                  MLI                                              against            synchronized
+
+         a                                               abuse,                effects  instrument         avoidancethethey                                                                    developed                 in                        artificial         to                                 fight               the          Agreements”.the                                               treaty dispute the                                                                                                                           flexibleTax        that                                 helps                             for                                                                    treaties            is              Parties                                                            measures                    MLI             prevent improve prevent neutralize MLI                                                                                                                                                                                                                                        notification                    Therelated bilateral • • • • The“Coveredagreementbetweena MLI.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+FUNDAMENTALS OF BEPS              25.49
+
+              TEST YOUR KNOWLEDGE
+
+Questions
+
+1.    What do you understand by base erosion and profit shifting? Describe briefly its adverse
+        effects.
+
+2.    What are the significant OECD Recommendations under Action Plan 1 of BEPS?  Which
+      recommendation has been adopted in Indian tax laws?
+
+3.    Discuss the provision incorporated in the Income-tax Act, 1961 in line with the OECD
+      recommendations under Action Plan 4 of BEPS.
+
+4.     Describe the three tier structure for transfer pricing documentation mandated by BEPS Action
+      Plan 13.
+
+5.     Explain the nexus approach recommended by OECD in BEPS Action Plan 5 which has been
+      adopted in the Income-tax Act, 1961.
+
+6.    What are the ways in which hybrid mismatch arrangements are used to achieve unintended
+      double non-taxation or long-term tax deferral?
+Answers
+
+1.    Base Erosion and Profit Shifting (BEPS) refers to tax planning strategies that exploit gaps
+      and mismatches in tax rules to make profits ‘disappear’ for tax purposes or to shift profits to
+       locations where there is little or no real activity but the taxes are low, resulting in little or no
+       overall corporate tax being paid.
+     Adverse Effects of BEPS:
+
+        (1)   Governments have to cope with less revenue and a higher cost to ensure compliance.
+
+        (2)    In developing countries, the lack of tax revenue leads to significant under-funding of
+              public investment that could help foster economic growth.
+
+        (3)   BEPS undermines the integrity of the tax system, as reporting of low corporate taxes
+                 is considered to be unfair. When tax laws permit businesses to reduce their tax burden
+            by shifting their income away from jurisdictions where income producing activities are
+             conducted, other taxpayers, especially individual taxpayers in that jurisdiction bear a
+              greater share of the burden. This gives rise to tax fairness issues on account of
+              individuals having to bear a higher tax burden.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+25.50           INTERNATIONAL TAXATION
+
+
+        (4)    Enterprises that operate only in domestic markets, including family-owned businesses
+              or new innovative businesses, may have difficulty competing with MNEs that have the
+                 ability to shift their profits across borders to avoid or reduce tax. Fair competition is
+           harmed by the distortions induced by BEPS.
+2.    The OECD has recommended several options to tackle the direct tax challenges which include:
+
+        (1)    Modifying the existing Permanent Establishment (PE) rule to provide that whether an
+              enterprise engaged in fully de-materialized digital activities would constitute a PE, if it
+             maintained a significant digital presence in another country's economy.
+
+        (2)   A virtual fixed place of business PE in the concept of PE i.e., creation of a PE when
+             the enterprise maintains a website on a server of another enterprise located in a
+               jurisdiction and carries on business through that website.
+
+        (3)    Imposition of a final withholding tax on certain payments for digital goods or services
+             provided by a foreign e-commerce provider or imposition of a equalisation levy on
+             consideration for certain digital transactions received by a non-resident from a resident
+              or from a non-resident having permanent establishment in other contracting state.
+
+      Taking into consideration the potential of new digital economy and the rapidly evolving nature
+       of business operations, it becomes necessary to address the challenges in terms of taxation
+       of such digital transactions.
+
+     The concept of ‘Significant Economic Presence’ (SEP) which is similar to the virtual fixed
+      place PE as recommended in the 2015 BEPS Action Plan 1 report has been introduced in the
+      Income-tax Act, 1961 vide Explanation 2A to section 9(1)(i).
+
+       Significant economic presence of a non-resident in India shall also constitute business
+      connection in India. Significant economic presence means-
+                      Nature of transaction                  Condition
+         (a)   in respect of any goods, services  Aggregate  of  payments  arising  from  such
+              or property carried out by a non-   transaction or transactions during the previous
+              resident with any person in India   year should exceed ` 2 crores.
+              including provision of download of
+             data or software in India
+         (b)  systematic    and    continuous  The number of users should be atleast 3 lakhs.
+                soliciting of business activities or
+            engaging in interaction with users
+                in India
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+FUNDAMENTALS OF BEPS              25.51
+
+       Further, the above transactions or activities shall constitute significant economic presence in
+       India, whether or not,—
+
+          (i)     the agreement for such transactions or activities is entered in India;
+
+           (ii)    the non-resident has a residence or place of business in India; or
+
+           (iii)    the non-resident renders services in India:
+
+      However, where a business connection is established by reason of significant economic
+      presence in India, only so much of income as is attributable to the transactions or activities
+       referred to in (a) or (b) above shall be deemed to accrue or arise in India.
+
+       In order to address the challenges of the digital economy, Chapter VIII of the Finance Act,
+      2016, titled "Equalisation Levy", provided for an equalisation levy of 6% of the amount of
+       consideration for specified services received or receivable by a non-resident not having
+      permanent establishment in India, from a resident in India who carries out business or
+       profession, or from a non-resident having permanent establishment in India. This was
+      provided for in section 165 of the Finance Act, 2016.
+
+      However, the equalisation levy @ 6% on specified services has been withdrawn by the
+      Finance Act, 2025 with effect from 1st April 2025.
+3.     In line with the recommendations of OECD BEPS Action Plan 4, section 94B has been
+       inserted in the Income-tax Act, 1961 by the Finance Act, 2017 to provide a cap on the interest
+      expense that can be claimed by an entity to its associated enterprise. The total interest paid
+        in excess of 30% of  its earnings before interest, taxes, depreciation and amortization
+      (EBITDA) or interest paid or payable to associated enterprise  for that previous year,
+      whichever is less, shall not be deductible.
+
+     The provision is applicable to an Indian company, or a permanent establishment of a foreign
+      company, being the borrower, who pays interest in respect of any form of debt issued by a
+       non-resident who is an 'associated enterprise' of the borrower. Further, the debt is deemed
+       to be treated as issued by an associated enterprise where it provides an implicit or explicit
+      guarantee to the lender, being a non-associated enterprise, or deposits a corresponding and
+      matching amount of funds with such lender.
+
+     The provision allows for carry forward of disallowed interest expense for 8 assessment years
+      immediately succeeding the assessment year for which the disallowance is first made and
+      deduction against the income computed under the head "Profits and gains of business or
+       profession” to the extent of maximum allowable interest expenditure.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+25.52           INTERNATIONAL TAXATION
+
+
+       In order to target only large interest payments,  it provides  for a threshold of interest
+      expenditure of ` 1 crore in respect of any debt issued by a non-resident associated enterprise
+      exceeding which the provision would be applicable. Banks, Insurance business and class of
+     NBFCs notified by the Government are excluded from the ambit of the said provisions keeping
+        in view of special nature of these businesses. A finance company, located in any IFSC, has
+       also been excluded from the ambit of said provisions w.e.f. A.Y. 2025-26. Also, section 94B
+      would not be attracted on interest paid in respect of debt issued by a lender which is a
+      permanent establishment in India of a non-resident, being a person engaged in the business
+       of banking.
+4.     Action 13 contains a three-tiered standardized approach to transfer pricing documentation
+      which consists of:
+        (a)   Master file: Master file requires MNEs to provide tax administrations with high-level
+              information regarding their global business operations and transfer pricing policies.
+           The master file is to be delivered by MNEs directly to local tax administrations.
+        (b)    Local file: Local file requires maintaining of transactional information specific to each
+             country in detail covering related-party transactions and the amounts involved in those
+              transactions. In addition, relevant financial information regarding specific transactions,
+           a comparability analysis and analysis of the selection and application of the most
+             appropriate transfer pricing method should also be captured. The local file is to be
+              delivered by MNEs directly to local tax administrations.
+        (c)    Country-by-country (CBC) report: CBC report requires MNEs to provide an annual
+              report of economic indicators viz. the amount of revenue, profit before income tax,
+            income tax paid and accrued in relation to the tax jurisdiction in which they do
+             business. CBC reports are required to be filed in the jurisdiction of tax residence of
+             the ultimate parent entity, being subsequently shared between other jurisdictions
+             through automatic exchange of information mechanism.
+5.     In India, the Finance Act, 2016 has introduced a concessional taxation regime for royalty
+      income from patents for the purpose of promoting indigenous research and development and
+      making India a global hub for research and development. The purpose of the concessional
+       taxation regime is to encourage entities to retain and commercialise existing patents and for
+      developing new innovative patented products. Further, this beneficial taxation regime will
+       incentivise  entities  to  locate  the  high-value  jobs  associated  with  the  development,
+      manufacture and exploitation of patents in India.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+FUNDAMENTALS OF BEPS              25.53
+
+     The nexus approach has been recommended by the OECD under BEPS Action Plan 5. This
+      approach requires attribution and taxation of income arising from exploitation of Intellectual
+       property (IP) in the jurisdiction where substantial research and development (R & D) activities
+      are undertaken instead of the jurisdiction of legal ownership. Accordingly, section 115BBF
+      has been inserted in the Income-tax Act, 1961 to provide that where the total income of the
+        eligible assessee (being a person resident in India who is the true and first inventor of the
+       invention and whose name is entered in the patent register as the patentee in accordance
+       with the Patents Act, 1970 and includes every such person, being the true and the first
+       inventor of the invention, where more than one person is registered as patentee under
+      Patents Act, 1970 in respect of that patent.) includes any income by way of royalty in respect
+       of a patent developed and registered in India, then such royalty shall be taxable at the rate
+       of 10% (plus applicable surcharge and cess). For this purpose, developed means atleast 75%
+       of the expenditure should be incurred in India by the eligible assessee for any invention in
+       respect of which patent is granted under the Patents Act, 1970.
+6.     Hybrid mismatch arrangements are sometimes used to achieve unintended double non-
+       taxation or long-term tax deferral in one or more of the following ways -
+
+        (1)    Creation of two deductions for a single borrowal;
+
+        (2)    Generation of deductions without corresponding income inclusions;
+
+        (3)    Misuse of foreign tax credit; and
+
+        (4)    Participation exemption regimes.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 54 ======================
+
+
+© The Institute of Chartered Accountants of India

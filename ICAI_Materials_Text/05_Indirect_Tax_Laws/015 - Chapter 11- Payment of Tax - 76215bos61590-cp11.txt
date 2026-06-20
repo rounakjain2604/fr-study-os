@@ -1,0 +1,2841 @@
+Source PDF: 05_Indirect_Tax_Laws/015 - Chapter 11- Payment of Tax - 76215bos61590-cp11.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\05_Indirect_Tax_Laws\015 - Chapter 11- Payment of Tax - 76215bos61590-cp11.pdf
+Extracted at: 2026-05-31T10:25:25+05:30
+Pages: 77
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER        11
+
+
+PAYMENT OF TAX
+ The section numbers referred to in the Chapter pertain to the CGST Act, 2017 unless
+ otherwise specified. Examples/Illustrations/Questions and Answers, as the case may
+ be, given in the Chapter are based on the position of GST law existing as on
+ 30.04.2023.
+
+                   LEARNING OUTCOMES
+ After studying this Chapter, you will be able to –
+    understand three kinds of ledgers/registers available to a registered person-
+        electronic cash ledger, electronic credit ledger and electronic liability register.
+    comprehend the types of ledger to be utilised for payment of tax/ interest/
+       penalty/ other amounts
+    analyse and apply the methodology of cross utilization of credit for payment of
+       taxes
+     identify and analyse the circumstances under which penal interest is applicable.
+    understand and apply the provisions relating to transfer of amount from one
+      major head to another in electronic cash ledger.
+    explain the procedure for transfer of input tax credit between Central and State
+      Government.
+    understand and analyse the provisions relating to TDS, i.e. tax deduction at source
+       including the list of deductors, standard rate of deduction, value of supply.
+    explain the remittance period and the time within which the TDS certificate is to
+      be issued.
+
+
+====================== PAGE 2 ======================
+
+
+1.2      11.2          GOODS AND SERVICES TAX
+
+    1. INTRODUCTION
+In the GST regime, for any intra-state supply, taxes to be paid are the Central GST
+(CGST), going into the account of the Central Government and the State GST
+SGST/UTGST, going into the account of the concerned
+State Government/ Union Territory. The mechanism for
+allocation of such tax amount has been constitutionally
+devised in the interest of Centre and all States/Union
+territories. For any inter-state supply, tax to be paid is
+Integrated GST (IGST) which have components of both
+CGST and SGST. In addition, certain categories of registered persons  will be
+required to pay to the Government, Tax Deducted at Source (TDS) and Tax
+Collected at Source (TCS1). In addition, wherever applicable, interest, penalty, fees
+and any other payment will also be required to be made.
+The introduction of Electronic ledger(s) is a unique feature under the GST regime.
+Electronic Ledgers or E-Ledgers are of two types. One set is auto-populated upon
+the action taken by the taxpayer (i) Electronic Cash Ledger, which gets updated
+upon payment made by the taxpayer on GST Portal and (ii) Electronic Credit Ledger,
+which gets updated as soon as any input tax credit is claimed or utilized by the
+taxpayer on the GST Portal. Second set  is “Electronic  Liability register” auto-
+populated on the basis of returns furnished by the Registered person or the amount
+of tax, interest, penalty or any other amount payable as determined by a proper
+officer in pursuance of any proceedings.
+Once   a   taxpayer    is   registered  on  common   portal   (GSTN),  two
+e-ledgers (Cash & Input Tax Credit ledger) and an electronic tax liability register
+related functionality is available which is unique for each GSTIN and is accessible
+to the taxpayer.
+Chapter X of the CGST Act, 2017 prescribes the provisions relating to payment of
+tax containing sections 49 to 53A. Bird’s eye view of coverage under these sections
+is as under-
+
+
+1 The provisions relating to TCS have been discussed in Chapter-12: Electronic Commerce
+Transactions under GST in this Module of the Study Material.
+
+
+====================== PAGE 3 ======================
+
+
+PAYMENT OF TAX    1.3         11.3
+
+     Section 49 discusses the three ledgers namely the electronic cash ledger,
+      electronic credit ledger and electronic liability register,
+     Section 49A & 49B discusses about the utilisation of input tax credit and its
+     order of utilisation.
+     Section 50 discusses about the interest on delayed payment of tax.
+     Section 51 lays down the circumstances in which tax deduction at source
+     (TDS) becomes mandatory.
+     Section 52 deals with the circumstances when tax is to be collected at source
+      (TCS) by the Electronic Commerce Operator.
+      Further, the manner of transfer of ITC is laid down in section 53 and
+      Transfer of certain amounts is discussed in section 53A.
+TDS stands for Tax Deduction at Source (TDS). Tax Deduction at Source (TDS) is a
+system, initially introduced by the Income Tax Department.
+Under GST, it is one of the modes/methods to collect tax,
+under which, certain percentage of amount is deducted by a
+recipient at the time of making payment to the supplier in
+case of specified supply transactions. It facilitates sharing of
+responsibility of tax collection between the deductor and the tax administrator. This
+concept of TDS ensures regular inflow of tax collection to the Government. This
+mechanism acts as a powerful instrument to prevent tax evasion and expands the
+tax net, as it provides for the creation of an audit trail. Also, with the integration of
+data furnished by the Supplier and recipient on the GST common portal, there exists
+an audit trail to ensure for harmony of taxes paid by the supplier.
+Section 512 of CGST Act, 2017 provides for deduction of tax at source in certain
+circumstances. This Section specifically lists out the deductor’s who are mandated
+by the Central Government to deduct tax at source, the rate of tax deduction and
+the procedure for remittance of the tax deducted.
+
+
+2 Students may refer “Standard Operating Procedure on TDS” issued by CBIC from CBIC website.
+
+
+====================== PAGE 4 ======================
+
+
+1.4      11.4          GOODS AND SERVICES TAX
+
+The amount of tax deducted  is reflected in the Electronic Cash Ledger of the
+deductee respectively.
+
+ Provisions of payment of tax including TDS under CGST Act, 2017 have also
+ been made applicable to IGST Act, 2017 vide section 20 of the IGST Act, 2017.
+
+Chapter IX of CGST Rules, 2017 containing Rules 85 to 88C deals with provisions
+relating to payment of tax. Amongst these rules, rule 86A and 86B have already
+been discussed in detail in Chapter-7: Input tax credit. Rule 88C will be discussed
+in Chapter-13: Returns.
+Before proceeding to understand the provisions of section 49, 49A, 49B, 50,51,53,
+53A & the relevant rules, let us first go through few relevant definitions.
+
+    2. RELEVANT DEFINITIONS
+  Agent means a person, including a factor, broker, commission agent, arhatia,
+      del credere agent, an auctioneer or any other mercantile agent, by whatever
+    name called, who carries on the business of supply or receipt of goods or
+      services or both on behalf of another [Section 2(5)].
+   Authorised bank shall mean a bank or a branch of a bank authorised by the
+     Government to collect the tax or any other amount payable under this Act
+      [Section 2(14)].
+   Central Tax means the central goods and services tax levied under Section 9
+      [Section 2(21)].
+   Cess shall have same meaning as assigned to it in the Goods and Service Tax
+     (Compensation to States) Act [Section 2(22)].
+  Common portal means the common goods and services tax electronic portal
+      referred to in section 146 [Section 2(26)].
+   Council means the Goods and Services Tax Council established under article
+     279A of the Constitution [Section 2(36)].
+   Electronic Cash ledger means the electronic cash ledger referred to in
+     sub-section (1) of Section 49 [Section 2(43)].
+
+
+====================== PAGE 5 ======================
+
+
+PAYMENT OF TAX    1.5         11.5
+
+   Electronic Credit ledger means the electronic credit ledger referred to in
+     sub-section (2) of section 49 [Section 2(46)].
+   Integrated tax means the integrated goods and services tax levied under the
+      Integrated Goods and Services Tax Act [Section 2(58)].
+   Input tax in relation to a registered person, means the central tax, State tax,
+      integrated tax or Union territory tax charged on any supply of goods or
+      services or both made to him and includes—
+           the integrated goods and services tax charged on import of goods;
+           the tax payable under the provisions of sub-sections (3) and (4) of
+           section 9;
+           the tax payable under the provisions of sub-section (3) and (4) of
+           section 5 of the IGST Act;
+           the tax payable under the provisions of sub-section (3) and sub-section
+             (4) of section 9 of the respective State Goods and Services Tax Act; or
+           the tax payable under the provisions of sub-section (3) and sub-section
+             (4) of section 7 of the Union Territory Goods and Services Tax Act,
+     but does not include the tax paid under the composition levy [Section 2(62)].
+   Input Tax Credit means the credit of input tax [Section 2(63)].
+   local authority means-
+          a “Panchayat” as defined in clause (d) of article 243 of the Constitution;
+          a  “Municipality”  as defined  in  clause  (e)  of  article 243P  of the
+            Constitution;
+          a Municipal Committee, a Zilla Parishad, a District Board, and any other
+           authority legally entitled to, or entrusted by the Central Government or
+          any State Government with the control or management of a municipal
+           or local fund;
+          a Cantonment Board as defined in section 3 of the Cantonments Act,
+           2006;
+          a Regional Council or District Council constituted under the Sixth
+          Schedule to the Constitution;
+
+
+====================== PAGE 6 ======================
+
+
+1.6      11.6          GOODS AND SERVICES TAX
+
+          a Development Board constituted under article 371 and article 371J of
+           the Constitution; or
+          a Regional Council constituted under article 371A of the Constitution.
+           [Section 2(69)].
+   Notification means a notification published in the Official Gazette and the
+     expression “notify” and “notified” shall be construed accordingly [Section
+      2(80)].
+   Output tax in relation to a taxable person, means the tax chargeable under
+      this Act on taxable supply of goods or services or both made by him or by his
+     agent but excludes tax payable by him on reverse charge basis [Section 2(82)].
+   Person includes:-
+       (a)   an individual;
+      (b)   a Hindu Undivided Family;
+       (c)   a company;
+      (d)   a firm;
+       (e)   a limited liability Partnership;
+        (f)   an  association  of  persons  or  a  body  of  individuals,  whether
+           incorporated or not, in India or outside India;
+      (g)   any corporation established by or under any Central Act, State Act, or
+            Provincial Act or a Government Company as defined in clause (45) of
+           section 2 of the Companies Act,2013;
+       (h)   any body corporate incorporated by or under the laws of a country
+           outside India;
+         (i)   a co-operative society registered under any law relating to co-operative
+             societies;
+         (j)   a local authority;
+       (k)   Central Government or a State Government;
+         (l)    society as defined under the Societies Registration Act,1860;
+
+
+====================== PAGE 7 ======================
+
+
+PAYMENT OF TAX    1.7         11.7
+
+     (m)   trust; and
+      (n)   every  artificial juridical person, not falling within any of the above
+           [Section 2(84)].
+   Recipient of supply of goods or services or both, means—
+       (a)   where a consideration is payable for the supply of goods or services or
+           both, the person who is liable to pay that consideration;
+      (b)   where no consideration is payable for the supply of goods, the person
+           to whom the goods are delivered or made available, or to whom
+           possession or use of the goods is given or made available; and
+       (c)   where no consideration is payable for the supply of a service, the person
+           to whom the service is rendered,
+         and any reference to a person to whom a supply  is made shall be
+          construed as a reference to the recipient of the supply and shall include
+          an agent acting as such on behalf of the recipient in relation to the
+         goods or services or both supplied [Section 2(93)].
+   State Tax means the tax levied under any State Goods and Services Tax Act
+      [Section2(104)].
+   Supplier in relation to any goods or services or both, shall mean the person
+     supplying the said goods or services or both and shall include an agent acting
+     as such on behalf of such supplier in relation to the goods or services or both
+     supplied [Section 2(105)].
+   Tax Period means the period for which the return is required to be furnished
+      [Section 2(106]
+   Taxable person means a person who is registered or liable to be registered
+     under Section 22 or section 24 [Section 2(107)].
+   Taxable supply means a supply of goods or services or both which is leviable
+      to tax under this Act [Section 2(108)].
+   Valid return means a return furnished under sub-section (1) of section 39 on
+     which self-assessed tax has been paid in full [Section 2(117)].
+      After going through the various definitions relevant to this Chapter, let us
+      discuss the provisions of Chapter X of the CGST Act.
+
+
+====================== PAGE 8 ======================
+
+
+1.8      11.8          GOODS AND SERVICES TAX
+
+   3. PAYMENT OF TAX, INTEREST, PENALTY AND
+    OTHER AMOUNTS [SECTION 49]
+
+       STATUTORY PROVISIONS
+
+
+ Section 49    Payment of tax, interest, penalty and other amounts
+
+Sub-Section  Clause                     Particulars
+     (1)       Every deposit made towards tax, interest, penalty, fee or any other
+            amount by a person by internet banking or by using credit or debit
+               cards or National Electronic Fund Transfer or Real Time Gross
+               Settlement or by such other mode and subject to such conditions
+             and restrictions as may be prescribed, shall be credited to the
+                 electronic cash ledger of such person to be maintained in such
+            manner as may be prescribed.
+     (2)      The input tax credit as self-assessed in the return of a registered
+              person  shall be  credited  to  his  electronic  credit  ledger,  in
+              accordance with section 41, to be maintained in such manner as
+           may be prescribed.
+     (3)      The amount available in the electronic cash ledger may be used
+                  for making any payment towards tax, interest, penalty, fees or any
+               other amount payable under the provisions of this Act or the rules
+           made there under in such manner and subject to such conditions
+             and within such time as may be prescribed.
+     (4)      The amount available in the electronic credit ledger may be used
+                  for making any payment towards output tax under this Act or
+              under the Integrated Goods and Services Tax Act in such manner
+             and subject to such conditions and restrictions within such time
+               as may be prescribed.
+     (5)      The amount of input tax credit available in the electronic credit
+                ledger of the registered person on account of––
+
+
+====================== PAGE 9 ======================
+
+
+PAYMENT OF TAX    1.9         11.9
+
+               (a)     integrated tax shall first be utilised towards payment of
+                     integrated tax and the amount remaining, if any, may
+                  be utilised towards the payment of central tax and State
+                        tax, or as the case may be, Union territory tax, in that
+                      order;
+
+               (b)     the central tax shall first be utilised towards payment of
+                      central tax and the amount remaining, if any, may be
+                        utilised towards the payment of integrated tax;
+
+                 (c)     the State tax shall first be utilised towards payment of
+                     State tax and the amount remaining, if any, may be
+                        utilised towards payment of integrated tax;
+                    Provided that the input tax credit on account of State
+                     tax shall be utilised towards payment of integrated tax
+                    only where the balance of the input tax credit on
+                   account of central tax is not available for payment of
+                     integrated tax;
+
+               (d)     the Union territory tax shall first be utilised towards
+                 payment  of Union  territory  tax and  the amount
+                    remaining, if any, may be utilised towards payment of
+                     integrated tax;
+                    Provided that the input tax credit on account of Union
+                        territory  tax  shall be  utilised towards payment  of
+                     integrated tax only where the balance of the input tax
+                       credit on account of central tax is not available for
+                 payment of integrated tax
+
+                (e)     the central tax shall not be utilised towards payment of
+                     State tax or Union territory tax; and
+                    (f)     the State tax or Union territory tax shall not be utilised
+                   towards payment of central tax.
+(6)      The balance in the electronic cash ledger or electronic credit ledger
+            after payment of tax, interest, penalty, fee or any other amount
+          payable under this Act or the rules made thereunder may be
+          refunded in accordance with the provisions of section 54.
+
+
+====================== PAGE 10 ======================
+
+
+1.10    11.10         GOODS AND SERVICES TAX
+
+   (7)         All liabilities of a taxable person under this Act shall be recorded
+           and maintained in an electronic liability register in such manner
+             as may be prescribed.
+   (8)       Every taxable person shall discharge his tax and other dues under
+               this Act or the rules made thereunder in the following order,
+            namely:–
+
+                  (a)     self-assessed tax, and other dues related to returns of
+                       previous tax periods;
+                  (b)     self-assessed tax, and other dues related to the return
+                         of the current tax period;
+
+                     (c)    any other amount payable under this Act or the rules
+                 made thereunder including the demand determined
+                     under section 73 or section 74;
+   (9)       Every person who has paid the tax on goods or services or both
+            under this Act shall, unless the contrary is proved by him, be
+          deemed to have passed on the full incidence of such tax to the
+              recipient of such goods or services or both.
+  (10)    A registered person may, on the common portal, transfer
+          any amount of tax, interest, penalty, fee or any other
+          amount available in the electronic cash ledger under this
+             Act, to the electronic cash ledger for,––
+               (a)    integrated  tax, central  tax, State  tax, Union
+                       territory tax or cess; or
+               (b)    integrated tax or central tax of a distinct person
+                    as specified in sub-section (4) or, as the case may
+                      be, sub-section (5) of section 25, in such form and
+                 manner and  subject  to such  conditions and
+                       restrictions  as may be  prescribed and  such
+                      transfer shall be deemed to be a refund from the
+                      electronic cash ledger under this Act:
+
+
+====================== PAGE 11 ======================
+
+
+PAYMENT OF TAX    1.11        11.11
+
+             Provided that, no such transfer under clause (b) shall be
+             allowed  if the said registered person has any unpaid
+                 liability in his electronic liability register.
+    (11)      Where any amount has been transferred to the electronic cash
+                ledger under this Act, the same shall be deemed to be deposited
+                 in the said ledger as provided in sub-section(1).
+    (12)      Notwithstanding anything contained  in  this  Act,  the
+            Government may, on the recommendations of the Council,
+               subject to such conditions and restrictions, specify such
+          maximum proportion of output tax liability under this Act
+              or under the IGST Act, 2017 which may be discharged
+             through the electronic credit ledger by a registered person
+              or a class of registered persons, as may be prescribed.
+
+Explanation––For the purposes of this section,—
+                  (a)       the date of credit to the account of the Government in
+                         the authorised bank shall be deemed to be the date of
+                          deposit in the electronic cash ledger;
+                  (b)       the expression,—
+
+                                        (i)    “tax dues” means the tax payable under this Act
+                          and does not include interest, fee and penalty;
+                          and
+                                         (ii)   “other dues” means interest, penalty, fee or any
+                               other amount payable under this Act or the rules
+                       made there under.
+Section 49A        Utilisation of input tax credit subject to certain
+                                     conditions
+              Notwithstanding anything contained in section 49, the input
+                tax credit on account of central tax, State tax or Union territory
+                tax shall be utilised towards payment of integrated tax, central
+                  tax, State tax or Union territory tax, as the case may be, only
+
+
+====================== PAGE 12 ======================
+
+
+1.12    11.12         GOODS AND SERVICES TAX
+
+                 after the input tax credit available on account of integrated tax
+             has first been utilised fully towards such payment.
+
+Section 49B           Order of utilisation of input tax credit
+              Notwithstanding  anything  contained  in  this Chapter and
+                subject to the provisions of clause (e) and clause  (f) of sub
+                section  (5)  ofsection  49,  the  Government  may,  on  the
+             recommendations  of  the  Council, prescribe the  order and
+            manner of utilisation of the input tax credit on account of
+               integrated tax, central tax, State tax or Union territory tax, as
+               the case may be, towards payment of any such tax.
+
+ Section 53                 Transfer of input tax credit
+
+          On utilisation of input tax credit availed under this Act for payment
+                 of tax dues under the Integrated Goods and Services Tax Act in
+              accordance with the provisions of sub-section (5) of section 49, as
+                 reflected in the valid return furnished under sub-section (1) of
+                section 39, the amount collected as central tax shall stand reduced
+             by an amount equal to such credit so utilised and the Central
+             Government shall transfer an amount equal to the amount so
+              reduced from the central tax account to the integrated tax account
+                 in such manner and within such time as may be prescribed.
+
+Section 53A                Transfer of certain amounts
+            Where any amount has been transferred from the electronic cash
+                ledger under this Act to the electronic cash ledger under the State
+             Goods and Services Tax Act or the Union territory Goods and
+                Services Tax Act, the Government shall, transfer to the State tax
+              account or the Union territory tax account, an amount equal to the
+            amount transferred from the  electronic cash ledger,  in such
+            manner and within such time as may be prescribed.
+
+
+====================== PAGE 13 ======================
+
+
+PAYMENT OF TAX    1.13        11.13
+
+        Chapter IX: Payment of Tax of the CGST Rules
+
+Rule 85                    Electronic Liability Register
+   (1)       The electronic liability register specified under sub- section (7) of
+              section 49 shall be maintained in FORM GST PMT-01 for each
+             person liable to pay tax, interest, penalty, late fee or any other
+           amount on the common portal and all amounts payable by him
+               shall be debited to the said register.
+   (2)       The electronic liability register of the person shall be debited by:-
+                (a)  the amount payable towards tax, interest, late fee or any
+                  other amount payable as per the return furnished by the said
+                  person;
+                (b)  the amount of tax, interest, penalty or any other amount
+                 payable as determined by a proper officer in pursuance of
+               any proceedings under the Act or as ascertained by the said
+                  person; or
+                (d)  any amount of interest that may accrue from time to time.
+   (3)        Subject to the provisions of section 49, section 49A and section
+             49B, payment of every liability by a registered person as per his
+              return shall be made by debiting the electronic credit ledger
+            maintained  as  per  rule 86  or  the  electronic  cash  ledger
+            maintained as per rule 87 and the electronic liability register shall
+            be credited accordingly.
+   (4)       The amount deducted under section 51, or the amount collected
+            under section 52, or the amount payable on reverse charge basis,
+              or the amount payable under section 10, any amount payable
+            towards interest, penalty, fee or any other amount under the Act
+               shall be paid by debiting the electronic cash ledger maintained as
+             per rule 87 and the electronic liability register shall be credited
+              accordingly.
+   (5)      Any amount of demand debited in the electronic liability register
+               shall stand reduced to the extent of relief given by the appellate
+
+
+====================== PAGE 14 ======================
+
+
+1.14    11.14         GOODS AND SERVICES TAX
+
+               authority or Appellate Tribunal or court and the electronic tax
+                  liability register shall be credited accordingly.
+   (6)       The amount of penalty imposed or liable to be imposed shall
+             stand reduced partly or fully, as the case may be, if the taxable
+             person makes the payment of tax, interest and penalty specified
+                in the show cause notice or demand order and the electronic
+                  liability register shall be credited accordingly.
+   (7)      A registered person shall, upon noticing any discrepancy in his
+               electronic liability ledger, communicate the same to the officer
+               exercising jurisdiction in the matter, through the common portal
+                in FORM GST PMT-04.
+
+ Rule 86                      Electronic Credit Ledger
+   (1)       The electronic credit ledger shall be maintained in FORM GST
+           PMT-02 for each registered person eligible for input tax credit
+             under the Act on the common portal and every claim of input tax
+                credit under the Act shall be credited to the said ledger.
+   (2)       The electronic credit ledger shall be debited to the extent of
+              discharge of any liability in accordance with the provisions of
+               section 49 or section 49A or section 49B.
+   (3)      Where a registered person has claimed refund of any unutilized
+           amount from the electronic credit ledger in accordance with the
+               provisions of section 54, the amount to the extent of the claim
+                shall be debited in the said ledger.
+   (4)             If the refund so filed is rejected, either fully or partly, the amount
+              debited under sub- rule (3), to the extent of rejection, shall be re-
+               credited to the electronic credit ledger by the proper officer by an
+              order made in FORM GST PMT-03.
+  (4A)      Where a registered person has claimed refund of any amount paid
+              as tax wrongly paid or paid in excess for which debit has been
+           made from the electronic credit ledger, the said amount, if found
+               admissible, shall be re-credited to the electronic credit ledger by
+              the proper officer by an order made in FORM GST PMT-03.
+
+
+====================== PAGE 15 ======================
+
+
+PAYMENT OF TAX    1.15        11.15
+
+    (4B)     Where a registered person deposits the amount of erroneous
+              refund sanctioned to him, -
+                (a)    under sub-section (3) of section 54 of the Act, or
+                (b)    under sub-rule (3) of rule 96, in contravention of
+                      sub-rule (10) of rule 96
+             along with  interest and  penalty, wherever  applicable,
+             through FORM GST DRC-03, by debiting the electronic cash
+               ledger, on his own or on being pointed out, an amount
+              equivalent to the amount of erroneous refund deposited by
+              the registered person shall be re-credited to the electronic
+                credit ledger by the proper officer by an order made in FORM
+            GST PMT-03A.
+     (5)       Save as provided in the provisions of this Chapter, no entry shall
+              be made  directly  in the  electronic  credit ledger under any
+                circumstance.
+     (6)      A registered person shall, upon noticing any discrepancy in his
+                 electronic credit ledger, communicate the same to the officer
+                 exercising jurisdiction in the matter, through the common portal
+                 in FORM GST PMT-04.
+Explanation   For the purposes of this rule, it is hereby clarified that a refund
+                  shall be deemed to be rejected, if the appeal is finally rejected or
+                         if the claimant gives an undertaking to the proper officer that he
+                  shall not file an appeal.
+
+ Rule 86A    Conditions of use of amount available in electronic credit
+               ledger.-
+     (1)       The Commissioner or an officer authorised by him in this behalf,
+               not below the rank of an Assistant Commissioner, having reasons
+                to believe that credit of input tax available in the electronic credit
+                ledger has been fraudulently availed or is ineligible in as much as
+                (a)    the credit of input tax has been availed on the strength of
+                        tax  invoices or  debit notes or any other document
+                        prescribed under rule 36-
+
+
+====================== PAGE 16 ======================
+
+
+1.16    11.16         GOODS AND SERVICES TAX
+
+                                         i. issued by a registered person who has been found non-
+                        existent or not to be conducting any business from any
+                      place for which registration has been obtained; or
+                                        ii. without receipt of goods or services or both; or
+                   (ii)    the credit of input tax has been availed on the strength of
+                      tax  invoices or  debit notes or any other document
+                      prescribed under rule 36 in respect of any supply, the tax
+                    charged in respect of which has not been paid to the
+                   Government; or
+                   (iii)    the registered person availing the credit of input tax has
+                   been found non-existent or not to be conducting any
+                      business from any place for which registration has been
+                      obtained; or
+                (iv)    the registered person availing any credit of input tax is
+                     not in possession of a tax invoice or debit note or any
+                      other document prescribed under rule 36,
+            may, for reasons to be recorded in writing, not allow debit of an
+           amount equivalent to such credit in electronic credit ledger for
+              discharge of any liability under section 49 or for claim of any
+              refund of any unutilised amount.
+   (2)       The Commissioner, or the officer authorised by him under sub-
+               rule (1) may, upon being satisfied that conditions for disallowing
+               debit of electronic credit ledger as above, no longer exist, allow
+             such debit.
+   (3)       Such restriction shall cease to have effect after the expiry of a
+              period of one year from the date of imposing such restriction.
+
+
+ Rule 87                       Electronic Cash Ledger
+   (1)       The electronic cash ledger under sub-section (1) of section 49
+                shall be maintained in FORM GST PMT-05 for each person,
+                liable to pay tax, interest, penalty, late fee or any other amount,
+            on the common portal for crediting the amount deposited and
+
+
+====================== PAGE 17 ======================
+
+
+PAYMENT OF TAX    1.17        11.17
+
+           debiting the payment therefrom towards tax, interest, penalty, fee
+           or any other amount.
+(2)      Any person, or a person on his behalf, shall generate a challan in
+       FORM GST PMT-06 on the common portal and enter the details
+            of the amount to be deposited by him towards tax, interest,
+            penalty, fees or any other amount.
+           Provided that the challan in FORM GST PMT-06 generated at the
+        common portal shall be valid for a period of fifteen days.
+(3)       The deposit under sub-rule (2) shall be made through any of the
+           following modes, namely:-
+                    (i)    Internet Banking through authorised banks;
+             (ia)   Unified Payment Interface (UPI) from any bank;
+             (ib)  Immediate Payment Services (IMPS) from any bank;
+                    (ii)    Credit card or Debit card through the authorised bank;
+                    (iii)   National Electronic Fund Transfer or Real Time Gross
+                  Settlement from any bank; or
+                (iv)   Over the Counter payment through authorised banks for
+                   deposits up to ten thousand rupees per challan per tax
+                    period, by cash, cheque or demand draft:
+           Provided that the restriction for deposit up to ten thousand rupees
+           per challan in case of an Over the Counter payment shall not
+          apply to deposit to be made by –
+              (a)   Government Departments or any other deposit to be
+              made by persons as may be notified by the Commissioner
+                    in this behalf;
+              (b)   Proper officer or any other officer authorised to recover
+                  outstanding dues from any person, whether registered or
+                    not, including recovery made through attachment or sale
+                    of movable or immovable properties;
+
+
+====================== PAGE 18 ======================
+
+
+1.18    11.18         GOODS AND SERVICES TAX
+
+                      (c)   Proper officer or any other officer authorised for the
+                   amounts collected by way of cash, cheque or demand
+                         draft during any investigation or enforcement activity or
+                    any ad hoc deposit:
+               Provided further that a person supplying online information and
+              database access or retrieval services from a place outside India to
+             a non-taxable online recipient referred to in section 14 of the
+                Integrated Goods and Services Tax Act, 2017 (13 of 2017) may
+                also make the deposit under sub-rule (2) through international
+            money  transfer  through  Society  for  Worldwide  Interbank
+                Financial Telecommunication payment network, from the date to
+              be notified by the Board.
+Explanation   For the purposes of this sub-rule, it is hereby clarified that for
+             making payment of any amount indicated in the challan, the
+               commission, if any, payable in respect of such payment shall be
+              borne by the person making such payment.
+     (4)      Any payment required to be made by a person who  is not
+                 registered under the  Act, shall be made on the basis of a
+              temporary identification number generated through the common
+                  portal.
+     (5)      Where the payment is made by way of National Electronic Fund
+                Transfer or Real Time Gross Settlement or Immediate Payment
+               Service mode from any bank, the mandate form  shall be
+               generated along with the challan on the common portal and the
+            same shall be submitted to the bank from where the payment is
+                to be made:
+               Provided that the mandate form shall be valid for a period of
+                  fifteen days from the date of generation of challan.
+     (6)      On successful credit of the amount to the concerned government
+               account  maintained  in  the  authorised  bank,  a  Challan
+                  Identification Number shall be generated by the collecting bank
+             and the same shall be indicated in the challan.
+
+
+====================== PAGE 19 ======================
+
+
+PAYMENT OF TAX    1.19        11.19
+
+ (7)      On  receipt  of the Challan  Identification Number from the
+             collecting bank, the  said amount  shall be  credited  to the
+             electronic cash ledger of the person on whose behalf the deposit
+          has been made and the common portal shall make available a
+             receipt to this effect.
+ (8)      Where the bank account of the person concerned, or the person
+          making the deposit on his behalf,  is debited but no Challan
+             Identification Number  is  generated  or  generated  but  not
+          communicated to the common portal, the said person may
+            represent  electronically  in FORM GST PMT-07 through the
+        common portal to the bank or electronic gateway through which
+           the deposit was initiated.
+          Provided that where the bank fails to communicate details
+           of Challan Identification Number to the Common Portal, the
+           Electronic Cash Ledger may be updated on the basis of e-
+            Scroll of the Reserve Bank of India in cases where the details
+           of the said e-Scroll are in conformity with the details in
+          challan generated in FORM GST PMT-06 on the Common
+            Portal.
+ (9)      Any amount deducted under section 51 or collected under section
+          52 and claimed by the registered taxable person from whom the
+            said amount was deducted or, as the case may be, collected shall
+          be credited to his electronic cash ledger.
+(10)      Where a person has claimed refund of any amount from the
+             electronic cash ledger, the said amount shall be debited to the
+             electronic cash ledger.
+(11)            If the refund so claimed is rejected, either fully or partly, the
+         amount debited under sub-rule (10), to the extent of rejection,
+             shall be credited to the electronic cash ledger by the proper officer
+          by an order made in FORM GST PMT-03.
+(12)     A registered person shall, upon noticing any discrepancy in his
+             electronic cash ledger, communicate the same to the officer
+            exercising jurisdiction in the matter, through the common portal
+             in FORM GST PMT-04.
+
+
+====================== PAGE 20 ======================
+
+
+1.20    11.20         GOODS AND SERVICES TAX
+
+     (13)     A registered person may, on the common portal, transfer any
+              amount of tax, interest, penalty, fee or any other amount available
+                  in the electronic cash ledger under the Act to the electronic cash
+                 ledger for integrated tax, central tax, State tax or Union territory
+                 tax or cess in FORM GST PMT-09.
+     (14)     A registered person may, on the common portal, transfer
+             any amount of tax, interest, penalty, fee or any other
+            amount available in the electronic cash ledger under the Act
+                to the electronic cash ledger for central tax or integrated
+               tax of a distinct person as specified in sub-section (4) or, as
+               the case may be, sub-section (5) of section 25, in FORM GST
+             PMT-09:
+              Provided that no such transfer shall be allowed if the said
+                registered person has any unpaid liability in his electronic
+                  liability register.
+Explanation 1  The refund shall be deemed to be rejected if the appeal is finally
+                   rejected.
+Explanation 2  For the purposes of this rule, it is hereby clarified that a refund
+                   shall be deemed to be rejected, if the appeal is finally rejected or
+                           if the claimant gives an undertaking to the proper officer that he
+                   shall not file an appeal.
+
+   Rule 88     Identification number for each transaction
+      (1)      A unique  identification number  shall be generated  at  the
+            common portal for each debit or credit to the electronic cash or
+                   credit ledger, as the case may be.
+      (2)       The unique identification number relating to discharge of any
+                     liability shall be indicated in the corresponding entry in the
+                  electronic liability register.
+      (3)      A unique  identification number  shall be generated  at  the
+            common portal for each credit in the electronic liability register
+                   for reasons other than those covered under sub-rule (2).
+
+
+====================== PAGE 21 ======================
+
+
+PAYMENT OF TAX    1.21        11.21
+
+   Rule 88A    Order of utilization of input tax credit
+  Input tax credit on account of integrated tax shall first be utilised towards payment
+  of integrated tax, and the amount remaining, if any, may be utilised towards the
+ payment of central tax and State tax or Union territory tax, as the case may be, in
+ any order:
+  Provided that the input tax credit on account of central tax, State tax or Union
+  territory tax shall be utilised towards payment of integrated tax, central tax, State
+  tax or Union territory tax, as the case may be, only after the input tax credit
+  available on account of integrated tax has first been utilised fully.
+
+      ANALYSIS
+
+
+A.  ELECTRONIC CASH LEDGER [SECTION 49(1),(3),(6),(10) & (11)
+   READ WITH RULE 87 OF CGST RULES]
+
+The Electronic Cash Ledger contains a summary of all the deposits/payments made
+by a taxpayer. Electronic Cash Ledger  is maintained on the GST Portal. The
+Electronic Cash Ledger has to be maintained in prescribed form on the common
+portal by a person liable to pay tax.
+Any deposit made towards payment of tax, interest, penalty, late fee or any other
+amount will be credited to the electronic cash ledger. Any debit to the electronic
+cash ledger represents payment therefrom towards tax, interest, penalty, late fee
+or any other amount.
+The deposit in the electronic cash ledger shall be made through any of the
+following modes, namely:-
+(i)    Internet Banking through authorised banks;
+(ii)  Unified Payment Interface (UPI) from any bank;
+(iii) Immediate Payment Services (IMPS) from any bank;
+(iv)   Credit card or Debit card through the authorised bank;
+(v)   National Electronic Fund Transfer (NEFT) or Real Time Gross Settlement
+     (RTGS) from any bank; or
+
+
+====================== PAGE 22 ======================
+
+
+1.22    11.22         GOODS AND SERVICES TAX
+
+(vi)  Over the Counter payment through authorized banks for deposits up to ten
+     thousand rupees per challan per tax period, by cash, cheque or demand draft:
+        It may be noted that the restriction for deposit up to ten thousand rupees per
+      challan in case of an Over the Counter payment will not apply to deposit to
+     be made by –
+       (a)   Government Departments or any other deposit to be made by persons
+           as may be notified by the Commissioner in this behalf;
+      (b)   Proper officer or any other officer authorised to recover outstanding
+          dues from any person, whether registered or not, including recovery
+        made through attachment or sale of movable or immovable properties;
+       (c)   Proper officer or any other officer authorised for the amounts collected
+          by way of cash, cheque or demand draft during any investigation or
+          enforcement activity or any ad hoc deposit.
+
+      Non-applicability of Over the Counter payment limit on deposits to be made
+                                   by
+
+        Proper officer or any other officer authorized          Government
+                                                        Departments
+          to recover                              to collect the amount by       outstanding dues                               way of     including attachment                           cash/cheque/demand     proceedings or sale                                     draft during any                                                        Persons notified by         of moveable/                             investigation/enforcement                                                       Commissioner        immoveable                                       activity /any ad hoc           properties                                     deposit
+
+Payment by Challan
+   What is CPIN, CIN, BRN and E-FPB?
+    CPIN stands for Common portal Identification Number.  It is created for every
+     Challan successfully generated by the taxpayer. It is a 14-digit unique number
+      to identify the challan. CPIN remains valid for a period of 15 days.
+
+
+====================== PAGE 23 ======================
+
+
+PAYMENT OF TAX    1.23        11.23
+
+    CIN or Challan Identification Number  is generated by the banks, once
+     payment in lieu of a generated Challan is successful.  It is a 18-digit number
+      that is 14-digit CPIN plus 4-digit Bank Code.
+     CIN is generated by the authorized banks/Reserve Bank of India (RBI) when
+     payment is actually received by such authorized banks or RBI and credited in
+     the relevant Government account held with them. It is an indication that the
+     payment has been realized and credited to the appropriate Government
+     account. CIN is communicated by the authorized bank to taxpayer as well as
+      to GSTN.
+    BRN or Bank Reference Number is the transaction number given by the bank
+      for a payment against a Challan
+     E-FPB stands for Electronic Focal Point Branch. These are branches of
+     authorized banks which are authorized to collect payment of GST. Each
+     authorized bank will nominate only one branch as its E-FPB for pan India
+      transaction.
+     The E-FPB  will have to open accounts under each major head for  all
+     governments. Any amount received by such E-FPB towards GST  will be
+      credited to the appropriate account held by such E-FPB. For NEFT/RTGS/IMPS
+      Transactions, RBI will act as E-FPB.
+   Are manual Challans applicable as allowed under the erstwhile indirect
+     tax regimes?
+     Manual or physical Challans are not allowed under the GST regime.  It is
+     mandatory to generate Challans online on the GST Common Portal.
+  How many types of Challans are prescribed for various taxes and
+    payments to be paid under the GST regime?
+     There is single Challan prescribed for all taxes, fees, penalty, interest, and
+     other payments to be made under the GST regime.
+Other Aspects relating to Challan
+   Any person, or a person on his behalf, can generate a challan in prescribed
+     form [Form PMT 06] on the common portal and enter the details of the
+    amount to be deposited by him towards tax, interest, penalty, fees or any
+     other amount.
+
+
+====================== PAGE 24 ======================
+
+
+1.24    11.24         GOODS AND SERVICES TAX
+
+    E- challan validity is for 15 days. The commission for                                                                   Validity of
+     making payment through e-challan has to be borne                                                           challan-15 days
+     by the person making the payment.
+   The mandate form obtained after making NEFT/RTGS/IMPS payment has to
+     be submitted in the Bank. The validity of the mandate form is 15 days.
+  On successful credit of amount in the concerned (Central/State) Government
+     Account maintained in the authorized bank, a Challan Identification Number
+      (CIN) will be generated by the collecting bank which will be indicated in the
+      challan.
+  On receipt of the CIN from the collecting bank, the said amount is credited
+      into the electronic cash ledger of the person on whose behalf the deposit is
+    made and the common portal will generate a receipt to this effect.
+     If CIN  is not generated even after making payment and submission of
+     mandate form or when after generation,  it has not been reflected in the
+    common portal, the person making the deposit or the person on whose
+      behalf the deposit has been made, can make a representation in prescribed
+     form  i.e. FORM GST PMT-07 through the common portal or e-gateway
+     through which the payment has been made.
+   Where the bank fails to communicate details of Challan Identification
+    Number to the common portal, the Electronic Cash Ledger may be
+     updated on the basis of e-Scroll of the RBI in cases where the details of
+     the said e-Scroll are in conformity with the details in challan generated
+      in Form GST PMT-06 on the common portal.
+   Date of credit into the treasury of the State Government/Central Government
+        is deemed to be the date of debit in the electronic cash ledger and not the
+      actual date of deposit of amount in the electronic cash ledger of the taxable
+     person.
+   Any amount deducted under section 51 [TDS] or collected under section 52
+      [TCS] and claimed by the registered taxable person from whom the said
+    amount was deducted or collected shall be credited to his electronic cash
+      ledger.
+
+
+====================== PAGE 25 ======================
+
+
+PAYMENT OF TAX    1.25        11.25
+
+    In case any discrepancy is noticed in electronic cash ledger, the registered
+     person shall communicate the same to the officer exercising jurisdiction in
+     the matter, through the common portal in prescribed form.
+   An unregistered person has to make payment through electronic cash ledger on
+     the basis of temporary identification number generated through common
+      portal.
+Manner of utilization of amount reflected in Electronic Cash Ledger
+Sub-section 3 of section 49 of the CGST Act lays down the following:
+The amount reflected in the electronic cash ledger may be used for making any
+payment towards tax, interest, penalty, fee, or any other amount in the prescribed
+manner.
+In the e-ledger, information is kept minor head-wise for each major head. The
+ledger is displayed major head-wise i.e., IGST, CGST, SGST/UTGST, and CESS. Each
+major head is divided into five minor heads: Tax, Interest, Penalty, Fee, and Others.
+A registered taxpayer can make cash deposits in the recognized Banks through the
+prescribed modes to the Electronic Cash Ledger using any of the Online or Offline
+modes permitted by the GST Portal. The Cash deposits can be used for making
+payment(s) like tax liability, interest, penalties, fee, and others.
+       Major Heads                 Minor Heads
+                  IGST                                       Tax
+               CGST                                           Interest
+                                                               Penalty
+             SGST/UTGST
+                                                          Fee
+                 CESS                                                           Others
+
+Transfer of amount reflected in Electronic Cash Ledger
+Sub-sections (10) and (11) of section 49 of the CGST Act, 2017 facilitates a registered
+person  to  transfer an amount from one (major/minor) head  to another
+(major/minor) head in the electronic cash ledger or to transfer any amount
+available in the electronic cash ledger, to the electronic cash ledger for
+
+
+====================== PAGE 26 ======================
+
+
+1.26    11.26         GOODS AND SERVICES TAX
+
+IGST/CGST of a distinct person, provided there is no unpaid liability in his
+electronic liability register.
+The amount available in the electronic cash ledger can be utilised for payment of
+any liability for the major and minor heads. For instance, if the registered person
+has made a deposit of tax erroneously  i.e. by virtue of human error, under a
+particular head instead of a specific head, the same can be transferred to the
+respective intended head vide Form GST PMT-09.
+Further, a registered person may, on the common portal, transfer any amount
+of tax, interest, penalty, fee or any other amount available in the electronic
+cash ledger to the electronic cash ledger for central tax or integrated tax of a
+distinct person as specified in sub-section (4) or, as the case may be, sub-
+section (5) of section 25, in Form GST PMT-09.
+However, no such transfer shall be allowed if the said registered person has
+any unpaid liability in his electronic liability register.
+This Form can be used either for
+(i)    transfer of erroneous deposits under any minor head of a major head to any
+     other minor head of same or other major heads or
+(ii)   transfer of any of the amounts already lying unutilised under any of the minor
+     heads in Electronic Cash ledger or
+(iii)  transfer of any amount lying in the electronic cash ledger to the
+      electronic cash ledger for CGST/IGST of a distinct person
+For instance, a registered person has deposited a sum of ` 1,000 under the head of
+“Interest” column of CGST & ` 1,000 under the head of “Interest” column of SGST,
+instead of the head “Fee”. Such amount can be transferred using Form GST PMT-
+09 for making a transfer to the head “Fee”. The said transfer is required using the
+above Form, because when the registered person has to make the remittance of
+Tax/Interest/Penalty/ Fee/ Other amount at a stage “Offset Liabilities” in any of the
+GST Returns/ Forms for Tax payments through Electronic Cash Ledger, adequate
+amount should be available under the respective head of account.
+Section 53A of the CGST Act provides for transfer of amount between Centre and
+States in accordance with section 49 of the CGST Act allowing transfer of an amount
+from one head to another head in the electronic cash ledger of the registered person.
+
+
+====================== PAGE 27 ======================
+
+
+PAYMENT OF TAX    1.27        11.27
+
+A Registered person has to claim the Tax Deducted at Source under Section 51 or
+Tax Collected at Source under Section 52 to appear in his Electronic Cash ledger.
+There  is no automatic updation of this deduction/collection currently on the
+common portal. Similar to a claim of TDS credits under Income Tax Act, 1961 at the
+time of filing Income tax return, the Registered person has to claim for the TDS/TCS
+in his periodical returns to get updated in the Electronic Cash ledger.
+Other peculiar aspects of Electronic Cash Ledger
+   An unregistered person has to make payment through electronic cash ledger
+    on the basis of temporary identification number generated through common
+      portal.
+   Where the person has claimed refund of any amount from electronic cash
+      ledger, the amount of refund claimed would be debited from the electronic
+     cash ledger
+   Where the refund claimed by a person is rejected either fully or partly, the
+    amount debited earlier shall be credited to electronic cash ledger by the
+     Proper office to the extent of amount of refund rejected.
+     Electronic Cash Ledger
+
+
+====================== PAGE 28 ======================
+
+
+1.28    11.28         GOODS AND SERVICES TAX
+
+B.  ELECTRONIC CREDIT LEDGER [SECTION 49(2), (4) & (5), SECTION 49A,
+    SECTION 49B READ WITH RULE 86, 86A, 86B AND 88A OF CGST
+    RULES]
+
+Sub-section (2) of section 49 of the CGST    Input Tax Credit as self-assessed in
+Act provides that the self-assessed input   monthly returns will be reflected in
+                                           the ITC Ledger. The credit in thistax credit (ITC) by a registered person
+                                           ledger  can  be  used  to  makeshall be credited to his Electronic Credit                                     payment of ONLY TAX and not otherLedger or Electronic Input Tax Credit                                     amounts such as interest, penalty,
+Ledger. This is to be maintained in the                                              fees etc.
+prescribed form.
+Non-utilisation of ITC for tax liability under reverse charge mechanism
+The amount available in the electronic credit ledger may be used for making any
+payment towards output tax under CGST, SGST, UTGST or IGST. It is pertinent to
+note that “output tax” ” [as defined in Section 2(18)] in relation to a taxable person,
+means the tax chargeable under this Act  [i.e. SGST/ UTGST/ CGST Act, 2017
+respectively] on taxable supply of goods and/or services made by him, but excludes
+tax payable by him on reverse charge basis. Thus, ITC available in Electronic Credit
+ledger, cannot be utilised for tax payable under reverse charge mechanism under
+Section 9(3) or 9(4) of CGST/SGST Act, 2017 read with Section 5(3) or 5(4) of IGST
+Act, 2017.
+Manner of utilisation of ITC [Combined reading of section 49(5), 49A, 49B, rule
+88A and Circular No. 98/17/2019 GST dated 23.04.2019]3
+Manner of utilisation of ITC [Combined reading of section 49(5), 49A, 49B, rule 88A
+and Circular No. 98/17/2019 GST dated 23.04.2019]4
+         Output            IGST            CGST        SGST/UTGST
+  Input
+
+  IGST                               (1)               (2) [refer1(i)]         (2) [refer1(i)]
+  CGST                              (2)                     (1)          Not allowed
+
+
+3 The detailed provisions have been discussed in Chapter-7: “Input tax credit”.
+4The detailed provisions have already been discussed in Chapter-7: “Input tax credit”.
+
+
+====================== PAGE 29 ======================
+
+
+PAYMENT OF TAX    1.29        11.29
+
+                               [refer 2 & 3(i)]         [refer 2 & 3]
+  SGST/ UTGST                     (2)          Not allowed     •      (1)
+                               [refer 2 & 4(i)]                         •      [refer 2 & 4]
+1.    Available IGST credit in the credit ledger should first be utilized towards
+     payment of IGST.  Remaining amount  if any, can be utilized towards the
+     payment of CGST and SGST/UTGST in any order and in any proportion, i.e.
+     ITC of IGST can be utilized either against CGST or SGST.
+2.    Entire ITC of IGST  is to be fully utilised  first before the ITC of CGST or
+     SGST/UTGST can be utilized.
+3.    Available CGST Credit in the credit ledger shall first be utilized for payment
+      of CGST. Remaining amount if any, will be utilized for payment of IGST
+4.    Available SGST /UTGST credit in the credit ledger shall first be utilized for
+     payment of SGST/UTGST.  Remaining amount  if any, will be utilized for
+     payment of IGST, only when credit of CGST is not available for payment of
+     IGST
+
+    CGST credit cannot be utilized for payment of SGST/UTGST.
+  Similarly, SGST/UTGST credit cannot be utilized for payment of CGST.
+Conditions of use of amount available in electronic credit ledger [Rule
+86A]
+In case the Commissioner or an officer authorised by him in this behalf, not below
+the rank of an Assistant Commissioner, has reasons to believe that ITC available in
+the electronic credit ledger has been fraudulently availed or is ineligible, he may  ,
+after recording reasons in writing, prohibit use of ITC for discharge of any liability
+under section 49 or for claim of any refund of any unutilised amount.  [Such
+provisions have already been discussed in detail in Chapter 7: Input Tax Credit.]
+Restrictions on use of amount available in electronic credit ledger [Rule
+86B]
+Rule 86B restricts the amount available in electronic credit ledger which a registered
+person can use to discharge his output tax liability to 99% of such tax liability in
+cases where the value of taxable supply other than exempt supply and zero-rated
+
+
+====================== PAGE 30 ======================
+
+
+1.30    11.30         GOODS AND SERVICES TAX
+
+supply, in a month exceeds ` 50 lakh. [Such provisions have already been discussed
+in detail in Chapter 7: Input Tax Credit ]
+Other Aspects of Electronic Credit Ledger
+    In case any discrepancy  is noticed  in the electronic credit ledger, the
+      registered person shall communicate the same to the officer exercising
+      jurisdiction in the matter, through the common portal in prescribed form.
+  No entry shall be made directly in the electronic credit ledger under any
+     circumstance except as provided in the provisions.
+CBIC has provided  clarifications5 regarding  utilization  of  the amounts
+available in the electronic credit ledger and the electronic cash ledger for
+payment of tax and other liabilities:-
+Issue 1:
+Whether the amount available in the electronic credit ledger can be used for
+making payment of any tax under the GST Laws?
+Clarification:
+In terms of section 49(4), the amount available in the electronic credit ledger
+may be used for making any payment towards output tax under the CGST Act
+or the IGST Act, subject to the provisions relating to the order of utilisation of
+ITC as laid down in section 49B read with rule 88A.
+Rule 86(2) provides for debiting of the electronic credit ledger to the extent of
+discharge of any  liability  in accordance with the provisions of section
+49/49A/49B.
+Further, output tax in relation to a taxable person  (i.e. a person who  is
+registered or liable to be registered under section 22 or section 24) is defined
+in section 2(82) as the tax chargeable on taxable supply of goods or services
+or both but excludes tax payable on reverse charge mechanism.
+Accordingly, it is clarified that any payment towards output tax, whether self-
+assessed in the return or payable as a consequence of any proceeding
+instituted under the provisions of GST laws, can be made by utilization of the
+amount available in the electronic credit ledger of a registered person.
+It is further reiterated that as output tax does not include tax payable under
+
+5 vide Circular No. 172/04/2022 GST dated 06.07.2022
+
+
+====================== PAGE 31 ======================
+
+
+PAYMENT OF TAX    1.31        11.31
+
+reverse charge mechanism, implying thereby that the electronic credit ledger
+cannot be used for making payment of any tax which is payable under reverse
+charge mechanism.
+Issue 2:
+Whether the amount available in the electronic credit ledger can be used for
+making payment of any liability other than tax under the GST laws?
+Clarification:
+As per section 49(4), the electronic credit ledger can be used for making
+payment of output tax only under the CGST Act or the IGST Act. It cannot be
+used for making payment of any interest, penalty, fees or any other amount
+payable under the said Acts. Similarly, electronic credit ledger cannot be used
+for payment of erroneous refund sanctioned to the taxpayer, where such
+refund was sanctioned in cash.
+Issue 3:
+Whether the amount available in the electronic cash ledger can be used for
+making payment of any liability under the GST laws?
+Clarification:
+As per section 49(3), the amount available in the electronic cash ledger may
+be used for making any payment towards tax, interest, penalty, fees or any
+other amount payable under the provisions of the GST laws.
+
+          Common Points for Electronic Cash & Credit Ledger
+   Where a person has claimed refund of any amount from the electronic cash or credit
+      ledger, the said amount shall be debited to the electronic cash or credit ledger.
+     If the refund so claimed is rejected, either fully or partly, the amount debited earlier,
+      to the extent of rejection, shall be credited to the electronic cash or credit ledger by
+      the proper officer by an order made in prescribed form.
+  A unique identification number shall be generated at the common portal for
+     each debit or credit to the electronic cash or credit ledger.
+    Similarly, the unique identification number relating to discharge of any liability
+      shall be indicated in the corresponding entry in the electronic liability register.
+
+
+====================== PAGE 32 ======================
+
+
+1.32    11.32         GOODS AND SERVICES TAX
+
+Electronic Credit Ledger
+
+
+====================== PAGE 33 ======================
+
+
+PAYMENT OF TAX    1.33        11.33
+
+C.  ELECTRONIC LIABILITY REGISTER [SECTION 49(7), (8) & (9) READ
+   WITH RULE 85 OF CGST RULES]
+
+   Sub-section  (7) of section 49 enumerates
+     about the third kind of ledger [Auto updated    Electronic Liability Register
+     on common portal] viz. Electronic Liability     will  reflect the  total  tax
+      Register.  While the terms “Electronic Cash     liability of a taxpayer for a
+     Ledger” and “Electronic Credit Ledger” are     particular tax period.
+     defined  in  the  Act,  the term  “Electronic
+       Liability Register” is not defined. The Section
+      lays down that all liabilities of a taxable person will be recorded & maintained in
+     a separate register named ‘Electronic Liability Register’.
+   Order of discharge of tax and other dues
+     Sub-section (8) prescribes the chronological order in which the liability of a
+      taxable person has to be discharged:
+       self-assessed tax, and other dues related to returns of previous tax
+           periods have to be discharged first;.
+       self-assessed tax, and other dues related to the return of the current tax
+           period next.
+      Once these two steps are exhausted, thereafter any other amount
+          payable under this Act or the rules made thereunder including the
+        demand determined under section 73 or section 74 comes last. This
+          sequence has to be mandatorily followed.
+     The expression “tax dues” means the tax payable under this Act and does not
+      include interest, fee and penalty; and “other dues” referred above mean
+      interest, penalty, fee or any other amount payable under the Act or the rules
+    made thereunder.
+   Presumption that incidence of tax is passed on
+     Sub-section (9) contains a deeming clause. This part of the section provides
+      that when a taxable person has paid the GST under the corresponding Act,
+     the taxable person  is deemed to have passed on the incidence of such
+     payment of tax to the recipient of such goods and /or services. Thus, if tax
+     has been paid under the CGST Act, 2017 then the taxable person is deemed
+
+
+====================== PAGE 34 ======================
+
+
+1.34    11.34         GOODS AND SERVICES TAX
+
+      to have passed on the incidence of such payment of CGST to the recipient.
+      This is subject to the contrary being proved. Onus to establish that incidence
+      of tax has not been passed on to the recipient, becomes relevant in case of
+     Section 54 dealing with “Refund of tax”
+   Chapter IX of CGST Rules provide the following:
+       (I)   Debit to electronic liability register:
+          all amounts payable towards tax, interest, late fee and any other
+              amount as per return filed;
+          all amounts payable towards tax, interest, penalty and any other
+             amount determined in a proceeding by
+        a proper officer or as ascertained by the said person;
+         interest payable under Section 50 that may accrue from time to time.
+        (II)  Debit to Electronic Credit/Cash ledger:
+
+           Debit   to   Electronic  Debit to Electronic Cash Ledger and
+            Credit   Ledger  and  Credit   to   Electronic    Liability
+            Credit  to  Electronic  Register
+             Liability Register
+           Payment   of    all   the  Payment  of   all  the  liabilities  of  a
+                liabilities of a registered  registered  person  as  per  his  return
+           person as per his return  subject to section 49 or section 49A or
+             subject to section 49 or  section 49B.
+             section 49A  or  section
+            49B.
+                                 Payment of TDS deducted under section
+                                         51,  TCS  deducted  by  e-commerce
+                                     operator  under  section  52, amount
+                                    payable under  reverse  charge  basis,
+                               amount  payable  under  section  10,
+                               amount payable towards payment of
+                                             interest,  penalty,  fee  or  any  other
+                               amount under the Act.
+
+
+====================== PAGE 35 ======================
+
+
+PAYMENT OF TAX    1.35        11.35
+
+  How do the payment systems benefit the taxpayer and the Commercial Tax
+     Department?
+     No more queues and waiting for making payments as payments can be
+        made online 24 X 7.
+       Instant online receipts for payments made online.
+      Tax Consultants can make payments on behalf of the clients.
+       Single Challan form to be created online, replacing the three or four copy
+            Challan.
+      Revenue will come earlier into the Government Treasury as compared to
+           the old system.
+      Greater transparency.
+      Online payments made after 8 pm will be credited to the taxpayer’s
+          account on the same day.
+Electronic Liability Register
+The Electronic Liability Register page is displayed in the following manner:-
+Part-I: Return related Liabilities
+Part-II: Other than return related liabilities
+
+Part - 1 Return related liabilities
+
+
+====================== PAGE 36 ======================
+
+
+1.36    11.36         GOODS AND SERVICES TAX
+
+Part - II: Other than return related liabilities
+
+
+    4. INTEREST ON DELAYED PAYMENT OF TAX
+      [SECTION 50]
+
+        STATUTORY PROVISIONS
+
+ Section 50               Interest on delayed payment of tax
+
+  Sub-section                         Particulars
+       (1)       Every person who  is liable to pay tax in accordance with the
+                  provisions of this Act or the rules made thereunder, but fails to pay
+                 the tax or any part thereof to the Government within the period
+                   prescribed, shall for the period for which the tax or any part thereof
+                remains unpaid, pay, on his own, interest at such rate, not exceeding
+                 eighteen per cent., as may be notified by the Government on the
+               recommendations of the Council.
+
+
+====================== PAGE 37 ======================
+
+
+PAYMENT OF TAX    1.37        11.37
+
+                 Provided that the interest on tax payable in respect of supplies made
+                 during a tax period and declared in the return for the said period
+                  furnished after the due date in accordance with the provisions of
+                  section  39,  except  where  such  return   is  furnished  after
+              commencement of any proceedings under section 73 or section 74
+                   in respect of the said period, shall be payable on that portion of the
+                  tax that is paid by debiting the electronic cash ledger6.
+       (2)      The interest under sub-section (1) shall be calculated, in such
+              manner as may be prescribed, from the day succeeding the day on
+                which such tax was due to be paid.
+       (3)      Where the input tax credit has been wrongly availed and
+                   utilised, the registered person shall pay interest on such input
+               tax credit wrongly availed and utilised, at such rate not
+               exceeding 24% as may be notified by the Government, on the
+              recommendations of the Council, and the interest shall be
+                 calculated, in such manner as may be prescribed.
+
+   Rule 88B   Manner of calculating interest on delayed payment of
+               tax.
+       (1)       In case, where the supplies made during a tax period are
+                declared by the registered person in the return for the said
+                period and the said return is furnished after the due date in
+               accordance with provisions of section 39, except where such
+                return is furnished after commencement of any proceedings
+              under section 73 or section 74 in respect of the said period, the
+                  interest on tax payable in respect of such supplies shall be
+                calculated on the portion of tax which is paid by debiting the
+                 electronic cash ledger, for the period of delay in filing the said
+                return beyond the due date, at such rate as may be notified
+              under sub-section (1) of section 50.
+       (2)       In all other cases, where interest is payable in accordance with
+              sub section (1) of section 50, the interest shall be calculated
+             on the amount of tax which remains unpaid, for the period
+
+
+6 The proviso is effective with retrospective effect from 01.07.2017.
+
+
+====================== PAGE 38 ======================
+
+
+1.38    11.38         GOODS AND SERVICES TAX
+
+               starting from the date on which such tax was due to be paid
+                     till the date such tax is paid, at such rate as may be notified
+             under sub-section (1) of section 50.
+     (3)       In case, where interest is payable on the amount of input tax
+                credit wrongly availed and utilized in accordance with sub-
+               section (3) of section 50, the interest shall be calculated on the
+           amount of input tax credit wrongly availed and utilised, for
+              the period starting from the date of utilisation of such wrongly
+              availed input tax credit till the date of reversal of such credit
+              or payment of tax in respect of such amount, at such rate as
+          may be notified under said sub-section (3) of section 50.
+Explanation  For the purposes of this sub-rule, -
+     (1)       Input tax credit wrongly availed shall be construed to have
+            been utilised, when the balance in the electronic credit ledger
+                 falls below the amount of input tax credit wrongly availed,
+            and the extent of such utilization of input tax credit shall be
+              the amount by which the balance in the electronic credit
+              ledger falls below the amount of input tax credit wrongly
+               availed.
+     (2)       the date of utilisation of such input tax credit shall be taken
+              to be, -
+                (a)   the date, on which the return is due to be furnished
+                  under section 39 or the actual date of filing of the said
+                      return, whichever  is  earlier,  if the balance  in the
+                      electronic credit ledger falls below the amount of input
+                   tax credit wrongly availed, on account of payment of tax
+                  through the said return; or
+                (b)   The date of debit in the electronic credit ledger when
+                   the balance in the electronic credit ledger falls below
+                   the amount of input tax credit wrongly availed, in all
+                   other cases.
+
+
+====================== PAGE 39 ======================
+
+
+PAYMENT OF TAX    1.39        11.39
+
+    ANALYSIS
+
+To promote greater discipline amongst taxpayer and timeliness in payment of tax,
+the tax dues which are not paid within the stipulated time are made liable to
+interest payment. This mechanism is automatic in nature by virtue of the provisions
+laid under any tax laws. Interest liability is imposed on taxpayer who has withheld
+the payment of any tax as and when  it  is due and payable.  Basically,  it  is
+compensatory in character and totally different from penalty which is penal in
+character.
+On similar lines, section 50 of the CGST Act, 2017 provides for applicability of
+interest for default in payment of taxes within the stipulated time. Under GST law,
+a registered person, can make the payment of tax through electronic credit ledger
+or electronic cash ledger in terms of section 49 of CGST Act, 2017. Usually, the
+balance in electronic credit ledger is exhausted first (subject to provisions of rule
+86B) before  utilizing the balance available  in the electronic cash ledger for
+discharging tax liabilities. This practice  is adopted for a better working capital
+management.
+In case a registered person does not have sufficient amount available in electronic
+credit ledger to pay the tax dues for a particular tax period and also if the registered
+person does not have sufficient money for making deposit of balance tax amount
+in electronic cash ledger then in such a situation, GST common portal doesn’t have
+a mechanism to allow a registered person to make part payment of taxes.
+If the law maker demands tax dues along with interest on the gross payments i.e.
+tax paid through electronic cash ledger and credit ledger both,  it may be an
+unhealthy  practice  from  business  perspective.  To  counter  such  recovery
+mechanism, the proviso under Section 50 provides that when a registered person
+has paid his taxes through a return specified under Section 39 of CGST Act, 2017
+belatedly, interest shall be applicable only on the net taxes paid through electronic
+cash ledger and not on the gross taxes paid for such tax period.
+As per the said proviso, the interest in cases where the tax return has been furnished
+after the due date (but furnished before commencement of proceedings under
+Section 73 or Section 74) shall be levied on that portion of the output tax which is
+being paid by debiting the electronic cash ledger. This means that the interest
+
+
+====================== PAGE 40 ======================
+
+
+1.40    11.40         GOODS AND SERVICES TAX
+
+liability shall not arise on that portion of the output tax liability which is paid using
+the ITC available in the electronic credit ledger.
+Accordingly, interest if any payable by the registered person for delay in remittance
+of taxes beyond the stipulated due date on account of delay in filing of return under
+section 39, shall be demanded only on the net cash liability of taxes and not on the
+gross tax liability.
+  When interest is payable?
+      Interest is payable in case of delay in payment of tax, in full or in part within
+     the prescribed period.
+   Rate of interest
+     The notified7 rate of interest under section 50 is 18% per annum i.e. on failure
+      to pay tax (or part of tax) to the Government’s account.
+   Computation of period for calculation of interest
+      Generally, the period of interest will be from the date following the due date
+      of payment to the actual date of payment of tax.
+   Manner of calculating interest on delayed payment of tax [Rule 88B8]
+      In case, where the supplies made during a tax period are declared by the
+     registered person in the return for the said period and the said return is
+     furnished after the due date in accordance with provisions of section 39,
+     except where such return  is furnished after commencement of any
+     proceedings under section 73 or section 74 in respect of the said period,
+     the interest on tax payable in respect of such supplies shall be calculated
+    on the portion of tax which is paid by debiting the electronic cash ledger,
+      for the period of delay in filing the said return beyond the due date, at
+     such rate as may be notified under section 50(1).
+      In all other cases, where interest is payable under section 50(1), the
+      interest shall be calculated on the amount of tax which remains unpaid,
+
+
+7Notification No. 13/2017 CT dated 28.06.2017 as amended by the Finance  Act, 2022
+retrospectively with effect from 01.07.2017
+8 This rule is effective with retrospective effect from 01.07.2017.
+
+
+====================== PAGE 41 ======================
+
+
+PAYMENT OF TAX    1.41        11.41
+
+      for the period starting from the date on which such tax was due to be
+     paid till the date such tax is paid at the rate specified under section 50(1).
+    Where interest is payable on the amount of ITC wrongly availed and
+      utilised in accordance with section 50(3), the interest shall be calculated
+    on the amount of input tax credit wrongly availed and utilised, for the
+     period starting from the date of utilisation of such wrongly availed input
+     tax credit till the date of reversal of such credit or payment of tax in
+     respect of such amount at the rate specified under section 50(3).
+     The explanation to the rule lays down that-
+       (i)   input tax credit wrongly availed shall be construed to have been
+            utilised, when the balance in the electronic credit ledger falls below
+          the amount of input tax credit wrongly availed, and the extent of
+          such utilisation of input tax credit shall be the amount by which the
+          balance in the electronic credit ledger falls below the amount of
+          input tax credit wrongly availed.
+       (ii)  the date of utilisation of such input tax credit shall be taken to be-
+           (a)  the date, on which the return is due to be furnished under
+                section 39 or the actual date of filing of the said return,
+              whichever is earlier, if the balance in the electronic credit
+               ledger falls below the amount of input tax credit wrongly
+                availed, on account of payment of tax through the said return;
+                or
+           (b)  the date of debit in the electronic credit ledger when the
+              balance in the electronic credit ledger falls below the amount
+                of input tax credit wrongly availed, in all other cases.
+   Other relevant points relating to interest
+      The term “tax” here means the tax payable under the Act read with
+           underlying Rules made thereunder.
+      The payment of interest in case of belated payment of tax should be
+        made voluntarily i.e. even without a demand.
+      The interest payable under this section shall be debited to the Electronic
+             Liability Register.
+
+
+====================== PAGE 42 ======================
+
+
+1.42    11.42         GOODS AND SERVICES TAX
+
+     The liability for interest can be settled by adjustment with balance in
+          Electronic Cash Ledger but not with balance in electronic credit
+         ledger.
+
+   5. TAX DEDUCTION AT SOURCE [SECTION 51 OF
+     CGST ACT]
+
+       STATUTORY PROVISIONS
+
+ Section 51                Tax deduction at source
+Sub-Section  Clause                     Particulars
+     (1)       Notwithstanding anything to the contrary contained in this Act,
+               the Government may mandate, —
+                     (a)    a  department  or  establishment  of  the  Central
+                     Government or State Government; or
+                     (b)     local authority; or
+                       (c)    Governmental agencies; or
+
+                     (d)     such persons or category of persons as may be notified by
+                          the Government on the recommendations of the Council,
+                 (hereafter in this section referred to as “the deductor”), to deduct
+                tax at the rate of one per cent from the payment made or credited
+                to the supplier (hereafter in  this section referred to as “the
+               deductee”) of taxable goods or services or both, where the total
+               value of such supply, under a contract, exceeds two lakh and fifty
+              thousand rupees :
+               Provided that no deduction shall be made if the location of the
+                supplier and the place of supply is in a State or Union territory
+              which is different from the State or as the case may be, Union
+                  territory of registration of the recipient.
+
+
+====================== PAGE 43 ======================
+
+
+PAYMENT OF TAX    1.43        11.43
+
+  Explanation   For the purpose of deduction of tax specified above, the value of
+                 supply shall be taken as the amount excluding the central tax,
+                  State tax, Union territory tax, integrated tax and cess indicated in
+                 the invoice.
+       (2)      The amount deducted as tax under this section shall be paid to the
+               Government by the deductor within ten days after the end of the
+              month in which such deduction is made, in such manner as may
+               be prescribed.
+       (3)     A certificate of tax deduction at source shall be issued in such form
+              and in such manner as may be prescribed.
+       (5)      The deductee shall claim credit, in his electronic cash ledger, of the
+                  tax deducted and reflected in the return of the deductor furnished
+                under sub-section (3) of section 39, in such manner as may be
+                   prescribed.
+       (6)            If any deductor  fails to pay to the Government the amount
+                deducted as tax under sub-section (1), he shall pay interest in
+                accordance with the provisions of sub-section (1) of section 50, in
+                  addition to the amount of tax deducted.
+       (7)      The determination of the amount in default under this section shall
+               be made in the manner specified in section 73 or section 74.
+       (8)      The refund to the deductor or the deductee arising on account of
+                  excess or erroneous deduction shall be dealt with in accordance
+                 with the provisions of section 54 :
+                 Provided that no refund to the deductor shall be granted, if the
+              amount deducted has been credited to the electronic cash ledger
+                   of the deductee.
+
+      ANALYSIS
+
+   Deductors of Tax at Source
+     Under the GST regime, section 51 of the CGST Act, 2017 prescribes the
+      authority and procedure for ‘tax deduction at source’. The TDS provisions
+
+
+====================== PAGE 44 ======================
+
+
+1.44    11.44         GOODS AND SERVICES TAX
+
+ empower the Central Government to make it mandatory for the following
+ persons (the deductor) to deduct tax at source from payments made to the
+  suppliers of taxable goods and/or services.
+
+           Central/State Government
+         department or establishment        Local Authority [Section 51(1)(b)]
+                [Section 51(1)(a)]
+
+
+       Governmental Agencies [Section        Notified Persons/category of
+                     51(1)(c)]                   persons [Section 51(1)(d)]
+
+ With respect to deductors under section 51(1)(a), provisions of TDS are
+  applicable to certain prescribed authorities of Ministry of Defence, remaining
+  authorities under the Ministry of Defence are exempt. Detailed list has been
+  specified under Notification 57/2018 CT dated 23.10.2018.
+ The following persons have been notified under clause (d) of sub-section (1) of
+  section 51 of the CGST Act by the Central Government:
+  (a)   an authority or a board or any other body, -
+           (i)    set up by an Act of Parliament or a State Legislature; or
+            (ii)   established by any Government,
+       with 51% or more participation by way of equity or control, to carry out
+      any function;
+          It has been clarified vide Circular No. 76/50/2018 GST dated 31.12.2018
+       that the rider of 51% or more participation by way of equity or control
+          is applicable to both the items (i) and (ii). Thus, the provisions of section
+      51 of the CGST Act are applicable only to such authority or a board or
+      any other body set up by an Act of parliament or a State legislature or
+       established by any Government in which 51% or more participation by
+      way of equity or control is with the Government.
+  (b)   society established by the Central Government or the State Government
+       or a Local Authority under the Societies Registration Act, 1860;
+  (c)   public sector undertakings:
+
+
+====================== PAGE 45 ======================
+
+
+PAYMENT OF TAX    1.45        11.45
+
+   Categories of persons not liable to deduct TDS
+     Tax is not liable to be deducted at source in the following cases:-
+         (i)   When goods and/or  services  are  supplied from a  public  sector
+          undertaking (PSU) to another PSU, whether or not a distinct person
+            [Notification No. 61/2018 CT dated 05.11.2018]
+         (ii)  When supply of goods and/or services takes place between one person
+           to another person specified in clauses (a), (b), (c) and (d) of section 51(1)
+           of the CGST Act.
+            [Notification No. 73/2018 CT dated 31.12.2018]
+   Deductees
+     The deductees are the suppliers whose total value of supply of taxable goods
+     and/or services under a contract exceeds ` 2,50,000 exclusive of tax & cess as
+     per the invoice.
+   Standard Rate of deduction
+     The tax would be deducted @ 1% under CGST                                             TDS-1% +1% [CGST +
+      Act, 2017 of the payment made to the supplier                                                   SGST] on net value of
+      (the deductee) of taxable goods and/or services,       taxable supplies
+     where the total value of such supply, under a
+      contract, exceeds `   2,50,000 (excluding the
+    amount of Central tax, State tax, Union Territory tax, Integrated tax and cess
+      indicated  in  the  invoice).  Thus,  individual  supplies may be  less than
+     ` 2,50,000/-, but  if total value of supplies under a contract is more than
+     ` 2,50,000/-, TDS has to be deducted.
+     The deductors have to deduct tax at the rate of 1% from the payment made
+     or credited to the supplier of taxable goods and/or services under CGST
+      Act, 2017.
+
+                   It may be noted that Section 20 of IGST Act provides that in the
+             case of tax deducted at source, the deductor shall deduct tax at
+             the rate of 2% from the payment made or credited to the
+              supplier.
+
+
+====================== PAGE 46 ======================
+
+
+1.46    11.46         GOODS AND SERVICES TAX
+
+  NO TDS
+     The Proviso to Section 51(1) lays down that when the location of the supplier
+     and the place of supply is in a State/ Union territory which is different from
+     the State/ Union territory of registration of the recipient, there will be no TDS.
+     The above statement can be explained in the following situations:
+      (a)   Supplier, place of supply and recipient are in the same state.
+                It would be intra-State supply and TDS (Central plus State tax) shall be
+          deducted. It would be possible for the supplier (i.e. the deductee) to
+           take credit of TDS in his electronic cash ledger.
+      (b)  Supplier as well as the place of supply are in different states.
+            In such cases, Integrated tax would be levied. TDS to be deducted would
+         be TDS (Integrated tax) and it would be possible for the supplier (i.e.
+           the deductee) to take credit of TDS in his electronic cash ledger.
+      (c)   Supplier as well as the place of supply are in State A and the
+           recipient is located in State B.
+         The supply would be intra-State supply and Central tax and State tax
+         would be levied. In such case, transfer of TDS (Central tax + State tax of
+           State B) to the cash ledger of the supplier (Central tax + State tax of
+           State A) would be  difficult.  So, in such cases, TDS would not be
+          deducted.
+           Thus, when both the supplier as well as the place of supply are different
+          from that of the recipient, no tax deduction at source would be made.
+            Location of    Place of       Registration of     TDS u/s 51
+              Supplier      Supply          Recipient
+                State A        State A            State A              Yes
+                State A        State A            State B          No
+                State A        State B            State B              Yes
+              UT1        UT1            UT1               Yes
+              UT1        UT2            UT2               Yes
+              UT1        UT1            UT2           No
+
+
+====================== PAGE 47 ======================
+
+
+PAYMENT OF TAX    1.47        11.47
+
+   Value of Supply
+     The amount indicated in the invoice excluding the   Value of supply
+      Central tax, State tax, Union territory tax, Integrated tax    shall   exclude
+     and cess element, is the value of supply for the purpose   tax & cess
+      of TDS under Section 51 of CGST Act, 2017.
+   Deposit of TDS with the Government
+     The amount  of  tax deducted  at  source should be deposited  to  the
+     Government account by deductor by 10th of the succeeding month in which
+     the deduction is made.
+   TDS Certificate
+    A TDS certificate is required to be issued by deductor (the person who is
+     deducting tax) in prescribed form to the deductee (the supplier from whose
+     payment TDS is deducted).
+     The content of Form GSTR 7A (TDS Certificate) are given below:
+       1.   TDS Certificate No.
+       2.   GSTIN of deductor
+       3.   Name of deductor
+       4.   GSTIN of deductee
+       5.     (a)   Legal name of the deductee
+             (b)   Trade name, if any
+       6.    Tax period in which tax deducted and accounted for in GSTR-7
+       7.    Details of supplies
+       8.   Amount of tax deducted
+   Non- remittance by the deductor
+         If the deductor has not remitted the amount deducted as TDS to the
+     Government within the prescribed time limit, he is liable to pay interest under
+     Section 50 in addition to the amount of tax deducted.
+
+
+====================== PAGE 48 ======================
+
+
+1.48    11.48         GOODS AND SERVICES TAX
+
+   Reflection of amount of TDS
+     The amount of tax deducted is reflected in
+       Electronic Cash Ledger of deductee.
+       Return filed by deductor under section 39(3).[GSTR-7][Refer Chapter:13
+           Returns for detailed discussion on GSTR-7].
+     The deductee can claim credit of the tax deducted, in his electronic cash
+      ledger. This provision enables the Government to cross check whether the
+    amount deducted by the deductor is correct and that there is no mis-match
+     between the amount reflected in the electronic cash ledger and the amount
+    shown in the return filed by deductor.
+      This is similar to existing practice in income tax relating to E-TDS returns filed
+     by deductor and 26AS statement available for viewing the TDS remitted in
+      respect of transactions by deductee.
+   Determination of amount in Default
+     Any default in determination of the amount under Section 51 shall be made
+      in the manner specified in Section 73 or section 74,9 as the case may be.
+   Refund on excess/erroneous deduction
+     The deductor or the deductee can claim refund of excess deduction or
+     erroneous deduction. The provisions of section 54 relating to refunds would
+     apply in such cases. However, if the deducted amount is already credited to
+     the electronic cash ledger of the supplier, the same shall not be refunded.
+                (1) Supplier makes a supply worth ` 20 lakh to a recipient and the GST
+                at the rate of 18% is required to be paid. The recipient, while making
+              the payment of ` 20 lakh to the supplier, shall deduct 2% [CGST 1% +
+     SGST 1%] viz ` 40,000 as TDS.
+     The value for TDS purpose shall not include 18% GST. The TDS, so deducted,
+       shall be deposited in the account of Government by 10th of the succeeding
+     month.
+
+
+9 The provisions relating to section 73 and section 74 will be discussed in Chapter-19: Demand
+& Recovery in Module-III of the Study material.
+
+
+====================== PAGE 49 ======================
+
+
+PAYMENT OF TAX    1.49        11.49
+
+     The TDS so deposited in the Government account shall be reflected in the
+      electronic cash ledger of the supplier (i.e. deductee) who would be able to use
+     the same for payment of tax or any other amount.
+   Registration10 [Rule 12 of CGST Rules, 2017]
+     Any person required to deduct tax in accordance with the provisions of
+      section 51 shall electronically submit a registration application in prescribed
+     form through the common  portal. The proper  officer  shall,  after due
+      verification, grant registration within 3 working days from the date of the
+      application. Also, on a request or upon an enquiry or pursuant to any other
+     proceeding under the Act, if the proper officer is satisfied that a person is no
+     longer liable to deduct tax at source under section 51, then the said officer
+    may cancel the said registration, following procedures as provided in Rule 22
+      of the CGST Rules for the cancellation of registration.
+
+    6. TRANSFER OF INPUT TAX CREDIT [SECTION
+      53 OF CGST ACT & SECTION 18 OF IGST ACT]
+If the amount of CGST is utilised towards dues of IGST then, in terms of section 53
+of the CGST Act, there shall be reduction in the amount of CGST, equal to the credit
+so utilized, and the Central Government shall transfer such amount equivalent to
+the amount so reduced in CGST account to the IGST account.
+Similarly, if the amount of IGST is utilised towards dues of CGST/UTGST then, in
+terms of section 18 of the IGST Act, there shall be reduction in the amount of IGST,
+equal to the credit so utilized, and the Central Government shall transfer such
+amount equivalent to the amount so reduced in IGST account to the CGST/UTGST
+account.
+However, if the amount of IGST is utilised towards dues of SGST then, in terms of
+section 18 of the IGST Act, there shall be reduction in the amount of IGST, equal to
+the credit so utilized, and will be apportioned to the appropriate State Government
+and the Central Government shall transfer the amount so apportioned to the
+account of the respective State Government. Here, "appropriate State" in relation
+to a taxable person, means the State or Union territory where taxable person is
+registered or is liable to be registered under the provisions of the Central Goods
+and Services Tax Act.
+
+10 The provisions relating to registration have already been discussed in Chapter-8 of this Module.
+
+
+====================== PAGE 50 ======================
+
+
+1.50    11.50         GOODS AND SERVICES TAX
+
+       LET US RECAPITULATE
+The provisions relating to payment of tax, interest and other amounts have been
+summarised by way of table and diagrams to help students remember and retain
+the provisions in a better and effective manner:-
+Definitions of certain key terms
+
+                              Output
+                               Tax
+                                                                        tax
+                            means      excludes       payable
+                                                      on
+                                                              reverse
+                  CGST on taxable supply of               charge
+                     goods and /or services
+
+               by taxable person    by agent of taxable person
+
+
+                           Taxable Person
+
+                             means
+
+                            a person
+
+
+           who is registered                 liable to be registered
+
+                                  under section     under section 24
+                                22 of CGST Act        of CGST Act
+
+
+====================== PAGE 51 ======================
+
+
+PAYMENT OF TAX    1.51        11.51
+
+Payments to be made in GST regime
+
+
+                                         CGST & SGST are              For Intra-state supply                                                       to be paid.
+
+
+                                             IGST to be paid, having
+             For Inter-state supply            components of both
+                                          CGST & SGST
+
+
+                                                              Interest, penalty, fees
+             Wherever applicable             and any other amount
+                                                           also to be paid
+
+
+Key Features of Payment process
+   Electronically generated challan from GSTN common portal in all modes of
+     payment and no use of manually prepared challan;
+   Facilitation for the tax payer by providing hassle free, anytime, anywhere
+    mode of payment of tax;
+  Convenience of making payment online;
+   Logical tax collection data in electronic format;
+   Faster remittance of tax revenue to the Government Account;
+   Paperless transactions;
+  Speedy Accounting and reporting;
+   Electronic reconciliation of all receipts;
+   Simplified procedure for banks;
+  Warehousing of Digital Challan.
+
+
+====================== PAGE 52 ======================
+
+
+1.52    11.52         GOODS AND SERVICES TAX
+
+What are E-Ledgers/Registers?
+Electronic ledgers or E-Ledgers are statements of cash and input tax credit in
+respect of each registered taxpayer. In addition, each taxpayer shall also have an
+electronic liability register.
+Types of Electronic ledgers/Registers
+
+
+                                   Electronic Cash Ledger
+
+
+                                       Electronic
+                                   Ledgers
+                        Electronic                                                             Electronic Credit                       Liability Register                                                      Ledger
+
+A.  Electronic Cash Ledger
+
+
+====================== PAGE 53 ======================
+
+
+PAYMENT OF TAX    1.53        11.53
+
+Modes of deposit in Electronic Cash Ledger
+
+                       •No limit
+       Internet banking
+
+                       •No limit
+       Credit/Debit card
+
+                       •No limit           UPI
+
+                       •No limit
+     NEFT/RTGS/IMPS
+
+                           •` 10,000 per challan per tax period
+      Over the counter
+
+
+Major and minor Heads of payment
+
+                                  Each  of  these  Major
+                                Heads  have  the   five           Major Heads                                      following Minor Heads                • IGST
+                               Minor Heads            •CGST                                               • Tax                • SGST/UTGST                                               • Interest             •CESS                                               • Penalty
+                                               • Fee
+                                               • Others
+
+
+====================== PAGE 54 ======================
+
+
+1.54    11.54         GOODS AND SERVICES TAX
+
+Date of deposit of tax dues
+
+ Which date is considered as date of deposit of the tax dues ?
+
+   (i)    Date of presentation of cheque                        ×
+
+   (ii)    Date of payment                                 ×
+
+   (iii)   Date of credit of amount in the account of government by Debit    √
+        of Electronic Cash Ledger/Electronic credit ledger
+
+B.  Electronic credit ledger
+    Order of utilisation of input tax credit available in electronic
+     credit ledger
+
+      ITC                        Order of utilisation
+                             (1)                               (2)
+     IGST                IGST              CGST/SGST/UTGST- any order
+             ITC of IGST to be completely exhausted first, mandatorily
+    CGST             CGST                          IGST
+    ITC of CGST has been utilized fully before utilizing SGST for payment of IGST
+ SGST/UTGST        SGST/UTGST                      IGST
+
+
+           The CGST credit cannot be utilized for payment of SGST/UTGST.
+   The SGST/UTGST credit cannot be utilized for payment of CGST.
+
+
+====================== PAGE 55 ======================
+
+
+PAYMENT OF TAX    1.55        11.55
+
+C.  Electronic liability register
+    Order of discharge of liability of taxable person
+
+
+                                                                    3. All dues
+                                                          including
+                                                 2. All dues     demand
+                                          related to     determined
+                                         current tax       under
+                                      period          section 73                                1. All dues
+                                                and 74                            related to
+                          previous
+                         period
+
+Manner of making payment
+
+ Through debit of Electronic Credit  In cash, by debit in the Electronic
+ Ledger                         Cash Ledger
+
+ Through debit of Credit Ledger of the  Payment can be made in cash, by debit
+  tax payer maintained on the Common  in the Cash Ledger of the tax payer
+  portal – ONLY Tax can be paid.       maintained on the common portal.
+
+E-Ledgers
+                                  •It  will  reflect  all  deposits made  in  cash, and
+                      TDS/TCS made on account of the tax payer.
+    Electronic Cash                           •This  ledger  can  be  used  for  making ANY       Ledger                 PAYMENT towards tax, interest, penalty, fees or
+                       any other amount on account of GST.
+                                   •It will reflect Input Tax Credit as self-assessed in
+                        monthly returns.    Electronic Credit
+       Ledger         •The credit in this ledger can be used to make
+                      payment of ONLY TAX  i.e. output tax and not
+                          other amounts such as interest, penalty, fees etc.
+                            •Electronic Liability Register will reflect the total tax
+   Electronic Liability       liability  of  a  taxpayer  (after  netting)  for  the
+        Register            particular month.
+
+
+====================== PAGE 56 ======================
+
+
+1.56    11.56         GOODS AND SERVICES TAX
+
+Payment of tax via Electronic Ledger
+A.    Electronic Cash Ledger
+(Assume it as an account statement provided by bank, for easy understanding)
+
+          Debit Amount (DR)                    Credit Amount (CR)
+  •     Credit amount of this ledger may  •    Any deposit made towards tax,
+      be  used  for  payment  of  tax,         interest, penalty, late fee etc. via
+         interest, fees etc.                           internet banking, RTGS, IMPS/
+                                            fund transfer etc.  •    Remaining credit balance amount
+        after payment of above tax etc. can  •    TDS/TCS claimed
+      be claimed as refund by taxable
+       person.
+
+B.    Electronic Credit ledger
+           Debit Amount (DR)                    Credit Amount (CR)
+  •   Credit amount of this ledger may be  •   Input Tax credit as self-assessed
+     used for payment of output tax viz       in the return in the form of IGST,
+      IGST,  CGST,  SGST, UTGST  in  the      CGST, SGST, UTGST
+      prescribed order.
+
+C.    Electronic Liability Register
+          Debit Amount (DR)                    Credit Amount (CR)
+  •    Amount  payable  towards   tax,  •     Electronic cash ledger
+         interest, fees etc.
+  •    Tax or  interest payable due to
+      mismatch
+  •    Any other dues
+  •    Amount payable towards output  •     Electronic credit ledger
+        tax
+
+
+====================== PAGE 57 ======================
+
+
+PAYMENT OF TAX    1.57        11.57
+
+Interest on delayed payment of tax [Section 50]
+
+
+      If person pays the
+   unpaid amount on           Interest Rate is        18% per annum
+          his own
+
+
+Interest payable on the net cash liability of taxes [Section 50(1)]
+
+     Interest payable on tax declared and paid in GSTR-3B filed after due
+    date
+
+
+                                                                      Interest applicable        Tax paid through          Tax Paid through                                                              only on the Cash           Credit Ledger             Cash Ledger                                                                portion of Tax
+
+Interest payable on the gross tax liability [Section 50(1)]
+
+      Interest payable on gross liability where returns is furnished within
+     due date
+
+
+                                                                      Interest applicable
+        Tax paid through          Tax Paid through          on the tax paid
+           Credit Ledger             Cash Ledger            through Cash and
+                                                                    Credit Ledger
+
+
+====================== PAGE 58 ======================
+
+
+1.58    11.58         GOODS AND SERVICES TAX
+
+Interest payable due to wrongful availment and utilisation of ITC [Section
+50(3)]
+              ITC availed but not          ITC availed as well as
+                      utilised                          utilised
+
+                                            Interest from the date of         No interest liability                                              utilisation till reversal date
+
+
+Rate of TDS
+
+                              under CGST       1%
+               Rate of TDS
+                              under IGST       2%
+
+
+                                 TDS
+
+                                       Rate of Person liable to      Threshold                                    Due date of
+  deduct tax at            limit                                      deduction      NO TDS      payment of TDS to                                   under CGST     source                                                       Government
+
+        Central and                     1%
+           State
+      Government                                                                                Within 10 days                             Total value of                                                                          from the end                          supply under a                                                                                        of month                              contract >
+      Local authority        ` 2.5 lakhs,                  When location
+                              exclusive of                         of supplier and
+                              gst as per                         place of supply
+                                invoice                                    is different from       Governmental                                                                the state of          agencies                                                                       registration of
+                                                                         recipient
+         Notified
+        persons
+
+
+====================== PAGE 59 ======================
+
+
+PAYMENT OF TAX    1.59        11.59
+
+Manner of account of TDS by TDS deductor
+   1.             Such deductor need to get compulsorily registered under section
+                 24 of the CGST/SGST Act.
+   2.             They need to remit such TDS collected by the 10th day of the
+               month succeeding the month in which TDS was collected.
+   3.             The amount deposited as TDS will be reflected in the electronic
+                  cash ledger of the supplier.
+
+Manner of account of TDS by supplier
+   Any amount shown as TDS will be reflected in the electronic cash ledger of
+      the concerned supplier.
+  He can utilize this amount towards discharging his liability towards tax,
+       interest fees and any other amount.
+
+Applicability of TDS
+
+
+                                       Situations
+
+                                                           Supplier & place of                                 Supplier and place           Supplier, place of                                                       supply - same State &                                 of supply-different         supply & recipient-                                                               recipient located in                                        States           same State                                                          another State
+
+                                   Inter-State supply       Intra-State supply                                                                 Intra-State supply
+                           TDS (IGST) to be     TDS (CGST + SGST)                                  deducted        to be deducted                                          NO TDS
+
+
+====================== PAGE 60 ======================
+
+
+1.60    11.60         GOODS AND SERVICES TAX
+
+Consequences of not complying with TDS provisions
+  S. No.  Event                     Consequence
+    1.   TDS not deducted                Interest to be paid along with the TDS
+                                     amount;  else  the  amount  shall  be
+                                      determined and recovered as per the
+                                       law
+    2.   TDS deducted but not paid to  Interest to be paid along with the TDS
+          the Government or paid later  amount;  else  the  amount  shall  be
+         than 10th of the succeeding  determined and recovered as per the
+        month                        law
+
+Transfer of input tax credit [Section 53 of CGST Act & Section
+18 of IGST Act]
+
+                                              Amount equivalent to ITC so
+                         Used for payment           used is transferred by Central    ITC of CGST                                    of IGST               Government (CG) from CGST
+                                                         account to IGST account.
+
+
+                        used for payment
+                                 of CGST           Amount equivalent to ITC so
+                                                 used is transferred by CG
+                                                   from IGST account to
+                        used for payment           CGST/UTGST account.
+                                of UTGST     ITC of IGST
+
+
+                                          Amount equivalent to ITC so used
+                        used for payment               is transferred by CG from IGST
+                                 of SGST              account to the respective SGST
+                                                  account of the State Government .
+
+
+====================== PAGE 61 ======================
+
+
+PAYMENT OF TAX    1.61        11.61
+
+       TEST YOUR KNOWLEDGE
+1.    Miss Nitya has following balances  in her  Electronic Cash Ledger as on
+      28th February as per GST portal.
+
+        Major Heads          Minor Heads            Amount (`)
+                                   Tax                      40,000
+          CGST                      Interest                     1,000
+                                     Penalty                    800
+                                   Tax                      80,000
+                                           Interest                    400
+           SGST
+                                     Penalty                     1,200
+                                     Fee                       2,000
+                                    Tax                      45,000
+             IGST                      Interest                   200
+                                      Penalty                         Nil
+
+     She furnishes return on monthly basis.  Her tax liability for the month of
+     February for CGST and SGST was ` 75,000 each. She failed to pay the tax and
+     contacted you as legal advisor on 12th April to advise her as to how much
+     amount of tax or interest she is required to pay, if any. In order to optimize the
+      interest liability as per GST provisions, she is willing to make any transfer from
+      the cash ledger between any of the major or minor heads as the case may be.
+     She wants to pay the tax on 20th April.
+     Other information:
+         (i)   Date of collection of GST was 18th February.
+         (ii)  No other transaction after this up to 20th April.
+         (iii)  Ignore penalty and late fee for this transaction.
+       (iv)  No other balance is available.
+
+
+====================== PAGE 62 ======================
+
+
+1.62    11.62         GOODS AND SERVICES TAX
+
+     You are required to advise her with reference to legal provisions with brief notes
+     on the legal provisions applicable.
+2.   A makes intra-State supply of goods valued at ` 50,000(excluding taxes) to B
+      within State of Karnataka. There is no input tax credit balance available with
+      A. B makes inter-State supply to X Ltd. (located in Telangana) after adding 10%
+     as its margin on the value of goods excluding taxes. Thereafter, X Ltd. sells it to
+     Y in Telangana (Intra-State sale) after adding 10% as his margin on the value
+      of goods excluding taxes.
+     Assume that the rate of GST chargeable is 18% (CGST and SGST at 9% each
+     and IGST chargeable at 18%) and every person involved in the aforesaid
+      supplies are registered tax payers. Calculate tax payable at each stage of the
+      transactions detailed above. Wherever input tax credit is available and can be
+       utilized, calculate the net tax payable in cash. At each stage of the transaction,
+      indicate which Government will receive the tax paid and to what extent.
+3.   Can one use input tax credit for payment of interest, penalty or payment of GST
+     under reverse charge?
+4.   M/s PPC & Co. have availed input tax credit of ` 42,500 during September
+     under IGST head, instead of availing ` 21,250 under CGST & SGST heads. Mr.
+      X, accountant of the above entity would like to use Form GST PMT-09 for
+     making a transfer from IGST head to respective CGST & SGST heads.
+     Examine the scenario and offer your comments.
+5.   ABC Ltd. has belatedly filed GST return (under section 39) for the month of
+     January after 60 days from the due date for filing such return.  Total tax paid
+      in such return is as below:
+
+       Particulars                          IGST (`)   CGST (`)  SGST (`)
+       Output tax payable                        4,50,000     2,85,000   2,85,000
+       Tax payable under reverse charge           18,000      32,000    32,000
+       Input tax available for utilisation           2,50,000      55,000    55,000
+       Tax paid through Electronic Cash Ledger    2,18,000     2,62,000  2,62,000
+
+
+====================== PAGE 63 ======================
+
+
+PAYMENT OF TAX    1.63        11.63
+
+     Examine the interest payable as per the provisions of GST law with the help of
+     above information.
+    What would be your answer, if entire tax for the month of January has to be
+     paid through Electronic Credit Ledger except taxes to be paid on reverse charge
+      basis?
+6.   Examine the taxes to be paid for the month of July on the basis of below
+     information furnished by M/s Zinc & Co.:
+
+              Particulars             IGST (`)     CGST (`)      SGST (`)
+       Output tax payable              14,75,000      28,34,000      28,34,000
+       Tax payable under reverse         36,000        1,44,000        1,44,000
+       charge
+       Balance in Electronic Credit      26,52,000      18,32,000      18,32,000
+       Ledger
+
+     Output tax reported under IGST column pertains to the month of February,
+     which was not paid for the said period. Also, note that input tax credit available
+      in Electronic Credit Ledger pertains to input tax on purchases made during the
+    month of July and no opening balance exists from previous tax period.  It
+      furnishes return on monthly basis.
+7.   M/s Neptune & Co. is registered under GST in the state of Maharashtra. They
+     have made zero-rated supply of goods worth ` 84,50,000 without payment of
+     IGST for ` 10,14,000 during the month of May. The refund application under
+      section 54 for the above supply has been rejected by the proper officer.
+     Mr. A, taxation manager of the firm, has sought for recrediting the Electronic
+      Credit Ledger as per the provisions of rule 86 for the above rejection. Examine
+      the scenario and offer your comments.
+8.   Manihar Enterprises, registered in Delhi, is engaged in supply of various goods
+     and services exclusively to Government departments, agencies etc. and persons
+      notified under section 51.   It has provided the information relating to the
+      supplies made, their contract values and the payment due against each of them
+      in the month of October, respectively as under:
+
+
+====================== PAGE 64 ======================
+
+
+1.64    11.64         GOODS AND SERVICES TAX
+
+   S.No.  Particulars                    Total contract    Payment
+                                      value (inclusive     due in
+                                            of GST) (`)     October (`)
+       (i)    Supply of stationery to Fisheries      2,60,000         15,000
+          Department, Kolkata
+       (ii)   Supply of car rental services to      2,95,000         20,000
+          Municipal Corporation of Delhi
+       (iii)   Supply of a heavy machinery to      5,90,000         25,000
+           Public    Sector   Undertaking
+           located  &    registered    in
+          Uttarakhand
+      (iv)   Supply of taxable goods to Delhi      6,49,000         50,000
+            office   of  National  Housing
+          Bank, a society established by
+         Government of India under the
+            Societies Registration Act, 1860
+      (v)    Interior decoration  of Andhra     12,39,000       12,39,000
+        Bhawan   located   in   Delhi.
+           Service contract is entered into
+          with the Government of Andhra
+          Pradesh  (registered  only   in
+         Andhra Pradesh)
+      (vi)   Supply  of  printed books and      9,72,000         50,000
+           printed post cards to a West                         for books &
+           Delhi Post Office [Out of total                     20,000 for
+           contract        value         of                      printed post
+      ` 9,72,000, contract value  for                         cards
+          supply of books (exempt from
+          GST)  is `  7,00,000 and  for
+          supply  of  printed  post  cards
+           (taxable   under   GST)     is
+      ` 2,72,000.]
+      (vii)   Maintenance of street lights in      3,50,000         3,50,000
+          Municipal area of East Delhi*
+
+
+====================== PAGE 65 ======================
+
+
+PAYMENT OF TAX    1.65        11.65
+
+              [The   maintenance   contract
+              entered into with the Municipal
+              Corporation   of   Delhi   also
+               involves replacement of defunct
+                 lights   and   other    spares.
+             However, the value of supply of
+             goods is not more than 25% of
+               the value of composite supply.]
+             *an activity in relation to any
+               function    entrusted    to   a
+               Municipality under article 243W
+                of the Constitution
+
+     You are required to determine amount of tax, if any, to be deducted from each
+      of the receivable given above assuming the rate of CGST, SGST and IGST as 9%,
+    9% and 18% respectively.
+      Will your answer be  different,  if Manihar Enterprises  is registered under
+     composition scheme?
+9.   Yash Shoppe, a registered supplier of Jaipur, is engaged in supply of various
+     goods and services exclusively to Government departments, agencies, local
+      authority and persons notified under section 51.
+     You are required to briefly explain the provisions relating to tax deduction at
+     source under section 51 and also determine the amount of tax, if any, to be
+     deducted from each  of the  receivables given below (independent  cases)
+     assuming that the payments as per the contract values are made on 31st
+      October. The rates of CGST, SGST and IGST may be assumed to be 6%, 6% and
+    12% respectively.
+       (1)   Supply of computer stationery to Public Sector Undertaking (PSU) located
+       & registered in Mumbai. Total contract value is ` 2,72,000 (inclusive of
+          GST)
+       (2)   Supply of air conditioner to GST department located & registered in Delhi.
+            Total contract value is ` 2,55,000 (exclusive of GST)
+       (3)   Supply of generator renting service to Municipal Corporation of Jaipur
+            (not exempt under GST law). Total contract value is ` 3,50,000 (inclusive
+            of GST)
+
+
+====================== PAGE 66 ======================
+
+
+1.66    11.66         GOODS AND SERVICES TAX
+
+      ANSWERS/HINTS
+
+1.   Due date for payment of tax collected on 18th February is 20th March. Interest
+   @ 18% p.a. is payable for the period for which the tax remains unpaid in terms
+      of section 50 of CGST Act, 2017. In the given case, since Miss Nitya wants to
+     pay the tax on 20th April, interest payable on the amount of CGST and SGST
+     each is as follows:
+     ` 75,000 × 18% × 31/365 = ` 1,147 (rounded off)
+     As per Section 49(10) of the CGST Act, 2017, any amount of tax, interest,
+      penalty, fee or any other amount available in the electronic cash ledger under
+     the CGST Act, 2017 can be transferred to the electronic cash ledger for
+      integrated tax, central tax, State tax, Union territory tax or cess, in such form
+     and manner and subject to such conditions and restrictions as may be
+      prescribed. Thus, amount entered under any Minor head (Tax,  Interest,
+      Penalty, etc.) and Major Head (CGST, IGST, SGST/UTGST) of the Electronic
+     Cash Ledger can be  transferred  to any  other major  or minor head.
+     Consequently,  cross-utilization among Major and Minor heads  is  also
+      possible.
+      Thus, Miss Nitya is liable to pay the following amount of tax and interest as
+     under:
+                                CGST             SGST
+                               Tax      Interest    Tax     Interest
+       Tax Liability                   75,000      1,147     75,000      1,147
+       Balances in Electronic cash      40,000      1,000     80,000       400
+       ledger       in     same
+      major/minor head
+       Balance  transferred from      35,000       147         Nil       747
+       other major/minor head      (Note 1)   (Note 2)             (Note 3)
+     Amount payable in cash          Nil        Nil        Nil        Nil
+
+
+====================== PAGE 67 ======================
+
+
+PAYMENT OF TAX    1.67        11.67
+
+     Note 1 – ` 35,000 shortfall amount has been transferred from cash ledger
+     balance available in Major Head IGST.
+     Note 2 – ` 147 shortfall amount has been transferred from cash ledger
+     balance in minor head penalty of major head CGST.
+     Note 3 – ` 747 shortfall amount has been transferred from cash ledger
+     balance in minor head tax of major head SGST.
+     Since there is no restriction in intra-head or inter-head transfer of available
+     balance in cash ledger as per the relevant provisions, it is upon the taxpayer
+      to decide from which account the shortfall has to be made good.
+2.      I.    Intra-State supply of goods by A to B
+
+                                                                        `
+           Value charged for supply of goods                        50,000
+           Add: CGST @ 9%                                           4,500
+           Add: SGST @ 9%                                           4,500
+             Total price charged by A from B                           59,000
+        A does not have credit of CGST, SGST or IGST. Thus, the entire CGST
+             (` 4,500) & SGST (` 4,500) charged will be paid in cash by A, which shall
+         be allocated to Central Government and Karnataka Government in
+            specified manner.
+        II.   Inter-State supply of goods by B to X Ltd. – Margin @ 10%
+
+                                                                        `
+           Value charged for supply of goods (` 50,000 x 110%)        55,000
+           Add: IGST @ 18%                                          9,900
+             Total price charged by B from X Ltd.                       64,900
+         Computation of IGST payable by B to Central Government in cash
+
+                                                                        `
+           IGST payable                                              9,900
+
+
+====================== PAGE 68 ======================
+
+
+1.68    11.68         GOODS AND SERVICES TAX
+
+         Less: Credit of CGST                                        4,500
+         Less: Credit of SGST                                        4,500
+        IGST payable to Central Government in cash                 900
+
+       Credit of CGST and SGST can be used to pay IGST provided the SGST
+        credit shall be utilised towards payment of IGST only where the balance
+       of CGST credit is not available for payment of IGST. [Section 49(5) of the
+     CGST Act, 2017].
+  III.   Intra-State supply of goods by X Ltd. to Y
+
+                                                                     `
+        Value charged for supply of goods (` 55,000 x 110%)       60,500
+        Add: CGST @ 9%                                          5,445
+        Add: SGST @ 9%                                          5,445
+         Total price charged by X Ltd. from Y                      71,390
+        Computation of CGST and SGST payable by X Ltd in cash
+
+                                                                     `
+       CGST payable                                             5,445
+          Less: Credit of IGST                                        5,445
+       CGST payable to Central Government in cash                     Nil
+       SGST payable                                             5,445
+          Less: Available Credit of IGST [` 9,900 – ` 5,445]             4,455
+       SGST payable to Telangana Government in cash             990
+  Credit of IGST shall first be utilised towards payment of IGST and the amount
+ remaining,  if any, may be  utilised towards the payment of CGST and
+ SGST/UTGST, as the case may be, in any order and in any proportion. Here,
+ there is no payment to be made with respect to IGST so its credit balance will
+ be directly utilised for making payment of CGST or SGST, in any order. Central
+
+
+====================== PAGE 69 ======================
+
+
+PAYMENT OF TAX    1.69        11.69
+
+     Government will transfer IGST of R` 4,455 utilised in the payment of SGST to
+     Telangana Government.
+3.   No, as per section 49(4) the amount available in the electronic credit ledger
+    may be used for making any payment towards ‘output tax’.
+     As per section 2(82), output tax means, the CGST/SGST chargeable under this
+     Act on taxable supply of goods and/or services made by him or by his agent
+     and excludes tax payable by him on reverse charge basis. Therefore, input tax
+      credit cannot be used for payment of interest, penalty or GST payment under
+      reverse charge.
+4.   As per provisions of section 49(10) read with rule 87(13) of CGST Rules, 2017,
+     “A registered person may, on the common portal, transfer any amount of tax,
+      interest, penalty, fee or any other amount available in the electronic cash
+     ledger under the Act to the electronic cash ledger for integrated tax, central
+       tax, State tax or Union territory tax or cess in FORM GST PMT-09”.
+        It is important to note that only amounts available under Electronic Cash
+     Ledger can be transferred to the respective heads using Form GST PMT-09
+     and not otherwise.
+      Accordingly, contention of the Accountant Mr. X of M/s PPC & Co., is not
+      valid for transfer of ` 42,500 from head IGST to respective CGST & SGST in
+      Electronic Credit Ledger.
+5.    Proviso to section 50 lays down that the interest on tax payable in respect of
+      supplies made during a tax period and declared in the return for the said period
+     furnished after the due date in accordance with the provisions of section
+      39, except where such return  is furnished  after commencement  of any
+     proceedings under section 73 or section 74 in respect of the said period, shall
+     be levied on that portion of the tax that is paid by debiting the electronic cash
+      ledger.
+      In the given scenario, ABC Ltd. has filed its return belatedly and as per the
+     above provisions, interest is payable on the tax component paid through
+      Electronic Cash Ledger only. A point relevant to note here is that tax payable
+    on reverse charge basis also carries interest for the period of delay in
+     remittance of tax and input tax credit cannot be used to pay the same (i.e. tax
+     payable under reverse charge has to be paid in cash).
+
+
+====================== PAGE 70 ======================
+
+
+1.70    11.70         GOODS AND SERVICES TAX
+
+      Accordingly, interest under section 50 payable for the tax paid through
+      Electronic Cash Ledger is computed as below:
+      IGST: 218,000 *18%*60/365 = 6,450
+     CGST: 262,000*18%*60/365 = 7,752
+     SGST: 262,000*18%*60/365 = 7,752
+      Further,  if entire tax payable for January is paid through Electronic Credit
+      ledger, except for the taxes to be paid under reverse charge basis, then
+      interest under section 50 is applicable only on the remittance of tax under
+      reverse charge basis and not for tax payable on forward charge basis. Interest
+     payable is given as below:
+      IGST: 18,000 * 18% * 60/365 = 533 (rounded off)
+     CGST: 32,000 * 18% * 60/365 = 947 (rounded off)
+     SGST: 32,000 * 18% * 60/365 = 947 (rounded off)
+6.   Payment of taxes is governed as per the provisions laid in section 49 read
+     with section 49A and 49B of CGST Act, 2017 along with rule 88A of CGST
+      Rules, 2017
+      Also, section 49(8) of CGST Act, stipulates that every taxable person shall
+     discharge his tax and other dues under this Act or the rules made thereunder
+      in the following order, namely:
+       (a)   self-assessed tax, and other dues related to returns of previous tax
+           periods;
+      (b)   self-assessed tax, and other dues related to the return of the current tax
+           period;
+       (c)   any other amount payable under this Act or the rules made thereunder
+           including the demand determined under section 73 or section 74;”
+     As per the above provisions, self-assessed tax of previous tax period  i.e.
+     February shall be paid first and later self-assessed tax of current tax period
+        i.e. July shall be paid.
+
+
+====================== PAGE 71 ======================
+
+
+PAYMENT OF TAX    1.71        11.71
+
+Payment of taxes under forward charge
+               Particulars               IGST     CGST     SGST
+  Balance in electronic credit ledger for   26,52,000   18,32,000    18,32,000
+  utilization
+ Output tax payable for July              14,75,000   28,34,000    28,34,000
+  Less: Utilization of input tax credit:
+  a.    IGST [Refer Note1]               14,75,000    5,88,500     5,88,500
+  b.   CGST                               0   18,32,000          0
+  c.   SGST                               0         0    18,32,000
+ Amount  payable  through  electronic          Nil    4,13,500     4,13,500
+  cash ledger
+
+       Total amount payable through electronic cash ledger
+                 Particulars                IGST    CGST     SGST
+ Amount payable through Electronic cash        Nil    4,13,500    4,13,500
+  ledger under forward charge
+ Amount payable through electronic cash   36,000    1,44,000    1,44,000
+  ledger under reverse charge [Refer Note-2]
+  Total amount payable through electronic   36,000    5,57,500    557,500
+  cash ledger
+
+Notes:-
+1     After utilization of IGST credit towards output IGST liability, balance has
+     been utilized equally amongst CGST & SGST
+2    Input tax credit cannot be utilized for discharging tax liability under
+      reverse charge basis, thus payable vide electronic cash ledger.
+Since, M/s Zinc & Co., have defaulted in payment of taxes for the month of
+February and the same has been paid during July, interest is payable as per
+the provisions of section 50 of the CGST Act, 2017
+
+
+====================== PAGE 72 ======================
+
+
+1.72    11.72         GOODS AND SERVICES TAX
+
+7.   Rule 86 of CGST Rules provides that where a registered person has claimed
+     refund of any unutilized amount (i.e. ITC) from the electronic credit ledger in
+     accordance with the provisions of section 54, the amount to the extent of the
+     claim shall be debited in the said ledger.
+         If the refund so filed is rejected, either fully or partly, the amount so debited
+      to the extent of rejection, shall be re-credited to the electronic credit ledger
+     by the proper officer.
+      In the present case, M/s Neptune & Co., have made zero-rated supply without
+     payment of IGST for ` 10,14,000 and the refund for the same has been
+      rejected by the proper  officer.   Therefore, contention of Mr. A  is not
+      sustainable as debit entry in the Electronic Credit Ledger has not been made
+     as per sub-rule (3) of Rule 86 towards “refund of any unutilized amount”.
+8.   As per section 51 read with section 20 of the IGST Act, 2017 and Notification
+     No. 50/2018 CT 13.09.2018, following persons are required to deduct CGST
+   @ 1% [Effective tax 2% (1% CGST + 1% SGST/UTGST)] or IGST @ 2% from the
+     payment made/credited to the supplier (deductee) of taxable goods or
+      services or both, where the total value of such supply, under a contract,
+     exceeds ` 2,50,000:
+       (a)   a department or establishment of the Central Government or State
+          Government; or
+      (b)   local authority; or
+       (c)   Governmental agencies; or
+      (d)   an authority or a board or any other body, -
+                  (i)    set up by an Act of Parliament or a State Legislature; or
+                  (ii)   established by any Government,
+           with 51% or more participation by way of equity or control, to carry out
+          any function; or
+       (e)   Society established by the Central Government or the State Government
+           or a Local Authority under the Societies Registration Act, 1860, or
+
+
+====================== PAGE 73 ======================
+
+
+PAYMENT OF TAX    1.73        11.73
+
+(f)    Public sector undertakings.
+Further, for the purpose of deduction of tax, the value of supply shall be taken
+as the amount excluding CGST, SGST/UTGST, IGST and GST Compensation
+Cess indicated in the invoice.
+Since in the given case, Manihaar Enterprises is supplying goods and services
+exclusively to Government departments, agencies etc. and persons notified
+under section 51, applicability of TDS provisions on its various receivables is
+examined in accordance with the above-mentioned provisions as under:
+
+S.     Particulars             Total      Payment  Tax to be deducted
+No.                          contract     due
+                             value (`)       (`)    CGST  SGST  IGST
+                                                                (`)     (`)     (`)
+ (i)     Supply of stationery to   2,60,000    15,000       --
+        Fisheries  Department,
+       Kolkata (Note-1)
+ (ii)    Supply  of  car  rental   2,95,000    20,000       --
+        services  to  Municipal
+       Corporation  of  Delhi
+       (Note-2)
+ (iii)    Supply   of  a  heavy   5,90,000    25,000                500
+       machinery   to   Public
+       Sector     Undertaking
+       located in Uttarakhand
+       (Note-3)
+(iv)    Supply of taxable goods   6,49,000    50,000    500   500
+        to   Delhi   office   of
+       National Housing Bank,
+       a society established by
+      Government  of  India
+       under   the   Societies
+        Registration  Act, 1860
+       (Note-4)
+
+
+====================== PAGE 74 ======================
+
+
+1.74    11.74         GOODS AND SERVICES TAX
+
+  (v)      Interior  decoration  of  12,39,000  12,39,000     --
+        Andhra Bhawan located
+           in Delhi (Note-5)
+   (vi)    Supply of printed books   9,72,000                   --
+        and printed post cards
+         to a West Delhi Post
+          Office (Note-6)
+   (vii)   Maintenance  of  street   3,50,000    3,50,000      --
+          lights in Municipal area
+         of East Delhi (Note-7)
+
+ Notes:
+  1.    Being an inter-State supply of goods, supply of stationery to Fisheries
+      Department, Kolkata is subject to IGST @ 18%.  Therefore, total value
+       of taxable supply [excluding IGST] under the contract is as follows:
+     = ` 2,60,000 × 100 / 118
+     = ` 2,20,339 (rounded off)
+       Since the total value of supply under the contract does not exceed
+       ` 2,50,000, tax is not required to be deducted.
+  2.    Being an intra-State supply of services, supply of car rental services to
+       Municipal Corporation of Delhi is subject to CGST and SGST @ 9% each.
+       Therefore, total value of taxable supply [excluding CGST and SGST]
+      under the contract is as follows:
+     = ` 2,95,000 × 100 / 118
+     = ` 2,50,000
+       Since the total value of supply under the contract does not exceed
+       ` 2,50,000, tax is not required to be deducted.
+  3.    Being an inter-State supply of goods, supply of heavy machinery to PSU
+        in Uttarakhand  is subject to IGST @ 18%. Therefore, total value of
+       taxable supply [excluding IGST] under the contract is as follows:
+     = ` 5,90,000× 100 / 118
+
+
+====================== PAGE 75 ======================
+
+
+PAYMENT OF TAX    1.75        11.75
+
+    = ` 5,00,000
+      Since the total value of supply under the contract exceeds ` 2,50,000, PSU
+      in Uttarakhand is required to deduct tax @ 2% of ` 25,000, i.e. ` 500.
+4.    Being an intra-State supply of goods, supply of taxable goods to
+     National Housing Bank, Delhi is subject to CGST and SGST @ 9% each.
+      Therefore, total value of taxable supply [excluding CGST and SGST]
+     under the contract is as follows:
+    = ` 6,49,000× 100 / 118
+    = ` 5,50,000
+     Since the total value of supply under the contract exceeds ` 2,50,000,
+     National Housing Bank, Delhi is required to deduct tax @ 2% (1% CGST
+    + 1% SGST) of ` 50,000, i.e. ` 1,000.
+5.    Proviso to section 51(1) of the CGST Act, 2017 stipulates that no tax
+      shall be deducted if the location of the supplier and the place of supply
+        is in a State or Union territory which is different from the State or as the
+     case may be, Union territory of registration of the recipient.
+     Section 12(3) of the IGST Act, 2017, inter alia, stipulates that the place
+      of supply of services, directly in relation to an immovable property,
+      including services provided by interior decorators, shall be the location
+      at which the immovable property is located or intended to be located.
+      Accordingly, the place of supply of the interior decoration of Andhra
+    Bhawan shall be Delhi.
+     Since the location of the supplier (Manihar Enterprises) and the place
+      of supply  is Delhi and the State of registration of the recipient  i.e.
+     Government of Andhra Pradesh is Andhra Pradesh, no tax is liable to be
+     deducted in the given case.
+6.      If the contract is made for both taxable supply and exempted supply,
+      tax shall be deducted if the total value of taxable supply in the contract
+     exceeds ` 2,50,000. Being an intra-State supply of goods, supply of
+      printed post cards to a West Delhi Post Office is subject to CGST and
+    SGST @ 9% each.  Therefore, total value of taxable supply [excluding
+    CGST and SGST] under the contract is as follows:
+
+
+====================== PAGE 76 ======================
+
+
+1.76    11.76         GOODS AND SERVICES TAX
+
+        = ` 2,72,000× 100 / 118
+        = ` 2,30,509 (rounded off)
+           Since the total value of taxable supply under the contract does not
+          exceed ` 2,50,000, tax is not required to be deducted.
+       7.   Composite supply of goods and services in which the value of supply of
+         goods constitutes not more than 25% of the value of the said composite
+           supply provided to, inter alia, local authority by way of any activity in
+            relation to any function entrusted to a Municipality under article 243W
+           of the Constitution is exempt from GST. Thus, maintenance of street
+             lights (an activity in relation to a function entrusted to a Municipality)
+             in Municipal area of East Delhi involving replacement of defunct lights
+         and other spares where the value of supply of goods is not more than
+        25% of the value of composite supply is a service exempt from GST.
+           Since tax is liable to be deducted from the payment made or credited
+           to the supplier of taxable goods or services or both, no tax is required
+           to be deducted in the given case as the supply is exempt.
+     The answer will remain unchanged even if Manihar Enterprises is registered
+     under composition scheme.  Tax will be deducted in all cases where  it is
+     required to be deducted under section 51 of the CGST Act, 2017 including
+     the scenarios when the supplier is registered under composition scheme.
+9.   As per section 51 of the CGST Act, 2017, Government departments, agencies,
+      local authority and notified persons are required to deduct tax @ 2% (1%
+    CGST + 1% SGST/UTGST) or IGST @ 2% from payment made to the supplier
+      of taxable goods and/ or services where the total value of such supply
+      [excluding tax and compensation cess indicated in the invoice], under a
+      contract, exceeds ` 2,50,000.
+     Since  in the given case, Yash Shoppe  is supplying goods and services
+      exclusively  to Government  departments,  agencies,  local  authority and
+     persons notified under section 51 of the CGST Act, 2017, applicability of TDS
+      provisions on  its various receivables  is examined in accordance with the
+     above-mentioned provisions as under:
+
+
+====================== PAGE 77 ======================
+
+
+PAYMENT OF TAX    1.77        11.77
+
+S.     Particulars                  Total         Tax to be deducted
+No.                               contract                                      CGST  SGST   IGST                                 value  due                         @ 1% @ 1%  @                                  to      be                                                          (`)      (`)   2%                                 received                                                                             (`)                                 [excluding
+                              GST] (`)
+(1)    Supply     of    computer    2,42,857        --        --
+       stationery   to   PSU    in   [2,72,000 ×
+     Mumbai                   100 / 112]
+       [Since  the  total  value  of
+      supply under the contract
+       [excluding   IGST   (being
+       inter-State  supply)]  does
+      not exceed ` 2,50,000, tax is
+      not    required    to   be
+      deducted.]
+(2)    Supply of air conditioner to    2,55,000        --             5,100
+     GST Department in Delhi
+       [Since  the  total  value  of
+      supply under the contract
+       [excluding   IGST   (being
+       inter-State supply)] exceeds
+      ` 2,50,000, tax is required to
+      be deducted.]
+(3)    Supply   of   a   generator    3,12,500     3,125   3,125
+       renting service to Municipal   [3,50,000×
+      Corporation of Jaipur        100 / 112]
+       [Since  the  total  value  of
+      supply under the contract
+       [excluding CGST and SGST
+      (being  intra-State  supply)]
+      exceeds ` 2,50,000, tax  is
+       required to be deducted.]
+      Total                                   3,125   3,125  5,100

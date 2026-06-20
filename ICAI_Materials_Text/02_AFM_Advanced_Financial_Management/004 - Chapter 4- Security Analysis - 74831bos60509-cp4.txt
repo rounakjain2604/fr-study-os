@@ -1,0 +1,1530 @@
+Source PDF: 02_AFM_Advanced_Financial_Management/004 - Chapter 4- Security Analysis - 74831bos60509-cp4.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\02_AFM_Advanced_Financial_Management\004 - Chapter 4- Security Analysis - 74831bos60509-cp4.pdf
+Extracted at: 2026-05-31T10:21:05+05:30
+Pages: 40
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          4
+         4
+
+
+SECURITY ANALYSIS
+
+                           LEARNING OUTCOMES
+
+After going through the chapter student shall be able to understand:
+   Fundamental Analysis
+   Technical Analysis
+      (a)  Meaning
+      (b)  Assumptions
+       (c)   Theories and Principles
+      (d)   Charting Techniques
+    Efficient Market Hypothesis (EMH) Analysis
+   Equity Research and tools available
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+2.24.2           ADVANCED FINANCIAL MANAGEMENT
+
+    INTRODUCTION
+Investment decision depends on securities to be bought, held or sold. Buying security is based on
+highest return per unit of risk or lowest risk per unit of return. Selling security does not depend on
+any such requirement. A security considered for buying today may not be attractive tomorrow due
+to management policy changes  in the company or economic policy changes adopted by the
+government. The reverse is also true. Therefore, analysis of the security on a continuous basis is a
+must.
+Security Analysis involves a systematic analysis of the risk return profiles of various securities which
+is to help a rational investor to estimate a value for a company from  all the price sensitive
+information/data so that he can make purchases when the market under-prices some of them and
+thereby earn a reasonable rate of return.
+Two approaches viz. fundamental analysis and technical analysis are in vogue for carrying out
+Security Analysis. In fundamental analysis, factors affecting risk-return characteristics of securities
+are looked into while in technical analysis, demand/ supply position of the securities along with
+prevalent share price trends are examined.
+      1.  FUNDAMENTAL ANALYSIS
+Fundamental Analysis is based on the assumption that the share prices depend upon the future
+dividends expected by the shareholders. The present value of the future dividends can be calculated
+by discounting the cash flows at an appropriate discount rate and is known as the 'intrinsic value of
+the share'. The intrinsic value of a share, according to a fundamental analyst, depicts the true value
+of a share. A share that is priced below the intrinsic value must be bought, while a share quoting
+above the intrinsic value must be sold.
+Thus, it can be said that the price the shareholders are prepared to pay for a share is nothing but
+the present value of the dividends they expect to receive on the share and this is the price at which
+they expect to sell it in the future.
+As a first step, to arrive at a compact expression, let us make a simple assumption, that the company
+is expected to pay a uniform dividend of ` D per share every year, i.e.,
+      D(1) = D(2) = D(3) = … = D,                                            (1)
+The Eq., would then become:
+          D     D      D
+      P(0) =      +         2 +         3 +  ... +  ...                          (2)             (1+ k)    (1+ k)     (1+ k)
+         Dand   P(0) =                                                                    (3)
+             k
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+SECURITY ANALYSIS              4.32.3
+
+But it is unrealistic to assume that dividends remain constant over time. In case of most shares, the
+dividends per share (DPS) grow because of the growth in the earnings of the firm. Most companies,
+as they identify new investment opportunities for growth, tend to increase their DPS over a period
+of time.
+Let us assume that on an average the DPS of the company grows at the compounded rate of g per
+annum, so that dividend D(1) at the end of the first period grows to D(1)(1+g), D(1)(1+g)2, etc, at
+the end of second period, third period, etc. respectively. So we must have:
+        D (1)    D (1) (1 + g)    D (1) (1 + g) 2
+    P(0) =      +              2   +              3    +   ... +   ...       (4)             (1 + k)         (1 + k)             (1 + k)
+which is a perpetual geometric series.
+
+
+If growth rate in dividends, g, is less than the desired rate of return on share, k, we must have:
+                D(1)      P(0) =                                                                   (5)
+               (k − g)
+
+                                                 or
+              D(0)(1 + g)      P(0) =                                                                   (6)
+                  (k − g)
+Since D(1) may be approximated as D(0)(1+g), D(0) being the DPS in the current period (0).
+When growth rate in dividends, g, is equal to or greater than the desired rate of return on share, k,
+the above model is not valid, since the geometric series leads to an infinite price. The condition that
+g be less than k is not very restrictive, since the long-term growth in dividends is unlikely to exceed
+the rate of return expected by the market on the share.
+The above result [Eq.(5)] is also known as Gordon’s dividend growth model for stock valuation,
+named after the model’s originator, Myron J. Gordon. This is one of the most well-known models in
+the genre of fundamental analysis.
+In equation (6), if “g” is set at zero, we get back equation (3).
+1.1  Dividend Growth Model and the PE Multiple
+Financial analysts tend to relate price to earnings via the P/E multiples (the ratio between the market
+price and earnings per share).
+If a company is assumed to pay out a fraction b of its earnings as dividends on an average (i.e. the
+Dividend Payout Ratio = b), D(1) may be expressed as b E(1), where E(1) is the earning per share
+(EPS) of the company at the end of the first period. Equation (5) then becomes:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+2.44.4           ADVANCED FINANCIAL MANAGEMENT
+
+               bE(1)      P(0) =                                                                               (7)
+               (k − g)
+
+                                                 or
+             bE(0) (1 + g)      P(0) =                                                                               (8)
+                   (k − g)
+The fundamental analysts use the above models or some of their variations, for estimating the
+fundamental or intrinsic price or the fundamental price-earnings multiple of a security. Towards this
+end, they devote considerable effort in assessing the impact of various kinds of information on a
+company’s future profitability and the expected return of the shareholders. If the prevailing price or
+the P/E multiple of a security is higher than the estimated fundamental value (i.e.  if the security
+appears to be overpriced), they recommend a selling stance with respect to that security, since once
+the information becomes common knowledge, the price of the security may be expected to fall. On
+the other hand, if the security is underpriced in the market, the prevailing price (or the P/E multiple)
+of the security being lower than the estimated fundamental value, they recommend buying the
+security, counting upon a price rise.
+Because of these inherent complex interrelationships in the production processes, the fortunes of
+each industry are closely tied to those of other industries and to the performance of the economy as
+a whole. Within an industry, the prospects of a specific company depend not only on the prospects
+of the industry to which  it belongs, but also on its operating and competitive position within that
+industry. The key variables that an investor must monitor in order to carry out his fundamental
+analysis are economy wide factors, industry wide factors and company specific factors. In other
+words, fundamental analysis encompasses economic, industrial and company analyses. They are
+depicted by three concentric circles and constitute the different stages in an investment decision
+making process.
+                              Economy Analysis
+
+                                        Industry Analysis
+
+                             Company Analysis
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+SECURITY ANALYSIS              4.52.5
+
+1.2  Economic Analysis
+Macro-economic factors e.g. historical performance of the economy in the past/ present and
+expectations  in  future, growth  of  different sectors  of  the economy  in  future  with signs  of
+stagnation/degradation at present to be assessed while analyzing the overall economy. Trends in
+peoples’ income and expenditure reflect the growth of a particular industry/company in future.
+Consumption affects corporate profits, dividends and share prices in the market.
+1.2.1 Factors Affecting Economic Analysis
+Some of the economy wide factors are discussed as under:
+(a)   Growth Rates of National Income and Related Measures: For most purposes, what is
+important is the difference between the nominal growth rate quoted by GDP and the ‘real’ growth
+after taking inflation into account. The estimated growth rate of the economy would be a pointer to
+the prospects for the industrial sector, and therefore to the returns investors can expect from
+investment in shares.
+(b)   Growth Rates of Industrial Sector: This can be further broken down into growth rates of
+various industries or groups of industries  if required. The growth rates in various industries are
+estimated based on the estimated demand for its products.
+(c)    Inflation: Inflation is measured in terms of either wholesale prices (the Wholesale Price Index
+or WPI) or retail prices (Consumer Price Index or CPI). The demand in some industries, particularly
+the consumer products industries, is significantly influenced by the inflation rate. Therefore, firms in
+these industries make continuous assessment about inflation rates likely to prevail in the near future
+so as to fine-tune their pricing, distribution and promotion policies to the anticipated impact of
+inflation on demand for their products.
+(d)   Monsoon: Because of the strong forward and backward linkages, monsoon is of great
+concern to investors in the stock market too.
+
+1.2.2 Techniques Used in Economic Analysis
+Economic analysis is used to forecast national income with its various components that have a
+bearing on the concerned industry and the company in particular. Gross National Product (GNP) is
+used to measure national income as it reflects the growth rate in economic activities and has been
+regarded as a forecasting tool for analyzing the overall economy along with its various components
+during a particular period.
+Some of the techniques used for economic analysis are:
+(a)    Anticipatory Surveys: They help investors to form an opinion about the future state of the
+economy.  It incorporates expert opinion on construction  activities, expenditure on plant and
+machinery, levels of inventory – all having a definite bearing on economic activities. Also future
+spending habits of consumers are taken into account.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+2.64.6           ADVANCED FINANCIAL MANAGEMENT
+
+In spite of valuable inputs available through this method, it has certain drawbacks:
+(i)    Survey results do not guarantee that intentions surveyed would materialize.
+(ii)   They are not regarded as forecasts per se, as there can be a consensus approach by the
+       investor for exercising his opinion.
+Continuous monitoring of this practice is called for to make this technique popular.
+(b)    Barometer/Indicator Approach: Various indicators are used to find out how the economy
+shall perform in the future. The indicators have been classified as under:
+(i)    Leading Indicators: They lead the economic activity in terms of their outcome. They relate to
+       the time series data of the variables that reach high/low points in advance of economic
+        activity.
+(ii)    Roughly Coincidental Indicators: They reach their peaks and troughs at approximately the
+     same in the economy.
+(iii)   Lagging  Indicators: They are time  series data  of  variables  that  lag behind  in  their
+      consequences vis-a- vis the economy. They reach their turning points after the economy has
+      reached its own already.
+All these approaches suggest direction of change in the aggregate economic activity but nothing
+about its magnitude. The various measures obtained form such indicators may give conflicting
+signals about the future direction of the economy. To avoid this limitation, use of diffusion/composite
+index  is suggested whereby combining  several  indicators  into one  index  to measure  the
+strength/weaknesses in the movement of a particular set of indicators. Computation of diffusion
+indices is no doubt difficult notwithstanding the fact it does not eliminate irregular movements.
+Money supply in the economy also affects investment decisions. Rate of change in money supply in
+the economy affects GNP, corporate profits, interest rates and stock prices. Increase in money
+supply fuels inflation. As investment in stocks is considered as a hedge against inflation, stock prices
+go up during inflationary period.
+(c)   Economic Model Building Approach: In this approach, a precise and clear relationship
+between dependent and independent variables is determined. GNP model building or sectoral
+analysis is used in practice through the use of national accounting framework. The steps used are
+as follows:
+(i)    Hypothesize total economic demand by measuring total income (GNP) based on political
+        stability, rate of inflation, changes in economic levels.
+(ii)    Forecasting  the GNP by  estimating  levels  of  various components  viz. consumption
+       expenditure, gross private domestic investment, government purchases of goods/services,
+       net exports.
+(iii)    After forecasting individual components of GNP, add them up to obtain the forecasted GNP.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+SECURITY ANALYSIS              4.72.7
+
+(iv)   Comparison is made of total GNP thus arrived at with that from an independent agency for
+       the forecast of GNP and then the overall forecast is tested for consistency. This is carried out
+        for ensuring that both the total forecast and the component wise forecast  fit together in a
+      reasonable manner.
+1.3  Industry Analysis
+When an economy grows,  it is very unlikely that all industries in the economy would grow at the
+same rate. So  it is necessary to examine industry specific factors, in addition to economy-wide
+factors.
+First of all, an assessment has to be made regarding all the conditions and factors relating to demand
+of the particular product, cost structure of the industry and other economic and Government
+constraints on the same. Since the basic profitability of any company depends upon the economic
+prospects of the industry to which it belongs, an appraisal of the particular industry's prospects is
+essential.
+1.3.1 Factors Affecting Industry Analysis
+The following factors may particularly be kept in mind while assessing the factors relating to an
+industry.
+(a)   Product Life-Cycle: An industry usually exhibits high profitability in the initial and growth
+       stages, medium but steady profitability in the maturity stage and a sharp decline in profitability
+        in the last stage of growth.
+(b)   Demand Supply Gap: Excess supply reduces the profitability of the industry because of the
+       decline in the unit price realization, while insufficient supply tends to improve the profitability
+      because of higher unit price realization.
+(c)    Barriers to Entry: Any industry with high profitability would attract fresh investments. The
+       potential entrants to the industry, however, face different types of barriers to entry. Some of
+      these barriers are innate to the product and the technology of production, while other barriers
+      are created by existing firms in the industry.
+(d)   Government Attitude: The attitude of the government towards an industry is a crucial
+      determinant of its prospects.
+(e)    State of Competition in the Industry: Factors to be noted are- firms with leadership
+       capability and the nature of competition amongst them in foreign and domestic market, type
+       of products manufactured viz. homogeneous or highly differentiated, demand prospects
+      through classification viz customer-wise/area-wise, changes  in demand patterns  in the
+      long/immediate/ short run, type of industry the firm is placed viz. growth, cyclical, defensive
+       or decline.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+2.84.8           ADVANCED FINANCIAL MANAGEMENT
+
+(f)    Cost Conditions and Profitability: The price of a share depends on its return, which in turn
+      depends on profitability of the firm. Profitability depends on the state of competition in the
+       industry, cost control measures adopted by its units and growth in demand for its products.
+      Factors to be considered are:
+          (i)    Cost allocation among various heads e.g. raw material, labours and overheads and
+                their controllability. Overhead cost for some may be higher while for others labour may
+           be so. Labour cost which depends on wage level and productivity needs close scrutiny.
+           (ii)    Product price.
+           (iii)    Production capacity in terms of installation, idle and operating.
+         (iv)   Level  of  capital expenditure required  for maintenance  / increase  in productive
+               efficiency.
+       Investors are required to make a thorough analysis of profitability. This is carried out by the
+      study of certain ratios such as G.P. Ratio, Operating Profit Margin Ratio, R.O.E., Return on
+       Total Capital etc.
+(g)   Technology and Research: They play a vital role in the growth and survival of a particular
+       industry. Technology is subject to change very fast leading to obsolescence. Industries which
+      update themselves have a competitive advantage over others in terms of quality, price etc.
+      Things to be probed in this regard are:
+          (i)    Nature and type of technology used.
+           (ii)    Expected changes in technology for new products leading to increase in sales.
+           (iii)    Relationship of capital expenditure and sales over time. More capital expenditure
+          means increase in sales.
+         (iv)   Money  spent  in  research and  development. Whether  this amount  relates  to
+            redundancy or not?
+        (v)   Assessment of industry in terms of sales and profitability in short, immediate and long
+              run.
+1.3.2 Techniques Used in Industry Analysis
+The techniques used for analyzing the industry wide factors are:
+(a)   Regression Analysis: Investor diagnoses the factors determining the demand for output of
+       the industry through product demand analysis. Factors to be considered are GNP, disposable
+      income, per capita consumption / income, price elasticity of demand. For identifying factors
+       affecting demand, statistical techniques like regression analysis and correlation are used.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+SECURITY ANALYSIS              4.92.9
+
+(b)    Input – Output Analysis: It reflects the flow of goods and services through the economy,
+       intermediate steps in production process as goods proceed from raw material stage through
+        final  consumption.  This  is  carried  out  to  detect changing  patterns/trends  indicating
+       growth/decline of industries.
+1.4  Company Analysis
+Economic and industry framework provides the investor with proper background against which
+shares of a particular company are purchased. This requires careful examination of the company's
+quantitative and qualitative fundamentals.
+(a)   Net Worth and Book Value: Net Worth is sum of equity share capital, preference share
+       capital and free reserves less intangible assets and any carry forward of losses. The total net
+      worth divided by the number of shares is the much talked about book value of a share. Though
+       the book value is often seen as an indication of the intrinsic worth of the share, this may not
+      be so for two major reasons. First, the market price of the share reflects the future earnings
+       potential of the firm which may have no relationship with the value of its assets. Second, the
+      book value is based upon the historical costs of the assets of the firm and these may be gross
+      underestimates of the cost of the replacement or resale values of these assets.
+(b)   Sources and Uses of Funds: The identification of sources and uses of funds is known as
+      Funds Flow Analysis. One of the major uses of funds flow analysis is to find out whether the
+       firm has used short-term sources of funds to finance long-term investments. Such methods
+       of financing increases the risk of liquidity crunch for the firm, as long-term investments,
+      because of the gestation period involved may not generate enough surpluses in time to meet
+       the short-term liabilities incurred by the firm. Many a firm has come to grief because of this
+      mismatch between the maturity periods of sources and uses of funds.
+(c)    Cross-Sectional and Time Series Analysis: One of the main purposes of examining
+       financial statements is to compare two firms, compare a firm against some benchmark figures
+        for its industry and to analyze the performance of a firm over time. The techniques that are
+      used to do such proper comparative analysis are: common-sized statement, and financial
+        ratio analysis.
+(d)    Size and Ranking: A rough idea regarding the size and ranking of the company within the
+      economy, in general, and the industry, in particular, would help the investment manager in
+      assessing the risk associated with the company. In this regard the net capital employed, the
+       net profits, the return on investment and the sales figures of the company under consideration
+     may be compared with similar data of other companies in the same industry group. It may
+       also be useful to assess the position of the company in terms of technical know-how, research
+      and development activity and price leadership.
+(e)   Growth Record: The growth in sales, net income, net capital employed and earnings per
+      share of the company in the past few years should be examined. The following three growth
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+4.102.10         ADVANCED FINANCIAL MANAGEMENT
+
+       indicators may be particularly looked into: (a) Price earnings ratio, (b) Percentage growth rate
+       of earnings per annum, and (c) Percentage growth rate of net block.
+The price earnings ratio is an important indicator for the investment manager since  it shows the
+number of times the earnings per share are covered by the market price of a share. Theoretically,
+this ratio should be the same for two companies with similar features. However, this is not so in
+practice due to many factors. Hence, by a comparison of this ratio pertaining to different companies
+the investment manager can have an idea about the image of the company and can determine
+whether the share is under-priced or over-priced.
+Consider the following example:
+                                             Company A    Company B
+   (a)     Market price of share of ` 100                       150            250
+   (b)     Earnings per share                                25             25
+   (c)      Price earnings ratio [ (a) ÷ (b) ]                        6             10
+It is obvious that the purchaser of company A's shares pays 6 times its annual earnings while the
+purchaser of company B's shares pays 10 times. If other factors (intrinsic value of share, growth
+potential, etc.) are quite similar, it is obvious that the shares of company A are preferable. In practice,
+however, the other factors are never similar in the case of two companies. The investment manager
+must try to ascertain why the EPS in company B is comparatively low – may be some factors are
+not apparent. EPS calculation cannot be the sole basis of deciding about an investment. Yet  it is
+one of the most important factors on the basis of which the investment manager takes a decision to
+purchase the shares. This is because it relates the market price of the shares and the earnings per
+share.
+The percentage growth rate of net blocks shows how the company has been developing its capacity
+levels. Obviously, a dynamic company  will keep on expanding  its capacities and diversify  its
+business. This will enable it to enter new and profitable lines and avoid stagnation in its growth.
+In this context, an evaluation of future growth prospects of the company should be carefully made.
+This requires an analysis of existing capacities and their utilisation, proposed expansion and
+diversification plans and the nature of the company's technology. The existing capacity utilisation
+levels can be known from the quantitative information given in the published profit and loss accounts
+of the company. The plans of the company, in terms of expansion or diversification, can be known
+from the Directors’ Reports, the Chairman’s statements and from the future capital commitments as
+shown by way of notes in the balance sheets. The nature of technology of a company should be
+seen with reference to technological developments in the concerned fields, the possibility of its
+product being superseded  or  the  possibility  of emergence  of a more  effective method  of
+manufacturing.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+SECURITY ANALYSIS              4.112.11
+
+Growth is the single most important factor in company analysis for the purpose of investment
+management. A company may have a good record of profits and performance in the past; but if it
+does not have growth potential, its shares cannot be rated high from the investment point of view.
+(f)    Financial Analysis: An analysis of its financial statements for the past few years would help
+the investment manager in understanding the financial solvency and liquidity, the efficiency with
+which the funds are used, the profitability, the operating efficiency and the financial and operating
+leverages of the company. For this purpose, certain fundamental ratios have to be calculated.
+From the investment point of view, the most important figures are earnings per share, price earning
+ratios, yield, book value and the intrinsic value of the share. These five elements may be calculated
+for the past 10 years or so and compared with similar ratios computed from the financial accounts
+of other companies in the industry and with the average ratios for the industry as a whole. The yield
+and the asset backing of a share are important considerations in a decision regarding whether the
+particular market price of the share is proper or not.
+Various other ratios to measure profitability, operating efficiency and turnover efficiency of the
+company may also be calculated. The return on owners' investment, capital turnover ratio and the
+cost structure ratios may also be worked out.
+To examine the financial solvency or liquidity of the company, the investment manager may work
+out current ratio, liquidity ratio, debt-equity ratio, etc. These ratios will provide an overall view of the
+company to the investment analyst. He can analyse its strengths and weaknesses and see whether
+it is worth the risk or not.
+(g)   Competitive Advantage: Another business  consideration  for  investors  is competitive
+advantage. A company's long-term success is driven largely by its ability to maintain its competitive
+advantage. Powerful competitive advantages, such as Apple’s brand name and Samsung’s
+domination of the mobile market, create a shield around a business that allows it to keep competitors
+at a distance.
+(h)    Quality of Management: This is an intangible factor. Yet it has a very important bearing on
+the value of the shares. Every investment manager knows that the shares of certain business houses
+command a higher premium than those of similar companies managed by other business houses.
+This is because of the quality of management, the confidence that investors have in a particular
+business house,  its policy vis-a-vis  its relationship with the investors, dividend and financial
+performance record of other companies in the same group, etc. This is perhaps the reason that an
+investment manager always gives a close look to the management of a company in whose shares
+he is to invest. Quality of management has to be seen with reference to the experience, skills and
+integrity of the persons at the helm of affairs of the company. The policy of the management
+regarding relationship with the shareholders is an important factor since certain business houses
+believe in very generous dividend and bonus distributions while others are rather conservative.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+4.122.12         ADVANCED FINANCIAL MANAGEMENT
+
+However, an average investor is at a disadvantage when compared with a large investor. They do
+not get the facility to meet the top executives of the company, but the fund managers interested in
+investing huge amount of money generally get to meet the top brasses of an organization.
+It  is true that every listed company give detailed information about  its management. But, the
+information they give is always positive. This is because; no company  will host any negative
+information about itself. So, the question is how to find the dirt inside the management. The remedy
+is to have a look out for the conference calls hosted by the company’s CEO and CFO. After reading
+the company’s financial results, they take question and answers session from the investors. That’s
+where one can pick something that can indicate about the true position about the company.
+Some other ways to judge the management of the company is to read the Management Discussion
+and Analysis Report. Further, it helps when top management people are also the shareholders. If
+the large scale unloading of their shares are taking place and something else is communicated to
+the media, then it is a sign that something is wrong. Another way to judge the effectiveness of the
+management is to see the past performance of the executives, say, for five years.
+(i)    Corporate Governance: Following  factors are  to be kept  in mind while judging the
+effectiveness of corporate governance of an organization:
+•     Whether company is complying with all aspects of SEBI (LODR) Regulations 2015?
+•    How well corporate governance policies serve stakeholders?
+•      Quality and timeliness of company financial disclosures.
+•     Whether quality independent directors are inducted?
+(j)    Regulation: Regulations plays an important role in maintaining the sanctity of the corporate
+form of organization. In Indian listed companies, Companies Act, Securities Contract and Regulation
+Act and SEBI Act basically look after regulatory aspects of a company. A listed company is also
+continuously monitored by SEBI which through its guidelines and regulations protect the interest of
+investors.
+Further, a company which is dealing with companies outside India, needs to comply with Foreign
+Exchange Management Act (FEMA) also. In this scenario, the Reserve Bank of India (RBI) does a
+continuous monitoring.
+(k)    Location  and  Labour-Management  Relations:  The  locations  of  the  company's
+manufacturing facilities determines its economic viability which depends on the availability of crucial
+inputs like power, skilled labour and raw-materials, etc. Nearness to markets is also a factor to be
+considered.
+In the past few years, the investment manager has begun looking into the state of labour-
+management relations in the company under consideration and the area where it is located.
+(l)    Pattern of Existing Stock Holding: An analysis of the pattern of existing stock holdings of
+the company would also be relevant. This would show the stake of various parties in the company.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+SECURITY ANALYSIS              4.132.13
+
+An interesting case in this regard is that of the Punjab National Bank in which the Life Insurance
+Corporation and  other  financial  institutions had  substantial  holdings. When  the bank was
+nationalised, the residual company proposed a scheme whereby those shareholders, who wish to
+opt out, could receive a certain amount as compensation in cash. It was only at the instance and the
+bargaining strength, of institutional investors that the compensation offered to the shareholders, who
+wished to opt out of the company, was raised considerably.
+(m)   Marketability of the Shares: Another important consideration for an investment manager is
+the marketability of the shares of the company. Mere listing of a share on the stock exchange does
+not automatically mean that the share can be sold or purchased at will. There are many shares which
+remain inactive for long periods with no transactions being affected. To purchase or sell such scrips
+is a difficult task. In this regard, dispersal of shareholding with special reference to the extent of
+public holding should be seen. The other relevant factors are the speculative interest in the particular
+scrip, the particular stock exchange where it is traded and the volume of trading.
+Techniques Used in Company Analysis
+Through the use of statistical techniques the company wide factors can be analyzed. Some of the
+techniques are discussed as under:
+(a)    Correlation & Regression Analysis: Simple regression is used when inter relationship
+covers two variables. For more than two variables, multiple regression analysis is followed. Here the
+inter relationship between variables belonging to economy, industry and company are found out.
+The main advantage in such analysis is the determination of the forecasted values along with testing
+the reliability of the estimates.
+(b)   Trend Analysis: The relationship of one variable  is tested over time using regression
+analysis. It gives an insight to the historical behavior of the variable.
+(c)    Decision Tree Analysis: Information  relating  to the  probability  of occurrence  of the
+forecasted value  is considered useful. A range of values of the variable with probabilities of
+occurrence of each value is taken up. The limitations are reduced through decision tree analysis and
+use of simulation techniques.
+In decision tree analysis, the decision is taken sequentially with probabilities attached to each
+sequence. To obtain the probability of final outcome, various sequential decisions given along with
+probabilities, the probabilities of each sequence is to be multiplied and them summed up.
+Thus, fundamental analysis is basically an examination of the economic and financial aspects of a
+company with the aim of estimating future earnings and dividend prospects. It includes an analysis
+of the macro-economic and political factors which will have an impact on the performance of the
+company. After having analysed all the relevant information about the company and its relative
+strength vis-a-vis other companies in the industry, the investor is expected to decide whether he
+should buy or sell the securities.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+4.142.14         ADVANCED FINANCIAL MANAGEMENT
+
+Apart from these, the Group Analysis has also become an important factor. SEBI, in particular,
+emphasizes the need for disclosure,  in public offer documents, of  all relevant parameters –
+especially the financial health and promise versus performance of the group companies. RBI has
+also been focusing more and more on the Group Exposure Norms of commercial Banks.
+      2.  TECHNICAL ANALYSIS
+2.1  Meaning
+Technical Analysis is a method of share price movements based on a study of price graphs or charts
+on the assumption that share price trends are repetitive, that since investor psychology follows a
+certain pattern, what is seen to have happened before is likely to be repeated. The technical analyst
+is concerned with the fundamental strength or weakness of a company or an industry; he studies
+investor and price behaviour.
+A technical analyst attempts to answer two basic questions:
+(i)      Is there a discernible trend in the prices?
+(ii)       If there is, then are there indications that the trend would reverse?
+The methods used to answer these questions are visual and statistical. The visual methods are
+based on examination of a variety of charts to make out patterns, while the statistical procedures
+analyse price and return data to make trading decisions.
+2.2  Assumptions
+Technical Analysis is based on the following assumptions:
+(i)    The market value of stock depends on the supply and demand for a security.
+(ii)   The supply and demand are actually governed by several factors which can be rational or
+        irrational. For instance, recent initiatives taken by the Government to reduce the Non-
+      Performing Assets (NPA) burden of banks may result in the demand for banking stocks.
+(iii)   Stock prices generally move in trends which continue for a substantial period of time.
+       Therefore, if there is a bull market going on, there is every possibility that there will soon be
+      a substantial correction which will provide an opportunity to the investors to buy shares at
+       that time.
+(iv)   Technical analysis relies upon chart analysis which shows the past trends in stock prices
+       rather than the information in the financial statements like balance sheet or profit and loss
+      account.
+2.3  Principles of Technical Analysis
+Technical analysis is based on the following three principals:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+SECURITY ANALYSIS              4.152.15
+
+a.    The market discounts everything.
+b.     Price moves in trends.
+c.     History tends to repeat itself.
+a.    The Market Discounts Everything: Although many experts  criticize technical analysis
+      because it only considers price movements and ignores fundamental factors but the Efficient
+      Market Hypothesis (discussed later in detail) contradicts it according to which a company’s
+      share  price  already  reflects  everything  that has  or could  affect a company and   it
+       includes fundamental  factors. So,  technical  analysts  generally have  the view  that a
+      company’s share price includes everything including the fundamentals of a company.
+b.    Price Moves in Trends: Technical analysts believe that prices move in trends. In other
+      words, a stock price is more likely to continue a past trend than move in a different direction.
+c.     History Tends to Repeat Itself: Technical analysts believe that history tends to repeat itself.
+      Technical analysis uses  chart patterns  to analyze subsequent market movements  to
+      understand trends. While many form of technical analysis have been used for many years,
+      they are still considered to be significant because they illustrate patterns in price movements
+       that often repeat themselves.
+2.4  Theories of Technical Analysis
+2.4.1 The Dow Theory
+The Dow Theory is one of the oldest and most famous technical theories.  It was originated by
+Charles Dow, the founder of Dow Jones Company in late nineteenth century. It is a helpful tool for
+determining the relative strength of the stock market. It can also be used as a barometer of business.
+The Dow Theory is based upon the movements of two indices, constructed by Charles Dow, Dow
+Jones Industrial Average (DJIA) and Dow Jones Transportation Average (DJTA). These averages
+reflect the aggregate impact of all kinds of information on the market. The movements of the market
+are divided into three classifications,  all going at the same time; the primary movement, the
+secondary movement, and the daily fluctuations. The primary movement is the main trend of the
+market, which lasts from one year to 36 months or longer. This trend is commonly called bear or bull
+market. The secondary movement of the market is shorter in duration than the primary movement,
+and is opposite in direction. It lasts from two weeks to a month or more. The daily fluctuations are
+the narrow movements from day-to-day. These fluctuations are not part of the Dow Theory
+interpretation of the stock market. However, daily movements must be carefully studied, along with
+primary and secondary movements, as they go to make up the longer movement in the market.
+Thus, the Dow Theory’s purpose is to determine where the market is and where is it going, although
+not how far or high. The theory, in practice, states that  if the cyclical swings of the stock market
+averages are successively higher and the successive lows are higher, then the market trend is up
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+4.162.16         ADVANCED FINANCIAL MANAGEMENT
+
+and a bullish market exists. Contrarily, if the successive highs and successive lows are lower, then
+the direction of the market is down and a bearish market exists.
+Charles Dow proposed that the primary uptrend would have three moves up, the first one being
+caused by accumulation of shares by the far-sighted, knowledgeable investors, the second move
+would be caused by the arrival of the first reports of good earnings by corporations, and the last
+move up would be caused by widespread report of financial well-being of corporations. The third
+stage would also see rampant speculation in the market. Towards the end of the third stage, the far-
+sighted investors, realizing that the high earnings levels may not be sustained, would start selling,
+starting the  first move down of a downtrend, and as the non-sustainability of high earnings is
+confirmed, the second move down would be initiated and then the third move down would result
+from distress selling in the market.
+2.4.2  Elliot Wave Theory
+Inspired by the Dow Theory and by observations found throughout nature, Ralph Elliot formulated
+Elliot Wave Theory in 1934. This theory was based on analysis of 75 years stock price movements
+and charts. From his studies, he defined price movements in terms of waves. Accordingly, this theory
+was named Elliot Wave Theory. Elliot found that the markets exhibited certain repeated patterns or
+waves. As per this theory wave is a movement of the market price from one change in the direction
+to the next change in the same direction. These waves are resulted from buying and selling impulses
+emerging from the demand and supply pressures on the market. Depending on the demand and
+supply pressures, waves are generated in the prices.
+As per this theory, waves can be classified into two parts:-
+•     Impulsive patterns
+•      Corrective patters
+Let us discuss each of these patterns.
+(a)    Impulsive Patterns-(Basic Waves) - In this pattern there will be 3 or 5 waves in a given
+       direction (going upward or downward). These waves shall move in the direction of the basic
+      movement. This movement can indicate bull phase or bear phase.
+(b)    Corrective Patterns- (Reaction Waves) - These 3 waves are against the basic direction of
+       the basic movement. Correction involves correcting the earlier rise in case of bull market and
+         fall in case of bear market.
+     As shown in the following diagram waves 1, 3 and 5 are directional movements, which are
+      separated or corrected by wave 2 & 4, termed as corrective movements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+SECURITY ANALYSIS              4.172.17
+
+
+                              Source: http://elliotwave.net/
+     Complete Cycle -As shown in following figure five-wave impulses is following by a three-
+     wave correction (a,b & c) to form a complete cycle of eight waves.
+
+
+                              Source: http://elliotwave.net/
+One complete cycle consists of waves made up of two distinct phases, bullish and bearish. On completion
+of full one cycle i.e. termination of 8 waves movement, the fresh cycle starts with similar impulses arising
+out of market trading.
+2.4.3 Random Walk Theory
+While discussing the Dow Jones theory, we have seen that the theory is based on the assumption
+that the behaviour of stock market itself contains trends which give clues to the future behaviour of
+stock market prices. Thus, supporters of the theory argue that market prices can be predicted if their
+patterns can be properly understood. Such analysis of stock market patterns is called technical
+analysis. Apart from this theory there are many approaches to technical analysis. Most of them,
+however, involve a good deal of subjective judgment.
+Many investment managers and stock market analysts believe that stock market prices can never
+be predicted because they are not a result of any underlying factors but are mere statistical ups and
+downs. This hypothesis is known as Random Walk hypothesis which states that the behaviour of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+4.182.18         ADVANCED FINANCIAL MANAGEMENT
+
+stock market prices is unpredictable and that there is no relationship between the present prices of
+the shares and their future prices. Proponents of this hypothesis argue that stock market prices are
+independent. A British statistician, M. G. Kendell, found that changes in security prices behave
+nearly as  if they are generated by a suitably designed roulette wheel for which each outcome is
+statistically independent of the past history. In other words, the fact that there are peaks and troughs
+in stock exchange prices is a mere statistical happening – successive peaks and troughs are
+unconnected. In the layman's language  it may be said that prices on the stock exchange behave
+exactly the way a drunk would behave while walking in a blind lane, i.e., up and down, with an
+unsteady way going in any direction he likes, bending on the side once and on the other side the
+second time.
+The supporters of this theory put out a simple argument. It follows that:
+(a)    Prices of shares in stock market can never be predicted.
+(b)   The reason is that the price trends are not the result of any underlying factors, but that they
+       represent a statistical expression of past data.
+(c)    There may be periodical ups or downs in share prices, but no connection can be established
+      between two successive peaks (high price of stocks) and troughs (low price of stocks).
+2.5  Charting Techniques
+Broadly technical analysts use four types of charts for analyzing data. They are as follows:
+(i)    Line Chart: In a line chart, lines are used to connect successive day’s prices. The closing
+price for each period is plotted as a point. These points are joined by a line to form the chart. The
+period may be a day, a week or a month.
+
+
+(ii)   Bar Chart: In a bar chart, a vertical line (Bar) represents the lowest to the highest price, with
+a short horizontal line protruding from the bar representing both the opening and closing prices for
+the period. For example, the prices of share of A Ltd. for 6 days are as follows:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+SECURITY ANALYSIS              4.192.19
+
+        Days    Opening Price (`)  High Price (`)  Low Price (`)   Closing Price (`)
+         01-Jan          58              72            52             68
+         02-Jan          71              73            58             64.30
+         03-Jan          66              67            56             57
+         04-Jan         58.50            75.50           55             72
+         05-Jan         73.50            75            58             71
+         06-Jan         74.50            76            55             74.50
+
+The above-mentioned prices shall be depicted in Bar Chart as follows:
+
+
+(iii)   Japanese Candlestick Chat: Like Bar chart this chart also shows the same information i.e.
+Opening, Closing, Highest and Lowest prices of any stock on any day but this chart more visualizes
+the trend as change in the opening and closing prices is indicated by the color of the candlestick.
+While Black candlestick indicates closing price is lower than the opening price the white candlestick
+indicates its opposite i.e. closing price is higher than the opening price. Another possibility of no
+change in opening and closing prices or very near is shown by ‘Doji Candlestick’.
+Thus, a white Candlestick indicates a Bullish trend and a black Candlestick indicates a bearish trend.
+The lowest and highest prices are indicated by vertical bar and opening and closing prices are shown
+in the form of rectangular (as per above-mentioned color scheme) placed in between this bar. In
+case of Doji Candlestick it is indicated by a simple bar.
+Continuing the above example the prices of share of A Ltd. as per Candlestick chart is shown below:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+4.202.20         ADVANCED FINANCIAL MANAGEMENT
+
+
+ (iv)   Point and Figure Chart: Point and Figure charts are more complex than line or bar charts.
+They are used to detect reversals in a trend. For plotting a point and figure chart, we have to first
+decide the box size and the reversal criterion. The box size is the value of each box on the chart,
+for example each box could be ` 1, ` 2 or ` 0.50. The smaller the box size, the more sensitive would
+the chart be to price change. The reversal criterion is the number of boxes required to be retraced
+to record prices in the next column in the opposite direction.
+
+   Period     Price
+     1       24             30
+     2       26             29
+     3       27                            28  X
+     4       26                            27  X
+     5       28                            26  X
+     6       27
+                            25  X  O
+     7       26
+                            24  X  O
+     8       25
+                            23     O
+     9       26
+                            22    10       23
+
+2.6  Market Indicators
+(i)    Breadth Index: It is an index that covers all securities traded. It is computed by dividing the
+net advances or declines in the market by the number of issues traded. The breadth index either
+supports or contradicts the movement of the Dow Jones Averages. If it supports the movement of
+the Dow Jones Averages, this is considered sign of technical strength and if it does not support the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+SECURITY ANALYSIS              4.212.21
+
+averages,  it is a sign of technical weakness i.e. a sign that the market will move in a direction
+opposite to the Dow Jones Averages. The breadth index is an addition to the Dow Theory and the
+movement of the Dow Jones Averages.
+(ii)   Volume of Transactions: The volume of shares traded in the market provides useful clues
+on how the market would behave in the near future. A rising index/price with increasing volume
+would signal buy behaviour because the situation reflects an unsatisfied demand in the market.
+Similarly, a falling market with increasing volume signals a bear market and the prices would be
+expected to fall further. A rising market with decreasing volume indicates a bull market while a falling
+market with dwindling volume indicates a bear market. Thus, the volume concept is best used with
+another market indicator, such as the Dow Theory.
+(iii)   Confidence Index: It is supposed to reveal how willing the investors are to take a chance in
+the market. It is the ratio of high-grade bond yields to low-grade bond yields. It is used by market
+analysts as a method of trading or timing the purchase and sale of stock, and also, as a forecasting
+device to determine the turning points of the market. A rising confidence index is expected to precede
+a rising stock market, and a fall in the index is expected to precede a drop in stock prices. A fall in
+the confidence index represents the fact that low-grade bond yields are rising faster or falling more
+slowly than high grade yields. The confidence index is usually, but not always a leading indicator of
+the market. Therefore, it should be used in conjunction with other market indicators.
+(iv)   Relative Strength Analysis: The relative strength concept suggests that the prices of some
+securities rise relatively faster in a bull market or decline more slowly in a bear market than other
+securities i.e. some securities exhibit relative strength. Investors will earn higher returns by investing
+in securities which have demonstrated relative strength in the past because the relative strength of
+a security tends to remain undiminished over time.
+Relative strength can be measured in several ways. Calculating rates of return and classifying those
+securities with historically high average returns as securities with high relative strength is one of
+them. Even ratios like security relative to its industry and security relative to the entire market can
+also be used to detect relative strength in a security or an industry.
+(v)   Odd - Lot Theory: This theory is a contrary - opinion theory. It assumes that the average
+person is usually wrong and that a wise course of action is to pursue strategies contrary to popular
+opinion. The odd-lot theory is used primarily to predict tops in bull markets, but also to predict
+reversals in individual securities.
+2.7  Support and Resistance Levels
+When the index/price goes down from a peak, the peak becomes the resistance level. When the
+index/price rebounds after reaching a trough subsequently, the lowest value reached becomes the
+support level. The price is then expected to move between these two levels. Whenever the price
+approaches the resistance level, there is a selling pressure because all investors who failed to sell
+at the high would be keen to liquidate, while whenever the price approaches the support level, there
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+4.222.22         ADVANCED FINANCIAL MANAGEMENT
+
+is a buying pressure as all those investors who failed to buy at the lowest price would like to purchase
+the share. A breach of these levels indicates a distinct departure from status quo, and an attempt to
+set newer levels. Let us get a better understanding about these levels by using price data for about
+two months for shares of companies A and B given in the following Table:
+
+             Date                  A                   B
+
+           Dec. 1, 2005                   177                      177
+               5                       171                       171.50
+               7                       172                       175.50
+              12                       174                      177
+              13                       177.50                     181
+              14                       181                      184
+              15                       180                       186.50
+              18                       163                      176
+              19                       142                       162.50
+              20                       127                      156
+              22                       123                      147
+              25                       124                      147
+            Jan. 3, 2006                   107.50                     137.50
+               4                         97.50                     140
+               8                       105                      145
+              10                       102.50                     143.75
+              12                       108.75                     150
+              15                       100                       142.50
+              25                       95                       135
+              26                        91.25                      133.75
+              Feb. 1                       97.50                      138.75
+               2                        106.25                     147.50
+               5                        113.75                     152.50
+               6                       120                      155
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+SECURITY ANALYSIS              4.232.23
+
+               7                       120                       152.50
+               8                        113.75                     150
+               9                        113.75                     147.50
+The line charts for Company A and Company B shares are shown in the graph below. From the
+charts, it appears that the support level and resistance level for Company A at that time were about
+` 100 and ` 125, while these levels for Company B were ` 140 and ` 160.
+
+
+2.8  Interpreting Price Patterns
+There are numerous price patterns documented by technical analysts but only a few and important
+of them have been discussed here:
+(a)   Channel: A series of uniformly changing tops and bottoms gives rise to a channel formation.
+A downward sloping channel would indicate declining prices and an upward sloping channel would
+imply rising prices.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+4.242.24         ADVANCED FINANCIAL MANAGEMENT
+
+
+(b)   Wedge: A wedge is formed when the tops (resistance levels) and bottoms (support levels)
+change in opposite direction (that is, if the tops, are decreasing then the bottoms are increasing and
+vice versa), or when they are changing in the same direction at different rates over time.
+
+
+(c)   Head and Shoulders:  It is a distorted drawing of a human form, with a large lump (for head)
+in the middle of two smaller humps (for shoulders). This is perhaps the single most important pattern
+to indicate a reversal of price trend. The neckline of the pattern is formed by joining points where
+the head and the shoulders meet. The price movement after the formation of the second shoulder is
+crucial. If the price goes below the neckline, then a drop in price is indicated, with the drop expected
+to be equal to the distance between the top of the head and the neckline.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+SECURITY ANALYSIS              4.252.25
+
+(i)    Head and Shoulder Top Pattern: This has a left shoulder, a head and a right shoulder. Such
+       formation represents bearish development. If the price falls below the neck line (line drawn
+       tangentially to the left and right shoulders) a price decline is expected. Hence it’s a signal to
+         sell.
+(ii)    Inverse Head and Shoulder Pattern: As the name indicates this formation, it is an inverse of
+      head and shoulder top formation. Hence it reflects a bullish development. The price rise to
+      above the neck line suggests price rise is imminent and a signal to purchase.
+
+
+        HEAD & SHOULDERS                INVERSE HEAD & SHOULDERS
+(d)    Triangle or Coil Formation: This formation represents a pattern of uncertainty and is difficult
+to predict which way the price will break out.
+(e)    Flags and Pennants Form: This form signifies a phase after which the previous price trend
+is likely to continue.
+
+
+              TRIANGLE OR COIL              FLAG & PENNANT
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+4.262.26         ADVANCED FINANCIAL MANAGEMENT
+
+(f)    Double Top Form: This form represents a bearish development signaling that price is
+expected to fall.
+(g)   Double Bottom Form: This form represents bullish development signaling price is expected
+to rise.
+
+
+             DOUBLE TOP                DOUBLE BOTTOM
+(h)   Gap: A gap is the difference between the opening price on a trading day and the closing price
+of the previous trading day. The wider the gap the stronger the signal for a continuation of the
+observed trend. On a rising market,  if the opening price is considerably higher than the previous
+closing price, it indicates that investors are willing to pay a much higher price to acquire the scrip.
+Similarly, a gap in a falling market is an indicator of extreme selling pressure.
+2.9  Decision Using Data Analysis
+Technical analysts have developed rules based on simple statistical analysis of price data. Moving
+Averages is one of the more popular methods of data analysis for decision making.
+(a)   Moving Averages: Moving averages are frequently plotted with prices to make buy and sell
+decisions. The two types of moving averages used by chartists are the Arithmetic Moving Average
+(AMA) and the Exponential Moving Average (EMA). An n-period AMA, at period t, is nothing but the
+simple average of the last n period prices.
+      AMAn,t = 1/n[Pt + Pt-1+ … + Pt-(n-1)]
+To identify trend, technical analysts use moving average analysis:
+(i)   A 200 day’s moving average of daily prices or a 30 week moving of weekly price for identifying
+      a long term trend.
+(ii)   A 60 day’s moving average of daily price to discern an intermediate term trend.
+(iii)   A 10 day’s moving average of daily price to detect a short term trend.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+SECURITY ANALYSIS              4.272.27
+
+For example Moving Average is calculated by considering the most recent observation for which the
+closing price of a stock on ‘10’ successive trading days are taken into account for the calculation of
+a 5 -day moving average of daily closing prices.
+
+    Trading day    Closing prices  Sum of 5 most     Two-item       Moving
+                                     recent closing   Centered Total     Average
+                                           price
+
+        1              25.00
+        2              26.00
+        3              25.50
+        4              24.50
+        5              26.00           127.00
+        6              26.00           128.00          255.00           25.50
+        7              26.50           128.50          256.50           25.65
+        8              26.50           129.50          258.00           25.80
+        9              26.00           131.00          260.50           26.05
+        10             27.00           132.00          263.00           26.30
+Buy and Sell Signals Provided by Moving Average Analysis
+
+              Buy Signal                                   Sell Signal
+   (a)   Stock  price  line  rise  through  the   (a)   Stock price line falls through moving
+        moving average line when graph of        average line when graph of the moving
+         the moving average line is flattering        average line is flattering out.
+          out.                                                     (b)   Stock price line rises above moving
+   (b)   Stock price line falls below moving        average line which is falling.
+        average line which is rising.                                                       (c)   Stock price line which is slow moving
+    (c)   Stock  price  line  which  is  above        average line rises but begins to  fall
+        moving average line falls but begins        again  before  reaching  the  moving
+          to  rise again before reaching the        average line.
+        moving average line
+
+(b)   Exponential Moving Average: Unlike the AMA, which assigns equal weight of 1/n to each
+of the n prices used for computing the average, the Exponential Moving Average (EMA) assigns
+decreasing weights, with the highest weight being assigned to the latest price. The weights decrease
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+4.282.28         ADVANCED FINANCIAL MANAGEMENT
+
+exponentially, according to a scheme specified by the exponential smoothing constant, also known
+as the exponent, a.
+     EMAt = aPt + (1-a)(EMAt-1)
+                     2Where, a (exponent) =
+                 n+1
+
+       Pt = Price of today
+      EMAt-1 = Previous day’s EMA
+                     Or
+     EMAt = (Closing Price of the day – EMA of Previous Day) x Exponent + Previous day EMA
+      n = Number of days for which average is to be calculated.
+2.10 Evaluation of Technical Analysis
+Technical Analysis has several supporters as well several  critics. The advocates of technical
+analysis offer the following interrelated argument in their favour:
+(a)   Under influence of crowd psychology trend persist for some time. Tools of technical analysis
+      help in identifying these trends early and help in investment decision making.
+(b)     Shift in demand and supply are gradual rather then instantaneous. Technical analysis helps
+        in detecting this shift rather early and hence provides clues to future price movements.
+(c)    Fundamental information about a company is observed and assimilated by the market over a
+       period of time. Hence price movement tends to continue more or less in same direction  till
+       the information is fully assimilated in the stock price.
+Detractors of technical analysis believe that it is an useless exercise; their arguments are as follows:
+(a)   Most technical analysts are not able to offer a convincing explanation for the tools employed
+      by them.
+(b)    Empirical evidence in support of random walk hypothesis cast its shadow over the usefulness
+       of technical analysis.
+(c)   By the time an uptrend and down trend may have been signalled by technical analysis it may
+       already have taken place.
+(d)    Ultimately technical analysis must be a self-defeating proposition. With more and more people
+      employing it, the value of such analysis tends to decline.
+In a nutshell,  it may be concluded that in a rational, well ordered and efficient market, technical
+analysis may not work very well. However, with imperfection, inefficiency and irrationalities that
+characterizes the real-world market, technical analysis may be helpful. If technical analysis is used
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+SECURITY ANALYSIS              4.292.29
+
+in conjunction with fundamental analysis,  it might be useful  in providing proper guidance to
+investment decision makers.
+      3.  DIFFERENCES BETWEEN FUNDAMENTAL ANALYSIS
+       AND TECHNICAL ANALYSIS
+Although a successful investor uses both Fundamental and Technical Analysis but following are
+some major differences between them:
+   S. No.    Basis         Fundamental Analysis              Technical Analysis
+    1   Method     Prospects are measured by analyzing Predicts future prices and their
+                    economy’s macro  factors  such  as direction using purely historical
+                      Country’s  GDP,    Inflation   Rate, market data and information such as
+                         Interest Rate, Growth Rate etc. and their Price Movements, Volume,
+                    company’s micro factors like its Sales, Open Interest etc.
+                            Profitability,   Solvency,   Asset  &
+                            Liabilities and Cash position etc.
+    2   Rule        Prices of a share discounts           Price captures everything
+                       everything.
+    3    Usefulness  For Long-Term Investing             For Short-term Investing
+
+      4.  EFFICIENT MARKET THEORY (EFFICIENT MARKET
+        HYPOTHESIS)
+Efficient Market Theory was developed by University of Chicago professor Eugen Fama in the 1960s.
+As per this theory, at any given time, all available price sensitive information is fully reflected in
+securities' prices. Thus, this theory implies that no investor can consistently outperform the market
+as every stock is appropriately priced based on available information.
+Stating otherwise this theory states that no one can "beat the market" hence making it impossible
+for investors to either purchase undervalued stocks or sell stocks for inflated prices as stocks are
+always traded at their fair value on stock exchanges. Hence it is impossible to outperform the overall
+market through expert stock selection or market timing and that the only way an investor can possibly
+obtain higher returns is by purchasing risky investments.
+4.1  Search for Theory
+When empirical evidence in favour of Random walk hypothesis seemed overwhelming, researchers
+wanted to know about the Economic processes that produced a Random walk. They concluded that
+randomness of stock price was a result of efficient market that led to the following view points:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+4.302.30         ADVANCED FINANCIAL MANAGEMENT
+
+•      Information is freely and instantaneously available to all market participants.
+•    Keen competition among the market participants more or less ensures that market will reflect
+        intrinsic values. This means that they will fully impound all available information.
+•      Price change only response to new information that is unrelated to previous information and
+       therefore unpredictable.
+4.2  Misconception about Efficient Market Theory
+Efficient Market Theory implies that market prices factor in all available information and as such it is
+not possible for any investor to earn consistent long term returns from market operations.
+Although price tends to fluctuate they cannot reflect  fair value. This  is because the future  is
+uncertain. The market springs surprises continually and as prices reflect the surprises they fluctuate.
+Inability of institutional portfolio managers to achieve superior investment performance implies that
+they lack competence in an efficient market.  It is not possible to achieve superior investment
+performance since market efficiency exists due to portfolio mangers doing this job well in a
+competitive setting.
+The random movement of stock prices suggests that stock market is irrational. Randomness and
+irrationality are two different things,  if investors are rational and competitive, price changes are
+bound to be random.
+4.3  Level of Market Efficiency
+That price reflects all available information, the highest order of market efficiency. According to
+Eugene Fama, there exist three levels of market efficiency:-
+(i)   Weak form efficiency – Price reflects all information found in the record of past prices and
+      volumes.
+(ii)   Semi – Strong efficiency – Price reflects not only all information found in the record of past
+       prices and volumes but also all other publicly available information.
+(iii)   Strong form efficiency – Price reflects all available information public as well as private.
+4.4  Empirical Evidence on Weak form of Efficient Market Theory
+According to the Weak form Efficient Market Theory current price of a stock reflect all information
+found in the record of past prices and volumes. This means that there is no relationship between the
+past and future price movements.
+Three types of tests have been employed to empirically verify the weak form of Efficient Market
+Theory- Serial Correlation Test, Run Test and Filter Rule Test.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+SECURITY ANALYSIS              4.312.31
+
+(a)    Serial Correlation Test: To test for randomness in stock price changes, one has to look at
+serial correlation. For this purpose, price change in one period has to be correlated with price change
+in some other period. Price changes are considered to be serially independent. Serial correlation
+studies employing different stocks, different time lags and different time period have been conducted
+to detect serial correlation but no significant serial correlation could be discovered. These studies
+were carried on short term trends viz. daily, weekly, fortnightly and monthly and not in long term
+trends in stock prices as in such cases. Stock prices tend to move upwards.
+(b)   Run Test: Given a series of stock price changes each price change is designated +  if  it
+represents an increase and – if it represents a decrease. The resulting series may be -,+, - , -, - , +,
++.
+A run occurs when there is no difference between the sign of two changes. When the sign of change
+differs, the run ends and new run begins.
++ + −−−+ −+ −− + + −−−+ −+ −−
+       /        /    /    /    /             /        /    /    /    /
+ 1   2   3 4 5  6  1   2   3 4 5  6
+To test a series of price change for independence, the number of runs in that series is compared
+with a number of runs in a purely random series of the size and in the process determines whether
+it is statistically different. By and large, the result of these studies strongly supports the Random
+Walk Model.
+(c)     Filter Rules Test:  If the price of stock increases by at least N% buy and hold it until its price
+decreases by at least N% from a subsequent high. When the price decreases at least N% or more,
+sell it. If the behaviour of stock price changes is random, filter rules should not apply in such a buy
+and hold strategy. By and large, studies suggest that filter rules do not out perform a single buy and
+hold strategy particular after considering commission on transaction.
+4.5  Empirical Evidence on Semi-strong Efficient Market Theory
+Semi-strong form efficient market theory holds that stock prices adjust rapidly to all publicly available
+information. By using publicly available information, investors will not be able to earn above normal
+rates of return after considering the risk factor. To test semi-strong form efficient market theory, a
+number of studies was conducted which lead to the following queries: Whether it was possible to
+earn on the above normal rate of return after adjustment for risk, using only publicly available
+information and how rapidly prices adjust to public announcement with regard to earnings, dividends,
+mergers, acquisitions, stock-splits?
+Several studies support the Semi-strong form Efficient Market Theory. Fama, Fisher, Jensen and
+Roll in their adjustment of stock prices to new information examined the effect of stock split on return
+of 940 stock splits in New York Stock Exchange during the period 1957-1959 They found that prior
+to the split, stock earns higher returns than predicted by any market model.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+4.322.32         ADVANCED FINANCIAL MANAGEMENT
+
+Boll and Brown in an empirical evaluation of accounting income numbers studied the effect of annual
+earnings announcements. They divided the firms into two groups. First group consists of firms whose
+earnings increased in relation to the average corporate earnings while second group consists of
+firms whose earnings decreased in relation to the average corporate earnings. They found that
+before the announcement of earnings, stock in the first group earned positive abnormal returns while
+stock in the second group earned negative abnormal returns after the announcement of earnings.
+Stock in both the groups earned normal returns.
+There have been  studies which have been  empirically documented showing  the  following
+inefficiencies and anomalies:
+•     Stock price adjust gradually not rapidly to announcements of unanticipated changes in quarterly
+       earnings.
+•     Small firms’ portfolio seemed to outperform large firms’ portfolio.
+•    Low price earning multiple stock tend to outperform high price earning multiple stock.
+•     Monday’s return is lower than return for the other days of the week.
+4.6  Empirical Evidence on Strong form of Efficient Market Theory
+According to the Efficient Market Theory, all available information, public or private, is reflected in
+the stock prices. This represents an extreme hypothesis.
+To test this theory, the researcher analysed returns earned by certain groups viz. corporate insiders,
+specialists on stock exchanges, mutual fund managers who have access to internal information (not
+publicly available), or possess greater resource or ability to intensively analyse information in the
+public domain. They suggested that corporate insiders (having access to internal information) and
+stock exchange specialists (having monopolistic exposure) earn superior rate  of return  after
+adjustment of risk.
+Mutual Fund managers do not on an average earn a superior rate of return. No scientific evidence
+has been formulated to indicate that investment performance of professionally managed portfolios
+as a group has been any better than that of randomly selected portfolios. This was the finding of
+Burton Malkiel in his Random Walk Down Wall Street, New York.
+4.7  Challenges to the Efficient Market Theory
+(a)    Information inadequacy – Information is neither freely available nor rapidly transmitted to
+all participants in the stock market. There is a calculated attempt by many companies to circulate
+misinformation.
+(b)    Limited information processing capabilities – Human information processing capabilities
+are sharply limited. According to Herbert Simon every human organism lives in an environment which
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+SECURITY ANALYSIS              4.332.33
+
+generates millions of new bits of information every second but the bottlenecks of the perceptual
+apparatus does not admit more than thousand bits per seconds and possibly much less.
+David Dreman maintained that under conditions of anxiety and uncertainty, with a vast interacting
+information grid, the market can become a giant.
+(c)    Irrational Behaviour – It is generally believed that investors’ rationality will ensure a close
+correspondence between market prices and intrinsic values. But in practice this is not true. J. M.
+Keynes argued that all sorts of consideration enter into the market valuation which is in no way
+relevant to the prospective yield. This was confirmed by L. C. Gupta who found that the market
+evaluation processes work haphazardly almost like a blind man firing a gun. The market seems to
+function largely on hit or miss tactics rather than on the basis of informed beliefs about the long term
+prospects of individual enterprises.
+(d)   Monopolistic Influence – A market is regarded as highly competitive. No single buyer or
+seller is supposed to have undue influence over prices. In practice, powerful institutions and big
+operators wield great influence over the market. The monopolistic power enjoyed by them diminishes
+the competitiveness of the market.
+      5.  EQUITY RESEARCH AND TOOLS AVAILABLE
+Equity Research is that area of finance or Investment Banking that involves the analysis of company’s
+financial performance and other factors to determine whether the equity share of the same company
+should be bought, sold or continued to be hold. This research can also be applied in any merger and
+acquisition to decide about the swap or exchange ratio.
+People involved in performing equity research are called Equity Research Analysts. Earlier equity
+research used to be paper based, and analysts needed to refer various reports, data, and graphs etc.
+However, with the advent of internet now a days most analysts use various tools available online.
+Some of the Equity Research tool available on internet are as follows:
+
+ S. No.   Name         Founded in   Website
+
+    1     Bloomberg          1981       https://www.bloomberg.com/professional/solution/bloomberg-
+           Terminal                           terminal/
+
+    2     Benzinga Pro       2010       https://pro.benzinga.com
+
+    3       Refinitiv EIKON      2010       https://www.refinitiv.com
+
+    4     MarketXLS         2015       https://marketxls.com
+
+    5     Stockopedia        2010      https://www.stockopedia.com
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+4.342.34         ADVANCED FINANCIAL MANAGEMENT
+
+
+    6      Koyfin             2016       https://www.koyfin.com
+    7      Finbox.io           2014       https://finbox.com
+    8     GuruFocus         2004      https://www.gurufocus.com
+    9     Business Quant      2014       https://businessquant.com
+   10     Ycharts            2009       https://get.ycharts.com
+Note: Students are advised to refer basic details of the tools available by referring the respective websites
+without subscribing and making any type of payment.
+TEST YOUR KNOWLEDGE
+Theoretical Questions
+1.     Explain the Efficient Market Theory in and what is major misconception about this theory?
+2.     Explain Dow theory.
+3.     Explain the Elliot Wave Theory of technical analysis.
+4.     Explain the various indicators that can be used to assess the performance of an economy.
+Practical Questions
+1.     Closing values of NSE Nifty from 6th to 17th day of the month of January of the year 2020
+      were as follows:
+       Days          Date               Day                Sensex
+          1             6              THU          14522
+          2             7                   FRI          14925
+          3             8               SAT         No Trading
+          4             9              SUN         No Trading
+          5            10            MON          15222
+          6            11              TUE          16000
+          7            12            WED          16400
+          8            13              THU          17000
+          9            14                  FRI         No Trading
+         10            15               SAT         No Trading
+         11            16              SUN         No Trading
+         12            17            MON          18000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+SECURITY ANALYSIS              4.352.35
+
+       Calculate Exponential Moving Average (EMA) of Sensex during the above period. The
+      previous day exponential moving average of Sensex can be assumed as 15,000. The value
+       of exponent for 31 days EMA is 0.062.
+      Give detailed analysis on the basis of your calculations.
+2.    The closing value of a Stock Market Index for the month of October, 2007 is given below:
+
+                 Date Closing                       Index Value
+                      1.10.07                           2800
+                      3.10.07                           2780
+                      4.10.07                           2795
+                      5.10.07                           2830
+                      8.10.07                           2760
+                      9.10.07                           2790
+                     10.10.07                          2880
+                     11.10.07                          2960
+                     12.10.07                          2990
+                     15.10.07                          3200
+                     16.10.07                          3300
+                     17.10.07                          3450
+                     19.10.07                          3360
+                     22.10.07                          3290
+                     23.10.07                          3360
+                     24.10.07                          3340
+                     25.10.07                          3290
+                     29.10.07                          3240
+                     30.10.07                          3140
+                     31.10.07                          3260
+     You are required to test the weak form of efficient market hypothesis by applying the run test
+       at 5% and 10% level of significance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+4.362.36         ADVANCED FINANCIAL MANAGEMENT
+
+       Following values can be used:
+      Value of t at 5% is 2.101 at 18 degrees of freedom
+      Value of t at 10% is 1.734 at 18 degrees of freedom
+Answers to Theoretical Questions
+1.    Please refer paragraph 4.
+2.    Please refer paragraph 2.4.1.
+3.    Please refer paragraph 2.4.2.
+4.    Please refer paragraph 1.2.2.
+Answers to the Practical Questions
+1.
+
+       Date        1             2            3           4            5
+               Sensex     EMA for                        EMA
+                            Previous day       1-2        3×0.062        2 + 4
+         6       14522        15000          (478)        (29.636)     14970.364
+         7       14925       14970.364      (45.364)       (2.812)      14967.55
+        10       15222       14967.55       254.45       15.776       14983.32
+        11       16000       14983.32      1016.68       63.034      15046.354
+        12       16400       15046.354     1353.646      83.926       15130.28
+        13       17000       15130.28      1869.72      115.922     15246.202
+        17       18000       15246.202     2753.798     170.735     15416.937
+
+      Conclusion – The market is bullish. The market is likely to remain bullish for short term to
+     medium term  if other factors remain the same. On the basis of this indicator (EMA) the
+       investors/brokers can take long position.
+2.
+              Date               Closing Index          Sign of Price Charge
+               1.10.07                  2800
+               3.10.07                  2780                                       -
+               4.10.07                  2795                      +
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+SECURITY ANALYSIS              4.372.37
+
+               5.10.07                  2830                      +
+               8.10.07                  2760                                       -
+               9.10.07                  2790                      +
+              10.10.07                 2880                      +
+              11.10.07                 2960                      +
+              12.10.07                 2990                      +
+              15.10.07                 3200                      +
+              16.10.07                 3300                      +
+              17.10.07                 3450                      +
+              19.10.07                 3360                                       -
+              22.10.07                 3290                                       -
+              23.10.07                 3360                      +
+              24.10.07                 3340                                       -
+              25.10.07                 3290                                       -
+              29.10.07                 3240                                       -
+              30.10.07                 3140                                       -
+              31.10.07                 3260                      +
+
+       Total of sign of price changes (r) = 8
+     No of Positive changes = n1 = 11
+      No. of Negative changes = n2 = 8
+            2n1n 2   µr =      + 1
+            n1 + n 2
+           2 × 11 × 8   µ =       + 1 = 176/19 + 1 = 10.26
+             11 + 8
+        ∧     2n1n2 2(n1n2 − n1 − n2 )
+     rσ =   n(1 + n2 )                              2 n(1 + n2 − )1
+
+        ∧       2( × 11 × 2()8 × 11 × 8 − 11 − )8     176 × 157                                    =                                                =   .4 252 = 2.06     rσ =           (11 + )8                                    2 (11 + 8 − )1                                                                     (19) 2 (18)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+4.382.38         ADVANCED FINANCIAL MANAGEMENT
+
+      Since too few runs in the case would indicate that the movement of prices is not random. We
+      employ a two- tailed test the randomness of prices.
+      Test at 5% level of significance at 18 degrees of freedom using t- table
+     The lower limit
+
+                   ∧
+      = µ – t × σ =10.26 – 2.101 × 2.06 = 5.932
+                                          r
+      Upper limit
+
+                  ∧
+     = µ + t × rσ =10.26 + 2.101 × 2.06 = 14.588
+       At 10% level of significance at 18 degrees of freedom
+      Lower limit
+     = 10.26 – 1.734 × 2.06 = 6.688
+      Upper limit
+     = 10.26 + 1.734 × 2.06 = 13.832
+     As seen r lies between these limits. Hence, the market exhibits weak form of efficiency.
+      *For a sample of size n, the t distribution will have n-1 degrees of freedom.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+© The Institute of Chartered Accountants of India

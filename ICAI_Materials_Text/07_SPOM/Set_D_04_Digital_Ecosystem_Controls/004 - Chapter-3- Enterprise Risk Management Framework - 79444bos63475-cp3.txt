@@ -1,0 +1,788 @@
+Source PDF: 07_SPOM/Set_D_04_Digital_Ecosystem_Controls/004 - Chapter-3- Enterprise Risk Management Framework - 79444bos63475-cp3.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_04_Digital_Ecosystem_Controls\004 - Chapter-3- Enterprise Risk Management Framework - 79444bos63475-cp3.pdf
+Extracted at: 2026-05-31T10:36:28+05:30
+Pages: 18
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          3
+         1
+ENTERPRISE RISK
+MANAGEMENT
+FRAMEWORK
+
+
+                   LEARNING OUTCOMES
+After studying this chapter, you will be able to –
+   build fundamental understanding about Enterprise Risk Management
+    (ERM) and its related benefits.
+  comprehend the ERM Framework and  its implementation by  Plan,
+     Implement, Measure and Learn (PIML).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+3.2            DIGITAL ECOSYSTEM AND CONTROLS
+
+ CHAPTER OVERVIEW
+
+
+                        Enterprise Risk Management
+
+
+              Benefits                        Framework
+
+
+                               Illustration: ERM Case Study – Kodak
+ Founded in 1892, Kodak was registered as a trademark for a camera that could be used by the
+ mass market. Kodak grew to be a leading and large enterprise, and at its peak in the early 1980s,
+  it employed 130,000 people worldwide.
+ One of Kodak’s cash cows was its film products. Kodak was a leading manufacturer of various
+  film products to all types of non-digital cameras and video recorders. When the digital products
+ came to market and replaced the old-style cameras, the demand for film products declined.
+ One of the high impact risks for Kodak back then in the pre-digital era was that a disruptive
+ technology would diminish the demand for its one of the core products: film-based products. This
+ trend presented itself with varying degrees of impact in virtually every market segment it operated
+  in, from consumer film cameras to digital X-rays to digital moviemaking.
+ Kodak, of course, did move into digital cameras, printers, and related technologies. But clearly
+ not with either enough determination or success. Once an iconic brand, the photo film company
+ failed for decades to act on the threat that digital photography posed to its business and eventually
+  filed for bankruptcy in 2012. The company’s own research in 1981 found that digital photos could
+ ultimately replace Kodak’s film technology and estimated it had 10 years to prepare.
+ What went wrong?
+ Unfortunately, Kodak did not prepare and stayed locked  in the  film paradigm. The Board
+ reinforced this course when in 1989 it chose a candidate as CEO who came from the film business
+ over an executive interested in digital technology. Had the company acknowledged the risks and
+ employed ERM strategies, it might have pursued a variety of strategies to remain successful. The
+ company’s rival, Fuji Film, took the money it made from film and invested in new initiatives, some
+ of which paid off. Kodak, on the other hand, kept investing in the old core business.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+ENTERPRISE RISK MANAGEMENT FRAMEWORK             3.3
+
+ Risk Management Perspective
+ Consider and  evaluate  the  risks  of  disruptive  technologies, and  the need  to manage
+ transformation when it can be evolution well in advance of looming crises. The bigger the ship,
+ the more time you need to turn it. Some high impact risks, such as the traditional film market
+ dying in the case of Kodak, require broad strategic shifts.
+
+    3.1  INTRODUCTION
+Organizations practice risk management in several different ways. When an organization adopts a
+holistic approach and considers all the risks that  it faces and how these risks could impact its
+strategy, projects, and operations, then the organization is embarking towards ERM approach.
+Consider a Sports club where the key objective of the management is to maximize the attendance
+at all the games that may include various activities such as marketing, advertising, allocation and
+sale of tickets as well as logistical arrangements to ensure that the experience at the game is as
+good as possible. Part of maximizing attendance at games will be to ensure that there are adequate
+parking and transport arrangements, together with suitable catering and other welfare arrangements
+in the ground.
+By identifying the key activities that deliver the selected core process, the club can identify the risks
+that could impact both these activities and the core process. Targets can then be set for increased
+attendance at future games, and responsibility for the success of this core process has been allocated
+to the commercial director of the club. A consideration of the opportunities for increasing attendance
+at games can also be included in this broader Enterprise Risk Management (ERM) approach.
+
+    3.2  ENTERPRISE RISK MANAGEMENT (ERM)
+ERM is a risk-based approach which includes the methods and processes used by organizations to
+manage risks. ERM-related goals and objectives are of little value unless they can be organized and
+modelled together in such a manner that management can look at the various aspects of the task
+and understand how they interact and relate in a multidimensional manner. ERM provides a
+framework for risk management which involves:
+♦     identifying potential threats or risks.
+♦     determining how big a threat or risk is.
+♦    what could be its consequence, and its impact, etc.
+♦    implementing controls to mitigate the risks.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+3.4            DIGITAL ECOSYSTEM AND CONTROLS
+
+“ERM is defined as a process, affected by an entity’s board of directors, management and
+other personnel, applied in strategy setting and across the enterprise, designed to identify
+potential events that may affect the entity, and manage risk to be within its risk appetite, to
+provide reasonable assurance regarding the achievement of entity objectives.”
+The following may be considered for the sake of understanding ERM.
+♦   ERM is a Process. An often-misused expression, the dictionary definition of a process is a
+       set of actions designed to achieve a result. However, this definition does not provide help for
+     many professionals. The idea to remember is that a process is not a static procedure such
+      as the use of an employee badge that is designed and built to allow only certain authorized
+      persons to enter a locked facility. Such a badge procedure—like a key to a lock—only allows
+       or does not allow someone entry to the  facility. A process tends to be a more flexible
+      arrangement. In a credit approval process, for example, acceptance rules are established
+       with options to alter them given other considerations. An enterprise might bend the credit
+       rules for an otherwise good credit customer that is experiencing a short-term problem. ERM
+        is that type of process. An enterprise often cannot define its risk management rules through
+      a small, tightly organized rule book. Rather, there should be a series of documented steps to
+      review and evaluate potential risks and to act based on a wide range of factors across the
+       entire enterprise. Therefore, ERM is a process but a dynamic one wherein the steps are
+       altered and modified to suit the requirements of the business.
+♦   ERM processes are implemented by people in the enterprise. An ERM will not be effective
+            if  it is only implemented through a set of rules sent into an operating unit from a distant
+       corporate headquarters, where those corporate people who drafted the rules may have little
+      understanding of the various local operating unit decision factors surrounding them. The risk
+     management process must be managed by people who are close enough to that risk situation
+       to understand the various factors surrounding that risk including its implications.
+♦   ERM is applied by setting strategies across the overall enterprise. Every enterprise is
+       constantly faced with alternative strategies regarding a vast range of potential future actions.
+      Should the entity acquire another complementary business or just build internally? Should
+       they adopt new technology in their manufacturing processes or stick with the tried and true?
+     An effective ERM should play a major role in helping to establish those alternative strategies.
+      Since many enterprises are large with many varied operating units, ERM should be applied
+      across that entire enterprise using a portfolio type of approach that blends a mix of high- and
+       low-risk activities.
+♦    Concepts of risk appetite must be considered. A newer concept or term for many
+      managers, Risk appetite is the amount of risk, on a broad level, that an enterprise and its
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+ENTERPRISE RISK MANAGEMENT FRAMEWORK             3.5
+
+       individual managers are willing to accept in their pursuit of value. Risk appetite can be
+      measured in a qualitative sense by looking at risks in such categories as high, medium, or
+       low; alternatively, it can be defined in a quantitative manner.
+      Risk tolerance is the amount of loss that an organization/individual is prepared to handle
+       while making a decision. For example - an investor or trader with a high net worth can assume
+     more risk and may get through different times and can take decisions after observing the
+       situation considerably. The smaller the percentage of an investor’s overall net worth, the more
+      aggressive the risk tolerance can be. In such a case, the investor may sell his stocks on
+      seeing them dipping in. Risk appetite and risk tolerance can be viewed as the “two sides of
+       the same coin” as they relate to organizational performance over time. Risk appetite is about
+       “taking risk” and risk tolerance is about “controlling risk.” For risk appetite to be adopted
+       successfully in decision making,  it must be integrated with control environment of the
+       organization through risk tolerance.
+     An understanding of risk appetite covers a wide variety of issues that will be discussed further
+        in subsequent chapters as part of the discussions of implementing ERM in a variety of
+       organizational environments. The basic idea is that every manager and, collectively, every
+       enterprise should have some level of appetite for risk. Some will accept risky ventures that
+      promise high returns while others prefer more to guaranteed-return low-risk ventures. One
+      can think of this appetite for risk concept or measure in terms of two investors. One may
+       prefer very low risk but typically low-return money market or index funds while another may
+       invest in low-cap start-up technology stocks. That latter investor can be described as having
+      a high appetite for risk. For example,  if a company decides to invest in real estate,  it
+      represents numerous risks like high capital outlay requirement, or maybe loss of business
+      due to recession. In such a case, there can be a high possibility of failure. However, if the
+      economic conditions will be in favor, this business can get a high return to organization.
+♦   ERM provides only reasonable, not positive assurance on objective achievements. The
+      idea here is that an ERM, no matter how well thought out or implemented, cannot provide
+     management or others with any assured guarantee of  its outcomes. A well-controlled
+       enterprise, with people at all levels consistently working toward understood and achievable
+       goals, may achieve those objectives period after period—even over multiple years. However,
+      an unintentional human error, an unexpected action by another, or even a natural disaster
+      can occur. For example- The operational efficiency of organizations decreased during
+       covid 19 pandemic, whereas the organization which has applied ERM to raise its liquidity
+       capability generated a positive and significant effect on its operational efficiency. However,
+       despite an  effective ERM process, an enterprise can experience a major and  totally
+      unexpected failure. Reasonable assurance does not provide absolute assurance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+3.6            DIGITAL ECOSYSTEM AND CONTROLS
+
+♦   ERM is designed to help attain the achievement of objectives. An enterprise, through its
+      management, should work to establish high-level common objectives that can be shared by
+         all stakeholders. Examples here are such matters as achieving and maintaining a positive
+       reputation within an enterprise’s business and consumer communities, providing reliable
+       financial reporting to all stakeholders, and operating in compliance with laws and regulations.
+     The overall ERM program for an enterprise should help it to achieve those objectives.
+Benefits of Enterprise Risk Management
+No entity operates in a risk-free environment and ERM does not create such an environment. Rather,
+it enables management to operate such environment. ERM provides enhanced capability to do the
+following:
+♦    Align risk appetite and strategy: Risk appetite is the degree of risk, on a broad-based level
+       that an enterprise (any type of entity) is willing to accept in pursuit of its goals. Management
+      considers the entity’s risk appetite first in evaluating strategic alternatives, then in setting
+       objectives aligned with the selected strategy and in developing mechanisms to manage the
+       related risks.
+♦    Link growth, risk, and return: Entities accept risk as part of value creation and preservation,
+      and they expect return commensurate with the risk. ERM provides an enhanced ability to
+        identify and assess risks and establish acceptable levels of risk relative to growth and return
+       objectives.
+♦    Enhance risk response decisions: ERM provides the rigor to identify and select among
+       alternative risk responses – risk avoidance, mitigation, transference, and acceptance. ERM
+      provides methodologies and techniques for making these decisions.
+♦    Minimize operational surprises and losses: Entities have enhanced capability to identify
+       potential events, assess risk and establish responses, thereby reducing the occurrence of
+       surprises and related costs or losses.
+♦     Identify and manage cross-enterprise risks: Every entity faces a myriad of risks affecting
+        different parts of the enterprise. Management needs to not only manage individual risks, but
+       also understand interrelated impacts.
+♦    Provide integrated responses to multiple risks: Business processes carry many inherent
+        risks, and ERM enables integrated solutions for managing the risks.
+♦    Seize opportunities: Management considers potential events, rather than just risks, and by
+       considering a full range of events, management gains an understanding of how certain events
+       represent opportunities.
+♦     Rationalize capital: More robust information on an entity’s total risk allows management to
+      assess more effectively overall capital needs and improve capital allocation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+ENTERPRISE RISK MANAGEMENT FRAMEWORK             3.7
+
+    3.3  ERM FRAMEWORK (For IT GOVERNANCE Issues)
+The COSO ERM  framework  for  risk management  typically  involves  identifying  events  or
+circumstances relevant to an organization’s objectives (risks and opportunities), assessing them in
+terms of likelihood and magnitude of impact, determining a response strategy, and monitoring
+progress. Various potential threats to computer systems affect the Confidentiality, Integrity, and
+Availability (CIA) of data and computer systems. For successful continuity of business,  it is very
+essential to evaluate these potential threats and control them to minimize the impact of these threats
+to an acceptable level. By identifying and pro-actively addressing risks and opportunities, business
+enterprises create and protect value for their stakeholders, including owners, employees, customers,
+regulators, and society overall.
+The approach adopted by COSO suggests that enterprise risk management is a multidirectional,
+iterative process in which almost any component can and does influence all other components. In
+simple terms, this framework suggests that in order to achieve a successful ERP initiative, an
+organization needs to implement all eight components as shown in the Fig. 3.1 in relation to each of
+the four categories of objectives indicated across the top, in all parts of the organization, as indicated
+on the side of the cube. The COSO ERM cube illustrates the links between objectives that are shown
+on the top and the eight components shown on the front, which represent what is needed to achieve
+the objectives. The third dimension represents the organization’s units, which portrays the model’s
+ability to focus on parts of the organization as well as the whole. Refer Fig. 3.1 for COSO ERM
+Framework.
+Relationship of ERM and Internal Controls
+The Internal Control Framework (ICF - discussed in Chapter 2) and Enterprise Risk Management
+(ERM) have similarities and differences. Both frameworks aim to improve risk management in
+organizations. The ICF focuses on internal controls to ensure the achievement of objectives and the
+reliability of financial reporting. It includes elements such as control environment, risk assessment,
+control activities, information and communication, and monitoring. ERM, on the other hand, takes a
+broader approach by considering risks and opportunities that could affect the achievement of
+objectives. It includes elements such as internal environment, objective setting, event identification,
+risk assessment, risk response, control activities, information and communication, and monitoring.
+While both frameworks address risk management, ERM provides a more comprehensive and
+integrated approach that considers both internal and external factors. The objectives of COSO ERM
+Framework (Refer Fig. 3.1) that reflect the responsibility of different executives across the entity and
+address different needs are provided below:
+♦     Strategic - These are mission driven high level goals and objectives (Governance, Strategic
+       objectives, business model, external forces, etc.) and are aligned with an entity’s mission.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+3.8            DIGITAL ECOSYSTEM AND CONTROLS
+
+♦    Operations  - These  objectives  refer  to  the  effective and  efficient use  of resources
+      development, management, and allocation (Business processes, upstream value chain,
+      downstream value chain, etc.).
+♦    Reporting - These objectives surround an entity’s need for reliable reporting that involve
+       information gathering, analysis and communication (Information Technology, Financial,
+        Internal, Intellectual property, etc.).
+♦    Compliance - These objectives refer to an entity’s need to comply with applicable laws and
+       regulations (Securities and Exchange commission, environmental, legal, contractual, etc.).
+COSO Coverage Areas
+
+The four organizational levels of COSO ERM Framework that emphasize the importance of
+managing risks across the enterprise to achieve operational, financial, and compliance objectives
+are Entity level, Division, Operating Unit and Function.
+
+♦     Entity-level controls are those that influence the entire organization. Often, these controls
+      are focused on establishing and maintaining a good culture and supporting communication
+      throughout  the  organization. These  controls  are  implemented,  or  influence  actions,
+      throughout the organization. For example, one entity-wide control in an organization would
+      be a corporate code of ethics.
+
+♦    Division level controls may be one level removed, or below, entity-wide controls. Depending
+      on the organization's structure, there may or may not be divisions. When there are, they are
+       often associated with national or regional boundaries such that the internal controls align with
+       regulatory requirements, such as filing Securities and Exchange Board of India (SEBI) reports
+      on time and accurately.
+
+♦    An Operating Unit isn't always limited to physical proximity, but instead is focused on the
+        activities the operating unit  is responsible  for performing. For example, an accounting
+      department may  be  responsible  for  accounts  payable,  accounts  receivable,  cash
+      management, and financial reporting. Accounts receivable may have a control that requires
+      a monthly outstanding balance report to be reviewed.
+
+♦    Function refers to a specific job in the operating unit.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+ENTERPRISE RISK MANAGEMENT FRAMEWORK             3.9
+
+
+                         MANAGEMENT OBJECTIVES
+                                 1.  Strategic           3. Operations
+                                 2. Reporting          4. Compliance
+
+                       ERM COMPONENTS
+
+                   1.Control Environment           2. Objective Setting
+
+                      3. Event Identification           4. Risk Assessment
+
+                      5. Risk Response                 6. Control Activities
+
+                      7. Information & Communication  8. Monitoring
+
+
+                                      Fig. 3.1: COSO ERM Cube
+
+ERM framework  consists  of  eight  interrelated components  that  are  derived from  the way
+management runs a business and are integrated with the management process. These components
+are as follows (Fig. 3.1):
+(i)    Control Environment: The control environment encompasses the tone of an organization
+      and sets the basis for how risk is viewed and addressed by an entity’s people, including risk
+     management philosophy and risk appetite, integrity and ethical values, and the environment
+        in which they operate. Management sets a philosophy regarding risk and establishes a risk
+       appetite. The control environment sets the foundation for how risk and control are viewed and
+      addressed by an entity’s people. The core of any business is its people – their individual
+        attributes, including integrity, ethical values, and competence – and the environment in which
+       they operate. They are the engine that drives the entity and the foundation on which
+       everything rests.
+(ii)    Objective Setting: Objectives should be set before management can  identify events
+       potentially affecting their achievement. ERM ensures that management has a process in
+      place to set objectives and that the chosen objectives support and align with the entity’s
+       mission/vision and are consistent with the entity’s risk appetite. Objectives need to be set in
+        reality and with sufficient resources available to achieve them and meet the SMART test.
+      •     Specific: Clearly defined,
+      •     Measurable: Easily quantifiable in monetary terms,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+3.10           DIGITAL ECOSYSTEM AND CONTROLS
+
+      •     Attainable: Achievable through best efforts,
+      •     Relevant: Entity must be in need of these, and
+      •     Timely: Achieved within a given time frame.
+(iii)   Event (or Risk) Identification: Potential events that might have an impact on the entity
+      should be identified. Event identification includes identifying factors – internal and external –
+       that influence how potential events may affect strategy implementation and achievement of
+       objectives.  It includes distinguishing between potential events that represent risks, those
+       representing opportunities and those that may be both. Opportunities are channeled back to
+      management’s  strategy  or  objective-setting  processes. Management  identifies  inter-
+       relationships between potential events and may categorize events to create and reinforce a
+     common risk language across the entity and form a basis for considering events from a
+        portfolio perspective.
+(iv)   Risk Assessment: Identified risks are analyzed to form a basis for determining how they
+      should be managed. Risks are assessed on both an inherent and a residual basis, and the
+      assessment considers both risk likelihood and impact. A range of possible results may be
+      associated with a potential event, and management needs to consider them together.
+(v)    Risk Response: Management selects an approach or set of actions to align assessed risks
+       with the entity’s risk tolerance and risk appetite, in the context of the strategy and objectives.
+      Personnel identify and evaluate possible responses to risks, including avoiding, accepting,
+       reducing, and sharing risk.
+(vi)   Control Activities: Policies and procedures are established and executed to help ensure
+       that the risk responses that management selected are effectively carried out.
+(vii)   Information and Communication:  Relevant  information  is  identified,  captured, and
+      communicated in a form and time frame that enables people to carry out their responsibilities.
+       Information is needed at all levels of an entity for identifying, assessing, and responding to
+        risk. Effective communication also should occur in a broader sense, flowing down, across and
+      up the entity. Personnel need to receive clear communications regarding their role and
+        responsibilities.
+(viii)  Monitoring: The entire ERM process should be monitored, and modifications made as
+      necessary. In this way, the system can react dynamically, changing as conditions warrant.
+       Monitoring is accomplished through ongoing management activities, separate evaluations of
+       the ERM processes or a combination of both.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+ENTERPRISE RISK MANAGEMENT FRAMEWORK             3.11
+
+COSO ERM Rainbow Double Helix
+In 2017, COSO published an  additional guidance  entitled ERM –  Integrating Strategy and
+Performance to connect ERM more clearly with a multitude of stakeholder expectations; position risk
+in the context of performance, rather than as an isolated exercise; enable organizations to better
+anticipate risk, not simply the potential for crises; and provide an understanding that change creates
+opportunities. This is to bring greater focus to the positive contribution to performance that can be
+made by ERM as shown in Fig. 3.2.
+The basis of the 2017 COSO guidance is that ERM should be embedded into the activities of an
+organization, including the mission, vision, and core values. In developing strategy, business and
+performance objectives, an organization should consider the implications of the selected strategy;
+the risks to strategy and performance; and the possibility of the strategy not aligning with core values.
+
+
+ Mission,
+ Vision &
+ Core
+ Values
+
+
+  Governance         Strategy &       Performance          Review &        Information &
+  & Culture           Objective Setting                         Revision       Communication
+
+                           Fig. 3.2: COSO ERM Rainbow Double Helix
+
+The 2017 COSO ERM framework clearly differentiates between ERM and internal control and
+enhances the references to risk appetite and risk tolerance. The intention of the framework is to
+elevate discussion of strategy, enhance the alignment between performances and more explicitly
+link ERM into decision-making. There is greater emphasis on the relationship between risk and value
+and the benefits of integration of ERM. Finally, the framework underlines the role of culture in the
+achievement of successful ERM. ERM is strategic and Internal control is operational and targeting
+a particular risk items or control violation. The organizations need to identify the best framework for
+optimizing strategy and performance to integrate ERM throughout the organization to achieve
+benefits, including:
+♦     identifying new opportunities.
+♦     identifying and managing risk organization-wide to sustain and improve performance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+3.12           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦     increasing positive outcomes and reducing negative surprises.
+♦     reducing performance variability and minimize disruption.
+♦     improving resource deployment and enhance resource allocation.
+♦    enhancing enterprise resilience, not only to survive but also to evolve and thrive.
+COSO’s new ERM framework now includes five components or categories with 20 principles spread
+throughout each component. Those components are as follows:
+1.    Governance and Culture: Governance sets the tone for the organization and establishes
+oversight responsibilities for ERM. Culture which relates to ethical values, desired behaviors and
+understanding of risk, is reflected in decision-making and includes ethical values and responsible
+business behavior. There are five principles for this component as provided in the Table 3.1 below:
+
+                    Table 3.1: Principles for Governance and Culture
+
+ Exercises   Board   Risk  Risk governance and culture start at the top with the influence
+ Oversight                  and oversight of the board. Board members must be accountable
+                           and responsible for risk oversight and possess the required
+                                          skills, experience, and business knowledge.
+
+ Establishes      Operating   Strategy is executed by organization and execution of day-to-day
+ Structures                    operations to achieve business objectives. How the operating
+                            model  is administered and governed can introduce new and
+                                     different risks or complexities.
+
+ Defines Desired Culture    COSO frames desired behaviors within the context of culture,
+                               core values and attitudes toward risk. Whether an organization
+                               considers itself to be risk adverse, risk neutral or risk aggressive,
+                                                           it should have a risk-aware culture.
+
+ Demonstrates Commitment   Culture and tone at the top is defined by the operating style and
+ to Core Values               personal conduct of management and the board of directors and
+                                                           it must be driven deep down into the organization.
+
+ Attracts,   Develops   and  Management must define the knowledge, skills and experience
+ Retains Capable Individuals  needed to execute strategy; set appropriate performance targets;
+                                       attract, develop, and retain appropriate personnel and strategic
+                                  partners; and arrange for succession.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+ENTERPRISE RISK MANAGEMENT FRAMEWORK             3.13
+
+2.    Strategy and Objective-Setting: The updated COSO framework elevates the discussion of
+strategy and the integration of ERM with strategy by asserting that all aspects and implications of
+strategy need to be considered when setting strategy. There are four principles for this component
+as provided in the Table 3.2 below:
+                  Table 3.2: Principles for Strategy and Objective-Setting
+   Analyses       Business  The updated framework considers the business context and the
+   Context                        role of internal and external stakeholders. The point  is that
+                          management must consider risk from changes in the business
+                                context and adapt accordingly in executing strategy.
+   Defines Risk Appetite      The organization defines risk appetite in the context of creating,
+                                 preserving, and realizing value. The risk appetite statement is
+                               considered   during   strategy   setting,  communicated  by
+                           management, embraced by the board, and integrated across the
+                                  organization.
+   Evaluates     Alternative   Alternative strategies are built on different assumptions – and
+   Strategies                  those assumptions may be sensitive to change. The organization
+                               evaluates strategic options and sets  its strategy to enhance
+                                 value, considering risk resulting from the strategy chosen.
+   Formulates     Business  Management establishes objectives that align with and support
+   Objectives                  the strategy at various levels of the business. These objectives
+                              should  consider, and be aligned  with,  risk  appetite. ERM,
+                                 strategy and objective-setting work together in the strategic-
+                                planning process. Risk appetite should be aligned with strategy
+                           and business objectives to successfully implement strategy.
+
+3.    Performance: Risks that can impact achievement of strategy and business objectives need
+to be identified and assessed and risks prioritized by severity in the context of risk appetite, so that
+risk responses can be selected. There are five principles for this component as provided in the Table
+3.3 below:
+                         Table 3.3: Principles for Performance
+ Identifies Risk             The organization identifies new and emerging risks, as well as
+                            changes to known risks to the execution of its strategy. The risk
+                                     identification process should  consider  risks  arising from a
+                           change in the business context and risks currently existing but
+                                not yet known.
+ Assesses Severity of Risk    Depending on  the  anticipated  severity  of  the  risk, COSO
+                              suggests the use of qualitative and quantitative approaches in
+                            assessment processes. Scenario analysis may be appropriate in
+                              assessing risks that could have an extreme impact.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+3.14           DIGITAL ECOSYSTEM AND CONTROLS
+
+ Prioritizes Risk            The organization prioritizes risks as a basis for selecting risk
+                             responses using appropriate criteria. Risk criteria might include
+                                    adaptability, complexity, velocity, persistence and recovery, as
+                                   well as acceptable variation in performance.
+ Implements           Risk  Risk responses may accept, avoid, exploit, reduce and share
+ Responses                        risk. In selecting risk responses, management considers such
+                                   factors as the business context, costs and benefits, severity of
+                                the risk, and the appetite for risk.
+ Develops Portfolio View       Portfolio view is a composite view of the risks the organization
+                               faces relative to business objectives, which allows management
+                           and the board to consider the nature, likelihood, relative size, and
+                               interdependencies   of   risks,  and  how  they  may   affect
+                              performance.
+
+4.    Review and Revision: The fourth component focuses on monitoring risk management
+performance. By reviewing organization performance, an organization can effectively monitor how
+well the ERM components are functioning over time and following substantial change, emerging
+risks and what revisions are necessary. There are three principles for this component as provided
+in the Table 3.4 below:
+                      Table 3.4: Principles of Review and Revision
+ Assesses       Substantial  Change can create significant competitor performance gaps or
+ Change                         invalidate critical assumptions underlying strategy. Monitoring
+                                  substantial change  is  built  into business processes  in  the
+                                 ordinary course of running the business.
+ Reviews     Risk     and  Risk responses must be evaluated to ensure they are performing
+ Performance                as intended. The task of assessing risk responses is typically
+                          owned by those accountable for the effective management of
+                                     identified risks and by assurance providers.
+ Pursues  Improvement  in  ERM should be improved continuously over time. Even mature
+ ERM                 ERM processes can become more  efficient and effective  in
+                                 increasing   its  value  contributed.  Embedding  continuous
+                                evaluations can systematically identify improvements.
+
+5.     Information, Communication and Reporting: The final component recognizes the vital
+need for a continuous process to obtain and share relevant information. ERM requires a continual
+process of obtaining and sharing necessary information, from both internal and external sources,
+which flows up, down, and across the organization. There are three principles for this component as
+provided in the Table 3.5 below:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+ENTERPRISE RISK MANAGEMENT FRAMEWORK             3.15
+
+             Table 3.5: Principles of Information, Communication and Reporting
+ Leverages Information and   Information systems provide the organization with the data and
+ Technology                   information  to support ERM. Factors influencing technology
+                                  selection include the strategy, marketplace needs, competitive
+                                requirements, and the associated costs and benefits.
+ Communicates        Risk  The organization reports on risk at multiple levels across the
+ Information                    organization.   Organizations  use   different   channels   to
+                            communicate risk data and information to internal and external
+                                 stakeholders.
+ Reports on  Risk,  Culture  Risk reporting encompasses information required to support
+ and Performance             decision-making and enable the board and others to fulfill their
+                                      risk oversight responsibilities. There are many different types of
+                                 reports on risk, culture, and performance.
+
+The organizations need to identify the best framework for optimizing strategy and performance to
+integrate ERM throughout the organization to achieve benefits, including the following factors as
+given in the Table 3.6 below:
+                   Table 3.6: Factors to integrate ERM in an organization
+ Factors                     Explanation
+ Increase   the  range   of  To identify new opportunities and unique challenges associated
+ Opportunities                  with current opportunities.
+ Identify and manage  the  To identify and manage the entity-wide risks to sustain and
+ risk entity-wide              improve performance.
+ Increase positive outcomes  To identify responses, reduce surprises and related costs or
+ and    reduce    negative   losses, while profiting from advantageous developments.
+ surprises
+ Reduce       performance  To anticipate the risks that would affect performance and put in
+ variability                    place the actions needed to minimize disruption and maximize
+                                  opportunity.
+ Improve          resource  To  assess   overall  resource  needs,   prioritize  resource
+ deployment                  deployment, and enhance resource allocation.
+ Enhance         enterprise  To anticipate and respond to change, not only to survive but also
+ resilience                       to evolve and thrive.
+Implementing ERM
+Implementing an ERM approach in an organization will certainly affect its culture that may further
+require process and behavioral modification from everyone involved.  It is likely to be an ongoing
+process that involves applying an initial methodology and through iterations continuously improving
+the process, to enable as mature and embedded an approach as possible within the organization.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+3.16           DIGITAL ECOSYSTEM AND CONTROLS
+
+Whilst ERM is an embedded process in some organizations and being adopted by others. There is
+no single, combined or overwhelmingly accepted methodology that forms ERM and will vary between
+organizations.
+Implementing Risk Management by PIML (Plan, Implement, Measure and Learn)
+
+
+                                                                       • Agree
+  • Identify benefits                                                           assessment    &
+    • Scope initiative                                                                     evaluation tools
+    •  Establish Strategy                                                                                           •  Establish
+                                                                                 benchmarks/set
+                                                                                          objectives
+                                                                                                                           •  Determine    risk
+                                                                                            appetite      and
+                   PLANNING   IMPLEMENTING             tolerance
+
+
+                                                                        • Evaluate
+     • Monitor risk         LEARNING    MEASURING                 effectiveness     of
+       performance                                                                      controls
+                                                                                                                             •  Align           risk         • Measure ERM                                                                        management   with       contribution                                                                                        other activities         • Reporting in line                                                                                                                             • Embed  risk-aware       with obligations                                                                                             culture
+
+
+                         Fig. 3.3: Implementing Risk Management by PIML
+
+The center arrow in the Fig. 3.3 indicates that it’s a continuous process such that once the process
+gets completed from planning to learning, the next round of planning with the scope of improvement
+after an appropriate time and regular review is required. Refer Table 3.7 for PIML description.
+                               Table 3.7: PIML Description
+ Planning          1. Identify intended benefits of the ERM initiative and gain board support.
+                     2. Plan the scope of the ERM initiative and develop common language of risk.
+                     3. Establish the ERM strategy, framework, and the roles and responsibilities.
+ Implementing    4. Adopt suitable risk assessment tools and an agreed  risk classification
+                  system.
+                     5. Establish risk benchmarks and undertake risk assessments.
+                     6. Determine risk appetite and risk tolerance levels and evaluate the existing
+                     controls.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+ENTERPRISE RISK MANAGEMENT FRAMEWORK             3.17
+
+ Measuring        7. Evaluate the effectiveness of existing controls and introduce improvements.
+                     8. The risk management activities should be designed to be aligned as far as
+                   possible with the existing processes within the organization.
+                     9. Embed risk-aware culture and align risk management with other activities in
+                   the organization.
+ Learning         10.  Monitor and  review  risk  performance  indicators  to measure ERM
+                     contribution.
+                   11. Report risk performance in line with obligations and monitor improvement.
+
+SUMMARY
+The chapter has highlighted the need for implementing the right type of IT controls as IT is pervasive
+in all types of enterprises today. For implementing IT controls,  it is important to consider both
+regulatory and management perspectives  to ensure that both conformance and performance
+perspectives are covered. The key concepts of Governance, Enterprise Governance, Corporate
+Governance, IT Governance and Governance of Enterprise IT along with the Enterprise Risk
+Management have been explained. This  will enable us  to  identify governance practices as
+implemented in enterprises and confirm their adequacy. This chapter has also provided an overview
+of the  critical role of IT in achieving business objectives. Finally, the features of the COSO
+frameworks are being addressed. COSO frameworks have more focus on the internal environment,
+rather than  the  influence  of  the business environment,  regulatory  conditions, and  external
+stakeholders. COSO ERM risks are mostly about losses and risk response is about reducing the
+likelihood and severity of losses, rather than examining the taking of risk to achieve return. This
+chapter has also provided an overview of the critical role of IT in achieving business objectives.
+
+               TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.     Enterprise Risk Management (ERM) framework consists of interrelated components that are
+      used to identify events that are relevant to organization’s objective. Identify which of the
+       following is not a component of ERM Framework.
+       (a)    Internal environment
+       (b)    Organization chart
+        (c)    Objective setting
+       (d)    Event identification
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+3.18           DIGITAL ECOSYSTEM AND CONTROLS
+
+2.     Mr. Anil is working with XYZ Company that is under the process of adopting Enterprise
+      Resource Management (ERM) framework. He prepared a list of policies and procedures that
+      need to be established and executed to ensure that the risk responses that management
+       selected are effectively carried out. Which component of ERM is referred here during this
+        activity?
+        (a)    Risk Assessment
+        (b)    Control Activities
+        (c)    Information and Communication
+        (d)    Monitoring
+3.     In COSO ERM Cube, …….. are the policies and procedures that are established and
+      executed to help ensure that the risk responses that management selected are effectively
+       carried out.
+        (a)    Control Activities
+       (b)    Risk Management
+        (c)    Risk Response
+       (d)    Objective Setting
+4.     Following are the benefits to integrate ERM throughout the organization. Choose the odd one out.
+       (a)    increase positive outcomes and reduce negative surprises.
+       (b)    reduce performance variability and maximize disruption.
+        (c)    improve resource deployment and enhance resource allocation.
+       (d)   enhance enterprise resilience, not only to survive but allocation
+5.    Which of the following “Principles for Performance” provides the composite view of risks that
+       organization faces relative to business objectives?
+       (a)    Implementation of Risk Reponses
+       (b)   Development of Portfolio view
+        (c)     Prioritization of Risk
+       (d)    Formulation of Business Objective
+
+ANSWERS/SOLUTIONS
+     1.        (b)        2.        (d)        3.        (a)        4.        (b)        5.       (b)
+
+
+© The Institute of Chartered Accountants of India

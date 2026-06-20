@@ -1,0 +1,1958 @@
+Source PDF: 07_SPOM/Set_C_09_Financial_Services_Capital_Markets/006 - CHAPTER 5- MONEY MARKET - 79357bos63450-cp5.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_09_Financial_Services_Capital_Markets\006 - CHAPTER 5- MONEY MARKET - 79357bos63450-cp5.pdf
+Extracted at: 2026-05-31T10:34:26+05:30
+Pages: 50
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          5
+         1
+MONEY MARKET
+
+
+                       LEARNING OUTCOMES
+
+After going through the chapter student shall be able to understand:
+•   Basics of Money Market
+•   Money Market Participants (Institutions)
+        (i)   Reserve Bank of India (RBI)
+        (ii)  Schedule Commercial Banks (SCBs)
+         (iii)  Co-operative Banks
+       (iv)  Financial and Investment Institutions
+      (v)  Corporates
+       (vi)  Mutual Funds
+       (vii) Discount and Finance House of India
+•   Money Market Instruments
+      (a)   Call/Notice money
+      (b)  Treasury Bills (TBs)
+      (c)  Commercial Bills
+      (d)   Certificate of Deposits (CDs)
+      (e)  Commercial Paper
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+5.2           FINANCIAL SERVICES AND CAPITAL MARKET
+
+•   CRR, SLR
+•    Determination of Interest Rates
+       (I)  MIBOR
+        (II)  LIBOR
+•   Government Securities Market
+•   Recent Development in Money Market
+        (i)   Debt Securitization
+        (ii)  Money Market Mutual Funds (MMMFs)
+•   Repurchase Options  (Repo.), Reverse Repurchase Agreement
+    (Reverse Repo) and Ready Forward (RF) Contracts
+•   Day Count Convention
+CHAPTER OVERVIEW
+
+
+                  Impact of Various Policies of Financial Markets
+
+
+                        Money Market Participants (Institutions)
+
+   Reserve    Scheduled                   Financial &                 Mutual      Discound
+   Bank of    Commercial   Co-operative   Investment   Corporates    Funds     and Finance     India       Banks       Banks       Institutions                          House of                                                                                                India
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+MONEY MARKET             5.3
+
+                            Money Market Instruments
+
+                                     Call/Notice Money
+
+                                   Treasury Bills
+
+                               Commercial Bills
+
+                                     Certificate of Deposits
+
+                               Commercial Paper
+   CRR and SLR
+
+
+                                 Determination of Interest Rates
+
+
+                       MIBOR                LIBOR
+
+   Government Securities Market
+
+
+                              Recent Developments in Money
+                                          Market
+
+
+             Debt Securitization               Money Market Mutual Funds
+
+   Repo, Reverse Repo and Ready Forward Contracts
+
+   Day Count Convention
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+5.4           FINANCIAL SERVICES AND CAPITAL MARKET
+
+     1.  BASICS OF MONEY MARKET
+The financial system of any country is a conglomeration of sub-markets, viz. money, capital, and
+forex markets. The flow of funds in these markets is multidirectional depending upon demand and
+supply,  liquidity,  risk  profile, yield pattern, interest rate  differential or arbitrage opportunities,
+regulatory restrictions, etc. The role of money market in the overall financial system is prime in as
+much as the market acts as a mechanism for ironing out short-term surpluses and deficits and
+provides a focal point for Central Bank's intervention to bring out variations in liquidity profile in the
+economy.
+Money Market is the market for short-term funds, generally ranging from overnight to a year. It helps
+in meeting the short-term and very short-term requirements of banks, financial institutions, firms,
+companies, and the Government. On the other hand, the surplus funds for short periods, with the
+individuals and other savers, are mobilized through the market and made available to the aforesaid
+entities for utilization by them. Thus, the money market provides a mechanism for ironing out short-
+term liquidity imbalances within an economy. Hence, the presence of an active and vibrant money
+market is an essential pre-requisite for growth and development of an economy.
+As the Indian economy gets integrated with the global economy, the demand for borrowing and
+lending options for the corporates and the financial institutions increases every day. The major
+players in the money market are the Reserve Bank of India and financial institutions like the UTI,
+GIC, and LIC.
+While the call money rates have been deregulated and left to the demand and supply forces of the
+market, the RBI intervenes in the repos through its subsidiaries. The RBI also acts in the foreign
+exchange market, where it sells US dollars to stabilize the rupee-dollar exchange rate.
+1.1  Conceptual Framework
+The money market is a market for short-term financial assets which can be turned over quickly at
+low cost.  It provides an avenue for equilibrating the short-term surplus funds of lenders and the
+requirements of borrowers. It, thus, provides reasonable access to the users of short-term money to
+meet their requirements at realistic prices. Short term financial asset in this context may be
+construed as any  financial asset which can be quickly converted into money with minimum
+transaction cost within a period of one year and is termed as a close substitute for money or near
+money.
+The money market thus may be defined as a market in which financial institutions congregate for
+the purpose of dealing impersonally in monetary assets. In a wider spectrum, a money market can
+be defined as a market for short-term money and financial assets that are near substitutes for money.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+MONEY MARKET             5.5
+
+The term short-term generally means a period up to one year and near substitutes to money is used
+to denote any financial asset which can be quickly converted into money with minimum transaction
+cost.
+This is a market for borrowing and lending short-term funds. Banks, financial institutions, investment
+institutions, and corporates attempt to manage the mismatch between inflow and outflow of funds
+by lending in or borrowing from the money market.
+Basic understanding about the money market is that all the institutions and stakeholders do not
+always have optimum money supply available to them. The money supply to them is not as per the
+requirement but it is as per the normal process of business. Sometimes it is less and sometimes its
+is more. Thus, Banks, Govt, Corporates and Financial Institutions and other entities at times may
+have excess money and sometimes shortage of money for a short period, because the future cash
+flows will bring it to normal level. But till the time it happens, they must fulfill the requirement. The
+place where entities with surplus money and shortage of money meet is known as money market.
+Money market instruments are issued at discount and repaid at par, thus effectively those who
+require funds pays for their use and those who have surplus funds earn on it.
+1.2  The Distinct Features of Money Market
+(i)    The money market is a collection of various sub-markets, such as, call money, notice money,
+       repo’s, term money, treasury  bills, commercial  bills, certificate of deposits, commercial
+      papers, etc. and is concerned to deal type of assets, the chief characteristic is its relative
+        liquidity. All the sub-markets have close inter-relationship and free movement of funds from
+      one sub-market to another. There must be a network of large numbers of participants which
+         will add greater depth to the market.
+(ii)   The activities in the money market tend to concentrate in some center which serves as a
+       region or an area; the width of such area may vary considerably in some markets like London
+      and New York which have become world financial centres. Where more than one market
+       exists in a country, with screen-based trading and revolutions in information technology, such
+      markets have rapidly become integrated into a national market. In India, Mumbai is emerging
+      as a national market for money market instruments.
+(iii)   The relationship that characterizes a money market should be impersonal in character so that
+       competition will be relatively pure.
+(iv)    In a true money market, price differentials for assets of similar type (counterparty, maturity,
+      and liquidity) will tend to be eliminated by the interplay of demand and supply. Even for similar
+      types of assets, some differential will no doubt continue to exist at any given point of time
+      which gives scope for arbitrage.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+5.6           FINANCIAL SERVICES AND CAPITAL MARKET
+
+(v)   Due to greater flexibility in the regulatory framework, there are constant endeavours for
+       introducing new instruments/innovative dealing techniques; and
+(vi)      It is a wholesale market and the volume of funds or financial assets traded in the market are
+       very large.
+(vii)   The Indian money market has a dichotomic structure. It has a simultaneous existence of both
+       the organized money market as well as unorganized money markets. The organized money
+      market consists of RBI, all scheduled commercial banks, and other recognized financial
+        institutions. However, the unorganized part of the money market comprises domestic money
+       lenders, indigenous bankers, traders, etc. The organized money market is in full control of
+       the RBI. However, the unorganized money market remains outside RBI control.
+(viii)  The demand for money in Indian money market is of a seasonal nature. India being an
+       agriculture predominant economy, the demand for money is generated from the agricultural
+       operations. During the busy season  i.e., between October and  April more agricultural
+        activities take place leading to a higher demand for money.
+(ix)    In our money market the supply of various instruments such as the Treasury Bills, Commercial
+         Bills, Certificate of Deposits, Commercial Papers, etc. is very limited. To meet the varied
+      requirements of borrowers and lenders, it is necessary to develop numerous instruments.
+1.3  Preconditions for an Efficient Money Market
+A well-developed money market has following characteristics–
+(a)    uses a broad range of financial instruments (treasury bills, bills of exchange etc).
+(b)    channelizes savings into productive investments (like working capital),
+(c)    promote financial mobility in the form of inter sectoral flows of funds and
+(d)     facilitate the implementation of monetary policy by way of open market operations.
+However, the development of a money market into a sophisticated market depends upon certain
+critical conditions. They are:
+(i)     Institutional development, relative political stability and a reasonably well-developed banking
+      and financial system.
+(ii)    Unlike capital market or commodity markets, trading in money market are concluded over
+      telephone followed by written confirmation from the contracting parties. Hence, integrity is
+       sine qua non. Thus, banks and other players in the market may have to be licensed and
+        effectively supervised by regulators.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+MONEY MARKET             5.7
+
+(iii)   The market should be able to provide an investment outlet for any temporary surplus funds
+       that may be available. Thus, there must be supply of temporarily idle cash that is seeking
+       short-term investment in an earning asset. There must also exist a demand for temporarily
+       available cash either from banks or financial institutions for the purpose of adjusting their
+        liquidity position and financing the carrying of the relevant assets in their balance sheets.
+(iv)    Efficient payment systems for clearing and settlement of transactions. The introduction of
+       Electronic Funds Transfer (EFT), Depository System, Delivery versus Payment (DVP), High
+      Value Inter-bank Payment System, etc. are essential pre-requisites for ensuring a risk free
+      and transparent payment and settlement system.
+(v)    Government/Central Bank intervention to moderate liquidity profile.
+(vi)   Strong Central Bank to ensure credibility in the system and to supervise the players in the
+      market.
+(vii)   The market should have varied instruments with distinctive maturity and risk profiles to meet
+       the varied appetite of the players in the market. Multiple instruments add strength and depth
+       to the market; and
+(viii)  Market should be integrated with the rest of the markets in the financial system to ensure
+       perfect equilibrium. The funds should move from one segment of the market to another to
+       exploit the advantages of arbitrage opportunities.
+(ix)    In India, as many banks keep large funds for liquidity purpose, the use of the commercial bills
+        is very limited. RBI should encourage banks to make use of commercial papers instead of
+      making transactions in cash.
+The money market in India has been undergoing rapid transformation in the recent years in the wake
+of deregulation process initiated by Government of India/Reserve Bank of India. The institutions of
+Primary Dealers (PDs) and Satellite Dealers have been set up as specialised institutions to facilitate
+an active secondary market for money market instruments. New money market instruments have
+been introduced and more institutions have been permitted as players in the market. Interest rates
+in respect of all money market instruments have been completely freed and are allowed to be fixed
+in terms of market forces of demand and supply.
+1.4  Rigidities in the Indian Money Market
+Notwithstanding the deregulation process initiated by the Reserve Bank of India and several
+innovations, the money market is not free from certain rigidities which are hampering the growth of
+the market. The most important rigidities in the Indian money market are:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+5.8           FINANCIAL SERVICES AND CAPITAL MARKET
+
+(i)    Markets are not integrated: Money market in India is not well integrated. There is a well-
+      developed secondary capital market in India, which does not exist in money market.
+(ii)    Restricted Players: Only Government, banks, FII and big companies are involved in the
+     money market. Retail investors are rarely interested in the money market, making it restricted
+       to only corporates, the Government, and the foreign Institutional Investors (Fll’s).
+(iii)   Supply based-sources influence uses: Banks are generally the main sources of funds in
+       the money market. Commercial Banks are main  supplier  of funds  in Money Market
+      Instruments especially RBI which issues Treasury Bills on behalf of the Government of India.
+(iv)   Fewer instruments: Unlike European Market, only few money market instruments are
+       available in India i.e., Treasury bill, commercial papers, commercial bill, certificate of deposit
+      and call/notice money in India.
+(v)   Reserve requirements: There are fixed reserve requirements in the case of Cash Reserve
+       Ratio (CRR) and Statutory Liquidity Ratio (SLR) which banks must always maintain. CRR is
+       the reserve which banks must keep with RBI. Whereas SLR is the reserve which banks must
+      keep with themselves, thus restricting the flow of money market instruments.
+(vi)   Lack of transparency: There is a lack of transparency in the money market because the
+      secondary market is not very well developed. Since the transactions are done “Over the
+      Counter (OTC)”, there is lack of transparency and public information.
+(vii)  Commercial transactions are mainly in cash: Since most of the transactions are made
+      through cash, the circulation of funds in money market instruments is restricted.
+(viii)  Heavy Stamp duty limiting use of exchange bills: In case of issuance of commercial bills,
+      stamp duty is paid in case of bill of exchange, thus limiting their use. Further, in the case of
+      Commercial Paper (CP), the stamp duty rates applicable to non-bank entities are five times
+       higher than those applicable to banks. Moreover, a CP attracts stamp duty for 90 days
+       irrespective of tenure. Hence, CP issued for a shorter period attracts higher stamp duty,
+      making it an expensive financial instrument.
+1.5  Distinction between Capital and Money Market
+There  is, however, basically a difference between the money market and capital market. The
+operations in the money market are for a duration up to one year and deal in short term financial
+assets whereas in capital market operations are for a longer period beyond one year and therefore,
+deal in medium and long term financial assets. Secondly, the money market is not a well-defined
+place like the capital market where business is done in a defined place viz. stock exchange. The
+transactions in the money market are done through electronic media and other written documents.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+MONEY MARKET             5.9
+
+The major points of distinction are enumerated as follows:
+(1)    In the Capital Market, there is classification between Primary Market and Secondary Market.
+      However, there is no such sub-division in the money market, as such. However, slowly a
+      secondary market in greater form is coming up in Money Market also.
+(2)    Capital Market deals with funding of long-term financial requirements. In contrast, the Money
+      Market generally supplies funds for short-term financial requirements.
+(3)       If the volume of business of Capital Market is considered (both Primary and Secondary
+       Markets), it will lag the total value of transactions in Money Market.
+(4)    While the number of instruments dealt with in the Money Market are many like
+        (a)    Interbank Call Money,
+        (b)    Notice Money upto 14 days
+        (c)    Short-term deposits upto 3 months
+        (d)    91-days Treasury Bill
+       (e)    182-days Treasury Bill
+          (f)    Commercial Paper etc.
+     The number of instruments in the Capital Market are limited i.e., Shares and Debentures.
+(5)   The players in Capital Market are general investors, brokers, Merchant Bankers, Registrar to
+       the issue, Custodians, Depositories, Clearing House, Exchanges, underwriters, Corporate
+       Investors, Foreign Financial Institutions (Fll) and Bankers. While in the money market, the
+       participants are Bankers, RBI and Government.
+(6)    Rate of interest in money market is controlled by RBI or central bank of any country. But
+       capital market’s interest and dividend rate depend on demand and supply of securities and
+       conditions of stock market. The regulation of the stock market is in the hands of SEBI.
+(7)   The degree of risk is small in the money market. The risk is much greater in the capital market.
+     The maturity of one year or less gives more visibility and little time for a default to occur, so
+       the risk is minimized. Risk varies both in degree and nature throughout the capital market.
+(8)   The money market is closely and directly linked with the central bank of the country. The
+       capital market feels the central bank's influence, but mainly indirectly and through the money
+      market.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+5.10           FINANCIAL SERVICES AND CAPITAL MARKET
+
+                    Distinction between Money Market and Capital Market
+                   Basis               Money Market           Capital Maket
+         1.     Maturity of Instruments      1 year or less           More than 1 year
+         2.    Risks                     Less                  More and varied
+         3.    Instruments                Treasury bills, CDs, etc   Shares, bonds, etc
+         4.    Finance                    Short term              Long term
+         5.     Relation with Central Bank   Direct                       Indirect
+
+1.6  The Participants
+The money market in India, as many other less developed countries, is characterized by two
+segments -
+1.    Organized Segment
+2.    Unorganized Segment
+The principal intermediaries in the organized segment are:
+(a)   The commercial and other banks,
+(b)    Non-banking finance companies and
+(c)    Co-operative societies.
+The primary activity of these intermediaries is to accept deposits from the public and lend them on
+a short-term basis to industrial and trading organizations. In recent years, they have extended their
+activities to rural areas to support agricultural operations. There is also an active inter-bank loan
+market as part of the organized money market.
+The salient features of the organized money market in India are:
+(i)   A significant part if its operations which is dominated by commercial banks, is subject to tight
+       control by the Reserve Bank of India which -
+       (a)    regulates  the  interest  rate  structure  (on  deposits as  well as  loans),  reserve
+             requirements and sectoral allocation of credit and
+       (b)    provides support to the banks by lending them on a short-term basis and insuring the
+             deposits made by the public.
+(ii)       It is characterized by rigid and complex rules which may prevent it from meeting the needs of
+     some borrowers even though funds may be available.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+MONEY MARKET             5.11
+
+(iii)    Overall, there is a paucity of loanable funds, mainly because of the low rate of interest paid
+      on deposits.
+The principal participants in the unorganized money market are:
+(a)   Money Lenders,
+(b)    Indigenous Bankers,
+(c)    Nidhis (mutual loan associations) and
+(d)    Chit Funds.
+They lend primarily to borrowers who are not able to get credit from the organized money market.
+The characteristics of the unorganized money market are:
+(i)     informal procedures,
+(ii)     flexible terms,
+(iii)    attractive rates of interest to depositors and
+(iv)    high rates of interest to borrowers.
+The size of the unorganized money market is difficult to estimate, though  it appears to be large.
+However,  its importance relative to that of the organized money market is declining. This is a
+welcome development from the point of view of the Reserve Bank of India because the existence of
+a large unorganized market frustrates its efforts to control credit.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+5.12           FINANCIAL SERVICES AND CAPITAL MARKET
+
+     2.  MONEY MARKET PARTICIPANTS (INSTITUTIONS)
+The important institutions operating in money market are:
+(i)    Reserve Bank of India (RBI): RBI is the most important participant of money market which
+takes requisite measures to implement monetary policy of the country. As the Central bank, RBI
+regulates the money market in India and injects liquidity in the banking system, when it is deficient
+or contracts the same in opposite situation.
+(ii)   Scheduled Commercial Banks (SCBs): SCBs form the nucleus of the money market. They
+are the most important borrower/supplier of short-term funds. They mobilize the savings of the
+people through acceptance of deposits and lend it to business houses for their short-term working
+capital requirements. While a portion of these deposits  is invested in medium and long-term
+Government securities and corporate shares and bonds, they provide short-term funds to the
+Government by investing in the Treasury Bills.
+(iii)   Co-operative Banks: Function similarly to the commercial banks.
+(iv)   Financial and Investment Institutions: These institutions (e.g., LIC, UTI, GIC, Development
+Banks etc.) have been allowed to participate in the call money market as lenders only.
+(v)    Corporates: Companies create demand for funds from the banking system. They raise short-
+term funds directly from the money market by issuing commercial paper. Moreover, they accept
+public deposits and indulge in inter-corporate deposits and investments.
+(vi)   Mutual Funds: Mutual funds also invest their surplus funds  in various money market
+instruments for short periods. They are also permitted to participate in the Call Money Market. Money
+Market Mutual Funds have been set up specifically for the purpose of mobilization of short-term
+funds for investment in money market instruments.
+(vii)  Discount and Finance House of India: The Discount and Finance House of India Limited
+(DFHI) has been set up by the Reserve Bank of India jointly with public sector banks and all–India
+financial institutions to deal in short-term money market instruments. It started operations in April
+1988. At present DFHI participates in the inter-bank call/notice money market and term deposit
+market, both as lender and borrower. It also rediscounts 182 Days Treasury Bills, commercial bills,
+CDs, and CPs.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+MONEY MARKET             5.13
+
+     3.  MONEY MARKET INSTRUMENTS
+The money market in India is an important source of finance to industry, trade, commerce, and the
+government sector for both national and international trade through bills–treasury/commercial,
+commercial papers and other financial instruments and provides an opportunity to the banks to
+deploy their surplus funds to reduce their cost of liquidity. The money market also provides leverage
+to the Reserve Bank of India to effectively implement and monitor its monetary policy.
+The instruments of money market are characterised by -
+(a)    short duration,
+(b)    large volume
+(c)    de–regulated interest rates.
+(d)   The instruments are highly liquid.
+(e)   They are safe investments owing to issuers inherent financial strength.
+The traditional short-term money market instruments consist of mainly call money and notice money
+with limited players, treasury bills and commercial bills. The new money market instruments were
+introduced giving a wider choice to short term holders of money to reap yield on funds even for a
+day or two to earn a little more by parking funds through instruments for a few days more or until
+such time till they need it for lending at a higher rate.
+The instruments used by above-mentioned players to borrow or lend in the money market, include,
+inter-alia, treasury bills (T-bills), Government of India securities (GOI secs), State government
+securities, government guaranteed bonds, public sector undertaking (PSU) bonds, commercial
+paper (CP) and certificates of deposit (CDs). Banks, which require short-term funds, borrow, or sell
+these securities and those having surplus funds would lend or buy the securities. Banks experiencing
+a temporary rise (fall) in their deposits and hence, a temporary rise (fall) in their statutory liquidity
+ratio (SLR) obligations, can borrow (lend) SLR securities from those experiencing a temporary fall
+(rise) in their deposits. Banks invest in T-bills, GOI and State government securities, government-
+guaranteed bonds, and PSU bonds to fulfill their SLR obligations.
+The tenure of money market instruments is not standardized, and periodicity differs, further the short-
+term interest rates also fluctuate, thus, the instruments cannot be issued at specific interest rate.
+Therefore, money market instruments are issued at a discount and redeemable at par, but how much
+discount should be there shall be decided by the short-term interest rates prevailing in the market.
+Because the giver of funds also wants a return on the money. The discount is calculated on the
+basis of short-term interest rates prevailing in the market which are called as (overnight MIBOR +
+Premium). MIBOR is Mumbai Interbank Offer Rate.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+5.14           FINANCIAL SERVICES AND CAPITAL MARKET
+
+The various features of individual instruments of money market are discussed in the following
+paragraphs:
+3.1  Call/Notice money
+Call money market, or inter-bank call money market, is a segment of the money market where
+scheduled commercial banks lend or borrow on call (i.e., overnight) or at short notice (i.e., for periods
+upto 14 days called notice money) to manage the day-to-day surpluses and deficits in their cash-
+flows.
+However, under notice money market, funds are transacted for a period between two days and
+fourteen days. These day-to-day surpluses and deficits arise due to the very nature of their
+operations and the peculiar nature of the portfolios of their assets and liabilities.
+(i)    Location: The core of the Indian money market structure is the inter-bank call money market,
+which is centralized primarily in Mumbai, but with sub-markets in Delhi, Kolkata, Chennai, and
+Ahmedabad.
+(ii)    Duration: The activities in the call money are confined generally to inter-bank business,
+predominantly on an overnight basis, although a small amount of business, known as notice money,
+was also transacted side by side with call money with a maximum period of 14 days.
+(iii)   Participants:
+a.    Those who can both borrow as well as lend in the market are RBI, Commercial Banks, Co-
+       operative banks, and Primary Dealers.
+b.    Non-bank institutions (other than PDs) are not permitted in the call/notice money market.
+(iv)   Features:
+a.     Current and expected interest rates on call money are the basic rates to which other money
+      markets and to some extent the Government securities market is anchored.
+b.     Interest rate in the market is market driven and is highly sensitive to the forces of demand
+      and supply. Within one fortnight, rates are known to have moved very high and may even
+      touch a level as low as 0.50% to 1%. Intra-day variations are also quite large. Hence, the
+       participants in the markets are exposed to a high degree of interest rate risk.
+     The call money rates have been fluctuating widely, going upto 70 per cent and dropping to
+      around 3 per cent in the recent past.
+      For many years, while a set of institutions like State Bank of India, UTI, LIC, GIC, etc. continue
+       to be lenders, some banks which have limited branch network are regular borrowers.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+MONEY MARKET             5.15
+
+c.     Although by no means as pronounced as it was once, the activities in the money market are
+      subjected to fluctuations due to seasonal factors, i.e., busy (November to April) and slack
+      (May to October) seasons.
+d.    One of the most important factors contributing to volatility in the market is mismatches in
+      assets and liabilities created by the banks. Some banks over-extended themselves by using
+        call money borrowings to finance the build-up of a large portfolio of Government of India
+       securities, other long–term assets and non-food credit. It is this asset-liability mismatch which
+       resulted in sporadic volatility in the market.
+e.     Apart from the mismatches in assets and liabilities, the inherent weaknesses of the banks to
+      reasonably forecast their liquidity position had often pushed some of them to the state of
+      severe liquidity crunch.
+f.     Large-scale diversion of working capital facilities for lending in the inter-corporate deposit
+      market and investments in other treasury products by blue-chip companies amply testify the
+      malady in the current system of working capital financing and its impact on the call money
+      market. The uneasy calm in the money market is attributed to the corporates hunting for
+      cheaper funds in the Euro Dollar and Indian money markets.
+3.2  Treasury Bills (TBs)
+Treasury Bills are one of the most popular money market instruments issued by the Reserve Bank
+of India on behalf of the Government of India. T- Bills are generally issued to ward off short-term
+mismatches in receipts and expenditure. Therefore, the purpose of issuing Treasury Bills is to tackle
+short term liquidity problems. Treasury bills are generally issued at a discount and redeemed at par.
+The difference between the issued amount and the redemption amount is the amount of interest
+which is to be paid to the holder of the treasury bills. Thus, the TBs are short-term promissory notes
+issued by Government of India at a discount.
+More relevant to the money market is the introduction of 14 days, 28 days, 91 days, and 364 days
+TBs on auction basis. To provide investors with instruments of varying short-term maturities,
+Government of India introduced the auction of 14 days TBs since June 1997. Further, with a view to
+developing the TBs market and moving towards a market rate of interest on Government securities,
+the auction of 91 days TBs was first introduced in January 1993. The amount to be auctioned will be
+pre-announced and cut off rate of discount and the corresponding issue price will be determined in
+each auction.
+The amount and rate of discount is determined based on the bids at the auctions. While the uniform
+price auction method is followed in respect of 91 days TBs, the cut off yield of other TBs are
+determined based on discriminatory price auctions. The non-competitive bids in respect of 14 and
+364 days TBs are accepted outside the notified amount. The discretion to accept non-competitive
+bids fully or partially rests with RBI. The amount to be accepted at the auctions and the cut-off price
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+5.16           FINANCIAL SERVICES AND CAPITAL MARKET
+
+are decided by the Reserve Bank of India based on its public debt management policy, the conditions
+in money market and the monetary policy stance.
+Although the State Government also issued treasury bills until 1950, since then it has been only the
+Central Government that has been selling them. In terms of liquidity, for short term financing, the
+descending order is cash, call loans, treasury bills and commercial bills. Although the degree of
+liquidity of treasury bills are greater than trade bills, they are not self-liquidating as the genuine trade
+bills are. T-bills are claimed against the government and do not require any grading or further
+endorsement or acceptance.
+Following the abolition of 91 days Tap TBs, 14 days Intermediate TBs were introduced with effect
+from 1st April 1997. The 14 days TBs are available on tap. State Governments, foreign, Central
+Banks and other specialised bodies with whom RBI has an agreement are only allowed to invest in
+these TBs.
+However, at present, the RBI issues Treasury Bills of three maturities i.e., 91 days, 182 days,
+and 364 days.
+TBs are issued at discount and their yields can be calculated with the help of the following formula:
+                    −F P   365                           Y =      ×   × 100                                                                                      P      M
+where      Y  =  Yield,
+    F       =  Face Value,
+    P       =  Issue Price/Purchase Price,
+   M      =   Maturity.
+Example
+Enormous Money Ltd has enough cash on hand as of April 1, 2023, to last three months. For
+investing the extra money, it is considering purchasing TBs with a face value of ` 100 that mature
+in 64 days at a price of 98.25. Calculate the yield.
+Calculation of Yield of Treasury Bill
+= {(Face Value – Issue Price)/Issue Price} x (364/Maturity Period) x 100
+= {(100 – 98.25)/98.25} x (364/64) x 100 = 10.13%
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+MONEY MARKET             5.17
+
+
+                            Treasury Bills – Ownership Pattern
+(Source: RBI website)
+3.2.1 Features of T-bills
+Some of the significant features of T-bills are as follows:
+(i)    Form: The treasury bills are issued in the form of promissory note in physical form or by
+credit to Subsidiary General Ledger (SGL) account or Gilt account in dematerialized form.
+(ii)     Eligibility: TBs can be purchased by any person, firm, company, body corporate and
+institutions. State Government, Non-Government Provident Funds governed by the PF Act, 1925
+and Employees Provident Fund and Miscellaneous Provisions Act, 1952 are eligible to participate in
+the auctions of 14 days and 91 days TBs on a non-competitive basis. Non-competitive bids are
+accepted at the weighted average price arrived at based on competitive bids accepted at the
+auctions. TBs are approved securities for the purpose of SLR. While Reserve Bank of India does
+not participate in the auctions of 14 days and 364 days TBs, it will be at its liberty to participate in
+the auctions and to buy part or the whole of the amount notified in respect of 91 days TBs.
+(iii)  Minimum Amount of Bids: TBs are issued in lots of ` 25,000.
+(iv)   Repayment: The treasury bills are repaid at par on the expiry of their tenor at the office of
+the Reserve Bank of India, Mumbai.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+5.18           FINANCIAL SERVICES AND CAPITAL MARKET
+
+(v)    Availability: All the treasury Bills are highly liquid instruments available both in the primary
+and secondary market.
+(vi)   Day Count: For treasury bills the day count is taken as 364 days for a year.
+3.2.2 Additional Features
+T- Bills have the following additional features:
+(1)    Government’s contribution to the money market,
+(2)   Mop-up short-term funds in the money market,
+(3)    Sold through auctions,
+(4)    Discount rate is market driven, and
+(5)    Focal Point for monetary policy
+(6)    Helps to meet the temporary mismatches in cash flows
+3.2.3 Advantages to Investors
+The following are the main advantages of T-bills.
+(i)    Manage cash position with minimum balances,
+(ii)    Increased liquidity,
+(iii)   Absence of risk of default
+(iv)   Market related assured yield,
+(v)     Eligible for repos,
+(vi)   SLR security,
+(vii)  No capital loss,
+(viii)  Two-way quotes by DFHI/Primary Dealers (PDs)/Banks.
+(ix)   Low transaction cost
+(x)   No tax deducted at source
+(xi)   Transparency
+(xii)   Simplified Settlement
+(xiii)  High degree of tradability and active secondary market facilitates meeting unplanned fund
+       requirements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+MONEY MARKET             5.19
+
+The Primary Dealers (PDs) have assumed the role of market makers in treasury bills, and they
+regularly provide two-way quotes. This has added to the liquidity and deepened the secondary
+market of this instrument. Thus, treasury bills have emerged as an effective instrument for dynamic
+asset-liability management. Apart from liquidating the treasury  bills  in the secondary market,
+treasury bills can be used for transactions which will help the fund managers to temporarily deploy
+or borrow funds without altering their assets portfolio. Due to its mode and periodicity of issue
+(weekly and fortnightly auctions) as also the existence of a well-developed secondary market, the
+fund manager could build-up a portfolio of treasury bills with varying maturities which will match their
+volatile liabilities.
+The PDs are basically those organizations who are registered with RBI and have the license to buy
+and sell securities on their behalf. They generally buy government securities from the RBI and sell
+them to other buyers. They act as underwriters in the primary market and market makers in the
+secondary market.
+3.2.4 RBI Retail Direct Scheme
+The Retail Direct scheme is a one-stop solution to facilitate investment in Government Securities by
+Individual Investors. Under this scheme Individual Retail investors can open Gilt Securities Account
+– “Retail Direct Gilt (RDG)” Account with the RBI.
+Some Frequently Asked Questions on RBI Retail Direct Scheme has been given as follows to enable
+a good understanding of its concept:
+(i)   Who can open a Retail Direct Scheme Account?
+       Retail investors would mean all individuals (natural persons)
+      •      Retail investors, as defined under the RBI Retail Direct scheme, can register under the
+           Scheme, and maintain a RDG Account, if they have the following:
+         o    Rupee savings bank account maintained in India;
+         o     Permanent Account Number (PAN) issued by the Income Tax Department;
+         o    Any OVD for KYC purpose;
+         o      Valid email id; and
+         o     Registered mobile number.
+      •     Non-Resident retail investors eligible to invest in Government Securities under Foreign
+           Exchange Management Act, 1999 are eligible under the scheme.
+      •     The RDG account can be opened singly or jointly with another retail investor who meets
+              the eligibility criteria.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+5.20           FINANCIAL SERVICES AND CAPITAL MARKET
+
+(ii)   What are the benefits of the scheme?
+       Retail investors (individuals) will have the facility to open and maintain the ‘Retail Direct Gilt
+      Account’ (RDG Account) with RBI.
+     The investor can place non-competitive bids in Primary issuance of all Central Government
+       securities (including Treasury Bills and Sovereign Gold bonds) as well as securities issued
+      by various State Governments.
+      Under this scheme, the individual can also access Secondary market through “NDS OM” -
+      RBI’s trading system.
+     The investor will automatically receive any interest paid/maturity proceeds into his linked bank
+      account on due dates.
+(iii)   What are the facilities available on the RBI Retail Direct Portal?
+     The RBI Retail Direct Online Portal will facilitate the following:
+      •     On-boarding of Retail Direct Investors,
+      •     Opening and management of RDG Accounts,
+      •       Facilitate participation in Non-Competitive Bidding in Primary G-sec Auctions through the
+              Clearing Corporation of India (CCIL)
+      •       Facilitate Investing in Sovereign Gold Bonds (SGBs) through CCIL
+      •       Facilitate NDS OM access to Retail Direct Investors for secondary market trading and
+              settlement of such trades through CCIL.
+      •     Provide Investor Services such as:
+         o     Account Statement
+         o     Nomination Facility
+         o     Pledge/Lien
+         o      Gift Transactions
+      •       Facilitate Corporate Actions such as:
+         o    Coupon Payments
+         o    Coupon Payments
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+MONEY MARKET             5.21
+
+(iv)   What are the other services available under the Retail Direct Scheme?
+     The following additional services are proposed to be made available to the Retail Direct
+       Investor on the RBI Retail Direct Portal:
+      •     Nomination
+      •      Gifting
+      •      Pledge/Lien/Transfer
+      (Source: RBI Website)
+3.3  Commercial Bills (CBs)
+A commercial bill is one which arises out of a genuine trade transaction, i.e., a credit transaction.
+When the goods are sold, the seller draws a bill of exchange (BOE) on the buyer to pay a certain
+amount on a particular date. The buyer then accepts the BOE, signs it and sends it to the seller. The
+seller on the maturity date presents the BOE to the buyer and collects its payment. It is basically a
+negotiable instrument and issued for a short period generally ranging from 3 to 6 months.
+Bill financing is the core component of meeting working capital needs of corporates in developed
+countries. Such a mode of financing facilitates an efficient payment system. The commercial bill is
+instrument drawn by a seller of goods on a buyer of goods. RBI has pioneered  its efforts in
+developing bill culture in India, keeping in mind the distinct advantages of commercial bills, like, self-
+liquidating in nature, recourse to two parties, knowing exact date transactions, transparency of
+transactions etc.
+Features:
+The Commercial Bill money market has the following significant characteristics:
+(i)    By offering the bills for rediscounting, CBs can be exchanged.
+(ii)   Banks give credit to their customers by discounting CBs, and the customers are expected to
+      pay back the credit when the bill matures.
+(iii)   The banks have the option to rediscount the bills in the money market to have access to cash
+            if they need it.
+(iv)   CBs guarantee  better loan  quality,  liquidity, and money market money management
+       effectiveness.
+(v)   CBs are fully secured money market instruments because they can be transferred through
+      endorsement and delivery.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+5.22           FINANCIAL SERVICES AND CAPITAL MARKET
+
+Example:
+If a bank re-discounted a commercial bill with a face value of ` 100/- @ 15% for 2 months, it will
+fetch ` 97.50, based on the following calculation.
+               15   2Discount = 100 ×   ×  = ` 2.50
+               100  12
+However, the discount amount is paid at the front-end.
+The yield to the investor or cost to the borrower will be higher than the discount rate because the
+discounter can deploy the amount of discount received for earning further income. This can be
+calculated with the following formula:
+                       FV - SV  Days or months in a year
+                   Y =       ×                    × 100                        SV         M
+where
+    Y       =   Yield
+    FV      =  Face Value
+    SV      =   Sale Value
+   M      =   Period of Discount
+Accordingly, the Yield as per the data given in the example will be:
+                            100 - 97. 50  12
+                                   ×   × 100 = 15.385%                              97. 50    2
+3.3.1 Advantages of a developed bill market
+A developed bill market is useful to the borrowers, creditors and to the financial and monetary
+system. The bill market scheme will go a long way to develop the bill market in the country. Following
+are the various advantages of developed bill markets:
+(i)      Bill finance is better than cash credit. Bills are self-liquidating and the date of repayment of a
+      bank's loans through discounting or rediscounting is certain.
+(ii)     Bills provide greater liquidity to their holders because they can be shifted to others in the
+      market in case of need for cash.
+(iii)   A developed bill market is also useful to the banks in case of emergency. In the absence of
+      such a market, the banks in need of cash must depend either on the call money market or on
+       the Reserve Bank's loan window.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+MONEY MARKET             5.23
+
+(iv)   The commercial bill rate is much higher than the Treasury bill rate. Thus, the commercial
+      banks and other financial institutions with short-term surplus funds find CBs an attractive
+      source of both liquidity as well as profit.
+(v)   A developed bill market is also useful for the borrowers. The bills are time-bound, can be sold
+        in the market, and carry the additional security in the form of acceptor's signature. Therefore,
+        for the borrowers, the post of bill finance is lower than that of cash credit.
+(vi)   A developed bill market makes the monetary system of the country more elastic. Whenever
+       the economy requires more cash, the banks can get the bills rediscounted from the Reserve
+     Bank and thus can increase the money supply.
+(vii)   Development of the bill market will also make the monetary control measures, as adopted by
+       the Reserve Bank, more effective.
+Example
+The period of maturity is 3 months in case of commercial bill; discount rate is 12 per cent. Find out
+the yield.
+Calculation of yield
+Actual Yield = [{1+RD/100 x p} P – 1] x 100
+Where RD = Rate of Discounting
+p = Period of Compounding in one year (i.e., if it is a two-month bill, period of compounding is 4 (12
+months/3 months
+So, Actual Yield = [{1 + 12/ (100 x 12/3) 12/3 - 1] x 100 = [(1 +0.083) 4  - 1] x 100
+= (1.38 – 1) x 100 = 38%
+3.3.2 Recent trends in bill/invoice discounting
+First let us understand how invoice discounting works. When startups and SMEs (small and medium
+enterprises) turn vendors to supply goods to large corporations, they often must wait long periods,
+ranging from one to four months, to receive payments for the goods delivered. Such delays create
+a working capital crunch for these vendors and stifles their potential for expansion. Typically, in such
+a situation, the vendor often raises cash advance from banks and non-banking financial companies
+(NBFCs) against the invoice for the goods delivered. Such working capital loans are charged an
+interest rate of 18-30% per annum. The vendors repay the lenders as and when they receive their
+payment from the companies concerned.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+5.24           FINANCIAL SERVICES AND CAPITAL MARKET
+
+Soon, online discounting platforms sniffed an opportunity here and started lending to these vendors
+at competitive rates, ranging from 14-18% per annum. The platforms, in turn, allowed retail investor
+participation, offering a sweet 10-13% internal rate of return (IRR) pretax.
+Platforms like TredS, which is regulated by the Reserve Bank of India (RBI), and KredX were early
+movers in the invoice discounting space. Other players like Jiraaf, Leaf, and Grip made their
+presence felt during the covid pandemic.
+Here is how invoice discounting is beneficial for all parties involved. Let’s take the hypothetical
+example of vendor A, a goods supplier, which raises an invoice of Rs. 100 on C, a corporate buyer,
+and approaches an invoice discounting platform, say B, for financing since  it needs immediate
+liquidity.
+B evaluates the invoice and lists  it on the platform to pool money from investors. It raises Rs. 96
+from retail investors and transfers to A. After 3 months, when the corporate buyer C settles the
+payment by fulfilling the invoice of Rs. 100, the discount platform retains Rs. 1 as its fee and pays
+Rs. 99 (Rs. 3 as interest and Rs. 96 principal) to the investors. In this process, all parties benefit:
+The vendor enjoys enhanced financial flexibility, investors earn returns, and the discounting platform
+gets it cut for facilitating the transaction.
+Most invoice discounting platforms secure their transaction by using an escrow account for transfer
+of funds. GripInvest, however, follows a slightly different method to its product Invoice X. It has a
+tie-up with an NBFC that provides loans on invoices as  collateral and issues pass-through
+certificates (PTCs). The investment tenure for investors is longer at 9 months and the minimum
+investment is Rs. 10 lakhs.
+“Invoice X is an RBI regulated instrument and rated by a credit rating agency to provide more
+transparency to investors. Grip’s subsequent Invoice X offerings will also be listed on the stock
+exchange in compliance with SEBI Regulations. Our  first Invoice X product  is an A1+ rated
+instrument consisting of receivables from 200+invoices against 22 companies”.
+Barring this company, the minimum ticket size of invoice discounting investment for retail investors
+ranges from Rs. 50,000 to Rs. 3 lakhs. Returns from such investment are taxed at slab rates, with a
+standard 10% tax deducted at source (TDS) by the platform. Additionally, all investments are paid
+at maturity, providing investors with a predictable timeline for returns. It is worth noting that these
+investments remain unrated, indicating that they are not subject to external credit assessment.
+Investors looking for different risk-return profiles can explore these platforms, which offer attractive
+pre-tax IRRs between 10% and 15%. The commonalties in these investments’ structures provide
+investors with a range of options to suit their financial goals and risk appetites.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+MONEY MARKET             5.25
+
+Retail investors believe that invoice discounting is a lucrative investment option. However, they do
+not completely understand the risks involved. An invoice receivable is an operational debt. The
+corporates very frequently delay payments on such invoices, and such delays do not impact on their
+credit rating. Sometimes corporates may raise disputes and not pay the invoice at all. Such instances
+have come to light where even large corporates did not make the payment, leaving investors to bear
+the losses, said an expert.
+In case of defaults, investors are usually the last in the line of creditors to get relief. Earlier, invoice
+discounting platforms claimed to be financial creditors, implying that they had a higher priority in
+recovering funds in case of a default by the borrowers. Despite platforms claiming to prioritize
+security and protection for investors through tri-party agreements, penalty clauses, and by securing
+postdated cheques (PDCs) from vendors, delays and defaults have been increasing in frequency.
+So, retail investors need to be cautious. “These are clearly not retail products. Most of these products
+are not regulated, which puts the retail investor at a disadvantage. Also, there are chances of a
+complete capital loss in some of these products for which no retail investor will be comfortable with
+that, cited an expert.                                                          (Source: Mint)
+3.4  Certificate of Deposits (CDs)
+The CDs are negotiable term deposits accepted by commercial banks from bulk depositors at
+market-related rates. CDs are usually issued in demat form or as a Usance Promissory Note. A
+Usance Promissory Note is a promissory note which is payable after a pre-decided definite period.
+(i)     Eligibility: All scheduled banks (except RRBs and Local Area Banks) are eligible to issue
+CDs. It can also be issued by select all India Financial Institutions. They can be issued to individuals,
+corporates, trusts, funds, and associations. NRIs can also subscribe to CDs but on a non-repatriable
+basis only. In secondary markets such CDs cannot be endorsed to another NRI.
+(ii)   Term: The CDs can be issued by scheduled commercial banks (excluding RRBs) at a
+discount to face value for a period from 7 days to one year.
+For CDs issued by financial institutions maturity is minimum 1 year and maximum 3 years.
+(iii)   Denomination: The CDs can be issued for a minimum amount of ` 1 lakhs to a single investor
+and multiples of ` 1 lakh thereafter. There is, however, no limit on the total quantum of funds raised
+through CDs.
+(iv)   Transferability: CDs issued in physical form are freely transferable by endorsement and
+delivery. The procedure of transfer of dematted CDs is like any other demat securities. There is no
+lock in period for the CDs.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+5.26           FINANCIAL SERVICES AND CAPITAL MARKET
+
+(v)    Others: The CDs are to be reckoned for reserve requirements and are also subject to stamp
+duty. Banks are prohibited from granting loans against CDs as buy-back of their own CDs.
+(vi)   Discount: CDs may be issued at a discount on face value. Banks / FIs are also allowed to
+issue CDs on a floating rate basis provided the methodology of compiling the floating rate is
+objective, transparent and market based. The issuing bank / FI is free to determine the discount /
+coupon rate. The interest rate on floating rate CDs would have to be reset periodically in accordance
+with a pre-determined formula that indicates the spread over a transparent benchmark. The investor
+should be clearly informed of the same.
+(vii)  Reserve Requirements: Banks must maintain appropriate reserve requirements, i.e., Cash
+Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR), on the issue price of the CDs.
+Just like Commercial Bills, Certificate of Deposit (CD) is a front–ended negotiable instrument, issued
+at a discount and the face value is payable at maturity by the issuing bank.
+Example:
+Amount of Issue – ` 100
+Period - 6 months
+Rate of discount – 20%
+               20   6Discount = 100 ×   ×  = ` 10.00
+               100  12
+Hence the CD will be issued for ` 100 – 10 = ` 90.00. The effective rate to the bank will, however,
+be calculated because of the following formula:
+                       FV - SV  Days or months in a year
+                   E =       ×                    × 100                        SV         M
+where
+E   =         Effective Yield
+FV  =       Face Value
+SV  =        Sale Value
+M   =        Period of Discount
+Accordingly, the Yield as per the data given in the example will be:
+                             100 - 90  12
+                                  ×   × 100 = 22.226%                               90    6
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+MONEY MARKET             5.27
+
+These instruments are subject to payment of stamp duty like the usance promissory notes. The
+maturity period of CDs issued by banks may range from 7 days to 12 months while those issued by
+specified financial institutions may range from 1 to 3 years. A CD is, therefore, another step in filling
+the gap between Treasury Bills/Commercial  Bills and dated  securities. Banks also  find  this
+instrument suitable to reward their big size depositors with a better rate of return as an incentive.
+Despite the large size of the primary market for CDs, there has been virtually no activity in the
+secondary market and the holders keep the CDs till maturity. So long as there is sluggish growth of
+deposits at administered low rates vis-a-vis the high rates offered by the non-banking non-financial
+institutions and others, banks in distress for funds will always need CDs at any cost. They may be
+useful where the average yield on advances is higher than the effective cost of CDs.
+                                       Certificates of Deposit
+ Item                  2022                          2023
+                      Sep.23       Aug.11     Aug.25     Sep.08     Sep.22
+                         1             2           3           4           5
+ Amount
+ Outstanding          252148.25    304165.32   301277.83   297684.67   291829.65
+ (` Crore)
+ Amount  Reported
+ during         the     19760.15      14893.63    34741.11    33248.85    31959.30
+ fortnight (` Crore)
+ Rate  of  Interest     5.80-6.73      6.77-7.71    6.88-7.67    6.85-7.67    6.88-7.70
+ (percent)
+                                                                         (Source: RBI website)
+3.5  Commercial Paper
+Commercial Paper (CP) has its origin in the financial markets of America and Europe. The concept
+of CPs originated in the USA in the early 19th century when commercial banks monopolized and
+charged high rate of interest on loans and advances. In India, the CP was introduced in January
+1990 on the recommendation of Vaghul Committee subject to various conditions. When the process
+of financial dis-intermediation started in India in 1990, RBI allowed issue of two instruments, viz.,
+the Commercial Paper (CP) and the Certificate of Deposit (CD) as a part of reform in the financial
+sector.
+A notable feature of RBI Credit Policy announced on 16.10.1993 was the liberalisation of terms of
+issue of CP. At present it provides the cheapest source of funds for the corporate sector and has
+caught the fancy of the corporate sector and banks. Its market has picked up considerably in India
+due to interest rate differentials in the inter-bank and commercial lending rates.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+5.28           FINANCIAL SERVICES AND CAPITAL MARKET
+
+CPs are unsecured and negotiable promissory notes issued by high rated corporate entities to raise
+short-term funds for meeting working capital requirements directly from the market instead of
+borrowing from banks. Its period ranges from 7 days to 1 year. CP is generally issued at discount to
+face value and is transferable by endorsement and delivery. The issue of CP seeks to bypass the
+intermediary role of the banking system through the process of securitisation.
+It partly replaces the working capital limits enjoyed by companies with the commercial banks and
+there will be no net increase in their borrowing by issue of CP.
+3.5.1 Role of RBI
+As a regulatory body, RBI lays down the policies and guidelines regarding commercial paper to
+maintain control on the operational aspects of the scheme.
+•      Prior approval of RBI is required before a company can issue CP in the market.
+•     RBI controls the broad timing of the issue to ensure orderly fund-raising.
+•     Every issue of CP launched by a company, including roll-over, will be treated as a fresh issue
+      and the issuing company will be required to seek prior permission from RBI, before each roll-
+       over.
+The CPs can be issued by all non-banking (financial as well as non-financial) companies and All-
+India Financial Institutions. The instrument is instantly advantageous to the issuer and the investor.
+The issue of CPs does not involve bulky documentation and its flexibility with the opportunities can
+be tailored to meet the cash flow of the issuer. A highly rated company can raise cheaper funds than
+financing from a bank while the investor can deploy its short-term surplus at relatively high return.
+The secondary market for CPs ensures liquidity and the compulsory credit rating imparts inherent
+strength to the issuer's ability to meet the obligations on maturity. The bank as managers or dealers
+of the instrument gets fees to supplement their income. Bank can also invest their surplus short-
+term funds in CP.
+3.5.2 Timing of CP
+The timing of the launch of the CP issue will be indicated by RBI while giving its permission, to
+ensure an orderly approach to the market.
+3.5.3 Denomination and size of CP
+      Denomination of CP note      –    `5 lacs or multiples thereof.
+     Maximum size of CP issue    –    100% of the issuer's working capital (fund based)
+                                                      limits (determined by the consortium leader).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+MONEY MARKET             5.29
+
+The entire approved quantum of CP can be issued on a single date or in parts on different dates,
+within two weeks of the Reserve Bank of India's approval, subject to the condition that the entire
+amount of issue matures on the same date.
+3.5.4 Period of CP
+     Minimum currency         –       7 days from the date of issue.
+     Maximum currency        –      One year from the date of issue.
+The entire approved amount should be raised within a period of 2 weeks from the date on which
+issuer opens the issue for subscription.
+Each CP issue (including roll-over) must be treated as a fresh issue and requires permission from
+RBI.
+3.5.5 Mode of CP
+CP must be issued at a discount to face value.
+The discount rate must be freely determined by the market.
+3.5.6 Negotiability of CP
+CP (being usance promissory note) would be freely negotiable by endorsement and delivery.
+3.5.7 Underwriting/co-acceptance of CPs
+The CP issue cannot be underwritten or co-accepted in any manner. Commercial Banks, however,
+can provide standby facility for redemption of CPs on the maturity date.
+3.5.8 Issue expenses
+The issue of CP would be subject to payment of stamp duty. All issue expenses such as dealer's
+fees, issuing and paying agent's fees, rating agency fees, charges levied by banks for providing
+redemption standby facilities and any other charges connected with the issue of CPs are to be borne
+by the issuer.
+3.5.9 The issuer
+The CP issuer can be a company incorporated under the Companies Act subject  to some
+requirements.
+3.5.10 Benefits of Commercial Paper
+CPs have been introduced in the Indian market to provide a diversified source of funding to the
+borrowers as well as an additional investment option to the investors. CPs can now be issued as a
+low-cost alternative to bank financing to meet a part of working capital requirements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+5.30           FINANCIAL SERVICES AND CAPITAL MARKET
+
+(A)   Benefits to the Issuer – The following are major benefits to issuer of CP:
+          (i)   Low interest expenses: The interest cost associated with the issuance of CP is
+             normally expected to be less than the cost of bank financing. Among other things, it is
+              related to the inter-corporate money market rate, which in normal times is within the
+             cost of bank finance.
+          (ii)   Access to short-term funding: CP issuance provides a company with increased
+            access to short-term funding sources. By bringing the short-term borrower into direct
+             contact with investors, the CP market  will,  to some extent, disintermediate the
+             established role of banks and pass on the benefit to both issuers and investors.
+          (iii)    Flexibility and liquidity: CP enables the issuer to increase flexibility and liquidity in
+            matching the exact amount and maturity of its debt to its current working capital
+             requirement.
+        (iv)   Investor recognition: The issuance  of CP provides the issuer with favourable
+            exposure to major institutional investors as well as wider distribution of its debt.
+       (v)   Ease and low cost of establishment: A CP program can be established with ease at
+           a low cost once the basic criteria have been satisfied.
+(B)   Benefits to the Investor – The following are major benefits to investor of CP:
+          (i)    Higher yield: Higher yields are expected to be generally obtainable on CP than on
+             other short-term money market instruments like bank deposits. Investment managers
+             are increasingly looking to match investible excess cash with higher yielding securities
+            as compared to those presently available in the market.
+          (ii)    Portfolio diversification: Commercial Paper provides an attractive avenue for short-
+            term portfolio diversification.
+          (iii)    Flexibility: CPs can be issued for periods ranging from 15 days to less than one year,
+             thereby affording an opportunity to precisely match cash flow requirements.
+        (iv)   Liquidity: Liquidity in CP is generally provided by a dealer offering to buy it back from
+           an investor prior to maturity, for which a market quote will be available. The investment
+                in CP will therefore be quite liquid.
+                  Difference between Commercial Bill and Commercial Paper
+                 Commercial Bill                      Commercial Paper
+       Commercial     Bill    arises   from    sale  Commercial paper  is an unsecured and
+        transactions.  Banks  finance  commercial  discounted  promissory  note  issued  to
+           bills. Usually, the bills consist of an invoice   finance the short-term credit needs of large
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+MONEY MARKET             5.31
+
+       drawn on the buyer, the documents to title to   institutional buyers. Banks, corporations,
+       goods and a bill of exchange. The bills are  and foreign governments commonly use
+        given  to  the bank  for advancing money   this type of funding.
+        against  sale  of  goods.  Commercial  Bill
+        financing is post sale finance. The  Bill of
+       Exchange may be on D/P (document against
+       Payment)   or  D/A  (document   against
+       acceptance) terms.
+                               Commercial Paper
+        Item                       2022                        2023
+                                 Sep.30     Aug.15     Aug.31     Sep.15     Sep.30
+                                     1           2           3          4           5
+       Amount      Outstanding                                400866.35   447570.85   450064.05  432568.65   412234.35         (` Crore)
+       Amount  Reported  during                                  62062.8     41800.2    73816.05   71469.15    49675.85         the fortnight (` Crore)
+       Rate of Interest (percent)   5.90-12.25   6.81-12.55   6.93-16.55  6.84-12.50   6.89-11.36
+                                                                       (Source: RBI website)
+Example on Commercial Paper
+Calculate the interest yield of the following commercial paper:
+Face Value: ` 6,00,00,000
+Sale Price: ` 5,90,00,0000
+Maturity period: 90 days
+Brokerage and Other charges: 3%
+Solution:
+Brokerage = 3% of ` 6,00,00,000 = ` 18,00,000
+Net Sale Price = ` 5,90,00,0000 – ` 18,00,000 = ` 5,72,00,0000
+Yield = [(Face Value – Sale Price)/Sale Price] * (360/Maturity Period) * 100
+
+= (6,00,00,000 – 5,72,00,0000)/ 5,72,00,0000 * (360/90) * 100= 19.58%
+
+3.6 G Sec (Government Securities)
+The Reserve Bank of India issues securities on behalf of the Government. The term Government
+Securities includes Central Government Securities, State Government Securities and Treasury Bills.
+The different types of Government Securities are –
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+5.32           FINANCIAL SERVICES AND CAPITAL MARKET
+
+ Dated Securities     Zero Coupon         Floating Rate         Capital Indexed
+                  Bonds or Deep      Bonds            Bonds
+                     Discount Bonds
+ Issued at par value.   Issued at discount to  Issued at face value.  Issued at face value.
+                        face value
+ Interest or coupon    Do not carry any       Interest rate is fixed    Interest   Rate    is
+ rate is fixed at the      interest         % over a             reckoned as a
+ time of issuances                          predetermined     % over Inflation
+                                                     floating rate         benchmark may be
+                                       benchmark which    WPI or CPI at the
+                                   may be MIBOR or     time of issuance.
+                                   INBMK       (Indian
+                                       Benchmark  Swaps)
+                                            curve
+ The tenor of the      The tenor of the      The tenor of the      The tenor of the
+ security is fixed        security is fixed        security is fixed        security is fixed
+ The security is       The security is       The security is       The security is
+ redeemed at face     redeemed at face     redeemed at face     redeemed at face
+ value on its maturity   value on its maturity   value on its maturity   value on its maturity
+ date                  date plus Zero        date                  date
+                    coupon interest on
+                        the security
+
+
+                      India                               Treasury Bills/Cash Notes Manaagement Bills
+         in
+
+                                    Treasury Treasury Bills/Cash Notes                                            Securities
+                      G.Sec                        Treasury Bonds
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+MONEY MARKET             5.33
+
+     4.  Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio
+        (SLR)
+(i)   Cash Reserve Ratio (CRR)
+CRR is the amount of reserve which banks must keep  it with Reserve Bank of India (RBI). The
+current CRR rate is 3%. However, this rate may change from time to time as per the discretion of
+the RBI. So, CRR is basically a fraction of the total amount of deposits collected from the customers
+and kept as reserve either in cash or as deposits with the central bank. CRR is prescribed according
+to the guidelines of the central bank of a country.
+The basic purpose is to ensure that banks do not run out of cash to meet the demands of their
+depositors. CRR is a crucial monetary policy tool and is used for controlling money supply in an
+economy.
+Example:
+A depositor deposits ` 10000 in a bank. Out of ` 10000, the bank keeps ` 300 as CRR. This works
+as a type of contingency fund to ward off any payment crises in future.
+(ii)   Statutory Liquidity Ratio (SLR)
+SLR is the amount of reserve which banks must keep it with themselves. Apart from Cash Reserve
+Ratio (CRR), banks must maintain a certain portion of their deposits in the form of liquid assets like
+cash, gold, and non-mortgaged securities. Further, Banks which subscribe to Treasury bills, issued
+by RBI on behalf of Government, qualifies their SLR requirements. There is a reporting Friday in
+which Banks must report to the RBI every alternate Friday for their SLR maintenance. If they fail to
+make such payments, they must pay penalties for failing to maintain SLR as mandated. The current
+SLR is 18%. However, this rate may change from time to time as per the discretion of the RBI.
+Example:
+Government comes out with a tax-free bond worth ` 5000 crore, which RBI issues on behalf of the
+government. State bank of India subscribes ` 500 crore. This whole amount will qualify as SLR.
+
+     5.  DETERMINATION OF INTEREST RATES
+Call money rates were regulated in the past by the RBI or by a voluntary agreement between the
+participants through the intermediation of the Indian Banks Association (IBA). The interest rates
+have been deregulated and left to the market forces of demand for, and supply of, short-term money
+as part of the financial sector reforms.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+5.34           FINANCIAL SERVICES AND CAPITAL MARKET
+
+The call money market is susceptible to volatility, for instance, sometimes the rates shot up and
+sometimes it comes down The reasons for increase in volatility in the call money market, amongst
+others, include advance corporate tax payments, investors’ interest in primary and secondary capital
+markets including the units issued by mutual funds, large withdrawals on banks’ credit lines,
+imprudent practices of banks, and developments in the foreign exchange market. Banks were
+reported to have invested in government securities by borrowing on call to earn the spread when
+call rates were low.
+(i)   Money Market – MIBOR (Thomson Reuters)
+The Mumbai Interbank Offer Rate (MIBOR) is one iteration of India's interbank rate, which is the rate
+of interest charged by a bank on a short-term loan to another bank. As India's financial markets have
+continued to develop, India felt  it needed a reference rate for its debt market, which led to the
+development and introduction of the MIBOR. MIBOR  is used in conjunction with the Mumbai
+interbank bid and forward rates (MIBID and MIFOR) by the central bank of India to set short-term
+monetary policy.
+The Mumbai Inter Bank Overnight Rate, or MIBOR, is the overnight lending offered rate for Indian
+commercial banks. MIBOR is calculated based on input from a panel of 30 banks and primary
+dealers. MIBOR was first established in 1998 and modeled after the more famous London Interbank
+Overnight Rate (LIBOR). Banks borrow and lend money to one another on the interbank market in
+order to maintain appropriate, legal liquidity levels, and to meet reserve requirements placed on
+them by regulators. Interbank rates are made available only to the largest and most creditworthy
+financial institutions.
+MIBOR is calculated every day by the National Stock Exchange of India (NSEIL) as a weighted
+average of lending rates of a group of major banks throughout India, on funds lent to first-class
+borrowers. This is the interest rate at which banks can borrow funds from other banks in the Indian
+interbank market.                (source https://www.investopedia.com/terms/m/mibor.asp)
+Overnight Call Money rate in India is published by Reuters and known as “MIBOR’’ (Mumbai
+Interbank Offered Rate). MIBOR stands for overnight Call money rate in India which is getting fixed
+by Thomson Reuters every day. MIBOR is having an alternate leg which is known as OIS (Overnight
+Index Swaps). Overnight Index Swaps refers to hedging of local currency in local currency books
+and in local country which effectively means Hedging of INR denominated Assets/ (Liabilities) by an
+Indian Corporate in INR books and in India. OIS also means say Hedging of USD denominated
+Assets/ (Liabilities) by an American Corporate in USD books in NY markets.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+MONEY MARKET             5.35
+
+
+                                     Overnight Index Swaps
+
+
+          Hedging of Local Currenty Assets          Hedging of Local Currency Liabilities
+
+
+           1. Term Deposits                                                             1. Term Liabilities           2. Money Market Mutual funds                                                             2. Working Capital Liability           3. Inter Corporate Deposists                                                             3. Swap Liability           4. INR balances in books                                                             4. Other Local Currency Liability        5 Other Local Currency balances
+
+(ii)   What is 'LIBOR'?
+LIBOR i.e. (London Interbank Offered Rate) or ICE LIBOR (previously BBALIBOR) is a benchmark
+rate that some of the world’s leading banks charge each other for short-term loans. It stands for
+Intercontinental Exchange London Interbank Offered Rate and serves as the first step to calculating
+interest rates on various loans throughout the world. LIBOR is administered by the ICE Benchmark
+Administration (IBA), and is based on five currencies: U.S. dollar (USD),Euro (EUR),pound sterling
+(GBP), Japanese yen (JPY) and Swiss franc (CHF), and serves seven different maturities: overnight,
+one week, and 1, 2, 3, 6 and 12 months. There are a total of 35 different LIBOR rates each business
+day. The most quoted rate is the three-month U.S. dollar rate.
+BREAKING DOWN 'LIBOR'
+LIBOR (or ICE LIBOR) is the world’s most widely used benchmark for short-term interest rates. It
+serves as the primary indicator  for the average rate  at which banks  that contribute  to the
+determination of LIBOR may obtain short-term loans in the London interbank market. Currently there
+are 11 to 18 contributor banks for five major currencies (US$, EUR,GBP, JPY, CHF), giving rates
+for seven different maturities. A total of 35 rates are posted every business day(number of currencies
+x number of different maturities) with the 3-month U.S. dollar rate being the most common one
+(usually referred to as the “current LIBOR rate”).
+LIBOR or ICE LIBOR's primary function is to serve as the benchmark reference rate for debt
+instruments, including government and corporate bonds, mortgages, student loans, credit cards; as
+well as derivatives such as currency and interests was, among many other financial products.
+For example, take a Swiss franc-denominated Floating-Rate Note(or floater) that pays coupons
+based on LIBOR plus a margin of 35 basis points (0.35%) annually. In this case, the LIBOR rate
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+5.36           FINANCIAL SERVICES AND CAPITAL MARKET
+
+used is the one-year LIBOR plus a 35 basis point spread. Every year, the coupon rate is reset to
+match the current Swiss franc one-year LIBOR, plus the predetermined spread.
+If, for instance, the one-year LIBOR is 4% at the beginning of the year, the bond will pay 4.35% of
+its par value at the end of the year. The spread usually increases or decreases depending on the
+credit worthiness of the institution issuing debt.
+Another prominent trait of LIBOR or ICELIBOR is that  it helps to evaluate the current state of the
+world’s banking system as well as to set expectations for future central bank interest rates.
+ICE LIBOR was previously known as BBA LIBOR until February 1, 2014, the date on which the ICE
+Benchmark Administration (IBA) took over the administration of LIBOR.    (Source: Investopedia)
+Replacement of LIBOR with SOFR
+Financial institutions price loans for consumers and businesses using the SOFR benchmark. The
+name's reference to overnight financing describes how SOFR determines interest rates for lenders:
+It is determined by comparing the rates that big banks charge one another for short-term loans.
+Libor was established using the interest rates that banks agreed to give one another on short-term
+loans. However, SOFR  is more trustworthy than  Libor because   it considers actual lending
+transactions between institutions.
+How is SOFR Operated?
+Large financial institutions use Treasury bond repurchase agreements, or repos, to lend money to
+one another. With the use of Treasurys as collateral, these repo agreements enable banks to lend
+money overnight to satisfy reserve and liquidity requirements.
+The weighted averages of the rates applied in these repo transactions make up SOFR. The SOFR
+rate for repo transactions from the previous business day is released each morning by the New York
+Federal Reserve Bank.
+Why Was LIBOR Replaced with SOFR?
+Since the middle of the 1980s, LIBOR has been one of the primary benchmarks for loans. But LIBOR
+was tainted by a string of scandals and worries about manipulation-related inaccuracies.
+Some of the technical shortcomings of LIBOR were revealed during the financial crisis of 2008 and
+2009. Banking regulators have been informed by multiple LIBOR rate-fixing scandals that a more
+reliable, risk-free reference is required as a long-term replacement for LIBOR.
+According to Patel, the recent contraction of the interbank lending market contributed to or enabled
+these scandals. He claims that as there were fewer transactions, quoted rates rather than the actual
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+MONEY MARKET             5.37
+
+rates from transactions started to appear in the index. Furthermore, "the self-reported LIBOR rate
+might not fully reflect the actual cost.
+Since the Treasury repo market is one of the most liquid in the world and offers a wealth of actual
+transaction data to rely on instead of self-reported hypothetical rates, SOFR is far less likely to be
+manipulated.
+This market can't be easily manipulated because it reflects actual transactions, not quotes, and  it
+averages over $1 trillion daily.
+What Separates SOFR from LIBOR?
+As previously mentioned, one of the main distinctions between SOFR and LIBOR is that the latter is
+based on quotes from reporting banks that may or may not be derived from actual financial
+transactions, whereas the former is based on completed financial transactions.
+The two rates do differ in other ways, though.
+One important distinction between SOFR and LIBOR is that SOFR looks backward while LIBOR
+looks forward. This indicates that banks were aware of the borrowing rate at the start of the period
+when using LIBOR. However, because SOFR looks backward, the borrower won't be fully aware of
+their debt until the loan is over.
+Furthermore, LIBOR included a credit risk premium because  it was unsecured—the loans  it was
+based on had no collateral. Since SOFR is a secured rate and is based on transactions involving
+Treasury securities as collateral, the rates do not include a premium for credit risk.
+To reflect the need more accurately for pricing in adjustable-rate products, Patel anticipates that
+some rates based on SOFR will include a credit spread.
+The methodology used to create the rates is the primary distinction between SOFR and LIBOR.
+SOFR is a general indicator of the cost of borrowing money overnight in the repurchase agreement
+(repo) market, while LIBOR is dependent on panel bank input.
+Because of how it is calculated and the depth and liquidity of the underlying markets, SOFR has a
+far more robust rate than LIBOR. SOFR, being an overnight secured  rate, more accurately
+represents the current funding methods used by financial institutions.
+Compared to other U.S. money markets, SOFR's transaction volumes are significantly higher. As a
+result,  it is transparent, representative of the market for a wide spectrum of market players and
+shielded from manipulation attempts. It also has no risk of expiration, unlike LIBOR, because it is
+derived from the U.S. Treasury repo market.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+5.38           FINANCIAL SERVICES AND CAPITAL MARKET
+
+     6.  RECENT DEVELOPMENT IN MONEY MARKET
+6.1  Debt Securitization
+The buzzword in the money market is now debt securitisation, which refers to converting retail loans
+into wholesale loan and their reconverting into retail loans. For example, a bank lends ` 10 lakhs
+each to 300 borrowers as part of its loan portfolio. The total debt thus on the books of the bank will
+be ` 30 crores. By way of securitisation, the bank can break the entire portfolio of loans/debt of `
+30 crores into a paper of ` 300 each for instance, and market it in the secondary market to investors.
+The philosophy behind the arrangement is that an individual body cannot go on lending sizable
+amount for about a longer period continuously but if the loan amount is divided in small pieces and
+made transferable like negotiable instruments in the secondary market, it becomes easy to finance
+large projects having long gestation period.
+The experiment has already been initiated in India by the Housing Development Finance Corporation
+(HDFC) by selling a part of its loan to the Infrastructure Leasing and Financial Services Ltd. (ILFS)
+and has therefore become a pacesetter for other kinds of debt securitisation as well.
+The Industrial Credit and Investment Corporation of India (ICICI) as well as other private financial
+companies have been trying similar deals for lease rentals. Some finance companies are also
+following the same route for financing promoters’ contribution for projects. The HDFC has entered
+into an agreement with ILFS to securitise its individual housing loan portfolio to the extent of ` 100
+crores.
+Debt Securitisation will thus provide liquidity to the instrument. As market maker, ILFS will quote a
+bid and offer a price for the paper. Given the scarcity of resources and to provide flexibility to
+investors, innovative financing techniques such as debt securitisation which will mobilise additional
+resources through a wider investor base, is a step in the right direction.
+A major trend in the international financial markets in recent years has been towards securitisation
+of long-dated assets, held by them as security/mortgage against credit to customers.
+Debt Securitization Process:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+MONEY MARKET             5.39
+
+
+(Source: Oracle)
+6.2  Money Market Mutual Funds (MMMFs)
+One of the recent developments in the sphere of money market is the establishment of Money Market
+Mutual Funds, the guidelines of which have been made public by the Reserve Bank of India. Money
+Market Mutual Funds (MMMFs) can be set up by the banks and public financial institutions. There
+can also be Money Market Deposit Accounts (MMDAs).
+(i)     Limit: The limit for raising resources under the MMMF scheme should not exceed 2% of the
+sponsoring bank’s fortnightly average aggregate deposits. If the limit is less than ` 50 crores for any
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+5.40           FINANCIAL SERVICES AND CAPITAL MARKET
+
+bank,  it may join with some other bank and jointly set up MMMF. In the case of public financial
+institutions, the limit should not exceed 2% of the long-term domestic borrowings as indicated in the
+latest available audited balance sheets.
+(ii)     Eligibility: MMMFs are primarily intended for individual investors including NRIs who may
+invest on a non–repatriable basis. MMMFs would be free to determine the minimum size of the
+investment by a single investor.
+(iii)  Minimum rate of return: There is no guaranteed minimum rate of return.
+(iv)   Lock in period: The minimum lock in period would be 46 days.
+(v)   Deployment of capital: The resources mobilized by MMMFs should be invested exclusively
+in various money market instruments.
+Money Market Funds are debt funds that are lent to companies for a period of up to 1 year. These
+Funds are designed in a manner that allows the fund manager to generate higher returns while
+keeping risk under control through adjustment of lending duration. Higher loan tenure usually comes
+with higher returns. They are highly liquid, invest in short term debt instruments of high quality.
+Advantages of Money Market Funds
+♦     Ideal for an investment horizon of at least 3-6months
+♦    Low chances of loss if someone stays invested for 6+ months
+♦    These schemes tend to give better returns than Bank Fixed Deposits of similar duration
+                  (Source https://www.etmoney.com/mutual-funds/debt/money-market/58)
+
+     7.  REPURCHASE    OPTIONS     (REPO.),   REVERSE
+      REPURCHASE AGREEMENT (REVERSE REPO) AND
+      READY FORWARD (RF) CONTRACTS
+The term Repurchase Agreement (Repo) and Reverse Repurchase Agreement (Reverse Repo) refer
+to a type of transaction in which money market participant raises funds by selling securities and
+simultaneously agreeing to repurchase the same after a specified time generally at a specified price,
+which typically includes interest at an agreed upon rate. Sometimes it is also called a Ready Forward
+Contract as it involves funding by selling securities (held on Spot i.e., Ready Basis) and repurchasing
+them on a forward basis.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+MONEY MARKET             5.41
+
+7.1  Difference between Repo and Reverse Repo
+Following are major differences between Repo and Reverse Repo:
+(a)   Repo rate is the rate at which Reserve Bank of India (RBI) lends to Commercial Banks for a
+       short period of time against Government Securities. On the other hand, Reverse Repo is the
+       rate at which Commercial Banks lend to RBI.
+(b)   A transaction is called a Repo when viewed from the perspective of the seller of securities
+       (the party acquiring funds) and Reverse Repo when described from the point of view of the
+       supplier of funds. Thus, whether a given agreement is termed a Repo or a Reverse Repo
+      depends largely on which party initiated the transaction.
+(c)   The purpose of Repo is to fulfill the deficiency of funds. While the purpose of Reverse repo
+        is to make sure that there is liquidity in the economy.
+(d)   The Repo rate is comparatively high in comparison to Reverse Repo rate.
+(e)   The Repo rate strives to contain inflation in the economy. The Reverse repo aims to control
+     money supply in the economy.
+(f)    Repo is based on a Repurchase Agreement i.e., there will be an agreement between two
+       parties on the condition that one party will sell securities to the other on the promise that it
+         will be bought back by him after a certain period. On the other hand, Reverse repo is based
+      on the Reverse Repurchase Agreement which is just the opposite of whatever has been
+      explained above.
+7.2  Characteristics of Repo
+(i)    Origin: Repo transactions are of recent origin which has gained tremendous importance due
+to their short tenure and flexibility to suit both lender and borrower. Under these transactions the
+borrower places with the lender certain acceptable securities against funds received and agrees to
+reverse this transaction on a pre–determined future date at agreed interest cost.
+(ii)   Hybrid Instrument: In many respects, Repos are hybrid transactions that combine features
+of both secured loans and outright purchase and sale transactions but do not  fit clearly into their
+classification.
+(iii)  Repo rates: The lender or buyer in a Repo is entitled to receive compensation for use of the
+funds provided to the counterparty. This is accomplished by setting the negotiated repurchase price
+over the initial sale price, the difference between the two representing the amount of interest or Repo
+rate owed to the lender. The Repo rate is negotiated by the counterparties independently of the
+coupon rate or rates of the underlying securities and  is influenced by overall money market
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+5.42           FINANCIAL SERVICES AND CAPITAL MARKET
+
+conditions. In India, Repo rates are determined based on expected call money rates during a reserve
+mark-up period.
+(iv)   Period: Repo’s are usually arranged with short-term maturity – overnight or a few days.
+However, the minimum period of Repo in India is fixed at one day.
+(v)    Interest: The interest on such transactions is market determined and built in the structure of
+the Repo.
+(vi)    Eligibility: The transactions can be undertaken by commercial banks, financial institutions,
+brokers, DFHI.
+(vii)   Hair Cut: The use of margins or haircuts in valuing repo securities, and the use of mark-to-
+market provisions are examples of Repo features that typically are characteristics of secured lending
+arrangements but are rarely found in outright purchase and sale transactions.
+7.3  Dirty Price and Clean Price
+Dirty Price
+The dirty price depicts a bond’s actual price. It includes accrued interests. Therefore, it is the price
+paid by an investor when they purchase a bond. Accrued interests are a culmination of interests
+between two coupon dates. The dirty price always remains equal to or higher than the clean price
+as interest is added to the market price. On the date of coupon payment, both prices are the same.
+In secondary markets, it is also referred to as an invoice price. The dirty price of a bond includes
+interest. Interests are accumulated between two coupon payments; it increases every day.
+The actual amount paid by a buyer is called ‘dirty’ because the seller charges extra. Hence, this
+difference in prices becomes an income for the bond issuer.
+Dirty price is the present value of a bond; specifically, it is the bond’s discounted future cash flows.
+Formula of Dirty Price = Clean price + Accrued Interest
+Clean Price:
+The clean price of a bond does not include accrued interests. Accrued interest is the accumulation
+of interest between two scheduled payments. When an investor checks a bond’s price online, they
+are looking at the clean price, hence it is also known as a clean quote or quoted price.
+A bond’s quoted price can be derived by subtracting accrued interests from the dirty price.
+The difference between a bond’s quoted and dirty price becomes an added profit for the bond issuer.
+Investors use the clean quote to compare between bonds, as it does not fluctuate based on the date.
+The clean quote fluctuates concerning market conditions.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+MONEY MARKET             5.43
+
+Clean Price Explained
+A clean price is the price of a bond without including accrued interest. It is also called the bond’s
+quoted price or clean quote.
+Formula of Clean Price = Dirty price - Accrued Interest
+                                           (Source: https://www.wallstreetmojo.com/dirty-price/)
+7.4  Role of RBI
+The RBI intervenes in the market as and when required by conducting repos (ready forward
+purchases) through its two subsidiaries, namely, Securities Trading Corporation of India (STCI) and
+Discount and Finance House of India (DFHI). The central bank banned these transactions between
+banks following their misuse of diverting funds from the banks to the stock market and reintroduced
+the same in April 1992. The RBI has permitted repos in dated securities, and reverse repo
+transactions by non–bank subsidiary general ledger (SGL) account holders in the lean season credit
+policy announced in April 1997. Non-bank entities holding SGL accounts can lend their surplus
+money to banks by entering a reverse repurchase agreement or reverse repo. These entities
+entering a reverse repo with banks purchase (permitted) repo securities from banks with a
+commitment to sell the same at an agreed future date and price.
+When there is a spurt in call rates, the RBI intervenes through STCI/DFHI by conducting these repos
+to inject the required liquidity. STCI and DFHI are market-makers in dated GOI secs and T-bills.
+They give a two-way quote for the securities which they make the market for. The bid, or the buying
+rate, is always lower than the ask, or selling rate, for a given security. The spread between bid and
+ask (or offer) rate accounts for the transaction cost and normal profit from operations. The RBI
+intervenes to prevent the diversion of investment funds to the call money market.
+Example
+Bank A (borrower - seller), which is short of cash, can sell its repo securities to Bank B (lender –
+purchaser) or STCI or DFHI at ` 96.25 with a commitment to repurchase them at ` 96.75 after 14
+days. The difference between the sale price and the repurchase price or the spread represents the
+interest rate on the borrowed money.
+The Repo buyer’s rights to trade the securities during the term of the agreement, as it represents a
+transfer of ownership that typically does not occur in collateralized lending arrangements.
+The amount of interest earned on funds invested in a Repo is determined as follows:
+Interest earned = Funds Invested × Repo Rate × Number of Days/365
+For example, if ` 1 crore is for 3 days @ 5% would yield interest return of ` 0.04 lakhs.
+1,00,00,000 × 0.05 × 3/365 = ` 4110
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+5.44           FINANCIAL SERVICES AND CAPITAL MARKET
+
+Illustration
+Bank A enters a Repo for 14 days with Bank B in 12% GOI Bonds 2017 at a rate of 5.25% for `5
+Crore. Assuming that the clean price is 99.42, initial margin be 2% and days of accrued interest be
+292, you are required to determine:
+(a)    Dirty Price
+(b)    Start Proceeds (First Leg)
+(c)   Repayment at Maturity (Second Leg)
+Note: Number of days in a year is 360.
+Answer
+(a)    Dirty Price
+     = Clean Price + Interest Accrued
+                    12   292
+     = 99.42 + 100 ×    ×    = 109.1533                   100  360
+(b)    First Leg (Start Proceed)
+                              Dirty Price  100 - Initial Margin
+     = Nominal Value x         ×                         100          100
+                     109.1533  100-2     = `5,00,00,000 x        ×     = `5,34,85,117 say `5,34,85,000
+                      100     100
+(c)   Second Leg (Repayment at Maturity)
+                                     No. of days
+     = Start Proceed x (1 + Repo rate ×                )                                     360
+                                14
+     = `5,34,85,000 x (1 + 0.0525 ×      ) = `5,35,94,199                               360
+
+     8. DAY COUNT CONVENTION
+Day Count Convention defines the way in which interest accrues over time. Generally, we know
+the interest is earned for some reference period, (for example, the time between coupon payments),
+and we are interested in calculating the interest earned over some other period.
+In other words, Day count convention specifies the number of days that a year contains according
+to the bond market. The number of days in a year is important for the calculation of the interest that
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+MONEY MARKET             5.45
+
+has been accrued on the bond. However, the day count convention is not followed uniformly around
+the world. The trader in the Bond Market must have knowledge of the type of convention being used
+in a particular market as each market follows its own convention. Further, day count conventions
+can be segregated into three components:
+♦    The year is assumed to be composed of 360 days
+♦    The year is assumed to be composed of 365 days
+♦    The year is assumed to be composed of the actual number of days i.e., 365 or 366 in a leap year
+So, Day Count Convention refers to the method used for arriving at the holding period (number of
+days) of an instrument to calculate the accrued interest. The various types of day count conventions
+are explained as follows:
+♦    30/360 convention means that irrespective of the actual number of days in a month, the
+     number of days in a month is taken as 30 and the number of days in a year is taken as 360.
+       Indian Bond Market, mortgage-backed securities use the 30/360-day count convention.
+♦    Actual/365 uses the actual number of days in a month, whereas the number of days in a year
+        is taken as 365 days. Indian Money Market instruments use this convention. For example,
+      Treasury bond or G- Sec bonds etc.
+♦    Actual/Actual convention uses the actual number of days in the month and the actual number
+       of days in the year, i.e., 366 days for a leap year. Indian corporate bonds use Actual/Actual
+      day count convention.
+♦    Actual/360 counts the actual number of days in a month but uses 360 as the number of days
+        in the year. This convention is used mainly for commercial paper, T – Bills and other short-
+      term debt instruments.
+The day count convention method has been illustrated below with the help of following example:
+                                    Day Count Convention
+  Field                    30/360      Actual/360     Actual/365      Actual/Actual*
+  Starting Date           01-May-18    01-May-18     01-May-18      01-May-18
+  Settlement Date        01-Aug-18    01-Aug-18     01-Aug-18       01-Aug-18
+  Coupon Rate (%)        10%        10%        10%          10%
+  Face Value               100          100          100            100
+  No. of Days               90           92           92             92
+  Accrued Interest          2.5000        2.5556       2.52055         2.52055
+
+* 2018 is not a leap year so 365 days in a year have been taken for the interest calculation.
+SEBI has clarified certain aspects relating to Day Count Convention, which are enumerated as
+below:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+5.46           FINANCIAL SERVICES AND CAPITAL MARKET
+
+(i)       If the interest payment date falls on a holiday, the payment may be made on the following
+      working day. However, the dates of the future coupon payments would be as per the schedule
+        originally stipulated at the time of issuing the security. In other words, the subsequent coupon
+      schedule would not be disturbed merely because the payment date in respect of one coupon
+      payment has been postponed earlier because of it having fallen on a holiday.
+      This is illustrated with the help of the following example:
+      Date of Issue of Corporate bonds  : July 01, 2016
+      Date of Maturity                               : June 30, 2018
+      Date of coupon payments               : January 01 and July 01
+     Coupon payable                              : semi-annually
+       In this case, January 01, 2017, is a Sunday, thus the coupon would be payable on January
+       02, 2017, i.e., the next working day. However, the calculation for payment of interest will be
+       only till December 31, 2016, which would have been the case if January 01, 2017, were not
+      a holiday. Also, the next dates of payment would remain July 01, 2017, and January 01, 2018,
+      even though one of the interest payments was made on January 02, 2017.
+(ii)    In order to ensure consistency for interest calculation, a uniform methodology shall be
+       followed for calculation of interest payments in the case of leap year, which shall be as
+       follows:
+       In case of a leap year, if February 29 falls during the tenor of a security, then the number of
+      days shall be reckoned as 366 days (Actual/Actual day count convention) for a whole one-
+      year period, irrespective of whether the interest is payable annually, half yearly, quarterly, or
+      monthly etc. It is thus emphasized that for a half yearly interest payment, 366 days would be
+      reckoned twice as the denominator: for quarterly interest, four times and for monthly interest
+      payment, twelve times.
+       This is illustrated with the help of the following example:
+      Date of issue of corporate bonds   : January 01, 2016
+     Coupon payable                              : semi-annually
+      Date of coupon payments               : July 01 and January 01
+       In the above example, in case of the leap year (i.e., 2016), 366 days would be reckoned as
+       the denominator (Actual/Actual), for payment of interest, in both the half year periods i.e. Jan
+       01, 2016, to Jul 01, 2016, and Jul 01, 2016, to Jan 01, 2017.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+MONEY MARKET             5.47
+
+(iii)    In order to ensure uniformity  for payment of interest/redemption with respect to debt
+       securities, it has been decided that interest/redemption payments shall be made only on the
+      days when the money market is functioning in Mumbai.
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions
+1.    Reduction of borrowing amount for T-bills results in the ………… of T-bills.
+        (a)    increase in supply
+        (b)    reduction in supply
+        (c)    increase in demand
+        (d)    increase in supply
+2.    Amount of face value of Certificate of Deposits (CDs) is ` 3000. Period of maturity is 3 months.
+      Discount rate is 12%. The issue price of CDs is ……………
+        (a)   2640
+        (b)   3090
+        (c)   2910
+       (d)   3360
+3.   On the basis of the facts of the above question, the effective rate of interest is ………….
+       (a)   12%
+       (b)   31.2%
+        (c)   15%
+       (d)   18%
+4.   ………….. refers to the market for extremely short period loans i.e., 1 day to 14 days
+       (a)    Treasury Bill
+       (b)    Call or notice money
+        (c)   Repos
+       (d)   Commercial papers
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+5.48           FINANCIAL SERVICES AND CAPITAL MARKET
+
+5.    Which among the following is an unsecured promissory note?
+        (a)    Treasury Bill
+        (b)   Commercial Paper
+        (c)    Commercial Bill
+        (d)   Repos
+6.     Duration of the call money market is for a maximum duration of ……… days.
+       (a)   7 days
+       (b)   14 days
+        (c)   21 days
+       (d)   30 days
+7.   A depositor deposits ` 2,00,000 in a bank. Out of that amount bank shall keep ` ………... as
+     Cash Reserve Ratio as per the present norms mandated by RBI.
+       (a)   9000
+       (b)   6000
+        (c)   8000
+       (d)   7000
+Theoretical Questions
+1.    Discuss the salient features of Money Market and the rigidities in the Indian Money Market.
+2.     Explain Commercial Papers. Discuss the various benefits of Commercial Paper.
+3.     Differentiate between Cash Reserve Ratio and Statutory Liquidity Ratio with examples.
+4.    Discuss the characteristics of Repo transactions.
+5.    What do you understand by Day Count Convention?
+Practical Questions
+1.    Abundant Cash Ltd has enough cash on hand as of April 1, 2022, to last three months. For
+       investing the extra money, it is considering the two possibilities listed below.
+      •    To make investments in fixed deposits with an interest rate of 8% per year payable
+               quarterly.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+MONEY MARKET             5.49
+
+      •    To purchase TBs with a face value of ` 100 that mature in 64 days at a price of 98.25.
+      Give reasons why the corporation should choose one option over the other for investing its
+       surplus funds. Also calculate the yield of treasury bills.
+2.    91-day Treasury Bills (T-Bills) were issued at a fixed price of ` 98. The face value of it was `
+      100. You are required to calculate the Yield Rate of T-Bill and the rate of discount.
+
+ANSWERS/SOLUTIONS
+
+Answer to Multiple Choice Questions
+    1.        (b)        2.        (c)        3.        (a)        4.        (b)        5.        (b)
+    6.        (b)        7.        (a)
+
+Answer to Theoretical Questions
+1.    Please refer to paragraph 1.3 and 1.5
+2.    Please refer to paragraph 3.5
+3.    Please refer to paragraph 4
+4.    Please refer to paragraph 7
+5.    Please refer to paragraph 8
+Answers to the Practical Questions
+1.     Treasury bills are preferred over fixed deposits because of the following reasons:
+          (i)     Return: The returns on Treasury bills are in most cases higher than those on fixed
+              deposits. The fixed deposit rates in banks are around 7% while treasury bill rates for
+           2023 is upto 7.750%.
+            (ii)    Risk: Since the government backs Treasury Bills, they are considered less dangerous
+             than fixed deposits. Fixed deposits, on the other hand, come with a higher risk because
+             they are not backed by the government and rely on the bank or institution providing
+           them for financial stability.
+           (iii)    Liquidity: Owing to their high liquidity, Treasury Bills can be quickly converted into
+             cash. Prior to the maturity date, you can sell them on the secondary market. On the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+5.50           FINANCIAL SERVICES AND CAPITAL MARKET
+
+             other hand, fixed deposits have a fine if the money is withdrawn before the maturity
+              date, although you can liquidate them immediately.
+              Calculation of Yield of Treasury Bill
+           = {(Face Value – Issue Price)/Issue Price} x (364/Maturity Period) x 100
+           = {(100 – 98.25)/98.25} x (364/64) x 100
+           = 10.13%
+2.     Yield Rate on Treasury Bill = (Face Value – Purchase Price/Purchase Price) x (364/Maturity
+       Period) x 100
+      So, Yield Rate on Treasury Bill = (100 – 98/98) x (364/91) x 100 = 8.16%
+       Also, the rate of discount = 100 – 98 = 2%
+      Note: In case of TBs, for the calculation of yield, a year is normally assumed to be of 364
+      days.
+
+
+© The Institute of Chartered Accountants of India

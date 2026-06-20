@@ -1,0 +1,1612 @@
+Source PDF: 07_SPOM/Set_D_04_Digital_Ecosystem_Controls/010 - Chapter-9- Information Technology Tools - 79450bos63475-cp9.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_04_Digital_Ecosystem_Controls\010 - Chapter-9- Information Technology Tools - 79450bos63475-cp9.pdf
+Extracted at: 2026-05-31T10:36:39+05:30
+Pages: 39
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          9
+         1
+INFORMATION
+TECHNOLOGY TOOLS
+
+
+                   LEARNING OUTCOMES
+After studying this chapter, you will be able to –
+   distinguish between Information Systems and Information Technology.
+   understand the factors influencing Information systems Audit and its
+     objectives.
+   understand all the steps involved in an Information Systems Audit (ISA).
+   gain an overview of Information Technology Tools.
+   comprehend about working of several Information Technology Tools.
+   understand about various risks and their controls through illustrations
+    on several business processes.
+   comprehend the risks and controls of specific business processes like
+     Procure to Pay (P2P), Order to Cash (O2C), Current Account and Savings
+     Account (CASA) of Core Banking Systems (CBS).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+9.2            DIGITAL ECOSYSTEM AND CONTROLS
+
+  CHAPTER OVERVIEW
+
+
+                                                        Computer Assisted Audit
+                                                              Techniques (CAAT)
+
+                                                                      Integrated Test Facility
+                                                                                        (ITF)
+              Factors influencing                                            Objectives               Control and Audit
+                                                                        Test Data
+                     Audit                Steps in Audit
+                                                                              Parallel Simulation
+                                            Audit Tools      SYSTEMS                                               Embedded Audit Module
+                                                                  (EAM)
+                                     Procure to Pay (P2P)
+                                                          System Control Audit
+                                                                Review File          INFORMATION                               Order to Cash (O2C)
+                                                                   Transaction Tagging
+                                           Inventory Cycle                                                                Continuous and            Business Processes -                                                                          Intermittent Simulation               Risks & Controls                                                                                  (CIS)                              Human Resources
+
+                                          Fixed Assets
+
+                                        General Ledger
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS              9.3
+
+    9.1  INTRODUCTION
+Information Technology (IT) has improved its control and influence every area of business inclusive
+of processing and auditing of information.
+♦     IT enhanced the ability to store, process and analyse the information and to expand the power
+       of business decision maker.
+♦     IT has impact on the control process of business environment. The control objectives of
+      business processes remain constant however the technology has changed the way in which
+      systems should be controlled.
+♦     IT has also influenced the Chartered Accountancy profession in every manner, for example
+            it influences how the audit is being conducted including drawing of samples and generation
+       of system report, verification of internal controls and efficiency and effectiveness of system
+      alon with integrity of adit report.
+Information technology has become an integral part of most organizational functions. It is likely that
+many organization  either have eliminated or will eliminate a substantial portion of their paper
+documents and replace them with electronic documents stored on system in computerized form. An
+auditor who  is unable to use computerized audit tools and techniques effectively  will be at a
+disadvantage.
+Before proceeding further, it is essential to understand the difference between Information System
+and Information Technology. The Information System comprises of people, process, and Technology
+whereas IT component of an Information system include hardware, software, communication, and
+other components required to generate, process and transfer data / information.
+IT tools are generally used in IT audit which is considered as independent, formal, and objective
+examination of IT infrastructure of an organization. IT auditing is required to evaluate the capability
+of application system that fulfil the processing requirement, capability of internal control and ensure
+the safety of assets that are controlled by these systems. Tools for auditing help to identify controls
+and  determine  their  effectiveness  including  the  standard  auditing  tools  of  internal  control
+questionnaires, interviews, observation, and document review.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+9.4            DIGITAL ECOSYSTEM AND CONTROLS
+
+
+                                    Information Systems
+
+
+    People        Process                                Information Technology
+
+                                      Inputting                    Processing    Transmitting    Outputting                                                   Storing data                                      data                           data           data           data
+
+                   Fig. 9.1: Information Systems vs Information Technology
+Information Systems comprise of various activities such as strategic, managerial, and operational
+that work together to gather, processing, storing, and distributing of data and information. In today’s
+era, the IT auditor requires to have advanced knowledge and skills for continue growth progressing
+up the external and internal audit paths. Today almost every organization has IT audit department
+that assist in financial auditing, internal security auditing, internet security, etc.
+
+     9.2 CONTROL  AND  INSPECTION  OF  INFORMATION
+      SYSTEM
+It is necessary to understand the techniques and tools used to test and evaluate the application for
+auditing purposes.  An evaluation of network reliability makes the auditor to get the answer of
+following:
+♦   Who monitors performance?
+♦   Who corrects problems?
+♦   Who examines the network periodically?
+♦   What problems have occurred?
+♦   What action was taken?
+♦   How is the network kept up-to-date?
+As discussed above information system are used in every function of business. The management
+needs assurance that the system is functioning as per the expectation and all internal controls are
+operating as designed.
+Design of Internal controls are dependent on many factors. Factors influencing an organization
+toward controls and audit of computers and the impact of the information systems audit function on
+organizations are depicted in Fig. 9.2.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS              9.5
+
+
+                                         4. Value of hardware,
+                                 software & personnel                 3. Cost of                                                                          5. High costs of          computer abuse                                                      computer error
+                2. Costs of
+               incorrect                                                6. Maintenance                             ORGANIZATION              decision                                             of privacy
+                                                                             7. Controlled            1. Organizational                          Control and Audit of Computer     evolution of            costs of data
+                loss        based Information Systems     computer use
+
+   Fig. 9.2: Factors influencing an organization toward Control and Audit of computer-
+                          based Information Systems
+Let us now discuss these reasons in detail (Refer Fig. 9.2):
+1.    Organizational Costs of data loss: Data is a critical resource of an organization. If the data
+        is accurate, its ability to adapt and survive in a changing environment increases significantly.
+           If such data is lost, an organization can incur substantial losses.
+2.    Cost of Incorrect Decision making: Making high-quality decisions are dependent on both
+      – the reliability and integrity  of the data. Decision is taken at highest levels based on MIS
+       reports provided by middle management. The Middle management relies on the output
+      generated by system. Any incorrect data at any level can have adverse impact on the
+       organization as well as other stakeholders having an interest in the organization.
+3.    Costs of computer abuse: Computer abuse is defined as any incident associated with
+      computer technology in which the user suffered or could have suffered loss and a perpetrator
+      by intention made or could have made gain. Unauthorized access to computer systems,
+      malwares, and unauthorized physical access to computer facilities, unauthorized copies of
+       sensitive data, viruses, and hacking can lead to destruction of assets (hardware, software,
+       data,  information,  etc.). The cost  of data leakage can impact the  reputation  of any
+       organization.
+4.    Value  of  computer  hardware,  software and  personnel:  In  today’s  environment
+     management has substantial investment in creating and maintaining IT infrastructure which
+       include Hardware software and people. These are critical resources of an organization, which
+      has a credible impact on its infrastructure and business competitiveness. The intentional or
+       unintentional loss of hardware, the destructions or corruption of software, and non-availability
+       of skilled computer professionals in any organization may lead to disruption of business
+       operations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+9.6            DIGITAL ECOSYSTEM AND CONTROLS
+
+5.    High Costs of Computer Error: In a computerized enterprise environment where many
+         critical business processes are performed, a data error during entry or process would cause
+       great damage. For example -ABC trader punched an order to buy 17 lakh NIFTY 50 units
+       instead of punching order to sell ` 17 lakh worth of NIFTY 50 units. The sell orders were
+      converted into a transaction because ABC trader placed unrealistic buy order to buy NIFTY
+      50 stocks at price far away from the market price, without adequate margin money.
+6.    Maintenance of Privacy: Today, data collected in a business process contains private
+       information about an individual. This data were also collected before computers but now,
+       there are many instances in which privacy of individuals has been eroded beyond acceptable
+        levels. Breach in observing the obligation of Data Fiduciary to take reasonable security
+      safeguards to prevent personal data breach under sub-section (5) of section 8 of Digital
+      personal data protection Act 2023 have penalty provisions of maximum up to 250 Crores.
+7.    Controlled evolution of computer Use: Use of Technology and  reliability of complex
+      computer systems cannot be guaranteed and the consequences of using unreliable systems
+      can be destructive. Governments, professional bodies, pressure groups, organizations and
+       individual persons all must be concerned with evaluating and monitoring how we deploy
+      computer technology. For example, MCX (Multicommodity exchange) India Limited was an
+       associate company of 63 Moons, which held 26% of its equity. MCX was using the software
+       platform provided by 63 Moons. MCX was forced to sell its stake in MCX following the scandal
+       that surfaced at its subsidiary spot exchange NSEL in 2013. Due to this scam MCX was
+       required to change the core trading platform due to non-reliability of earlier system.
+
+    9.3  INFORMATION SYSTEMS AUDITING
+Information systems are the backbone of any organization; therefore, their auditing is also very
+important to work on. Information Systems Auditing  is defined as the process of attesting
+objectives (those of the external auditor) that focus on asset safeguarding, data integrity and
+management objectives (those of the internal auditor) that include effectiveness and efficiency both.
+Information Systems Auditing (ISA) enables organizations to better achieve some major objectives
+that are depicted in the Fig. 9.3:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS              9.7
+
+                    Information Systems Auditing
+
+
+            a. Improved                                                                                 d. Improved System        Safeguarding of                                                                                   efficiency            assets                       Organization
+
+      b. Improved Data                                                           c. Improved System
+           Integrity                                                          effectiveness
+
+                             Fig. 9.3: Information Systems Auditing
+a.    Improved Safeguarding of Assets: The information system assets like hardware, software,
+         facilities, people, data files, system documentation, information, etc. must be protected from
+      unauthorized access. These assets are often concentrated in one or a small number of
+       locations, such as single server. Therefore, asset safeguarding is an important objective for
+     many organizations to achieve.
+b.    Improved Data Integrity: It is a fundamental attribute of Information System Auditing. Data
+      has certain attributes – completeness, reliability, transparency, and accuracy. The integrity
+       of data is to be maintained throughout data life cycle such as from capturing of the data till
+       destruction of data as per the policy of the organizations; else an organization may suffer loss
+       of competitive advantage. It is also important from the business perspective of the decision
+      maker, competitive and the market environment.
+c.    Improved System Effectiveness: Evaluating effectiveness implies matching the  user
+      needs. Effectiveness of a system means whether a system reports information in a way that
+        facilitates its users in decision- making or not. Auditors must be aware of users’ requirements
+      and decision-making environment at various levels of users to have an assurance on
+       effectiveness of system .
+d.    Improved System Efficiency: An efficient information system uses minimum resources to
+      achieve its required objectives, therefore the use of various information system resources like
+      machine time, peripherals, system software and labor must be optimally utilized along with
+       the impact on  its computing environment. Before upgradation of the any systems or at
+      implementation of new system, auditors may assist management by giving recommendation
+        for improvement in system efficiency.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+9.8            DIGITAL ECOSYSTEM AND CONTROLS
+
+    9.4  AUDITING  AROUND  THE  COMPUTER  VERSUS
+       AUDITING THROUGH THE COMPUTER
+Auditing around the computer (Blackbox auditing approach) and auditing through the computer
+(Whitebox auditing approach) are the two different concepts. When the automated applications are
+simple and straightforward, then auditing around computer is more adequate than auditing through
+computer.
+♦     In the auditing around the computer, the auditor obtains the source document related to a
+       particular transaction and reconciles these documents against output result. Hence, audit
+       supporting documentation is drawn and conclusions are reached without considering how
+       inputs are being processed to provide outputs.
+♦    The auditing through the computer approach includes a variety of techniques to evaluate
+     how the application and their embedded controls respond to various types of transactions
+       that can contain errors. The techniques most commonly use include Integrated Test facility,
+      Test data, Parallel Simulation, Embedded Audit Module, Systems Control Audit Review File
+      (SCARF), and transaction tagging, etc. Again, many of these techniques should be embedded
+        into the application for use by auditors and information security personnel. These techniques
+       provide  continuous  audit and  evaluation  of  the  application  or systems and  provide
+     management and the audit or security personnel assurances that controls are working as
+      planned, designed, and implemented.
+♦    The major weakness of the auditing around the computer approach is that it does not verify
+       or validate whether the program logic of the application being tested is correct, which is the
+      main characteristics of the auditing through the computer approach.
+STEPS IN INFORMATION SYSTEM AUDIT
+Different audit organizations go about IS auditing in different ways and individual auditors have their
+own favourite ways of working. However, it can be categorized into six stages as shown in Fig. 9.4.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS              9.9
+
+
+       Scoping
+                      Planning
+
+                                      Fieldwork
+                                                       Analysis
+
+                                                                     Reporting
+
+                                                   Close
+
+                     Fig. 9.4: Steps in Information Systems Audit process
+(i)    Scoping and pre-audit survey: Auditors determine the significant area/s of focus and any
+      areas  that  are  explicitly  out-of-scope,  based on  the  scope-definitions  agreed  with
+      management. This may includes  collecting  background through various sources such as
+      from web browsing, previous audit reports, pre audit interview, observations and, sometimes,
+       subjective impressions that simply deserve further investigation.
+(ii)    Planning and preparation: At this stage,  the scope is broken down into greater levels of
+        detail, usually involving the generation of an audit work plan or risk-control-matrix.
+(iii)   Fieldwork: This step involves gathering of evidence by interviewing staff and managers,
+       reviewing documents, and observing processes etc.
+(iv)   Analysis: This step involves sorting out, reviewing and to arrive at conclusion from the
+      evidence gathered earlier. SWOT (Strengths, Weaknesses, Opportunities, Threats) or PEST
+        (Political, Economic, Social, Technological) techniques can be used for analysis.
+(v)    Reporting: Reporting to the management is done after analysis of evidences and first level
+       discussion with auditee for explanation on identified observations.
+(vi)   Closure: Closure involves preparing notes for future audits and follow up with management
+       to complete the actions they promised after previous audits.
+Analysis and reporting may involve the use of automated data analysis tools such as ACL or IDEA,
+if  not  Excel, Access and  hand-crafted SQL  queries. Automated system  security  analysis,
+configuration or vulnerability management and security benchmarking tools are also used for
+reviewing security parameters, and the basic security management functions that are built-in to
+modern systems can help with log analysis, reviewing user access rights etc.
+Secondly, after accepting an engagement, the pre-audit survey is more important, as in this survey
+auditor has official access to client records and data. The purpose of this survey shall help auditor
+to assess the audit schedules, audit team size, and audit team components.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+9.10           DIGITAL ECOSYSTEM AND CONTROLS
+
+    9.5 INFORMATION TECHNOLOGY TOOLS
+Today, organizations produce information on a real-time, online basis. Real-time recordings need
+real-time auditing to provide continuous assurance about the quality of the data that is continuous
+auditing. Continuous auditing enables auditors to significantly reduce and to eliminate the time
+between occurrence of the client’s events and the auditor’s assurance services thereon. Errors in a
+computerized system are generated at high speeds and the cost to correct and rerun programs is
+high.  If these errors can be detected and corrected at the point or closest to the point of their
+occurrence, the impact thereof would be the least. Continuous auditing techniques use two bases
+for collecting audit evidence. One is the use of embedded modules in the system to collect, process,
+and print audit evidence and the other is special audit records used to store the audit evidence
+collected. Auditors should understand all tools and techniques that can be used to test all the
+business processes of a computerized system by processing and analyzing the data of these
+computerized files.
+In today’s world, it is a necessity that an auditor should understand alternative tools and techniques
+to  test the operations  of computerized systems and gather and analyse data contained  in
+computerized files. While dealing with large volume of information, these automated techniques have
+proven to be better than manual. Automation helps to evaluate greater volumes of data and quickly
+perform analysis on data to gather a broader view of a process. The person who inspects or checks
+can take advantage of these tools to be more efficient and effective while performing audit work.
+Some common tools used for analysing data are Microsoft Access, Microsoft Excel and SAP Audit
+Management, etc.
+♦    Microsoft Access can be used to analyze data, create reports, and query data files.
+♦    Microsoft Excel also analyzes data, generates samples, creates graphs, and performs
+       regression or trend analysis.
+♦   SAP Audit Management facilitates the documentation of evidence, organization of working
+      papers, and creation of audit reports. This technique also provides analytical capabilities to
+        shift the focus of audits from basic assurance to providing insight and advice.
+I.    Computer Assisted Audit Techniques (CAATs): When adequate application controls are
+        identified in an Information System, the IT auditor performs tests to verify their design and
+       effectiveness. When controls are not adequate, IT auditors perform extensive testing to verify
+       the integrity of the data. To perform tests of applications and data, an auditor may use CAAT.
+     CAATs are the practice of using computers to automate the IT audit processes.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS             9.11
+
+     CAAT is useful to both IT and financial auditors in a variety of ways to evaluate the integrity
+       of an  application,  determine compliance  with  procedures, and  continuously  monitor
+      processing results. IT auditors can review applications to expand an understanding of the
+       controls in place to ensure the accuracy and completeness of the information generated.
+     Common CAATs such as Audit Command Language (ACL) and Interactive Data Extraction
+      and Analysis (IDEA) can be used to select a sample, analyse the characteristics of a data
+          file, identify trends in data, and evaluate data integrity.
+     A large part of the professional skills required to use CAATs lies in planning, understanding,
+      and supervising. The computer has a broad range of capabilities. There is a variety of CAATs
+       that are useful when auditing applications and data integrity. For example - Generalized audit
+      software can be used to analyse the spreadsheet logic and calculations for accuracy and
+      completeness,  evaluate  data produced  from  applications, and  produce  logical  data
+       flowcharts. The activities involved under generalized audit software are to:
+    o     analyze and compare files;
+    o     select specific records for examination;
+    o     conduct random samples;
+    o     validate calculations;
+    o     prepare confirmation letters; and
+    o     analyze aging of transaction files.
+       IT auditors also use these software techniques for testing and/or documentation of selected
+      processes within the IT environment in the form of flowcharts, and data flow diagrams, for
+       instance. Example of the most popular software packages includes Audit Analytics by Arbutus
+       Software, CaseWare Analytics IDEA Data Analysis, Easy2Analyse, TeamMate Analytics, etc.
+      Refer Table 9.1 to know about Traditional audit vs CAATs.
+                   Table 9.1: Traditional audit vs CAATs on specific risks
+       Consider an example of an insurance company.
+       Using traditional audit techniques, the risk of paying any claims even after a policy is
+       terminated would be very difficult to test. The auditor would "randomly select" a "statistically
+         valid" sample of 30-50 claims which would provide a clear understanding of the situation is
+        highly unlikely.
+       Using CAATs, the auditor can select every claim that had a date of service after the policy
+        termination date. Using CAATs, the auditor is able to identify every claim that was paid,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+9.12           DIGITAL ECOSYSTEM AND CONTROLS
+
+      and the exact amount incorrectly paid by the insurance company. The auditor can then
+        figure out why the controls to prevent this failed.
+II.     Integrated Test Facility (ITF): The ITF technique involves the creation of a dummy entity in
+       the application system files and the processing of audit test data against the entity as a means
+       of verifying authenticity, accuracy, and completeness. This test data would be included with
+       the normal production data used as input to the application system. In such cases, the auditor
+      must decide what would be the method to be used to enter test data and the methodology for
+      removal of the effects of the ITF transactions. This technique can be used on large scale to
+      serve multiple locations of the organization. Auditors can submit transactions to test the
+      system throughout the financial period. The test facility is composed of a fictitious company
+       or branch, set up in the application and file structure to accept or process test transactions
+      as though it was an actual operating entity. Fig. 9.5 provides an outline about the advantages
+      and disadvantages of ITF and Table 9.2 provides its example.
+
+            Advantages
+              •This facility is designed into the application during system development.
+            •Designed into the application during system development.
+
+            Disadvantages
+              •Expertise is required to design the audit modules (built-in test environments) into
+               the application and to ensure that test transactions do not affect actual data.
+             •Since the audit module is set up in the organization or client application, the risk
+                 of disrupting the data is high.
+                   • Controls must be adequately designed and implemented to identify and remove
+               the effects of test transactions.
+
+                         Fig. 9.5: Advantages and Disadvantages of ITF
+                         Table 9.2: Example of ITF Implementation
+     ABC Ltd. is a company having a team of Information Systems Auditors and deal with
+       assignments related to IS Auditing. One of the major clients of ABC Ltd. is ManuTree
+        dealing in mutual fund services.
+      To audit ManuTree’s accounting system, Mr. Suresh, an IS Auditor provided an audit
+          facility  consisting  of  program,  code,  or  additional  data  to be embedded and
+        incorporated into the computer element of the client’s accounting system.
+       Using ITF, a fictitious entity was created, for example a customer, within the context
+         of the regular application. Transactions are then posted to the fictitious entity together
+        with regular transactions and the results produced by the normal processing cycle are
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS             9.13
+
+       then compared with predetermined results. Such entries should be reversed at defined
+         cut-off dates to ensure that they are not included in the financial reports.
+       Conclusion: The ITF enabled Mr. Suresh, the auditor and the client’s management to
+       check continuously on the internal processing functions.
+III.    Test Data:  This technique involves methods of providing test transactions to a system for
+      processing by existing applications. Test data provides a full spectrum of transactions to test
+       the processes within the application and system. Both valid and invalid transactions should
+      be included in the test data as the objective is to test how the system processes both correct
+      and erroneous transaction input. Let us consider the consumer credit card service. Many
+       transactions in this case may involve invalid account numbers, accounts that have been
+      suspended or deleted, and others. If reliance is placed on program, application, or system
+        testing, some form of intermittent testing is essential. Test data generators are very good
+       tools to support this technique but should not be relied on entirely for extreme condition
+        testing. Fig 9.6 highlights the advantages and disadvantages of Test Data and Table 9.3
+      provides its example.
+
+                                                                  • Minimal  expertise  required  to  run  test  data
+                                                techniques.
+                  Advantages                  • Risk of disrupting organization or  client data  is
+                                              minimal due  to  the  fact  that  a  copy  of  the
+                                                   application is used.
+
+                                                                  • Personnel  from  the  organization  or  the  client
+                                               provides copy of the application, however,  it may
+                 Disadvantages           be  difficult to determine  if the copy provided  is
+                                                  exact,  thereby  reducing  reliability  of  the  test
+                                           method.
+
+                     Fig. 9.6: Advantages and disadvantages of Test Data
+                                Table 9.3: Example of Test Data
+         In an organization, if two dummy transactions are being processed with the probability
+         that the transaction within the purview of parameters would be accepted else it would
+       be rejected. If any of the transaction does not produce the expected result, them the
+        auditor must ponder upon the requirement of applicable procedures in the area being
+        reviewed.
+IV.    Parallel  Simulation:  Parallel  simulation  involves  the  separate maintenance  of  two
+      presumably identical sets of programs. The original set of programs is the production copy
+      used in the application under examination. The second set could be a copy secured by
+       auditors at the same time that the original version was placed into production.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+9.14           DIGITAL ECOSYSTEM AND CONTROLS
+
+     As changes or modifications are made to the production programs, the auditors make the
+     same updates to their copies. If no unauthorized alteration has taken place, using the same
+       inputs, comparing the results from each set of programs should yield the same results.
+      Another way  is for the auditor to develop pseudocode using higher-level programming
+      languages such as SQL, JAVA, etc. from the base documentation following the process logic
+      and requirements. For audit purposes, both software applications (test versus actual) would
+        utilize same inputs and generate independent results that can be compared to validate the
+       internal  processing  steps.  Refer  Fig.  9.7  to know  about  several  advantages  and
+      disadvantages of Parallel Simulation and Table 9.4 provides its example.
+                            Risk of disrupting organization or client data is minimal. Simulation does not
+       Advantages         affect processing.
+                              Auditor  obtains  output  information  directly  without  intervention  from
+                              organization or client personnel.
+
+       Disadvantages     Extent of to which expertise is required depends upon the complexity of the
+                              organization or client’s processing being simulated.
+
+
+                Fig. 9.7: Advantages and Disadvantages of Parallel Simulation
+                         Table 9.4: Example of Parallel Simulation
+        Let us consider an example of invoice processing. Collect a set of invoices from client's
+        data and simulate to arrive at the expected accounting entries on invoice processing. Now
+       compare the simulated results with that of client's system.  If the results are same, the
+          client's system control  is  intact. Suppose there are exceptions  in the comparison,
+         additional test procedures should be performed to identify the impact of exception.
+
+V.   Embedded Audit Module (EAM): It is the programmed audit module that is added to the
+       application under review. The embedded module allows auditors to monitor and collect data
+        for analysis and to assess control risks and effectiveness. The level of expertise required in
+        this module is considered medium to high, as auditors require knowledge and skills in
+      programming to design and implements the module. The risk of disrupting client data may be
+       high. Because all transactions would be subjected to the module’s screening algorithm, it can
+        significantly affect the speed of processing.
+      For example - A company wants to ensure that all sales transactions over `10 lakhs are
+       required to be authorized by a manager. An embedded audit module could be programmed
+        into the company’s sales system to flag all such transactions. Whenever a sales transaction
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS             9.15
+
+      over ` 10 lakh occurs, the module records the transaction details and whether  it was
+       appropriately authorized. The auditors can then periodically review this information to identify
+      any transactions that did not receive proper authorization.
+      Advantages: By providing real-time or near real-time monitoring of transactions, embedded
+       audit modules can help detect errors, fraud, or non-compliance more quickly than traditional
+       audit methods.
+      Disadvantages: However, they need to be carefully managed and secured, as they have
+      access to sensitive system and transaction data.
+      Refer Table 9.5 to understand example of Embedded Audit Module.
+
+                      Table 9.5: Example of an Embedded Audit Module
+       Suppose there’s a company called  “TrialFin”  that processes thousands  of  financial
+        transactions on daily basis. As the volume of the transactions is very high, it is impossible
+         for internal auditors to manually check each transaction for inconsistencies or errors.
+      To address  this,  TrialFin decides  to incorporate an embedded audit module  in  its
+        transaction processing system. This module is programmed to look for certain indicators
+         of fraud or error, such as:
+    ♦     Transactions that exceed a certain amount, say ` 10 crores because these could
+              represent a higher risk if they are incorrect or fraudulent.
+    ♦     Transactions that are processed outside of normal business hours, which could be
+             a sign of unauthorized activity.
+    ♦     Transactions processed by certain high-risk or high-privilege user accounts, to
+             ensure these are being used appropriately.
+      The embedded audit module tracks these transactions  in  real time as the system
+       processes them. If it detects any that meet the criteria, it flags them and records relevant
+         details in a special audit log.
+      The auditors periodically review the audit log to check for any flagged transactions. For
+       each one, they would verify whether it was correct and authorized. If any issues are found,
+        they can investigate further to understand what went wrong and how to prevent it in the
+         future.
+       Through  this  process,  TrialFin can  effectively  monitor  its high-volume  transaction
+        processing, detect potential issues more quickly, and provide assurance that its financial
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+9.16           DIGITAL ECOSYSTEM AND CONTROLS
+
+        controls are working properly. The embedded audit module aids in efficient and effective
+        auditing without disrupting the normal operations.
+VI.   System Control Audit Review File (SCARF): The SCARF technique is real time technique
+       that involves embedding audit software modules within a host application system to provide
+      continuous monitoring of the system’s transactions. The information collected is written onto
+      a special audit file- the SCARF master file. This technique may collect specific transactions
+       that violate certain predetermined pattern like transactions that exceed a specified limit;
+       involve inactive accounts; deviate from company policy; or contain write-downs of asset
+       values.
+     To review and examine, computer forensic specialist may collect data from log files. Auditors
+      then examine the information contained in this file to see  if some aspect of the application
+      system needs follow-up.
+       Usually, SCARF is used to collect the following information - Application System errors, Policy
+      and procedural variances, System exceptions, Statistical samples, Snapshots and extended
+       records, Data profiling, Data for performance measurement. In many ways, the SCARF
+      technique is like the snapshot technique along with other data collection capabilities. Fig. 9.8
+        illustrates the advantages and disadvantages of SCARF and Table 9.6 provides its example.
+
+                                 •This technique may allow the auditor to embed audit routine into
+           Advantages         an application system and collect data on various events that are
+                                       of their interest.
+
+                                  •Expertise is required to embed audit routines into an application
+                                 system, and ensure those routines do not affect actual data.
+         Disadvantages         •Risk of disrupting organization or client data is high.
+                                  •Controls must be adequately designed and implemented to
+                                          identify and remove the effects of the embedded audit routines.
+
+                       Fig. 9.8: Advantages and disadvantages of SCARF
+
+                                Table 9.6: Example of SCARF
+       For Life insurance Company, criteria have been set that  if below two conditions are
+         satisfied, then transaction should be recorded In SCARF for subsequent review of Auditor:
+    ♦    Change in the address of the customer.
+    ♦    Withdrawal of fund within 7 days of change in address.
+VII.   Transaction Tagging: Transaction tagging follows a selected transaction through the
+       application from input, transmission, processing, and storage to  its output to verify the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS             9.17
+
+        integrity, validity, and reliability of the application. Some applications have a trace or debug
+       function, which can allow one to follow the transaction through the application. This may be
+      a way to ensure that the process for handling unusual transactions is followed within the
+       application modules and code. Table 9.7 highlights the advantages and disadvantages of
+      Transaction Tagging and Table 9.8 provides its example.
+                Table 9.7: Advantages/Disadvantages of Transaction Tagging
+      Advantages          Disadvantages
+       Allows auditors to log  Expertise required to add special designation (or tag) to the
+          all the transactions or   transaction record.
+       snapshot of activities.
+      Tags     transactions  Risk of disrupting client data may be medium to high. Controls
+       from beginning to end.  must be adequately designed and implemented to identify
+                           and remove the tag or special designation added  to the
+                                 transaction being.
+
+                          Table 9.8: Example of Transaction Tagging
+       Imagine yourself to be an interior designer working with ten real estate agents that refer
+       business to you. You might know off the top of your head which agent refers the most
+        business, but you are not sure which clients pay the most. Let us say Mr. Amit refers an
+       average of twenty clients per month, whereas Mr. Monty refers an average of seven clients
+        per month. It might seem like it is most worthwhile to focus on building your relationship
+        with Mr. Amit. However, by tagging your transactions, you discover that clients referred by
+        Mr. Amit pay around ` 50K, whereas clients that come from Mr. Monty pay around ` 80K.
+      The numbers speak  for themselves—by tagging transactions with  client name, you
+        discover that you can make more money by building closer ties with Mr. Monty.
+       Thus, we can see that how transaction tagging can help us get more strategic and be
+        instrumental in any business growth.
+VIII.  Continuous and Intermittent Simulation (CIS): This is a variation of the SCARF continuous
+       audit technique which can be used to trap exceptions whenever the application system uses
+      a Database Management System (DBMS). CIS is an auditing technique that simulates the
+       instruction execution of the application at the time the application is processing a transaction.
+        All data and input to the application is accessible by and shared with the simulation. This
+     means that the simulation is notified about each transaction that is entered to the application
+      and accesses to database by the DBMS.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+9.18           DIGITAL ECOSYSTEM AND CONTROLS
+
+      Advantages: The CIS does not require modifications to the application system and yet
+      provides an online auditing capability.
+      Disadvantages
+    o     Auditors should be able to obtain resources required from the organization to support
+            development,  implementation,  operation, and maintenance  of  continuous  audit
+             techniques.
+    o     Continuous audit techniques are more likely to be used if auditors are involved in the
+            development work associated with a new application system.
+    o     Auditors need the knowledge and experience of working with computer systems to be
+             able to use continuous audit techniques effectively and efficiently.
+    o     Continuous auditing techniques are more likely to be used where the audit trail is less
+               visible and the costs of errors and irregularities are high.
+    o     Continuous audit techniques are unlikely to be effective unless they are implemented
+                in an application system that is relatively stable.
+      Refer Table 9.9 to understand example of CIS.
+
+                                 Table 9.9: Example of CIS
+       During application system processing, CIS executes in the following way:
+    ♦    The DBMS reads an application system transaction which is passed to CIS. CIS
+             then determines whether it wants to examine the transaction further. If yes, the next
+              steps are performed or otherwise it waits to receive further data from the DBMS.
+    ♦    CIS replicates or simulates the application system processing.
+    ♦    Every update to the database that arises from processing, the selected transaction
+                   will be checked by CIS to determine whether discrepancies exist between the results
+                          it produces and those the application system produces.
+    ♦    Exceptions identified by CIS are written to an exception log file. Serious exceptions
+          may prevent the DBMS from executing the update.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS             9.19
+
+    9.6  BUSINESS PROCESSES
+A Business Process is an activity or set of activities that will accomplish a specific organizational
+goal. Depending on the organization, industry and nature of work; business processes are often
+broken up into different categories as shown in the Fig. 9.9.
+
+                                Categories of Business Processes
+
+      Operational Processes         Supporting Processes         Management Processes
+
+                         Fig. 9.9: Categories of Business Processes
+I.     Operational Processes (or Primary Processes): Operational or Primary Processes deal
+       with the core business and value chain. These processes deliver value to the customer by
+       helping to produce a product or service. Operational processes represent essential business
+        activities that accomplish business objectives e.g. purchasing, manufacturing, and sales.
+       Also, Order to Cash cycle (O2C) and Purchase to Pay (P2P) cycles are associated with
+      revenue generation.
+II.    Supporting Processes (or Secondary Processes): : Supporting Processes back core
+      processes and functions within an organization. Examples of supporting or management
+      processes include Accounting, Human Resource (HR) Management and workplace safety.
+     One key differentiator between operational and support processes is that support processes
+      do not provide value to customers directly. However, it should be noted that hiring the right
+      people for the right job has a direct impact on the efficiency of the enterprise.
+III.   Management Processes: Management Processes measure, monitor and control activities
+       related to business procedures and systems. Examples of management processes include
+       internal communications, governance, strategic planning, budgeting, and infrastructure or
+       capacity management. Like supporting processes, management processes do not provide
+      value directly to the customers. However,  it has a direct impact on the efficiency of the
+       enterprise.
+9.6.1 Business Processes - Risks and Controls
+Suitable controls should be implemented to meet the requirements of the control objectives. These
+controls can be manual, automated, or semi-automated provided the risk is mitigated. In computer
+systems, controls should be checked  at three  levels, namely Configuration, Masters, and
+Transactions level (Table 9.10).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+9.20           DIGITAL ECOSYSTEM AND CONTROLS
+
+                      Table 9.10: Various levels to check control
+  Configuration                   Masters                 Transactions
+                                                           Transactions refer to the  Configuration refers to the way a  Masters   refer   to  key
+                                                                       entries  recorded      in  software   system    is   set   up.  business    data     that                                                           system  through  menus
+   Configuration  is  the  process  of  provides    context    for  and   functions   in   the
+   defining options that are provided.  business transactions and   application      software.
+                                                                 Transaction   can   be  When any  software  is  installed,   operations.         Data
+                                                           system generated or user  values   for   various  parameters  designated  as   master                                                             generated  from     any
+  should be set up (configured) as per  data  will be different for   specific  modules.   The
+   policies  and  business  process   various  industries.  The  processing              of
+                                                                    transactions   in  system  workflow   and   rules    of   the   transactions          are                                                                    involves          initiation,
+   enterprise. Configuration will define  processed   based   on                                                                       authorization, or approval
+  how software will function and what  programming  done  with  based  on   design   of
+  menu  options  are  displayed  to  master data The masters  system.
+  various users. Configuration can be  are set up first time during
+  modified    based    on    user   installation and these are
+  requirements  with  the  use   of  changed  whenever  the
+   administrative rights only.           business process rules or
+                                    parameters are changed.
+                                                              For   example:   Sales  The   various  modules   of   the  Examples   are  Vendor
+                                                                      transactions,   Purchase   enterprise  such  as  Purchase,  Master, Customer Master,                                                                      transactions,      Stock
+  Sales,  Inventory,  Finance,  User   Material Master, Accounts   transfer     transactions,
+  Access etc. must be configured.      Master, Employee Master  Journal    entries   and
+                                                       Payment transactions.                                             etc.
+
+9.6.2 Procure to Pay (P2P) – Risks and Controls
+Procure to Pay (Purchase to Pay or P2P) is the process of obtaining and managing the materials
+required for manufacturing a product or providing a service. It involves the transactional flow of data
+that is sent to a supplier as well as the data that surrounds the fulfillment of the actual order and
+payment for the product or service. Using automation,  it should be possible to have a seamless
+procure to pay process covering the complete life-cycle from point of order to payment. Figure 9.10
+depicts P2P process
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS             9.21
+
+
+  Purchase       Purchase     GRN - Service        Invoice                                                         Payment      Accounting  requisition        order         confirmation      processing
+
+                              Fig.9.10: Procure to pay process
+Masters
+                Table 9.11: Risks and Control Objectives (Masters-P2P)
+                  Risk                                Control Objective
+ Unauthorized changes to supplier master file.  Only valid changes are made to the supplier
+                                           master file.
+ All valid changes to the supplier master file are  All valid changes to the supplier master file are
+ not input and processed.                        input and processed.
+ Changes to the supplier master  file are not Changes  to  the  supplier  master   file  are
+ correct.                                       accurate.
+ Changes to the supplier master file are delayed Changes  to  the  supplier  master   file  are
+ and not processed in a timely manner.         processed in a timely manner.
+ Supplier master file data is not up to date.      Supplier master file data remain up to date.
+ System access to maintain vendor masters has System access to maintain vendor masters has
+ not been restricted to the authorized users.    been restricted to the authorized users.
+
+Transactions
+               Table 9.12: Risks and Control Objectives (Transactions-P2P)
+                  Risk                                Control Objective
+ Unauthorized   purchase   requisitions   are Purchase orders are placed only for approved
+ ordered.                                           requisitions.
+ Purchase orders are not entered correctly in Purchase orders are accurately entered.
+ the system.
+ Purchase  orders issued  are  not  input and  All  purchase  orders  issued  are  input and
+ processed.                                  processed.
+ Amounts are posted in accounts payable for Amounts posted to accounts payable represent
+ goods or services not received.              goods or services received.
+ Amounts posted to accounts payable are not Accounts  payable  amounts  are  accurately
+ properly calculated and recorded.              calculated and recorded.
+ Amounts for goods or services received are not  All amounts for goods or services received are
+ input and processed in accounts payable.       input and processed to accounts payable.
+ Amounts for goods or services received are Amounts for goods or services received are
+ recorded in the wrong period.                 recorded in the appropriate period.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+9.22           DIGITAL ECOSYSTEM AND CONTROLS
+
+ Accounts payable amounts are adjusted based Accounts payable are adjusted only for valid
+ on unacceptable reasons.                     reasons.
+ Credit notes and other adjustments are not Credit  notes  and  other  adjustments  are
+ accurately calculated and recorded.            accurately calculated and recorded.
+ All valid credit notes and other adjustments  All valid credit notes and other adjustments
+ related to accounts payable are not input and related  to accounts payable are  input and
+ processed.                                  processed.
+ Credit  notes  and  other  adjustments  are Credit  notes  and  other  adjustments  are
+ recorded in the wrong period.                 recorded in the appropriate period.
+ Disbursements  are  made  for  goods  and Disbursements are made only for goods and
+ services that have not been received.          services received.
+ Disbursements are distributed to unauthorized Disbursements   are   distributed    to   the
+ suppliers.                                     appropriate suppliers.
+ Disbursements are not accurately calculated Disbursements are accurately calculated and
+ and recorded.                                recorded.
+ All disbursements are not recorded.               All disbursements are recorded.
+ Disbursements   are   recorded    for   an Disbursements are recorded in the period in
+ inappropriate period.                        which they are issued.
+ Adjustments to inventory prices or quantities Adjustments to inventory prices or quantities
+ are not recorded promptly and not done in the are recorded promptly and in the appropriate
+ appropriate period.                              period.
+ System access to process transactions has not System access to process transactions has
+ been restricted to the authorized users.       been restricted to the authorized users.
+
+9.6.3 Order to Cash (O2C) – Risks and Controls
+Order to Cash (OTC or O2C) is a set of business processes that involve receiving and fulfilling
+customer requests for goods or services. Refer Fig. 9.11 to understand O2C process.
+
+  Customer        Order          Delivery                                                    Invoicing       Collections      Accounting    Order       Acceptance       Note
+
+                                Fig. 9.11: Order to Cash Process
+i.    Customer Order: Customer order is received.
+ii.    Order Acceptance: Order is accepted as per agreed terms including delivery or service
+       timelines .
+iii.    Delivery Note: Order is shipped to customer or service is performed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS             9.23
+
+iv.    Invoicing: Invoice is prepared created and sent to the customer.
+v.     Collections: Funds are collected from customer for sale of goods/service .
+vi.    Accounting: Payment is recorded in General ledger.
+                Table 9.13: Risks and Control Objectives (Masters-O2C)
+                  Risk                                Control Objective
+ The customer master  file is not maintained  The  customer  master   file   is  maintained
+ properly, and the information is not accurate.   properly, and the information is accurate.
+ Invalid changes are made to the customer  Only valid changes are made to the customer
+ master file.                                master file.
+  All valid changes to the customer master file   All valid changes to the customer master file
+ are not input and processed.                  are input and processed.
+ Changes to the customer master file are not  Changes  to  the customer master  file  are
+ accurate.                                      accurate.
+ Changes to the customer master file are not  Changes  to  the customer master  file  are
+ processed in a timely manner.                processed in a timely manner.
+ Customer master  file data is not up-to-date  Customer master file data is up to date and
+ and relevant.                                     relevant.
+ System access to maintain customer masters  System access to maintain customer masters
+ has  not been  restricted  to the authorized  has been restricted to the authorized users.
+ users.
+
+Transactions
+               Table 9.14: Risks and Control Objectives (Transactions-O2C)
+                  Risks                               Control Objectives
+ Orders are processed exceeding customer  Orders are processed only within approved
+ credit limits without approvals.                customer credit limits.
+ Orders are not approved by management as  Orders are approved by management as to
+ to prices and terms of sale.                     prices and terms of sale.
+ Orders and cancellations of orders are not  Orders and cancellations of orders are input
+ entered accurately.                             accurately.
+ Order   entry  data  are   not   transferred  Order entry data are transferred completely
+ completely and accurately to the shipping and  and accurately to the shipping and invoicing
+ invoicing activities.                                  activities.
+  All orders received from customers are not   All orders received from customers are input
+ entered and processed.                    and processed.
+ Invalid and unauthorized orders are entered  Only valid and authorized orders are input and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+9.24           DIGITAL ECOSYSTEM AND CONTROLS
+
+ and processed.                              processed.
+ Invoices are generated using unauthorized   Invoices  are  generated  using  authorized
+ terms and prices.                            terms and prices.
+ Invoices are not accurately calculated and   Invoices  are  accurately  calculated  and
+ recorded.                                     recorded.
+ Credit notes and adjustments  to accounts   Credit notes and adjustments  to accounts
+ receivable are not accurately calculated and   receivable  are  accurately  calculated  and
+ recorded.                                     recorded.
+ Goods shipped are not invoiced.                   All goods shipped are invoiced.
+ Credit  notes  for   all  goods  returned and   Credit  notes  for   all  goods  returned and
+ adjustments to accounts receivable are not  adjustments to accounts receivable are issued
+ issued in accordance with organization policy.   in accordance with organization policy.
+ Invoices are raised for invalid shipments.       Invoices relate to valid shipments.
+ Credit notes do not pertain to a return of goods   All credit notes relate to a return of goods or
+ or other valid adjustments.                     other valid adjustments.
+ Invoices are not recorded in the system.          All invoices issued are recorded.
+ Credit notes issued are not recorded in the   All credit notes issued are recorded.
+ system
+ Invoices are recorded in the wrong period.      Invoices  are  recorded  in  the  appropriate
+                                                  period.
+ Credit  notes  are  recorded  in  the  wrong   Credit  notes  issued  are  recorded  in  the
+ accounting period.                             appropriate accounting period.
+ Cash receipts are not recorded in the period  Cash receipts are recorded in the period in
+ in which they are received.                   which they are received.
+ Cash receipts data are not entered correctly.   Cash receipts data are entered for processing
+                                                  accurately.
+ Cash receipts are not entered in the system   All  cash  receipts  data  are  entered  for
+ for processing.                                processing.
+ Cash receipts data are not valid and are not  Cash receipts data are valid and are entered
+ entered in the system for processing more   for processing only once.
+ than once.
+ Cash discounts are not accurately calculated  Cash discounts are accurately calculated and
+ and recorded.                                recorded.
+ Collection of accounts receivable is delayed  Timely collection of accounts receivable  is
+ and not properly monitored.                   monitored.
+ System access to process transactions has  System access to process transactions has
+ not been restricted to the authorized users.    been restricted to the authorized users.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS             9.25
+
+9.6.4 Inventory Cycle – Risks and Controls
+The Inventory Cycle  is a process of accurately tracking the on-hand inventory levels for an
+enterprise. An inventory system should maintain accurate record of all stock movements to calculate
+the correct balance of inventory including raw material, in process stock and finished goods.
+The typical phases of the Inventory Cycle for Manufacturers are as follows:
+i.    The Ordering phase: The amount of time it takes to order and receive raw materials.
+ii.    The Production phase: The work in progress phase relates to time it takes to convert the
+      raw material to finished goods ready for dispatch to customer.
+iii.   The finished goods and delivery phase: The finished goods that remain in stock and the
+       delivery time to the customer. The inventory cycle is measured in number of days.
+Risks and Control Objectives (Masters-Inventory) and Risks and Control Objectives (Transactions-
+Inventory) are provided below in Tables 9.15 and 9.16 respectively.
+Masters
+               Table 9.15: Risks and Control Objectives (Masters-Inventory)
+                  Risks                                 Control Objectives
+ Invalid changes are made to the inventory  Only valid changes are made to the inventory
+ management master file.                  management master file.
+ Invalid changes to the inventory management   All   valid   changes   to   the   inventory
+ master file are entered and processed.       management  master   file  are  input  and
+                                             processed.
+ Changes to the inventory management master  Changes to the inventory management master
+  file are not accurate.                                      file are accurate.
+ Changes to the inventory management master  Changes to the inventory management master
+  file are not promptly processed.                       file are promptly processed.
+ Inventory management master file data is not   Inventory  management  master   file  data
+ up to date.                                 remain up to date.
+ System access to maintain inventory masters  System access to maintain inventory masters
+ has  not been  restricted  to the authorized  has been restricted to the authorized users.
+ users.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+9.26           DIGITAL ECOSYSTEM AND CONTROLS
+
+Transactions
+             Table 9.16: Risks and Control Objectives (Transactions-Inventory)
+                  Risks                                 Control Objectives
+ Adjustments to inventory prices or quantities Adjustments to inventory prices or quantities
+ are not recorded accurately.                   are recorded accurately.
+Raw  materials  are  received and  accepted Raw materials are received and accepted only
+ without valid purchase orders.                                if they have valid purchase orders.
+Raw  materials  received  are  not  recorded Raw   materials   received   are   recorded
+ accurately.                                      accurately.
+Raw materials received are not recorded  in  All raw materials received are recorded.
+ system.
+ Receipts of raw materials are not recorded Receipts  of  raw  materials  are  recorded
+ promptly and not in the appropriate period.     promptly and in the appropriate period.
+ Defective  raw  materials  are  not  returned Defective raw materials are returned promptly
+ promptly to suppliers.                             to suppliers.
+ Transfers of raw materials to production are not  All transfers of raw materials to production are
+ recorded  accurately  and  are  not  in  the recorded  accurately and  in  the appropriate
+ appropriate period.                              period.
+ Direct and indirect expenses associated with  All direct and indirect expenses associated with
+ production are not recorded accurately and are production are recorded accurately and in the
+ posted in an inappropriate period.              appropriate period.
+ Transfers of completed units of production to  All transfers of completed units of production to
+ finished goods  inventory  are  not  recorded finished  goods   inventory   are   recorded
+ completely and accurately and are posted in an completely and accurately in the appropriate
+ inappropriate period.                            period.
+ Finished goods returned by customers are not Finished goods  returned by customers are
+ recorded completely and accurately and are recorded  completely and  accurately  in  the
+ posted in an inappropriate period.              appropriate period.
+ Finished goods received from production are Finished goods received from production are
+ not recorded completely and accurately and are recorded  completely and  accurately  in an
+ posted in an inappropriate period.              appropriate period.
+ Shipments are not recorded in the system.       All shipments are recorded in the system.
+ Shipments are not recorded accurately.       Shipments are recorded accurately.
+ Shipments are not recorded promptly and are Shipments are recorded promptly and in the
+ in an inappropriate period.                     appropriate period.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS             9.27
+
+ Inventory  is reduced when goods  are  not Inventory  is reduced only when goods are
+ shipped  and made  based  on  unapproved shipped with approved customer orders.
+ customer orders.
+ Costs of shipped inventory are not transferred Costs of shipped inventory are transferred from
+ from inventory to cost of sales.                 inventory to cost of sales.
+ Costs of shipped inventory are not accurately Costs  of  shipped  inventory  are  accurately
+ recorded.                                     recorded.
+ Amounts posted  to cost  of sales does not Amounts posted  to cost  of sales represent
+ represent  those  associated  with  shipped those associated with shipped inventory.
+ inventory.
+ Costs of shipped inventory are not transferred Costs of shipped inventory are transferred from
+ from inventory to cost of sales promptly and not inventory to cost of sales promptly and in the
+ done in the appropriate period.                 appropriate period.
+ System access to process inventory related System access to process inventory related
+ transactions has not been  restricted  to the transactions  has  been   restricted   to  the
+ authorized users.                             authorized users.
+
+9.6.5 Human Resources – Risks and Controls
+The Human Resources (HR) cycle refers to human resources management and covers all the
+stages of an employee’s time within a specific enterprise and the role the human resources
+department plays at each stage. Typical stage of HR cycle includes the following:
+1.     Recruiting and On-boarding: Recruiting is the process of hiring a new employee. The role
+       of the human resources department in this stage is to assist in hiring. This might include
+       placing the job ads, shortlisting the candidates based on resumes, conducting interviews and
+       administering assessments such as personality profiles to select the most suitable applicant
+        for the position. In a small business where the owner performs these duties personally, the
+    HR person would assist in a support role. In some organizations, the recruiting stage is
+       referred to as “hiring support.” On-boarding is the process of getting the successful applicant
+       set up in the system as a new employee.
+2.     Orientation and Career Planning: Orientation  is the process by which the employee
+     becomes a member of the company’s work force through learning his/her new job duties,
+       establishing relationships with co-workers and supervisors and developing a niche. Career
+      planning is the stage at which the employee and his/her supervisors work out her long-term
+      career goals with the company. The human resources department may make additional use
+       of personality profile testing at this stage to help the employee determine his/her best career
+       options with the company.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+9.28           DIGITAL ECOSYSTEM AND CONTROLS
+
+3.    Career Development: Career development opportunities are essential to keep an employee
+      engaged with the company over time. After an employee, has established himself/herself at
+       the company and determined  his long-term career  objectives,  the human resources
+      department should try to help him/her meet his/her goals, if they are realistic. This can include
+       professional growth and training to prepare the employee for more responsible positions
+       within  the company. The company  also assesses  the employee’s work  history and
+      performance at this stage to determine whether he has been a successful hire.
+4.    Termination or Transition: Some employees will leave a company through retirement after
+      a long and successful career. Others may choose to move on to other opportunities or be laid
+         off. Whatever the reason, all employees will eventually leave the company. The role of HR in
+        this process is to manage the transition by ensuring that all policies and procedures are
+       followed, carrying out an exit interview if that is company policy and removing the employee
+      from the system. These stages can be handled internally or with the help of enterprises that
+       provide services to manage the employee life cycle.
+Configuration
+       Table 9.17: Risks and Control Objectives (Configuration-Human Resource)
+                  Risks                               Control Objectives
+ Employees  who  have   left  the  company  System access to be immediately removed
+ continue to have system access.            when employees leave the company.
+ Employees have system access in excess of  Employees should be given system access
+ their job requirements.                     based on a “need  to know” basis and  to
+                                             perform their job function.
+
+Masters
+           Table 9.18: Risks and Control Objectives (Masters-Human Resources)
+                  Risks                                 Control Objectives
+ Additions to the payroll master files do not   Additions to the payroll master files represent
+ represent valid employees.                       valid employees.
+ New employees are not added to the payroll   All new employees are added to the payroll
+ master files.                               master files.
+ Terminated employees are not removed from  Terminated employees are removed from the
+ the payroll master files.                          payroll master files.
+ Employees are terminated without following  Employees   are   terminated   only   within
+ statutory requirements.                          statutory requirements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS             9.29
+
+ Deletions from the payroll master files do not   Deletions  from  the  payroll  master   files
+ represent valid terminations.                   represent valid terminations.
+ Invalid changes  are made  to  the  payroll  Only valid changes are made to the payroll
+ master files.                               master files.
+ Changes to the payroll master files are not  Changes  to  the  payroll  master  files  are
+ accurate.                                      accurate.
+ Changes to the payroll master files are not  Changes  to  the  payroll  master  files  are
+ processed in a timely manner.                processed in a timely manner.
+ Payroll master file data is not up to date.        Payroll master file data remain up to date.
+ Payroll    is   disbursed   to   inappropriate   Payroll    is   disbursed    to   appropriate
+ employees.                                employees.
+ System access to process employee master  System access to process employee master
+ changes  has  not  been  restricted  to  the  changes has been restricted to the authorized
+ authorized users.                              users.
+
+9.6.6 Fixed Assets – Risks and Controls
+Fixed Assets process ensures that all the fixed assets of the enterprise are tracked for the purposes
+of financial accounting, preventive maintenance, and theft deterrence. Fixed assets process ensures
+that  all fixed assets are tracked and fixed asset record maintains details of location, quantity,
+condition, and maintenance and depreciation status. Typical steps of fixed assets process are as
+follows:
+1.    Procuring an asset: An asset is entered into the accounting system on receipt of ; approved
+       invoice for the asset; into the accounts payable; or purchasing module of the system. In some
+      case, for long term projects, assets procured are accounted as capital work in progress and
+       transferred to Assets on completion of the project.
+2.    Registering or adding an asset: Most of the information needed to set up the asset for
+       depreciation is available at the time the invoice is entered. Information entered at this stage
+      could include; acquisition date, placed-in-service date, description, asset type, cost basis,
+       depreciable basis, location, etc.
+3.    Adjusting the Assets: Adjustments to existing asset may be made when it adds value to the
+       useful life of assets. Events may occur that can change the depreciable basis of an asset.
+       Further, there may be improvements or repairs made to asset that either adds value to the
+      asset or extend its economic life. For example, in case of immovable property revaluation of
+      assets may impact the value of recorded assets in the records of company.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+9.30           DIGITAL ECOSYSTEM AND CONTROLS
+
+4.     Transferring the Assets: A fixed asset may be sold or transferred to another subsidiary,
+       reporting entity, or department within the company. These inter-company and intra-company
+       transfers may result in changes that impact the asset’s depreciable basis, depreciation, or
+       other asset data. This needs to be reflected accurately in the fixed assets management
+      system.
+5.    Depreciating the Assets: The decline in an asset’s economic and physical value is called
+       depreciation. Depreciation  is an expense which should be periodically accounted on a
+      company’s books, and allocated to the accounting periods, to match income and expenses.
+      Sometimes, the revaluation of an asset, may also result in appreciation of its value.
+6.    Disposing the Assets: When a fixed asset is no longer in use, becomes obsolete, is beyond
+        repair; the asset is disposed. When an asset is taken out of service, depreciation cannot be
+      charged on it. There are multiple types of disposals, such as abandonments, sales, and trade-
+        ins. Any difference between the book value, and realized value, is reported as a gain or loss.
+Tables 9.19 and 9.20 given below provide Risks and Control Objectives (Masters-Fixed Assets) and
+Risks and Control Objectives (Transactions-Fixed Assets) respectively.
+Masters
+
+            Table 9.19: Risks and Control Objectives (Masters-Fixed Assets)
+                 Risks                                Control Objectives
+ Invalid changes are made to the fixed asset  Only valid changes are made to the fixed asset
+ register and/or master file.                      register and/or master file.
+ Valid changes  to the  fixed asset  register   All  valid changes  to the  fixed asset  register
+ and/or  master   file  are  not  input  and  and/or master file are input and processed.
+ processed.
+ Changes to the fixed asset register and/or  Changes  to  the  fixed  asset  register  and/or
+ master file are not accurate.                 master file are accurate.
+ Changes to the fixed asset register and/or  Changes  to  the  fixed  asset  register  and/or
+ master file are not promptly processed.       master file are promptly processed.
+ Fixed asset register and/or master file data  Fixed asset  register and/or master  file data
+ are not kept up to date.                     remain up to date.
+ System access to fixed asset master  file  /  System access to fixed asset master file / system
+ system configuration is not restricted to the   configuration  is  restricted  to  the  authorized
+ authorized users.                             users.
+ System configuration pertaining to definition  System configuration pertaining to definition of
+ of the depreciation base, depreciation rate,   the depreciation base, depreciation rate, life of
+  life of asset and accounting of transactions  asset and accounting of transactions has been
+ has not been correctly defined.                 correctly defined.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS             9.31
+
+Transactions
+         Table 9.20: Risks and Control Objectives (Transactions-Fixed Assets)
+                  Risks                               Control Objectives
+ Fixed asset acquisitions are not accurately  Fixed  asset  acquisitions  are  accurately
+ recorded.                                     recorded.
+ Fixed asset acquisitions are not recorded in  Fixed asset acquisitions are recorded in the
+ the appropriate period.                         appropriate period.
+ Fixed asset acquisitions are not recorded.       All fixed asset acquisitions are recorded.
+ Depreciation  charges  are  not  accurately  Depreciation   charges    are    accurately
+ calculated and recorded.                       calculated and recorded.
+ Depreciation charges are not recorded in the   All depreciation charges are recorded in the
+ appropriate period.                            appropriate period.
+ Fixed  asset  disposals/transfers  are  not   All   fixed   asset   disposals/transfers   are
+ recorded.                                     recorded.
+ Fixed  asset  disposals/transfers  are  not  Fixed asset disposals/transfers are accurately
+ accurately calculated and recorded.            calculated and recorded.
+ Fixed  asset  disposals/transfers  are  not  Fixed asset disposals/transfers are recorded
+ recorded in the appropriate period.               in the appropriate period.
+ Records of fixed asset maintenance activity  Records of fixed asset maintenance activity
+ are not accurately maintained.                 are accurately maintained.
+ Unusable Fixed Assets are not recorded at  Assets  should  be  periodically  tested  for
+ disposable value                            impairment
+ Software not in use are not removed from  Software  gross  block  to  be  periodically
+ Gross block of assets.                            verified to identify discarded software
+ Fixed asset maintenance activity records are  Fixed asset maintenance activity records are
+ not updated in a timely manner.              updated in a timely manner.
+ Accounting entries pertaining to acquisition,  Accounting entries pertaining to acquisition,
+ disposals,   transfers,  retirement  are  not   disposals, transfers, retirement are recorded
+ recorded in the correct GL account.               in the correct GL account.
+ System  access  to  process  fixed  asset  System  access  to  process  fixed  asset
+ transactions has not been restricted to the   transactions  has  been  restricted  to  the
+ authorized users.                             authorized users.
+
+9.6.7 General Ledger – Risks and Controls
+General Ledger (GL) process refers to the process of recording the transactions in the system to
+generate the reports from financial transactions entered in the system. The input for GL Process
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+9.32           DIGITAL ECOSYSTEM AND CONTROLS
+
+Flow is the financial transactions and the outputs are various types of financial reports such as
+balance sheet, profit and loss a/c, funds flow statement, ratio analysis, etc.
+The typical steps in general ledger process flow are as follows:
+1.     Entering financial transactions into the system
+2.    Reviewing Transactions
+3.    Approving Transactions
+4.     Posting of Transactions
+5.    Generating Financial Reports
+Risks and  Control Objectives (Configuration-General Ledger); Risks and  Control Objectives
+(Masters-General Ledge) and Risks and Control Objectives (Transactions-General Ledger) are
+provided below in Tables 9.21, 9.22 and 9.23 respectively.
+Configuration
+         Table 9.21: Risks and Control Objectives (Configuration-General Ledger)
+                  Risks                                Control Objectives
+ Unauthorized general ledger entries could be  Access to general ledger entries is appropriate
+ passed.                                 and authorized.
+ System   functionality  does  not   exist   to  System functionality exists to segregate the
+ segregate the posting and approval functions.   posting and approval functions.
+ Interrelated  balance  sheets  and  income   Interrelated  balance  sheets  and  income
+ statement accounts do not undergo automated  statement   accounts   undergo   automated
+ reconciliations  to confirm accuracy  of such   reconciliations  to confirm accuracy  of such
+ accounts.                                     accounts.
+ Systems  do  not  generate  reports  of   all  Systems generate reports of all recurring and
+ recurring and non-recurring journal entries for   non-recurring  journal  entries  for review by
+ review by management for accuracy.         management for accuracy.
+ Non-standard journal entries are not tracked   All non-standard journal entries are tracked
+ and are inappropriate.                      and are appropriate.
+ Out-of-balance entries are not prohibited.       Out-of-balance entries are prohibited.
+ Enterprise-wide    consolidation,    including   Enterprise-wide    consolidation,    including
+ standard inter-company  eliminations,  is  not  standard   inter-company   eliminations,    is
+ automated and not performed.                automated and performed.
+ Variance reports are not generated for use to  Variance  reports are generated  for use  to
+ identify     posting      errors/out-of-balance   identify     posting      errors/out-of-balance
+ conditions.                                       conditions.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS             9.33
+
+ System   controls  are  not   in  place   for  System controls are in place for appropriate
+ appropriate approval of write-offs.              approval of write-offs.
+ Journal  entries  of  exceptional amount  that  Journal  entries  of  exceptional amount  that
+ were posted to the general ledger during the  were posted to the general ledger during the
+ month are not flagged by the system and not  month  are  flagged  by  the  system  and
+ subsequently  reviewed   for  accuracy  and  subsequently  reviewed   for  accuracy  and
+ approved by the controller or CFO after month-  approved by the controller or CFO after month-
+ end.                                         end.
+ Automated amortization timing, periods and  Automated amortization timing, periods and
+ methods  are   not   appropriate  and   not  methods  are  appropriate  and  accurately
+ accurately entered.                             entered.
+ Standard, recurring period-end journal entries  Standard, recurring period-end journal entries
+ submitted from subsidiary ledger systems are  submitted from subsidiary ledger systems are
+ not automated, not appropriately approved and  automated,   appropriately   approved  and
+ not entered accurately.                        entered accurately.
+ Transactions  can  be  recorded  outside  of  Transactions cannot be recorded outside of
+ financial close cut-off requirements.              financial close cut-off requirements.
+ The sources  of  all  entries are  not  readily  The  sources   of   all  entries  are  readily
+ identifiable.                                          identifiable.
+ Transactions are not rejected, accepted and  Transactions are rejected, or accepted and
+ identified, on exception reports in the event of   identified, on exception reports in the event of
+ data exceptions.                              data exceptions.
+ Account mappings are not up to date.          Account mappings are up to date.
+ Adding to or deleting general ledger accounts  Adding to or deleting general ledger accounts
+ are  not  limited  to  authorize  accounting  are    limited    to   authorized   accounting
+ department personnel.                       department personnel.
+
+Masters
+           Table 9.22: Risks and Control Objectives (Masters-General Ledger)
+                Risks                                Control Objectives
+ General ledger master file change reports  General ledger master  file change  reports are
+ are not generated by the system and are  generated  by  the  system  and  reviewed  as
+ not reviewed as necessary by an individual  necessary by an individual who does not input the
+ who does not input the changes.           changes.
+ A standard chart of accounts has not been  A standard chart of accounts has been approved by
+ approved  by management and  is  not  management and is not utilized within all entities of
+ utilized   within    all   entities   of   the   the corporation.
+ corporation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+9.34           DIGITAL ECOSYSTEM AND CONTROLS
+
+Transactions
+         Table 9.23: Risks and Control Objectives (Transactions-General Ledger)
+                  Risks                                Control Objectives
+ General ledger balances are not reconciled to  General ledger balances reconcile to sub ledger
+ sub ledger balances and such reconciliation  balances and such reconciliation are reviewed
+ are  not  reviewed  for  accuracy  and  not   for  accuracy and  approved  by  supervisory
+ approved by supervisory personnel.            personnel.
+ Interrelated  balance  sheets  and  income   Interrelated  balance  sheets  and  income
+ statement   accounts   do   not   undergo  statement   accounts   undergo   automated
+ automated reconciliation to confirm accuracy   reconciliation  to  confirm  accuracy  of  such
+ of such accounts.                             accounts.
+ Account codes and transaction amounts are  Account codes and transaction amounts are
+ not   accurate  and   not   complete,  and  accurate  and  complete,   with  exceptions
+ exceptions are not reported.                    reported.
+ A report of all journal entries completed as part  A report of all journal entries completed as part
+ of the closing process  is not reviewed by   of  the  closing  process   is  reviewed  by
+ management to confirm the completeness and  management to confirm the completeness and
+ appropriateness of all recorded entries.        appropriateness of all recorded entries.
+ Actual-to-actual,  actual-to-budget and  yield   Actual-to-actual,  actual-to-budget  and  yield
+ reports are not produced from the general   reports are produced from the general ledger
+ ledger system monthly prior to the final close  system monthly prior to the final close of the
+ of  the  general  ledger.  Reports  are  not  general ledger. Reports are distributed to and
+ distributed to and reviewed by the controller  reviewed by the controller and CFO. Unusual
+ and CFO. Unusual amounts or variances are  amounts or variances are investigated and re-
+ not   investigated  and   reclassified  when   classified when applicable.
+ applicable.
+ Entries booked in the close process are not   Entries  booked  in  the  close  process  are
+ complete and accurate.                      complete and accurate.
+
+9.6.8 CASA at CBS - Risks and Controls
+Banks carry out a variety of functions across the broad spectrum of products offered by them. Some
+of the key products that are provided by most commercial banks are Current and Savings Accounts
+(CASA), Credit Cards, Loans and Advances, Treasury and Mortgages.
+Below is a high-level overview (illustrative and not exhaustive) of some of these processes with its
+relevant flow and indicative key risks and controls across those processes. The flow and process as
+well as relevant risk and control may differ from bank to bank however below information should give
+a basic idea to students about these processes where Core Banking System (CBS) and other
+relevant applications are used and what specific risk and controls might be relevant in such cases.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS             9.35
+
+I.     Business Process Flow of Current & Savings Accounts (CASA)
+♦     Either the customer approaches the relationship manager to apply for a CASA facility or will
+      apply the same through internet banking, the charges/ rates for the facility are provided by
+       the Relationship Manager (RM) on basis of the request made by the customer.
+♦    Once the potential customer agrees to avail the facilities/products of the bank, the RM request
+        for the relevant documents i.e. KYC and other relevant documents of the customer depending
+      upon the facility/product. KYC (Know Your Customer) is a process by which banks obtain
+       information about the identity and address of the customers. KYC documents can be
+       Passport, Driving License, etc.
+♦    The documents received from the customers are handed over to the Credit team / Risk team
+        for sanctioning of the facilities/limits of the customers.
+♦     Credit team verifies the documents, assesses the financial and credit worthiness of the
+      borrowers and updates facilities in the customer account.
+♦     Current Account /Saving Account along with the facilities requested are provided to the
+      customer for daily functioning.
+♦    Customers can avail facilities such as cheque deposits/ withdrawal, Cash deposit/ withdrawal,
+      Real Time Gross Settlement (RTGS), National Electronics Funds Transfer System (NEFT),
+       Electronic Clearing Service (ECS), Overdraft Fund Transfer services provided by the bank.
+Table 9.24: Risks and Control. Objectives around the CASA Process
+                  Risks                               Control Objectives
+   Credit Line setup is unauthorized and not in  The credit committee checks that the Financial
+   line with the bank’s policy.                   Ratios, the Net-worth, the Risk factors and its
+                                            corresponding mitigating factors, the Credit Line
+                                                offered and the Credit amount etc. is in line with
+                                                 Credit Risk Policy and that the Client can be
+                                             given the Credit Line.
+   Credit Line setup in CBS is unauthorized  Access rights to authorize the credit limit in case
+  and not in line with the bank’s policy.         of account setup system should be restricted to
+                                              authorized personnel.
+   Customer Master defined in CBS is not in  Access rights to authorize the customer master
+   accordance  with  the Pre- Disbursement   in CBS  should  be  restricted  to  authorized
+   Certificate.                                 personnel.
+   Inaccurate   interest     /   charge   being   Interest on fund-based facilities is automatically
+   calculated in CBS.                           calculated in the CBS as per the defined rules.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+9.36           DIGITAL ECOSYSTEM AND CONTROLS
+
+   Unauthorized  personnel  approving  the  Segregation of Duties (SoD) to be maintained
+  CASA transaction in CBS.                between  the  initiator and  authorizer  of  the
+                                                transaction for processing transaction in CBS.
+   Inaccurate accounting entries generated in  Accounting  entries  are generated by CBS
+  CBS.                                     basis the facilities requested by the customer
+                                      and basis defined  configurations  for those
+                                                         facilities in CBS.
+
+SUMMARY
+In the present contemporary world, apart from change the thought-provoking terminology is business
+which is a driving force behind change and how to insight into trade is a dynamic called integration.
+Organizations of the 1990’s were concentrated on the re-engineering and redesign of their business
+processes to endorse their competitive advantage. To endure in the 21st century, organizations have
+started paying attention on integrating enterprise-wide technology solutions  to progress  their
+business processes called Business Information Systems (BIS). Now, every organization integrates
+part or all of its business functions together to accomplish higher effectiveness and yield. The thrust
+of the argument was that Information Technology (IT), when skilfully employed could in various ways
+differentiate an organization from its competition, add value to its services or products in the eyes
+of its customers, and secure a competitive advantage in comparison to its competition. This Chapter
+has provided an overview on the importance of information systems in an IT environment and how
+information is generated. There has been a detailed discussion on Information System Audit, its
+need, and the method of performing the same. Afterwards, the chapter discusses the tools to perform
+an Information system audit is discussed. The idea of pre-audit survey and planning of an audit for
+effective execution of an audit has also been elaborated in the chapter.  It also covers various
+automated business processes. This chapter throws a  light on how  Digitization of business
+processes impact the modern enterprises and leads to new risks which should be mitigated by
+implementing appropriate controls.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+INFORMATION TECHNOLOGY TOOLS             9.37
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    An IS Auditor is using an audit tool that involves embedding audit software modules within a
+       host application system to provide continuous monitoring of system’s transactions. Which
+       audit tool does this refer to?
+        (a)    Audit hooks
+        (b)   System Control Audit Review File (SCARF)
+        (c)    Integrated Test Facility (ITF)
+        (d)    Continuous and Intermittent Simulation (CIS)
+2.     In an organization ABC Ltd.; the adherence of policies, procedures and standards as defined
+      by the management are required to be followed. An accountant Mr. X, due to enmity, misused
+       his access rights and made changes in the credit points earned by the salesperson Mr. A on
+      every sale of his customer. During the audit, the auditor Mr. B suspected this discrepancy
+      and preferred to embed an audit software module into the accountant Mr. X’s host application
+      software to determine the frequency with which he had made the changes in the credit points
+       of Mr. A. Which of the following audit tool is used by Mr. B in this case?
+        (a)    Integrated Test Facility (ITF)
+        (b)   System Control Audit Review File (SCARF)
+        (c)    Snapshots
+        (d)    Audit Hooks
+3.    Which of the following is not an advantage of continuous assisted audit techniques?
+       (a)    Evaluate the integrity of an application
+       (b)    Timely, Comprehensive and Detailed Auditing
+        (c)    Analyze aging of transaction files
+       (d)   No need of prior knowledge and experience of working with CAAT
+4.    An IS auditor used concurrent audit technique to check whether the accounting system of an
+       organization restricting the cash payment in excess of ₹ 10,000/- or not by creation of dummy
+        entity. Identify from the following concurrent audit techniques which will be useful in this case.
+       (a)   Use of System Control Audit Review File (SCARF)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+9.38           DIGITAL ECOSYSTEM AND CONTROLS
+
+       (b)   Use of Integrated Test Facility (ITF)
+        (c)   Use of Continuous and Intermittent Simulation (CIS)
+       (d)   Use of Snapshot
+5.     Mr. Ankit an IS auditor of ABC Ltd., wants to collect evidence based on system user profiles.
+     To perform this activity, he has collected data from log files.Which of the following audit
+      technique is being used by the IS auditor to achieve this objective?
+       (a)    Continuous and intermittent Solution (CIS)
+       (b)    Audit Hooks
+        (c)   System Control Audit Review File (SCARF)
+       (d)    Integrated Test Facility (ITF)
+
+ANSWERS/SOLUTIONS
+     1.        (b)        2.        (b)        3.        (d)        4.        (b)        5.       (c)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+© The Institute of Chartered Accountants of India

@@ -1,4 +1,4 @@
-// FR Study OS — Cloudflare Worker
+// Trinsic — Cloudflare Worker
 // One always-on, free endpoint for everything the PWA needs away from home:
 //   POST /api/ai-tutor  — multi-provider AI cascade (port of ai-server)
 //   GET/PUT /api/sync   — whole-state device sync backed by Workers KV

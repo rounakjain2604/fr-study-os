@@ -1,0 +1,2460 @@
+Source PDF: 07_SPOM/Set_B_Strategic_Cost_Performance_Management/004 - Chapter 3- Lean System and Innovation - 74866bos60510-cp3.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_B_Strategic_Cost_Performance_Management\004 - Chapter 3- Lean System and Innovation - 74866bos60510-cp3.pdf
+Extracted at: 2026-05-31T10:28:15+05:30
+Pages: 60
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER        3           23
+
+LEAN SYSTEM AND
+INNOVATION
+
+                           LEARNING OUTCOMES
+After studying this chapter, you will be able to:
+❑EXPLAIN the lean system
+❑ADVISE on application aspects of just-in-time system, kaizen, 5S & total
+   productive maintenance
+❑APPLY and evaluate six sigma as a quality improvement method
+❑EVALUATE the scope of process innovation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+3.2       STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+
+   OVERVIEW
+   CHAPTER
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+LEAN SYSTEM AND INNOVATION              3.3
+
+     A. LEAN SYSTEM
+Lean System (a generic but universal incarnation of Toyota Production System) lays its foundation
+on the premise of lean thinking, which is an organized management philosophy for aiming to reduce
+process waste without sacrificing productivity within a manufacturing system to maximise the value
+of the product to the customer. Hence, lean implementation emphasizes the importance of optimizing
+workflow through strategic operational procedures while minimizing waste and being adaptable.
+To start, a right mindset is required. A manager needs to be a ‘lean manager’, the one who leans on
+the value chain by identifying those value chain activities which ‘providing maximum value to
+customers’ and eliminating others (non-value-added activities or wastes). While doing so, a lean
+manager needs to carry the reverse engineering (backward process) ideology.
+
+
+ Do You Know?
+ What are the wastes that a lean system will reduce?
+ There are Seven Wastes classified by Taiichi Ohno, the father of the Toyota Production System -
+ ▪   Overproduction: Producing ahead of demand.
+ ▪   Inventory: Having more inventory than what is minimally required at any point in the process,
+     including the end-product.
+ ▪   Waiting: Waiting includes products waiting on the next production step.
+ ▪   Motion: People or equipment moving or walking more than what is required to perform the
+     process.
+ ▪   Transportation: Moving products that are not actually required to perform the process.
+ ▪   Defects (non-right first time): That required repair or rework.
+ ▪   Over-Processing: Unnecessary work elements (non-value-added activities).
+Some of the techniques that advance lean thinking and are explained in further sections of this
+chapter are Just-in-Time (JIT), Kaizen Costing, 5S, Total Productive Maintenance (TPM), Cellular
+Manufacturing/ One-Piece Flow Production Systems, and Six Sigma. These techniques, in some way
+or another adherence to the core principles of lean thinking, such as–
+▪   Do right the first time (perfect first-time quality),
+▪   Waste minimization,
+▪   Continuous improvement,
+▪     Flexibility (adaptability), etc.
+Since a lean system follows a single piece flow, it is expected to result in the elimination of waste
+of  labour,  overproduction,  space,  defects,  inventory,  and  transportation.  Therefore,  the
+characteristics of lean manufacturing are –
+▪   Zero waiting time
+▪   Zero inventory
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+3.4       STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+▪    Pull processing
+▪   Continuous flow of production
+▪    Continuously find ways of reducing process time.
+Benefits of lean management
+The lean management system is expected to realise the following benefits –
+▪   Improved quality and fewer defects due to single piece flow.
+▪   Reduced inventory because  it believes in producing, purchasing, or storing only that much
+     inventory which is needed for the next operation.
+▪      It requires less space due to manufacturing cells and squeezing machines together so that the
+    same can be operated by single operators with the fewest number of motions.
+▪   Enhances overall manufacturing flexibility because a smaller number of activities (only those
+      that are capable of generating value) are retained in the value stream system, resulting in the
+     organisation having more lead time to serve the customer, which enhances adaptability or flexibility.
+▪      It makes identifying future kaizen simpler because single piece flow opens up the shop floor (by
+      eliminating defects and WIP inventory), which will help to trace productive problems and improve
+     them.
+▪   Ensure a safer work environment. Since the manufacturing cells are in use, worker has to perform
+     repeated tasks, which will reduce or eliminate the unexpected movement, which is one of the root
+     causes of accidents at the workplace. Therefore, by eliminating the cause of accidents, lean leads
+      to a safe environment.
+▪   Improve employee morale – Production problems are easily identified and solved. Hence, quick
+    and correct feedback towards employee work will give him more ownership and high morale.
+Issues addressed by lean management
+▪   Low Productivity – Lean management increases yields, enabling the organisation to generate
+    more satisfied customers and higher profits.
+▪   Prolonged Cycle Time – Complaint resolved beyond the timeline gives birth to another complaint;
+     hence with the help of lean management manufacturing, flexibility is enhanced and there is more
+     lead time for the organisation to resolve the issue.
+▪    Costly Organisation – As a tool of waste reduction, lean management will give a chance of cost
+      control.
+▪   Rampant Wastage – Less number of activities to generate maximum value will make the value
+     stream free of any waste (optimal use of limited factor resources). Kaizen is also used to do
+     continuous and future improvement (waste reduction).
+▪    Dissatisfied Customers and Employees – Companies need to have a program called ‘WOCAS’
+     (what our customers are saying) and high morale employees through lean management by
+     generating value and immediate feedback, respectively.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+LEAN SYSTEM AND INNOVATION              3.5
+
+                         Lean Management Major Stakeholders
+
+
+                                   Employees        Customer                                                                      Organisation                               They are the organisation's   Nothing is more important                                             wheel.                Mix of people (Director, CEO  than a delighted customer.                                                  & Owners) and Processes.                                  Hence, need to be well  Because value is defined by                                   compensated and            Well managed and balanced.         the customer.                                         professionally directed.
+
+Figure A.1 – Lean management major stakeholders
+
+
+ Test Your Understanding
+ Based upon the above discussion, can you make a couple of points to advocate lean management?
+ Advocates of lean management
+ ▪   Lean management can be applied to any production entity, irrespective of industry.
+ ▪    Principles or goals of lean management need to be defined by the organisation; hence, high
+         flexibility is available, which makes the application of lean practices easy.
+ ▪       It requires collaborative effort among departments’ teams and business group/(s) within the
+       organisation. Hence, improvement in cooperation and participation, give the feel of empowerment
+        for the workforce, Mind it Lean is not a ‘SPOC’ or one department exercise.
+1. Just-in-time (JIT)
+A just-in-time approach is a collection of ideas that streamline a company’s production process
+activities to such an extent that waste of all kinds, viz., time, material, and labour, is systematically
+driven out of the process. JIT has a decisive, positive impact on product costs.
+CIMA defines:
+“Just-in-time (JIT): A system whose objective is to produce or to procure products or components
+as they are required by a customer or for use, rather than for stock. The just-in-time system Pull
+system, which responds to demand, in contrast to a push system, in which stocks act as buffers
+between the different elements of the system such as purchasing, production, and sales”.
+“Just-in-time production: A production system which is driven by demand for finished products,
+whereby each component on a production line is produced only when needed for the next stage”.
+“Just-in-time purchasing: A purchasing system in which material purchases are contracted so that
+the receipt and usage of material, to the maximum extent possible, coincide”.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+3.6       STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+
+Figure A.2 – Overview of JIT System
+1.1 Sequence of JIT Initiatives
+JIT Purchase comprises a process that vastly reduces the amount of raw material inventory and
+improves the quality of received parts–
+▪   Spare parts/ materials from suppliers on the exact date and at the exact time when they are
+    needed.
+▪    Straight delivery to the production floor for immediate use in manufactured products.
+▪     Visit of engineering staff at supplier sites to examine the supplier's processes.
+▪    Installation of an EDI system that tells suppliers exactly how much of which parts are to be
+     sent.
+▪   Dropping off products at the specific machines.
+JIT Production comprises the process in which a company reduces the amount of work-in-process
+while also shrinking the number of products that can be produced before defects are identified and
+fixed, thereby reducing scrap costs–
+▪   Shorten the setup times.
+▪    Eliminating the need for long production runs and streamlining the flow of parts from machine
+      to machine.
+▪    Training employees on how to operate a multitude of different machines and perform limited
+     maintenance.
+JIT Support includes the processes by which a company alters supporting accounting system.
+▪    Several alterations in the supporting accounting systems.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+LEAN SYSTEM AND INNOVATION              3.7
+
+
+Figure A.3 – A linkage with Supply Chain
+Action Plan for each of the initiatives stated above–
+▪   To begin with, a company must ensure that it receives products/ spare parts/ materials from its
+     suppliers on the exact date and at the exact time when they are needed. For this reason, the
+     purchasing staff must investigate and evaluate every supplier and eliminate those which cannot
+    keep up with the delivery dates.
+▪    In addition, deliveries should be sent straight to the production floor for immediate use in
+     manufactured products, so that there is no time to inspect incoming parts for defects.
+▪    Instead, the engineering staff must visit supplier sites and examine their processes, not only to
+    see  if they can reliably ship high-quality parts but also to provide them with engineering
+     assistance to bring them up to a higher standard of product.
+▪   As soon as suppliers certify their delivery and quality, the concern must install a system, which
+    may be as simplistic as a fax machine or as advanced as an electronic data interchange system
+     or linked computer systems, that tells suppliers exactly how much of which parts are to be sent
+      to the company.
+▪    Drivers then bring small deliveries of product to the company, possibly going to the extreme of
+     dropping them off at the specific machines that will use them first.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+3.8       STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+▪    Next, we shorten the setup times for the concern’s machinery. In most factories, equipment is
+    changed over to new configurations as rarely as possible because the conversion is both lengthy
+    and expensive. When setups take a long time, company management authorizes long production
+     runs, which spreads the cost of the setup over far more units, thereby reducing the setup cost on a
+      per-unit basis. However, with this approach, too many products are frequently made at one time,
+      resulting in product obsolescence, inventory carrying costs, and many defective products (because
+     problems may not be discovered until a large number of items have already been completed). ‘But
+     under the JIT system, a different approach to the setup issue is followed, which focuses on making
+    a video tape of a typical setup, instead of reducing the length of equipment setups and thereby
+      eliminating the need for long production runs to reduce per unit costs. A team of industrial engineers
+    and machine users examines this tape, spotting and gradually eliminating steps that contribute to a
+     lengthy setup’. It is not unusual, after a number of iterations, to achieve setup times of minutes or
+    seconds when the previous setup times were well into hours.
+▪      It is not sufficient to reduce machine setup times because there are still problems with machines
+     not being coordinated properly so that there is a smooth, streamlined flow of parts from machine to
+     machine. In most companies there is such a large difference between the operating speeds of
+      different machines that work-in-process inventory builds up in front of the slowest ones. Not only
+    does this create an excessive quantity of work-in-process inventory, but defective parts produced
+     by an upstream machine may not be discovered until the next downstream machine operator works
+      his way through a pile of work-in-process and finds them. By the time this happens, the upstream
+    machine may have created more defective parts, all of which must now be destroyed or reworked.
+    To resolve both of these problems, two ways are described below -
+      First – Kanban Card is a notification card that a downstream machine sends to each machine that
+     feeds  its parts, authorizing the production of just enough components to  fulfil the production
+     requirements being authorized in turn by the next machine further downstream. This is also known
+     as a “pull” system, since kanbans are initiated at the end of the production process, pulling work
+     authorizations through the production system. With this approach, there is no way for work-in-
+     process inventory to build up in the production system since  it can be created only with kanban
+      authorization.
+    Second – Cellular Manufacturing (i.e., grouping machines into working cells) that will reduce
+     excessive work-in-process inventory and defective parts. A working cell is a small cluster of
+    machines which can be run by a single machine operator. This individual machine operator takes
+    each output part from machine to machine within the cell, and thus there is no way for work-in-
+     process to build up between machines. Also, this operator can immediately identify defective output,
+     which is otherwise difficult for each machine in the cell. This configuration has the additional benefit
+      of lower maintenance costs since the smaller machines used in a machine cell are generally much
+     simpler than the large, automated machinery they replace. Also, because the new machines are so
+     small, it is much easier to reconfigure the production facility when it is necessary to produce different
+     products, avoiding the large expense of carefully repositioning and aligning equipment.
+     Both Kanbans and machine cells should be used together (they are not mutually exclusive) to
+     achieve extremely low product defect rates and reduce investments in inventory (WIP).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+LEAN SYSTEM AND INNOVATION              3.9
+
+▪    Before the preceding steps are completed, it becomes apparent that a major change must also
+    be made in the work force. The traditional approach is to have one employee maintain one
+     machine, which  is so monotonous that workers quickly lapse into apathy and develop a
+     complete disregard for the quality of their work. Now, with full responsibility for a number of
+    machines as well as product quality, workers become much more interested in what they are
+     doing. To enhance  this  situation, the human resource development department  of  the
+     organisation must prepare and organise training classes to teach employees how to operate a
+     multitude of different machines, perform limited maintenance on the machines without having
+      to call in the maintenance staff, spot product errors, understand how the entire system flows,
+    and when to halt the production process to fix problems. In short, the workforce must be
+     completely retrained and focused on a wide range of activities.
+    A major result of having an empowered workforce is that employees are allowed to stop their
+    machines when they see a problem and either fix it on the spot or immediately call in a repair
+     team. In either case, the result is an immediate resolution of the bulk of performance problems.
+     This one step has a profound impact on much of the manufacturing variance analysis.
+      Historically, management accountants compile all kinds of variance information at the end of
+    each month, investigate problems in detail, and then present a formal problem analysis report
+      to management a few weeks after the end of the month. However, because the production staff
+     resolved the underlying issues within a few minutes of their occurrence, the variance report
+    becomes a complete waste of time. Management no longer cares what happened a month ago
+    because  it is currently dealing with current problems that will not appear on management
+     accountant reports for weeks to come. In short, the quick response capabilities of a JIT system
+     allow the management accountant to omit a large amount of the variance reporting that was
+     previously an important central job function.
+     This approach also means that there is no need for suppliers to send invoices since the
+    company relies solely on its internal production records to complete payments.
+▪    Finally, the massive changes caused by the JIT system also require several alterations in the
+     supporting accounting systems. Because of the large number of daily supplier shipments, the
+     accounting staff faces the prospect of going through a large pile of accounts payable paperwork.
+    To make the problem worse, there is no receiving paperwork because the suppliers deliver parts
+      directly to the production operation, so there is no way to determine if deliveries have been made.
+    To avoid the first problem, accountants can switch to making a single consolidated monthly
+    payment to each supplier. The second problem requires a more advanced solution. To prove that
+    a supplier has delivered the part quantities which  it claims  it has, the accounting system can
+     determine the amount of finished products created during the period and then multiply these
+     quantities by the parts listed on the bill of materials for each product, obtaining a total quantity for
+    each part used. The accountants then pay suppliers based on this theoretical production quantity,
+     which is also adjusted for scrap during the production process (otherwise, suppliers unfairly will
+     not be paid for their parts that are scrapped during the company’s production process). This
+     approach also means that there is no need for suppliers to send invoices since the company
+      relies solely on its internal production records to complete payments.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+3.10      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+
+ Concept Insight
+ Pros and Cons of JIT
+ Clearly, the changes imposed by a JIT system are profound and can greatly improve company
+ operations when installed and operated correctly. They can also have a profound effect on product
+ costs. So, the JIT system aims at:
+ ✓Meeting customer demand in a timely manner
+ ✓Providing high quality products and
+ ✓Providing products at the lowest possible total cost.
+ JIT has cons as well. The potential problems that JIT may cause include –
+ It is not always easy to predict demand patterns, making it difficult to operate without inventory.
+ The lack of inventories exposes an organization to any disruption in the supply chain.
+1.2 Features of the JIT System
+▪   Organise production in manufacturing cells, a grouping of all the different types of equipment
+    used to make a given product. Materials move from one machine to another, where various
+     operations are performed in sequence. Material – handling costs are reduced.
+▪    Hire and retain workers who are multi-skilled so that they are capable of performing a variety
+      of operations, including repairs and maintenance tasks. Thus, labour idle time gets reduced.
+▪   Apply TQM to eliminate defects. As there are tight link stages in the production line and
+    minimum inventories at each stage, defects arising in one stage can hamper the other stages.
+     JIT creates urgency for eliminating defects as quickly as possible.
+▪   Place emphasis on reducing set-up  time, which makes production  in smaller batches
+     economical, and reducing inventory levels. Thus, the company can respond to customer
+    demand faster.
+▪    Carefully selected suppliers capable of delivering high quality materials in a timely manner
+      directly to the shop floor, reducing the material receipt time.
+
+ Do You Know?
+ Essential pre-requisites of a JIT system
+ Based upon above discussion following set of pre-requisites of JIT system can be identified –
+ ▪Low variety of goods.
+ ▪Narrow supplier base, but sound and reliable trade relations with vendors.
+ ▪Efficient information system.
+ ▪Predictable demand patterns.
+ ▪Total quality management.
+ ▪Defect free materials.
+ ▪Preventive maintenance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.11
+
+1.3 Impact of the JIT System on
+
+
+                                        Product
+                                              Prices
+
+
+                          Overhead             Costs of
+                                Costs             Waste
+
+
+Figure A.4 – Impact of JIT System
+▪   Costs of Waste: A characteristic of the JIT system is its continuous focus on eliminating all
+    waste from a system. This can be a waste of assets or excessive inventory. It can also be a
+    waste of time; in the case of assets, it may include unused assets for long periods of time (e.g.,
+     work-in-process inventory held in a production queue). It can also be a waste of materials, such
+    as unnecessary levels of obsolete inventory, defective products, rework, and the like. When
+      fully installed, a JIT system vastly reduces all these types of waste. When this happens, there
+      is a sharp drop in several aspects of a product’s cost.
+▪   Overhead Costs: The costs of material handling, facilities, and quality inspection decline when
+    a JIT system is installed. In addition, the reduction of all types of inventory results in a massive
+     reduction in the amount of space required for the warehouse facility. Since all costs associated
+     with the warehouse are assigned to the overhead cost pool, the amount of overhead is reduced
+    when the costs of staff, equipment, fixed assets,  facilities, and rent associated with the
+    warehouse are sharply cut back.
+▪   Product Prices: When a company achieves a higher level of product quality, along with the
+      ability to deliver products on the dates required, customers may be willing to pay a premium.
+     This is particularly true in industries where quality or delivery reliability is low. If customers are
+     highly sensitive to these two factors,  it may be possible to increase prices substantially.
+      Alternatively, if these factors are not of great importance or if customers place a higher degree
+      of importance on other factors, then there will be no opportunity for a price increase.
+1.4 Back-flushing in a JIT System
+Back-flushing requires no data entry of any kind until a finished product is completed. At that time,
+the  total amount finished  is entered into the computer system, which multiplies  it by  all the
+components listed in the  bill of materials for each item produced. This yields a lengthy  list of
+components that should have been used in the production process and which are subtracted from
+the beginning inventory balance to arrive at the amount of inventory that should now be left on hand.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+3.12      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Given the large transaction volumes associated with JIT, this is an ideal solution to the problem.
+However, there are some serious problems with back-flushing that must be corrected before it will
+work properly. They are –
+▪   Production reporting: The total production figure entered into the system must be absolutely
+     correct, or else the wrong component types and quantities will be subtracted from stock. This
+      is a particular problem when there is high turnover or a low level of training for the production
+      staff that records this information, which leads to errors.
+▪   Scrap reporting: All abnormal scrap must be diligently tracked and recorded; otherwise, these
+     materials will fall outside the back-flushing system and will not be charged to inventory. Since
+     scrap can occur anywhere in a production process, a lack of attention by any of the production
+      staff can result in an inaccurate inventory recording. Once again, high production turnover or a
+     low level of employee training increases this problem.
+▪   Lot tracing: Lot tracing is impossible under the back-flushing system. It is required when a
+     manufacturer needs to keep records of which production lots were used to create a product in
+    case all the items in a lot must be recalled. Only a picking system can adequately record this
+     information. Some computer systems allow picking and back-flushing to coexist, so that pick
+     transactions for lot tracing purposes can still be entered in the computer. Lot tracing may then
+        still be possible if the right software is available; however, this feature is generally present only
+    on high-end systems.
+▪   Inventory accuracy: The inventory balance may be too high at all times because the back-
+     flushing transaction that relieves inventory usually does so only once a day, during which time
+     other inventory is sent to the production process; this makes it difficult to maintain an accurate
+     set of inventory records in the warehouse.
+Of all the issues noted here, the worst is a situation where the production staff is clearly incapable
+of providing sufficiently accurate scrap or production reporting for the back-flushing system. If there
+is an easily traceable cause, such as less capable workers on a particular shift, moving a few reliable
+employees into these positions can provide immediate relief from the problem.  It may even be
+possible to have an experienced shift supervisor to collect this information.
+However, where this is not possible for whatever reason, computer system users experience back-
+flushing garbage in, garbage out (GIGO)—entering inaccurate information rapidly eliminates any
+degree of accuracy in the inventory records, requiring many physical inventories counts to correct
+the problem. Consequently, the success of a back-flushing system is directly related to a company’s
+willingness to invest in a well-paid, experienced well-educated production staff that undergoes little
+turnover.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.13
+
+
+ Practical Insight
+ JIT Practices
+ A technology and innovation-led global federation of companies that provides a wide range of
+ products wanted to implement JIT at their main plant in Nasik, as they were aware of the fact that
+ the JIT approach would help them to operate with minimal levels of inventory. Their business
+ objective was to encourage all suppliers’ active participation in the production process. They
+ wanted that the suppliers should be "enabled" to know of any change in the whole production
+ process and at the same time contribute actively. This was necessary to reduce the time to
+ respond to a situation and help the "just-in-time" approach in the production process.
+ Objective
+ ▪   Make all the suppliers’ active participation in the production process.
+ ▪    Suppliers should be able to know of any changes in the whole production process and, at
+       the same time, contribute actively.
+ ▪   Update to best practices for supply strategies for 400 vendors, 150 vehicles per day, and
+      1,100 parts.
+ ▪   Improvement in replenishment efficiency.
+ ▪   A reduction in stock at the assembly line favouring flexible manufacturing.
+ VSS Service
+ Concept planning for JIT and the supply chain includes the definition of load units and their
+  arrangement at the assembly line, the definition of the replenishment trigger concept, the design
+  of stores and handling equipment, and a review of the method of supply from vendors.
+ Solution
+ Modular standard metal containers and totes based on Indian truck dimensions. Load units
+  ergonomically presented to the workers.
+ 25 JIT parts identified (supplied in sequence), a two-tier shelving system for totes with dynamic
+  allocation and picking, and containerized supply from local vendors with round pick-up.
+ Reduced personnel and replenishment lead time, improved manufacturing flexibility.
+  Benefits
+ ▪   By making the suppliers participate in the ‘just-in-time" method of production, they could
+      maintain the lowest inventory level.
+ ▪    Suppliers could see in real time the status of the supplies, bill settlement, and a host of
+       other parameters.
+ ▪     All active participants in a process, for instance, from a supplier to the dealer, can handle
+      change management with the help of a particular solution and a defined process.
+ ▪   Setup times are significantly reduced in the warehouse. Cutting down on set-up time to be
+     more productive allowed the company to improve their bottom line and look more efficient.
+ ▪   Having employees focused on specific areas of the system allowed them to process goods
+       faster instead of being vulnerable to fatigue from doing too many jobs at once, which
+       simplifies the tasks at hand.
+ ▪   Increase emphasis on supplier relationships.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+3.14      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Illustration 1
+KP Ltd. (KPL) manufactures and sells one product called “KEIA”. Managing Director is not happy
+with its current purchasing and production system. There has been considerable discussion at the
+corporate level as to use of ‘Just in Time’ system for “KEIA”. As per the opinion of managing director
+of KPL Ltd. –
+“Just-in-time system is a pull system, which responds to demand, in contrast to a push system, in
+which stocks act as buffers between the different elements of the system such as purchasing,
+production and sales. By using Just in Time system, it is possible to reduce carrying cost as well as
+other overheads”.
+KPL is dependent on contractual labour which has efficiency of 95%, for its production. The labour
+has to be paid for minimum of 4,000 hours per month to which they produce 3,800 standard hours.
+For availing services of labour above 4,000 hours in a month, KPL has to pay overtime rate which
+is 45% premium to the normal hourly rate of ` 110 per hour. For avoiding this overtime payment,
+KPL in its current production and purchase plan utilizes full available normal working hours so that
+the higher inventory levels in the month of lower demand would be able to meet sales of month with
+higher demand level. KPL has determined that the cost of holding inventory is ` 70 per month for
+each standard hour of output that is held in inventory.
+KPL has forecast the demand for its products for the first six months of year 2023 as follows:
+                        Month         Demand (Std. Hrs.)
+                             Jan’23                   3,150
+                            Feb’23                   3,760
+                            Mar’23                   4,060
+                              Apr’23                   3,350
+                          May’23                   3,650
+                             Jun’23                   4,830
+
+Following other information is given:
+(i)    All other production costs are either fixed or are not driven by labour hours worked.
+(ii)  Production and sales occur evenly during each month and at present there is no stock at the
+    end of Dec’22.
+(iii)  The labour are to be paid for their minimum contracted hours in each month irrespective of any
+    purchase and production system.
+Required
+As a chief accountant you are requested to COMMENT on managing director’s view.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.15
+
+Solution
+Workings
+           Statement Showing ‘Inventory Holding Cost’ under Current System
+
+ Particulars                     Jan     Feb     Mar     Apr    May     Jun
+ Opening Inventory*            (A)       ---      650     690     430     880     1,030
+ Add: Production*                   3,800    3,800    3,800    3,800    3,800    3,800
+ Less: Demand*                     3,150    3,760    4,060    3,350    3,650    4,830
+ Closing Inventory*             (B)    650     690     430     880     1,030        ---
+                              A + B     325     670     560     655     955     515 Average Inventory                                             2   
+ Inventory Holding Cost @`70       22,750   46,900   39,200   45,850  66,850    36,050
+(*) in terms of standard labour hours
+Inventory Holding Cost for the six months     =   `2,57,600
+                                              (`22,750 + `46,900 + `39,200 + `45,850 +
+                                            `66,850 + `36,050)
+                  Calculation of Relevant Overtime Cost under JIT System
+
+ Particulars                      Jan     Feb     Mar     Apr    May     Jun
+ Demand*                          3,150    3,760    4,060    3,350    3,650     4,830
+ Production*                        3,150    3,760    4,060    3,350    3,650     4,830
+ Normal Availability*                 3,800    3,800    3,800    3,800    3,800     3,800
+ Shortage (=Overtime*)          (C)       ---          ---      260        ----         ----      1,030
+ Actual Overtime Hours  C                 ---          ---     273.68      ----         ----    1,084.21                                  0.95 
+ Overtime Payment @ `159.50             ---          ---     43,652      ----         ----    1,72,931
+ [110+45%]
+(*) in terms of standard labour hours
+Total Overtime payment                   =  `2,16,583
+                                             (`43,652 + `1,72,931)
+Therefore, saving in JIT system             =  `2,57,600 – `2,16,583
+                                      =  `41,017
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+3.16      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Comments
+Though KPL is saving `41,017 by changing its production system to Just-in-time but  it has to
+consider other factors as well before taking any final call, which are as follows:
+(i)   KPL has to ensure that it receives materials from its suppliers on the exact date and at the exact
+      time when they are needed. Credentials and reliability of the supplier must be thoroughly
+      checked.
+(ii)   To remove any quality issues, the engineering staff must visit suppliers’ sites and examine
+        their processes, not only to see if they can reliably ship high-quality parts but also to provide
+     them with engineering assistance to bring them up to a higher standard of product.
+(iii)   KPL should also aim to improve quality at its process and design levels with the purpose of
+      achieving “Zero Defects” in the production process.
+(iv)   KPL should also keep in mind the efficiency of its work force. KPL must ensure that labour’s
+       learning curve has reached a steady rate so that they are capable of performing a variety of
+      operations in an effective and efficient manner. The workforce must be completely retrained
+     and focused on a wide range of activities.
+2. Kaizen Costing
+The kaizen (改善   is a Japanese word that means ‘Continuous Improvement’.
+Kaizen Costing is a cost reduction system through small, continuous, and incremental improvements.
+It is based on the belief that nothing is ever perfect, so improvements and reductions in cost are always
+possible. Kaizen goals are set based on actual results from a prior period. The goal is to reduce the
+actual cost of the current period in the coming period/(s).
+
+
+Figure A.5 – Kaizen Costing Chart used by Daihatsu Motor Company (Osaka, Japan)1
+
+1 Managerial Accounting 7E By Hilton
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.17
+
+Lean manufacturing  is founded on the idea  of kaizen, or continual improvement. Continuous
+improvement is the continual examination and improvement of existing processes and is very different
+from approaches such as business process re-engineering (BPR), which seeks to make radical one-
+off changes to improve an organization's operations and processes. This philosophy implies that small,
+incremental changes routinely applied and sustained over a long period of time result in significant
+improvements. The Kaizen strategy aims to involve workers from multiple functions and levels in the
+organization in working together to address a problem or improve a particular process.
+Some of the activities in the kaizen costing methodology include the elimination of waste in the
+production, assembly, and distribution processes, as well as the elimination of work steps in any of
+these areas. Though these points are also covered in the value engineering phase of target costing,
+the initial value engineering may not uncover all possible cost savings. Thus, kaizen costing is really
+designed to repeat many of the value engineering steps for as long as a product is produced, constantly
+refining the process and thereby stripping out extra costs. The cost reductions resulting from kaizen
+costing are much smaller than those achieved with value engineering but are still worth the effort since
+competitive pressures are likely to force down the price of a product over time, and any possible cost
+savings allow a company to still attain its targeted profit margins while continuing to reduce cost.
+2.1 Kaizen Costing Process
+Based on the above discussion, the process of Kaizen can be divided into three steps, namely –
+Step 1 – Establishing a cost reduction goal (kaizen cost target).
+Step 2 – Ascertain the gap by comparing the goal to the actual cost.
+Step 3 – Formulate and implement a cost reduction plan based on value analysis.
+Figure presented below can be refer in light of these 3 steps.
+
+
+Figure A.6 – Process of Kaizen Costing
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+3.18      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+How is ‘Kaizen Costing’ different from ‘Standard Costing’?
+
+              Standard Costing                             Kaizen Costing
+   a.  Cost control technique.                           a.  Cost reduction technique.
+                                                           b.    It assumes continuous improvement   b.    It assumes current work conditions.                                                              conditions.
+   c.  Meet cost performance standards.                c.  Achieve cost reduction target.
+   d.  For a longer period, usually year on year.        d.  For a short span, i.e., Monthly or Quarterly.
+                                                           e.  No variance is needed to be computed.   e.  For variance analysis, comparison is among                                          Gap is the difference between actual cost       the actual and standard costs.                                                and kaizen target cost.
+    f.   Variances need to be addressed and                   f.   Reason for the missing target cost (Kaizen)
+       reported.                                    needs to be assessed – Jidoka, etc.
+
+
+ Concept Insight
+ Kaizen Principles – The Core of Kaizen
+ There are 5 Fundamental Kaizen Principles that are embedded in every Kaizen tool and in every
+ Kaizen behavior. The 5 principles are –
+ 1. Know your customer – Understand them and their interests so that business can enhance
+     their experience. (Aim for creating customer value)
+ 2. Let it Flow – Everyone in the organisation aims to create value and eliminate waste. (Aim for
+    targeting zero waste)
+ 3. Go to Gemba – Value is created where things actually happen - go there; go to the real place.
+    Hence, the act of visiting the shop floor in Lean and Kaizen. (Aim for following the action)
+ 4. Empower People – Set the same goal for your teams and provide a system and tools to reach
+    them. (Aim for organizing your teams)
+ 5. Be Transparent – Performance and improvement should be tangible and visible. (Aim for
+    speaking with real data)
+ Therefore, the premise of Kaizen practice includes –
+ ✓  The system seeks gradual improvements in the existing situation at an acceptable cost.
+ ✓    It encourages collective decision making and the application of knowledge.
+ ✓  There are no limits to the level of improvement that can be implemented.
+ ✓  Kaizen involves setting standards and then continually improving these standards to achieve
+     long-term sustainable improvements.
+ ✓  The focus is on eliminating waste, improving systems, and improving productivity.
+ ✓    It involves all employees and all areas of the business.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.19
+
+
+Figure A.7 – Premises of Kaizen Practice
+
+
+ Do You Know?
+ How is the cost reduction target established (Agreed Target/ Goal)?
+ While establishing the cost reduction target, the workforce is empowered through the bottom-up
+ path, i.e., asking them to participate in establishing the target and searching for or suggesting
+ means to attain it.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+3.20      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+
+Figure A.8 – Agreement in Kaizen
+       Case Scenario
+
+ M. India Ltd. (MIL) is an automobile manufacturer in India and a subsidiary of Japanese automobile
+ and motorcycle manufacturer Leon. It manufactures and sells a complete range of cars, from the
+ entry level to the hatchback to sedans and has a present market share of 22% of the Indian
+ passenger car market. MIL uses a system of standard costing to set its budgets. Budgets are set
+ semi-annually by the Finance department after the approval of the Board of Directors at MIL. The
+ Finance department prepares variance reports each month for review in the Board of Directors
+ meeting, where actual performance is compared with the budgeted figures. Mr. Suzuki, group CEO
+ of Leon, is of the opinion that the Kaizen costing method should be implemented as a system of
+ planning and control in the MIL.
+ Required
+ RECOMMEND key changes vital to MIL’s planning and control system to support the adoption of
+ ‘Kaizen Costing Concepts’.
+ Solution
+ Kaizen Costing emphasizes small but continuous improvement. Targets, once set at the beginning
+ of the year or activities are updated continuously to reflect the improvement that has already been
+ achieved and that is yet to be achieved.
+ The suggestive changes which are required to be adopted in Kaizen Costing concepts in MIL are
+ as follows:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.21
+
+ Standard Cost Control System to Cost Reduction System: Traditionally Standard Costing system
+ assumes stability in the current manufacturing process and standards are set keeping the normal
+ manufacturing process into account thus the whole effort is on to meet performance cost standard.
+ On the other hand, Kaizen Costing believes  in continuous improvements  in manufacturing
+ processes and hence, the goal is to achieve cost reduction target. The first change required is the
+ standard setting methodology i.e., from earlier Cost Control System to Cost Reduction System.
+ Reduction in the periodicity of setting Standards and Variance Analysis: Under the existing planning
+ and control system followed by the MIL, standards are set semi-annually and based on these
+ standards monthly variance reports are generated for analysis. But under the Kaizen Costing
+ system cost reduction targets are set for small periods, say for a week or a month. So, the period
+ covered under a standard should be reduced from semi-annually to monthly and the current
+ practice of generating variance reports may be continued or may be reduced to a week.
+ Participation of Executives or Workers in standard setting: Under the Kaizen Costing system
+ participation of workers or executives who are actually involved in the manufacturing process is highly
+ appreciated while setting standards. So, the current system of setting budgets and standards by the
+ Finance department with the mere consent of Board of Directors required to be changed.
+
+
+ Practical Insight
+ Kaizen Practices2
+ Kaizen Costing becomes part of the Package. At the start of 2002 a UK company called Kappa
+ Packaging (now part of the Smurfit Kappa Group) had a factory in Greater Manchester that made,
+ among other products, cartons to hold bottles of drink. That year, the firm introduced a new approach
+ to cutting the amount of wastepaper and cardboard it was producing, which stood at 14.6 percent of
+ the raw materials consumed. The new approach included the following  initiatives: a) Making
+ employees more aware of how much waste was being produced. b) Requiring them to monitor the
+ amount of waste for which they were individually responsible. c) Establishing a Kaizen team to find
+ ways of reducing waste. As a result, Kappa was able to reduce waste from 14.6 percent to 13.1
+ percent of raw materials used by the end of 2002 and down to 11 percent in 2003. Each percentage-
+ point saving was worth an estimated £110,000 a year.
+
+3. 5S
+5S is the foundation of the pillars of TPM (Total Productivity Maintenance). 5S is the name of a
+workplace organization method that uses a  list of five Japanese words:  seiri, seiton, seiso,
+seiketsu, and shitsuke.  It explains how a workspace should be organized for efficiency and
+effectiveness by identifying and storing the items used, maintaining the area and items, and
+sustaining the new order.
+
+
+2 "Accurate measurement of process waste leads to reduced costs", www.envirowise.gov.uk, 2003
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+3.22      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+3.1 5S Phases
+
+
+Figure A.9 – Phases of 5S
+5S phases: they can be translated from the Japanese as “sort”, “set in order”, “shine”,
+“standardize”, and “sustain”.
+3.1.1 Sort (Seiri)
+Sort the material at the production floor or any other part of the production facility (including the extended
+store) into following categories –
+▪   Not needed at all.
+▪   Needed, but not now.
+▪   Needed, but not here.
+▪   Needed, but not so much quantity.
+The categories suggested above are generic in nature; businesses may develop the categories as per
+their own choices and convenience.
+
+
+ Do You Know
+ While classifying the material into different categories, the following questions need to be answered–
+ ▪  What is required?
+ ▪ How much is required?
+ ▪ When is/ will it be required?
+ ▪  Where is/ will it be required?
+Sorting can be visual aided; this, apart from saving time, can also help the unskilled worker or worker
+with limited technical understanding determine what to do with material based upon the colour of the flag
+attached to it. The following two categories of tags are usually used–
+▪   Red tag – A card containing detailed information about unwanted things with a given time limit for
+      further action to be taken.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.23
+
+▪    Yellow tag - A card containing detailed information about needed things but not now with a given
+     time limit for further action to be taken – usually kept in store.
+Sorting endorses lean thinking by helping in identifying the following –
+▪    Obsolete items, i.e., those parts (jigs/ tools) not required as the design has become obsolete or
+     otherwise.
+▪    Defective items,  i.e., parts that can’t be used as they are, can be used, but some repair or
+     maintenance needs to be performed.
+▪   Scrap items, i.e., leftover material, may or may not be useful.
+▪    Items not at their designated place (dislocated items that lay at the place where they shouldn’t be).
+▪   Unnecessary items, i.e., either extra or not useful.
+
+
+ Do You Know?
+ What benefits is sorting capable of generating?
+ The benefits expected from sorting include –
+ ▪  Make work easier by eliminating obstacles and evaluating necessary items with regard to cost
+     or other factors.
+ ▪  Reduce the chances of being disturbed with unnecessary items.
+ ▪   Prevent the accumulation of unnecessary items.
+3.1.2 Set in Order (Seiton)
+Set-in-order signifies the systemic arrangement by adherence to the 14th Principle of Management
+enunciated by Henri Fayol in Administrative Theory of Management, i.e., Principle of order which provides
+that there shall be place for everything and everything shall be in its place. Therefore, set-in-order
+arranges all necessary items into their most efficient and accessible arrangements so that they can
+be easily selected for use and make the workflow smooth and easy.
+Purpose is to save search time and eliminate motion waste through visual management, with a search
+free and count free arrangement. Hence, place components according to their uses, with the frequently
+used components being near to the work.
+
+
+ Do You Know?
+ How to implement systematic arrangements?
+ ▪  Analyse status.
+ ▪  Decide which things will belong where.
+ ▪  Decide how they should be put away.
+ ▪  Get everybody to follow the rules through indexing, labelling, etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+3.24      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Set-in-order supports lean thinking through realising the following –
+▪    Faster retrieval of things results in the elimination of search time.
+▪    Opportunity to correct the abnormalities faster as visibility improves by the system itself.
+▪   Space savings by systematic arrangement.
+▪    Efficiency of work improves as things are.
+▪    Available when they are actually needed.
+3.1.3 Shine (Seiso)
+Shine ensures there must be cleanliness ‘in and of’ everything. Obviously, if there are fewer items, then
+there is less to clean.
+Workers are responsible for cleaning their workstations on a daily basis to ensure safety (by
+eliminating the scope of any accident); this will also result in a clean and pleasing workspace to work
+at. Cleaning includes inspection of machines, tools, or any other production (as well as supporting)
+facilities from all aspects, i.e., front, rear, left, right, top, and bottom.
+3.1.4 Standardise (Seiketsu)
+Establish and standardise the best practices at the workplace and make them part of organisation wide
+standard operating procedures (SOPs) so that sorting, set in order, and shine become a habit of the
+workforce. Organisations need to maintain SMART standards; strive for standardised orderliness so that
+everything is in order according to its standard. Every process must have a standard.
+3.1.5 Sustain (Shitsuke)
+In order to sustain the established standard, it is required to do–
+▪    Daily Monitoring.
+▪    Improving ownership by allocating areas.
+▪   Using ‘Red Tag Campaign’.
+▪   Communicating visually through fixed point photography.
+▪    Structured communication.
+▪    Continuous training of all employees.
+▪    Periodic audits at all levels.
+▪    Motivating staff through recognition.
+
+
+ Concept Insight
+ To standardise and sustain an organisation, it may fix responsibilities for implementing and evaluating
+ system. Integrate these responsibilities into routine work. Check how well the system is working and
+ sustaining itself.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.25
+
+3.2 Interlinking of 5S and Underlying Benefits
+5S are interlinked to each other in the form of a continuous process that results in certain benefits,
+such as high quality, productivity and low cost with enhanced safety as shown in the figure below–
+
+
+Figure A.10 – 5S and underlying benefits
+3.3 5S in Lean Product and Process Development
+Information is the output of engineering and design in a lean enterprise. The theory behind using 5S
+here is that “dirty, cluttered, or damaged surfaces attract the eye, which spends a fraction of a
+second trying to pull useful information from them. Old equipment hides the new equipment from the
+eye and forces people to ask which to use.” 5S methodology is being applied to a wide variety of
+industries, including Manufacturing, Health Care, Education, and Government. 5S is not only the
+foundation for TPM; instead, it is the foundation for various lean manufacturing techniques, as shown
+in the figure below –
+
+
+Figure A.11 – 5S as a foundation for Lean Manufacturing
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+3.26      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+3.4 5S methodology as a core enabler of continual improvement
+5S helps the organisation strive towards continual improvement and innovation through the PDCA
+cycle. Plan and Do are enablers for continual improvement, while Check and Action are results. 5S, being
+the foundation of TPM (even all the lean practices that eventually led to TQM), acts as the enabler for
+continual improvement and fits in at the Do stage, as shown in the picture below–
+
+
+Figure A.12 – 5S implementation as part of the PDCA Cycle for continuous improvement and innovation
+       Case Scenario
+
+ Y & E Chartered Accountants offers a wide range of specialized, multi-disciplinary professional
+ services that meet the immediate as well as the long-term business needs of clients. One of
+ partner ‘E’ was upset with office documentation. ‘E’ argued that a document management solution
+  is needed to maximize efficiency within the firm. The senior partner ‘Y’ has recently attended a
+ seminar on lean system and heard the ‘5S’. He said that old files hide the key files from the eye
+ and force staff to ask which to use. Accordingly, he desires to implement ‘5S’.’
+ Required
+ ADVISE on the implementation of ‘5S’ in Y & E.
+ Solution
+ Office processes often have huge amounts of paperwork, and this not only makes processes
+ slower but also allows errors to be introduced. 5S is a method of both cleaning out the working
+ area and maintaining its cleanliness to improve process quality. The 5S process is based on:
+ Sort (Seiri)
+ This is the sorting and removal of unnecessary files, papers, books, and documents in the work
+ area. Sorting is designed to make the work area neat, organized and arranged so that relevant
+ items can be found easily. If an item is not relevant to the work, then it should not be in the work
+ area.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.27
+
+ Set in Order (Seiton)
+ Set in order means systematic arrangement of things, i.e., arrange all necessary items into the
+ most efficient and accessible arrangement so that they can easily be identified for use.  It is
+ advisable to have proper indexing of files and proper documentation, i.e., a proper index should
+ be made and pasted on each file about its contents, and in that pattern of contents, documents
+ should be kept inside the files so that specific document can easily be traced and withdrawn on
+ time. Even inside a cupboard, paper indexing about files with their names should be pasted so
+ that specific file can easily be traced. Same can be done w.r.t. folders in computer, right file should
+ be saved in the right folder with an identifiable name so that anyone can easily find any file.
+ Frequent use items should be close by, and infrequent use items can be further away in a central
+ area. All storage areas should be clearly labelled to allow items to be put in the correct place,
+ e.g., where did I leave the office stamp again?
+ Shine (Seiso)
+ After sorting and simplifying, it is necessary to keep the work area clean and safe. Shining is also
+ an inspection process for the area, i.e., is everything in good condition? It is desirable to involve
+ employees for 15-20 minutes each day to clean the work area so that they can develop the habit
+ of cleanness. In the same way, unimportant files either in desktop or in any driver should be
+ permanently deleted.
+ Standardize (Seiketsu)
+ A clean and tidy work area allows the process to be standardized and examined for quality or
+ process improvements. Best practices are documented and rolled out across the work area,
+ standards and process measures are established and displayed in the work area.
+ For example, a red file can be standardized for very important files (can be required anytime), a
+ green file for important files, and a yellow file for unimportant files.
+ Sustain (Shitsuke)
+  It means to maintain discipline; this can only be achieved by auditing work areas and processes
+ to make sure that the 5S standards are maintained.  It is worthwhile to apply 5S standards
+ continuously, i.e., daily basis, and check for any upgrades if needed, so that firm can have good
+ management in terms of documentation, cleanness, time savings for partners as well as clients.
+ Overall, 5S in offices streamlines the work (low to reduce errors as well as improving process
+ times) and employee satisfaction.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+3.28      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+4. Total Productive Maintenance (TPM)
+Total Productive Maintenance (TPM) is a system for maintaining and improving the integrity of
+production and quality systems. This is done through the machines, equipment, processes, and
+employees that add to the value of Business Organisation. This concept was first introduced by
+M/s Nippon Denso Co. Ltd. of Japan, a supplier of M/s Toyota Motor Company.
+4.1 How can TPM be introduced in the organization?
+The introduction of TPM follows four main phases:
+▪    Preparation Stage: Establish a suitable environment and conduct programme awareness.
+▪    Introduction Stage:  Initialization  of TPM, information  to suppliers, customers, and other
+     stakeholders.
+▪    Implementation Stage: This is done with the help of eight activities referred to as pillars of TPM.
+▪    Institutionalising stage: This is the stage of getting TPM awards.
+
+
+Figure A.13 – Pillars of TPM
+TPM helps in keeping all equipment in top working condition so as to avoid breakdowns and delays
+in manufacturing processes.
+TPM strategy focuses on eight pillars of success, with the 5S strategy as the foundation as shown
+in the figure. Each pillar (8 activities) relies upon certain techniques, as shown in table –
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.29
+
+  Foundation & Pillars              About                      Techniques
+ Foundation: 5S       TPM starts with 5S.  It deals with   Seiri (sort), Seiton (set in order)
+                           organising  a  workplace,  which   Seiso,      (shine),     Seiketsu
+                          helps  to recognise the uncover   (standardize),          Shitsuke,
+                          problems.                             (sustain).
+ P-1: Autonomous         Operation  of equipment  without  Cleaning,   Lubricating,   Visual
+ Maintenance           breakdown  and  eliminating  the   Inspection, Tightening of Loose
+                           defects at source through active   Bolts, etc.
+                       employee participation.
+ P-2: Focussed            This  pillar  is  about  the  minor  Kaizen     Register,    Kaizen
+ Improvement (Kaizen)    improvements   made   on   a  Summary   Sheet,   Why-Why
+                          continuous basis. This pillar aims   Analysis,  and  Summary   of
+                              to reduce losses in the workplace  Losses.
+                              that affect efficiencies.
+ P-3: Planned             This  is  a  proper  maintenance   Preventive        Maintenance,
+ Maintenance            system adopted for improvement  Breakdown       Maintenance,
+                                in the reliability and maintainability   Corrective  Maintenance,  and
+                              of equipment. It aims to have zero  Maintenance Prevention.
+                       breakdown    and     optimum
+                        maintenance cost.
+ P-4: Early Management   This focuses on  shortening the  Engineering and Re-engineering
+                          time  required  for  product  and  Processes.
+                        equipment development.
+ P-5: Quality              This    is   towards   achieving  Root  Cause   Analysis,  and
+ Maintenance            customer satisfaction through the  Customer Data Analysis.
+                             delivery of high-quality products.
+ P-6: Education and            It  aims  to  improve  knowledge/   Training Calendar,  Policies  for
+ Training                       skills and enhance the morale of  Education and Training, On-site
+                        employees.                          Training, etc.
+ P-7: Office TPM           Application of TPM techniques in  Analyzing    processes    and
+                            administration      to     improve  procedures  towards  increased
+                             productivity and  efficiency while   Office Automation.
+                             eliminating losses.
+ P-8: Safety, Health, and  Above all, the safety of workers is  Drama, Safety Slogans, Quizzes,
+ Environment             utmost importance. It aims to have  and Posters Making  to create
+                          zero accidents and zero  health  awareness related to safety.
+                       damages.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+3.30      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+4.2 Performance Measurement in TPM3
+The most important approach to the measurement of TPM performance is known as the Overall
+Equipment Effectiveness (OEE) measure. The calculation  of the OEE measure requires the
+identification of “six big losses”.
+▪   Equipment Failure/ Breakdown
+▪    Set-up/ Adjustments
+▪     Idling and Minor Stoppages
+▪   Reduced Speed
+▪   Reduced Yield and
+▪    Quality Defects and Rework
+The first two losses refer to time losses and are used to calculate the availability of equipment. The
+third and fourth losses are speed losses that determine the performance efficiency of equipment.
+The last two losses are regarded as quality losses.
+
+
+Figure A.14 – OEE
+OEE may be applied to any individual assets or to a process. It is unlikely that any manufacturing
+process can run at 100% OEE. According to Dal et al (2000), Nakajima (1998) suggested that the
+ideal values for the OEE component measures are:
+                                         Availability      > 90%
+                               Performance    > 95%
+                                    Quality        > 99%
+Accordingly, OEE  at World Class Performance would be approximately 85%. Kotze (1993)
+contradicted this saying that an OEE figure greater than 50% is more realistic and therefore more
+useful as an acceptable target.
+Illustration 2
+KIWI Ltd. manufactures spare parts and can be called a "high volume based" manufacturing
+environment. The company is using the system of TPM for maintaining and improving the integrity
+of the manufacturing process. There are several different automated manufacturing machines
+located in the plant, through which the manufacturing of spare parts is done and supplied to cater
+the demand in the market.
+
+
+3 Factors Affecting the Implementation of a Total Productive Maintenance by Norman Herrmann.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.31
+
+A 12- hour shift is scheduled to produce a spare part in KIWI Ltd. as shown in the schedule below.
+The shift has three 15- minute breaks and a 10- minute clean up period.
+Production Schedule for Automated machine NZ 10:
+Cycle: 10 (seconds),
+Spare parts Manufactured: 3,360,
+SCRAP: 75,
+Unplanned Downtime: 36 minutes
+Required
+CALCULATE OEE (Overall Equipment Effectiveness) and comment on it.
+Solution
+Calculation of Planned Production Time
+                                                           Mins.
+ Total time (12 hrs. × 60 mins.)                            720
+ Less: Planned downtime
+       break (3 × 15 mins.)                               45
+       clean up time                                    10
+                           Planned Production Time      665
+
+Availability Ratio per shift   =                               665 mins. - 36 mins.  100
+                               665 mins.    
+                         =    94.59 %
+Actual Production           =    3,360 parts
+Standard time              =   10 seconds
+Standard Time Required     =    3,360 parts × 10 seconds/ 60
+                         =   560 minutes
+Actual Time Taken          =   665 mins. – 36 mins.
+                         =   629 minutes
+                            
+Performance Ratio         =                                                            560 mins.  100
+                             629 mins. 
+                         =   89.03%
+                            
+Quality Ratio              =                                                               3,360 parts - 75 parts  100
+                                 3,360 parts    
+                         =   97.77%
+Thus, OEE                =    0.9459 × 0.8903 × 0.9777
+                         =   82.34%
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+3.32      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Comment
+Since the OEE of KIWI Ltd. is very close to 85%, i.e., world class performance level, the company
+should take measures to improve it and strive to attain 85% level. Availability Ratio of machine NZ
+10 is 94.59%, exceeding the ideal value of > 90%, which is good; but the Performance and Quality
+Ratios need attention as they are below their ideal values of > 95% and > 99%, respectively.
+
+
+      OEE  is based on  three OEE  factors:  Availability, Performance and  Quality. The
+         calculations are as follows for each of the three main factors:
+                                     Operating Time         Availability Ratio    =                                                        100
+                                 Planned Production Time 
+       The  availability  is related with the  total stoppage time  resulting from unscheduled
+        downtime, process setup and changeovers, and other unplanned stopages. It is the ratio
+          of operating time to planned production time and takes into consideration the theoretical
+         production time against which unplanned downtime is highlighted.
+        Planned down time, such as preventive maintenance, lunch break, tea breaks, etc. is not
+        regarded as a loss in this respect.
+                                  Ideal Cycle Time  Total Count        Performance Ratio   =                               100
+                                         Operating Time       
+
+          ‘Ideal Cycle Time’ is the theoretical fastest possible time to manufacture one piece.
+
+                                        Quality Ratio        =                                                                 Good Count   100
+                                 Total Count 
+         This is the third element of OEE. It is defined as the ratio of total good production to actual
+           total production, sometimes called ‘yield’.
+        Note- OEE can be calculated using the formula - (Good Count × Ideal Cycle Time) / Planned
+         Production Time.
+4.3 Connection between TQM and TPM
+The connection between TQM and TPM is summarized below:
+▪  TQM and TPM make the company more competitive by reducing costs, improving customer
+      satisfaction, and slashing lead times.
+▪    Involvement of the workers in all phases of TQM and TPM is necessary.
+▪    Both processes require fundamental training and education for participants.
+▪   TPM and TQM take a long time to notice sustained tangible benefits.
+▪   Commitment from top management is necessary for the success of the implementation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.33
+
+5. Cellular Manufacturing/ One Piece Flow Production System
+A sub section of JIT and Lean System is Cellular Manufacturing. It encompasses group technology.
+The goals of cellular manufacturing are:
+▪   To move as quickly as possible,
+▪   Make a wide variety of similar products,
+▪   Making as little waste as possible.
+In the assembly line, multiple cells are used. Each cell comprises one or more machines which
+accomplish a certain task. The product moves from one cell to the next, each station completing part
+of the manufacturing process. A U-shaped design is given to these cells because this allows for the
+supervisor to move less and can more readily watch over the entire process.
+Flexibility in operations is its biggest advantage. Changes are easy to make as the machines are
+automatic. Variety of product scaling is possible, and minor changes to the overall design are made
+possible by changing the overall design. Although tedious, the changes can be done precisely and
+quickly.
+A cell is created by consolidating the processes required to create a specific output, such as a part
+or a set of instructions. Reduction is the extra step that is taken in the process of creating the specific
+output and  facilitate quick  identification  of problems and encourage communication among
+employees within the cell in order to resolve issues that arise quickly.  It gives massive gains on
+implementation in productivity and quality while simultaneously reducing the amount of inventory,
+space, and lead time required to create a product. It is for this reason that the one-piece-flow cell
+has been called "the ultimate in lean production”.
+5.1 Implementation Process
+In order to implement cellular manufacturing, a number of steps must be performed.
+First, the parts to be made must be grouped by similarity (in design or manufacturing requirements)
+into families.
+Then a systematic analysis of each family must be performed, typically, in the form of production
+flow analysis (PFA) for manufacturing families or in the examination of design/ product data for
+design families. This analysis can be time consuming and costly, but it is important because a cell
+needs to be created for each family of parts.
+There are also a number of mathematical models and algorithms to aid in planning a cellular
+manufacturing centre which take into account a variety of important variables, such as "multiple plant
+locations, multi-market allocations with production planning, and various part mix."
+Once these variables are determined with a given level of uncertainty, optimizations can be
+performed to minimize factors such as "total cost of holding, inter-cell material handling, external
+transportation, fixed cost for producing each part in each plant, machine and labour salaries.”
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+3.34      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+
+ Concept Insight
+ 1. Production Flow Analysis rests on the basic idea to identify items that are made with the same
+    processes / the same set of equipment. These parts are assembled into a part family, and the same
+    equipment can be grouped (clustering) into a cell to minimize material handling requirements.
+                                              Clustering Methods
+
+
+                                      Machine grouping - Form       Part family grouping - Form                                         Machine-part grouping - Form                                        machine cells based upon         part families and then group                                                   part families and machine cells                                                      similarities in part routing and           machines into cells                                                           simultaneously.                                             then allocate parts to cells
+
+    Note - The machine-part grouping is most significant.
+  2. Various heuristic and exact methods have been developed for grouping/clustering, but the simplest
+    one is binary ordering, also known as rank order clustering or King’s algorithm.
+  3. Rank Order Clustering Algorithm is a simple algorithm used to form machine-part groups.
+                       Rank Order Clustering Algorithm
+ The steps in using the Rank Order Clustering Algorithm are as follows:
+  1. Assign Binary Weight (BWj = 2n-j) to each column  j of the matrix, where n is the number/ types of
+    components (parts).
+  2. Calculate the Decimal Equivalent (DEi) of the binary values of each row  i using the formula:
+                                                      n
+                                (BW j )(a ij )                        DE i = 
+                                                                j=1
+  3. Rank the rows in decreasing order of their DEi values, i.e., the largest value is ranked as 1. Break ties
+       (if any) arbitrarily.
+  4. Re-arrange the rows in the running order of the rankings.
+  5.  If no further rearrangement is necessary, stop. Otherwise, go to the next step, i.e.,6.
+  6. Assign Binary Weight (BWi = 2m-i) to each rearranged row  i of the matrix, where m is the number of
+    machines.
+  7. Calculate the Decimal Equivalent (DEj) of the binary values of each column  j using the formula:
+                                    m
+                                (BWi )(a ij )                        DE j = 
+                                                                i=1
+  8. Rank the columns in decreasing order of their DEj values, i.e., the largest value is ranked as 1. Break
+     ties (if any) arbitrarily.
+  9. Re-arrange the columns in the running order of the rankings.
+  10.If no rearrangement is necessary, stop. Otherwise, go to step 1.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.35
+
+
+ Concept Insight
+                     Flow Shop or Assembly Line Workflow
+
+
+                              Material flow; Machine utilization; Space utilization;
+                                Productivity   (compared   to   process   layout);
+                         Components  standardization;  Employee  morale;
+                                 Quality, etc.
+
+
+                                   Planning effort; Paper work; Setup time; Down-time;
+                            Work   movement;   Work-in-process;   Material
+                                   handling cost; Direct/indirect labour cost, etc.
+
+
+ Figure A.15 – Assembly line workflow
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+3.36      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+5.2 Difficulties in Creating Flow
+Following  difficulties need to be considered and addressed to create efficient flow in cellular
+manufacturing:
+▪    Exceptional Elements
+▪   Machine Distances
+▪    Bottleneck Machines and Parts
+▪   Machine Location and Relocation
+▪    Part Routing
+▪    Cell Load Variation
+▪     Inter and Intracellular Material Transferring
+▪    Cell Reconfiguring
+▪   Dynamic Part Demands and
+▪    Operation and Completion Times
+5.3 Benefits and Costs
+Scattered processes are merged  to form  short, focused paths  in concentrated places. So
+constructed, by logic a cell reduces flow time, flow distance, floor space, inventory, handling,
+scheduling transactions, and scrap and rework (the  latter because of the quick discovery of
+nonconformities). Moreover, cells lead to simplified, higher validity costing, since the costs of
+producing items are contained within the cell rather than scattered in distance and the passage of
+reporting time.
+Production and quality controls are facilitated. Cells that are underperforming in either volume or
+quality can be easily isolated and targeted for improvement. The segmentation of the production
+process allows problems to be easily located, and it is more clear which parts are affected by the
+problem.
+There are also a number of benefits for employees working in cellular manufacturing. The small cell
+structure improves group cohesiveness and scales the manufacturing process down to a more
+manageable level for the workers.
+Workers can more easily see problems or possible improvements within their own cells and tend to
+be more self-motivated to propose changes. Additionally, these improvements that are instigated by
+the workers themselves cause less and less need for management, so over time, overhead costs
+can be reduced.
+There are a number of possible limitations to implementing cellular manufacturing. Some argue that
+cellular manufacturing can lead to a decrease in production flexibility. Cells are typically designed
+to maintain a specific flow volume of parts being produced. Should the demand or necessary quantity
+decrease, the cells may have to be realigned to match the new requirements, which is a costly
+operation and not typically required in other manufacturing setups.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.37
+
+6. Six Sigma
+Engineer Bill Smith introduced Six Sigma while working at Motorola in 1986. Six Sigma became well
+known after Jack Welch made it a focus of his business strategy at General Electric in 1995, and today
+it is widely used in many sectors of industry. It is a quality improvement technique whose objective is
+to identify and eliminate defects in any aspect that affects customer satisfaction. For this, six sigma
+uses the Quality management methods, Statistical methods, and Special infrastructure of people.
+The premise of Six Sigma is that by measuring defects in a process, a company can develop ways
+to eliminate them and practically achieve “zero defects”. Six Sigma can be used with a balanced
+scorecard by providing a more rigorous measurement system based on statistics.
+
+                                             Increase
+                                        Customer                                                                     Decisions                       Overall                   satisfaction                                                             based on                    business                                                                        data-driven                 improvement                                                                                 facts
+
+            Improve cycle                                         Management,                                          Primary focus               time and to                                              improvements,                                                  of Six Sigma             reduce cost                                         and processes
+
+                    Goal for                                                                        Proactive                      perfection by                                                        management                      reducing
+                        defects               Collaboration              team
+                                                with in the
+                                            business
+
+Figure A.16 – Primary focus of Six Sigma
+Six Sigma practices are based upon the following assertions –
+▪Continuous efforts to attain a stable and predictable process, which result in no variance.
+▪Character of a process that can be measured, analysed, improved, and controlled.
+▪Achieving  sustained  quality  improvement  through  overall  commitment  from  the  entire
+   organisation, especially top-level management.
+6.1 Numerical Concept of Six Sigma
+'Sigma' is a statistical term that measures how far a process deviates from perfection. The higher
+the sigma number, the closer the process is to perfection.
+The values of the Defect Percentage
+Six Sigma is 3.4 defects per million opportunities or getting things right 99.99966% of the time. It is
+possible to develop ways of reducing defects by measuring the level of defects in a process and
+discovering the causes.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+3.38      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+The Value of the Defect Percentage Under Various Sigma Levels
+  Sigma       Defects per Million      Percentage    Percentage         Quality/
+   Level      Opportunities (DPMO)    Defective (%)     Yield (%)         Profitability
+    1σ              6,91,462               69            31              Loss
+    2σ              3,08,538               31            69         Non-Competitive
+    3σ              66,807                  6.7            93.3       Average Industries
+    4σ               6,210                 0.62           99.38       Above Average
+    5σ              233                 0.023          99.977       Below Maximum
+                                                                                    Productivity
+    6σ                 3.4                0.00034       99.99966      Near Perfection
+The second last column (in the above table) indicates the percentage of values that lie within the
+control limits. The more popular measure, the number of defects per million opportunities,  is
+indicated in the second column.
+It may not be possible to achieve 'perfect Six Sigma', but relevant benefits can be achieved from a
+rise from one Sigma level to another.
+6.2 Implementation of Six Sigma
+There are two methodologies for the implementation of Six Sigma-
+6.2.1 DMAIC: This method is very robust.  It is used to improve existing business processes. To
+produce dramatic improvements in business processes, many entities have used it successfully. It
+has five phases:
+
+
+Figure A.17 – DMAIC
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.39
+
+DMAIC is used under the following circumstances:
+▪A product or process exists.
+▪The project is part of an ongoing continuous improvement process.
+▪Only a single process needs to be altered.
+▪Competitor’s actions are stable.
+▪Customer’s behaviour is unchanging.
+▪Technology is stable.
+
+
+ Concept Insight
+ Application of DMAIC4
+  In the banking sector, DMAIC may be used as follows:
+ ❑  Define: Customer  satisfaction and  loyalty have a significant impact on  the financial
+      performance of a bank. Six Sigma involves defining objectives and opportunities to improve
+      (based on customers’ feedback or complaints) in discussion with staff.
+ ❑  Measure: In  this phase, Six Sigma experts deploy quantitative procedures to  collect
+        statistical data. Then the statistical data is used for measuring the impact of the various
+      processes on customer satisfaction. Different processes may have different impact on
+      customer satisfaction. The measurement of the impact of individual processes helps the
+      banks to concentrate on improving the processes that have the maximum impact on
+      customer satisfaction. In the banking industry, wait times are said to have the maximum
+       impact on customer satisfaction.
+ ❑  Analyse: In this phase, Six Sigma experts analyse the data collected in accordance with the
+      parameters set for improvement. So that the processes that directly affect customers’
+        satisfaction can be improved at a minimum cost.
+ ❑  Improve:  In  this phase, experts take  corrective measures  to improve processes  in
+       consultation with staff based on facts and statistics. Advanced statistical tools can also be
+      used to study the impact of the proposed improvement initiative on business processes.
+ ❑   Control: Control systems should be put in place to monitor the impact of the improvement
+         initiatives through  periodical review performance.  If a business process  is   still not
+       performing well in accordance with the desired Six Sigma levels, the process is referred
+      back to the ‘define’ phase. However,  if a small problem is impacting performance, then
+       corrective measures are taken and the whole process is not referred back.
+
+
+4 http://www.sixsigmaonline.org
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+3.40      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+
+     Case Scenario
+ Derby Grey is a leading manufacturer of leather luggage bags (up to 62”) for style-conscious people
+ around the globe.  It is made up of two independent divisions in New Delhi. The division ‘Mx’
+ performs all manufacturing and packaging operations. All sales are made through the division ‘Rx’,
+ which has 11 retail stores in New Delhi, as well as through Derby Grey’s own well-developed
+ website. Derby Grey also has retail operations in Dubai, Kuala Lumpur, Bangkok, as well as in
+ Singapore. These overseas businesses operate as independent subsidiaries within Division ‘Rx’.
+ Derby Grey revolutionized the industry by offering cheap but stylish luggage bags. Derby Grey is
+ able to keep its prices low by offering a very basic level of service. Luggage bags are sold in boxes
+  for customers to assemble themselves, and all deliveries are made through third party distributor
+ ‘Çosta Cruise’.
+  Dr. Philips (Managing Partner) is bothered about increasing sales returns and massive complaints
+ about products purchased from Derby Grey on social media. With this concern, Dr. Philips has
+ appointed you as a performance management expert to help the firm to execute the six sigma
+ technique to reduce the number of sales returns and to evaluate the firm’s existing performance.
+  Dr. Philips has heard that Six Sigma analysis involves large quantities of data. Dr. Philips stated–
+  “I’m not confident in our current IT systems. I doubt whether the system would be able to identify
+ the required data related  to  cutting, preparation, closing,  lasting,  etc. These manufacturing
+ subdivisions may be the root cause of the problem. Further, the quarterly compiled sales return data
+ lacks enough detail. We may need to do more analysis on customer satisfaction and manufacturing
+  quality.”
+ You have been given access to feedback given by customers for returning goods to measure
+  existing performance in this area (refer below):
+  Difficult to assemble or pieces missing (47%) – Bags were not as demanded (24%) – Poor Quality
+ (19%) – Arrived damaged (9%) – Arrived late (1%)
+ Required
+ ADVISE Managing Partner on Six Sigma implementation to reduce the number of sales returns
+ using the DMAIC method.
+ Solution
+ DMAIC is a methodology of Six Sigma used to improve existing business processes. It is advisable
+  for the Managing Partner to execute the following phases of DMAIC–
+ Define the process
+ This phase emphasises exactly what the customer’s requirements are? In this case, focus is
+  precisely on why bags are returned. The objective of the process needs to be clear, as in this case,
+  to reduce the number of customer returns. Customers expect certain minimum requirements from
+ the manufacturing and packaging process, for example, that the bags are properly packed in boxes.
+ They also expect the goods to be delivered undamaged within a reasonable time and at the time &
+ date committed. Further, customers’ perceptions of quality should coincide with the price paid,
+ though different customers may have different expectations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.41
+
+ Measure the existing process
+ This phase measures the process to determine existing performance. In this case, the sales
+ returns figures do not show a complete picture as to why customers return bags, which of the
+ classes belongs to ‘poor packing’, which belongs to ‘defective item’, which belongs to ‘activities
+  of other subdivisions’, etc. The ambiguity of the data and the classification of definitions will need
+  to be addressed to enable the process to be measured effectively.
+ Analyse
+ This phase detects the root cause of the problems. Possible root cause of sales returns are as
+  follows:
+ ▪     Difficult to assemble or pieces missing (47%) – Returns could be because the bags were
+      not manufactured or packed properly in the ‘Mx’ division, but they could also be due to poor
+      design, customers losing pieces, or simply being unable to assemble the bag.
+ ▪   Bags were not as demanded and of poor quality (43%) – Returns could be due to defective
+      manufacture or if the customer had merely changed their minds and no longer required the
+      bag. In ‘bags were not as demanded’, the identification of ‘defective items’ are too vast.
+ ▪    Arrived damaged (9%) –  It may be that customers wrongly classified defective bags as
+     damaged. Though bags may become damaged by the ‘Çosta Cruise’, only a small number
+       of returns relate directly to them.
+ ▪    Arrived late (1%) – Reasons of arrived late could be either ‘Costa Cruise’ could not make
+       delivery on time or ‘Mx’ division could not complete the order on time, and this causes only
+    1% of returns, which is relatively insignificant.
+ Further, information could be analysed, like country wise sales returns, product wise sales, or
+ with more clear  definition of ‘defective items’ from the customer’s perspective. By doing so, the
+  firm may easily get information related to areas of the business where sales returns are high and
+ hence be able to focus on.
+ Improve
+  In this phase, recommendations are made to minimize or eliminate the root cause of the problem,
+ and then those recommendations are implemented to improve the process in a systematic
+ manner. Derby Grey is required to consider aspects of production or packaging which could be
+ improved, for example, the timely repair and maintenance of equipment or training of existing
+  staff, etc. Further, availability of resources and likely costs of making the improvements need to
+ be carefully considered.
+ Control
+ Here, control means maintaining improved performance and future performance. Derby Grey
+ would be required to monitor the performance on an ongoing basis.  If sales returns reach a
+  particular level, it should be reported to the responsible person, and he should act immediately.
+  In addition, Derby Grey needs to redesign its IT system in such a way so that it can provide the
+ required detail. Since this is continuous monitoring, it may also require revisiting some phases in
+ DMAIC.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+3.42      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+6.2.2 DMADV: The application of these methods is aimed at creating a high-quality product, keeping
+in mind customer requirements at every stage of the product. It is an improvement system which is
+used to develop new processes or products at Six Sigma quality levels. Phases are described in the
+diagram:
+
+
+Figure A.18 – DMADV
+
+DMDAV is used under the following circumstances:
+▪   A product or process is not in existence.
+▪    Existing process has been optimised using either DMAIC or some other process.
+▪    Projects have strategic importance.
+▪    Multiple processes need to be altered.
+▪    Competitor’s performance is changing.
+▪    Customer’s behaviour is changing.
+▪    Technology is growing.
+6.2.3 Similarities between DMADV and DMAIC
+▪    Both of these six sigma methodologies are based on defects per million opportunities (DPMO).
+▪    Both DMADV and DMAIC use the same kind of six sigma quality management tools.
+▪    Customer’s needs are the basic parameter for both six sigma methodologies.
+Both DMADV and DMAIC are fundamental six sigma methodologies for improving the quality of
+product/ process. Broadly, DMAIC deals with improving some of existing processes to make it align
+with the customer’s needs, while DMADV deals with a new design or redesign.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.43
+
+
+ Do You Know?
+ The steps of both the DMAIC and DMADV methodologies use a variety of common tools.
+ ▪To illustrate, Project Charter and Plan, Effort/ Impact Analysis, and Process Mapping are the tools
+    used in the ‘Define’ process. In addition to this, a Tree Diagram is also used.
+ ▪Quality Function Deployment, Measurement Systems  Analysis, Check Sheet, and Process
+     Capability are the tools used in the ‘Measure’ process.
+ ▪Histogram, Pareto Diagram, and Run Chart are important tools used in the ‘Analyse’ process. In
+     addition to this, the Scatter Graph and Statistical Analysis of data are also important tools.
+6.2.4 Difference between DMAIC and DMADV
+Following table highlights the differences between DMAIC and DMADV.
+              DMAIC                           DMADV
+ Review  the  existing processes and  fix  the  Emphasises  the  design   of  the  product  and
+ problem(s).                                   processes.
+ More reactive process.                          Proactive process.
+
+ Increase the capability.                         Increase the capacity.
+                                       Rupee benefits are more difficult to quantify and tend Rupee benefits are quantified rather quickly.                                                       to be much more long term.
+ Examples of DMAIC problem-solving methods:   Examples   of   procedures   that   the  DMADV
+  ▪  Reduce the cycle time to process a patent.  development method is designed to address:
+  ▪  Reduce the number of errors in sales list.    ▪  Add a new service.
+  ▪   Improve   search   time    for    critical   ▪   Create a real-time system.
+       information.                           ▪   Create a multiple-source lead tracking system.
+6.3 Limitations of Six Sigma
+▪    Six Sigma focuses on quality only.
+▪    Six Sigma does not work well with intangible results.
+▪    Substantial infrastructure investment is required.
+▪    Six Sigma is complicated for some tasks.
+▪    Not all products need to meet Six Sigma standards.
+▪    Six Sigma focuses on a specific type of process only.
+▪    There are a lot of real time barriers that need to be resolved while translating the theoretical
+     concepts into practical applications.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+3.44      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+6.4 Lean Six Sigma
+Lean Six Sigma is the combination of Lean and Six Sigma which helps to achieve greater results that
+had not been achieved if Lean or Six Sigma would have been used individually. It increases the speed
+and effectiveness of any process within any organization. By using lean Six Sigma, organisations will
+be able to Maximize Profits, Build Better Teams, Minimize Costs, and Satisfy Customers.
+
+
+ Practical Insight
+ Six Sigma Practices
+ Wipro is the first Indian company to adopt Six Sigma. Today, Wipro has one of the most mature
+ Six Sigma programs in the industry, ensuring that 91% of the projects are completed on schedule,
+ much above the industry average of 55%.
+ Six Sigma at Wipro simply means a measure of quality that strives for near perfection. It is an
+ umbrella initiative covering all business units and divisions so that it could transform itself in a
+ world class organization. At Wipro, it means–
+  ▪  Have products and services meet global benchmarks.
+  ▪   Ensure robust processes within the organization.
+  ▪   Consistently meet and exceed customer expectations.
+  ▪  Make quality a culture within.
+  ▪   Six Sigma training.
+ Wipro is using Six Sigma at present on over 500 projects in multiple areas, including project
+ management, market development, and resource utilisation.
+ (Source- https://ijrpr.com/uploads/V3ISSUE12/IJRPR8975.pdf)
+
+      B. PROCESS INNOVATION
+Process Innovation means the implementation of a new or significantly improved production or
+delivery method  (including  significant changes  in techniques, equipment, and/ or software).
+Changes, improvements,  increase  in  product  or  service  capability done by  addition  to a
+manufacturing or logical system, ceasing to use a process, simple capital replacement or extension,
+changes resulting purely from changes in factor prices, customization, regular seasonal and other
+cyclical changes, and trading  of new or  significantly improved products are not considered
+innovations.
+The process of innovating new solutions could fall into one of these areas:
+▪    Production:  This  is  related  to  processes,  equipment,  and  technology  to  enhance
+     manufacturing or production processes. This includes computer software.
+▪    Delivery: Delivery process innovations involve tools, techniques, and software solutions to
+     help in the supply chain and delivery systems. This includes barcodes, tracking systems, or
+     shipping software.
+▪   Support Services: Innovations in processes aren’t limited to simply production or delivery but
+     also include areas including purchasing, maintenance, and accounting.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.45
+
+
+ Practical Insight
+ One of the most widely recognized automobile companies in the world is the American-based
+ multinational manufacturer, Ford Motor Company. Now more than 110 years old, the company
+ was founded by Henry Ford and has succeeded in innovative designs and ideas for more than a
+ century.
+ One of their most notable innovations came more than 100 years ago with the invention of the
+ world’s first moving assembly line. The process not only simplified vehicle assembly but also
+ shortened the time necessary to produce a single vehicle from 12.5 hours to 90 minutes. That
+ process innovation, creating an assembly line to speed up production, not only benefited the auto
+ giant but also manufacturers of other consumer goods such as refrigerators and vacuum cleaners.
+  It remains the typical mode of production for businesses today.
+ (Source- https://www.cascade.app/studies/ford-strategy-study)
+
+
+ Concept Insight
+ BPR & PI
+ Business Process Re-engineering (BPR) and Process Innovation (PI) are similar concepts that
+ emerged in the early 1990s. BPR focuses on amending existing processes, while PI attempts to
+ implement new processes in an organisation. In many ways, PI is more radical than BPR because
+  it is changing the overall structure of an organisation, whereas BPR is streamlining processes
+ that are already in place.
+ Bikes are assembled by passing them along a continuous moving band of metal & rubber and
+ adding parts to each one in a prearranged order to arrive at the finished product. This process
+ can be upgraded in terms of efficiency by using automated machines to do some of the repetitive
+ actions. In this manner, the process is being redesigned to include an enhanced automated
+ system to make it more efficient. In other words, Business Process Re-engineering is being used
+ to improve the existing process. But the process itself could be redesigned from scratch. For
+ example, the bike could be manufactured by giving all the parts to a team of specialists and asking
+ them to work together to make it. This will mean creating completely new processes, which may
+ or may not be more efficient than those of the existing system. But the “process vision” of
+ providing better satisfaction to a team of workers from the production process  itself may
+ supersede the efficiency issues. In this example, Process Innovation results in entirely new
+ process to manufacture the bike, even  if we haven’t defined them – it’s up to the workers to
+ decide.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+3.46      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+    SUMMARY
+❑  Lean System is an organized method for waste minimization without sacrificing productivity
+      within a manufacturing system. Lean implementation emphasizes the importance of optimizing
+     workflow  through  strategic  operational  procedures  while  minimizing  waste and  being
+     adaptable.
+❑  Just in Time - System whose objective is to produce or to procure products or components as
+     they are required by a customer or for use, rather than for stock. just-in-time system Pull
+     system, which responds to demand, in contrast to a push system, in which stocks act as buffers
+    between the different elements of the system such as purchasing, production and sales.
+     Features of JIT
+     Material – handling cost are reduced.
+     Labour idle time gets reduced.
+     JIT creates urgency for eliminating defects as quickly as possible.
+    The company can respond to customer demand faster.
+     Carefully selected suppliers capable of delivering high quality materials in a timely manner
+      directly at the shop – floor, reducing the material receipt time.
+     Pre- requisites of JIT - Low variety of goods, Vendor reliability, Good communication, Demand
+       stability, TQM, Defect free materials, Preventive maintenance.
+     Impact of JIT System – Wastes costs like unnecessary levels of obsolete inventory, defective
+     products, rework, etc, overhead costs like material handling, facilities, and quality inspection
+     costs of staff, equipment, fixed assets, facilities, and rent associated with the warehouse etc.
+     get eliminated and When a company achieves a higher level of product quality, along with
+       ability to deliver products on the dates required, customers may be willing to pay a premium.
+     Backflushing in a JIT System
+      a)   Backflushing requires no data entry of any kind until a finished product is completed. At
+           that time the total amount finished is entered into the computer system, which multiplies
+                   it by all the components listed in the bill of materials for each item produced. This yields
+         a lengthy list of components that should have been used in the production process and
+         which are subtracted from the beginning inventory balance to arrive at the amount of
+           inventory that should now be left on hand.
+      b)   Problems with backflushing – Incorrect production reporting, Incorrect scrap reporting,
+          Impossible lot tracing, Inaccurate inventory records.
+❑  Kaizen Costing –
+      a)   Kaizen means continual improvement. The kaizen strategy aims to involve workers from
+           multiple functions and levels in the organization in working together to address a problem
+           or improve a particular process.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.47
+
+      b)   Kaizen costing  principals  - gradual improvements  in the  existing  situation,  at an
+          acceptable cost, collective decision making and application of knowledge, no limits to the
+            level of improvements that can be implemented, setting standards and then continually
+          improving these standards to achieve long-term sustainable improvements, focus on
+           eliminating waste, improving systems, and improving productivity, involves all employees
+         and all areas of the business.
+❑  5 S’s - It explains how a workspace should be organized for efficiency and effectiveness by
+      identifying and storing the items used, maintaining the area and items, and sustaining the new
+      order. 5 S include Sort, Set in Order, Shine, Standardise, Sustain.
+❑   Total Productive Maintenance - Total Productive Maintenance (TPM) is a system of maintaining
+    and improving the integrity of production and quality systems. TPM helps in keeping  all
+     equipment in top working condition so as to avoid breakdowns and delays in manufacturing
+     processes.
+      a)  TPM performance is measured by Overall Equipment Effectiveness (OEE) measure
+         which needs to quantify losses due to equipment failure, set-ups, idle time, stoppages,
+          reduction in speed, reduction in yield, quality defects and rework.
+      b)   Performance × Availability × Quality = OEE %
+❑   Cellular Manufacturing – In the assembly line multiple cells are used. Each cell comprises of
+    one or more machines which accomplish a certain task. The product moves from one cell to
+     the next, each station completing part of the manufacturing process. U-shaped design is given
+      to these cells because this allows for the supervisor to move less and have the ability to more
+      readily watch over the entire process.
+      a)   Goals of cellular manufacturing - move quickly, make wide variety of similar products,
+          very less wastes.
+      b)   Advantages – Flexibility in operations, changes easy to make, variety of product scaling,
+          minor changes can be easily and quickly implemented, conducted by logic so reduces
+           flow time, flow distance, floor space, inventory, handling, scheduling transactions, and
+          scrap  and  rework,  production  and  quality  controls  facilitated,  improves  group
+          cohesiveness among employees.
+      c)   Limitations – Decrease in production flexibility, difficulty in realignment of cells in case of
+         decrease in demand, changes in flow may be very costly.
+❑  Six Sigma - It is quality improvement technique whose objective to eliminate defects in any
+     aspect that affects customer satisfaction. The premise of Six Sigma is that by measuring
+     defects in a process, a company can develop ways to eliminate them and practically achieve
+     “zero defects”. The standard measure of Six Sigma is 34 errors per million.
+❑  Process Innovation - Process innovation means the implementation of a new or significantly
+     improved  production  or  delivery method  (including  significant changes  in  techniques,
+     equipment and/ or software).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+3.48      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+   TEST YOUR KNOWLEDGE- MCQS
+MCQ 1
+5S fits in which stage of the PDCA cycle in the context of the organization striving for continuous
+improvement?
+Options
+a.   Plan
+b.  Do
+c.   Check
+d.   Action
+Key – b
+Reason – Plan and Do are enablers for continual improvement, while Check and Action are results. 5S,
+being the foundation of TPM (even all the lean practices that eventually led to TQM), acts as the enabler
+for continual improvement and fits in at the Do stage.
+MCQ 2
+Which one is not a benefit of Shine?
+Options
+a.   Less production downtime
+b.   Happier employees
+c.   Improved quality
+d.   Inventory reduction
+Key – d
+Reason – It is necessary to keep the work area clean and safe. Shining is also an inspection process
+for the area,  i.e., is everything in good condition? This leads to less production time, happier
+employees by reducing their stress levels, and improved quality. Inventory reduction is not among
+the benefits of shine.
+MCQ 3
+Which of the following does Kaizen improvement process not focus on?
+Options
+a.   5S
+b.   Poka-Yoke
+c.    Just-in-time principles
+d.   Improvement by innovation
+Key – d
+Reason – Kaizen is lean thinking and structured around the core premise of continuous improvement
+rather innovation hence Kaizen focuses on first three options only.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.49
+
+MCQ 4
+Which of the following is not a tool used in the ‘Define’ process in the DMAIC Model of Six Sigma?
+Options
+a.   Project charter and plan
+b.   Check sheet
+c.    Effort/ impact analysis
+d.   Process mapping
+Key – b
+Reason – Project charter and plan, Effort/impact analysis, and process mapping are the tools used in the
+'Define' process in the DMAIC Model of Six Sigma. In addition to this, tree diagram is also used.
+The Check Sheet (Defect Concentration Diagram), is a structured form for collecting and analyzing data. It is
+one among the 7 Basic Quality Tools. The check sheet is a form used to collect data in real time at the location
+where the data is generated. The data it captures can be quantitative or qualitative. When the information is
+quantitative, the check sheet is sometimes called a tally sheet. It is used in the ‘Measure’ process.
+MCQ 5
+What will be overall equipment effectiveness, if second is ideal cycle time; planned production time is
+7 hour and out of total count of 19,240 units, the good count are 18,848 units.
+Options
+a.   97.96%
+b.   76.35%
+c.   74.79%
+d.   None of these
+Key – c
+Reason – Formula for calculating Overall Equipment Effectiveness (OEE) can be either of Availability
+× Performance × Quality or (Good Count × Ideal Cycle Time) / Planned Production Time
+(18,848 units × 1.0 seconds) / (420 minutes × 60 seconds) = 0.7479 (74.79%)
+MCQ 5
+Which principle or technique is considered as the base platform for TPM?
+Options
+a.   Six sigma
+b.  5S
+c.  SMED
+d.   Kaizen
+Key – b
+Reason – The traditional approach to TPM was developed in the 1960s and consists of 5S (Sort, Set in
+Order, Shine, Standardize, and Sustain) as a foundation and eight supporting activities (sometimes
+referred to as pillars).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+3.50      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+   TEST YOUR KNOWLEDGE
+Just in Time
+1.   Pearson Metal and Motor Works (PM2W) deals in manufacturing of the copper wired electronic
+     motor, which is specifically designed. PM2W is thinking to shift from traditional system to JIT
+     system as part of process innovation.
+   CEO among the other top bosses at PM2W are hopeful that implementation of JIT will not only
+     improve value in value chain for end consumer, but also improve overall manufacturing cycle
+      efficiency. JIT pre-implementation team was formed to evaluate the probabilities, which collects
+     following actual and estimated data about process –
+         Activity Category       Traditional System (Actual)       JIT System (Estimated)
+             Inspection                    40                         30
+             Storage                     80                         20
+            Moving                     20                         10
+           Processing                    60                         40
+     # All data in minutes
+      Further, PM2W decided to practice single piece flow under JIT. PM2W received an order which is
+    due to manufacture and delivered for 10 such motors. Total available production time to produce
+     what customer demands is 480 minutes out of which it normal practice that 30 minutes will be
+     spent in shutdown and cleaning. CEO is also considering JIT purchase apart from JIT production.
+    Required
+        (i)  EXPLAIN just in time.
+        (ii)  CALCULATE the ‘takt time’ and INTERPRET the results.
+         (iii)  ADVISE whether company should shift to JIT.
+2.  A manufacturer is considering implementing Just in time inventory system for some of its raw
+     material purchases. As per the current inventory policy, raw materials required for 1 month’s
+     production and finished goods equivalent to the level of 1 week’s production are kept in stock.
+     This is done to ensure that the company can cater to sudden spurt in consumers’ demand.
+     However, the carrying cost of inventory has been increasing recently. Hence, the consideration
+      to move to a more robust just in time purchasing system that can reduce the inventory carrying
+      cost. Details relevant to raw material inventory are given below:
+        -   The average inventory of raw material held by the company throughout the year is `1
+           crore. Procurement of raw material for the year is `12 crore. By moving to just in time
+         procurement system, the company aims at eliminating holding this stock completely in its
+         warehouse. Instead, suppliers of these materials are ready to provide the goods as per
+              its production requirements on an immediate basis. Suppliers will now be responsible for
+            quality check of raw material such that the raw material can be used in the assembly line
+         as soon as it is delivered at the company’s factory shop floor.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.51
+
+        -    Increased quality check service done by the suppliers as well as to compensate them for
+          the risk of holding the inventory to provide just in time service, the company is willing to
+         pay a higher price to procure raw material. Therefore, procurement cost will increase by
+        30%, total procurement cost will be `15.6 crore per year. Consequently, quality check
+         and material handling cost for the company would reduce by `1 crore per year. Similarly,
+          insurance cost on raw material inventory of `20 lakh per year need not be incurred any
+           longer.
+        -   Raw material is stored in a warehouse that costs the company rent of `3 crore per annum.
+       On changing to Just in time procurement, this warehouse space would no longer be required.
+        -    Production is 1,50,000 per year. The company plans to maintain  its finished goods
+           inventory equivalent to 1 week’s production. Despite this, in order to have a complete
+          cost benefit analysis, the management is also factoring the possibility of production
+         stoppages due to the unavailability of raw material from the suppliers. This could happen
+         due to of delay in delivery or non-conformance of goods to the standard required. Labor
+         works in one 8-hour shift per day and will remain idle if there is no material to work on.
+        Due to the stoppage of production for the above reason, it is possible to have stockout of
+          3,000 units in a year. Stockout represents a lost sales opportunity due to unavailability of
+           finished goods, the customer walks away without purchasing any product from the
+         company. Therefore, in order to reduce this opportunity cost and to make up for the lost
+          production hours, labor can work overtime that would cost the company `10 lakh per
+         annum. This is the maximum capacity in terms of hours that the labor can work. With this
+          overtime, stockout can reduce to 2,000 units.
+        -     Currently, the sale price of product is `5,000 per unit, variable production cost is `2,000
+          per unit while variable selling, general and administration (SG&A) cost is `750 per unit.
+       Raw material procurement cost is currently `800 per unit, that will increase by 30% to
+         `1,040 per unit under Just in time inventory system.
+        -   On an average, the long-term return on investment for the company is 15% per annum.
+    Required
+        (i)  CALCULATE the benefit or loss if the company decides to move from the current system
+            to Just in Time procurement system.
+         (ii)  RECOMMEND factors that the management needs to consider before implementing the
+            just in time procurement system.
+Total Productive Maintenance (TPM)
+3.    Pacific Coast Company Ltd. manufactures spare parts. It works in two shifts of 9 hours for 6
+     days in a week. Lunch break is 30 mins and other miscellaneous breaks add up to 15 minutes.
+    The following details are collected for the last 4 weeks by the TPM team for one of their
+     important equipment
+    Hours for Planned Preventive Maintenance = 15 minutes per shift
+     For Breakdown Maintenance = 6 hours total
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+3.52      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+     Set up Changes = 14 hours total
+    Power Failure = 4 hours total
+     Standard Cycle Time per piece = 3 minutes
+    No of Parts Produced per shift = 140
+     Parts Accepted per shift = 131
+    Required
+    CALCULATE ‘OEE’.
+4.  GVK Pharmaceuticals Ltd. is producing medication products (pills, balms etc.) and can be
+     called high volume based production environment. There are several different automated
+     production machines  located  in  the  plant,  through which  production  of medicines  is
+     accomplished and fulfilled the demands. Plant operates in double shift a day each consisting
+      of 8 hours with 25 minutes’ lunch break and tea break of 10 minutes. Following data pertains
+      to automated machine ‘X-78’.
+                                        X-78
+                             19 April 2023, Wednesday
+          Breakdown, repair and start up time (unplanned)  90 minutes
+          Standard cycle time                              2.5 minutes per tablet
+            Quality loss due to scrap, rework, and rejection   40 tablets
+            Total quantity produced                      280 tablets
+    Required
+    CALCULATE ‘OEE’.
+5.   Hindustan Ltd. supplies the following information relating to a vital equipment used in  its
+     production activity for April 2023:
+       Total time worked during the month                                       210 hrs.
+       Total production during the month                                          2,800 units
+      No. of units accepted out of total production                                 2,520 units
+      Standard time for actual production of the month                            180 hrs.
+     Time lost during the month                                               28 hrs.
+    Required
+        (i)  STATE an  appropriate  approach  to  measure  the  total  productive  maintenance
+         performance of an equipment.
+         (ii)   Quantify  the  total  productive  maintenance  performance  of  the  above-mentioned
+         equipment by using the approach stated in (i) above.
+          (iii) COMMENT on the effectiveness of maintenance of the equipment.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.53
+
+   ANSWERS/ SOLUTIONS
+1.     (i)   Just-in-time (JIT) is a collection of ideas that streamline a company’s production process
+            activities to such an extent that wastage of all kind viz., of time, material and labour
+           systematically driven out of the process with single piece flow after considering takt time.
+            In JIT, production facility is required to be integrated with vendor system for signal
+         (Kanban) based automatic supply which depends upon demand based consumption.
+         Under JIT system of inventory storage cost is at lowest level due to direct issue of material
+            to production department as and when required and resultantly less/no material lying over
+            in store or production floor.
+           Prerequisite of JIT system is integration with vendor, if vendor is not integrated properly
+           or less reliable, then situation of stock out can arise and which can result into loss of
+           contribution.
+           Multitasking by employee is another key feature of JIT, group of employees should be
+        made based upon product instead based upon function. Hence, functional allocations of
+          cost become less appropriate.
+           Overall, JIT enhance the quality into the product by eliminating the waste and continuous
+         improvement of productivity.
+        (ii)  Takt Time is the maximum available time to meet the demands of the customer; this will
+          help to decide the speed of/ at manufacturing facility.
+          Takt time is the average time between the start of production of one unit and the start of
+          production of the next unit, when these production starts are set to match the rate of
+         customer demand.
+                                           AvailableProductionTime                             TaktTime =
+                                             TotalQuantityRequired
+          Here, Available Production Time is ‘total available time for production’ – ‘planned downtime
+               i.e., spent in shutdown and cleaning’ i.e., 450 minutes = 480 minutes – 30 minutes.
+           Total Quantity Required is 10 units.
+                                        450minutes                             TaktTime =          = 45 Minutes
+                                              10units
+         Note - Heijunka can be applied in order to reduce variation between ‘Takt times’ over the
+           production.
+          Interpretation
+          Customer’s demand is 10 units, to calculate the takt time, divide the available production
+          time (in minutes) by the total quantity required. The takt time would be 45 minutes. This
+        means that process must be set up to produce one unit for every 45 minutes throughout
+          the time available. As order volume increases or decreases, takt time may be adjusted
+         so that production and demand are synchronized.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 54 ======================
+
+
+3.54      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+        (iii)  Advise on Shifting to JIT
+        To evaluate how much of the old cycle time was spent in inventory, we need to know how
+           organizations assess the efficiency of their manufacturing processes. One commonly
+         used measure is process cycle efficiency and to calculate the same every process is
+         breakdown into combination of activities such as value added activities, non-value added
+            activities and non-value added activities but strategic activities. In order to generate
+          highest value to customer, only value added activities are included in process. But those
+          non-value added activities, which are strategic in nature, also need to be part of process.
+          Therefore, it may be possible that entire process is not efficient.
+        To measure efficiency of process, managers keep track of the relation between ‘times
+          taken by value added activities’ in comparison ‘total cycle time’. Such relation/ratio is
+          processing cycle efficiency.
+                                                     Value Added Time                              ProcessCycle Efficiency =
+                                                         Cycle Time
+          Processing time is considered as value added time; whereas time spend on inspection,
+          storage and moving is non-value added time and included in cycle time. The higher the
+          percentage, less the time (and costs) needs to be spent on non- value added activities
+         such as moving and storing etc.
+         Computation of Processing Cycle Efficiency
+            Sr. No.   Activity Category                          Traditional     JIT System
+                                                  System (Actual)   (Estimated)
+              A.     Inspection                                 40            30
+              B.     Storage                                   80            20
+             C.     Moving                                   20            10
+             D.     Processing                                60            40
+              E.     Value Added Time                          60            40
+               F.     Cycle Time         …(A)+(B)+(C)+(D)        200           100
+                   Process Cycle Efficiency …(E)/ (F)×100      30%         40%
+         Of the 200 minutes required for manufacturing cycle under PM2W’s traditional system,
+           only 60 minutes were spent on actual processing. The other 140 minutes were spent on
+          non- value added activities, such as inspection, storage, and moving. The process cycle
+            efficiency formula shows that processing time equalled to 30% of total cycle time. The
+           cycle time is reduced substantially in the JIT system from 200 minutes to 100 minutes. In
+           addition to this, the amount of time that used up in inventory  i.e., non-value-added
+            activities is also reduced. Therefore, process cycle efficiency has been increased from
+       30% to 40%. This significant improvement in efficiency over the previous system comes
+          from the implementation of JIT system. Therefore,  it is advantageous to shift to JIT
+          system.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 55 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.55
+
+2.     (i)   Implementing Just in time procurement system will benefit the company as explained below:
+                            Particulars                           Current         JIT
+                                                          Purchasing  Procurement
+                                                                   Policy      System
+                                                                  (`)           (`)
+        Raw material procurement cost per year                  12,00,00,000   15,60,00,000
+             Quality check and material handling cost (No longer          1,00,00,000                  ---
+              required in JIT)
+            Insurance Cost on raw material inventory (No longer           20,00,000                  ---
+              required in JIT)
+          Warehouse rental for storing raw material (No longer         3,00,00,000                  ---
+              required in JIT)
+           Overtime Charges under JIT to reduce Stockouts (note1)                    ---      10,00,000
+            Stockout Cost (note 2)                                                               ---      40,20,000
+             Total Relevant Cost                                    16,20,00,000   16,10,20,000
+           Therefore,  moving  to   just   in  time  procurement  system  results   in  savings  of
+          `9,80,000 per year for the company. If reinvested, long-term return on investment for the
+         company at 15% would yield a return of `1,47,000 per year.
+            In addition, by switching over to JIT system, the company will also save working capital
+          requirement of `1 crore on account of average inventory of raw material held at present. The
+         company can earn a further 15% on this amount i.e. `15,00,000 per year.
+           Therefore, total benefit for the company would be `26,27,000 per year.
+         Note 1: Should overtime cost be incurred to reduce Stockouts?
+           Contribution per unit = Sale price - Variable production cost - Variable selling, distribution cost
+          per    unit;   Variable   production   cost   under   the    just    in   time   system  =
+         `2,000+ `(1,040-800) = `2,240 per unit; Contribution per unit = `5,000 - `2,240-`750 per
+            unit = `2,010 per unit.
+          Overtime cost can reduce stockouts from 3,000 units to 2,000 units, that is customers' demand
+            of 1,000 units more can be met.
+           Contribution earned  from  selling  these  1,000  units =  1,000 ×  `2,010  per  unit =
+          `20,10,000.
+           Therefore, the contribution earned of `20,10,000 is more than the related overtime cost of
+          `10,00,000. Therefore, it is profitable to incur the overtime cost.
+         Note 2: Stockout Costs
+         Out of the total shortfall of 3,000 units, by spending on overtime 1,000 units of demand can
+         be met. Therefore, actual stockout units is only 2,000 units. As explained above, contribution
+          per unit is `2,010 per unit. Therefore, stockout cost = 2,000 units × `2,010 per unit =
+          `40,20,000.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 56 ======================
+
+
+3.56      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+        (ii)  The company plans to eliminate its raw material inventory altogether. Raw material will
+         be delivered as per the production schedule directly at the factory shop floor, from whence
+          production will begin. The management should therefore carefully consider the following
+           points:
+           (a)  The entire production process has to be detailed and integrated sequentially. This is
+               essential to know because it should be known in advance when in the sub-assembly
+             process is each raw material is required and in what quantity.
+           (b)  Since production is dependent on delivery and quality of raw material, heavy reliance
+                   is being placed on suppliers. They should be able to guarantee timely delivery of raw
+               material of the appropriate quality. The company is paying a premium of 30% of the
+                 original cost, that is `240 per unit (`1,040 - `800 per unit) in order to ensure the
+            same. Each unit gives a contribution of ` 2,010 per unit, which is 40.2% of the sale
+               price per unit. Lost sales opportunities due to unavailability of raw material or non-
+             conformance of the material can result in substantial losses to the company. While a
+               portion of this has been factored while doing the cost benefit analysis of implementing
+               Just-in-time systems,  it needs careful consideration and monitoring even  after
+              implementation. Therefore, to hedge its loss, the management and suppliers should
+             agree on penalties or costs the supplier should incur should there be any delay or
+             non-conformance in quality of materials beyond certain thresholds.
+           (c)  Accurate prediction of sales trends is important to determine the production schedule
+            and finished goods planning.
+           (d)  Continuous monitoring of the system even after implementation is essential to ensure
+            smooth operations. Management commitment and leadership support are essential
+                 for its successful implementation and working.
+3.   Calculation of Shifts
+     Days per week                     …(A)       6
+       Shifts per week                     …(B)       2
+       Total Working Shifts per week   …(C = A × B)      12
+       Total Weeks                       …(D)       4
+       Total Shifts                …(E = C × D)      48
+     Calculation of Un-Planned Downtime
+     Breakdown Maintenance ( in mins)                360
+      Set up Changes (in mins)                        840
+     Power Failure (in mins)                          240
+       Total                             …(A)     1,440
+      Loss of Minutes per shift           …(A/ 48)      30
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 57 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.57
+
+     Calculation of Planned Production Time
+                                                        Mins.
+       Total time (9 hrs. × 60 mins.)                      540
+      Less: Planned downtime
+             Lunch break                            30
+              Miscellaneous breaks                    15
+              Preventive maintenance                  15
+                          Planned Production Time    480
+
+              Availability Ratio   =                                480 mins. - 30 mins.  100
+                                 480 mins.    
+                            =  93.75 %
+              Actual Production   =  140 units per shift
+                Standard time   =  3 minutes
+       Standard Time Required   =  140 units × 3 minutes
+                            =  420 minutes
+             Actual Time Taken   =  480 mins. – 30 mins.
+                            =  450 minutes
+                                        Performance Ratio   =                                                                420 mins.  100
+                               450 mins. 
+                            =  93.33%
+
+                 Quality Ratio   =                                 131 parts  100
+                               140 parts 
+                            =  93.57%
+                   Thus, OEE   =  0.9375 × 0.9333 × 0.9357 = 81.87%
+4.   Calculation of Planned Production Time
+                                                        Mins.
+       Total time                                    480
+      Less: Planned downtime
+               tea break                              10
+              lunch break                            25
+                          Planned Production Time    445
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 58 ======================
+
+
+3.58      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+                                           Availability Ratio   =                                                               445 mins. - 45 mins.  100
+                                 445 mins.    
+                            =  89.89 %
+              Actual Production   =  140 tablets per shift
+                Standard time   =  2.5 minutes
+       Standard Time Required   =  140 units × 2.5 minutes
+                            =  350 minutes
+             Actual Time Taken   =  445 mins. – 45 mins.
+                            =  400 minutes
+                                        Performance Ratio   =                                                                350 mins.  100
+                               400 mins. 
+                            =  87.50%
+                                              Quality Ratio   =                                                               140 tab. -20 tab.  100
+                                140 tab.    
+                            =  85.71%
+                   Thus, OEE   =  0.8989 × 0.8750 × 0.8571
+                            =  67.41%
+5.     (i)   The most important approach to the measurement of TPM performance is known as
+           Overall Equipment Effectiveness (OEE) measure. The calculation of OEE measure
+           requires the identification of “six big losses”.
+        ▪   Equipment Failure/ Breakdown
+        ▪    Set-up/ Adjustments
+        ▪    Idling and Minor Stoppages
+        ▪   Reduced Speed
+        ▪   Reduced Yield and
+        ▪    Quality Defects and Rework
+        The first two losses refer to time losses and are used to calculate the availability of
+         equipment. The third and fourth losses are speed losses that determine performance
+           efficiency of equipment. The last two losses are regarded as quality losses.
+                      Performance × Availability × Quality = OEE %
+       OEE may be applied to any individual assets or to a process.  It is unlikely that any
+         manufacturing process can run at 100% OEE.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 59 ======================
+
+
+LEAN SYSTEM AND INNOVATION            3.59
+
+                                     
+        (ii)  Availability Ratio per shift     =                                                                                   210 hrs.    100
+                                      210 hrs.+28 hrs. 
+                                   =   88.24 %
+                                     
+         Performance Ratio           =                                                                                180 hrs.  100
+                                      210 hrs. 
+                                   =   85.71%
+                                               Quality Ratio               =                                                                                    2,520 units  100
+                                      2,800 units 
+                                   =   90.00%
+          Thus, OEE                  =   0.8824 × 0.8571 × 0.90
+                                   =   68.06%
+  
+                This question has been solved by considering “Time Available equals to Total
+             Time Worked plus Time Lost”.
+        (iii) Comment
+         World Class OEE is 85% or greater, Hindustan Ltd.’s OEE is somewhere around 68%. It
+            just means that company got some opportunities for improvement. Hindustan Ltd. may
+         improve OEE by collecting information related to all downtime and losses on equipment,
+          analyzing such information through graphs and charts, making improvement decisions
+          thereon like autonomous maintenance, preventive maintenance, reduction in set up time
+            etc. and implementing the same.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 60 ======================
+
+
+© The Institute of Chartered Accountants of India

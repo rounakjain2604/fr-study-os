@@ -1,0 +1,1042 @@
+Source PDF: 07_SPOM/Set_D_04_Digital_Ecosystem_Controls/005 - Chapter-4- Information System Security Policy - 79445bos63475-cp4.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_04_Digital_Ecosystem_Controls\005 - Chapter-4- Information System Security Policy - 79445bos63475-cp4.pdf
+Extracted at: 2026-05-31T10:36:29+05:30
+Pages: 26
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          4
+         1
+INFORMATION SYSTEM
+SECURITY POLICY
+
+
+                    LEARNING OUTCOMES
+After studying this chapter, you will be able to –
+   comprehend the knowledge about various components of an information
+     system and its working.
+   understand the need for protection of information systems.
+    identify information security policies, procedures, related standards, and
+      guidelines.
+   acknowledge the need of information security.
+    identify the possibilities of frauds relating to technology.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+4.2            DIGITAL ECOSYSTEM AND CONTROLS
+
+  CHAPTER OVERVIEW
+
+
+                        Information Systems
+
+       Policy             NeedInfornmationfor ProtectionSystemof                                                 Components of Information
+          Security                                                    System
+                    Information System Security
+                                                            Principles of Information Security       System
+
+
+                                                       Tools to implement Information              Information                                                              Security
+
+                     Information Security Policy
+                                                           Monitoring of Information
+                                                                      Security
+
+
+                                        Illustration - Case A
+ XYZ Ltd. is the Delhi based software solution provider company that deals in developing and
+ customizing software for their clients on a project basis. The company also provides the technical
+ and business support in an outsourced capability. The major business and service areas of
+ company includes IT consulting, web design and development, mobile application development,
+ software development, robotics, and Internet marketing. The company has an employee base of
+ 100-150 people, and has huge clientele from a wide range of industries including aerospace,
+ automotive, consumer goods, food, metal fabrication, medical, pharmaceutical, solar panel, etc.
+  As the company XYZ  Ltd. deals  in software development, web applications, and mobile
+ applications development business, any  information  loss such as  losing codes, software
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+INFORMATION SYSTEM SECURITY POLICY             4.3
+
+ programs, applications, etc. may become crucial for the company and its day- to- day operations.
+ Any information security breach incident may affect the productivity of the organization. This may
+ ultimately result into serious outcomes, such as financial losses, loss of productivity, delayed
+ projects, loss of intellectual property, losing clients and, above all, loss of reputation. The top
+ management and software developers acknowledge that information security is the critical aspect
+  for business continuity of the organization; because if there is any loss in the productivity of the
+ company, that directly affects the relationship with clients or losing the clients. If the client losses
+ the trust in the company, it may not get the business form clients.
+ Support of Top Management
+ ♦    Although the top management of company is aware of the importance of information
+        security for the company, yet a consistent support of the same is missing.
+ ♦    The senior management has reluctant approach towards this issue. They are also facing
+        constraints in budget.
+ ♦    There is no information security officer or any similar authority in the company.
+ ♦     Information Security Management (ISM) activities of the organization are managed by the
+       network team. This leads to lack of co-ordination and control.
+ Information Security Policy
+ ♦    There was no documented information security policy in the company.
+ ♦    There are no defined information security roles and responsibilities of employees.
+ ♦     Also, there is also no classification of accountabilities for various information security-
+        related functions in the organization.
+ •      In an ad-hoc manner, employees can take actions on their own to manage information
+        security related to their work in adhoc manner.
+ Information Security Training to Employees
+ ♦   No formal staff training was given to the employees neither at joining nor later.
+ ♦    The company does not maintain the procedures to identify the information security required
+       by employees as per their specific job requirement.
+ ♦    Every employee can take their own decision related to information security. There is no
+        formal procedure or consulting authority.
+ ♦   A need for regular information security training and awareness programmes were realized
+        during of interviews with employees.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+4.4            DIGITAL ECOSYSTEM AND CONTROLS
+
+ ♦      All the decision taken by employees is based on their experience irrespective of how critical
+              it may be.
+ This case indicates that company needs to identify key risks and vulnerabilities to its information
+ and information assets, and accordingly define an information security policy and implementation
+ mechanism; as there is no documented information security policy, no risk management and
+ security culture in the company. This will certainly help the company to improve in terms of
+ productivity, employees’ satisfaction, and clients’ trust.
+ In the absence of information security training program, the employees of company XYZ Ltd. are
+ less aware about various information security threats and  its countermeasure. A very few
+ employees knew about the risk related to information but in the absence of any policy or
+ guidelines, they have no idea what to do about  it. There is a general lack of awareness about
+ penalties or legal consequences of any information security breach incident. There  is no
+ mechanism to monitor the attitude of employees on information security. Moreover, the company
+ does not have any forum to discuss these issues. If anyone faces some problem, they take ad-
+ hoc actions within their peer group to resolve the issue.
+ The above case raises the following questions:
+ 1.      Is information a critical business asset for your organization?
+ 2.    What is purpose of Information Security?
+ 3.   How information security incident can affect the business activities of an organization?
+ The answer of these questions are discussed in the later part of this chapter.
+
+    4.1  INTRODUCTION
+Over the past few centuries, the world has transitioned from connections among individuals to a
+greater emphasis on connections among systems. We now have systems that are constantly
+exchanging information about various things and even about us, many a times without human
+intervention.  This  inter-networking  of  physical  devices,  vehicles, smart  devices, embedded
+electronics, software, sensors or any such device and human resource  is often to make an
+integration among key elements, namely, People, Computer Systems (Hardware, Operating System
+and other Software), Data Resources, Networking, and Communication System.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+INFORMATION SYSTEM SECURITY POLICY             4.5
+
+    4.2  INFORMATION SYSTEMS
+  ♦  Information System (IS) is a combination of people, hardware, software, communication
+        devices,  network and  data  resources  that  processes  (can be  storing,  retrieving,
+        transforming information) data and information for a specific purpose.
+  ♦  The system needs inputs from user (key in instructions and commands, typing, scanning)
+        which will then be processed (calculating, reporting) using technology devices such as
+        computers, and produces output (printing reports, displaying results) that will be sent to
+        another user or other system via a network and a feedback method that controls the
+         operation.
+  ♦  The main aim and purpose  of each Information System  is  to convert the data into
+        information which is useful and meaningful.  It comprises of two parts: Information and
+       System.
+  ♦  An Information System depends on the resources of people (end users and IS specialists),
+       hardware (machines and media), software (programs and procedures), data (data and
+       knowledge bases), and networks (communications media and network support) to perform
+         input, processing, output, storage, and control activities that transform data resources into
+        information products.
+  ♦  The Information System model highlights the relationships among the components and
+          activities of information systems. It also provides a framework that emphasizes four major
+        concepts that can be applied to all types of information systems.
+
+                                                             People
+
+
+                                                         Hardware
+                                        IT Infrastructure /
+                                  System
+             Information                                     Network
+            System                                   Communication
+                                      Information
+
+                                                              Software
+
+
+                  Fig. 4.1: Definition of Information System in an organization
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+4.6            DIGITAL ECOSYSTEM AND CONTROLS
+
+    4.3  NEED FOR PROTECTION OF INFORMATION SYSTEMS
+♦     In a computerized Information System, most of the business processes are automated.
+      Organizations are increasingly relying on Information Technology (IT) for information and
+       transaction processing.
+♦    The growth  of E-commerce supported by the growth  of the  Internet has completely
+       revolutionized and generated a need for reengineered business processes. IT innovations
+      such as hardware, software, networking technology, communication technology and ever-
+       increasing bandwidth lead to completely new business models.
+♦      All these new business models and new methods assume that the information required by
+       the business managers is available all the time; accurate, complete and no unauthorized
+       disclosure of the same is made.
+♦     Further, it is also presumed that the virtual business organization is up and running all the
+      time on 24 x 7 basis. However, in reality, the technology-enabled and technology-dependent
+       organizations are more vulnerable to information security threats than ever before.
+♦    For example, the Denial of Service (DoS) attacks on websites such as yahoo.com and
+      amazon.com, among others, stand as significant cases. These attacks caused these websites
+       to be inaccessible for several hours to a few days, posing a serious threat to the business
+       operations of the affected organizations. Additionally, real concerns arise from virus threats.
+     The IT professionals at organizations affected by infamous viruses like "Melissa" and "I love
+      you" still vividly recall the impact and challenges posed by these incidents.
+♦     Further, hacking and cracking on the Internet is a real threat to virtual organizations which
+      are vulnerable to information theft and manipulations.
+In a global information society, where information travels through cyberspace on a routine basis, the
+significance of information is widely accepted. In addition, information systems and communications
+that deliver the information are truly pervasive throughout organizations from the user's platform to
+local and wide area networks to servers.
+Organizations depend on  timely, accurate, complete,  valid, consistent, relevant, and  reliable
+information. Accordingly, executive management has a responsibility to ensure that the organization
+provides all users with a secure information processing environment.
+
+ Information security performs four important functions for an organization:
+ ♦    Ensuring the safeguarding of the organization's operational capability.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+INFORMATION SYSTEM SECURITY POLICY             4.7
+
+ ♦     Protecting the data and information the organization collects and uses, whether physical
+        or electronic form.
+ ♦    Enabling the safe operation of applications running on the organization’s IT Systems.
+ ♦    Safeguarding the organization’s technology assets.
+It is clear from the instances cited above that there are not only many direct and indirect benefits
+from the use of information systems, but there are also many direct and indirect risks relating to the
+information systems. These risks have led to a gap between the need to protect systems and the
+degree of protection applied. This gap is caused by:
+
+       Widespread use of technology;
+
+
+         Inter connectivity of systems;
+
+
+        Elimination of distance, time, and space as constraints;
+
+
+       Unevenness of technological changes;
+
+
+        Devolution of management and control;
+
+
+        Attractiveness of conducting unconventional electronic attacks over more
+        conventional physical attacks against organizations; and
+
+        External factors such as legislative, legal, and regulatory requirements or
+        technological developments.
+
+Information security failures may result in both financial losses and/or intangible losses such as
+unauthorized disclosure of competitive or sensitive information.
+Threats to information systems may arise from intentional or unintentional acts and may come from
+internal or external sources. The threats may emanate from, among others, technical conditions
+(program bugs, disk crashes), natural disasters (fire, flood), environmental conditions (electrical
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+4.8            DIGITAL ECOSYSTEM AND CONTROLS
+
+surges), human factors (lack of training, errors, and omissions), unauthorized access (hacking)
+or viruses.
+In addition to these, other threats, such as business dependencies (reliance on third party
+communications carriers, outsourced operations, etc.) can potentially result in a loss of management
+control and oversight. Table 4.1 describes the categorization of various threats that may exist in an
+organization. Adequate measures for information security help to ensure the smooth functioning of
+information systems and protect the organization from loss or embarrassment caused by security
+failures.
+                   Table 4.1: Threat Categories to Information Security
+         Category of Threat                           Attack Examples
+ Compromise to intellectual property    Piracy, copyright infringement
+ Deviation in Quality of Service          Internet Service Provider (ISP)/WAN Service problems
+ Espionage or trespass                Unauthorized access and/or data collection
+ Forces of nature                           Fire, floods, earthquakes, lighting
+ Human error or failure                  Accidents, employee mistakes
+ Information extortion                   Blackmail, information disclosure
+ Sabotage or Vandalism                 Destruction of systems or information
+ Software attacks                        Viruses, worms, macros, Denial of Service
+ Technical hardware failures/errors     Equipment failure
+ Technical software failures or errors   Bugs, Code problems, unknown loopholes
+ Technological Obsolescence           Antiquated or Outdated Technologies
+ Theft                                            Illegal confiscation of equipment or information
+
+    4.4  INFORMATION SYSTEM SECURITY
+The term security is easiest to define by breaking it into pieces. Thus, information systems security
+is the collection of activities that protect the information system and the data stored in  it. People
+need to protect their privacy. With the increase in the dependency of businesses over information
+and information system, businesses and organizations are becoming more cautious and responsible
+for protecting both their intellectual property and any personal or private data they handle. Various
+laws require organizations to use security controls to protect private and confidential data.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+INFORMATION SYSTEM SECURITY POLICY             4.9
+
+
+                   Firewall
+
+                                   System/Application Domain
+
+                     Mainframe
+
+                                                Application & Web server
+
+
+                                      Information System Security
+
+
+                     Fig. 4.2: Components of Information System Security
+Information system security comprises of the application and technical methods or managerial
+processes on the information resources such as hardware, software, and data in order to keep
+organizational assets and personal privacy protected. Information system security is responsible for
+the integrity and safety of system resources and activities. Most organizations in developed countries
+are dependent on the secure operation of their information systems.
+Information System security refers to the protection of valuable assets against loss, disclosure, or
+damage. Securing valuable assets from  threats, sabotage, or natural disaster with physical
+safeguards such as  locks,  perimeter  fences, and  insurance  is commonly understood and
+implemented by most of the organizations. However, security must be expanded to include logical
+and other technical safeguards such as user identifiers, passwords, firewalls, etc., which is not
+understood well by many organizations. The hardware system like mainframe or personal computers
+is protected through password and webserver or application server used in networking can be
+protected from viruses, bugs, worms, etc. In organizations where a security breach has been
+experienced, the effectiveness of information security policy and procedures must be reassessed.
+This concept of information security applies to all information. In this context, the valuable assets
+are the data or information recorded, processed, stored, shared, transmitted, or retrieved from an
+electronic medium.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+4.10           DIGITAL ECOSYSTEM AND CONTROLS
+
+The data or information is protected against harm from threats that will lead to its loss, inaccessibility,
+alteration,  or  wrongful  disclosure. The  protection  is achieved  through a  layered  series  of
+technological and non-technological safeguards such as physical security and logical measures.
+Table 4.2 reviews the types of information commonly found within an Information infrastructure
+system.
+Table 4.2: The type of information that can be found to be secure in Information infrastructure
+system
+ Privacy   Data    of  Corporate           Online B2C and  Government Intellectual
+ Individuals              Intellectual        B2B               Property
+                       Property             Transactions •  Name,    address,                                       •  National security
+    date of birth        •  Trade secrets     •  Online banking                                                           •  Military   and  DoD
+ • PAN number        •  Product          •  Online   health      strategies
+                          development          care      and •  Bank       name,                                                  insurance    account number     •  Sales       and                                                   claims                            marketing •  Credit card account                               strategies         •  E-commerce,    number                                                e-government,                      •  Financial records •   Utility     account                             services
+    number            •  Copyrights,                                          •  Online                              patents, etc. •  Mortgage  account                            education and
+    number                                            transcripts
+ •  Insurance    policy
+    number
+ •  Securities     and
+    brokerage account
+    number
+The components of IT infrastructure are made up of interdependent elements, and the two core
+groups of components are Hardware and Software. Hardware uses software—like an operating
+system—to work. Operating systems also make connections between software applications and
+physical  resources  using  networking  components. The components  of  Information system
+infrastructure are defined as below:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+INFORMATION SYSTEM SECURITY POLICY             4.11
+
+
+                                               Hardware
+
+                                 Data &                                                                      Software                            Knowledge
+
+
+                                                 Information System
+                                                        Infrastructure
+                                                           Human                                   Facilities                                                                     Resource
+
+
+                                  Commuincation                                                                Services                            & Collaboration
+
+
+                             Fig. 4.3: Information System Infrastructure
+
+♦    Hardware
+    o    Hardware is the tangible portion of our computer systems; something we can touch
+           and see i.e. the physical components of technology.
+    o        It basically consists of devices that perform the functions of input, processing, data
+             storage and output activities of the computer.
+    o     Computers, keyboards, hard drives, iPads, and flash drives are  all examples of
+             Information  Systems’  hardware. Hardware components on  information system
+               infrastructure include (Refer Fig. 4.4):
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+4.12           DIGITAL ECOSYSTEM AND CONTROLS
+
+
+                           Output devices                                                                 Storage device                       (include CRT monitors, LCD monitors                                                                           (the devices where data and                   and displays, gas plasma monitors,                                                             programs are stored such as                    and televisions to provide different                                                  RAM, ROM, Pendrive, harddisk,                       types of output: textual, graphical,                                                                                                etc.)                                    tactile, audio, and video.)
+
+                                                                             Processing devices (devices
+               Input Devices                                                    used to process data using                                                                             program instructions, manipulate
+           (Mouse, Joystick, Light                                                           functions, perform calculations,
+          pens, Scanner, Webcam,                                               and control other hardware
+              Microphone, etc.)                      Hardware                       devices. Examples include
+                                            component                    Central Processing Unit (CPU),
+                                                                                     Mother board, etc.)
+
+                                   Fig. 4.4: Hardware components
+
+♦    Software
+    o     Software is defined as a set of instructions that guide the hardware on what tasks to
+             perform. Unlike hardware, software is intangible and cannot be physically touched.
+    o     Software  is created through the process of programming. Without software, the
+            hardware would not be functional. Software components can include:
+             •     System Software
+             •      Application Software
+♦     Facilities
+    o      Facilities or physical plants provide space for networking hardware, servers, and data
+              centres.
+    o        It also includes the network cabling in office buildings to connect components of an IT
+               infrastructure together.
+♦    Communication and Collaboration
+    o     Networks are comprised of switches, routers, hubs, and servers.
+    o      In today’s high-speed world, we cannot imagine an information system without an
+               effective and efficient communication system, which is a valuable resource which
+             helps in good management.
+    o     Telecommunication networks give an organization the capability to move information
+               rapidly between distant locations and  to provide the  ability  for the employees,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+INFORMATION SYSTEM SECURITY POLICY             4.13
+
+             customers, and suppliers to collaborate from anywhere, combined with the capability
+               to bring processing power to the point of the application.
+♦    Services
+    o      In Information system, Infrastructure services are the processes which are not core
+            competencies are often delegated to companies with more experience.
+    o     Information services of an organization are delivered by an outside firm, by an internal
+                unit, or by a combination of the two.
+    o     Outsourcing of information services helps with such objectives as cost savings, access
+               to superior personnel, and focusing on core competencies.
+    o    An information services unit is typically in charge of an organization’s information
+            systems.
+    o    When  information  services are provided in-house and  centralized,  this  unit  is
+             responsible for planning, acquiring, operating, and maintaining information systems
+                for the entire organization.
+♦   Human Resource
+    o    The human resource as the components of the information system may include
+           employees at all levels such as the top management, mid management and low level
+            employee.
+    o    Human resource includes  all those who operate, manage, maintain, and use the
+            system i.e. system administrator, IS personnel, programmers, and end users i.e. the
+             persons, who can use hardware and software for retrieving the desired information.
+♦    Data and Knowledge
+    o    The data, plural of Datum, is the raw fact which is input to the system that may be
+            alphanumeric, text, image, video, audio, and other forms. These are the raw bits and
+             pieces of information with no context that can either be quantitative or qualitative.
+      Quantitative data can be numeric,  that can be generated  either by the  result  of a
+      measurement, count, or some other mathematical calculation.
+       Qualitative data is descriptive. “Grey silver,” the color of a 2019 Wagon R, is an example of
+       qualitative data. By itself, data is not that useful. For  it to be useful,  it needs to be given
+       context.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+4.14           DIGITAL ECOSYSTEM AND CONTROLS
+
+     Once data is put in the context and  it can be aggregated and analyzed to make useful
+       decisions for any organization. Knowledge is the information after processing of the data.
+       Information plus insight becomes knowledge.
+
+    4.5  PRINCIPLES OF INFORMATION SECURITY
+Every enterprise needs to manage its information in an appropriate and desired manner. For this,
+an enterprise must know  its information needs; acquire that information and organize  it in a
+meaningful way, assure information quality and provide software tools so that users in the enterprise
+can access the information that they require.
+The objective of Information System security is the protection of the interests of those relying on
+information and protects the information systems and communications that deliver the information
+from harm resulting from failures of confidentiality, integrity, and availability. Whereas Information
+security has emerged as a separate discipline with multiple dimensions such as physical security,
+technical security, operational security, mobile security, application security and behavioral security.
+Fig. 4.5 illustrates the three principle of information security. When finding solutions to security
+issues, the C-I-A (Confidentiality, Integrity and Availability) triad can be used. The organization’s
+security baseline goals can be defined using this triad for a typical IT infrastructure. Once defined,
+these goals will translate into security controls and requirements based on the type of data you are
+protecting.
+
+
+                                               Confidentiality
+
+
+                                                  Information
+                                                     Security
+
+                                Availability                            Integrity
+
+
+                 Fig. 4.5: Illustrates the three principle of information security
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+INFORMATION SYSTEM SECURITY POLICY             4.15
+
+The information that is secure satisfies three main tenets, or properties, of information. If user can
+ensure these three principles, s/he satisfies the requirements of secure information. The three
+principle C-I-A triad are as follows:
+♦    Confidentiality—  Prevention  of  the  unauthorized  disclosure  of  information  i.e.  only
+       authorized uses can view information. Confidentiality  is a common term which means
+      guarding information from everyone except those with rights to  it. Confidential information
+       includes the following:
+    o     Private data of individuals.
+    o      Intellectual property of businesses.
+    o     National security for countries and governments.
+♦    Integrity— Prevention of the unauthorized modification of information i.e. only authorized
+      users can change the information.
+    o     Data without integrity is like data that are not accurate or not valid—it is of no use.
+          Many organizations consider data and information as intellectual property assets.
+    o    Examples include copyrights, patents, secret formulas, and customer databases. This
+              information can have great value.
+    o     Unauthorized changes can undermine the value of data. This is why integrity is a
+            fundamental principle of systems security.
+♦    Availability— Prevention of the unauthorized withholding of information i.e. information is
+       accessible by authorized users whenever they request the information.
+    o      Availability is a common term in everyday life. For example, we probably pay attention
+               to the availability of our Internet service, TV service, or cell phone service.
+    o      In the context of information security, availability is generally expressed as the amount
+               of time users can use a system, application, and data.
+
+    4.6  INFORMATION SECURITY POLICY
+♦     Information Security Management (ISM) consists of the set of activities involved in configuring
+      resources in order to meet information security needs of an organization.
+♦    An Information Security Policy is the statement of intent by the management about how to
+       protect a company’s information assets.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+4.16           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦        It  is a formal statement of the rules, which give access to people to an organization's
+      technology and information assets, and which they must abide.
+♦     In its basic form, an information security policy is a document that describes an organization’s
+       information security controls and activities. The policy does not specify technologies or
+       specific solutions;  it defines a specific set of intentions and conditions that help protect a
+      company’s information assets and its ability to conduct business.
+♦    An Information Security Policy is the essential foundation for an effective and comprehensive
+       information security program.  It  is the primary way in which management’s information
+       security concerns are translated into specific measurable and testable goals and objectives.
+           It provides guidance to the people, who build, install, and maintain information systems.
+         Information Security policy invariably includes rules intended to:
+     ♦    preserve and protect information from any unauthorized modification, access or
+                  disclosure;
+     ♦      limit or eliminate potential legal liability from employees or third parties; and
+     ♦     prevent waste or inappropriate use of the resources of an organization.
+
+♦    An information security policy should be in written form. It provides instructions to employees
+      about ‘what kinds of behavior or resource usage are required and acceptable’, and about
+      ‘what is unacceptable’.
+♦    An Information Security policy also provides direction to all employees about how to protect
+       organization’s information assets, and instructions regarding acceptable (and unacceptable)
+       practices and behavior.
+4.6.1 What type of Information is Sensitive?
+The following examples highlight some of the factors, necessary for an organization to succeed. The
+common aspect in each case is the critical information that each organization generates.
+♦     Strategic Plans: Most of the organizations readily acknowledge that strategic plans are
+       crucial to the success of a company. But many of them fail to really try to protect these plans.
+      For example: a competitor learns that a company is testing a new product line in a specific
+      geographic location. The competitor removes  its product from that location, creating an
+        illusionary demand for the product.
+     When the positive results of the test marketing are provided to the company's executives,
+       they decide to roll the product out nationwide. Only then did the company discover that in all
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+INFORMATION SYSTEM SECURITY POLICY             4.17
+
+       other geographic regions the competition for their product was intense. The result is that the
+     company lost several million, rupees as its product sales faltered.
+       Although, it might have been impossible for the company to completely prevent its intentions
+      from being discovered, this situation does illustrate the real value of keeping strategic plans
+       confidential. In today’s global environment, the search for competitive advantage has never
+      been greater. The advantages of achieving insight into a competitor's intentions can be
+       substantial. Industry studies bear witness to this fact.
+♦    Business Operations: Business operations consist  of an organization’s process and
+      procedures, most of which are deemed to be proprietary. As such, they may provide a market
+      advantage to the organization. This is the case when one company can provide a service
+       profitably at a lower price than the competitor.
+     A company's client lists and the prices charged for various products and services can be
+       detrimental in the hands of a competitor. Despite many organizations prohibiting the sharing
+       of such data, carelessness often leads to its compromise. This can include the inadvertent
+      storage of data on unauthorized systems, unprotected laptops, and a failure to secure
+      magnetic media.
+♦    Finances: Financial information, such as salaries and wages, are very sensitive and should
+       not be made public. While general salary ranges are known within industry, precise salary
+       information can provide a competitive edge. This information if available can help competitive
+       enterprises to understand and re-configure  their salary structure accordingly. Similarly,
+        availability of information about product pricing may also be used by competitive enterprises
+       to price  its products, competitively. When competitors' costs are lower, they can either
+      underprice the market or increase prices. In either case, the damage to an organization may
+      be significant.
+4.6.2 What are the issues to address in Information Security?
+♦    An Information Security policy addresses many issues such as confidentiality, integrity, and
+        availability concerns, who may access what information and in what manner, basis on which
+      access decision is made, maximized sharing versus least privilege, separation of duties, who
+       controls and who owns the information, and authority issues.
+♦     This policy does not need to be extremely extensive, but clearly state senior management's
+      commitment to information security, be under change and version control and be signed by
+       the appropriate senior manager.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+4.18           DIGITAL ECOSYSTEM AND CONTROLS
+
+
+     The policy should at least provide the following issues:
+   ♦    a definition of information security,
+   ♦    reasons why information security is important to the organization, and its
+             goals and principles,
+   ♦    a  brief explanation  of the  security  policies,  principles, standards and
+            compliance requirements,
+   ♦     definition of all relevant information security responsibilities; and
+   ♦     reference to supporting documentation.
+
+
+♦    The auditor should ensure that the policy is readily accessible to all employees and that all
+      employees are aware of its existence and understand its contents.
+♦    The policy may be a stand-alone statement or part of more extensive documentation (e.g. a
+       security policy manual) that defines how the information security policy is implemented in the
+       organization.
+♦     In general, most of the employees have some responsibilities for information security, and
+       auditors should review any declarations to the contrary with care.
+♦    The auditor should also ensure that the policy has an owner who is responsible for  its
+      maintenance and that  it is updated responding to any changes affecting the basis of the
+        original risk assessment.
+4.6.3 Components of the Information Security Policy
+A good security policy should clearly state the following:
+♦    Purpose and Scope of the Document and the intended audience;
+♦    The Security Infrastructure;
+♦     Security policy document maintenance and compliance requirements;
+♦     Incident response mechanism and incident reporting;
+♦     Security organization Structure;
+♦     Inventory and Classification of assets;
+♦     Description of technologies and computing structure;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+INFORMATION SYSTEM SECURITY POLICY             4.19
+
+♦     Physical and Environmental Security;
+♦     Identity Management and access control;
+♦     IT Operations management;
+♦     IT Communications;
+♦    System Development and Maintenance Controls;
+♦    Business Continuity Planning;
+♦    Legal Compliances; and
+♦     Monitoring and Auditing Requirements.
+4.6.4 Information Security Policies and their Hierarchy
+Information Security Policy – This policy provides a definition of Information Security, its overall
+objective and the importance that applies to all users. Various types of information security policies
+are:
+♦    User Security Policies – These include User Security Policy and Acceptable Usage Policy.
+    o    User Security Policy – This policy sets out the responsibilities and requirements for
+                  all IT system users. It provides security terms of reference for Users, Line Managers
+           and System Owners.
+    o    Acceptable Usage Policy – This sets out the policy for acceptable use of email,
+              Internet services and other IT resources.
+♦    Organization Security Policies – These include Organizational Information Security Policy,
+      Network & System Security Policy and Information Classification Policy.
+    o     Organizational Information Security Policy – This policy sets out the Group policy
+                for the security of its information assets and the Information Technology (IT) systems
+             processing this information. Though it is positioned at the bottom of the hierarchy, it is
+             the main IT security policy document.
+    o    Network & System Security Policy – This policy sets out detailed policy for system
+           and network security and applies to IT department users.
+    o     Information  Classification  Policy –  This  policy  sets  out  the  policy  for  the
+               classification of information.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+4.20           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦    Conditions of Connection – This policy sets out the Group policy for connecting to the
+      network. It applies to all organizations connecting to the Group, and relates to the conditions
+       that apply to different suppliers’ systems.
+The hierarchy of these policies is shown in the Fig. 4.6.
+
+                                     Information Security Policy
+
+
+           User Security                              Organization       Condition of
+               Policies                                Security Policies     Connection
+
+                                                   Network &                                      Organizational                      Infomation   User Security     Acceptable                      System                                       Information                        Classification       Policy      Usage Policy                         Security                                      Security Policy                         Policy                                                            Policy
+
+                  Fig. 4.6: The Hierarchy of Information Security Policies
+4.6.5 Tools to Implement Information Security Policy
+As policy is in the form of a broad general statement, organizations also develop standards, guidelines,
+and procedures that offer users, managers, and others a clearer approach to implementing policy and
+meeting organizational goals. Unless and until we get assurance of user security, cyber security cannot
+grow. It is the requirement to keep the data private and secure as all businesses run on internet. A
+security policy framework contains following main components (Table 4.3):
+                  Table 4.3: Components of Security Policy Framework
+           Standard                    Procedure                     Guideline
+ •    Standards          specify  •    Procedures   are   more  •    Guidelines help in smooth
+       technologies         and        detailed   steps   to   be        implementation         of
+      methodologies to be used        followed   to   accomplish        information security policy.
+       to secure systems.                  particular  security  related  •    Guidelines can be specific
+                                           tasks. •       It  is a detailed document                                                                             or flexible regarding use.
+       pertaining   definition   for  •       It may comprise of a plan of  •    Guidelines are often used
+      hardware and software and         action, installation, testing,                                                                                  to  ensure  that  specific
+     how these are to be used.        and  auditing  of  security                                                                                security measures are not
+                                             controls. •    Standards are compulsory                                                                          overlooked, although they
+       within  an   organization.  •    Procedures normally assist       can be implemented, and
+       Guidelines  assist  users,         in implementing applicable         correctly so, in more than
+      systems  personnel,  and        information security policy.       one way.
+       others     in     effectively
+       securing their systems.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+INFORMATION SYSTEM SECURITY POLICY             4.21
+
+Standards, guidelines, and procedures should be promulgated throughout an organization through
+handbooks or manuals. Organizational standards specify uniform use of specific technologies across
+the organization. Standardization of organization-wide identification badges is a typical example,
+providing ease of employee mobility and automation of entry/exit systems.
+These are detailed steps to be followed by users, system operations personnel, and others to
+accomplish a  particular  task  (e.g. preparing new user accounts and assigning appropriate
+privileges). Some organizations issue overall computer security manuals, regulations, handbooks,
+or similar documents.
+
+
+                Policy #1                                 Policy #2                                 Policy #3
+
+ Standard    Procedure    Guidelines    Standard    Procedure    Guidelines    Standard    Procedure    Guidelines
+
+
+              Fig. 4.7: An example of a hierarchical IT security policy framework.
+Policies are applicable to an entire organization whereas the standards are specific to a given policy.
+Each policy along with standard help to define the roles, responsibilities, and accountability of
+various stakeholders within organization. Policy document should set must set limits as well as refer
+to standards, procedures, and guidelines.
+4.6.6 Monitoring of Information security
+When we review our systems, we should check for the following:
+♦    Are security policies comprehensive and appropriate for the business process or activity?
+    o    The  objective  of  information  security  is  to support  vision and mission  of  the
+             organization and to protect it from various risks. From security point of view, the most
+               visible risks are data breach. The organization’s policies and supporting documents
+            should define the risks that affect it.
+♦     “Are our policies understood and followed?”
+    o     This question comes during audit. Though the audit does not set new policies yet the
+              auditors may make recommendations based on his/her experience or knowledge of
+          new regulations or other requirements.
+♦    Are there implemented controls supporting the policies and culture?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+4.22           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦    Are the security controls being in alignment with the organization’s strategies and mission?
+    o   We cannot justify a control by a policy, we may probably remove it. Whenever a control
+                 is defined as “for security” with no other explanation, we should remove it. Security is
+           a support department. Its purpose is to protect the organization’s assets and revenue
+             stream.
+♦      Is there effective implementation and upkeep of controls?
+    o    As the organization grows so as the threats, therefore, it is important to make sure that
+             the controls still meet the risks of present.
+                                      illustration - Case B
+ ♦    JK Pvt. Ltd. is an autonomous organization that designs, develops, implements, and
+        maintains IT systems, products and services of one of the major government institutions
+         in India. Governed by Board, the organization has a Managing Director as the top authority.
+ ♦    Operating with 800 employees, the key functions of the company are to provide IT
+         solutions, manage overall information system, and give IT consulting services to its parent
+        organization. The organization has its headquarters in New Delhi and five regional offices
+         in various cities in India.
+ ♦    The main functionality of the organization is data and information management and to
+        provide IT support to its parent organization for critical public functions. The survival of the
+        organization is solely dependent upon the proper functioning of its information systems.
+       Thus, information security is essential for the organization.
+ ♦    The clients of the organization are citizen and the parent government organization. In such
+        case, any deviation in data/information and information system will result in large public
+         outcry. If an internal application of the organization fails, only few users of departments
+          will be affected, but  if any of the critical application fails,  it will be disastrous for the
+        organization. The two assets that are important for an organization are information and
+        process.
+ Support of Top Management
+ ♦        If there is a change in senior executives, there is a varying change in priority regarding
+        information security in the organization.
+ ♦    For some of the executive, information security is an important aspect, but for others, it is
+         not. However, with the newly created Information Security Officer (ISO) position in the
+        organization,  information  security has  got  attention and  the  Information  Security
+      Management activities have started becoming streamlined.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+INFORMATION SYSTEM SECURITY POLICY             4.23
+
+ ♦    ISO along with his/her two team members are responsible to manage various Security
+      Management functions of the organization. Now with a push from ISO office, the senior
+      management started realizing the importance of information security and is willing to
+        support its various functions.
+ ♦       Still, there is a challenge of lack of skilled manpower and funds to support various Security
+      Management functions in the organization.
+ Information Security Policy
+ ♦    The Organization has released its information security policy, however, some guidelines
+        related to information security existed earlier. But it was limited in sense and do not cover
+           all aspect of Information security management. Therefore, the security policy was released
+       which had the definition of roles and responsibilities of employees, vendors and third-party
+        contractors with a clause in policy to review  it annually. This is the case of compliance
+        issue with information security though comprehensive information security policy is there.
+ Information Security training to employees
+ ♦    The  organization has  definite  process  to  provide  information  security  training  to
+       employees.
+ ♦    There are various internal as well as external information security training programmers
+         for employees.
+ ♦    Employees are dividing into groups and every group has a representative that coordinates
+        information security activities of the group.
+ ♦    There are two kinds of training program — general awareness training and specific area
+        related training. The general awareness training is given to each employee whereas the
+         specific training is based on the requirement of job. Experts from industry and other
+       agencies are invited to conduct training sessions, workshops, and seminars.
+
+SUMMARY
+♦     In illustration - case A, no information security policy is there in the company therefore no
+     mechanism exits for information security audit. Therefore, it is the responsibility of network
+      team to monitor the log records of the servers and take necessary action in case of any
+       deviations.
+♦     Information security management are ad-hoc and reactive in nature as there is no clear plan
+        for identifying and managing risks to various business operations. The company has no
+       defined information security policy and practices. The company follows a reactive approach
+      towards information security incident management.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+4.24           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦    The company uses licensed software and here  is no mechanism to check the use of
+      unauthorized software on company systems. Though the top management, managers and
+       other employees of the company acknowledge the fact that information security is a critical
+      aspect of their business, the issue has given very low priority in the company.
+♦    Company in the case A needs a clearly defined disaster recovery and business continuity
+      plan which needs to be discussed with all relevant stakeholders for incident management.
+In illustration  - Case B, the organization JK Pvt. Ltd. makes an effort to communicate to  its
+employees about  risks, threats and counter measures through various  training programmes
+conducted internally as well as outside the organization. Apart from  this, organization has a
+comprehensive information security policy that is been discussed with employees on time to time.
+All the employees are being educated on  their acceptable behaviour towards organization’s
+equipment, network, etc. The main focus of the organization is on creating awareness among its
+employees on information security. The organization conducted an internal information security audit
+after based on prescribed guidelines.
+♦     Organization  follows  layered  security  architecture, such as logged  routers,  Intrusion
+      Prevention System (IPS), Intrusion Detection System (IDS), layered firewalls, militarized
+      zones, demilitarized zones, antimalware checks, proxy checks, and antivirus system to
+       protect its network against malicious programmes and cyber-attacks.
+♦    The  organization  has  information  security  incident management  plan  defined  and
+      documented in the organization’s information security policy document, the implementation
+      and compliance of which is dependent upon various application groups. The organization
+       follows a Business  Continuity (BC) and  Disaster Recovery (DR)  plan  at  its  distant
+      geographical location. There is a defined process to take regular data backups which is stored
+       separately off-site.
+♦    The senior management of organization finds the Information security policy effective, as they
+      have not faced any serious  security  incident  yet, except few minor defacement and
+       Distributed Denial of Service (DDoS) attack.
+♦     Organization placed its information security policy and guidelines at its position; however,
+       there is low level of compliance. The management supports the information security policy
+      and has reactive approach most of the time.
+This case shows that policy is required at maturity level and moreover, a regular monitoring is
+essential  to improve the  level  of information  security compliance among employees  in the
+organization. It is essential to provide a platform to share the good practices within various teams or
+groups inside the organization. This helps in peer learning and sharing of best practices across
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+INFORMATION SYSTEM SECURITY POLICY             4.25
+
+organization and helps in building a security culture has defined incident management plan and
+documented information security policy document. However, the implementation and compliance of
+which is dependent upon various application groups.
+The organization should give information security a top priority and top management provides its
+support to employees. Moreover, a regular monitoring is essential to improve the level of information
+security compliance among employees in the organization.
+As reflected from case A, in absence of any information security policy, there are no clearly defined
+roles, responsibilities and accountabilities towards company’s information and making them prone
+to information security risks, and threats. Whereas, case B reflects that monitoring compliance to
+organizational information security policies and guidelines through periodic internal as well as
+external audits gives confidence to the management and also indicates the areas of improvement.
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    An Information Security policy addresses many issues that may involve the following:
+          (i)     confidentiality, integrity and availability concerns
+           (ii)   who may access what information and in what manner based on which access decision
+                 is made
+           (iii)   maximized sharing versus least privilege and separation of duties
+         (iv)   programming new system, maintaining old systems and providing general support
+              software.
+     Choose the correct combination of issues addressed under IS Policy.
+       (a)      (i), (ii), (iii)
+       (b)      (i), (ii), (iv)
+        (c)       (ii), (iii), (iv)
+       (d)      (i), (ii), (iii), (iv)
+2.     Following are the components of Information System Security except one. Identify
+       (a)    Firewall
+       (b)    Mainframe
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+4.26           DIGITAL ECOSYSTEM AND CONTROLS
+
+        (c)    Application Domain
+        (d)    Personal Data
+3.     In Information System Infrastructure __________provideS space for networking hardware,
+       servers, and data centers.
+        (a)     Facilities
+        (b)    Software
+        (c)    Hardware
+        (d)   Communication
+4.    The CIA triad for a typical IT infrastructure of an organization comprises of ….......................
+       (a)    Confidentiality, Integrity, Availability
+       (b)    Comprise, Integrity, Association
+        (c)     Confidentiality, Important, Availability
+       (d)    Comprise, Integrity, Availability
+5.    Which Information System Security Policy of sets out the responsibilities and requirements
+        for all IT system users?
+       (a)    Acceptable Usage Policy
+       (b)    User Security Policy
+        (c)    Network & system Security Policy
+       (d)    Information Classification Policy
+
+ANSWERS/SOLUTIONS
+     1.         (a)        2.        (d)        3.        (a)        4.        (a)        5.       (b)
+
+
+© The Institute of Chartered Accountants of India

@@ -1,0 +1,1470 @@
+Source PDF: 07_SPOM/Set_D_04_Digital_Ecosystem_Controls/006 - Chapter-5- Business Continuity Planning and Disaster Recovery Planning - 79446bos63475-cp5.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_04_Digital_Ecosystem_Controls\006 - Chapter-5- Business Continuity Planning and Disaster Recovery Planning - 79446bos63475-cp5.pdf
+Extracted at: 2026-05-31T10:41:27+05:30
+Pages: 36
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          5
+         1
+BUSINESS CONTINUITY
+PLANNING AND DISASTER
+RECOVERY PLANNING
+
+
+                    LEARNING OUTCOMES
+After studying this chapter, you will be able to –
+   understand the concept of Business Continuity Management (BCM).
+   comprehend the key phases in the development of Business Continuity
+     Plan.
+    build an understanding of the entire BCM Process.
+   grasp the knowledge about various types of plans.
+   learn about different types of Back-ups and their working.
+   understand the key aspects included in the implementation of Incident
+    Management Plan (IMP).
+    identify the areas involved in Disaster Recovery Procedural Plan (DRPP).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+5.2            DIGITAL ECOSYSTEM AND CONTROLS
+
+  CHAPTER OVERVIEW
+
+
+                      BCM
+                            Process &
+                               Cycle
+
+                            Types of
+                           Backups
+
+
+              BCP and                                 DRP                     types
+
+
+                            Illustration: Attack on AIIMS Delhi Servers
+ For years, healthcare organizations have been a top target and remain vulnerable to ransomware
+ attacks. The  critical nature  of  their operations, combined with notoriously  lax IT security
+ throughout the industry, are a magnet for ransomware groups looking for big payouts. One such
+ instance is the attack on AIIMs Delhi servers in 2022.
+ Establishment of AIIMS e-hospital
+ ♦     In 2016, All-India Institute of Medical Sciences (AIIMS) Delhi had moved to a completely
+         digitized set-up  with successful implementation  of  its  e-Hospital  project under the
+       government's Digital India Initiative and became the country's  first fully digital public
+         hospital.
+ ♦   A report published in The Print newspaper said that the hospital's administration had
+        raised major concerns about data and systems safety and had flagged how lags could
+       have serious repercussions on patient care.  It was indicated through reports that the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.3
+
+       government department  responsible  for  setting up  IT  infrastructure had  not been
+        strengthened with appropriate systems  for upkeep and  security. In the absence  of
+       database administrator, security administrator, and system administrator at site for the
+         installation, the whole project was at high risk.
+ Ransomware Attack.
+ ♦   On 23rd November 2022, the AIIMS Delhi faced a cyber attack paralyzing its servers after
+       which a case of extortion and cyber terrorism was registered by the Intelligence Fusion
+       and Strategic Operations (IFSO) unit of the Delhi Police on 25th November 2022.
+ ♦    As per the FIR details, the attack on the server of AIIMS Delhi server had originated from
+        China. Of 100 servers (40 physical and 60 virtual), five physical servers were successfully
+          infiltrated by the hackers. Cybercriminals who hacked the digital services of AIIMS and
+        allegedly compromised the data of scores of patients.
+ ♦    The attack affected five servers and encrypted 1.3 terabytes of data causing operational
+        disruption and non-functionality of critical applications. The attack was analyzed by the
+        Indian Computer Emergency Response Team (CERT-In) and was found  to have
+       been caused by improper network segmentation.
+ Implications of the Attack.
+ ♦    The personal details of millions of patients in AIIMS Delhi became at risk due to the
+       ransomware attack.
+ ♦     Internet services at AIIMS were blocked as per the recommendations of the investigating
+        agencies. The servers for AIIMS e-hospital system went down, affecting digital hospital
+        services, including smart lab, billing, report generation, and appointment system. The
+        forerunning AIIMS institute currently manages over 2,500 beds.
+ ♦    The  hospital immediately sought  the assistance  of  the  National  Informatics Centre
+        (NIC) and the Indian Computer Emergency Response Team (CERT-In) to restore its digital
+        services with the Intelligence Bureau, Central Bureau of Investigation, Ministry of Home
+         Affairs, and the National Investigation Agency also joining in the investigation.
+ ♦    AIIMS issued a new set of Standard Operating Procedure (SOP) stating that admission,
+        discharge, and transfer of patients will be done manually until the e-hospital system gets
+       back online. The additional staff was deployed to help run diagnostics, labs, and OPD
+        services, however the hospital struggled to cater to patients without unique health IDs and
+       handle patient admissions and discharges.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+5.4            DIGITAL ECOSYSTEM AND CONTROLS
+
+ Why it matters?
+ ♦    According to a news report, the cyber incident might have exposed the hospital records of
+       around 40 million patients. The exploited AIIMS database might have contained Patient
+       Preference Information (PPIs) of patients and healthcare workers, as well as records on
+        blood donors, ambulances, vaccination, caregivers, and employee login credentials.
+ The Remedial Actions.
+ ♦    Most of the functions of e-Hospital applications like patient registration, appointment,
+        admission, discharge etc. could be restored only after two weeks of the cyber-attack.
+ ♦      All the data of the five physical servers of AIIMS Delhi which were affected could be
+        retrieved from a backup server which was unaffected and restored on new servers.
+ ♦    Considering  the recent  cyber-attack on  its  servers, the AIIMS  in  Delhi decided  to
+        strengthen its e-hospital network and said that it will only be allowed on a dedicated and
+       secure AIIMS LAN/intranet network  that  will be maintained by  its computer  facility
+        department.
+ ♦    CERT-In was mandated to track and monitor cyber security incidents and a “special
+        advisory on  security practices  to enhance  resilience  of health sector  entities was
+       communicated by CERT-In to the Ministry of Health and Family Welfare, for sensitizing
+        health sector entities regarding latest cybersecurity threats.”
+ ♦    CERT-In issued alerts and advisories regarding the latest cyber threats/vulnerabilities and
+       countermeasures to protect computers and networks, on an ongoing basis. The team also
+        published “India Ransomware Report H1 – 2022” in August 2022, covering the latest
+         tactics and  techniques  of ransomware  attackers and ransomware-specific  incident
+       response and mitigation measures.
+ Some Crucial Lessons to be learnt by AIIMS attack.
+ ♦     Cyber-attacks have become an increasingly common threat to organizations around the
+        world, and the recent attack on AIIMS highlights the need for organizations to have robust
+        cyber security measures in place to protect their sensitive information.
+ ♦    The AIIMS attack due to proper network segmentation allowed the threat actors to gain
+        access, leading to the attack. The AIIMS attack is a crucial lesson for organizations about
+        the importance of network segmentation that involves dividing a computer network into
+         different segments  or sub-networks  to improve  security and  isolate  vulnerabilities.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.5
+
+       Because of improper network segmentation, the hackers could gain access to critical
+        servers and data.
+ ♦    The organizations should conduct regular risk assessments and implement effective
+       network segmentation techniques like firewalls, intrusion detection systems, and network
+       access control, among others to prevent cyber threats.
+ ♦     Organizations should ensure that all devices and systems are kept up to date with the
+         latest security patches and software updates.
+ ♦    The attack also underscores the importance  of having an Incident Response Plan
+       document in place. This document outlines the steps an organization should take in the
+        event of a cyber-attack, ensuring that organizations respond to any breach in an organized
+       and efficient manner, thereby minimizing damage and downtime.
+ ♦    Employees shall receive training in cybersecurity to ensure awareness of the latest security
+        threats and readiness to handle them. This training encompasses topics such as phishing,
+       password protection, and data privacy, among others.
+
+    5.1  INTRODUCTION
+In today's networked society, the scope extends beyond national boundaries, with a heightened
+reliance on supply chain management that necessitates regulatory compliance, data security, and
+privacy. Moreover, there  is a  critical emphasis on enhancing performance and ensuring the
+continuous availability of services on a 24x7 basis. Meeting their demands in the global economy
+requires an enterprise to be able to meet the challenges of ever-increasing threats and risks. They
+should be able to not only withstand but suitably adapt the sudden disruptions due to infrastructure
+outage or human error, else it might impact not only revenue but also the image and brand, ultimately
+leading to the survival of the enterprise of all types and sizes, public and private.
+Business Continuity Management (BCM), over  the years has emerged a  very  effective
+management process  to help  enterprises  to manage  the  disruption  of  all  kinds,  providing
+countermeasures to safeguard from the incident of disruption of all kinds. With the BCM Process in
+place, enterprises are able to assess the potential threats and manage the consequences of the
+disruption, which could reduce or eliminate the losses that would have resulted.
+To ensure effective implementation of BCM, the enterprise should conduct regular internal audits at
+planned intervals to conform to the compliance of Business Continuity Process in line with the policy
+and regulatory requirements for the enterprise. The findings of the internal audit should be reported
+to the top management for necessary corrective action and improvements and the management to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+5.6            DIGITAL ECOSYSTEM AND CONTROLS
+
+provide adequate resources to ensure that necessary corrections and corrective actions are taken
+without undue delay to eliminate nonconformities and their cause. The internal auditing activities
+should be taken up by the independent group within the enterprises such as internal audit functions
+managed by Chartered Accountants etc. This would ensure objectivity and impartiality of the audit
+process engaging the professionals for these key activities.
+
+    5.2  NEED OF  BUSINESS  CONTINUITY MANAGEMENT
+       (BCM)
+To meet the enterprise business objectives and ensure continuity of services and operations, an
+enterprise  shall adapt and  follow  well-defined and  time-tested plans and procedures,  build
+redundancy in teams and infrastructure, manage a quick and efficient transition to the backup
+arrangement  for business systems and services. Business continuity means maintaining the
+uninterrupted availability of  all key business resources required to support essential business
+activities. Let us understand some key terms related to BCM.
+♦    Business Contingency: A business contingency is an event with the potential to disrupt
+      computer operations, thereby disrupting critical mission and business functions.  Such an
+      event could be a power outage, hardware failure, fire, or storm. If the event is very destructive,
+            it is often called a Disaster.
+♦    Business Continuity Planning (BCP): It refers to the ability of enterprises to recover from
+      a disaster and continue operations with the least impact. It is imperative that every enterprise,
+      whether profit-oriented or service-oriented has a business continuity plan as relevant to the
+        activities of the enterprise.  It is not enough that an enterprise has a BCP, but  it is also
+       important to have an independent audit of BCP to confirm its adequacy and appropriateness
+       to meet the needs of the enterprise.
+♦   BCP Process: BCP is a process designed to reduce the risk to an enterprise from an
+      unexpected disruption of its critical functions, both manual and automated ones, and assure
+       continuity of the minimum level of services necessary for critical operations. The purpose of
+     BCP is to ensure that vital business functions (critical business operations) are recovered
+      and operationalized within an acceptable timeframe. The purpose is to ensure continuity of
+      business and not necessarily the continuity of all systems, computers, or networks. The BCP
+        identifies the critical functions of the enterprise and the resources required to support them.
+     The plan provides guidelines for ensuring that needed personnel and resources are available
+        for both disaster preparation and incident response to ensure that the proper procedures will
+      be carried out to ensure the timely restoration of services.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.7
+
+5.2.1 Scope of Business Continuity
+The top management of the enterprise plays a crucial role in shaping the scope of the Business
+Continuity Management (BCM) program. This involves identifying key products and services that
+align with the enterprise's objectives, obligations, and statutory duties. This process is conducted in
+accordance with the threat scenario and business impact analysis. In situations involving outsourced
+services or activities, the enterprise retains risk accountability.  It is imperative to establish and
+implement necessary controls and processes to effectively manage risks associated with outsourced
+services.
+5.2.2 Advantages of Business Continuity Management
+The advantages of BCM are that an enterprise:
+♦      is able to proactively assess the threat scenario and potential risks.
+♦    has planned response to disruptions designed to contain the damage and minimize the impact
+      on the enterprise; and
+♦      is able to demonstrate a response through a process of regular testing and trainings.
+
+    5.3  BCM POLICY
+The main objective of BCP is to minimize or eliminate the loss of enterprise’s business in terms of
+revenue loss, loss of reputation, loss of productivity and customer satisfaction. This policy document
+is a high-level document, which shall be the guide to make a systematic approach for disaster
+recovery, to bring about awareness among the persons in scope about the business continuity
+aspects and its importance and to test and review the business continuity planning for the enterprise
+in scope.
+While developing the BCM policy, the enterprise should consider defining the scope, BCM principles,
+guidelines, and minimum standards for the enterprise. They should refer to any relevant standards,
+regulations or policies that must be included or can be used as a benchmark. The objective of this
+policy is to provide a structure through which:
+♦      critical services and activities undertaken by the enterprise operation for the customer will be
+        identified.
+♦     plans will be developed to ensure continuity of key service delivery following a business
+       disruption, which may arise from the loss of facilities, personnel, IT and/or communication or
+        failure within the supply and support chains.
+♦     invocation of incident management and business continuity plans can be managed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+5.8            DIGITAL ECOSYSTEM AND CONTROLS
+
+♦     incident management and BCP undergo ongoing testing, revision and updation as required.
+♦     planning and management responsibilities are assigned to a member of the relevant senior
+     management team.
+The BCM policy defines the processes of setting up activities for establishing a business continuity
+capability and the ongoing management and maintenance of the business continuity capability. The
+set-up activities incorporate the specification, end-to-end design, build, implementation, and initial
+exercising  of the business continuity  capability. The ongoing maintenance and management
+activities include embedding business continuity within the enterprise, exercising plans regularly,
+and updating and communicating them, particularly when there is significant change in premises,
+personnel, process market, technology, or organizational structure.
+
+    5.4  BUSINESS CONTINUITY PLANNING
+Business Continuity Planning (BCP) is the creation and validation of a practical logistical plan for
+how an enterprise  will recover and restore partially or completely interrupted  critical (urgent)
+functions within a predetermined time after a disaster or extended disruption. The logistical plan is
+called a business continuity plan. Planning is an activity to be performed before a disaster occurs
+otherwise  it would be too late to plan an effective response. The resulting outage from such a
+disaster can have serious effects on the viability of a firm's operations, profitability, quality of service,
+and convenience. In fact, these consequences may be more severe because of the lost time that
+results from inadequate planning. After such an event, it is typical for senior management to become
+concerned with all aspects of the occurrence, including the measures taken to limit losses.
+Their concerns range from the initiating event and contributing factors, to the response plans,
+effective contingency planning, and disaster recovery coordination. Rather than delegating disaster
+avoidance to the facilities or building security organizations,  it is preferable for a firm's disaster
+recovery planner(s) to understand fully the risks to operations and the measures that can minimize
+the probabilities and consequences, and to formulate their disaster recovery plan accordingly.
+When a risk manifests itself through disruptive events, the business continuity plan is a guiding
+document that allows the management team to continue operations.  It is a plan for running the
+business under stressful and time compressed situations. The plan lays out steps to be initiated on
+occurrence of a disaster, combating it and returning to normal operations including the quantification
+of the resources needed to support the operational commitments. Business continuity covers the
+following areas:
+♦    Business Resumption Planning: This  is the operation’s piece of business continuity
+       planning.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.9
+
+♦    Disaster Recovery Planning: This  is the technological aspect  of business continuity
+       planning, the advance planning and preparation necessary to minimize losses and ensure
+       continuity of critical business functions of the organization in the event of disaster.
+♦     Crisis Management: This is the overall co-ordination of an organization’s response to a crisis
+        in an effective timely manner, with the goal of avoiding or minimizing damage to the
+       organization’s profitability, reputation, or ability to operate.
+5.4.1 Objectives of Business Continuity Planning
+The primary objective of a Business Continuity Plan is to minimize loss by minimizing the cost
+associated with disruptions and enable an organization to survive a disaster and to re-establish
+normal business operations. To survive, the organization must assure that critical operations can
+resume normal processing within a reasonable time frame. The key objectives of the contingency
+plan should be to:
+♦     provide the safety and well-being of people on the premises at the time of disaster.
+♦     continue critical business operations.
+♦    minimize the duration of a serious disruption to operations and resources (both information
+      processing and other resources).
+♦    minimize immediate damage and losses.
+♦     establish management succession and emergency powers.
+♦      facilitate effective co-ordination of recovery tasks.
+♦    reduce the complexity of the recovery effort.
+♦     identify critical lines of business and supporting functions.
+Therefore, the goals of the Business Continuity Plan should be to:
+♦     identify weaknesses and implement a disaster prevention program.
+♦    minimize the duration of a serious disruption to business operations.
+♦      facilitate effective co-ordination of recovery tasks.
+♦    reduce the complexity of the recovery effort.
+5.4.2 BCP Manual
+An incident or disaster affecting critical business operations can strike at any time. Successful
+organizations have a comprehensive BCP Manual, which ensures process readiness, data, and
+system availability to ensure business continuity. A BCP manual is a documented description of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+5.10           DIGITAL ECOSYSTEM AND CONTROLS
+
+actions to be taken, resources to be used and procedures to be followed before, during and after an
+event that severely disrupts all or part of the business operations. The BCP is expected to -
+♦     provide reasonable assurance to senior management of enterprise regarding the capability
+       of the organization to recover from unexpected incidents or disasters affecting business
+       operations. This includes ensuring the continuity of services with minimal impact.
+♦     anticipate various types of incident or disaster scenarios and outline the action plan for
+       recovering from the incident or disaster with minimum impact and ensuring ‘Continuous
+        availability of all key services to clients’.
+The BCP Manual is expected to specify the responsibilities of the BCM team, whose mission is to
+establish appropriate BCP procedures to ensure the continuity of enterprise's critical business
+functions. In the event of an incident or disaster affecting any of the functional areas, the BCM Team
+serves as liasioning teams between the affected functional area(s) and other departments providing
+support services.
+BCM is business-owned, business-driven process that establishes a fit-for-purpose strategic and
+operational framework that:
+♦     proactively improves an enterprise’s resilience against the disruption of its ability to achieve
+         its key objectives.
+♦     provides a rehearsed method of restoring an enterprise’s ability to supply its key products
+      and services to an agreed level within an agreed time after a disruption.
+♦     delivers a proven capability to manage a business disruption and protect the enterprise’s
+       reputation and brand.
+5.4.3 Developing a Business Continuity Plan
+The methodology for developing a BCP can be sub-divided into eight different phases. The extent
+of  applicability  of each  of the phases must be  tailored  to the respective organization. The
+methodology emphasizes on the following:
+♦     Providing management with a comprehensive understanding of the total efforts required to
+      develop and maintain an effective recovery plan.
+♦     Obtaining commitment from appropriate management to support and participate in the effort.
+♦     Defining recovery requirements from the perspective of business functions.
+♦    Documenting the impact of an extended loss to operations and key business functions.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.11
+
+♦    Focusing appropriately on disaster prevention and impact minimization, as well as orderly
+       recovery.
+♦     Selecting business continuity teams that ensure the proper balance required  for plan
+      development.
+♦    Developing a business continuity plan that is understandable, easy to use and maintain; and
+♦     Defining how business continuity considerations must be integrated into ongoing business
+      planning and system development processes in order that the plan remains viable over time.
+The eight phases are described below:
+♦    Phase 1 – Pre-Planning Activities (Project Initiation): This Phase is used to obtain an
+      understanding of the existing and projected computing environment of the organization. This
+      enables the project team to:
+    o   refine the scope of the project and the associated work program.
+    o  develop project schedules.
+    o   identify and address any issues that could have an impact on the delivery and the
+          success of the project.
+      During this phase, a Steering Committee should be established. The committee should have
+       the overall responsibility for providing direction and guidance to the Project Team. The
+      committee should also make all decisions related to the recovery planning effort. The Project
+     Manager should work with the Steering Committee in finalizing the detailed work plan and
+      developing interview schedules for conducting the Security Assessment and the Business
+      Impact Analysis.
+     Two other key deliverables of this phase are:
+    o   the development of a policy to support the recovery programs.
+    o  an awareness program to educate management and senior individuals who  will be
+           required to participate in the project.
+♦    Phase 2 – Vulnerability Assessment and General Definition of Requirements: Security
+      and controls within an organization are continuing concern. It is preferable from an economic
+      and business strategy perspective to concentrate on activities that have the effect of reducing
+       the possibility of disaster occurrence, rather than concentrating primarily on minimizing
+      impact of an actual disaster. This phase addresses measures to reduce the probability of
+      occurrence. This phase will include the following key tasks:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+5.12           DIGITAL ECOSYSTEM AND CONTROLS
+
+    o  A thorough Security Assessment of the computing and communications environment
+           including personnel practices; physical security; operating procedures; backup and
+          contingency planning; systems development and maintenance; database security; data
+         and voice communications security; systems and access control software security;
+           insurance; security planning and administration; application controls; and personal
+          computers.
+    o  The Security Assessment will enable the project team to improve any existing emergency
+          plans and disaster prevention measures and to implement required emergency plans and
+           disaster prevention measures where none exist.
+    o  Present findings and recommendations resulting from the activities of the Security
+         Assessment to the Steering Committee so that corrective actions can be initiated in a
+           timely manner.
+    o   Define the scope of the planning effort.
+    o   Analyze, recommend, and purchase recovery planning and maintenance software
+           required to support the development of the plans and to maintain the plans current
+           following implementation.
+    o  Develop a Plan Framework.
+    o  Assemble Project Team and conduct awareness sessions.
+♦    Phase 3 – Business Impact Assessment (BIA): A Business Impact Assessment of all
+      business units that are part of the business environment enables the project team to:
+    o   identify critical systems, processes, and functions.
+    o  assess the economic impact of incidents and disasters that lead to a denial of access to
+          systems, services and other services and facilities.
+    o  assess the “pain threshold,” that is, the length of time business units can survive without
+          access to systems, services, and facilities.
+     The BIA Report should be presented to the Steering Committee. This report identifies critical
+       service functions and the timeframes in which they must be recovered after interruption. The
+      BIA Report should then be used as a basis for identifying systems and resources required to
+      support the critical services provided by information processing and other services and
+         facilities.
+♦    Phase 4 – Detailed Definition of Requirements: During this phase, a profile of recovery
+      requirements is developed. This profile is to be used as a basis for analyzing alternative
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.13
+
+      recovery strategies. The profile is developed by identifying resources required to support
+         critical functions identified in Phase 3. This profile should include hardware (mainframe, data
+      and voice communications and personal computers), software (vendor supplied, in-house
+      developed, etc.), documentation (DP, user, procedures), outside support (public networks,
+     DP services, etc.), facilities (office space, office equipment, etc.) and personnel for each
+      business unit. Recovery Strategies will be based on short term, intermediate term, and long-
+      term outages.  Another key deliverable of this phase is the definition of the plan scope,
+       objectives, and assumptions.
+♦    Phase 5 – Plan Development: During this phase, recovery plans components are defined
+      and plans are documented. This phase also includes the implementation of changes to user
+      procedures, upgrading of existing data processing operating procedures required to support
+       selected recovery strategies and alternatives, vendor contract negotiations (with suppliers of
+      recovery services) and the definition of Recovery Teams, their roles, and responsibilities.
+      Recovery standards are also being developed during this phase.
+♦    Phase 6 – Testing/Exercising Program: The plan Testing/Exercising Program is developed
+       during this phase. Testing/exercising goals are established, and alternative testing strategies
+      are evaluated. Testing strategies tailored to the environment should be selected and an on-
+      going testing program should be established.
+♦    Phase 7 – Maintenance Program: Maintenance of the plans is critical to the success of an
+       actual recovery. The plans must reflect changes to the environments that are supported by
+       the plans.  It is critical that existing change management processes are revised to take
+      recovery plan maintenance into account. In areas where change management does not exist,
+      change management procedures will be recommended and implemented. Many recovery
+      software products take this requirement into account.
+♦    Phase 8 – Initial Plan Testing and Implementation: Once plans are developed, initial tests
+       of the plans are conducted and any necessary modifications to the plans are made based on
+      an analysis of the test results. Specific activities of this phase include defining the test
+      purpose/approach; identifying test teams; structuring and conducting the test; analyzing test
+        results; and modifying the plans as appropriate.
+The approach taken to test the plans depends in large part on the recovery strategies selected to
+meet the recovery requirements of the organization. As the recovery strategies are defined, specific
+testing procedures should be developed to ensure that the written plans are comprehensive and
+accurate.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+5.14           DIGITAL ECOSYSTEM AND CONTROLS
+
+    5.5  BUSINESS   CONTINUITY  MANAGEMENT   (BCM)
+      PROCESS
+A BCM process should be in place to address the policy and objectives as defined in the BCM policy
+by  providing  organization  structure  with  responsibilities and  authority,  implementation, and
+maintenance of business continuity management. The management process enables the business
+continuity, capacity, and capability to be established and maintained. The capacity and capability
+are established in accordance with the requirements of the enterprise. Refer Fig. 5.1.
+
+
+        1
+
+                                                   • Risk Assessment                                         Stage     Information
+                                    Collection        • Business Impact Analysis
+
+
+        2
+                                         Stage  BCM Strategies     •• OrganizationProcess LevelBCMBCMStrategyStrategy
+                                                   • Resource Recovery BCM                                              Continuity                                       Records                            S
+        3                                  Structure  and                             Development &     • Incident Management Plan                                         Stage   Implementation     • Business Continuity Plan                                     Business            Process
+
+                                                   • Testing of BCM Plans     BCMOrganization   4                                  Testing and       • BCM Maintenance                                                                        Documentation    •                 Maintenance                                         • BCM Audit and Review                                                        Implementing•         Stage
+
+
+     •
+        5                      • Accessing Needs
+                                   Training &       • Designing & Delivering Trainings
+                             Awareness                                                  • Measuring Results                                         Stage
+
+                             Fig. 5.1: Components of BCM Process
+A.    Organization Structure: The organization should nominate a person or a team with
+       appropriate seniority and authority to be accountable for BCM policy implementation and
+      maintenance. It should clearly define the persons responsible for business continuity within
+       the enterprise and responsibility.
+B.    Implementing Business Continuity : In establishing and implementing the BCM system in
+       the organization, managers from each function on site represent their areas of the operation.
+      These people are also responsible for the ongoing operation and maintenance of the system
+       within their area of responsibility. Where training  is required to enable a colleague to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.15
+
+        effectively carry out their BCM responsibilities, this will be identified as part of the ongoing
+        staff appraisal and training process.
+     Top management should appoint the Manager (BCM) role as being the role that is responsible
+        for the BCM policy and its implementation. The Resource Planning Manager is supported by
+       the Shift Leaders and Team Captains from each function, who are responsible for the ongoing
+      implementation and maintenance of the BCM. The program should be communicated to all
+       the stakeholders with appropriate training and testing. The enterprise may adopt any project
+     management model for effective output.
+       In implementation, the major activities that should be carried out include:
+    o   defining the scope and context.
+    o   defining roles and responsibilities.
+    o  engaging and involving all stakeholders.
+    o   testing of program on regular basis.
+    o   maintaining the currency and appropriateness of business continuity program.
+    o   reviewing, reworking, and updating the business continuity capability, risk assessments
+         and Business Impact Analysis (BIAs).
+    o  managing costs and benefits associated; and
+    o   convert policies and strategies into action.
+C.   BCM Documentation and Records: All documents that form the BCM are subject to the
+      document control and record control processes. Refer Table 5.1.
+        Table 5.1: Classified Documents (representative only) being part of the Business
+                            Continuity Management System (BCMS)
+      The Business Continuity Policy    The aims and objectives  of each function and the
+                                                      activities undertaken by each function
+      The BIA Report                The Risk Assessment Report
+      The business continuity strategies  The overall and specific Incident Management Plans
+      The Business Continuity Plans     Change control, preventative action, corrective action,
+                                    document control and record control processes
+       Local Authority Risk Register       Exercise schedule and results
+        Incident log                         Training program
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+5.16           DIGITAL ECOSYSTEM AND CONTROLS
+
+To provide evidence of the effective operation of the BCM, records demonstrating the operation
+should be retained for a minimum period of 1 year, in line with enterprise’s policy. The nature of the
+record means that the retention is a statutory, regulatory or customer requirement, it will be retained
+for the amount of time dictated. These records include references to all business interruptions and
+incidents, irrespective of the nature and length of disruption. This also includes general and detailed
+definition of requirements as described in developing a BCP. In this, a profile is developed by
+identifying resources required to support critical functions, which include hardware (mainframe, data
+and voice communication and personal computers), software (vendor supplied, in-house developed,
+etc.), documentation (user, procedures), outside support (public networks, DTP services, etc.),
+facilities (office space, office equipment, etc.) and personnel for each business unit.
+
+    5.6  BUSINESS CONTINUITY MANAGEMENT (BCM) CYCLE
+Refer Fig. 5.2.
+
+                             Stage 5:          Stage 1:
+                                Training &        Information
+                          Awareness         Collection
+
+                  BCM Cycle
+                        Stage 4:                    Stage 2:
+                          Testing &               BCM
+                      Maintenance                    Strategies
+
+                                      Stage 3:
+                                 Development &
+                                    Implementation
+
+                                        Fig. 5.2: BCM Cycle
+Stage 1: Information Collection Process
+The activities of assessment process do the prioritization of an enterprise’s products and services
+and the urgency of the activities that are required to deliver them. This sets the requirements that
+will determine the selection of appropriate BCM strategies in the next process.
+In order to design an effective BCM, it is pertinent to understand the enterprise from all perspectives
+of interdependencies of its activities, external enterprises and including:
+♦     enterprise’s objectives, stakeholder obligations, statutory duties, and the environment in
+      which the enterprise operates;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.17
+
+♦      activities, assets, and resources, including those outside the enterprise, that support the
+       delivery of these products and services;
+♦    impact and consequences over time of the failure of these activities, assets, and resources;
+      and
+♦     perceived threats that could disrupt the enterprise’s key products and services and the critical
+        activities, assets and resources that support them.
+The pre-planning phase of developing the BCP also involves collection of information. It enables us
+to refine the scope of BCP and the associated work program; develop schedules; and identify and
+address issues that could have an impact on the delivery and the success of the plan. Two other
+key deliverables of that phase are: the development of a policy to support the recovery programs;
+and an awareness program to educate management and senior individuals who will be required to
+participate in the business continuity program.
+The process involves BIA and Risk Assessment
+The process used for the development of both Business Impact Analysis and the Risk Assessment
+is detailed below. The outputs from these processes are reviewed by top management and signed
+off as being an accurate representation of the operation at the time of their completion. Both the BIA
+and Risk Assessment will be reviewed as part of the annual BCM management review or following
+a change to the operation, its processes, or associated risks. This review will ensure that the findings
+and the decisions made because of the findings are still accurate and relevant to the needs of the
+operation and its stakeholders.
+The Risk Assessment is assessment of the disruption to critical activities, which are supported by
+resources  such  as  people,  process,  technology,  information,  infrastructure  supplies  and
+stakeholders. The enterprise should determine the threats and vulnerabilities of each resource, and
+the impact that would have, in case it becomes a reality. It is the decision of the enterprise to select
+a risk assessment approach, but it is important that it is suitable and appropriate to address all the
+enterprise’s requirements.
+Specific threats can be defined as events or actions that have the potential to impact resources.
+Examples of these threats include, but are not limited to, incidents such as fire, flood, power failure,
+staff loss, staff absenteeism, computer viruses and hardware failure.
+Vulnerabilities might occur as weaknesses within the resources and can, at some point, be exploited
+by the threats, e.g. single points of failure, inadequacies in fire protection, electrical resilience,
+staffing levels, IT security and IT resilience. The Security Assessment will enable the business
+continuity team to improve any existing emergency plans and to implement required emergency
+plans where none exist. This is similar to vulnerability assessment phase of developing a BCP.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+5.18           DIGITAL ECOSYSTEM AND CONTROLS
+
+Impacts might result from the exploitation of vulnerabilities by threats. As a result of the BIA and the
+risk assessment, the enterprise should identify measures that:
+♦    reduce the likelihood of a disruption.
+♦     shorten the period of disruption; and
+♦      limit the impact of a disruption on the enterprise’s key products and services.
+These measures are known as loss mitigation and risk treatment. Loss mitigation strategies can be
+used in conjunction with other options, as not all risks can be prevented or reduced to an acceptable
+level. The enterprise might include one or more or all the strategies for each critical activity.
+Business Impact Analysis (BIA) is essentially a means of systematically assessing the potential
+impacts resulting from various events or incidents. The process of BIA determines and documents
+the impact of a disruption of the activities that support its key products and services. It enables the
+business continuity team to identify critical systems, processes, and functions, assess the economic
+impact of incidents and disasters that result in a denial of access to the system, services, and
+facilities, and assess the "pain threshold", that is, the length of time business units can survive
+without access to the system, services and facilities. For each activity supporting the delivery of key
+products and services within the scope of its BCM program, the enterprise should:
+♦    assess the impacts that would occur if the activity was disrupted over a period of time.
+♦     identify the maximum time period after the start of a disruption within which the activity needs
+       to be resumed.
+♦     identify critical business processes.
+♦    assess the minimum level at which the activity needs to be performed on its resumption.
+♦     identify the length of time within which normal levels of operation need to be resumed; and
+♦     identify any inter-dependent activities, assets, supporting infrastructure or resources that
+      have also to be maintained continuously or recovered over time.
+The enterprise should have a documented approach  to conduct BIA. The enterprise should
+document its approach to assessing the impact of disruption and its findings and conclusions. The
+BIA Report should be presented to the Top Management. This report identifies critical service
+functions and the time frame in which they must be recovered after interruption. The BIA Report
+should then be used as a basis for identifying systems and resources required to support the critical
+services provided by information processing and other services and facilities. Developing the BCP
+also considers the BIA process.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.19
+
+Stage 2: BCM Strategy
+Finalization of business continuity strategy requires assessment of a range of strategies.  This
+requires an appropriate response to be selected at an acceptable level and during and after a
+disruption within an acceptable timeframe for each product or service, so that the enterprise
+continues to provide those products and services. The selection of strategy  will consider the
+processes and technology already present within the enterprise.
+Much preparation is needed to implement the strategies for protecting critical functions and their
+supporting resources. For example, one common preparation is to establish procedures for backing
+up files and applications. Another is to establish contracts and agreements,  if the contingency
+strategy calls for them. Existing service contracts may need to be renegotiated to add contingency
+services. Another preparation may be to purchase equipment, especially to support a redundant
+capability.
+The enterprise develops and documents a series of plans, which enable them to effectively manage
+an incident with impacts on the site operations and subsequently recover its critical activities and
+their supporting resources, within the timescales agreed with the customer. While some activities
+have been defined as non-critical, the actions required to recover these are also included in the
+business continuity plans as they assist in allowing the critical activities to operate in a more efficient
+and  effective manner. The  enterprise may adopt any  strategy,  but   it should consider  the
+implementation of appropriate measures to reduce the likelihood of incidents and/ or reduce the
+potential impact of those incidents and resilience and mitigation measures for both critical and non-
+critical activities.
+Stage 3: BCM Development and Implementation
+Development of a management framework and a structure of incident management, business
+continuity and business recovery and restoration plans.
+The enterprise should have an exclusive organization structure, Incident Management Team/Crisis
+management team for an effective response and recovery from disruptions. In the event of any
+incident, there should be a structure to enable the enterprise to:
+♦     confirm impact of incident (nature and extent),
+♦     control of the situation,
+♦     contain the incident,
+♦    communicate with stakeholders, and
+♦     coordinate appropriate response.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+5.20           DIGITAL ECOSYSTEM AND CONTROLS
+
+The Incident Management Plan (IMP)
+To manage the initial phase of an incident, the crisis is handled by IMP. The IMP should have top
+management support with an appropriate budget for development, maintenance, and training. They
+should be flexible, feasible and relevant; be easy to read and understand; and provide the basis for
+managing all possible issues, including the stakeholder and external issues facing the enterprise
+during an incident.
+Implementation: Once plans are developed,  initial tests of the plans are conducted and any
+necessary modifications to the plans are made based on an analysis of the test results. Specific
+activities of this phase include the following as shown in Fig. 5.3.
+
+                                                  Defining the test
+                                              purpose/approach.
+
+                                                                            Identifying test                         Modifying the plans as                                                                      teams.                                 appropriate.
+
+
+                               Analyzing test                    Structuring the test.
+                                        results.
+
+                                             Conducting the
+                                                                   test.
+
+                               Fig. 5.3: Steps for Implementation
+The approach taken to test the plans depends largely on the recovery strategies selected to meet
+the recovery requirements of the organization. As the recovery strategies are defined, specific
+testing procedures should be developed to ensure that the written plans are comprehensive and
+accurate.
+Stage 4: BCM Testing and Maintenance
+BCM testing, maintenance and audit testify the enterprise BCM to prove the extent to which its
+strategies and  plans  are  complete,  current, and  accurate; and  Identifies  opportunities  for
+improvement.
+A BCP must be tested periodically because there will undoubtedly be flaws in the plan and in its
+implementation. The plan will become outdated as time passes and as the resources used to support
+critical functions change. Responsibility for keeping the plan updated has to be clearly defined in the
+BCP. A BCM testing should be consistent with the scope of the BCP(s), giving due regard to any
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.21
+
+relevant legislation and regulation. Testing may be based on a predetermined outcome, for example
+- plan and scope in advance; or allow the enterprise to develop innovative solutions.
+An exercise program should lead to objective assurance that the BCP will work as anticipated when
+required. The BCP testing program should include testing of the technical, logistical, administrative,
+procedural, and other operational systems, BCM arrangements and infrastructure (including roles,
+responsibilities, and any incident management locations and work areas, etc.) and technology and
+telecommunications recovery, including the availability and relocation of staff.  In addition, it might
+lead to the improvement of BCM capability by:
+♦     practicing the enterprise’s ability to recover from an incident.
+♦     verifying that the BCP incorporates all enterprise critical activities and their dependencies
+      and priorities.
+♦     highlighting assumptions, which need to be questioned.
+♦      instilling confidence amongst exercise participants.
+♦     raising awareness  of business  continuity throughout the enterprise by  publicizing the
+       exercise.
+♦     validating the effectiveness and timeliness of restoration of critical activities; and
+♦    demonstrating competence of the primary response teams and their alternatives.
+The frequency of testing should depend upon both the enterprise’s needs, the environment in which
+it operates, and stakeholder requirements. However, the testing program should be  flexible,
+considering the rate of change within the enterprise, and the outcome of previous one. The above
+exercise methods can be employed for individual plan components, and single and multiple plans.
+In case of Development of BCP, the objectives of performing BCP tests are to ensure that:
+♦     the recovery procedures are complete and workable.
+♦     the competence of personnel in their performance of recovery procedures can be evaluated.
+♦     the resources such as business processes, systems, personnel,  facilities, and data are
+       obtainable and operational to perform recovery processes.
+♦     the manual recovery procedures and its backup system(s) are current and can either be
+       operational or restored as needed.
+♦     the success or failure of the business continuity training program is monitored.
+BCM Maintenance
+It is important to keep preparations, including documentation, up to date. Contracts and agreements
+may also need to reflect the changes. If additional equipment is needed, it must be maintained and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+5.22           DIGITAL ECOSYSTEM AND CONTROLS
+
+periodically replaced when it is no longer dependable or no longer fits the organization's architecture.
+The BCM  maintenance  process  demonstrate  the  documented  evidence  of  the  proactive
+management and governance of the enterprise’s business continuity program; the key people who
+are to implement the BCM strategy and plans are trained and competent; the monitoring and control
+of the BCM risks faced by the enterprise; and the evidence that material changes to the enterprise’s
+structure, products and services, activities, purpose, staff and objectives have been incorporated
+into the enterprise’s business continuity and incident management plans.
+Similarly, the maintenance tasks undertaken in the development of BCP are to:
+♦    determine the ownership and responsibility for maintaining the various BCP strategies within
+       the enterprise.
+♦     identify the BCP maintenance triggers to ensure that any organizational, operational, and
+        structural changes are communicated to the personnel who are accountable for ensuring that
+       the plan remains up-to-date.
+♦    determine the maintenance regime to ensure the plan remains up-to-date.
+♦    determine the maintenance processes to update the plan; and
+♦    implement version control procedures to ensure that the plan is maintained and up to date.
+Reviewing BCM Arrangements
+A self-assessment of the enterprise’s BCM program should verify that:
+♦       all key products and services and their supporting critical activities and resources have been
+        identified and included in the enterprise’s BCM strategy.
+♦     enterprise’s BCM policy, strategies, framework and plans accurately reflect its priorities and
+      requirements (the enterprise’s objectives).
+♦     enterprise’ BCM competence and its BCM capability are effective and fit-for-purpose and will
+       permit management, command, control, and coordination of an incident.
+♦     enterprise’s BCM solutions are effective, up-to-date and fit-for-purpose, and appropriate to
+       the level of risk faced by the enterprise.
+♦     enterprise’s BCM maintenance and exercising programs have been effectively implemented.
+♦   BCM strategies and plans incorporate improvements identified during incidents and exercises
+      and in the maintenance program.
+♦     enterprise has an ongoing program for BCM training and awareness.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.23
+
+♦   BCM procedures have been effectively communicated to relevant staff, and that those staff
+      understand their roles and responsibilities.
+♦    change control processes are in place and operate effectively.
+Stage 5: BCM Training and Awareness
+Extensive trainings in BCM framework, incident management, business continuity and business
+recovery and restoration plans enable it to become part of the enterprise’s core values and provide
+confidence in all stakeholders in the ability of the enterprise to cope with minimum disruptions and
+loss of service.
+While  developing  the BCM,  the  competencies  necessary  for  personnel  assigned  specific
+management responsibilities within the system have been determined. These are consistent with
+the competencies required by the organization of the relevant role and are given as follows:
+♦     Actively listen to others, their ideas, views, and opinions.
+♦    Provides support in difficult or challenging circumstances.
+♦    Responds constructively to difficult circumstances.
+♦    Adapts leadership style appropriately to match the circumstances.
+♦    Promotes a positive culture of health, safety, and the environment.
+♦    Recognizes and acknowledges the contribution of colleagues.
+♦    Encourages the taking of calculated risks.
+♦    Encourages and actively responds to new ideas.
+♦    Consults and involves team members to resolve problems.
+♦    Demonstrates personal integrity; and
+♦    Challenges established ways of doing things to identify improvement opportunities.
+An enterprise with BCM uses training as a tool to initiate a culture of BCM in all the stakeholders by:
+♦     developing a BCM program more efficiently.
+♦     providing confidence in its stakeholders (especially staff and customers) in its ability to handle
+      business disruptions.
+♦     increasing its resilience over time by ensuring BCM implications are considered in decisions
+       at all levels.
+♦     minimizing the likelihood and impact of disruptions.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+5.24           DIGITAL ECOSYSTEM AND CONTROLS
+
+Development of a BCM culture is supported by:
+♦     leadership from senior personnel in the enterprise.
+♦    assignment of responsibilities.
+♦     raising awareness.
+♦      skills training.
+♦     exercising plans.
+
+    5.7  TYPES OF PLANS
+There are various kinds of plans that need to be designed. They include the following:
+5.7.1 Emergency Plan
+The emergency plan specifies the actions to be undertaken immediately when a disaster occurs.
+Management must identify those situations that require the plan to be invoked e.g., major fire, major
+structural damage, and terrorist attack. The actions to be initiated can vary depending on the nature
+of the disaster that occurs. If an enterprise undertakes a comprehensive security review program,
+the threat identification and exposure analysis phases involve identifying those situations that
+require the emergency plan to be invoked.
+When the situations that evoke the plan have been identified, four aspects of the emergency plan
+must be articulated. First, the plan must show ‘who is to be notified immediately when the disaster
+occurs - management, police, fire department, medicos, and so on’. Second, the plan must show
+actions to be undertaken, such as shutdown of equipment, removal of files, and termination of power.
+Third, any evacuation procedures required must be specified. Fourth, return procedures (e.g.,
+conditions that must be met before the site is considered safe) must be designated. In all cases, the
+personnel responsible for the actions must be identified, and the protocols to be followed must be
+specified clearly.
+5.7.2 Back-up Plan
+The backup plan specifies the type of backup to be kept, frequency with which backup is to be
+undertaken, procedures  for making backup, location  of backup resources,  site where these
+resources can be assembled and operations restarted, personnel who are responsible for gathering
+backup resources and restarting operations, priorities to be assigned to recovering the various
+systems, and a time frame for recovery of each system. For some resources, the procedures
+specified in the backup plan might be straightforward. For example, microcomputer users might be
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.25
+
+admonished to make backup copies of critical files and store them off site. In other cases, the
+procedures specified in the backup plan could be complex and somewhat uncertain. For example, it
+might be difficult to specify exactly how an organization’s mainframe facility will be recovered in the
+event of a fire.
+The backup plan needs continuous updating as changes occur. For example, as personnel with key
+responsibilities in executing the plan leave the organization, the plan must be modified accordingly.
+Indeed, it is prudent to have more than one person knowledgeable in a backup task in case someone
+is injured when a disaster occurs. Similarly, lists of hardware and software must be updated to reflect
+acquisitions and disposals.
+5.7.3 Recovery Plan
+The backup plan is intended to restore operations quickly so that information system function can
+continue to service an organization, whereas recovery plans set out procedures to restore  full
+information system capabilities. Recovery plan should identify a recovery committee that will be
+responsible for working out the specifics of the recovery to be undertaken. The plan should specify
+the responsibilities of the committee and provide guidelines on priorities to be followed. The plan
+might also indicate which applications are to be recovered first. Members of a recovery committee
+must understand their responsibilities. Again, the problem is that they will be required to undertake
+unfamiliar tasks. Periodically, they must review and practice executing their responsibilities so they
+are prepared should a disaster occur. If committee members leave the organization, new members
+must be appointed immediately and briefed about their responsibilities.
+5.7.4 Test Plan
+The final component of a disaster recovery plan is a test plan. The purpose of the test plan is to
+identify deficiencies in the emergency, backup, or recovery plans or in the preparedness of an
+organization and its personnel for facing a disaster.  It must enable a range of disasters to be
+simulated and specify the criteria by which the emergency, backup, and recovery plans can be
+deemed satisfactory. Periodically, test plans must be invoked. Unfortunately, top managers are often
+unwilling to carry out a test because daily operations are disrupted. They also fear a real disaster
+could arise as a result of the test procedures.
+To facilitate testing, a phased approach can be adopted. First, the disaster recovery plan can be
+tested by desk checking and inspection and walkthroughs, much like the validation procedures
+adopted for programs. Next, a disaster can be simulated at a convenient time-for example, during a
+slow period in the day. Anyone who will be affected by the test (e.g. personnel and customers) also
+might be given prior notice of the test so they are prepared. Finally, disasters could be simulated
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+5.26           DIGITAL ECOSYSTEM AND CONTROLS
+
+without warning at any time. These are the acid tests of the organization’s ability to recover from a
+catastrophe.
+
+    5.8  TYPES OF BACK-UPS
+Backups should be monitored frequently, and logs should be completed supporting such monitoring
+and successful completion of the backup. For example, each morning an IS operator should be
+responsible for checking his/her computer to confirm backup completion or identify any error
+messages displayed by the system that prevented the backup from completion. Additionally, system
+generated logs should be examined by IS operations personnel to identify files that might not have
+been backed up by the system. When exceptions to the backup process are identified, the IS
+operator should attempt to perform restart procedures to resolve them. If the operator is unable to
+do so, he/she should escalate the problem for resolution.
+When the back-ups are taken of the system and data together, they are called total system’s back-
+up. Various types of back-ups are given as follows:
+(i)     Full Backup: A Full Backup captures all files on the disk or within the folder selected for
+      backup. With a full backup system, every backup generation contains every file in the backup
+        set. At each backup run, all files designated in the backup job will be backed up again. This
+       includes files and folders that have not changed.
+           It  is commonly used as an  initial or  first backup followed with subsequent incremental
+       or differential backups. After several incremental or differential backups, it is common to start
+      over with a fresh full backup again. Some also like to do full backups for all backup runs
+        typically for smaller folders or projects that do not occupy too much storage space. The
+     Windows operating system lets us to copy a full backup on several DVD disks. Any good
+      backup plan has at least one full backup of a server.
+      Refer Table 5.2. Suppose a full backup job or task is to be done every night from Monday to
+       Friday. The first backup on Monday will contain the entire list of files and folders in the backup
+        job. On Tuesday, the backup will include copying all the files and folders again, no matter the
+         files have got changed or not. The cycle continues this way.
+                            Table 5.2: How does Full Backup work?
+       Day           Activities  performed  throughout   Full Back up at 9:00 pm at night
+                      the day
+       Monday     100 photos are stored on the system.  An image  file of 100 photos  is
+                                                               obtained.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.27
+
+        Tuesday     Another 100 photos are stored on the  An image  file of 200 photos  is
+                       system.                               obtained.
+       Wednesday   Deletion of any 10 photos out of 200  An image  file of 100 photos  is
+                      photos is done.                        obtained.
+        Thursday    No changes done.                An image  file of 100 photos  is
+                                                               obtained.
+         Friday       Another 200 photos are stored on the  An image  file of 300 photos  is
+                       system.                               obtained.
+        Conclusion  You get five backup  files containing 800 photos. Should a data loss
+                          incident occur and you need to recover all the photos, simply restore the
+                            last version to get all 800 photos.
+
+     Advantages
+    o  Restores are fast and easy to manage as the entire list of files and folders are in one
+         backup set.
+    o  Easy to maintain and restore different versions.
+      Disadvantages
+    o  Backups can take very long as each file is backed up again every time the full backup is
+            run.
+    o  Consumes the most storage space compared to incremental and differential backups.
+         The exact same files are stored repeatedly resulting in inefficient use of storage.
+(ii)    Incremental Backup: An Incremental Backup captures files that were created or changed
+       since the last backup, regardless of backup type. The last backup can be a full  backup  or
+       simply the last incremental backup. With incremental backups, one full backup is done first
+      and subsequent backup runs are just the changed files and new files added since the last
+      backup.
+      Refer Table 5.3. For example - Suppose an Incremental backup job or task is to be done
+      every night from Monday to Friday. This first backup on Monday will be a full backup since
+      no backups have been taken prior to this. However, on Tuesday, the incremental backup will
+       only backup the files that have changed since Monday and the backup on Wednesday will
+       include only the changes and new files since Tuesday’s backup. The cycle continues this
+      way.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+5.28           DIGITAL ECOSYSTEM AND CONTROLS
+
+                        Table 5.3: How does Incremental Backup work?
+       Day            Activities performed throughout        Incremental Back up
+                                   the day                      (At 9:00 pm at night)
+       Monday     100 photos are stored on the system  An image  file  of 100 photos  is
+                    and perform full backup.              obtained.
+        Tuesday     Another 100 photos are stored on  On    performing    incremental
+                        the system resulting to 200 photos in  backup,  an  image   file  of 100
+                              total.                              photos is obtained.
+       Wednesday  No changes are made.           On    performing    incremental
+                                                         backup, an empty image  file  is
+                                                              obtained.
+        Thursday    100 photos are deleted, and another  An image  file of only the edited
+                    100 photos are edited.             100 photos is obtained.
+        Conclusion  You get three image files containing 300 photos in total. In case you need
+                           to recover all the photos, restore all the image files since the last full
+                      backup, including the last full backup and the later incremental backups,
+                           to get 200 photos (including the deleted 100 photos).
+
+     Advantages
+    o  Much faster backups.
+    o   Efficient use of storage space as files is not duplicated. Much less storage space used
+         compared to running full backups and even differential backups.
+      Disadvantages
+    o  Restores are slower than with a full backup and differential backups.
+    o  Restores are a  little more complicated.  All backup sets  (first  full backup and  all
+           incremental backups) are needed to perform a restore.
+(iii)   Differential  Backup:  Differential  backups   fall  in  the  middle  between full  backups
+      and incremental backup. A Differential Backup stores files that have changed since the last
+         full backup. With differential backups, one full backup is done first and subsequent backup
+      runs are the changes made since the last full backup. Therefore, if a file is changed after the
+       previous full backup, a differential backup takes less time to complete than a full back up.
+      Comparing with full backup, differential backup is obviously faster and more economical in
+      using the backup space, as only the files that have changed since the last full backup are
+      saved.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.29
+
+      Restoring from a differential backup is a two-step operation: Restoring from the last  full
+      backup; and then restoring the appropriate differential backup. The downside to using
+        differential backup is that each differential backup probably includes files that were already
+       included in earlier differential backups.
+      Refer Table 5.4. For example - Suppose a differential backup job or task is to be done every
+       night from Monday to Friday. On Monday, the first backup will be a full backup since no prior
+      backups have been taken. On Tuesday, the differential backup will only backup the files that
+      have changed since Monday and any new files added to the backup folders. On Wednesday,
+       the files changed and files added since Monday’s full backup will be copied again. While
+      Wednesday’s backup does not include the files from the first full backup, it still contains the
+         files backed up on Tuesday.
+                        Table 5.4: How does Differential Backup work?
+      Day                 Activities performed                  Differential Back up
+                         throughout the day                                                                 (At 9:00 pm at night)
+      Monday     200  photos  are  stored on  the  An  image   file  of  200  photos   is
+                   system and perform full backup.    obtained.
+      Tuesday     Another 200 photos are stored on  On performing differential backup, an
+                      the system resulting to 400 photos  image file of newly added 200 photos
+                          in total.                                    is obtained.
+      Wednesday  No changes are made.         On performing differential backup on
+                                                              existing 400 backups, an image file of
+                                                    newly added 200 photos on Tuesday is
+                                                          obtained.
+      Thursday    100  photos  are  deleted,  and  Image files of 100 photos, 200 photos
+                     another 100 photos are  edited.  and 300 photos are obtained.
+                        (Total of 300 photos).
+      Conclusion  Recovering 100 photos: Both deletion and editing happen to the added
+                  200 photos. The differential backup will back up the edited 100 photos.
+                   Recovering 200 photos: If you delete 100 photos from the added photos
+                  and edit 100 photos from the original photos, the differential backup will
+                   back up the edited 100 photos and the 100 added photos (left after deletion).
+                   Recovering 300 photos: The differential backup will back up the edited 100
+                    photos and the added 200 photos.
+               When should you use differential backup?
+                    Small and medium-sized organizations that want to process large volumes
+                        of  valuable data  but cannot perform  constant backups  will  find  the
+                          differential backup method useful.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+5.30           DIGITAL ECOSYSTEM AND CONTROLS
+
+     Advantages
+    o  Much faster backups than full backups.
+    o  More efficient use of storage space than full backups since only files changed since the
+             last full backup will be copied on each differential backup run.
+    o   Faster restores than incremental backups.
+      Disadvantages
+    o  Backups are slower than incremental backups.
+    o  Not as efficient use of storage space as compared to incremental backups. All files added
+           or edited after the  initial  full backup will be duplicated again with each subsequent
+             differential backup.
+    o  Restores are slower than with full backups.
+    o  Restores are a little more complicated than full backups but simpler than incremental
+          backups. Only the full backup set and the last differential backup are needed to perform
+         a restore.
+      Refer Table 5.5 for Quick comparison between Full, Differential and Incremental Backups.
+                Table 5.5: Full vs Incremental vs Differential Backup: Quick Comparison
+                       FULL       INCREMENTAL       DIFFERENTIAL
+         Description    Copies the entire   Full   Backup   +   Full  Backup  +  Changes
+                       Data set         Changes since the  since the Full Backup
+                                             previous Backup
+       Backup time   Time-Consuming   Fast to Back Up     Faster       than       a
+                                                                            Full Backup but slower than
+                                                        an Incremental
+      Recovery time   Fast recovery      Slow recovery       Faster than Incremental but
+                                                                slower than Full Backup
+       Storage space   Requires   lot  of  Requires      less  Requires    less   storage
+                         storage space      storage space      space than a Full Backup,
+                                                                  but   more    than   an
+                                                                 Incremental
+      Bandwidth      Uses  a   lot   of  Uses          less  Uses less Bandwidth than a
+                       Bandwidth         Bandwidth            Full Backup, but more than
+                                                        an Incremental Backup
+
+(iv)   Mirror Backup: Mirror backups are, as the name suggests, a mirror of the source being
+      backed up. With mirror backups, when a file in the source is deleted, that file is eventually
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.31
+
+       also deleted in the mirror backup. Because of this, mirror backups should be used with
+       caution as a file that is deleted by accident, sabotage or through a virus may also cause that
+     same file in mirror to be deleted as well. Some do not consider a mirror to be a backup.
+      Indeed, a mirror backup is essentially identical to a full backup, differing only in the fact that
+       the files are not compressed into zip files, and there is no option to protect them with a
+      password. The primary purpose of a mirror backup is to generate an exact and uncompressed
+       replica of the backup data.
+      For example - Many online backup services offer a mirror backup with a 30 day delete. This
+     means that when you delete a file on your source, that file is kept on the storage server for
+       at least 30 days before it is eventually deleted. This helps strike a balance offering a level of
+       safety while not allowing the backups to keep growing since online storage can be relatively
+      expensive. Many backup software utilities do provide support for mirror backups.
+     Advantages
+    o  The backup is clean and does not contain old and obsolete files.
+      Disadvantages
+    o  There is a chance that files in the source deleted accidentally, by sabotage or through a
+            virus may also be deleted from the backup mirror.
+(v)   Cloud Backup: Cloud backups may offer the perfect and ideal scenario for the future
+       organization. With a cloud backup,  files are available everywhere and are no longer
+      dependent on any single computer or server, thereby allowing a quick and smooth restoring
+       of the data in the event of a disaster.
+     Advantages
+    o  Saves money on storage costs, and the ability to back up more frequently as well as
+          enjoy off-site, redundant storage of critical data.
+    o   Organizations can outsource cloud backup  services from  third-party  entities  that
+           specialize in data backup and protection.
+      Disadvantages
+    o    Speed plays a major role while information is being copied and stored by service
+              provider and the entire process may slow down as per new speed.
+    o    As the service is pay-per-usages basis, the cloud backup can be hafty for organization
+              with enormous data.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+5.32           DIGITAL ECOSYSTEM AND CONTROLS
+
+    5.9  ALTERNATE PROCESSING FACILITY ARRANGEMENTS
+Security administrators should consider the following backup options:
+♦    Cold Site:  If an organisation can tolerate some downtime, cold-site backup might be
+       appropriate. A cold site has all the facilities needed to install a mainframe system-raised
+        floors, air conditioning, power, communication lines, and so on. An organisation can establish
+         its own cold-site facility or enter into an agreement with another organisation to provide a
+       cold-site facility.
+♦    Hot Site: If fast recovery is critical, an organisation might need hot site backup. All hardware
+      and operations facilities will be available at the hot site. In some cases, software, data and
+       supplies might also be stored there. A hot site is expensive to maintain. They are usually
+      shared with other organisations that have hot-site needs.
+♦   Warm Site: A warm site provides an intermediate level of backup. It has all cold-site facilities
+        in addition to the hardware that might be difficult to obtain or install. For example, a warm site
+      might contain selected peripheral equipment plus a small mainframe with sufficient power to
+      handle critical applications in the short run.
+♦    Reciprocal Agreement: Two or more organisations might agree to provide backup facilities
+       to each other in the event of one suffering a disaster. This backup option is relatively cheap,
+       but each participant must maintain sufficient capacity to operate another’s critical system.
+If a third-party site is to be used for backup and recovery purposes, security administrators must
+ensure that a contract is written to cover issues such as -
+♦    how soon the site will be made available subsequent to a disaster;
+♦    determine the number of organizations that will be allowed to use the site concurrently in the
+      event of a disaster;
+♦     Establishing the priority assigned to concurrent users of the site in the event of a common
+       disaster;
+♦     the period during which the site can be used;
+♦     the conditions under which the site can be used;
+♦     the facilities and services the site provider agrees to make available; and
+♦    what controls will be in place and working at the off-site facility.
+These issues are often poorly specified in reciprocal agreements. Moreover, they can be difficult to
+enforce under a reciprocal agreement because of the informal nature of the agreement.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.33
+
+   5.10 DISASTER RECOVERY PROCEDURAL PLAN
+The disaster recovery planning document may include the following areas:
+♦    The conditions for activating the plans, which describe the process to be followed before each
+       plan, are activated.
+♦    Emergency procedures, which describe the actions to be taken following an incident which
+       jeopardizes business operations and/or human life. This should include arrangements for
+       public relations management and for effective liaisoning with appropriate public authorities
+       e.g. police, fire, services and local government.
+♦     Fallback procedures, which describe the actions to be taken to move essential business
+        activities or support services to alternate temporary locations, to bring business process back
+        into operation in the required time-scale.
+♦    Resumption procedures, which describe the actions to be taken to return to normal business
+       operations.
+♦   A maintenance schedule that outlines how and when the plan will be tested, as well as the
+      process for ongoing maintenance plan.
+♦    Awareness and education activities, which are designed to create an understanding of the
+      business continuity, process and ensure that the business continues to be effective.
+♦    The  responsibilities  of  individuals  describing who  is responsible  for executing which
+      component of the plan. Alternatives should be nominated as required.
+♦    Contingency plan document distribution list.
+♦     Detailed description of the purpose and scope of the plan.
+♦    Contingency plan testing and recovery procedure.
+♦      List of vendors doing business with the organization, their contact numbers and address for
+      emergency purposes.
+♦     Checklist for inventory taking and updating the contingency plan on a regular basis.
+♦      List of phone numbers of employees in the event of an emergency.
+♦    Emergency phone  list for fire, police, hardware, software, suppliers, customers, back-up
+       location, etc.
+♦    Medical procedure to be followed in case of injury.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+5.34           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦    Back-up location contractual agreement and correspondences.
+♦    Insurance papers and claim forms.
+♦    Primary  computer  centre  hardware,  software,  peripheral  equipment  and  software
+       configuration.
+♦     Location of data and program files, data dictionary, documentation manuals, source and
+       object codes and back-up media.
+♦     Alternate manual procedures to be followed such as preparation of invoices.
+♦   Names of employees trained for emergency situation, first aid and life saving techniques.
+♦     Details of airlines, hotels, and transport arrangements.
+
+SUMMARY
+To demonstrate responsiveness to business requirements and addressing the needs of all the
+stakeholders,  it is imperative to establish the BCM process in any enterprise. The advantages of
+having an effective business continuity process are numerous but the most important factor is the
+brand value and the reputation of the enterprise. Therefore, the management has to have adequate
+resource provision in terms of budget, skilled manpower, technology etc. to establish BCM process
+and lead the industry sector by providing uninterrupted continuous 24x7 operations to the external
+as well as internal customers.
+BCM identifies itself as a management approach by focusing on aligning an enterprise with its
+customers through the execution of processes. It enables the enterprises to be more efficient and
+effective by becoming a process-based enterprise.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+BUSINESS CONTINUITY PLANNING AND DISASTER             5.35
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.   ABC Ltd. carries out Fire drills in its company every 6 months whereby fire like situation is
+      simulated and the preparedness of the organization and its personnel for facing disaster is
+        verified. Under Business Continuity Management, which type of plan does this refer to?
+        (a)   Emergency Plan
+        (b)    Test Plan
+        (c)    Back-up Plan
+        (d)   Recovery Plan
+2.    Which of the following documents is not classified as being part of the Business Continuity
+     Management System?
+        (a)   The Risk Assessment Report
+        (b)    Incident Log
+        (c)    Local Authority Risk Register
+        (d)    Performance Analysis Report
+3.    Which of the following does not form part of the Business Continuity Management (BCM)
+      cycle?
+       (a)    Information Collection
+       (b)   Development and Implementation
+        (c)    Testing and Review
+       (d)    Recruiting
+4.    Which of the following statements is incorrect?
+       (a)   A Full Backup captures all files on the disk or within the folder selected for backup.
+       (b)   The Mirror backup is clean and does not contain old and obsolete files.
+        (c)    With differential backups, one full backup is done first and subsequent backup runs
+             are the changes made since the last full backup.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+5.36           DIGITAL ECOSYSTEM AND CONTROLS
+
+       (d)    Incremental Backup consumes the most storage space as compared to  full and
+                differential backups.
+5.   ABC Ltd. has installed LHJ Backup system whereby the data is backed up almost every
+      second from the live environment to the backup drive. Which type of back-up ABC Ltd. has
+      implemented?
+       (a)     Full Backup
+       (b)    Incremental Backup
+        (c)     Differential Backup
+       (d)    Mirror backup
+
+ANSWERS/SOLUTIONS
+     1.        (b)        2.        (d)        3.        (d)        4.        (d)        5.       (d)
+
+
+© The Institute of Chartered Accountants of India

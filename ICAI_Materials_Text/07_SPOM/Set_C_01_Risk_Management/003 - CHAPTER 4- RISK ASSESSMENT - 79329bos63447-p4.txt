@@ -1,0 +1,827 @@
+Source PDF: 07_SPOM/Set_C_01_Risk_Management/003 - CHAPTER 4- RISK ASSESSMENT - 79329bos63447-p4.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_01_Risk_Management\003 - CHAPTER 4- RISK ASSESSMENT - 79329bos63447-p4.pdf
+Extracted at: 2026-05-31T10:29:55+05:30
+Pages: 22
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          4
+
+
+RISK ASSESSMENT
+
+
+                       LEARNING OUTCOMES
+
+After going through the chapter student shall be able to understand:
+
+   Risk Identification
+
+   Risk Evaluation (Impact/Likelihood)
+
+   Risk Quantification & Ratings
+
+  RM Quantification Tools
+
+    Risk Prioritization & Heat Matrix
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+4.22.2            RISK MANAGEMENT
+
+ CHAPTER OVERVIEW
+
+
+                                              Risk Identification
+
+
+                                               Risk Evaluation
+                                                 (Impact/Likelihood)
+
+                                           Risk Quantification and
+                                                  Ratings                                                                                    ASSESSMENT
+                                  RISK
+                           RM Quantification Tools
+
+
+                                         Risk Prioritization and Heat
+                                                      Matrix
+
+     1.  RISK IDENTIFICATION
+1.1  Risk  identification  is  the  initial  step  in  the process  of  risk
+management
+Risk identification is the action or process of identifying some potential internal or external event,
+or threat or vulnerability or a fact that could cause damage to the entity or prevent it from achieving
+its objectives. It includes documenting the potential risks in the form of a risk questionnaire or risk
+register and communicating the risks to the executive management.
+Identifying risks involves recording potential risks either through a risk questionnaire or a risk
+register and conveying these risks to executive management. Effective risk identification relies on
+the risk management team's understanding of the business, industry, or sector in which the
+business operates, as well as the key management objectives or key performance indicators. A
+robust risk identification exercise hinges on creative thinking and utilizing indicators of potential
+problems. Approaches to risk identification can involve either a top-down exercise from senior to
+junior levels or vice versa, though empirical evidence suggests that top-down exercises tend to
+yield more favorable outcomes for businesses.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+RISK ASSESSMENT              4.32.3
+
+The process of risk identification entails determining which risks may impact the business or
+project and documenting their characteristics. Typically, participants in the identification process
+include business managers, project teams,  risk management teams, subject matter experts,
+customers, end users, other project stakeholders, and external experts.
+1.2  Risk identification sets out to identify an organisation’s exposure to
+uncertainty
+This exercise can be successfully executed if the risk management team has reasonable degree of
+business knowledge and related variables  in which the business operates. The various  risk
+variables include legal, social, community, political and other factors that impact the business
+model of the entity. The risk management project team should intimately understand the business
+strategy and the market place in which the entity operates. Further, the risk management team
+should undertake a Strength, Weakness, Opportunity and Threat assessment exercise so as to
+document the factors that could give rise to potential risks in future. The SWOT analysis exercise
+will  facilitate development of sound business knowledge and communication of key business
+weaknesses, threats and opportunities to seize in the risk management exercise.
+Following the Risk Identification process, the organization gains awareness of different risks and
+subsequently addresses them. It is imperative for the entity to establish objectives that align with
+sales,  production,  marketing,  financial, and  other  operational  activities  to ensure cohesive
+operations. Additionally, mechanisms need to be put in place to identify, analyze, and manage
+associated risks effectively.
+The entity identifies risks to the achievement of its objectives across the entity and analyses risks
+as a basis for determining how the risks should be managed. It:
+•     Involves appropriate levels of management;
+•     Includes entity, subsidiary division, operating unit, and functional levels;
+•     Analyzes internal and external factors;
+•     Estimates significance of risks identified;
+•     Determines how to respond to risks
+All above activities should be approached in a methodical manner so that any significant business
+activity or risk item is not missed out by the risk management project team. One of the best ways
+to identify risks is by flow-charting the key business processes and thereafter undertaking a “what
+can go wrong exercise”.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+4.42.4            RISK MANAGEMENT
+
+     2.  RISK EVALUATION (IMPACT/ LIKELIHOOD)
+Risk is evaluated by answering the above questions for various risk factors and assessing the
+probability of failure and the impact of exposure for each risk factor. Risk is the probability of
+impact of the exposure.
+The purpose of a risk evaluation is to:
+•      Identify the probabilities of failures and threats,
+•     Calculate the exposure, i.e., the damage or loss to assets, and
+•    Make control recommendations keeping the cost-benefit analysis in mind.
+2.1 Analysing the Level of Risk
+To analyse risks, we need to work out the likelihood of its happening (frequency or probability) and
+the consequences it would have (the impact) of the risks that are identified. This is referred to as
+the level of risk, and can be calculated using this formula:-
+Level of risk = consequence x likelihood
+Level of risk is often described as low, medium, high or very high. It should be analysed in relation
+to what is currently being done to control it. Control measures decrease the level of risk, but do not
+always eliminate it.
+2.2 Likelihood scale
+A risk analysis can be presented in the form a matrix, such as this:
+   Level   Likelihood    Description
+     4     Very likely    Happens more than once a year in the industry
+     3      Likely        Happens about once a year in the industry
+     2      Unlikely      Happens every 10 years or more in the industry
+     1     Very unlikely  Has only happened once in the industry
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+RISK ASSESSMENT              4.52.5
+
+Example
+For example an organization based on its turnover and other factors can categories level of risks it
+can face.
+  Level  Likelihood  Description
+ 4      Severe       Financial losses greater than ₹ 50 Crores
+ 3      High         Financial losses between ₹ 10 to 50 Crores
+ 2      Moderate     Financial losses between ₹ 1 Crore to 10 Crore
+ 1     Low          Financial losses less than 1 Crore
+
+After assessing the level of risk, the next step involves developing a rating table to assess each
+risk's  severity and determine  appropriate management  strategies. Assessing a  risk  entails
+determining its likelihood and potential impact.
+For instance, one might determine that the probability of a  fire is 'unlikely' (rated 2), yet the
+consequences are 'severe' (rated 4). By applying the provided tables and formula, the risk rating
+for a fire would be calculated as 8 (i.e., 2 multiplied by 4 equals 8).
+Risk rating
+Risk rating   Description   Risk Management Action
+   12-16     Severe       Needs immediate corrective action
+    8-12      High         Needs corrective action within 1 week
+    4-8      Moderate     Needs corrective action within 1-2 month
+    1-4      Low            Currently don’t require any corrective action on urgent basis.
+
+      3.   RISK QUANTIFICATION & RATINGS
+Risk quantification and ratings are essential components of risk management, whether in the
+context of financial, business, or other domains. They provide a systematic way to assess and
+communicate the level of risk associated with specific assets, activities, or investments.
+Risk Quantification is the process of evaluating and defining the cost and benefits associated with
+the risk consequences. For example historical share price data of public listed entities can be
+mined to make assessments of possible future price movements, in light of past fluctuations of the
+share price for the purpose of making an investment decision.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+4.62.6            RISK MANAGEMENT
+
+Quantifying risk enables organizations to prioritize and make informed decisions regarding risk
+management strategies. It also allows for better resource allocation and risk mitigation.
+Risk ratings are a way to express the level of risk in a standardized format, often through a scale
+or a set of categories. They help stakeholders quickly understand the relative risk associated with
+different assets or activities.
+Risk ratings are commonly used in credit risk assessment, investment analysis, and operational
+risk management. They provide a basis for decision-making and risk communication.
+In credit risk assessment, ratings are used to evaluate the likelihood of borrowers defaulting on
+their debt obligations. Credit rating agencies assign ratings to bonds, loans, and other financial
+instruments to inform investors and creditors.
+In operational risk management, risk ratings can be used to assess the potential impact and
+likelihood of events such as system failures, fraud, or supply chain disruptions.
+Investors often rely on risk ratings to evaluate the risk-return trade-off of various investments.
+Higher-rated assets typically offer lower returns but come with less risk, while lower-rated assets
+offer the potential for higher returns but with increased risk.
+Challenges
+•    One of the challenges  in  risk quantification and ratings  is the subjectivity involved  in
+       assigning numerical values or categories to risks. Different stakeholders may have varying
+       perceptions of risk.
+•     Overreliance on  historical  data and  assumptions  can  lead  to  inaccuracies  in  risk
+       quantification.
+•     Catastrophic events or black swan events that have not been previously observed can pose
+      challenges for risk quantification and ratings.
+In summary, risk quantification and ratings are crucial tools for understanding and managing risk in
+various domains. They provide a structured and standardized way to assess and communicate the
+level of  risk, enabling organizations and individuals to make informed decisions and allocate
+resources effectively. However, they should be used in conjunction with a deep understanding of
+the specific context and potential limitations of these methods.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+RISK ASSESSMENT              4.72.7
+
+      4. RISK QUANTIFICATION TOOLS
+Following are some of the tools and techniques that are available to assess and evaluate risks:
+4.1  Judgment and intuition
+In numerous scenarios, both management and auditors rely on their judgment and intuition to
+assess  risks.  This  heavily  relies on  the  collective  personal and  professional  expertise  of
+management and auditors, as well as their comprehension of the business, its systems, and its
+surroundings. Furthermore, a structured education and continuous professional development are
+essential requirements in this process.
+4.2  Delphi approach
+Originally developed by the Rand Corporation, the Delphi Technique  is employed to reach a
+consensus among experts. In this method, a panel of experts is selected, each providing their
+individual opinions in a written format. They assess factors such as costs, benefits, reasons for
+system selection, risks, and exposures. These assessments are collated, and those falling within a
+predetermined acceptable range are considered. The process may iterate up to four times to
+revise estimates outside the range. Subsequently, a curve is plotted using all estimates as points
+on a graph, with the median representing the consensus opinion.
+The Delphi method is an approach used in risk management, particularly in the context of risk
+assessment and forecasting.  It is a structured and iterative technique that involves experts or
+stakeholders providing their opinions and insights on various aspects of a specific topic, such as
+identifying and assessing risks.
+4.2.1 Steps Involved
+Following steps are involved in the applying Delphi approach:
+(a)  Expert Panel: A group of experts or knowledgeable individuals in the field of interest is
+selected. These experts can come from various backgrounds, including risk management, industry
+specialists, or subject matter experts.
+(b)  Structured Questionnaire: The process begins with a structured questionnaire or survey
+that is designed to gather opinions and insights from the experts. This questionnaire typically
+contains open-ended questions or statements related to the topic under consideration. In the
+context of risk management, these questions may pertain to identifying, assessing, or prioritizing
+risks.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+4.82.8            RISK MANAGEMENT
+
+(c)  Iterative Rounds: The Delphi method involves  multiple rounds  of data  collection and
+feedback. After receiving the responses to the  initial questionnaire, the facilitator compiles the
+results and anonymizes the feedback. The aggregated responses are then provided to the experts
+in the next round, along with any comments, arguments, or justifications provided by the experts in
+the previous round.
+(d)  Consensus Building: Experts are encouraged to review the collective feedback and,  if
+necessary, revise their responses in subsequent rounds. The process continues iteratively until a
+consensus or convergence of opinions is reached among the experts. The number of rounds can
+vary depending on the topic and the level of consensus achieved.
+(e)  Anonymity: Anonymity  is a key feature of the Delphi method. Experts do not know the
+identities of the other participants, which can help reduce bias and social influence  in  their
+responses.
+(f)   Final Report: Once consensus is reached or the predefined stopping criteria are met, a final
+report is generated, summarizing the findings, the degree of consensus, and any areas of ongoing
+disagreement or uncertainty.
+4.2.2 Benefits
+The Delphi approach in risk management has several benefits:
+(i)   Expert Opinion:  It leverages the knowledge and expertise of a diverse group of experts,
+which can lead to a more comprehensive and well-informed risk assessment.
+(ii)  Structured Process: The Delphi method provides a structured process for gathering and
+refining expert opinions, reducing the influence of individual biases and preconceptions.
+(iii) Anonymity: Anonymity can encourage experts to express their opinions freely, particularly
+when dealing with contentious or sensitive risk issues.
+(iv) Consensus Building: By seeking consensus, the Delphi method helps in identifying areas of
+agreement and disagreement among experts.
+The Delphi method is especially useful when dealing with complex or uncertain risk scenarios, as it
+can help in systematically exploring and understanding the diverse perspectives of experts.  It is
+often used in various fields of risk management, including strategic risk assessment, technology
+risk analysis, and environmental risk assessment, among others.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+RISK ASSESSMENT              4.92.9
+
+4.3  Scoring
+The Scoring approach involves identifying risks within the business and system, along with their
+respective exposures. We then assign weights to these risks and exposures based on severity,
+likelihood of occurrence, and associated costs. Multiplying the risk weight by the exposure weight
+for each characteristic yields the weighted score. Adding these weighted scores together provides
+the overall risk and exposure score for the system. Subsequently, the system's risk and exposure
+are ranked based on these scores.
+4.4  Quantitative techniques
+These techniques  involve  the  calculation  of an annual  loss exposure value based on  the
+probability of the event and the exposure in terms of estimated costs. This helps the organization
+to select cost effective solutions.  It  is the assessment of potential damage  in the event of
+occurrence of unfavorable events, keeping in mind how often such an event may occur.
+4.5  Qualitative techniques
+These techniques are most widely used approaches to  risk analysis. Probability data  is not
+required and only estimated potential loss is used. Most qualitative risk analysis methodologies
+use a number of interrelated elements:
+•     Threats: These are things that can go wrong or that can 'attack' the system. Examples
+      might include fire or fraud. Threats are ever present for every system.
+•      Vulnerabilities: These make a system more prone to attack by a threat or make an attack
+     more likely to have some success or impact. For example, for fire, vulnerability would be the
+      presence of inflammable materials (e.g. Paper).
+•      Controls: These are the countermeasures for vulnerabilities. They are of four types:
+          (i)     Deterrent controls reduce the likelihood of a deliberate attack.
+           (ii)    Preventative controls protect vulnerabilities and make an attack unsuccessful or
+            reduce its impact.
+           (iii)    Corrective controls reduce the effect of an attack.
+         (iv)    Detective controls discover attacks and trigger preventative or corrective controls.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+4.102.10           RISK MANAGEMENT
+
+4.6  Expected Monetary Value
+Expected monetary value, a technique  for quantifying  risk,  is determined by multiplying two
+factors:
+•    The likelihood of the risk event occurring, which is an estimation of its probability.
+•    The potential impact of the risk event, which is an estimation of the financial gain or loss
+      associated with its occurrence.
+It is crucial that the assessment of risk event value considers both tangible and intangible aspects.
+For instance,  if Project A anticipates minimal intangible effects while Project B foresees potential
+consequences leading to the organization's insolvency, these risks cannot be considered equal.
+Similarly, neglecting to account for intangibles can skew results significantly, such as equating a
+small loss with a high probability to a substantial loss with a low probability. Expected monetary
+value is commonly utilized as input for further analyses, such as decision tree modelling, as risk
+events may unfold individually, concurrently, or sequentially.
+4.7  Simulation
+Simulation uses a representation or model of a system to analyze the behaviour or performance of
+the system. The most common form of simulation on a project is schedule simulation using the
+project network as the model of the project. Most schedule simulations are based on some form of
+Monte Carlo analysis. This technique, adapted from general management, "performs" the project
+many times to provide a statistical distribution of the calculated results.
+Simulation techniques are widely used in risk management to assess and analyze the potential
+outcomes of uncertain events, decisions, or scenarios. These techniques involve creating models
+that replicate real-world situations and repeatedly running these models to estimate the likelihood
+and impact of different risk factors. Simulation in risk management can be particularly valuable in
+understanding and preparing for the potential consequences of risks.
+Monte Carlo simulation is a widely used technique that generates random variables for uncertain
+parameters within a model. It performs thousands or even millions of iterations to calculate a range
+of possible outcomes.
+It is used to assess financial risks, project risks, and any scenario with uncertain variables. For
+example, it's commonly employed in portfolio risk assessment for investment decisions.
+Monte Carlo simulation ties together sensitivities and probability distributions. The method came
+out of the work of first nuclear bomb and was so named because it was based on mathematics of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+RISK ASSESSMENT             4.112.11
+
+Casino gambling. Fundamental appeal of this analysis is that  it provides decision makers with a
+probability distribution of NPVs rather than a single point estimates of the expected NPV.
+This analysis starts with carrying out a simulation exercise to model the investment project.  It
+involves identifying the key factors affecting the project and their inter relationships.  It involves
+modelling of cash flows to reveal the key factors influencing both cash receipt and payments and
+their inter relationship.
+4.7.1 Steps for Simulation Analysis
+Following steps are involved in Simulation Analysis
+1.     Modelling the project: The model shows the relationship of NPV with parameters and
+      exogenous variables. (Parameters are input variables specified by decision maker and held
+      constant over  all simulation runs. Exogenous variables are input variables, which are
+       stochastic in nature and outside the control of the decision maker).
+2.     Specify values of parameters and probability distributions of exogenous variables.
+3.     Select a value at random from probability distribution of each of the exogenous variables.
+4.    Determine NPV corresponding to the randomly generated value of exogenous variables and
+       pre-specified parameter variables.
+5.    Repeat steps (3) & (4) a large number of times to get a large number of simulated NPVs.
+6.     Plot probability distribution of NPVs and compute a mean and Standard Deviation of returns
+       to gauge the project’s level of risk.
+4.7.2 Advantages of Simulation Analysis
+Advantages of Simulation Analysis are as follows:
+(1)   We can predict all type of bad market situation beforehand.
+(2)   Handle problems characterised by:
+        (a)   Numerous exogenous variables following any kind of distribution.
+       (b)   Complex   inter-relationships  among  parameters,  exogenous   variables  and
+           endogenous variables. Such problems defy capabilities of analytical methods.
+        (c)   Compels  decision  maker  to  explicitly  consider  the  inter-dependencies  and
+              uncertainties featuring the project.
+4.7.3 Shortcomings of Simulation Analysis
+Shortcomings of Simulation Analysis are as follows:
+(a)     Difficult to model the project and specify probability distribution of exogenous variables.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+4.122.12           RISK MANAGEMENT
+
+(b)    Simulation is inherently imprecise. Provides rough approximation of probability distribution
+       of NPV Due to its imprecision, simulation probability distribution may be misleading when a
+         tail of distribution is critical.
+(c)    Realistic simulation model being likely to be complex would probably be constructed by
+     management expert and not by the decision maker. Decision maker lacking understanding
+       of the model may not use it.
+(d)    Determine NPV in simulation run, risk free discount rate is used.  It is done to avoid pre-
+       judging risk, which is reflected in the dispersion of the distribution of N.P.V. This derived
+      measure of NPV takes a different meaning from its original value, and, therefore, is difficult
+       to interpret.
+4.8  Decision Tree
+Decision Tree is a diagram that depicts key interactions among decisions and associated chance
+events as they are understood by the decision maker. The branches of the tree represent either
+decisions (shown as boxes) or chance events (shown as circles).
+Information relating to the probability of occurrence of the forecasted value is considered useful. A
+range of values of the variable with probabilities of occurrence of each value is taken up. The
+limitations are reduced through decision tree analysis and use of simulation techniques.
+In decision tree analysis, the decision is taken sequentially with probabilities attached to each
+sequence. To obtain the probability of final outcome, various sequential decisions given along with
+probabilities, the probability of each sequence is to be multiplied and them summed up.
+4.8.1 Steps involved in Decision Tree analysis
+Following steps are involved as follows:
+(i)   Step 1- Define Investment: Decision tree analysis can be applied to a variety of business
+decision-making scenarios. Normally it includes following types of decisions.
+•     Whether or not to launch a new product, if so, whether this launch should be local, national,
+       or international.
+•     Whether extra production requirement should be met by extending the factory or by
+       outsourcing it to an external supplier.
+•     Whether to dig for oil or not if so, upto what height and continue to dig even after finding no
+         oil upto a certain depth.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+RISK ASSESSMENT             4.132.13
+
+(ii)  Step 2- Identification of Decision Alternatives: It is very essential to clearly identity decision
+alternatives. For example,  if a company is planning to introduce a new product,  it may be local
+launch, national launch or international launch.
+(iii)  Step 3- Drawing a Decision Tree:  After identifying decision alternatives, at the relevant data
+such as the projected cash flows, probability distribution expected present value etc. should be put
+in diagrammatic form called decision tree.
+While drawing a decision tree, it should be noted that NPVs etc. should be placed on the branches
+of decision tree, coming out of the decisions identified.
+While drawing a decision tree, it should be noted that the:-
+•    The decision point (traditionally represented by square) is the option available for manager
+       to take or not to take - in other words action at these points.
+•    The event or chance or outcome (traditionally represented by circle) which are dependent
+      on chance process, along with the probabilities thereof, and monetary value associated with
+      them.
+•     This diagram is drawn from left to right.
+Step 4- Evaluating the Alternatives: After drawing out the decision the next step is the evaluation
+of alternatives. The various alternatives can be evaluated as follows:
+(i)     This procedure is carried out from the last decision in the sequence (extreme right) and
+      goes on working back to the first (left) for each of the possible decision.
+(ii)    At each final stage decision point, select the alternative which has the highest NPV and
+       truncate the other alternatives. Each decision point is assigned a value equal to the NPV of
+       the alternative selected at the decision point.
+(iii)   Proceed backward in the same manner calculating the NPV at chance or event or outcome
+       points (    ) selecting the decisions alternative which has highest NPV at various decision
+       points [    ] rejecting the inferior decision option, assigning NPV to the decision point, till the
+         first decision point is  reached.
+In Capital Budgeting, the decision taker has to identify and find out the various alternatives
+available to an investment decision. By drawing a decision tree, the alternatives are highlighted
+through a diagram, giving the range of possible outcomes. The stages set for drawing a decision
+tree is based on the following rules.
+1.        It begins with a decision point, also known as decision node, represented by a rectangle
+       while the outcome point, also known as chance node, denoted by a circle.
+2.     Decision alternatives are shown by a straight line starting from the decision node.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+4.142.14           RISK MANAGEMENT
+
+3.    The Decision Tree Diagram is drawn from left to right. Rectangles and circles have to be
+       sequentially numbered.
+4.    Values and Probabilities for each branch are to be incorporated next.
+The Value of each circle and each rectangle is computed by evaluating from right to left. This
+procedure is carried out from the last decision in the sequence and goes on working back to the
+first for each of the possible decisions. The following rules have been set for such evaluation.
+(a)   The expected monetary value (EMV) at the chance node with branches emanating from a
+        circle is the aggregate of the expected values of the various branches that emanate from
+       the chance node.
+(b)   The expected value at a decision node with branches emanating from a rectangle is the
+       highest amongst the expected values of the various branches that emanate from the
+       decision node.
+                                       1                   Decision node                              X
+                      2                        2                2 and 3                 Chance node                              Y
+                                       X,Y and Z                    Possible Outcomes                                Z
+   1
+
+                        3                        3
+
+
+Example
+L & R Limited wishes to develop new virus-cleaner software. The cost of the pilot project would be
+` 2,40,000. Presently, the chances of the product being successfully launched on a commercial
+scale are rated at 50%. In case it does succeed. L&R can invest a sum of ` 20 lacs to market the
+product. Such an effort can generate perpetually, an annual net after tax cash income of ` 4 lacs.
+Even if the commercial launch fails, they can make an investment of a smaller amount of ` 12 lacs
+with the hope of gaining perpetually a sum of ` 1 lac. Evaluate the proposal, adopting decision
+tree approach. The discount rate is 10%.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+RISK ASSESSMENT             4.152.15
+
+Solution
+Decision tree diagram is given below:
+
+
+Evaluation
+At Decision Point A: Decision is to be taken based on preferences between two alternatives. The
+first is to test, by investing ` 2,40,000 and reap a benefit of ` 10 lacs. The second is not to test,
+and thereby losing the opportunity of a possible gain.
+At Outcome Point B: Evaluation of EMV is as under (` in lacs).
+  Outcome             Amount (`)            Probability         Result (`)
+
+  Success                     20.00                  0.50                10.00
+
+   Failure                       0.00                  0.50                00.00
+
+  Net result                                                              10.00
+
+EMV at B is, therefore, `10 lacs.
+At Decision Point C: The choice is between investing ` 20 lacs for a perpetual benefit of ` 4 lacs
+and not to invest. The preferred choice is to invest, since the capitalized value of benefit of ` 4
+lacs (at 10%) adjusted for the investment of ` 20 lacs, yields a net benefit of ` 20 lacs.
+At Decision Point D: The choice is between investing ` 12 lacs, for a similar perpetual benefit of
+ ` 1 lac. and not to invest. Here the invested amount is greater than capitalized value of benefit at
+` 10 lacs. There is a negative benefit of ` 2 lacs. Therefore, it would not be prudent to invest.
+The preferred choice is, therefore, investing a sum of ` 2,40,000 and undertaking the test.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+4.162.16           RISK MANAGEMENT
+
+4.9  Expert Judgement
+It can often be applied in lieu of or in addition to the mathematical techniques described above. For
+example,  risk events could be described as having a  high, medium,  or low  probability  of
+occurrence and a severe, moderate, or limited impact.
+4.10 Frequency of Loss measures
+It quantifies the frequency of occurrences of losses within a specific timeframe. Utilizing historical
+data enables predictions to be made regarding future occurrences. An instance of such frequency
+is represented by an accounts  receivable reserve account. For  instance,   if your company
+experienced a 3.5% loss due to uncollectible accounts receivable over the past two years, this
+estimate would be applied for the current year.
+4.11 Scenario Analysis
+Utilize scenario analysis to evaluate the risk associated with potential downturns in real estate or
+other asset values, as well as fluctuations in interest rates or other market variables. Through
+scenario analysis, you analyze the potential effects of different scenarios on the business. For
+instance, consider a company with a variable interest rate line of credit. By employing scenario
+analysis, you can assess the company's risk of default if the interest rate were to increase by three
+percentage points over the course of the year.
+Scenario analysis involves constructing various scenarios and assessing  their likelihood and
+impact. These scenarios are often based on different assumptions and variables. It is useful in risk
+management for strategic planning and decision-making. It helps identify potential risks associated
+with different future scenarios.
+The analysis commences by establishing the base case, which represents the most probable
+values for input variables. Subsequently,  it explores the worst-case scenario, characterized by
+factors such as low unit sales, sale price, and high variable costs. Conversely, it also examines the
+best-case scenario, featuring high unit sales, sale price, and low variable costs. Alternatively,
+scenario analysis offers the  flexibility to adjust certain factors positively while altering others
+negatively to assess various potential outcomes.
+So, in a nutshell Scenario analysis examine the risk of investment, to analyse the impact of
+alternative combinations of variables, on the project’s NPV (or IRR).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+RISK ASSESSMENT             4.172.17
+
+Example
+XYZ Ltd. is considering a project “A” with an initial outlay of ` 14,00,000 and the possible three
+cash inflow attached with the project as follows:
+
+   Particulars           Year 1                 Year 2                Year 3
+   Worst case            450                   400                  700
+   Most likely             550                   450                  800
+    Best case             650                   500                  900
+Assuming the cost of capital as 9%, determine NPV in each scenario. If XYZ Ltd is certain about
+the most likely result in first two years but uncertain about the third year’s cash flow, analyze what
+will be the NPV expecting worst scenario in the third year.
+Solution
+The possible outcomes will be as follows:
+ Year   PVF        Worst Case           Most likely             Best case
+    @ 9%                Cash       PV       Cash      PV      Cash      PV
+                 Flow                  Flow                Flow
+                   (` ‘000)      (` ‘000)     (` ‘000)     (` ‘000)     (` ‘000)     (` ‘000)
+   0      1       (1,400)       (1,400)      (1,400)      (1,400)      (1,400)      (1,400)
+   1     0.917      450        412.65       550       504.35      650       596.05
+   2     0.842      400        336.80       450       378.90      500       421.00
+   3     0.772      700        540.40       800       617.60      900       694.80
+ NPV                          -110.15                 100.85                 311.85
+If XYZ Ltd. is certain about the most likely result in first two years but uncertain about the third
+year’s cash flow, then, NPV expecting worst case scenario is expected in the third year will be as
+follows:
+                   ` 5,50,000  ` 4,50,000  ` 7,00,000    = − ₹ 14,00,000 +      +           2 +           3                          (1+0.09)    (1+0.09)     (1+0.09)
+     = − ₹ 14,00,000 + ₹ 5,04,587 + ₹ 3,78,756 + ₹ 5,40,528 = ₹ 23,871
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+4.182.18           RISK MANAGEMENT
+
+Scenario Analysis Vs. Sensitivity Analysis
+Sensitivity analysis and Scenario analysis both help to understand the impact of the change in
+input variable on the outcome of the project. However, there are certain basic differences between
+the two.
+Sensitivity analysis calculates the impact of the change of a single input variable on the outcome
+of the project viz., NPV or IRR. The sensitivity analysis thus enables to identify that single critical
+variable which can impact the outcome in a huge way and the range of outcomes of the project
+given the change in the input variable.
+Scenario analysis, on the other hand, is based on a scenario. The scenario may be recession or a
+boom wherein depending on the scenario, all input variables change. Scenario Analysis calculates
+the outcome  of  the  project  considering  this  scenario where  the  variables have changed
+simultaneously. Similarly, the outcome of the project would also be considered for the normal and
+recessionary situation. The variability in the outcome under the three different scenarios would
+help the management to assess the risk a project carries. Higher deviation in the outcome can be
+assessed as higher risk and lower to medium deviation can be assessed accordingly.
+Scenario analysis is far more complex than sensitivity analysis because in scenario analysis all
+inputs are changed simultaneously, considering the situation in hand while in sensitivity analysis,
+only one input is changed, and others are kept constant.
+
+      5.   RISK PRIORITIZATION & RISK MATRIX
+Once risks have been identified, analyzed, and assessed, the subsequent phase entails prioritizing
+them based on  their  significance.  Successful  risk management  hinges on  the  meticulous
+examination and ranking of risk factors utilizing probabilistic models, which directly correlate with
+the potential impact of each risk. Similarly, prioritizing stakeholders according to their authority,
+level of involvement, and exposure to risk threats  is imperative. This comprehensive analysis
+serves as valuable input for crafting a risk mitigation strategy, ensuring that adequate resources
+and attention are allocated to stakeholders facing or presenting the highest project risks.
+A "Risk matrix" or "Heat map" in risk management is a visual representation of risks and their
+attributes, typically using a matrix or grid format.  It's a tool that helps organizations assess,
+prioritize, and communicate risks effectively.
+The heat matrix is often used to evaluate and compare risks based on two main dimensions: the
+impact and likelihood of each risk event.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+RISK ASSESSMENT             4.192.19
+
+
+           Extreme     5          10         15         20         25
+             High      4          8          12         16         20
+           Impact          Medium     3          6          9          12         15
+           Low      2          4          6          8         10                Potential            Negligible    1          2          3          4          5
+
+                     Remote   Unlikely    Possible      Likely     Probable
+                    0-10%    >10-25%   >25-30%   >50-90%   >90-100%Likelihood
+
+                                Quantitative Risk Heat Map
+Impact: This dimension represents the potential consequences or severity of a risk event if it were
+to occur. Impact can be categorized as low, medium, or high, or  it can use a numerical scale to
+quantify the extent of damage or loss. The greater the impact , the more significant the potential
+harm or negative outcome.
+Likelihood: This dimension represents the probability or likelihood of the risk event occurring.
+Likelihood  is  often categorized as  rare, occasional, frequent, or can be quantified using a
+probability scale. Higher likelihood means a higher chance of the risk event occurring.
+The risk matrix is typically displayed as a grid with impact categories on one axis and likelihood
+categories on the other. This creates a matrix with various  cells, each corresponding  to a
+combination of impact and likelihood.
+Risks are assessed and placed in the matrix based on their estimated impact and likelihood. For
+example, a risk with high impact and high likelihood would be positioned differently in the matrix
+compared to a risk with low impact and low likelihood.
+The  matrix  is  usually color-coded  to  create a heat map  that  visually  represents  the  risk
+assessment.
+The heat map uses colors to indicate the level of risk. For example, risks with a high combination
+of impact and likelihood might be represented in “Red”, indicating a high level of risk.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+4.202.20           RISK MANAGEMENT
+
+Risks with lower combinations could be shown in "cooler" colors like Green, indicating lower risk.
+It's important to note that the specific categories, colors, and terminology used in a heat matrix can
+vary from one organization to another. Customization is common to align with an organization's
+unique risk management objectives and risk tolerance.
+The heat map helps organizations prioritize risks.
+Risks in the high-impact, high-likelihood quadrant are typically considered the most critical and
+require immediate attention and risk mitigation efforts. Risks in other quadrants are managed
+differently, with a focus on reducing their impact or likelihood.
+5.1  Benefits of Risk Heat Map/ Risk Matrix
+The risk heat matrix or heat map is a valuable risk management tool because:
+•         It provides a  clear, visual representation  of the  risk landscape, making   it easier  for
+      stakeholders to understand and discuss risks.
+•         It  assists  organizations  in  concentrating  their  risk management  efforts on  the most
+        significant risks.
+•         It facilitates risk communication and decision-making by presenting risks in a standardized,
+       visual format.
+5.2  Flaws of Risk Heat Map/ Risk Matrix
+Risk matrix suffers from serious flaws some of which are as follows:
+•     They are qualitative and subjective, and definition of “High”, “Medium” and “Low” may mean
+        different things to different industry.
+•     They are typically presented as symmetric about the diagonal, which is often invalid.
+•     They do not account for risk aversion, which is manifested by almost every entity in making
+       decisions.
+•    The breadth of the categories may result in serious prioritization errors.
+Heat maps are a way of representing the resulting qualitative evaluations of the probability of risk
+occurrence and the impact on the organisation if that a particular risk is experienced.
+Many organisations map risks on a heat map using a “residual risk” basis. This considers only the
+remaining risk after mitigation strategies such as internal controls or other risk responses activities.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+RISK ASSESSMENT             4.212.21
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    One of the best ways to identify risks is by flow-charting the key business processes and
+       thereafter undertaking a “…………..”.
+        (a)    probability analysis
+        (b)    what can be best exercise
+        (c)    what can go wrong exercise
+        (d)     sensitivity analysis
+2.     Risk that happens more than once a year in the industry on the likelihood scale falls in the
+    Level…………
+        (a)   1
+        (b)   2
+        (c)    3
+        (d)   4
+3.     Risk that happens every 10 years or more in the industry on the likelihood scale falls in the
+    Level…………
+        (a)   1
+       (b)   2
+        (c)    3
+       (d)   4
+4.    Which of the following risk Needs corrective action within 1 week?
+       (a)    having risk rating of 1-4.
+       (b)    having risk rating of 4-8.
+        (c)    having risk rating of 8-12.
+       (d)    having risk rating of 12-16.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+4.222.22           RISK MANAGEMENT
+
+5.    Which  of the following Risk Quantification  tool was  originally developed by the Rand
+      Corporation?
+       (a)   Judgment and intuition
+       (b)    Delphi approach
+        (c)    Scoring
+       (d)    Simulation
+Answers to Multiple Choice Questions:
+
+    1.        (c)        2.        (d)        3.        (b)        4.        (c)        5.        (b)
+
+
+© The Institute of Chartered Accountants of India

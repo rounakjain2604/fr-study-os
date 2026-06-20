@@ -1,0 +1,644 @@
+
+
+====================== PAGE 1 ======================
+
+PAPER 2
+
+# FINAL COURSE STUDY MATERIAL GROUP-I
+
+# ADVANCED FINANCIAL MANAGEMENT
+
+![img-0.jpeg](img-0.jpeg)
+
+## Board of Studies (Academic)
+## The Institute of Chartered Accountants of India
+*(Set up by an Act of Parliament)*
+
+www.icai.org
+https://boslive.icai.org
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 2 ======================
+
+11
+
+This Study Material has been prepared by the faculty of the Board of Studies (Academic). The objective of the Study Material is to provide teaching material to the students to enable them to obtain knowledge in the subject. In case students need any clarification or have any suggestion for further improvement of the material contained herein, they may write to the Director of Studies.
+
+All care has been taken to provide interpretations and discussions in a manner useful for the students. However, the Study Material has not been specifically discussed by the Council of the Institute or any of its committees and the views expressed herein may not be taken to necessarily represent the views of the Council or any of its Committees.
+
+Permission of the Institute is essential for reproduction of any portion of this material.
+
+## © THE INSTITUTE OF CHARTERED ACCOUNTANTS OF INDIA
+
+All rights reserved. No part of this book may be reproduced, stored in a retrieval system, or transmitted, in any form, or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior permission, in writing, from the publisher.
+
+Basic draft of this publication was prepared by CA. Vandana D Nagpal.
+
+Edition : April, 2023
+Committee/Department : Board of Studies (Academic)
+E-mail : bosnoida@icai.in
+Website : www.icai.org
+Price : ₹ 615 /-
+ISBN No. : 978-81-19472-07-9
+Published by : The Publication & CDS Directorate on behalf of The Institute of Chartered Accountants of India, ICAI Bhawan, Post Box No. 7100, Indraprastha Marg, New Delhi 110 002 (India)
+Printed by :
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 3 ======================
+
+iii
+
+# BEFORE WE BEGIN...
+
+The contents of the study material for the paper Advanced Financial Management have been designed and developed by the Board of Studies (Academic), ICAI with an objective to synchronize the syllabus with the International Education Standards (IESs) to instill and enhance the necessary pre-requisites for becoming a well-rounded, competent, and globally competitive Accounting Professional.
+
+This study material also lays emphasis on National Education Policy 2020 (NEP 2020) initiatives like conceptual clarity rather than rote learning and new pedagogical and curriculum restructuring based on the use of technology while teaching.
+
+The liberalization and globalization of our economic policies need to be compatible with the global changes and converged to bring in various important developments taking place in the field of finance. The topic of finance has acquired critical significance now-a-days, due to recent surge in massive cross border flow of capital. The study of this subject opens new opportunities for Chartered Accountancy students. The paper stresses the importance of applying the knowledge and techniques of financial management to planning, operating and monitoring of the finance function in particular as well as the organization in general.
+
+Keeping in view the dynamic nature of the paper the students are required to refer academic updates in 'Students Journal' published by the Board of Studies, the monthly journal 'The Chartered Accountant', and at least one financial newspaper such as Economic Times, Mint, Business Line, Financial Chronicle and Business Standards on daily basis. This will help the students to keep them updated about the latest developments taking place in the economy as well as well globally. Not only that students are also advised to refer to the Supplement contents related to the paper being hosted on ICAI Website on regular basis.
+
+# Requirement of Professional Knowledge and Skills
+
+After Intermediate Level and before appearing in Final Level, you are expected to not only acquire professional knowledge but also the ability to apply such knowledge in addressing issues and solving practical problems. The integrated process of learning through academic education and practical training with help you to inculcate the requisite technical competence, professional skills and professional values, ethics and attitudes necessary for achieving the desired level of professional competence.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 4 ======================
+
+iv
+
+# Framework of Chapters – Uniform Structure comprising of specific components
+
+Efforts have been made to present the contents in a lucid manner. Care has been taken to present the chapters in a logical sequence to facilitate easy understanding by the students.
+
+Each chapter of the Study Material has been structured uniformly comprising of the following components:
+
+|   | Components of each Chapter | About the component  |
+| --- | --- | --- |
+|  1. | Learning Outcomes | Learning outcomes which you need to demonstrate after learning each topic have been detailed in the first page of each chapter. Demonstration of these learning outcomes would help you to achieve the desired level of technical competence  |
+|  2. | Content | The concepts and contents of Advanced Financial Management are explained in student-friendly manner.  |
+|  3. | Test Your Knowledge | The exercise questions and answers would help you to understand the topics covered in the paper and apply the same in problem solving, thus, sharpening your application skills.  |
+
+For the benefits of the students in the Appendix of the Study Module, following tables have been incorporated:
+
+(i) Exponential (e power) Value Table
+(ii) Natural Log Table with base e
+(iii) Area Under Normal Curve
+
+We hope that these student-friendly features in the Study Material makes your learning process more enjoyable, enriches your knowledge and sharpens your application and Interpretational skills.
+
+Happy Reading and Best Wishes!
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 5 ======================
+
+V
+
+# SYLLABUS
+
+## PAPER 2: ADVANCED FINANCIAL MANAGEMENT
+
+(One paper – Three hours – 100 marks)
+
+**Objective:**
+
+To acquire the ability to apply financial management theories and techniques in strategic decision making.
+
+**Contents:**
+
+**Section I**
+
+**(1) Financial Policy and Corporate Strategy**
+
+(i) Advanced role of CFO in various matters including Value Creation
+(ii) Strategic decision making framework
+(iii) Interface of Financial Policy and strategic management
+(iv) Balancing financial goals vis-à-vis sustainable growth.
+
+**(2) Risk Management**
+
+(i) Identification of types of Risk faced by an organisation
+(ii) Evaluation of Financial Risks
+(iii) Value at Risk (VAR)
+(iv) Evaluation of appropriate method for the identification and management of financial risk.
+
+**(3) Advanced Capital Budgeting Decisions**
+
+(i) Current trends in Capital Budgeting
+
+- Impact of Inflation on Capital Budgeting Decisions.
+- Impact of change in technology on Capital Budgeting
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 6 ======================
+
+vi
+
+$\diamond$  Impact of change in Government Policies on Capital Budgeting
+
+(ii) Dealing with Risk in Investment Decisions
+(iii) Internal and External Factors affecting capital budgeting decision
+(iv) Methods of incorporating risk in Capital Budgeting
+(v) Adjusted Present Value
+(vi) Optimum Replacement Cycle
+
+# Section II
+
+## (4) Security Analysis
+
+(i) Fundamental Analysis
+(ii) Technical Analysis
+
+a) Meaning
+b) Assumptions
+c) Theories and Principles
+d) Charting Techniques
+e) Efficient Market Hypothesis (EMH) Analysis
+
+(iii) Equity Research and tools available
+
+## (5) Security Valuation
+
+(i) Theory of Valuation
+(ii) Return Concepts
+(iii) Equity Risk Premium
+(iv) Required Return on Equity
+(v) Discount Rate Selection in Relation to Cash Flows
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 7 ======================
+
+vii
+
+(vi) Approaches to Valuation of Equity Shares
+(vii) Valuation of Preference Shares
+(viii) Valuation of Debentures/ Bonds
+(ix) Role and Responsibilities of Valuers
+(x) Precautions need to be taken by a Valuer before accepting any valuation assignment.
+
+## (6) Portfolio Management
+
+(i) Portfolio Analysis
+(ii) Portfolio Selection
+(iii) Capital Market Theory
+(iv) Portfolio Revision
+(v) Portfolio Evaluation
+(vi) Asset Allocation
+(vii) Fixed Income Portfolio
+(viii) Risk Analysis of Investment in Distressed Securities
+(ix) Alternative Investment Avenues
+
+- Real Estate
+- Gold
+- Private Equity
+- REITs
+- Hedge Funds
+- ETFs
+- Mutual Funds
+- Commodities
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 8 ======================
+
+viii
+
+# Section III
+
+## (7) Securitization
+
+(i) Introduction
+(ii) Concept and Definition
+(iii) Benefits of Securitization
+(iv) Participants in Securitization
+(v) Mechanism of Securitization
+(vi) Problems in Securitization
+(vii) Securitization Instruments
+(viii) Pricing of Securitization Instruments
+(ix) Risks in Securitization
+(x) Tokenization
+(xi) Securitization in India
+
+## (8) Mutual Fund
+
+(i) Meaning
+(ii) Types
+(iii) Advantages and Disadvantages of Mutual Funds
+(iv) Evaluation of Mutual Funds
+(v) Role of Fund Manager in Mutual Funds
+(vi) Hedge Funds
+(vii) Role of FIIs in Mutual Funds
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 9 ======================
+
+ix
+
+(9) Derivatives Analysis and Valuation
+
+(i) Introduction to Forwards, Futures and Options
+(ii) Futures Market
+(iii) Pricing of Forwards and Futures
+(iv) Hedging using Futures
+(v) Options
+- Option Pricing
+- Option Greeks
+- Exotic Options
+(vi) Credit Derivatives
+(vii) Real Options
+(viii) Derivative Mishaps and Lessons
+(ix) Swaps
+(x) Commodity Derivatives
+(xi) Weather Derivatives
+(xii) Electricity Derivatives
+
+Section IV
+
+(10) Foreign Exchange Exposure and Risk Management
+
+(i) Factors affecting foreign exchange rate
+(ii) Role of SWIFT in Foreign Exchange
+(iii) National and International Payment Gateways
+(iv) Exchange rate determination
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 10 ======================
+
+X
+
+(v) Foreign currency market
+(vi) Management of Foreign Exchange Risk
+
+## (11) International Financial Management
+
+(i) International Capital Budgeting
+- Offshore Investment Strategies vis-à-vis Domestic Capital Budgeting
+- Project vis-à-vis Parent Cash Flows
+- Discounting Rate and Adjusting Cash Flows
+- Adjusted Present Value
+
+(ii) Raising funds from International Sources
+(iii) Sovereign Funds
+(iv) International Financial Centre (GIFT City)
+(v) International Working Capital Management
+a) Multinational Cash Management
+- Objectives of Effective Cash Management
+- Optimization of Cash Flows/ Needs
+b) Multinational Receivable Management
+c) Multinational Inventory Management
+
+## (12) Interest Rate Risk Management
+
+(i) Benchmark Rates
+(ii) Hedging Interest Rate Risk
+a) Traditional Methods
+- Asset and Liability Management (ALM)
+- Forward Rate Agreement (FRA)
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 11 ======================
+
+xi
+
+b) Modern Methods including Interest Rate Derivatives
+- Interest Rate Futures
+- Interest Rate Options
+- Swaps
+- Swaptions
+
+# Section V
+
+## (13) Business Valuation
+
+(i) Conceptual Framework of Valuation
+(ii) Approaches/ Methods of Valuation
+a) Assets Based Valuation Model
+b) Earning Based Models
+c) Cash Flow Based Models
+d) Measuring Cost of Equity
+- Capital Asset Pricing Model (CAPM)
+- Arbitrage Pricing Theory
+- Estimating Beta of an unlisted company
+e) Relative Valuation
+- Steps involved in Relative Valuation
+- Equity Valuation Multiples
+- Enterprise Valuation Multiple
+f) Other Approaches to Value Measurement
+- Economic Value Added (EVA)
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 12 ======================
+
+xii
+
+- Market Value Added (MVA)
+- Shareholder Value Analysis (SVA)
+
+g) Arriving at Fair Value
+
+(iii) Going concern and Non Going concern valuation
+(iv) Valuation of Distressed Companies
+(v) Valuation of Start ups
+(vi) Valuation of Digital Platforms
+(vii) Valuation of Professional/ Consultancy Firms
+(viii) Impact of ESG on valuation
+
+(14) Mergers, Acquisitions and Corporate Restructuring
+
+(i) Conceptual Framework
+(ii) Rationale
+(iii) Forms
+(iv) Mergers and Acquisitions
+
+a) Financial Framework
+b) Takeover Defensive Tactics
+c) Reverse Merger
+
+(v) Divestitures
+
+a) Partial Sell off
+b) Demerger
+c) Equity Carve outs
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 13 ======================
+
+xiii
+
+(vi) Ownership Restructuring
+a) Going Private
+b) Management/ Leveraged Buyouts
+
+(vii) Unlocking the value through Mergers & Acquisitions and Business Restructuring
+(viii) Cross Border Mergers
+(ix) Special Purpose Acquisition Companies (SPACs)
+
+## Section VI
+
+## (15) Startup Finance
+
+(i) Introduction including Pitch Presentation
+(ii) Concept of Unicorn
+(iii) Startup Initiative of GOI
+(iv) Sources of Funding
+(v) Succession planning in Business
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 14 ======================
+
+xiv
+
+# CONTENTS
+
+## CHAPTER 1 – FINANCIAL POLICY AND CORPORATE STRATEGY
+
+1. Advanced role of CFO in various matters including Value Creation ... 1.1
+2. Strategic Financial Decision Making Framework ... 1.2
+3. Strategy at Different Hierarchy Levels ... 1.4
+4. Financial Planning ... 1.5
+5. Interface of Financial Policy and Strategic Management ... 1.6
+6. Balancing Financial Goals vis-à-vis Sustainable Growth ... 1.8
+
+## CHAPTER 2 – RISK MANAGEMENT
+
+1. Identification of types of Risk faced by an organization ... 2.1
+2. Evaluation of Financial Risk ... 2.4
+3. Value-at-Risk (VAR) ... 2.4
+4. Appropriate Methods for Identification and Management of Financial Risk ... 2.6
+
+## CHAPTER 3 – ADVANCED CAPITAL BUDGETING DECISIONS
+
+1. Current trends in Capital Budgeting ... 3.1
+2. Dealing with Risk in Investment Decisions ... 3.9
+3. Internal and External Factors affecting Capital Budgeting Decision ... 3.10
+4. Methods of incorporating risk in Capital Budgeting ... 3.11
+5. Replacement Decision ... 3.35
+6. Adjusted Present Value ... 3.39
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 15 ======================
+
+XV
+
+# CHAPTER 4 – SECURITY ANALYSIS
+
+1. Fundamental Analysis ... 4.2
+2. Technical Analysis ... 4.14
+3. Difference between Fundamental Analysis and Technical Analysis ... 4.29
+4. Efficient Market Theory ... 4.29
+5. Equity Research and tools available ... 4.33
+
+# CHAPTER 5 – SECURITY VALUATION
+
+1. Overview of Valuation ... 5.1
+2. Return Concepts ... 5.2
+3. Equity Risk Premium ... 5.4
+4. Required Return on Equity ... 5.5
+5. Discount rate selection in relation to cash flows ... 5.5
+6. Valuation of Equity Shares ... 5.6
+7. Valuation of Preference Shares ... 5.14
+8. Valuation of Debentures and Bonds ... 5.15
+9. Role and Responsibilities of Valuers ... 5.28
+10. Precautions need to be taken by a Valuer before accepting any valuation assignment ... 5.31
+
+# CHAPTER 6 – PORTFOLIO MANAGEMENT
+
+1. Introduction ... 6.2
+2. Phases of Portfolio Management ... 6.4
+3. Portfolio Theories ... 6.7
+4. Risk Analysis ... 6.9
+5. Markowitz Model of Risk-Return Optimization ... 6.29
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 16 ======================
+
+xvi
+
+6. Capital Market Theory ... 6.32
+7. Single Index Model ... 6.33
+8. Capital Asset Pricing Model ... 6.37
+9. Arbitrage Pricing Theory Model ... 6.45
+10. Portfolio Evaluation Methods ... 6.46
+11. Sharpe's Optimal Portfolio ... 6.49
+12. Formulation of Portfolio Strategy ... 6.50
+13. Portfolio Revision and Rebalancing ... 6.54
+14. Asset Allocation Strategies ... 6.57
+15. Fixed Income Portfolio ... 6.58
+16. Alternative Investment Avenues ... 6.60
+
+# CHAPTER 7 – SECURITIZATION
+
+1. Introduction ... 7.1
+2. Concept and Definition ... 7.2
+3. Benefits of Securitization ... 7.2
+4. Participants in Securitization ... 7.3
+5. Mechanism of Securitization ... 7.5
+6. Problems in Securitization ... 7.6
+7. Securitization Instruments ... 7.7
+8. Pricing of the Securitized Instruments ... 7.9
+9. Risks in Securitization ... 7.9
+10. Tokenization ... 7.10
+11. Securitization in India ... 7.13
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 17 ======================
+
+xvii
+
+# CHAPTER 8 – MUTUAL FUNDS
+
+1. Introduction ... 8.1
+2. Classification of Mutual Funds ... 8.4
+3. Types of Schemes ... 8.8
+4. Advantages of Mutual Fund ... 8.13
+5. Drawbacks of Mutual Fund ... 8.14
+6. Terms associated with Mutual Funds ... 8.15
+7. Evaluation of Mutual Funds ... 8.18
+8. Role of Fund Managers in Mutual Funds ... 8.20
+9. Role of FIIs in Mutual Funds ... 8.21
+
+# CHAPTER 9 – DERIVATIVES ANALYSIS AND VALUATION
+
+1. Introduction ... 9.2
+2. Forward Contract ... 9.3
+3. Future Contract ... 9.4
+4. Pricing / Valuation of Forward / Future Contracts ... 9.5
+5. Types of Futures Contracts ... 9.9
+6. Options ... 9.17
+7. Option Valuation Techniques ... 9.21
+8. Credit Derivatives ... 9.33
+9. Real Options ... 9.37
+10. Commodity Derivatives ... 9.44
+11. Weather Derivatives ... 9.51
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 18 ======================
+
+xviii
+
+12. Electricity Derivatives ... 9.52
+13. Derivative Mishaps and Lessons ... 9.54
+
+## CHAPTER 10 – FOREIGN EXCHANGE EXPOSURE AND RISK MANAGEMENT
+
+1. Introduction ... 10.1
+2. Role of SWIFT in Foreign Exchange ... 10.3
+3. National and International Payment Gateways ... 10.5
+4. Nostro, Vostro and Loro Accounts ... 10.6
+5. Exchange Rate Quotation ... 10.8
+6. Exchange Rate Forecasting ... 10.14
+7. Exchange Rate Determination ... 10.14
+8. Exchange Rate Theories ... 10.15
+9. Foreign Exchange Market ... 10.20
+10. Foreign Exchange Exposure ... 10.21
+11. Hedging Currency Risk ... 10.25
+12. Forward Contract ... 10.28
+13. Future Contracts ... 10.40
+14. Option Contracts ... 10.41
+15. Swap Contracts ... 10.42
+16. Popular Derivative Products ... 10.44
+17. Strategies for Exposure Management ... 10.47
+18. Conclusion ... 10.49
+
+## CHAPTER 11 – INTERNATIONAL FINANCIAL MANAGEMENT
+
+1. International Capital Budgeting ... 11.1
+2. International Sources of Finance ... 11.15
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 19 ======================
+
+xix
+
+3. International Financial Centre (GIFT City) ... 11.20
+4. Sovereign Funds ... 11.22
+5. International Working Capital Management ... 11.23
+
+## CHAPTER 12 – INTEREST RATE RISK MANAGEMENT
+
+1. Introduction ... 12.1
+2. Benchmark Rates ... 12.2
+3. Interest Rate Risk ... 12.3
+4. Hedging Interest Rate Risk ... 12.6
+
+## CHAPTER 13 – BUSINESS VALUATION
+
+1. Conceptual Framework of Valuation ... 13.1
+2. Important terms associated with Valuation ... 13.3
+3. Approaches/ Methods of Valuation ... 13.5
+4. Measuring Cost of Equity ... 13.10
+5. Relative Valuation ... 13.14
+6. Other Approaches to Value Measurement ... 13.18
+7. Arriving at Fair Value ... 13.26
+8. Going concern and Non-Going concern valuation ... 13.27
+9. Valuation of Distressed Companies ... 13.27
+10. Valuation of Start ups ... 13.29
+11. Valuation of Digital Platforms ... 13.35
+12. Valuation of Professional/ Consultancy Firms ... 13.39
+13. Impact of ESG on valuation ... 13.39
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 20 ======================
+
+xx
+
+# CHAPTER 14 – MERGERS, ACQUISITIONS AND CORPORATE RESTRUCTURING
+
+1. Conceptual Framework... 14.2
+2. Rationale for Mergers and Acquisitions... 14.4
+3. Forms (Types) of Mergers... 14.6
+4. Financial Framework... 14.8
+5. Takeover Defensive Tactics... 14.10
+6. Reverse Merger... 14.12
+7. Divestiture... 14.13
+8. Financial Restructuring... 14.16
+9. Ownership Restructuring... 14.19
+10. Unlocking the value through Mergers & Acquisitions and Business Restructuring ... 14.22
+11. Premium and Discount... 14.22
+12. Mergers and Acquisitions Failures... 14.23
+13. Acquisition through Shares... 14.24
+14. Cross-Border M&A... 14.29
+15. Special Purpose Acquisition Companies... 14.29
+
+# CHAPTER 15 – STARTUP FINANCE
+
+1. The Basics of Startup Financing... 15.1
+2. Some of the Innovative Ways to Finance a Startup... 15.2
+3. Pitch Presentation... 15.3
+4. Concept of Unicorn... 15.6
+5. Modes of Financing for Startups... 15.10
+6. Venture Capital Funds in India... 15.16
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 21 ======================
+
+xxi
+
+7. Startup India Initiative... 15.18
+8. Succession planning in Business... 15.21
+
+## APPENDIX
+
+1. Exponential Table... A.1
+2. Natural Log Table... A.2
+3. Cumulative Area under Standard Normal Distribution... A.4
+
+© The Institute of Chartered Accountants of India

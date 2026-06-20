@@ -44,8 +44,13 @@ function useSectionProgress(storageKey: string, sectionIds: string[]) {
     [storageKey],
   );
 
-  const doneCount = sectionIds.filter((id) => done[id]).length;
-  const pct = sectionIds.length ? Math.round((doneCount / sectionIds.length) * 100) : 0;
+  const { doneCount, pct } = useMemo(() => {
+    const count = sectionIds.filter((id) => done[id]).length;
+    return {
+      doneCount: count,
+      pct: sectionIds.length ? Math.round((count / sectionIds.length) * 100) : 0,
+    };
+  }, [done, sectionIds]);
 
   return { done, toggle, pct, doneCount };
 }

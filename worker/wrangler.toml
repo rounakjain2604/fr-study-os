@@ -1,4 +1,4 @@
-name = "fr-study-os-api"
+name = "trinsic-api"
 main = "src/index.mjs"
 compatibility_date = "2025-06-01"
 

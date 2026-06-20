@@ -1,0 +1,2818 @@
+Source PDF: 07_SPOM/Set_B_Strategic_Cost_Performance_Management/008 - Chapter 7- Strategic Profit Management - 74870bos60510-cp7.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_B_Strategic_Cost_Performance_Management\008 - Chapter 7- Strategic Profit Management - 74870bos60510-cp7.pdf
+Extracted at: 2026-05-31T10:28:43+05:30
+Pages: 66
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER        7
+
+STRATEGIC PROFIT
+MANAGEMENT
+
+                          LEARNING OUTCOMES
+
+After studying this chapter, you will be able to:
+❑EVALUATE profitability.
+❑ADVISE on advanced activity based costing, activity based management,
+    activity based budgeting.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+7.2      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+    CHAPTER OVERVIEW
+
+
+  An organisation which operates in a competitive environment has to adopt various strategies to
+   survive profitably in the market where it operates. Porter, in his generic strategy theory, has
+  suggested that a firm can survive profitably in the long term if it chooses its generic
+   strategy according to the environment in which it operates, and which conforms to the
+   overall corporate objectives. A firm would be profitable if it is either a cost leader, i.e., it can
+  produce its product at a lower cost than its competitor and enjoy maximum market share, or if it
+  produces its products with some peculiar features that make it different from others. Whichever
+  approach a firm may choose, it has to be very careful on the part of actual performance and any
+   deviation from the set performance target. To achieve  its objectives,  it has to put some
+  performance measurement mechanisms in place so that any deviation can be measured, and
+   corrective action can be taken.
+   Profitability Analysis can be useful to measure the performance of a firm against acceptable
+   standards. Profitability can be analysed as per the requirements of the management to assist
+  them in identifying the critical success factors and taking appropriate decisions.
+
+     A. STRATEGIC PROFITABILITY ANALYSIS
+Operating Profit of a firm is affected by various components that are responsible for changes in
+revenue and costs. A change in profit may be due to revenue, costs, or both the factors. For
+analyzing operating income, we spread our analysis into three main areas or components, which are
+(a) Growth Component (b) Price Recovery Component and (c) Productivity Component. Analysis will
+cover both the revenue and cost effect, wherever applicable, on these components separately.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT               7.3
+
+
+                                                Strategic Analysis
+                                             of Operating Profit
+
+
+              Growth                            Price Recovery                Productivity
+            Component                     Component             Component
+
+
+   Revenue Effect      Cost Effect     Revenue Effect      Cost Effect        Cost Effect
+
+
+                           Variable Costs                        Variable Costs     Variable Costs
+
+
+                            Fixed Costs                           Fixed Costs        Fixed Costs
+
+
+Figure A.1 – Components of Strategic Analysis
+1. Growth Component
+Growth Component measures the change in the quantity of output sold. The growth component of
+the change in the operating income measures the increase/ decrease in revenue and in costs due
+to selling more/ less quantity units from the previous period.
+1.1 Revenue Effect
+Revenue effect of growth can be measured with the help of the following formula:
+
+ Revenue Effect of Growth
+
+      Actualunitsofoutput  Actualunitsofoutput                                         -                                                      ×Sellingpriceinlastyear =                                                                                                                                                               soldinlastyear      soldincurrentyear                                                                                                                           
+
+The revenue effect of growth measures the increase/ decrease in revenue solely due to change in
+number of units sold.
+1. 2 Cost Effect
+Cost effect of growth measures the effect of variable cost and fixed cost separately.
+
+ Cost Effect of Growth for Variable Costs
+
+     Unitofinputrequiredto    Actualunitsofinput       
+ =   producecurrentyearoutput - usedtoproducelastyear's   ×Inputpriceinlastyear
+                                                   inlastyear           output                   
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+7.4      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+
+ Cost Effect of Growth for Fixed Costs
+     Actualunitsofcapacityin                          
+     lastyearif adequateto    Actualunitsofcapacity   =                           -                         × Price per unit of capacity in last year     producecurrentyear's      inlastyear                                                                 
+     productioninlastyear                            
+
+2. Price Recovery Component
+Price Recovery Component of change in operating income measures the changes in the revenue
+and costs solely due to changes in prices.
+2.1 Revenue Effect
+Revenue effect of price recovery can be measured with the help of the following formula:
+
+ Revenue Effect of Price Recovery
+
+    Sellingpricein    Sellingpricein   Actual units of output                             - =                                     ×sold in currentyear    ( current year  )                       ( last year      ) 
+
+The revenue effect of price recovery measures the increase/ decrease in revenue solely due to
+change in selling prices.
+2.2 Cost Effect
+Cost effect of price recovery measures the effect of variable cost and fixed cost separately.
+
+ Cost Effect of Price Recovery for Variable Cost
+     Input pricein  Input pricein    Unitsof i nput requiredto produce                           -                               × =                                                                                                               lastyear                                       current year's outputin l ast year     currentyear                                                                                     
+
+ Cost Effect of Price Recovery for Fixed Costs
+
+                                                           Actualunitsof capacityin l astyear,
+     Priceperunitof                               Priceperunitof                                                                                 capacity                                                 capacity  =                                                         adequatetoproducecurrentyear's                                         -                                                 × if                                                                                                                                             in currentyear                                 inlastyear                                                          outputinlastyear                                                                                                                                       
+
+3. Productivity Component
+Productivity Component measures the change in the operating income due to changes in the product
+mix and/ or yield of inputs as compared with the last year. This component uses the current year’s
+prices of input to measure the changes in costs only.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT               7.5
+
+
+ Cost Effect of Productivity for Variable Cost
+
+     Actualunitsof i nput   Unitsof i nputrequired    
+ =   usedto produce current -  toproducecurrentyear's   ×Inputpriceincurrentyear
+                                                year'soutput       outputinlastyear        
+
+ Cost Effect of Productivity for Fixed Costs
+
+                               Actualunitsofcapacityin  
+                                                             Actualunitsofcapacity   lastyearifadequateto =                          -                            ×Price per unit of capacity in current year
+     incurrentyear           producecurrentyear's                                                                                          productioninlastyear    
+
+4. Reconciliation of Operating Profit
+  Particulars                                                    Costs   Revenue
+  Operating Profit in Last Year                                                 xxx
+                                                                                    (+) F        (+) F  Add/(Less): Revenue and Cost Effect of Growth Component                                                                                                        (-) A          (-) A
+                                                                                    (+) F        (+) F  Add/(Less): Revenue and Cost Effect of Price Recovery Component
+                                                                                                        (-) A          (-) A
+                                                                                    (+) F
+ Add/ (Less): Cost Effect of Productivity Component                                                       -                                                                                                        (-) A
+                                                                     Total     xxx        xxx
+  Operating Profit in Current Year (Revenue – Costs)                             xxx
+F= Favorable, A= Adverse
+Illustration 1
+Y Limited is a manufacturer of Cardboard boxes. An analysis of its operating income between 2023
+and 2024 shows the following:
+                      Income   Revenue &   Revenue & Cost   Cost Effect     Income
+                       Statement  Cost Effect    Effect of Price         of         Statement
+                       (amount    of Growth      Recovery      Productivity    (amount in
+                             in 2023)   Component   Component in   Component       2024)
+                                            in 2024         2024            in 2024
+ Revenue (`)          40,00,000  2,00,000(F)      4,20,000(F)                   -      46,20,000
+ Cost (`)              29,20,000   60,000 (A)      2,56,000(A)    58,000(F)      31,78,000
+ Operating Income (`)  10,80,000  1,40,000(F)      1,64,000(F)    58,000(F)      14,42,000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+7.6      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Y Limited sold 4,00,000 boxes and 4,20,000 boxes in 2023 and 2024, respectively. During 2024, the
+market for cardboard boxes grew 3% in terms of the number of units, and all other changes are due
+to the company’s differentiation strategy and productivity.
+Required
+COMPUTE how much of the change in operating income from 2023 to 2024 is due to the industry
+market size factor, productivity, and product differentiation and also reconcile the profit of both years
+due to these factors.
+Solution
+                            Reconciliation of Operating Income
+ Particulars                                                   Amount (`)
+ Operating Income in 2023                                                       10,80,000
+ Add: Change Due to Industry Market Size Factor (W.N.-1)                           84,000
+      Changes Due to Productivity (W.N.-2)                                        58,000
+      Changes Due to Product Differentiation (W.N.-3)                              2,20,000
+ Operating Income in 2024                                                       14,42,000
+
+Workings
+Total Increase in Sale of Cardboard Boxes 20,000 Boxes (4,20,000 Boxes – 4,00,000 Boxes). Out
+of this increase in Sales of 20,000 Boxes, 12,000 Boxes (3% of 4,00,000) are due to growth in market
+size, and the remaining 8,000 Boxes (20,000 Boxes – 12,000 Boxes) are due to an increase in
+market share.
+W.N.1 Effect of the Industry Market Size Factor on operating income:
+ =   Revenue and Cost Effect of Growth Component in 2024 ×
+                                                            Increase in Sales Unit Due to Market Growth
+                                                                 Total Growth in Sales Unit (from2023to2024)
+                 12,000Boxes =   `1,40,000 ×
+                 20,000Boxes
+
+ =   `84,000 (F)
+W.N.2 Effect of Productivity on operating income:
+ =   Cost Effect of Productivity Component in 2024
+ =   ` 58,000 (F)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT               7.7
+
+W.N.3 Effect of Product Differentiation on operating income:
+ Particulars                                                    Amount (`)
+ Increase in the Selling Price                                                    4,20,000 (F)
+ (Revenue Effect of the Price Recovery Component)
+ Increase in Prices of Inputs                                                     2,56,000 (A)
+ (Cost Effect of the Price Recovery Component)
+ Growth in Market Share Due to Product Differentiation*
+              8,000 Boxes                                                    56,000 (F)   `1,40,000                              20,000 Boxes 
+ Total                                                                         2,20,000 (F)
+                                                       Increase in Sales Unit Due to Product Differentiation* Revenue and Cost Effect of Growth Component in 2024×
+                                                              Total Growth in Sales Unit (from 2023 to 2024)
+     B. PROFITABILITY ANALYSIS THROUGH ACTIVITY BASED COSTING
+Activity Based Costing (ABC), which has become an important aspect of manufacturing or service
+organizations can be defined as a methodology that means the cost and performance of activities,
+resources, and cost objects. A well designed and implemented ABC system is a powerful aid to
+management evaluation and decision making, thereby improving organizational performance. In the
+service sector, direct costs are generally low, and overheads tend not to be volume related or
+capable of being easily attributed to product/ service being supplied. In this situation, ABC, with its
+emphasis on activities and their cost drivers, helps in identifying cost more easily and manage  it
+more effectively. In addition, because resource consumption by different products, customers, or
+segments of the business is more accurately measured, activity-based profitability analysis is likely
+to provide more useful information to management.
+1. Direct Product Profitability (DPP)
+For a profit-making organisation, profit earned from an operation is a key performance indicator that
+assures and controls the direction towards the organisation’s objectives. In today’s competitive
+business era, most firms have a portfolio of various ranges of products, either for the same consumer
+market or for different consumer markets. A firm which has a portfolio of profitable products enjoys
+high profitability. However,  it is very important to know the relative profitability of an individual
+product so that management can concentrate on the profitable products and weed out the loss-
+making products from the products’ portfolio. Direct Product Profitability  is one of the various
+analytical methods that analyse the profitability of each product or segment of products separately.
+DPP is used to measure the profitability of an individual product and assist management in knowing
+its true profitability to make appropriate decisions. As opposed to traditional absorption costing,
+where normally labour hours or machine hours are used as a basis for absorption of indirect costs,
+DPP uses a variety  of measures  like space used  for transportation and storage  of goods,
+refrigeration time, etc. DPP is generally used in retail trade to determine the profitability of an
+individual product.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+7.8      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+
+ CIMA describes DPP “used primarily within the retail sector; DPP involves the attribution of both
+ the purchase price and other indirect costs (for example, distribution, warehousing, and retailing)
+ to each product line. Thus, a net profit, as opposed to a gross profit, can be identified for each
+ product. The cost attribution process utilizes a variety of measures (for example, warehousing
+ space and transport time) to reflect the resource consumption of individual products.”
+1.1 Benefits of DPP
+▪    Better cost analysis.
+▪    Better pricing decisions.
+▪    Better management of stores and warehouse space.
+▪   The rationalisation of product ranges.
+1.2 Direct Product Profitability Statement
+Retail organisations traditionally deduct the bought-in cost of goods from the selling price to give a
+gross margin. The gross margin is a useless measure for controlling the costs of the organisation
+itself or making decisions about the profitability of the different products. In the calculation of gross
+margin, only the direct costs involved in buying the product by retailers are considered; however
+colossal amount of indirect costs incurred at organization level rather than at the product level gets
+ignored completely. For example, it does not include the storage costs of various goods, and these
+costs vary considerably from one good to another. A method was needed that relates the indirect
+costs to the goods according to the way the goods use or create these costs.
+Indirect costs for DPP may be analysed into basic cost categories as follows:
+(i)   Overhead Cost: This is incurred through an activity that is not directly linked to a particular
+     product.
+(ii)  Volume Related Cost: The cost is incurred in relation to the space occupied by products. This
+     includes storage and transport costs.
+(iii)  Product Batch Cost: This cost is often a time-based cost. If product items (that is, a number of
+      identical products which are handled together as a batch) are stocked on shelves, a labour
+     time cost is incurred.
+(iv)  Inventory Financing Costs: This is the cost of tying up money in stock and is the cost of the
+     product multiplied by the interest rate per day or per week.
+Direct Product Profit can be derived as shown below:
+ Sales                                                           xx
+ Less: Cost of Goods Sold                                         xx
+ Gross Margin                                                    xx
+ Less: Direct Product Costs (Warehouse, Transportation, Store, etc.)      xx
+ Direct Product Profit                                              xx
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT               7.9
+
+Table 1, given below, shows the DPP for product A. Directly attributable costs have been grouped
+into three categories and are deducted from the gross margin to determine the good’s DPP.
+Table- 1
+Direct Product Profit for Product A
+ Particulars                                 (`)
+ Selling Price p.u.                           150.00
+ Less: Bought-in Price                        80.00
+ Gross Margin                               70.00
+ Less: Direct Product Costs:
+      Warehouse Costs                     16.00
+        Transport Costs                       18.00
+        Store Costs                           22.00
+ Direct Product Profit p.u.                     14.00
+Warehouse and store costs will include items such as labour, space, and insurance costs, while
+transport costs will include labour, fuel, and vehicle maintenance costs. The usual way to spread
+these costs across the different goods sold is in relation to volume or area occupied, as most costs
+increase in direct proportion to the volume of the good or the space it occupies. However, there are
+some exceptions to this; for example, insurance costs may be better spread on value or on a risk
+index. Risk is greater with refrigerated or perishable goods. Refrigeration costs must only be related
+to those products that need to be stored in the refrigerator.
+The result of this type of DPP cost analysis may give information such as that given in the following
+table:
+Table-2
+ Profit              Gross Margin (%)   DPP (%)
+ Ice-Cream                  20.40            4.60
+ Baby Food                  11.00            5.50
+ Tooth Paste                 31.20           18.80
+ Wine                       45.30           17.20
+ Paper Tissues               15.70            0.00
+Above table-2 shows that for ice-cream, there is a considerable gap between the gross margin and
+the DPP because its refrigerated storage is expensive. It also shows that paper tissues, which had
+quite a healthy gross margin, are just breaking even with DPP; this is because they consume more
+store space relative to their price.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+7.10      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+While the supermarket or other retailer does not have the luxury of stopping selling paper tissues
+because, obviously, it would lose considerable trade if it did not stock a complete range of goods, it
+does have other choices. The choices are merchandising ones, such as where to display the stock
+and in what position on the shelves. Stocks at eye level sell more quickly than the ones above or
+below eye level. The brand with the greatest margin should be placed at eye level. Goods at the
+front of the store tend to sell faster than goods at the back. This explains why tissues are rarely
+found close to the entrance or the cash till.
+With manufactured products, the cost per unit for the different products is often calculated, and then
+the products are ranked. For a retail organization, DPP per unit may not be the best measure to use.
+DPP per unit of time adds another dimension to the measurement and DPP per unit of time per
+measure of space adds a third. This is automatically built in when overheads are spread if a cost
+each product uses this rate multiplied by the volume and the number of days or weeks in the system.
+In the example in Table-1, the store costs would be based on a rate per cubic centimeter or metre
+per day and the product cost can be calculated according to its size and the time it takes to flow
+through the system. For example, if the store cost per cubic cm is `0.0073 per day and good A is
+10 cubic cms and the average stay in the store is three days, the store cost per item is `0.0073 ×
+10 cms. × 3 days = `0.22.
+Illustration 2
+Jigyasa India Ltd. (JIL) has 30 retail stores of uniform sizes ‘Fruity & Sweety Retails’ across the
+country. Mainly three products namely ‘Butter Jelly’, ‘Fruits & Nuts’ and ‘Icy Cool’ are sold through
+these retail stores. JIL maintains stocks for all retail stores in a centralised warehouse. Goods are
+released from the warehouse to the retail stores as per requisition raised by the stores. Goods are
+transported to the stores through two types of vans, i.e., normal and refrigerated. These vans are to
+be hired by the JIL.
+Costs per month of JIL are as follows:
+                                                      (`)          Total (`)
+ Warehouse Costs:
+ Labour & Staff Costs                         27,000
+ Refrigeration Costs                          1,52,000
+ Material Handling Costs                      28,000        2,07,000
+ Head Office Cost:
+ Salary & Wages to Head Office Staff           50,000
+ Office Administration Costs                   1,27,000       1,77,000
+ Retail Stores Costs:
+ Labour Related Costs                        33,000
+ Refrigeration Costs                          1,09,000
+ Other Costs                                47,000        1,89,000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.11
+
+Average transportation cost of JIL per trip to any retail store is as follows:
+ Normal Van                       ` 3,200
+ Refrigerated Van                    ` 4,900
+The Chief Financial Manager asked his Finance managers to calculate profitability based on three
+products sold through Fruity & Sweety retail stores rather than using the traditional method of
+calculating profitability.
+The following information regarding retail stores are gathered:
+                                         Butter     Fruits &      Icy
+                                              Jelly      Nuts      Cool
+ No. of Cartons per cubic metre (m3)         42        28        40
+ No. of Items per cartons (units)            300       144       72
+ Time in the Warehouse (in months)          1          1.5        0.5
+ Time in Retail Stores (in months)           1          2         1
+ Selling Price per unit (`)                  84        42        26
+ Purchase Price per unit (`)               76        34        22
+Butter Jelly and Icy-Cool are required to be kept under refrigerated conditions.
+Additional information:
+ Total Volume of All Goods Sold per month                   40,000 m3
+ Total Volume of Refrigerated Goods Sold per month          25,000 m3
+ Carrying Volume of each van                              64 m3
+Required
+CALCULATE the Profit per unit using the Direct Product Profitability (DPP) method.
+Solution
+Direct Product Profitability (DPP) Statement
+                                                (Amount in `)
+                                          Butter     Fruits &     Icy
+                                               Jelly      Nuts     Cool
+ Selling Price per unit                        84.00      42.00     26.00
+ Less: Purchase Price per unit                 76.00      34.00     22.00
+ Gross Profit                 …(A)          8.00       8.00      4.00
+ Direct Product Costs:
+    Warehouse Costs per m3 [W.N.-1]            7.46       2.07      3.73
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+7.12      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+     Retail Stores Costs per m3 [W.N.-2]          6.36       4.00      6.36
+    Transportation Costs [W.N.-3]              76.56      50.00     76.56
+ Total DPP costs per m3                      90.38      56.07     86.65
+ Items per m3 [W.N.-4]                       12,600      4,032     2,880
+ Cost per item                …(B)        0.007      0.014     0.030
+ Direct Product Profit      …(A) – (B)        7.993      7.986      3.97
+Working Notes
+(1)  Warehouse Related Costs
+                                General       Cost Related with
+                              Costs (`)     Refrigerated Goods (`)
+      Labour & Staff Costs          27,000                        ---
+       Refrigeration Costs                    ---                1,52,000
+       Material Handling Costs       28,000                        ---
+                           Total      55,000              1,52,000
+     Volume of Goods Sold       40,000 m3           25,000 m3
+      Cost per m3 per month          1.38                 6.08
+
+      Products         Time in      Cost per m3 per    Total Cost
+                    Warehouse      month (`)            (`)
+       Butter Jelly         1 Month             7.46             7.46
+                                                  (1.38 + 6.08)
+       Fruits & Nuts       1.5 Months           1.38             2.07
+       Icy-cool            0.5 Months           7.46             3.73
+                                                  (1.38 + 6.08)
+(2)  Retail Stores Related Costs
+                                General       Cost Related with
+                              Costs (`)     Refrigerated Goods (`)
+      Labour Related Costs         33,000                        ---
+       Refrigeration Costs                    ---                1,09,000
+      Other Costs                  47,000                        ---
+                           Total      80,000              1,09,000
+     Volume of Goods Sold       40,000 m3           25,000 m3
+      Cost per m3 per month          2.00                 4.36
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.13
+
+      Products       Time in Retail   Cost per m3 per    Total Cost
+                         Stores          month
+       Butter Jelly         1 Month           `6.36           `6.36
+                                              (`2.00 + `4.36)
+       Fruits & Nuts       2 Months           `2.00           `4.00
+      Icy-Cool           1 Month           `6.36           `6.36
+                                            (`2.00 + `4.36)
+(3)  Transportation Costs
+                                  Normal Van   Refrigerated Van
+                                      Costs          Costs
+      Cost per trip                        `3,200          `4,900
+     Volume of Van                     64 m3          64 m3
+      Cost per m3 per trip                  `50.00          `76.56
+(4)  No. of Items per m3
+      Products           No. of       No. of Items per   No. of Items
+                       Cartons/ m3     Cartons (units)      per m3
+       Butter Jelly           42              300            12,600
+                                                                    (42 × 300)
+       Fruits & Nuts         28              144             4,032
+                                                                    (28 × 144)
+       Icy - Cool            40              72             2,880
+                                                                    (40 × 72)
+2. Customer Profitability Analysis
+In many organisations, it is just as important to cost customers as  it is to cost products. Different
+customers or groups of customers differ in their profitability. This is a relatively new technique that
+ABC makes possible because it creates cost pools for activities. Customers use some activities but
+not all, and different groups of customers have different ‘activity profiles’.
+Service organisations, such as a bank or a hotel, in particular need to cost customers. A bank’s
+activities for a customer will include the following types of activities:
+▪    Withdrawal of cash
+▪    Unauthorised overdraft
+▪   Request for a statement
+▪    Stopping a cheque
+▪    Returning a cheque because of insufficient funds
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+7.14      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Different customers or categories of customers will each use different amounts of these activities,
+so customer profitability profiles can be built up and customers can be charged according to the cost
+to serve them. A hotel may have activities that are provided for specific types of customers, such as
+well laid-out gardens, a swimming pool, and a bar. Older guests may appreciate and use the garden,
+families use the swimming pool, and business guests use the bar. If the activities are charged to the
+relevant guests, the correct cost per bed occupied can be calculated for this type of category. This
+will show the relative profitability and lead to strategies for encouraging the more profitable guests.
+Even a manufacturing organization can benefit from costing its customers. Not all customers cost
+the same to serve, even if they require the same products. Some customers may be located a long
+way from the factory, and transport may cost more. Other customers may be disruptive and place
+rush orders that interrupt production scheduling and require immediate special transport. Some
+customers need after-sales service and help with technical matters, etc.
+2.1 Benefits of Customer Profitability Analysis
+▪      It helps the supplier to identify which customers are eroding overall profitability and which
+     customers are contributing to it.
+▪      It can help to provide a basis for constructive dialogue between buyer and seller to improve
+     margins.
+Illustration 3
+A and B are two customers of XYZ Electronics Ltd., a manufacturer of audio players. The selling
+price per unit is ` 5,400. Its cost of production per unit is ` 4,420.
+Additional costs are:
+Order Processing Cost……………………………..` 2,000 per order
+Delivery Costs……………………………………….` 3,500 per delivery
+Details of customers A and B for the period are given below:
+                                          Customer A          Customer B
+ Audio Players purchased (nos.)                      350                  500
+ No. of orders                             5 (each of 70 units)      10 (each of 50 units)
+ No. of deliveries                                    5                    0
+
+The company’s policy is to give a discount of 5% on the selling price on orders for 50 units or more
+and to further give an 8% discount on the undiscounted selling price  if a customer uses his own
+transport to collect the order. Assume that production levels are not altered by these orders.
+Required
+(i)  ANALYSE the profitability by comparing profit per unit for each customer.
+(ii)  COMMENT on the discount policy on delivery.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.15
+
+Solution
+(i)                          Customer’s Profitability Statement
+      Particulars                               Customer- A         Customer- B
+      Sales (units)                                 350                 500
+                                                                       (`)                         (`)
+       Selling Price per unit                             5,400                 5,400
+      Less: Discount (Quantity)                        270                 270
+                                                        (`5,400 × 5%)           (`5,400 × 5%)
+      Less: Discount (Delivery)                                         ---                 432
+                                                                                (`5,400 × 8%)
+       Selling Price (Net of Discounts) per unit              5,130                 4,698
+      Less: Variable Cost per unit                       4,420                 4,420
+       Contribution per unit                            710                 278
+       Total Contribution                               2,48,500              1,39,000
+                                                   (`710 × 350 units)       (`278 × 500 units)
+      Less: Additional Overheads
+             Delivery Cost                             17,500                          ---
+                                                                (5 × `3,500)
+            Order Processing Cost                     10,000               20,000
+                                                                (5 × `2,000)             (10 × `2,000)
+        Profit per customer*                             2,21,000              1,19,000
+        Profit per customer per unit                      631.43               238.00
+     Analysis
+    Even though A has a lower sales volume (30% less than B), it is contributing almost double the
+      profit that is being contributed by B, as the overall discount offered to customer A is quite low.
+(ii)  Comments on the “Discount Policy on Delivery”
+    The discount on delivery offered to customer B is `432 per unit.  If transport for delivery is
+     provided to customer B, then the cost would have been `70 per unit (10 deliveries × ` 3,500 /
+    500 units), which is less than by `362. It may also be noted that the delivery cost for customer
+    A is only `50 per unit (`17,500 ÷ 350 units). Hence, the company needs to review its discount
+      policy on delivery, but the significance of profitability for customer B should also be kept in mind
+     while doing so.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+7.16      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+     C. ABC, ABM, ABB
+1. ABC in Advanced Manufacturing Environment
+The striking question is: What has changed between the manufacturing environment then and now,
+and how could ABC help to fill the gap? The change in the workplace/ manufacturing environment
+is mainly attributed to two of the below factors -
+Global Competitiveness: Today, every industry, be it small or large, faces intense competition both
+at the national and international level with the advent of internet technology. The Internet has put an
+end to geographical barriers, due to which every consumer is now free to choose among products
+that meet their quality expectations and are priced reasonably. Therefore, the traditional approach
+of estimating demand and producing accordingly does not go a long way. As a resolution to this
+situation, organizations have increasingly started adopting a just in time manufacturing approach
+and implementing advanced manufacturing technology. More relevant and timely information is
+required  for  these  organizations  to  build a  sustainable,  long-term  competitive  advantage.
+Organizations must improve the value received by their customers while increasing their own
+profits simultaneously. ABC supports the continuous improvement process by allowing management
+to gain new insights into activity performance, by focusing attention on the sources of demand for
+activities, and by permitting management to create a behavioral incentive to improve one or more
+aspects of manufacturing. Better assessment of cost behavior, increased accuracy in product
+costing, and an attempt to achieve continuous cost improvement are all critical for an advanced
+manufacturing environment.
+Workplace Automation: In this age of industrial revolution, the computer age has overridden labor
+power. Things like computer aided design, computer aided manufacturing, and robotics have allowed
+flexible manufacturing, which was not possible in a labor-intensive scenario. Therefore, a drastic
+switch in cost structure has also taken place. In a labor-intensive phase, labor costs used to be the
+major direct product cost which is now replaced by indirect equipment cost and support overheads
+on personnel that support the machine activity. ABC provides more realistic and accurate product
+costing, as the traditional volume-based costing system does not take into account Non-unit Level
+Overhead Costs such as Setup Cost, Inspection Cost, and Material Handling Cost, etc. Cost Analysis
+under the ABC system shows that while these costs are largely fixed with respect to sales volume,
+they are not fixed with other appropriate cost drivers.
+The concepts underlying a relevant costing analysis continue to be completely valid in an advanced
+manufacturing setting and in a situation where activity- based costing is used.
+Further, it is pertinent to mention that ABC offers no increase in product-costing accuracy for single-
+product setting.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.17
+
+2. Activity Based Cost Management (ABM)
+Empirical studies of ABC implementation have frequently shown that the greater benefit derived from
+its adoption is in Cost Management rather than in providing accurate product cost. The term Activity
+based management (ABM) is used to describe the Cost Management application of ABC. The use
+of ABC as a costing tool to manage costs at the activity level is known as Activity Based Cost
+Management (ABM). ABM is a discipline that focuses on the efficient and effective management of
+activities as the route to continuously improving the value received by customers. ABM utilizes cost
+information gathered through ABC. Through various different types of analysis, ABM manages
+activities rather than resources. It determines what drives the activities of the organisation and how
+these activities can be improved to increase profitability.
+ The Consortium for Advanced Management International (CAM) defines ABM as “adds a dynamic,
+ continuous improvement dimension to the more static ABC model”.
+ CAM-1 defines ABM as: “A discipline that focuses on the management of activities as the route
+ to improving the value received by the customer and the profit achieved by providing this value.
+ This discipline includes cost driver analysis, activity analysis, and performance measurement.
+ Activity-Based Management draws on Activity-Based Costing as its major source of information.”
+Interestingly,  it has been observed that Japanese accountants began exploring activity-based
+techniques in the early 1990s, the following movement in the United States towards the ABM model.
+
+
+Figure C.1 – Activity Based Management Model1
+The figure given above represents the ABM model in a chart developed for CAM-1. In commenting
+on this model, one of its co-developers stated, “ABC supplies the information, and ABM uses this
+information in various analyses designed to yield continuous improvement.”
+
+
+1 CAM-I Glossary of Activity-Based Management, Edited by Norm Raffish and Peter B. B. Turney, (Arligton: CAM-I, 1991)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+7.18      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+2.1 Designing and Implementing ABM
+2.1.1 Cost Driver Analysis
+Identification and analysis of cost drivers is a necessary  first step towards improving the cost-
+effectiveness of activities and cost management through ABM. A cost driver is any factor that causes
+a change in the cost of an activity. For example, the quality of parts received by an activity, for example,
+the percentage of defective parts is a determining factor in the work required by that activity because
+the quality of the parts received affects the resources required to perform the activity. An activity may
+have multiple cost drivers associated with it2.
+2.1.2 Activity Analysis
+To meet the goal of drastic cost reductions and value enhancement, we need something beyond just
+performing cost driver analysis. Here, comes into play the second step of ABM, which is activity
+analysis, which necessarily deals with eliminating non-value-added activities and thus reducing the
+total number of activities to be performed. It is a process of analyzing each key activity individually and
+placing each of them into one of the two categories, which are Value-Added Activity and Non-Value-
+Added Activity. Further activity analysis also involves the identification of activities and grouping them
+into various activity centres (or activity cost pools) that should be used in an ABC system. The degree
+to which activities are grouped together into activity centres depends on the costs and benefits of the
+alternatives. The number of activity centres is likely to change over time as organisational needs for
+activity information evolve. For example, only a few activity centres may be used in an initial ABC pilot
+study. As managers become more accustomed to the initial ABC system and find the output useful,
+they may request a more detailed and refined ABC model.
+2.1.3 Performance Analysis
+Organizations perform hundreds of activities, out of which significant activities must be identified for
+the purpose of performance analysis. This analysis focuses managers’ attention on those activities
+that have the most potential for performance improvement. This analysis is carried out from either of
+the two aspects below–
+Analysis based on expected cost: The activity rates identified by the ABC system provide prima facie
+insight into which activities cost more than benchmarks set by comparing the actual activity rates to
+perform key activities and the industry activity rates.  This can provide managers with incentives to
+improve operations.  Alternatively, managers might decide to outsource some activities to an outside
+firm that does the task more cost effectively3.
+Analysis based on time spent: However, sometimes knowing and comparing the activity rates by itself
+is insufficient to measure activity performance. Activity measures of quality, cycle time, productivity,
+and customer service may also be required to judge activity performance4. For example, comparing
+the actual processing time of a product with the processing time of similar products of other firms in
+the industry can indicate if any scope exists to improve such activity on our end.
+
+
+2 Technical Briefing, Developing and Promoting Strategy, Activity-based Management – An Overview, April 2001
+3 https://baelearn.uncg.edu/wordpress/scm432/week-three-scm-652/activity-based-costingactivity-based-management
+4 Supra See note 2
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.19
+
+Measuring the performance of activities provides a scorecard to report how well improvement efforts
+are working and  is an  integral  part  of continuous improvement5. This  analysis can produce
+performance reports indicating the performance of activity centres or other organisational units,
+consistent with each unit’s goals and objectives.
+2.2 Value Added (VA) Activities / Non-Value Added (NVA) Activities
+ABM views the business as a set of linked activities that ultimately add value to the customer.
+Managers who want to enhance customer value and manage costs must manage the underlying
+activities. ABM  is based on the premise that activities consume costs. Therefore, by managing
+activities, costs will be managed in the long term. Activities may be grouped in such a way as to
+describe the total process. For example, serving a particular customer involves a number of discrete
+activities, but the sum total of these activities represents the process by which the client is serviced.
+ABM classifies each activity within a process as either value added, or non-value added.
+2.2.1 Value-Added Activities
+The VA activities are those activities which are indispensable in order to complete the process. The
+customers are usually willing to pay (in some way) for these services. For example, polishing
+furniture by a manufacturer dealing in furniture is a value added activity.
+
+
+                                    Measures for determining
+                                  whether an activity adds value
+
+
+                                                        Is the activity efficiently                Is an activity sometimes VA and     Is the activity necessary?                                           performed?                     sometimes NVA?
+
+
+                                                                                 Needless movement of raw                                                                         If It is useful to adopt budgets,                                                                                           material, It is NVA. However,                                                    targets, or external benchmarks                          If Yes, it is VA.                                              sometime it may be needed to                                              to established VA baseline, it is                                                                                            transfer WIP units between                                                     VA.                                                                                  production operations, It is VA.
+
+Figure C.2 – Measures for determining whether an activity adds value6
+
+
+5 Supra See note 3
+6 Managerial Accounting 7E By Hilton, Cost Management Systems, p.222
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+7.20      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+2.2.2 Non-Value-Added Activities
+The NVA activity represents work that is not valued by the external or internal customer. NVA
+activities do not improve the quality or function of a product or service, but they can adversely affect
+costs and prices. Non-Value-Added activities create waste, result in delays of some sort, add costs
+to the products or services, and for which the customer is not willing to pay. Moving materials and
+machine set up for a production run are examples of NVA activities.
+In the manufacturing operation, five major activities are often cited as wasteful and unnecessary:
+
+
+                                              Moving                              Waiting                 Storing
+                                    An activity that uses time and         An activity in which materials or     An activity that uses time and                                          resources to move materials, work in       work in process use time and   resources while a good or material is                                              process, and finished goods from         resources by waiting for the next           held in inventory.                                       one department to another.                        process.
+
+
+                                                                        Scheduling
+                                   Inspecting                An activity that uses time and
+                                                                 resources to determine when                    An activity in which time and                                                                      different products have access to                        resources are spent ensuring that                                                              processes (or when and how many                       the product meets specifications.                                                             setups must be done) and how much
+                                                                                         will be produced.
+
+Figure C.3 – Unnecessary Activities
+None of these activities adds any value to the customer. Scheduling, for example, is not necessary
+if the company has learned how to produce on demand. Similarly, inspecting would not be necessary
+if the product was produced correctly the first time7.
+
+
+ Test Your Understanding
+ A wine manufacturer stores wine, the manufacturing of which is already complete, but which
+ needs to be stored for a specific period to meet the quality standard specified by the customer.
+ You are required to identify value-added and non- value-added activities.
+ Hint
+  If a wine manufacturer stores a wine, the manufacturing of which is already complete, but which
+ needs to be stored for a specific period to meet quality standards specified by the customer, such
+ storing time would be considered value-added activity since, without this storing activity, the
+ manufacturing of wine of specified quality would not be complete.
+ Note: The quality and price of wine enhances as it grows older.
+
+
+7 Cost Management Accounting and Control 6E By Hansen, Mowen & Guan (2009); Activity Based Management; p.433
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.21
+
+By measuring activities rather than traditional departmental costs, business can focus on cross
+functional processes in order to identify NVA activities and pinpoint the time drives of cost at each
+stage.
+NVA costs should be reported in activity center cost reports. One approach that management
+accountants find useful in identifying NVA activities is to classify the ways in which time is spent in
+a manufacturing process.
+In most operations, time is spent in the following ways:
+
+
+Figure C.4 – An Overview of Customer Response Time and Manufacturing Cycle Time8
+Receipt Time  is how long  it takes the marketing department to specify to the manufacturing
+department the exact requirement in the customer’s order.
+Manufacturing/ Process Time – The time during which a raw material/ WIP  is undergoing
+conversion activity, or the amount of time work is actually done on the product.
+Manufacturing Cycle Time (MCT) – How long does it take to manufacture the finished goods from
+the time an order is received by the manufacturing department (also called manufacturing lead
+time)? Manufacturing cycle time includes all forms of time a product spends (in the manufacturing
+department), including due to standing in queue or during the time they were moved between
+operations; waiting for parts or due to machine set up. However, it does not include the waiting time
+(i.e., receipt time) before the order is received by the manufacturing department. Similarly, MCT does
+not include delivery time as it is related to the period after the manufacturing of the product has been
+completed.
+
+
+8 Cost Accounting 13E By Charles T. Horngren
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+7.22      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+
+ Concept Insight
+ Value added manufacturing activities are tasks that,  if eliminated, would reduce the actual or
+ perceived value or utility the customer receives from using the product, such as time actually
+ spent on the product. The rest of the MCT represents non-value-adding  activities  that,  if
+ eliminated, would not reduce the actual or perceived value or utility customers obtained from
+ using the product. Examples of non-value-added cycle time include the time the product spends
+ waiting for parts or for the next stage in the production process, being inspected or repaired, and
+ being moved. By  identifying and minimizing the sources  of non-value-added cycle  time,
+ companies can increase customer responsiveness while reducing costs9.
+
+Cycle Time – The length of time from ordering to selling an item in a retail environment is called
+cycle time. NVA activities in retail include shipping time from supplier, delays in receiving department
+in order to count the merchandise, and any storage time between receipt and sale. In a service
+company, cycle time refers to the time between service order and service completion. All time spent
+on activities that do not enhance service performance, such as delays in starting work on service
+orders, is considered NVA10.
+
+
+ Concept Insight
+ Companies that can eliminate waiting time for a service will find it easier to attract customers. The time
+ taken to process mortgage and loan applications by financial institutions can involve a considerable
+ amount of non-value-added waiting time. Thus, reducing the time to process the applications
+ enhances customer satisfaction and creates the potential for increasing sales revenues11.
+
+Delivery Time is how long it takes to deliver a completed order to a customer12.
+Customer Response Time is how long  it takes from the time a customer places an order for a
+product or service to the time product or service is delivered to the customer 13.
+
+
+9 Cost Accounting 13E By Charles T. Horngren, Customer Response Time, p. 806 (Horngren)
+10 Cornerstones of Managerial Accounting 1E (Canadian) By Mowen, George Gekas, Hansen, Heitger, Activity Based
+Costing and Management, p. 310
+11 Management and Cost Accounting 10E By Drury, The Balanced Scorecard, p.569
+12 Supra note 9
+13 ibid
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.23
+
+
+ Concept Insight
+ Application of MCE in reducing Non- Value- Added Activities
+ To reduce or eliminate non-value-added activities, inspection time can be reduced by developing
+ the concepts of total quality control (TQC) and zero-defect manufacturing. Moving time can be
+ reduced by developing the concept of cellular manufacturing. Waiting time and storage time can be
+ reduced by developing the concept of JIT inventory systems (Mulyadi 2003).
+ Just-in-time methods eliminate a significant amount of idle time (especially storage) and increase
+ MCE. JIT also has a  positive impact on engineering, purchasing,  receiving, warehousing,
+ accounting, human resources, and marketing14.
+ Manufacturing Cycle Efficiency (MCE) = The term “Efficiency” can be interpreted to mean
+ “manufacturing related Value Addition”. So, MCE is the ratio of value addition time to the total time
+ taken to manufacture a product.
+ Therefore, MCE= Processing Time/ Manufacturing Cycle Time
+ A Perfect MCE would yield a ratio equal to 1 i.e., all processing time would be value-added. While
+ such a result is not likely to occur, managers should always strive to raise the ratio in that direction.
+ Any non-value-added time results in an MCE of less than 1.
+ An MCE of 0.5, for example, would mean that half of the total production time consists of inspection,
+ moving, and similar non-value-added activities. In many manufacturing companies, the MCE < 0.1
+ which means that 90% of the time a unit is in process is spent on activities that do not add value to
+ the product. MCE helps companies to reduce non-value-added activities and thus get products into
+ the hands of customers more quickly and at a lower cost15.
+ Example16
+ Consider a 50-minute doctor’s office  visit. Suppose a patient spends 10 of those minutes on
+ administrative tasks such as  filling out forms, 25 minutes waiting in the reception area and
+ examination room, and 15 minutes with a nurse or doctor. The service cycle efficiency for this visit
+ equals 15/50, or 0.30. In other words, only 30% of the 50 minutes added value to the patient/
+ customer. Minimizing their non-value-added service times has allowed doctors to treat more patients
+  in less time.
+
+
+14 Supra note 10
+15 Managerial Accounting 14E By Garrison, Noreen, Brewer, Performance Measurement in Decentralised Organisation, p.483
+16 Supra note 9
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+7.24      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Illustration 4
+Queenstown Furniture (QF) has been manufacturing high-quality wooden doors within the forests of
+Queenstown since 1952. Management is having emphasize on creativity, engineering, innovation, and
+experience to provide customers with the door they desire, whether it is a standard design or a one-of-a-
+kind custom door. The following information pertains to operations during April:
+ Processing time             9.0 hrs.*              Waiting time                6.0 hrs.*
+ Inspection time              1.5 hr.*            Move time                  7.5 hrs.*
+ Units per batch            60 units
+(*) average time per batch
+Required
+COMPUTE the following operational measures:
+(i)   Average non-value-added time per batch
+(ii)  Average value-added time per batch
+(iii)  Manufacturing cycle efficiency
+(iv)  Manufacturing cycle time
+Solution
+(i)  Average Non-Value-Added Time per batch =   Inspection Time + Waiting Time + Move Time
+                                      =   1.5 hr. + 6.0 hrs. + 7.5 hrs. = 15 hrs.
+(ii)  Average Value-Added Time per batch    =   Processing Time = 9 hrs.
+(iii)  Manufacturing Cycle Efficiency          =
+                                                         Processing Time
+                                    Processing Time+ Inspection Time+ Waiting Time+ Move Time
+                                                                9.0 hrs.                                      =                             = 37.5%
+                                                    9.0 hrs.+ 1.5 hr.+ 6.0 hrs.+ 7.5 hrs.
+                                                       Total Production Time(iv)  Manufacturing Cycle Time             =
+                                                         Units per Batch
+                                          24 hrs.                                      =        = 0.40 hrs. per unit
+                                          60 units
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.25
+
+2.3 Business Applications of ABM
+The goal of the ABCM is to satisfy customer needs while making fewer demands for resources.
+Current research suggests that customers have perceived needs in four areas, all of which must be
+satisfied simultaneously.
+The customers require- lower costs, higher quality, faster response time and greater innovation.
+To satisfy these needs, ABM is currently being used for a variety of business applications. Such as:
+            Business Applications of
+              ABM
+                           Cost Reduction
+                          Activity Based Budgeting
+                   Business Process Re-engineering
+                         Benchmarking
+                    Performance Measurement
+
+
+Figure C.5 – Business Applications of ABM
+2.3.1 Cost Reduction
+ABM helps the organisation to identify costs against activities and to find opportunities to streamline
+or reduce the costs or eliminate the entire activity, especially  if there is no value added.  It is
+particularly useful in identifying and quantifying process waste and providing vehicle for continuous
+process improvement through continuous cost reduction.
+2.3.2 Activity Based Budgeting (ABB)
+ABB analyses the resource input or cost for each activity. It provides a framework for estimating the
+amount of resources required in accordance with the budgeted level of activity. Actual results can
+be compared with budgeted results to highlight, both in financial and non-financial terms, those
+activities with major discrepancies from the budget for a potential reduction in the supply of
+resources. It is a planning and control system which seeks to support the objectives of continuous
+improvement. It means planning and controlling the expected activities of the organization to derive
+a cost-effective budget that meets the forecast workload and agreed strategic goals. The three key
+elements of activity-based budgeting are as follows:
+-    Type of work to be done
+-    Quantity of work to be done
+-    Cost of work to be done
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+7.26      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+2.3.3 Business Process Re-engineering
+Business Process Re-engineering involves examining business processes and making substantial
+changes to how the organisation currently operates. ABM is a powerful tool for measuring business
+performance, determining the cost of business output, and identifying opportunities to improve
+process efficiency and effectiveness. A business process consists of a linked set of activities.
+For example, the purchase of materials might be considered a business process consisting of
+activities such as receiving a purchase request, identifying supplies, preparing purchase orders,
+mailing purchase orders, and performing follow up. One way the process might be reengineered is
+by sending the production schedule directly to the suppliers and entering  into a contractual
+agreement to deliver materials according to the production schedule. The end result might be a
+permanent reduction or elimination of some activities, like raising a requisition every time if there is
+a need for materials, identifying potential suppliers each time, and waiting for their bid, which may
+result in a delay in the production process and thereby hamper the organisation’s goals.
+2.3.4 Benchmarking
+Benchmarking is the process of comparing the ABC derived activity costs of one segment of a
+company with those of other segments. It requires uniformity in the definition of activities and the
+measurement of their costs.
+2.3.5 Performance Measurement
+Many organisations are now focusing on activity performance as a means of facing competitors and
+managing costs by monitoring the efficiency and effectiveness of activities. Activity performance
+measures consist of measures relating to costs, time, quality, and innovation. For instance, in the
+current era of globalisation, the overall goal for any company is to produce a quality product at a
+competitive price. But quality is not something which one can apply somewhere in the production
+process or assume will happen automatically. Product quality starts with the correct design. The next
+stages are high quality raw material inputs, quality processing and work, proper handling and
+packaging, etc. The various performance measures of quality are:
+            Area                           Measures
+              Quality of the Purchased Component  Zero Defects
+              Quality of Output            % Yield
+            Customer Awareness                 Orders; Number of Complaints
+For a long time, ABM was observed as relevant to manufacturing. Experience has demonstrated
+that activities are universal to all organisations, including service and non-profit organisations. To
+varying degrees, every organisation has processes and  activities  in place to convert capital,
+materials, and purchased services into products/ services required by its customers and users.
+Regardless of industry, activities represent the fundamental of what the organisation does to create
+value for its customers and shareholders17.
+
+
+17 Technical Briefing Activity-based Management – An Overview, Developing, and Promoting Strategy CIMA, April 2001
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.27
+
+2.4 Implementing ABM18
+
+         Decide what the                                    The Implementation team         organisation's most                                        should be represented by           Implement ABM at a high      important issues are and                                         the people who will be                  level in order to get     what types of information                                             actual users of the ABM                concepts across.       would be required to                                                 information.        address those issues.
+
+
+                                    The existing information     Top management support                                        system should easily        is cited to identify critical                                             support input         information needs.                                              requirements.
+
+
+                                                                 If integrating ABC into the      Incorporate ABC methods                                      main cost reporting
+        into the organization’s              system is not feasible,          financial reporting                                            consider developing a              process.                                           separate ABC system.
+
+Figure C.6 – Implementation of ABM
+2.5 Benefits of Activity Based Cost Management
+▪    Provision of excellent basis and focus for cost reduction.
+▪    Provides operational management with a clear view of HOW to implement an Activity Based
+    Budget?
+▪    Provision of clear understanding of the underlying causes of business processing costs.
+     (process improvement)
+▪    Provision of excellent basis for the effectiveness of management decision making.
+▪     Identification of key process waste elements, permit management prioritization, and leverage
+      of key resources. (key resource management)
+2.6 Differences between ABC and ABM
+The ABC refers to the technique for determining the cost of activities and the output which those
+activities produce. It is the logical distribution of overhead, i.e., overhead should be distributed based
+on the consumption of resources by goods and services. The aim of ABC is to generate improved
+cost data for use in managing a company’s activities.
+The ABM is a much broader concept. It refers to the management philosophy that focuses on the
+planning, execution, and measurement of activities as the key to competitive advantage.
+
+
+18 Supra note 17
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+7.28      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+3. Activity Based Budgeting (ABB)19
+Activity Based Budgeting is a process of planning and controlling the expected activities for the
+organisation to derive a cost-effective budget that meets the forecast workload and agreed strategic
+goals. An activity-based budget is a quantitative expression of the expected activities of the firm,
+reflecting management’s forecast of workload and financial and non-financial requirements to meet
+agreed strategic goals and planned changes to improve performance.
+Thus, the key elements of ABB are:
+▪   Type of work/ activity to be performed;
+▪    Quantity of work/ activity to be performed; and
+▪   Cost of work/ activity to be performed.
+ABB focuses on the activity/ business processes. Resources required are determined by the
+expected activities and workload. The objective is to bring efficiency into the system. So, in the
+process of budget preparation, many key questions need to be addressed and properly answered.
+ABB is a technique for enhancing the accuracy of financial forecasts and increasing management
+understanding. When automated, ABB can rapidly and accurately produce financial plans and
+models based on varying levels of volume assumptions. Also, ABB eliminates much of the needless
+rework created by traditional budgeting techniques.
+
+
+Figure C.7 – ABC vs ABB20
+ABB analyses the products or services to be produced, what activities are required to produce those
+products or services, and finally what resources need to be budgeted to perform those activities. Simply
+said, ABB is the reversal of the ABC process to produce financial plans and budgets.
+Traditional, functional- based budgeting is concerned with budgeting the costs of resources associated
+with organizational units, such as departments and plants. Firms that have implemented an activity-
+based costing system may also wish to install an activity-based budgeting system.
+
+
+19 Cost Accounting: A Managerial Emphasis, 13/e By Charles T. Horngren; Cost Management: Accounting and Control By
+Don Hansen, Maryanne Mowen, Liming Guan; Cornerstones of Financial and Managerial Accounting By Jay Rich, Jeff Jones,
+Dan L. Heitger, Maryanne Mowen, Don Hansen
+20 Robert S. Kaplan and Robin Cooper, Cost and Effect (Boston: Harvard Business School Press, 1998), p.303
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.29
+
+A budgetary system at the activity level can be a useful approach to support continuous improvement
+and process management. Furthermore, because activities are what consume resources and, thus,
+are the causes of costs, activity-based budgeting may prove to be a much more powerful planning
+and control tool than the traditional, functional-based budgeting approach.
+An activity-based budgetary approach can be used to emphasize cost reduction through the
+elimination of wasteful activities and improving the efficiency of necessary activities.
+As with traditional, functional-based budgeting, ABB begins with sales and production budgets.
+Direct materials and direct labor budgets are also compatible with an ABC framework because these
+production inputs are directly traceable to the individual products. The major differences between
+functional and activity-based budgeting are found within the overhead and selling and administration
+categories. In a functional- based approach, budgets within these categories are typically detailed
+by cost elements. These cost elements are classified as variable or fixed, using production or sales
+output measures as the basis for determining cost behavior. ABB, on the other hand, identifies the
+overhead, selling, and administrative activities and then builds a budget for each activity based on
+the resources needed to provide the required activity output levels. Costs are classified as variable
+or fixed with respect to the activity output measure.
+Activity Flexible Budgeting
+The ability to identify changes in activity costs as activity output changes allows managers to more
+carefully plan and monitor activity improvements. Activity flexible budgeting is the prediction of what
+activity costs will be as activity output changes. Variance analysis within an activity framework makes
+it possible to improve traditional budgetary performance reporting.  It also enhances the ability to
+manage activities. Activity flexible budgets differ from traditional flexible budgets because the cost
+formulas are based on the activity drivers for the respective activities rather than being based only
+on a single unit-based driver, such as direct labor hours.
+Illustration 5
+6-Twelve is an Indian – Japanese international chain of convenience stores for food, snacks, hot
+and cold beverages is formulating its activity-based budget for January 2024. 6-Twelve has only
+three product types: Soft Drinks, Fresh Drinks, and Ready to Eat Food. The budgeted data relating
+to three products are as under:
+        Activity and Driver           Cost Driver Rates         Jan 2024 Budgeted
+                                  2023     Jan 2024     Amount of Driver Used
+                                    Actual    Budgeted     Soft    Fresh   Ready to
+                                 Rate (`)     Rate (`)    Drinks   Drinks   Eat Food
+ Ordering (per purchase order)         5,000        4,500       16       20       16
+ Delivery (per delivery)                4,000        4,100       13       60       20
+ Shelf-Stocking (per hour)             1,000        1,050       15      170       93
+ Customer Support (per item sold)       10          9        4,500    34,600    10,500
+6-Twelve has a continuous improvement system to budgeting monthly activity costs for each month
+of 2024. February's budgeted cost-driver rate is 0.996 times the budgeted January 2024 rate.
+March's budgeted cost-driver rate is 0.996 times the budgeted February 2024 rate and so on.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+7.30      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Required
+(i)  COMPUTE total budgeted cost for each activity in January 2024.
+(ii)  DISCUSS advantages might 6-Twelve gain by using an activity-based budgeting approach
+     over, say, an approach that allocates the cost of these activities to products as a percentage
+      of the cost of goods sold.
+(iii) COMPUTE total budgeted cost for each activity in March 2024  if March 2024 has the same
+     budgeted amount of cost-driver usage as January 2024.
+(iv)  STATE benefits of 6-Tweleve adopting a kaizen budgeting approach. IDENTIFY limitations?
+Solution
+(i)   Calculation of Total Budgeted Cost for Each Activity
+      Activity                    Cost        Soft      Fresh   Ready to     Total
+                                Hierarchy    Drinks     Drinks    Eat Food      (`)
+      Ordering                   Batch-Level     72,000     90,000    72,000    2,34,000
+      (`4,500 × 16; 20; 16)
+      Delivery                    Batch-Level     53,300    2,46,000    82,000    3,81,300
+      (`4,100 × 13; 60; 20)
+      Shelf stocking              Output Unit     15,750    1,78,500    97,650    2,91,900
+      (`1,050 × 15; 170; 93)           Level
+     Customer support          Output Unit     40,500    3,11,400    94,500    4,46,400
+      (`9 × 4,500; 34,600; 10,500)      Level
+                           Total Budgeted Costs   1,81,550    8,25,900   3,46,150   13,53,600
+(ii)  An Activity Based Budgeting approach identifies how different products require different mixes
+      of support activities. The relative percentage of how each product area uses the cost driver at
+    each activity area is:
+      Activity          Cost          Soft Drinks   Fresh Drinks   Ready to Eat    Total
+                     Hierarchy           (%)           (%)        Food (%)      (%)
+      Ordering      Batch-Level           30.77          38.46          30.77       100.0
+      Delivery      Batch-Level           13.98          64.52          21.50       100.0
+      Shelf         Output Unit Level       5.40          61.15          33.45       100.0
+      Stocking
+     Customer     Output Unit Level       9.07          69.76          21.17       100.0
+      Support
+    By identifying these differences, 6-Tweleve managers are better able to budget for different
+      unit sales levels and different mixes of individual product-line items sold. Using a single cost
+      driver such as ‘Cost of Goods Sold’ considers similarity in the use of indirect costs (support
+      activities) across product lines which does not occur at 6-Twelve.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.31
+
+     Other benefits cited by managers include:
+      (1)  Better identification of resource needs.
+      (2)  Clearer linking of costs with staff responsibilities, and
+      (3)   Identification of budgetary slack.
+(iii) March 2024 Rates (`)
+          Activity           Cost Hierarchy         January       February   March
+       Ordering            Batch-Level                      4,500.00      4,482   4,464.07
+       Delivery            Batch-Level                      4,100.00   4,083.60   4,067.27
+       Shelf-stocking       Output Unit Level                 1,050.00   1,045.80   1,041.61
+      Customer support   Output Unit Level                     9.00       8.96       8.93
+    These March 2024 rates can be used to compute the total budgeted cost for each activity area:
+      Activity               Cost Hierarchy     Soft      Fresh    Ready to    Total
+                                             Drinks     Drinks     Eat Food      (`)
+     Ordering                              Batch-Level       71,425     89,281      71,425    2,32,131      (`4,464.07 × 16; 20; 16)
+      Delivery                              Batch-Level       52,875     2,44,036     81,345    3,78,256      (`4,067.27 × 13; 60;20)
+     Shelf-Stocking                          Output Unit Level      (`1,041.61 × 15; 170;                       15,624     1,77,073     96,870    2,89,567
+      93)
+     Customer support                          Output Unit Level      (`8.93 × 4,500; 34,600;                     40,185     3,08,978     93,765    4,42,928
+      10,500)
+                           Total Budgeted Costs  1,80,109    8,19,368    3,43,405  13,42,882
+(iv) A  kaizen  budgeting approach  indicates management's commitment  to  organized  cost
+     reduction. Compare the budgeted costs from previous part.
+                           Ordering     Delivery    Shelf-Stocking  Customer Support
+       Part (i)                2,34,000      3,81,300       2,91,900           4,46,400
+       Part (iii)               2,32,131      3,78,256       2,89,567           4,42,928
+    The kaizen budget number will show unfavorable variances for managers whose activities do
+     not meet the required monthly cost reductions. This likely will put more pressure on managers
+      to creatively seek out cost reductions by working ‘better' within 6-Twelve.
+    One limitation of kaizen budgeting, as illustrated,  is that  it considers minor incremental
+     improvements each month. It is possible that some cost improvements arise from irregular
+      fluctuations in operating processes, supplier networks, or customer interactions. Companies
+    need to highlight the importance of seeking these improvements as well as the minor
+     incremental improvements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+7.32      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+4. ABC: A Decision - Making Tool
+It is a useful tool for many of the management decisions facing companies today. It can bring a
+picture of the operation to light that may not be obvious through other analysis tools. Specifically,
+ABC is useful in analyzing specific segments of an organization. This might include a market line, a
+group of products (even a single product), a customer, or an employee. The ABC is implemented in
+the following decisions:
+▪   ABC is a complement to total quality management (TQM). It provides quantitative data that can
+      track the financial impact of improvements implemented as part of the TQM initiative. Some
+    have even suggested that ABC is the most important concept introduced since TQM. There
+     are several companies  that have  utilized the ABC/ TQM modeling concept  to improve
+     performance and profitability.
+▪    Wholesale distributors can gain a significant advantage in the decision-making process through
+     the implementation of ABC concepts. The expansion of line offerings has brought about difficult
+     decisions for the distributor. Using traditional financial data, the overhead burden is distributed
+     equally across the product line. Introduction of new products or vendors might also introduce
+     variance to the overhead. For instance, the need to support a special storage area for control
+     or environmental reasons, or the need for new handling equipment  will increase overall
+     operational costs. These costs will be spread over the product line, reducing the margin on
+      existing products and reducing the cost impact of the new items.
+    ABC models the costs back to the activity. The burden created by the new product is correctly
+      reflected. This allows the existing merits while leaving the new line to justify itself.
+▪    Other decisions that can be assisted by ABC include facility and resource expansion. Often,
+     the basis  for relocation or the opening  of a new  distribution center  is based on cost
+     associations. A reduction in freight or other logistics costs can offset the expense of the new
+       facility, staff, or equipment. When the numbers used are enterprise-based, the return might not
+     develop as expected. The ABC model can identify the specific cost elements being targeted,
+     providing a much clearer picture of which management can act.
+▪    Decision support for human resources can be augmented by ABC. Where activity, and therefore
+      cost, can be associated to an individual, new levels of financial performance can be determined.
+     This might be appropriate in cases of branch management or sales. Adding or deleting resource
+      slots can be determined based on the costs of activities as well. The added data provided through
+    ABC can present a number of options, including outsourcing, productivity improvements through
+     automation, and a determination of employee/revenue ratios.
+▪   Companies that wish to determine price based on cost plus markup basis, find the ABC method
+      of costing very relevant and are able to determine competitive prices for their products.
+▪    Using traditional absorption costing, overheads may be distributed equally across all product
+      lines. ABC traces costs back to the activity and the consumption of resources by each product.
+     Thus, product line profitability can be determined in more realistic terms.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.33
+
+In summary, activity-based costing is a management decision-making tool.  It provides financial
+support data structured in a fashion fundamentally different from accounting data provided in the
+general ledger. By associating cost to the activity, a clear relationship can be established between
+the sources of activity demand and the related costs. This association can benefit the distributor in
+determining where costs are being incurred, what is initiating the costs, and where to apply efforts
+to curb inflationary costs. This can be of particular value in tracking new products or customers. It
+can also provide tracking of logistics costs, one of the fastest growing areas of expense to the
+distribution operation.
+
+
+ Practical Insight
+ ABC Practices
+ A reputed Beverage Company in Belgium (BCB) produces, distributes, and sells the different
+ brands of the global parent company. In the field of distribution, it is also this Belgium Company
+ that services the entire Belgian and Luxembourg markets. BCB is present in more than 85,000
+ points of sale (supermarkets, grocery stores, companies, hospitals, cinemas, amusement parks,
+ sports centers). By the end of 2009, BCB employed more than 2,500 employees in Belgium and
+ Luxembourg with revenue of €1.1 billion.
+ Like many other companies, this Belgium Company was confronted with an increasing Cost to
+ Serve (CTS) due to a changing customer landscape. This created a challenge to which BCB
+ needed to formulate decisive answers to stay on track towards achieving their growth path and
+ their company objectives.
+ When companies are confronted with increasing CTS, it is essential to analyse the organisation,
+  its revenues and costs and its processes down to the most detailed level of information. It is this
+ data that gives the true reasons behind certain evolutions so that management can take fact-
+ based decisions. When having such a challenge at hand, Activity Based Costing is the most
+ advanced and complete method to gain this information. Thus, BCB wanted to use the information
+ from the ABC analysis to formulate:
+  -   Cost/ Profit Modeling
+  -   Performance Modeling and
+  -   Set-up an Internal Recharge Mechanism to Sales
+ By implementing Activity-Based Costing, BCB obtained the right information that enabled them to
+ harmonize and streamline the processes of their different distribution centers.
+ This made it possible for BCB to calculate the costs in a fair and transparent way, so that the
+ sales force is charged correctly according to the complexity that Supply Chain had to deal with.
+ From the capacity insights that BCB got from Activity-Based Costing, multiple initiatives were
+ derived that ultimately led to the redesign of the regional distribution strategy, including:
+  -   Optimizing efficiency and capacity within the logistic department.
+  -   Designing the most efficient processes based on the time equations from ABC Analysis.
+  -   Implementing "best practice" processes in the BCB distribution centers
+ These actions successfully reduce their Cost to Serve and are still in line with the new corporate strategy.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+7.34      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+     D. PARETO ANALYSIS
+
+The key feature of any strategy is achieving the objectives with a scarce set of resources. Hence, in
+all circumstances, it is important to prioritise the application of the resource (effort) to those causes
+which has higher significance. For example,  if any company wishes to be a market leader but is
+fighting against poor quality, then  it must start  its quality improvement drive with a focus on
+significant (vital) causes of quality failure, not all because resource availability may be scarce.
+But a question arises here → is focusing only on ‘Vital Few’ will solve the problem to a larger or
+acceptable level?
+Answer rests in the Pareto Principle, which was developed by the Italian economist Vilfredo Pareto
+in 1896 when he noticed a great inequality in the distribution of wealth during his initial work, Cours
+d'économie politique at the University of Lausanne. Pareto showed that approximately 80% of
+the land in Italy was owned by 20% of the population, and this phenomenon gained popularity
+as the ‘80:20 rule’
+But another question may arise here → Is such an 80:20 rule applicable to cost management?
+The answer lies in suggestions given by Joseph M. Juran, who is an Engineer apart from being a
+management consultant.
+Note- Juran found that this phenomenon of the ‘vital few and the trivial many’ applied to many areas
+of Statistical Process Control. He coined the concept of Pareto analysis (as an application tool) and
+Pareto Chart (as a presentation tool to graphically show the application) in the context of quality
+control and improvement. Juran suggested the bulk of the quality problems are due to a few of the
+possible sources (such can be identified with Pareto analysis and graphically shown through the
+Pareto Chart). Hence, correction of the same after isolation can help organisations to attain
+significant improvement in quality (because they have a higher probability of payoff).
+
+
+Figure D.1 – Pareto’s Law
+So, Pareto’s 80:20 rule simply states that 80 percent of the results come from only 20 percent of
+effort (vital few), while the remaining 20 percent of results are achieved by 80 percent of effort
+(trivial many). Or alternatively, 20 percent of the sources cause 80 percent of the problems.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.35
+
+
+ Test Your Understanding
+ Can you mention some business functions of the 80:20 Pareto Principle?
+ Hint
+ ▪ 20% of customers generate 80% of the revenue of a company.
+ ▪ 20% of suppliers furnish 80% of the value of supplies to a company.
+ ▪ 20% of products generate 80% of the production costs.
+ ▪ 20% of the products generate 80% of the profits.
+ ▪ 20% of quality defects, errors, or causes of breakdowns lead to 80% of the rejects, failures,
+     delays, etc.
+1. Pareto Analysis as Management Tool
+The management can use Pareto Analysis in different circumstances to focus on key areas as a
+control mechanism. Pareto Analysis is really useful in defining the top priorities because it essentially
+uses the law of diminishing returns (pick the low-hanging fruit first).
+Pareto Analysis ranks the causes in descending order of value index (effect), hence helping to
+identify the pay-off. It’s obvious that the focus is on items at the top (vital few) of the list because
+these have a higher probability of payoff.
+Note- Pareto Analysis can be combined with other analytical tools such as Fault Tree Analysis,
+Scatter Diagram, Fishbone diagrams, and Run Charts in order to correctly identify critical areas (vital
+few).
+Illustration 6
+The following information is given about the type of defects during a production period and the
+frequencies of their occurrence in a spectacle manufacturing company:
+ Defect                                            No. of Instances
+ End Frame not equidistant from the center                  10
+ Non-uniform grinding of lenses                           60
+ Power mismatches                                    20
+ Scratches on the surface                               110
+ Spots / Stains on lenses                                 5
+ Rough edges of lenses                                 70
+ Frame colour-shade differences                          25
+Required
+PREPARE a frequency table to construct Pareto Chart for the defect type. Also, IDENTIFY key areas
+(vital few) of focus and highlight them in the graph too.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+7.36      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Solution
+                    Statement Showing “Pareto Analysis of Defects”
+                                           No. of     % to total     Cumulative Defect Type                                           Instances        Defects        Defects
+ Scratches on the surface                      110          36.67%        36.67%
+ Rough edges of lenses                        70           23.33%        60.00%
+ Non-uniform grinding of lenses                 60           20.00%        80.00%
+ Frame colours-shade differences                25           8.33%        88.33%
+ Power mismatches                           20           6.67%        95.00%
+ End frame not equidistant from the center         10           3.33%        98.33%
+ Spots/ Strain on lenses                         5            1.67%        100.00%
+                                           300          100.00%
+The company should focus on the elimination of scratches on the surface, rough edges of lenses,
+and non-uniform grinding of lenses (in priority order), because they constitute 80% of instances
+when defect found in any item.
+
+                                        Pareto Chart
+
+          120                                                              120.00%
+          100                                                              100.00%
+           80                                                               80.00%                                                                                                                                                                                  defects                  Instances 60                                                               60.00%
+    of 40                                                               40.00% age
+      No. 20                                                               20.00% %
+            0                                                               0.00%
+
+
+                    No. of Instance      % to total Defects         Cumulative Defects
+
+Figure D.2 – Pareto Chart
+In the above Pareto Chart,  till the point where the line (cumulative defects) is dotted, the causes
+are Vital (but Few) and the remaining causes falling thereafter shall be classified as trivial many.
+The curve is steep until it is dotted (the first three causes account for 80% of defect instances), then
+it falters, indicating less importance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.37
+
+2. Pros and Cons of Pareto Analysis
+2.1 Pros – Pareto Analysis is a control mechanism. It is a creative way of looking at the causes of
+problems to clearly establish top priorities and to identify targets along with its pay-off. One can
+advocate the use of Pareto analysis due to the following benefits-
+▪   Breakdown a big problem into smaller pieces by looking at different sort of root causes.
+▪     Identification of significance of each cause/ factor.
+▪     Prioritise where to focus and apply efforts.
+▪    Ensure optimal use of scarce resources.
+▪    Act as a control mechanism.
+2.2 Cons – Pareto Analysis involves data and its classification, presentation, and analysis; these
+factors itself become the sources of shortcoming. Major limitations are-
+▪     Possibility of exclusion of important problems which may be small initially (now) but may grow
+     with time.
+▪    Lack of understanding of ‘how it should be best applied to particular problems’ is simply the
+    wrong identification of causes.
+▪    Effectiveness of Pareto Analysis is purely based on the data/ information.
+3. Applications of Pareto Analysis
+The Pareto analysis may be applicable in the presentation of Performance Indicators data through
+the selection of representative process characteristics that truly determine or directly or indirectly
+influence or conform to the desired quality or performance result or outcome. The Pareto Analysis
+is generally applicable to the following business situations:
+
+
+Figure D.3 – Applications of Pareto Analysis
+3.1 Pricing of a Product
+▪    In the case of a firm dealing with multiple products, it would not be possible for it to analyse
+     cost-profit-price-volume relationships for all of them. Pareto Analysis is used for analysing the
+      firm’s estimated sales revenues from various products, and it may indicate that approximately
+    20% of products contribute about 80% of total sales revenue.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+7.38      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+
+      Practical Insight
+      Product Significance (at Parle Agro)
+      Parle registered an astonishing growth in market share during COVID (especially the lock-
+     down stage). The importance of a single product can be understood from the following
+      statement. “We have grown our overall market share by nearly 5%..., and 80– 90% of this
+      growth has come from the Parle-G sales. This is unprecedented,” said category head at
+      Parle Products.
+     The above statement is extracted from The Economic Times story ‘82-year-old Parle-G
+      books 'best sales' in COVID times’21.
+▪   Such analysis helps the top management to delegate the pricing decisions for approximately
+    80% (trivial many) of its products to the lower levels of management, thus freeing themselves
+      to concentrate on the pricing decisions for approximately 20% (vital few), which are essential
+      for the company’s survival.
+▪    Thus, a firm can adopt more sophisticated pricing methods for a small proportion of products
+      that jointly account for approximately 80% of total sales revenue. For the remaining, the firm
+    may use a cost-based pricing method.
+3.2 Customer Profitability Analysis
+▪    Instead of analysing products, customers can be analysed for their relative profitability to the
+     organisation. There will always be some customers who are less profitable than others, just as
+    some products are less profitable than others.
+▪    Again, it is often found that approximately 20% (vital few) of customers help to generate 80%
+      of the profit, and vice-versa.
+▪   Such an analysis is a useful tool for the evaluation of the portfolio of customer profile and
+     decision making such as whether to continue serving the same customer group, the extent of
+     promotion expenses will be incurred.
+3.3 ABC Analysis- Stock Control
+▪    Another application of Pareto analysis is in stock control, where it may be found that only a few
+      of the goods in stock make up most of the value. In practice, approximately 20% (vital few) of
+     the total quantity of stock may account for about 80% of its value. The outcome of such analysis
+       is that by concentrating on a small proportion of stock items that jointly account for 80% of the
+      total value, a firm may well be able to control most of the monetary investment in stocks.
+
+
+21 https://economictimes.indiatimes.com/industry/cons-products/fmcg/82-year-old-parle-g-books-best-sales-in-covid-
+times/articleshow/76275237.cms?from=mdr
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.39
+
+3.4 Application in Activity Based Costing
+▪    In  Activity Based Costing  it  is often said that 20% of an organisation cost drivers are
+     responsible for 80% of the total cost pool. By analysing, monitoring, and controlling those cost
+      drivers that cause the most cost, better control and understanding of overheads  will be
+     obtained.
+3.5 Quality Control
+▪    Pareto analysis seeks to discover from an analysis of defect reports or customer complaints
+     which “vital few” causes are responsible for most of the reported problems.
+▪    Often, 80% of reported problems can usually be traced to 20% of the various underlying
+     causes. By concentrating efforts on rectifying the  vital 20%, one can have the greatest
+     immediate impact on product quality.
+
+
+ Concept Insight
+ ▪     If the categories of possible causes include ‘others’, make sure that this ‘others’ category
+    does not become too large. If the ‘others’ accounts for a significant percentage, such as 10%
+      to 25% (depending upon process maturity), it should be broken down further.
+ ▪  The result of the Pareto Analysis may not be exactly 20% and 80%. The purpose is to identify
+     the categories causing the majority of the results, and then tools like Fishbone can be used
+      to identify the root causes of the problems.
+ ▪   Periodical reviews of the Pareto distribution are required to keep a watch on the progress of
+     the elimination of the problem causes identified earlier and to define what new failures have
+    come over the horizon that requires immediate attention.
+
+   SUMMARY
+❑   Strategic Profitability Analysis – Operating Profit of a firm is affected by various components
+     which are responsible  for changes  in the revenue and costs.   Majorly there are three
+    components –
+        (i)  Growth Component measures the change in the quantity of output sold. The growth
+        component of the change in the operating income measures the   increase/ decrease in
+         revenue and in costs due to selling more/ less quantity   units from the previous period.
+        (ii)  Price Recovery Component of change in operating income measures the changes in the
+         revenue and costs solely due to changes in prices.
+        (iii)  Productivity Component measures  the  change  in  the  operating  income due  to
+        changes in the product mix and/ or yield of inputs as compared with the last  year.  This
+        component uses current year’s prices of input to measure the changes  in costs only.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+7.40      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+❑   Profitability Analysis Through Activity Based Costing –
+        (i)   Activity Based Costing (ABC) which has become an important aspect of manufacturing
+          or service organizations can be defined as a methodology that means the cost and
+         performance of activities, resources, and cost objects.
+        (ii)    It acts as an aid to management evaluation and decision making.
+        (iii)  In  service  sector,  direct  costs are  generally low and overheads tend  not  to be
+         volume related or capable of being easily attributed to product/ service/ customer  being
+          supplied. ABC helps cost to identify more easily and managed more effectively.
+       (iv) The resource consumption by  different  products,  customers,  or segments  of  the
+         business is more accurately measured, activity-based profitability analysis is likely     to
+          provide more useful information to management.
+❑   Direct Product Profitability (DPP) – DPP “used primarily within the retail sector, DPP involves
+     the attribution of both the purchase price and other indirect costs (for example distribution,
+     warehousing, and retailing) to each product line. Thus, a net profit, as opposed to a gross profit,
+    can be identified for each product. The cost attribution process utilizes a variety of measures
+      (for example warehousing space and transport time) to reflect the resource consumption of
+      individual products.”
+❑   Benefits of DPP – Cost analysis, pricing decisions, management of stores and warehouse
+     space, rationalization of product ranges.
+❑   Direct Product Profitability Statement – Indirect costs, for DPP may be analysed into basic cost
+     categories as follows:
+        (i)  Overhead Cost: This  is incurred through an activity that  is not directly linked to a
+           particular product.
+        (ii)  Volume Related Cost: The cost  is incurred  in  relation  to the space occupied by
+          products. This includes storage and transport costs.
+        (iii)  Product Batch Cost: This cost is often a time-based cost.  If product items (that is a
+        number of identical products which are handled together as a batch) are stocked on
+         shelves a labour time cost is incurred.
+       (iv)  Inventory Financing Costs: This is the cost of tying up money in stock and is the   cost
+           of the product multiplied by interest rate per day or per week.
+     Direct Product Profit can be derived as shown below:
+        Sales                                           xx
+        Less: Cost of Goods Sold                         xx
+       Gross Margin                                    xx
+        Less: Direct Product Costs
+             (Warehouse, Transportation, Store etc.)      xx
+         Direct Product Profit                              xx
+❑  Customer Profitability Analysis – In many organizations, it is just as important to cost customers
+    as it is to cost products. Different customers or groups of customers differ in their profitability.
+    Not  all customers cost the same to serve even  if they require the same products. Some
+    customers may be located a long way from the factory and transport may cost more.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.41
+
+❑   Activity Based Costing in Advanced Manufacturing Environment – In advanced manufacturing
+     environment, where support function overheads constitute a large share of total costs, ABC provides
+    more realistic and accurate product costing.
+❑   Activity Based Cost Management (ABM) – A discipline that focuses on the management of activities
+     as the route to improving the value received by the customer and the profit achieved by providing
+      this value. This  discipline includes cost  driver analysis,  activity analysis, and performance
+    measurement.
+❑  Value-Added Activities (VA) – The VA activities are those activities which are indispensable in order
+      to complete the process. The customers are usually willing to pay (in some way) for these services.
+     Eg. polishing furniture by a manufacturer dealing in furniture is a value- added activity.
+❑  Non-Value-Added Activities (NVA) – The NVA activity represents work that is not valued by the
+     external or internal customer. NVA activities do not improve the quality or function of a product or
+      service, but they can adversely affect costs and prices. Non-Value Added activities create waste,
+      result in delay of some sort, add costs to the products or services and for which the customer is not
+      willing to pay. Moving materials and machine set up for a production run are examples of NVA
+      activities.
+❑   Activity Based Budgeting (ABB) – Activity Based Budgeting is a process of planning and controlling
+     the expected activities for the organisation to derive a cost-effective budget that meets forecast
+     workload and agreed strategic goals.
+❑  Pareto Analysis– Pareto Analysis is a rule that recommends focus on the most important aspects
+      of the decision making in order to simplify the process of decision making. It is based on the 80: 20
+      rule where it is believed that 80% of the profits of an organisation relates to 20% of the customers.
+         It helps to clearly establish top priorities and to identify both profitable and unprofitable targets.
+
+   TEST YOUR KNOWLEDGE- MCQS
+MCQ 1
+Pareto principle based upon the law of –
+Options
+a.  Diminishing returns
+b.  Variable returns
+c.  Increasing returns
+d.  Stable returns
+Key – a
+Reason - Pareto Analysis ranks the causes (reasons) in descending order of effect. Hence help to
+identify pay-off. It’s obvious that focus is on items at the top (vital few) of the list because these have
+a higher probability of payoff. Hence the law of diminishing returns (pick the low hanging fruits first)
+applies here.
+MCQ 2
+Pareto principle can’t be applied to –
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+7.42      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Options
+a.  Inventory control
+b.  Quality control
+c.  Customer profitability analysis
+d.  None of the above
+Key – d
+Reason – Pareto analysis can be applied in Inventory Control, Pricing the products, Customer
+profitability analysis, ABC analysis, and Quality control etc.
+MCQ 3
+Pareto analysis shall be performed –
+Options
+a.   Periodically
+b.  Continuously
+c.  Occasionally
+d.  Quarterly
+Key – a
+Reason – To keep check, that trivial should not become vital (and if turning to vital can be responded
+early one) and to check that effort done by management eliminate or reduce the impact of vital root-
+causes.
+MCQ 4 – Which one need to be responded first –
+Options
+a.   Trivial many
+b.   Vital few
+c.  Both
+Key – b
+Reason – Pareto is one of 7QC tools which help the management as control mechanism to prioritize,
+in term of root causes that need to be responded first. Vital few causing significant impact hence to
+offer higher payoff.
+
+   TEST YOUR KNOWLEDGE
+Manufacturing Cycle Efficiency
+1.   “W” specialises in engineering design and manufacture in the automotive and motorsport
+      industry. “W”’s design team has many years’ experience in the design and development of
+     engine components for the market and high performance engines. Though “W” is performing
+      well, but many a times, the customers complained that they had to wait for long after placing
+     the orders. “W” is interested in cutting the amount of time between when a customer places an
+     order and when the order is completed. For the last year, the following data were reported in
+     respect of Division “D”:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.43
+
+     Inspection time   =  0.5 days per batch
+     Process time    =  2.8 days per batch
+     Wait time       =  16.0 days per batch
+    Queue time     =  4.0 days per batch
+    Move time      =  0.7 days per batch
+    Required
+         (i)  CALCULATE Manufacturing Cycle Efficiency (MCE) and INTERPRET the result.
+         (ii)  STATE what percentage of the production time is spent in non-value-added activities.
+         (iii) CALCULATE the delivery cycle time.
+       (iv) CALCULATE the new MCE if by using Lean Production all queue time can be eliminated.
+Profitability Analysis
+2.  ABC Airlines has two divisions organised as profit centres, the Passenger Division and the
+    Cargo Division. The following divisional informations were given for the year ended 31 st March
+     2024:
+      Particulars                             Cargo       Passenger       Total
+                                                  Division        Division
+     Number of personnel trained                  200           800          1,000
+     Number of flights                           350           250          600
+     Number of reservations requested                   Nil            7,000         7,000
+     Revenue                                 `42,00,000      `42,00,000    `84,00,000
+      Operating Expenses (excluding service        `36,00,000      `28,50,000    `64,50,000
+      department charges)
+      Service Department Charges
+            Training                              `3,20,000       `3,20,000     `6,40,000
+             Flight Scheduling                      `1,50,000       `1,50,000     `3,00,000
+      Reservations                              `1,05,000       `1,05,000     `2,10,000
+    The service department charge rate for the service department costs was based on revenue.
+     Since the revenue of both the divisions were the same, the service department charges to each
+      division were also the same.
+    Required
+        (i)  COMMENT on whether the income from operations for the two divisions accurately
+         measures performance.
+         (ii)  PREPARE the divisional income statement using the activity bases provided above in
+           revising the service department charges.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+7.44      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Direct Product Profitability (DPP)
+3.  XYZ Ornamental Company has been a name to count on for quality and service. It has been
+     designing wide range of ornamental products for more than two decades using the highest-
+      quality standard. Such quality is achieved through years of experience and the integrity that is
+     maintained by its employees. They are known for their perfection. VGG approached XYZ to
+    make an inquiry of two products. The two products are indoor fountain known as ‘The Star’ and
+    a large gnome known as ‘Dwarfs’ for garden. Mr. Bob, the management accountant of XYZ,
+     has estimated the variable costs per unit of ‘The Star’ and ‘Dwarfs’ as being `622.50 and
+     `103.75 respectively. He estimated his calculations based on the following information:
+      (1)  Products Data
+                                                                          Other                                    The Star        Dwarfs                                                                       Products
+           Production/ Sales (units)         10,000           20,000             80,000
+           Total Direct Material Costs     `22,50,000       `7,50,000         `60,00,000
+           Total Direct Labour Cost       `15,00,000       `5,00,000         `60,00,000
+      (2)  Total variable overheads for XYZ are `1,20,00,000 out of which 30% belong to the
+          procurement, warehousing and use of direct materials. While all other variable overheads
+          are related to direct labour
+      (3)  XYZ presently allocates variable overheads into products units using percentage of total
+            direct material cost and total direct labour cost.
+      (4) VGG is willing to purchase ‘The Star’ at `740 per unit and ‘Dwarfs’ at `151 per unit.
+      (5)  XYZ will not accept any work yielding an estimated contribution to sales ratio less than
+        28%.
+    The directors of XYZ are considering switching to an activity-based costing system and recently
+     appointed a management consultants’  firm  to undertake an in-depth review of existing
+     operations. As result of that review, the consultants concluded that estimated relevant cost
+      drivers for material and labour related overhead costs attributable to ‘The Star’ and ‘Dwarfs’
+     are as follows:
+                                                                                Other                                                       The Star Dwarfs                                                                            Products
+      Direct Material Related Overheads:
+     (The volume of raw materials held to facilitate production of each
+      product is the cost driver.)
+      Material Ratio per product unit                              5       8        5
+      Direct Labour related overheads:
+     (The number of labour operations performed is the cost driver.)
+     Labour Operations per product unit                          7       6        5
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.45
+
+    Required
+        (i)   Give a financial ANALYSIS of the decision strategy which XYZ may implement about the
+          manufacture of each product using the unit cost information available.
+        (ii)  DISCUSS whether activity-based management should be adopted in companies like XYZ.
+Customer Profitability Analysis (CPA)
+4.   Jawahar Stationary Mart (JSM) is located in centre of city “X” and popular for wide range of
+     stationary products at competitive rate. Box files and cobra files are among the major products
+      of JSM. JSM clients majorly, include medium and large corporate offices apart from reasonable
+    base of retail clients. Mr. Ronit who done his masters in operations and marketing, recently
+      join the family business (JSM). Mr. Ronit during first week itself, identify there are regular
+     complaints from corporate clients regarding ‘delivery of items, which are different from what is
+     ordered’ and ‘for not meeting the requirements’. Mr. Ronit understands consumer behavior is
+     very critical in nature,  if understood well and used through-out the business operation; then
+    can be key success factors. Hence with intent to establishing the integrated relations with
+     customers at JSM, Mr. Ronit advise marketing team to start recording the date regarding
+     customer in systemic manner and reporting of same.
+     Following is information regarding five major customers, who are regularly orders printed cobra
+       files (Product code – J-Cobra 10) from JSM.
+      Particulars                A       B       C       D       E
+      No. of units sold                6,000       8,000     10,000     7,000      8,000
+      Margin per unit (`)              6          7.5        7         8        10
+      No. of purchase order           10        30        25        20        10
+      No. of deliveries (normal)         3          4         6         4         5
+      Kilometers per delivery          100       185       50       250       50
+     Cost of processing the order is `2,000 per order and cost of handling material is `0.15 per
+      item, whereas transport cost is `3 per kilometer for delivery of goods. 3 rushed deliveries made
+      to ‘B’, cost for rush delivery is `800 per delivery.
+    Required
+        (i)  ANALYZE customer profitability for JSM.
+        (ii)  EXPLAIN three fundamental aspects of CRM to  facilitate building relationship with
+            profitable customer/(s).
+5.  ANCA Limited has decided to analyse the profitability of  its four retail customers.  It buys
+     product 'Bio-aqua' at `218 per case and sells to them at list price less discount. The data
+     pertaining to four customers are:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+7.46      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+      Particulars                                     Customer
+                                 A        B        C        D
+      No. of cases sold                      7,580      38,350      78,520      15,560
+        List selling price                     `250       `250       `250       `250
+      Actual selling price                   `245       `236       `228       `232
+      No. of sale visits                       6         12         16         10
+      No. of purchase orders                 12         18         35         24
+      No. of delivery kilometres               280        350        450        400
+        It's four activities and cost drivers are:
+       Activity                           Cost Driver Rate
+      Sale visits                        `750 per sale visit
+      Order taking                       `800 per purchase order
+       Deliveries                           `10.50 per delivery km travelled
+      Product handling cost                 `2.50 per case sold
+    Required
+        (i)  COMPUTE the customer level operating income.
+         (ii)  ANALYZE the profitability for each customer.
+6.   Bookmark LLP is a publishing firm that started operations very recently. The firm has published
+     “Advanced Learner’s Dictionary” this first year, that have been sold to 3 distributors PER, MGH
+    and WLY. The firm’s financials reflect profits in its first year of operations. The management is
+     pleased with the results. However, they are interested in finding out how profitable each
+     customer is. This would help them formulate their sales strategy.
+      Particulars              PER          MGH           WLY
+      Sales units p.a.                1,000              950                1,250
+      Sale price (gross)              250               250               250
+     Payment terms              3/10 net 30             net 30             3/10 net 30
+      Sales returns                0.5%           0%             10%
+       Delivery terms         FOB destination    FOB destination   FOB shipping point
+      In order to get market share, PER and WLY have been extended credit terms to avail discount
+         if payment is made within 10 days. Customer MGH does not have much bargaining power and
+    hence has been allowed only 30 days’ credit period without any benefit of availing discount for
+      early payment. Both PER and WLY have made payments within 10 days to avail of the discount
+     extended.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.47
+
+    On the cost front, variable cost of goods sold attributable to the net sales to customers PER,
+   MGH and WLY are `1,50,000, `1,42,500, and `1,87,500 respectively. Key metrics of customer
+     assignable marketing, administrative and distribution costs are as below:
+       Activity                       Activity Driver     No. of Units of Activity      Cost
+                                                               Driver              Driver
+                                                                         Rate (`)                                       PER   MGH   WLY
+      Order taking and processing  # of orders          4       2       15       300
+      Expedited / rush orders      # of orders          1             -        5       250
+       Delivery costs              # distance in km.    100      50            -        80
+      Sale return processing       # of returns          1             -        8       150
+        Billing cost                 # of invoices         4       2       15       50
+      Customer visit              # of visits           1             -        5       800
+      Inventory carrying cost *      # 1 per unit         1,000    950     1,250      10
+        * Assume no opening and closing stock
+     Fixed cost that are not assignable to any customer is `1,00,000 p.a.
+    Required
+        (i)  PREPARE the customer wise  profitability statement as also the overall  profitability
+          statement of Bookmark LLP.
+         (ii)  RECOMMEND a strategy for Bookmark LLP regarding its customers.
+Pareto Analysis
+7.   Generation 2050 Technologies Ltd. develops cutting-edge innovations that are powering the
+     next revolution in mobility and has nine tablet smart phone models currently in the market
+    whose previous year financial data is given below:
+               Model                 Sales (`’000)        Profit-Volume (PV) Ratio
+             Tab - A001                    5,100                  3.53%
+             Tab - B002                    3,000                  23.00%
+             Tab - C003                    2,100                  14.29%
+             Tab - D004                    1,800                  14.17%
+             Tab - E005                    1,050                  41.43%
+             Tab - F006                   750                   26.00%
+             Tab - G007                   450                   26.67%
+             Tab - H008                   225                   6.67%
+             Tab - I009                    75                   60.00%
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+7.48      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+    Required
+        (i)   Using the financial data, carry out a Pareto ANALYSIS (80/20 rule) of Sales and
+           Contribution.
+        (ii)  DISCUSS your findings with appropriate RECOMMENDATIONS.
+8.   The information given below pertains to ABC Enterprises, a specialized car garage door
+      installation company. ABC Enterprises use to get multiple service calls from the customers with
+      variety of requirements. They may have to Install, Replace, Adjust or Lubricate some part or
+     other to make the door functional. They work with 5 major parts as given in the table, namely
+     Door, Motor, Track, Trimmer and T -Lock.
+                                        Type of Service       Sr.No.   Parts                                                               Total                                       Install    Replace     Adjust     Lubricate
+        1     Door              2          5          1           0          8
+        2     Motor             3          2         16           9         30
+        3     Track             5          0          6           6         17
+        4     Trimmer          14         6          0           0         20
+        5     T-Lock            5          0          1           0          6
+        6     Miscellaneous      0          2          1           1          4
+                Total             29         15         25          16         85
+    Required
+        (i)   Using the above data, carry out a Pareto Analysis (80/20 rule) of Total Parts.
+         (ii)  Using the same data carry out the second level Pareto Analysis on the type of services
+           with respect to Motors only.
+          (iii)  Give your RECOMMENDATIONS on the basis of your calculations in (i) and (ii) above.
+    (Do calculations to two decimals only)
+
+   ANSWERS/ SOLUTIONS
+1.     (i)   Manufacturing Cycle Efficiency (MCE)
+                                      Processing Time         =
+              Inspection Time + Process Time + Queue Time + Move Time + Wait Time
+                                  2.8 days
+         =                                         = 11.67%
+              0.5 days+ 2.8 days+ 4.0 days+ 0.7 days + 16.0 days
+          Interpretation
+            In AKG, the MCE is 11.67%, which means that 88.33% of the time a unit is in process is
+          spent on the activities that do not add value to the product. Monitoring the MCE helps
+         companies to reduce non -value added activities and thus get products into the hands of
+         customers more quickly and at a lower cost.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.49
+
+        (ii)  Percentage of Time Spent on Non- Value Added Activities
+         = 100% -11.67%
+         = 88.33%
+        (iii)  Delivery Cycle Time
+         = 0.5 days + 2.8 days + 4.0 days + 0.7 days + 16 days
+         = 24 days
+      (iv)  Revised MCE
+                                 2.8 days
+         =
+              0.5 days+ 2.8 days+ 0 days+ 0.7 days + 16 days
+         = 14%
+
+                                                 Alternative
+
+
+            (i)   Manufacturing Cycle Efficiency (MCE)
+                  Value Added Time (ProcessingTime)             =
+                 Throughput(ManufacturingCycle)Time
+                                  2.8 days             =
+                   0.5 days+ 2.8 days+ 4.0 days+ 0.7 days
+             = 35%
+               Interpretation
+                 In AKG, the MCE is 35%, which means that 65% of the time a unit is in process is spent on
+               the activities that do not add value to the product. Monitoring the MCE helps companies to
+              reduce non -value added activities and thus get products into the hands of customers more
+                quickly and at a lower cost.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+7.50      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+               (ii)  Percentage of Time Spent on Non- Value Added Activities
+             = 100% -35%
+             = 65%
+               (iii)  Delivery Cycle Time
+             = 0.5 days + 2.8 days + 4.0 days + 0.7 days + 16 days
+             = 24 days
+            (iv)  Revised MCE
+                                 2.8 days             =
+                   0.5 days+ 2.8 days+ 0 days+ 0.7 days
+             = 70%
+ 
+            Note  that MCT does  not  include  the  waiting  time  before  the  “order  is  received by
+             manufacturing” (i.e. receipt time).
+            Examples of non value added cycle time include the time the product spends waiting for parts
+               or for the next stage in the production process, being inspected or repaired or being moved.
+              This question has been solved in two different ways
+             Wait time: from start of production to completion.
+                In the first way, “Waiting Time” has been considered as the time product spends waiting for
+              parts etc. from the start of production to completion i.e. in the production process. In this case
+              “Waiting Time” is a non- value- added activity and part of MCT and will reduce MCE.
+             Wait time: from order being placed to start of production.
+                In second way, “Waiting Time” has been considered as the time between ‘customer places
+               order’ and ‘order received by manufacturing department’, in other words it is the time product
+            spends before the production process starts. MCT does not include the waiting time before the
+               ‘order is received by manufacturing department’. Therefore, the same has not been considered
+                for the MCE calculations.
+2.     (i)   The reported income from operations does not accurately measure performance because
+          the service department charges are based on revenue. Revenue is not associated with
+          the profit centre manager’s use of the service department services. For example, the
+          Reservations Department serves only the Passenger Division and number of reservations
+          requested by Cargo Division is NIL. Thus, by charging this cost based on revenue, these
+          costs are incorrectly charged to the Cargo Division. Further, the Passenger Division
+           requires additional personnel. Since these personnel must be trained, the training costs
+          assigned to the Passenger Division should be greater than the Cargo Division.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.51
+
+       (ii)                      ABC Airlines
+                                     Divisional Income Statement
+                              For the Year Ended March 31, 2024
+             Particulars                        Cargo        Passenger       Total
+                                                   Division         Division
+                                                             (`)                (`)             (`)
+         Revenue                              42,00,000        42,00,000     84,00,000
+           Less: Operating Expenses             36,00,000        28,50,000     64,50,000
+             (excluding service department charges)
+          Gross Margin                          6,00,000        13,50,000     19,50,000
+           Less: Service Department Charges
+                Training                           1,28,000         5,12,000      6,40,000
+                                                            200                 800             
+                                                               ` 6,40,000        ` 6,40,000                                                             1,000                1,000            
+                  Flight Scheduling                   1,75,000         1,25,000      3,00,000
+                                                            350                 250            
+                                                              ` 3,00,000        ` 3,00,000                                                             600                 600            
+               Reservation                         NIL           2,10,000      2,10,000
+                                                                                   7,000            
+                                                                                       ` 2,10,000                                                                                    7,000            
+          Operating Income                      2,97,000         5,03,000      8,00,000
+3.     (i)   Analysis
+        The product costs per unit along with the respective contribution per unit may be
+           calculated either by employing an ABC approach or alternatively by using the existing
+          basis for the allocation of variable overhead cost.
+        The current scenario of product costing suggests that ‘Dwarfs’ should be produced as per
+          the request of VGG because the contribution to sales ratio is 31.29%. However, the
+           current scenario  of product costing also suggests  that XYZ should not undertake
+          production of ‘The Star’ at a selling price of `740 per unit since the estimated contribution
+            to sales ratio is 15.88% is lower than the desired contribution to sales ratio of 28%.
+            Activity based costing approach ensures greater accuracy by using multiple cost drivers
+         and determines areas generating the greatest profit or loss. Table [(d)] shows how much
+          the contribution to sales (%) for each product changes when the overhead allocation
+         method changes to ABC. As shown in Table, contribution to sales ratio on ‘The Star’
+          increased to 31.87% from 15.88% while contribution to sales ratio on ‘Dwarfs’ reduced
+          from 31.87% to - 29.23%.
+          Thus, XYZ should opt to produce ‘The Star’ for VGG as contribution to sales ratio is 31.87
+         which is higher than the desired one.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+7.52      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+        (ii)  The term Activity based management (ABM) is used to describe the cost management
+           application of ABC. The use of ABC as a costing tool to manage costs at activity level is
+        known as Activity Based Cost Management (ABM). ABM is a discipline that focuses on
+          the efficient and effective management of activities as the route to continuously improving
+          the value received by customers and to improve strategic and operational decisions in an
+           organisation. Kaplan and Cooper divide ABM into Operational and Strategic.
+          Operational ABM covers the actions that increase efficiency, lower cost (i.e. reduce the
+          cost driver rate of  activities) and lead to higher revenue through better resources
+             utilisation- in short, the action required to do things right. In other words, it is all about
+           ‘doing things right’, using ABC information to improve efficiency. It also helps in identifying
+         and improving value added activities and removing non-value-added activities as to
+         reduce cost without distorting product value.
+           Strategic ABM is about ‘doing the right things’. It uses ABC information to determine which
+          products is to be manufactured and which activities is to be used. XYZ can also use this
+            for customer profitability analysis, identifying that which customers are the most profitable
+         and focusing on them more.
+       A risk with ABM is that some activities have an implicit value are not reflected in a financial
+          value added to any product. For example, a good and pleasant working environment can
+            attract and retain the best human resources, but might not be identified as value added
+            activities in operational ABM.
+       ABM provides managers an understanding of costs and helps teams to make certain
+          decisions that benefit the whole organizations and not just their own activities.
+          Therefore, some companies like XYZ may adopt ABM to improve their operations and
+           obtain useful activity information.
+    Workings
+      (a)  Direct Material Cost per unit
+                             The Star       Dwarfs
+             Total Costs (`)          22,50,000       750,000
+            Production units          10,000         20,000
+           Cost per unit (`)          225.00         37.50
+      (b)  Direct Labour Cost per unit
+                             The Star       Dwarfs
+             Total Costs (`)          15,00,000       5,00,000
+            Production units          10,000         20,000
+           Cost per unit (`)          150.00         25.00
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.53
+
+      (c)  Variable Overheads
+           Material Related
+         Overhead Cost = 30% × `120,00,000 = `36,00,000
+           Total Volume Factor
+            Particulars  Units   Required per unit   Total Volume
+          The Star    10,000          5             50,000
+           Dwarfs      20,000          8             1,60,000
+           Other       80,000          5             4.00,000
+            Total Volume Factor                        6,10,000
+         Overhead per unit of volume = `36,00,000/ 6,10,000 = `5.90.
+          Therefore, Overhead Cost per product unit will be as follows:
+          The Star               5      `5.90       29.50
+           Dwarfs                8      `5.90       47.20
+         Labour Related
+         Overhead Cost = 70% × `120,00,000 = `84,00,000
+           Total Operations Factor
+            Particulars  Units   Required per unit   Total Volume
+          The Star    10,000          7             70,000
+           Dwarfs      20,000          6             1,20,000
+           Other       80,000          5             4,00,000
+            Total Operations Factor                     5,90,000
+         Overhead per operation = `84,00,000/ 5,90,000 = `14.24.
+          Therefore, Overhead Cost per product unit will be as follows:
+          The Star       7          `14.24           99.68
+           Dwarfs        6          `14.24           85.44
+      (d)  Product Information (by unit) is as follows:
+            Particulars                       The Star              Dwarfs
+                                           Current    ABC      Current    ABC
+                                          Scenario     Basis    Scenario    Basis
+             Selling Price          …(A)         740.00    740.00      151.00    151.00
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 54 ======================
+
+
+7.54      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+             Direct Material Cost                  225.00    225.00       37.50     37.50
+             Direct Labour Cost                   150.00    150.00       25.00     25.00
+            Variable Overhead Cost:
+                Material Related                   90.00      29.50       15.00     47.20
+              Labour Related                   157.50      99.68       26.25     85.44
+             Total Variable Cost    …(B)         622.50    504.18      103.75    195.14
+             Contribution      …(A) - (B)         117.50    235.82       47.25    (44.14)
+             Contribution to Sales (%)              15.88      31.87       31.29    (29.23)
+ 
+              Total Variable Overheads are 120L. Out of which 30% i.e. 36L relates to material and 70% i.e.
+            84L relates to Labour. Now allocate variable overheads into product units using % of total
+                direct material cost and total direct labour cost.
+         VO Material Related    40% of Material Cost
+                                     `{36L/ (22.5L + 7.5L + 60L)}
+         VO Labour Related     105% of Labour Cost
+                                     `{84L/ (15L + 5L + 60L)}
+                                The Star & Dwarf
+         VO Material Related    `90 = 40% of `225;
+                                `15 = 40% of `37.5
+         VO Labour Related      `157.5 = 105% of `150;
+                                   `26.25 = 105% of `25
+4.     (i)   Statement of the Customer Profitability at JSM
+           Particulars                  A (`)   B (`)   C (`)   D (`)   E (`)
+           Margin                  …(A)
+              (no. of units sold × margin per          36,000   60,000   70,000   56,000   80,000
+               unit)
+         Customer Attributable Costs:
+           Cost of Processing Purchase
+           Orders                                             20,000   60,000   50,000   40,000   20,000
+              (no. of purchase order × cost of
+            processing the order)
+           Product Handling Cost
+              (no. of units sold × cost of handling per    900     1,200    1,500    1,050    1,200
+             item)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 55 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.55
+
+
+            Delivery Cost
+              (no. of deliveries × km per delivery ×      900     2,220     900     3,000    750
+             cost per km)
+           Cost of Rush Deliveries
+              (no. of rush deliveries × cost per rush          ---      2,400        ---           ---           ---
+              delivery)
+            Total                   …(B)   21,800   65,820   52,400   44,050   21,950
+              Profit (or Loss)       …(A) – (B)   14,200   –5,820   17,600   11,950   58,050
+              Profit/ Net Revenue (in % age)       39.44%   –9.7%   25.14%  21.34%  72.56%
+         Analysis
+        From the above, it can be concluded that customer A, C, and D are less profitable than
+         customer E; whereas customer B is causing losses. Customer B provides a positive
+          operating margin but is unprofitable when customer attributable costs are considered.
+          This is because customer B requires more sales orders than the other customers. In
+           addition, the customer has rush delivery costs.
+          This analysis can make sense,  if interpreted, considering the ‘Pareto Analysis’. Pareto
+           Analysis named after economist Vilfredo Pareto, who specifies that 80% of consequences
+        come from 20% of the causes i.e. 20% of customer provide 80% of the profit. Means input
+         and output may not be balanced. (Curve of revenue, as shown in figure; represent that
+               initially large amount of revenue comes from small portion of sales/customers only - such
+           small proportion of customers is critical to success of entity).
+          Although here proportion of 80:20 don’t hold truth, but for JSM;
+          major portion of profit (around 60%) coming from customer E
+           only, therefore, customer E is critical to JSM. Special attention
+         can then be given to enhancing the relationships with the
+         customer E to ensure that customer E cannot migrate to other
+           competitors. In addition, greater emphasis can be given to
+            attract new customers that have the same attributes as the most
+            profitable customer E.
+           Further, there is no point in serving customer B, but instead of refusing to trade with
+         customer B, if possible; it may be better to turn it into profitable customer. Customer B
+         can be made profitable if action is taken to convince the customer B to place a smaller
+         number of larger quantity orders and avoid rush deliveries.  If customer B cannot be
+          convinced to change its buying behavior, selling prices should be increased to cover the
+           extra resources consumed.
+        (ii)  Supply chain management is the technique to integrate the supplier, manufacturing,
+           store, and distribution function efficiently; in order to procure, produce and distribute at/in
+            right time, quantity and place respectively. For effective distribution, CRM can be enabling
+             tool. CRM is an integrated approach to manage and coordinate customer interactions to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 56 ======================
+
+
+7.56      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+            identifying, acquiring, and retaining customers. CRM enables businesses to understand
+         and retain customers (through better customer experience) apart from attracting new
+          customer, in order to increase profitably and decrease customer management costs.
+      CRM system, comprises  following three fundamental aspects  to  facilitate  building
+           relationship with profitable customers –
+         ▪    Operative CRM takes care of individual transactions and is used by operational
+              team. Interactions by customers are kept in the data base and are used later by the
+                 service, sales, and marketing team for operational decisions. In JSM, the staff who
+                    is responsible to deal with customer must be given access to customer’s details
+                including all the information of activities performed earlier. This will enhance the
+             JSMs’ staff’s efficiency to deal with customer-facing processes in a better way.
+         ▪    Analytical CRM analyses the data created on the operational side of the CRM effort
+                  for evaluation and prediction of customer behavior. In JSM, analytical CRM can
+                 highlight the patterns in customers’ behavior which will help sale team while pitching
+                the product at JSM.
+         ▪    Collaborative CRM ensures that information about customer must flow seamlessly
+               throughout the supply chain, majorly distribution channel; in form of collaborative
+                   effort by  all associated department of JSM to increase the quality of services
+               provided to customers. Increase in utility at customer end will result in increased
+                  loyalty. Collaborative CRM comprises interactive technology like email, digital media
+                 to simplify the communications between customers and staff which would help in
+                 building relationships.
+5.     (i)                      Customer’s Profitability Statement
+            Particulars           Customer- A   Customer- B    Customer- C    Customer- D
+           Sales (cases)             7,580          38,350          78,520          15,560
+                                              (`)                (`)                 (`)                (`)
+               List Price per case         250           250            250            250
+            Less: Discount              5             14             22             18
+                                 (`250 × 2%)    (`250 × 5.6%)    (`250 × 8.8%)   (`250 × 7.2%)
+             Actual Selling Price         245           236            228            232
+            (Net of Discounts) per
+           case
+            Less: Variable Cost         218           218            218            218
+            per unit
+             Contribution per unit        27            18             10             14
+             Total Contribution         2,04,660        6,90,300         7,85,200         2,17,840
+                                     (`27 ×          (`18 ×           (`10 ×          (`14 ×
+                                   7,580 units)     38,350 units)     78,520 units)    15,560 units)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 57 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.57
+
+
+            Less: Additional
+           Overheads
+               Visit Cost                  4,500           9,000           12,000           7,500
+                                        (6 × `750)      (12 × `750)      (16 × `750)      (10 × `750)
+            Order Processing          9,600          14,400          28,000          19,200
+            Cost                    (12 × `800)      (18 × `800)      (35 × `800)      (24 × `800)
+             Delivery Cost              2,940           3,675            4,725           4,200
+                                 (280 × `10.50)   (350 × `10.50)   (450 × `10.50)    (400 × `10.50)
+            Product Handling          18,950         95,875          1,96,300         38,900
+            Cost                      (7,580          (38,350          (78,520         (15,560
+                                × `2.50)       × `2.50)        × `2.50)        × `2.50)
+               Profit per customer        1,68,670        5,67,350         5,44,175         1,48,040
+                                 (11.81% of       (39.72% of      (38.10% of      (10.37% of
+                                                  total)                total)               total)                total)
+               Profit per customer         22.25           14.79            6.93             9.51
+            per case
+       (ii)  Going by volume of cases sold, customer C is the biggest customer accounting for 56%
+           of total sales volume, followed by customer B (27%), customer D (11%) and customer A
+          (6%). However, in terms of profit per customer, Customer B  is the most profitable
+          accounting for 39.72% of the cumulative customer profits of `14,28,235. Customer C
+          contributes to 38.10% of the same. Comparing customers B and C, customer B is more
+           profitable despite accounting for sales volume that  is less than half of customer C
+         (customer C’s 56% of sale volume versus customer B’s 27%). The primary reason for this
+             is because the discount given to customer C (8.8%) is higher than that given to customer
+       B (5.6%). The difference is terms of sale could be due to the fact that customer C is the
+          biggest customer and hence is able to negotiate for a higher discount. Consequently, for
+         each case sold, customer C gets an additional discount of `8 as compared to customer
+          B. This is reflected in the contribution generated per case. Sale of one case to customer
+       C generates `10 contribution versus sale of one case to customer B generates `18
+           contribution. This has a huge impact on profitability. In terms of profit generated per case
+           sold, customer C has the lowest contribution at `6.93 per case. The company may review
+         whether this difference in terms of sale to each of its customers is justified. If the discount
+           to customer C at 8.8% was initially extended to promote sales, negotiations can be made
+           to reduce this to mutually acceptable rates. However, care must be taken not to lose
+         customer C to competitors.
+         Customer D is the least profitable accounting for just 10.37% of the total customer profits.
+           In terms of sale volume, the customer ranks third providing 11% volume. However, the
+         customer is not profitable because of the following reasons:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 58 ======================
+
+
+7.58      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+           (a)  A discount rate of 7.2% is provided to the customer. Each case sold after a discount
+                 of `18 per case, generates a contribution per case of only `14 per case. This is
+           much lower compared to the contribution per case of customer A (`27 per case) and
+             customer B (`18 per case). This discount policy may need to be reviewed. One
+               scenario where such a high discount may be justified would be where customer D
+               supplies the products that it manufactures at a discounted rate to a sister concern of
+               the company. Therefore, at a parent company / overall level, the higher discount rate
+                  for a low volume customer D may be justified.
+           (b)  For a customer that provides 11% of volume, the number of site visits during the year
+             were 10. Customer C giving 56% of volume had only 16 visits and customer B giving
+           27% of volume had only 12 visits. This indicates that customer D, although a smaller
+              customer, requires more visits than regular customers. Therefore, site visit costs are
+               higher for this customer. The reason for a higher handholding by the company for
+                  this customer has to be analyzed. For example, one possible reason could be that
+             customer D requires the cases customized to its production requirement. This may
+               require more site visits by the company’s personnel. To resolve this, due to the extra
+             work involved, the company may wish to charge a higher sale price for the cases
+              customized for customer D. In another other scenario, it may choose to charge the
+             customer a fixed rate for each site visit.
+            (c)  For a customer that provides 11% of volume, the number of orders placed in a year
+              are 24. Customer C giving 56% of volume placed 35 orders in a year and customer
+           B giving 27% of volume placed 18 orders in a year. This indicates that customer D,
+              although a small customer, places  orders more  frequently than  other  larger
+              customers. Therefore, order processing costs are higher  for customer D. The
+            company may revise ordering schedule for this customer or find out the reason for
+               higher proportion of purchase orders, in order to pass on some of the cost to the
+              customer. For example, let us say, customer D has an agreement with the company
+                 to provide cases “just in time” resulting in more frequent orders as compared to other
+              customers.  Therefore,  the company  is  providing  flexibility  in procurement  to
+             customer D. For this convenience,  it may pass on some of the ordering cost to
+             customer D by way of a higher selling price or a lower discount.
+           (d)  Again, given the volume, the number of deliveries to customer D (400) is at a higher
+               proportion compared to the larger customers C (450) and B (350). The company may
+               revise delivery schedule for this customer or find out the reason for higher proportion
+                 of deliveries, in order to pass on some of the cost to the customer. For example, let
+             us say, customer D has an agreement with the company to provide cases “just in
+                time”  resulting  in more frequent  deliveries as compared  to other customers.
+               Therefore, the company is providing flexibility in procurement to customer D. For this
+              convenience, it may pass on some of the delivery cost to customer D by way of a
+               higher selling price or a lower discount.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 59 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.59
+
+         Customer A is the smallest customer providing only 6% of total sale volume. However,
+          with  a  contribution  per  case  at  `27  per  case  and  a   profit  per  case  at
+         `22.25 per case, it is the most profitable of all customers. The primary reason for this is
+          the discount of 2% offered is much lower than other customers. Each case sold to
+         customer A  yields  a  contribution  of  `27  as  compared  to  a  contribution  of
+        `10 from customer C, the biggest customer. Possible reason for a lower discount maybe
+         customer A, being a smaller player, may have lesser bargaining power compared to other
+         customers. If the company wishes to have a longer business relationship with customer
+          A,  it may wish to provide more favorable discount terms to this party. However, since
+         customers B and C are much larger customers, any benefit passed onto customer A
+         should not impact the company adversely in the long run. For example, to get more orders
+         from customer A, the company gives a 10% discount to the party. Consequently, the
+            profitability of customer A will decrease. Let us say customer A places huge orders due
+           to which there are capacity constraints within the company. Sales to customers B and C,
+          the current larger customers, may be impacted. This could affect the company adversely
+            in terms of lost sales to customers B and C and loss of business relationships with these
+           parties. Therefore, careful consideration should be given before extending discounts to
+         improve sales from customer A.
+        As regards product handling cost, each customer is currently charged `2.5 per case sold.
+        The company, if feasible, apply Activity Based Costing technique to find out if this can be
+          allocated based on the cost driver for each customer. Let us say, packing cost before
+         shipment is part of product handling cost. If customer B requires special packing to ship
+          the goods, then customer B needs to be allocated a higher packaging cost as compared
+           to the others. This cost can be recouped from customer B through a higher selling price.
+6.     (i)  Customer Wise Profitability Statement and Overall Profitability Statement
+          SN.     Particulars               PER    MGH    WLY     Total `
+          A    Sales (net proceeds) –Table    2,41,288   2,37,500   2,72,812   7,51,600
+                   1
+          B     Variable Cost of Goods Sold   1,50,000   1,42,500   1,87,500   4,80,000
+         C     Assignable- Marketing and
+                    Administration Cost - Table 2
+                            •  Order Taking and           1,200      600      4,500      6,300
+                      Processing
+                            •  Sale Return Processing      150              -        1,200      1,350
+                            •   Billing Cost                200       100       750      1,050
+                            •  Customer Visit             800              -        4,000      4,800
+                     Total Assignable Marketing      2,350      700      10,450    13,500
+                 and Administration Cost
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 60 ======================
+
+
+7.60      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+         D     Assignable- Distribution
+                  Cost - Table 2
+                            •  Expedited / Rush Orders     250              -        1,250      1,500
+                            •   Delivery Costs             8,000      4,000            -       12,000
+                            •   Inventory Carrying Cost     10,000     9,500     12,500    32,000
+                     Total Assignable Distribution    18,250     13,500    13,750    45,500
+                  Cost
+          E    Non- Assignable Fixed Cost           -                -               -       1,00,000
+           F     Total Costs (B+C+D+E)        1,70,600   1,56,700   2,11,700   6,39,000
+        G    Net Profit (Step A - F)           70,688     80,800    61,112    1,12,600
+         H      Profit % of Sales (G / A)       29%     34%     22%     15%
+        Workings
+         Table 1: Customer Sales Analysis - Revenue Analysis
+                                                                                                      All figures in `
+           Particulars                     PER    MGH    WLY     Total `
+           Sales {Sale Units × Sale Price (gross)}     2,50,000   2,37,500   3,12,500   8,00,000
+           Less: Sale Return (Step 1 × Return%)      1,250            -       31,250    32,500
+          Net Sales                             2,48,750   2,37,500   2,81,250   7,67,500
+           Less: Cash Discount                    7,462            -        8,438     15,900
+          Net Proceeds                         2,41,288   2,37,500   2,72,812   7,51,600
+            Final Collections vs Original Sale       97%     100%     87%     94%
+
+         Table 2: Assignable Marketing, Administrative and Distribution Costs
+                                                                                                      All figures in `
+            Particulars                          PER   MGH   WLY     Total
+           Order Taking and Processing                    1,200    600    4,500    6,300
+              (# of orders × cost per order)
+           Expedited / Rush Orders                      250          -      1,250    1,500
+              (# of orders × cost per order)
+            Delivery Costs                                8,000   4,000         -      12,000
+             (Distance in km. × cost per km)
+           Sale Return Processing                       150          -      1,200    1,350
+              (# of returns × cost per return)
+               Billing Cost                                 200     100     750     1,050
+              (# of invoices × cost per invoice)
+           Customer Visit (#of customer visits × cost per visit)      800          -      4,000    4,800
+            Inventory Carrying Cost                       10,000   9,500   12,500   32,000
+              (# of units × inventory carrying cost p.u.)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 61 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.61
+
+        (ii)  Customer strategy: It can be seen that Bookmark LLP has an overall profit of `1,12,600 or
+       15% of sales. While the performance is good, the firm’s management has to analyze
+          customer wise profitability.
+            (a) WLY is the largest customer in terms of units sold. However, Table 1 above shows
+                 that sale returns at 10%, which is unusually large compared to other customers.
+             Bookmark LLP has to investigate why the returns are of such large quantity.
+                Possibly, there could be communication gap between the firm and WLY. Possible
+               non-conformity in goods delivered has resulted in returns. Only 87% of the original
+                sale value is being collected. The root cause of the problem has to be identified and
+                   rectified. This will also reduce the sale return processing costs.
+            (b) WLY has placed many rush orders, which requires Bookmark LLP to ship these
+               orders immediately, using costlier means of transportation. Currently, there is no
+              charge for shipping rush orders. In order to deter WLY from repeatedly placing rush
+                orders, Bookmark LLP can charge the customer for shipping such orders beyond a
+                threshold number of orders. Say rush orders beyond 2 orders will be charged to the
+               customer.
+             (c)  WLY has placed 15 orders for 1,250 units. Comparatively, PER and MGH placed 4
+             and 2 orders for approximately 1,000 units each. WLY can be requested to place
+               fewer orders with larger quantity per order, in order to optimize ordering cost.
+            (d)  Being the largest customer, WLY has 5 sale visits from Bookmark LLP, which is
+             more than the other 2 customers. Priced at `800 per visit, this very costly. At the
+            same time, WLY  is yielding the least  profit. Therefore, Bookmark LLP should
+              reassess if resources can be reallocated to the other two more profitable customers.
+              That may encourage more sales from higher yielding customers.
+            (e)  Since WLY seems to need more hand-holding in terms of more sales visits as well
+              as higher rush orders, Bookmark LLP may assess if it wants to discontinue or reduce
+               business. Alternatively, it may reassign these resources towards existing or newer
+              customers to get better profitability. However, if WLY can be migrated to a higher
+                    profitability, Bookmark LLP need not lose out its market share.
+               (f)  Customer MGH is the most profitable yielding 34% return over sales, although in
+               terms of ‘Advanced Learner’s Dictionary’ ordered,  it is the smallest of the three.
+             Bookmark LLP can assess  if  it can extend some discount, in order to encourage
+             more sales. Currently, Customer MGH does not get any discount.
+            (g)  Bookmark LLP can assign more sales  visits  to Customer PER and MGH to
+              encourage them purchase more as well as provide high quality customer service.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 62 ======================
+
+
+7.62      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+7.   “Pareto Analysis”
+      Model   Sales   % of  Cumulative  Model   Cont.   % of      Cumulative
+                 (`’000)    Total      Total               (`’000)  Total Cont.     Total %
+                          Sales
+               Pareto Analysis Sales                 Pareto Analysis Contribution
+       A001   5,100    35.05%   35.05%    B002     690     30.87%     30.87%
+       B002   3,000    20.62%   55.67%    E005     435     19.47%*     50.34%
+       C003   2,100    14.43%   70.10%    C003    300     13.42%     63.76%
+       D004   1,800    12.37%   82.47%    D004    255     11.41%     75.17%
+       E005   1,050     7.22%   89.69%    F006     195     8.73%*      83.90%
+       F006    750     5.15%   94.84%    A001     180     8.05%      91.95%
+      G007    450     3.09%   97.93%    G007    120     5.37%      97.32%
+       H008    225     1.55%   99.48%      I009     45      2.01%      99.33%
+         I009     75      0.52%   100.00%    H008     15      0.67%     100.00%
+               14,550  100.00%                        2,235    100.00%
+       (*) Rounding - off difference adjusted.
+                     Diagram Showing “Sales and Contribution”
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 63 ======================
+
+
+STRATEGIC PROFIT MANAGEMENT             7.63
+
+    Recommendations
+     Pareto Analysis is a rule that recommends focus on the most important aspects of the decision
+    making in order to simplify the process of decision making. The very purpose of this analysis
+      is to direct attention and efforts of management to the product or area where best returns can
+    be achieved by taking appropriate actions.
+     Pareto Analysis is based on the 80/20 rule which implies that 20% of the products account for
+    80% of the revenue. But this is not the fixed percentage rule; in general business sense,  it
+    means that a few of the products, goods or customers may make up most of the value for the
+      firm.
+      In present case, four models namely A001, B002, C003, D004 account for around 80%
+     (82.47%) of total sales whereas around 80% (83.90%) of the company’s contribution is derived
+     from five models namely B002, E005, C003, D004 and F006.
+    Models B002 and E005 together account for 50.34% of total contribution but having only
+    27.84% share in total sales. So, these two models are the key models and should be the top
+      priority of management.  Both C003 and D004 are among the models giving 80% of  total
+     contribution as well as 80% of total sales so; they can also be clubbed with B002 and E005 as
+    key models. The management of the company should allocate maximum resources to these
+     four models.
+    Model F006 features among the models giving 80%of total contribution with a relatively lower
+     share in total sales. Management should focus on its promotional activities.
+    Model A001 accounts for 35.05% of total sales with only 8.05% share in total contribution.
+    Company should review its pricing structure to enhance its contribution.
+    Models G007, H008 and I009 have a lower share in both total sales as well as contribution.
+    Company can delegate the pricing decision of these models to the lower levels of management,
+     thus freeing themselves to focus on the pricing decisions for key models.
+8.     (i)   Statement Showing “Pareto Analysis of Total Parts”
+           Parts                 No. of Items   % of Total Items    Cumulative Total
+          Motor                     30               35.29             35.29%
+          Trimmer                   20               23.53             58.82%
+           Track                     17               20.00             78.82%
+          Door                      8                9.41             88.23%
+          T-Lock                     6                7.06             95.29%
+           Miscellaneous               4                4.71             100.00%
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 64 ======================
+
+
+7.64      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+        (ii)  Statement Showing “Pareto Analysis of Type of Services (Motor)”
+         Type of Services       No. of Items   % of Total Items    Cumulative Total
+           Adjust                    16               53.33             53.33%
+           Lubricate                   9               30.00             83.33%
+              Install                      3               10.00             93.33%
+          Replace                    2                6.67             100.00%
+                                   30
+        (iii)  Pareto Analysis is a rule that recommends focus on most important aspects of the
+           decision making in order to simplify the process of decision making. The very purpose of
+            this analysis is to direct attention and efforts of management to the area where best pay-
+             off can be achieved by taking appropriate actions.
+          Pareto Analysis is based on the 80/20 rule which implies that 20% of the products account
+            for 80% of the revenue. But this is not the fixed percentage rule. In a general business
+          sense, it means that a few of the products, goods or customers may make up most of the
+          value for the firm.
+        The present case stands in a difference to 80/20 rule. Because the company installs
+          doors, they sometimes have multiple service calls to install each door piece by piece.
+         They may have to install, replace, adjust, or lubricate some part to get the door working
+           properly. They work with five main parts: door, motor, track, trimmer and t-lock. The
+           service calls with reference to motors are heavy and accounted for as much as 35.29%
+            of the number of calls attended. Motor together with trimmer accounted for 58.82%. So,
+          these two parts are to be considered as key parts and ABC enterprises must be ever
+          ready to cater to all provisional requirements for attending these classes without any
+           inordinate delay. Any delay in service these calls is likely to damage its service rendering
+           reputation within a very short span of time. Further, the second level Pareto Analysis on
+          motors has revealed a particular reference to the service problems related to motors.
+          Adjustments and Lubrication issues cover up 83.33% of the total service problems
+           exclusively connected to Motors. So, ABC Enterprise must direct its best efforts and
+          develop specific expertise to solve these problems in the best interest of the customer.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 65 ======================
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 66 ======================
+
+
+© The Institute of Chartered Accountants of India

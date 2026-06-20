@@ -1,0 +1,1763 @@
+Source PDF: 07_SPOM/Set_D_04_Digital_Ecosystem_Controls/009 - Chapter-8- Information Systems’ Control - 79449bos63475-cp8.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_04_Digital_Ecosystem_Controls\009 - Chapter-8- Information Systems’ Control - 79449bos63475-cp8.pdf
+Extracted at: 2026-05-31T10:36:36+05:30
+Pages: 41
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+UNIT – III
+ INFORMATION SYSTEMS’ CONTROLS
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+CHAPTER          8
+         1
+INFORMATION SYSTEMS’
+CONTROL AND ITS
+CLASSIFICATION
+
+
+                      LEARNING OUTCOMES
+After studying this chapter, you will be able to –
+   establish an understanding of the Internal Control Framework and  its
+     components.
+    build a detailed understanding of various types of controls classified under
+      different parameters.
+   comprehend controls based on “Objective of Controls”.
+    classify the controls based on “Nature of information system resources”.
+   know the categorization of controls based on “Audit perspective”.
+   understand the controls based on “Control Activities”.
+   know the role of auditors while inspecting these controls.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+8.2            DIGITAL ECOSYSTEM AND CONTROLS
+
+  CHAPTER OVERVIEW
+
+
+                                                                                    Preventive
+
+
+                                                                                       Detective
+                                                   Objectives of Controls
+                                                                                      Corrective
+
+
+                                                                                            Directive
+
+
+                                                                             Environmental
+
+
+                                                Nature of IS Resources         Physical Access
+                          Classification Critreia                             CONTROLS                                                                   Logical Access
+
+                                                                                 Application Control
+                                                                       Framework
+                                                    Audit Perspective
+                                                                 Management Control
+                                                                       Framework
+
+                                                                              Information Technology
+                                                     Control Activities
+                                                                                Physical Activities
+
+                           Illustration: ABC Multispecialty Hospital
+ ♦   ABC Multispecialty Hospital is one of the prominent hospitals and medical college with
+        national reputation having 250 patient beds and over 3000 employees inclusive of doctors
+       and administrative staff.
+ ♦    The hospital has long been the market leader in several service lines such as critical care,
+       ambulatory care, and home health care.
+ ♦     In the early 90’s, the hospital started using specific software for recording its daily financial
+        transactions and has been upgraded and customized on a regular basis.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                        8.3
+                                CLASSIFICATION
+
+ Problem Raised
+ ♦    The hospital was doing well, however recent changes in regulatory compliances, and
+       market factors have resulted in falling annual profits.
+ ♦    The hospital embarked on a dramatic Business Process Re-engineering effort. With the
+        increasing competition, the hospital sought to reduce its annual operating cost by 10% of
+           its total operating expenses.
+ Solution Found
+ ♦     This initiative was taken by the hospital’s Chief Executive Officer, Mr. Rajesh who sought
+         to change the way the organization viewed its patients, employees, and other stakeholder
+        groups. Hence, ten groups were formed namely finance, information systems, nursing,
+         ancillary services, laboratory, administrative, pharmacy, radiology, supportive services and
+        physician services to review the overall operation of hospital.
+ ♦    These groups were given a three-day orientation and training session by the management
+        consulting company hired by the hospital for assistance in this project.
+ ♦    The administrative work group initiated a study on the working of the Financial Accounting
+       System used by the Accounts department. After the completion of  their study, the
+        administrative group proposed removal of two clerk positions which were no longer
+       necessary due to a decrease in the overall number of medical supply vendors. However,
+         Certified Public Accountant (CPA) and Accounts Manager of hospital opposed the staff
+        reduction, it may affect the general performance concerns and a continuous high turnover
+         rate in the accounts department. However, the other stakeholder approved the same,
+       hence both positions were eliminated from accounts department.
+ ♦    The hospital vendors had raised various complaints about slow payments from the
+       accounts department. Vendors were upset as they were not timely paid and had raised
+       numerous complaints about their slow payments, and therefore, used to threaten the
+      management to stop fully the supply of critical care equipment and accessories to the
+         hospital. This generates the requirement of staff, when this news was shared among the
+        people, one of the employee suggested the name of his son Mr. Mahesh Johri who would
+       be interested in this job and his qualification also matched with this profile.
+ ♦     Mr. Mahesh was found to be personable, curious and eager to work at the hospital,
+        therefore hired as a temporary staff without interviewing any other candidate. Since, he is
+        the son  of  present  staff, and  hired as temporary  staff,  therefore no background
+         investigation was required. Though,  it was one of the hospital’s standard operating
+       procedure for employees in sensitive department such as IT and Finance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+8.4            DIGITAL ECOSYSTEM AND CONTROLS
+
+ Issues found by stake holder in solution provided
+ ♦    The hospital has an internal audit department with Certified Information Systems Auditors.
+        This department performs the internal audit on various business processes of hospital for
+        hassle free working. During a routine audit of the finance division, Mr. Pankaj, Internal
+        Audit Manager, was introduced to Mr. Mahesh.
+ ♦     Mr. Pankaj came to know Mahesh’s father is also working in the hospital, he immediately
+       checked  for the  hospital’s  policies regarding nepotism and found  that the general
+        administrative policies of hospital was prohibits the members of the same family to work in
+       a sensitive department. It was done to avoid the impact on the integrity or safekeeping of
+        corporate assets or documents.
+ ♦    The situation in the accounts department appeared to conflict with hospital’s policies and
+      was considered a red flag, indicating a situational environment which is conducive to a
+         potential management.
+ Discovery of Fraud
+ ♦     After six months, CFO discovered some very unsettling information and identified six cash
+       disbursements totalling ` 80,000 that had been made to Mr Mahesh. He immediately
+        contacted Mr Pankaj, the company’s Internal Audit Manager asking him about the primary
+        job responsibilities of Mr. Mahesh and his employment relationship.
+ ♦     Mr. Pankaj analysed the copies of relevant information system reports, cancelled cheques
+       from the hospital’s bank, supporting cash disbursement authorization forms, did a thorough
+        review  of the accounts payable department’s operating procedures and found  that
+        Mr. Mahesh appeared to have forged six cash disbursement authorization forms, which
+        contained vendor invoice data (e.g. vendor name, vendor address, invoice number, and
+        invoice amount).
+ ♦         It was found that Mr. Mahesh input the data contained on the fraudulent accounting forms
+         into the accounts payable accounting module under his own vendor account.
+ ♦     Furthermore, while Mr. Mahesh’s supervisor was away on vacation, he was assigned
+         responsibility for performing the semi-weekly cash disbursement run.  It was hospital’s
+        standard operating procedure to require a second signature on all cheques over ` 15,000.
+        Mr. Mahesh was very savvy, so in order to avoid creating suspicion by management, each
+         of the individual cheques processed by Mr. Mahesh was for less than ` 15,000.
+ ♦     At the conclusion of the fraud investigation, Mr. Mahesh was now to be interrogated. After
+         investigation he confessed to the crime and explained that he was forced to steal from
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                        8.5
+                                CLASSIFICATION
+
+         hospital. Mr. Mahesh then signed a written confession and was immediately suspended
+        without pay.
+ Observations/Result
+ ♦     This case illustrated a variety of risks and corresponding controls that are normally found
+         in a Financial Accounting system.
+ ♦        It illustrates how a well-designed information system, can still have weaknesses in it. Then,
+       once a system weakness is discovered by an employee; he/she can exploit  it to take
+        personal advantage.
+ ♦    Another important issue brought out in the case is that company management can override
+         policies and procedures at their discretion.
+ ♦    While sometimes justified, the corresponding risk needs to be fully understood.  It also
+        provides an interesting example of how Information Systems auditors can work with other
+       employee groups to improve internal controls, governance and protect against future
+        fraudulent activities.
+
+    8.1  INTRODUCTION
+The increasing use of Information Technology (IT) in organizations has made  it imperative that
+appropriate information systems are implemented in an organization. IT should cover all key aspects
+of business processes of an enterprise and should have an impact on its strategic and competitive
+advantage for its success. The enterprise strategy outlines the approach, it wishes to formulate with
+relevant policies and procedures to achieve business objectives.
+Control is defined as policies, procedures, practices, and organization structure that are designed
+to provide reasonable assurance that business objectives are achieved and undesired events are
+prevented, detected, and corrected.
+The main objectives of information controls are safeguarding of assets, maintenance of data
+integrity,  effectiveness  in  achieving  organizational  objectives, and  efficient consumption  of
+resources to ensure that the business objectives are achieved. To manage the risks, businesses
+need to set up internal control systems which can be applied to all activities and process of business.
+This is achieved by designing and effective internal control framework which comprise policies,
+procedures, practices, and organization structure  that gives reasonable assurances  that the
+business objectives will be achieved.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+8.6            DIGITAL ECOSYSTEM AND CONTROLS
+
+    8.2  CONTROLS
+Technology has impacted what can be done in business in terms of information as a business
+enabler. It has increased the ability to capture, store, analyze and process tremendous amounts of
+data and information by empowering the business decision maker. With the advent of affordable
+hardware, technology has become a critical component of business. IT department may store all financial
+records centrally. For example, a large multinational company with offices in many locations may store
+all its computer data in just one centralised data centre. In the past, the financial information would have
+been spread throughout the organisation in many filing cabinets. If a poorly controlled computer system
+is compared to a poorly controlled manual system, it would be akin to placing an organisation’s financial
+records on a table in the street and placing a pen and a bottle of correction fluid nearby. Without adequate
+controls, anyone could access the records and make amendments, some of which could remain
+undetected.
+Today’s dynamic global enterprises need information integrity, reliability, and validity for timely
+availability of accurate information throughout the organization. The goals are to reduce the
+probability of organizational costs of data loss, computer loss, computer abuse, incorrect decision
+making and to maintain the privacy; To achieve the required goals, an organization’s management
+must set up a system of internal controls within IT environment. Safeguarding assets to maintain
+accurate data readily available and its integrity to achieve system effectiveness and efficiency is a
+significant control process.
+A well-designed information system should have controls built in for  all its sensitive or critical
+sections. For example, the general procedure to ensure that adequate safeguards over access to
+assets and facilities can be translated into an IS-related set of control procedures, covering access
+safeguards over computer programs, data, and any related equipment’s Information System (IS)
+control procedure may include strategy and direction; general organization and management;
+access to  it resources, including data and programs; System development methodologies and
+change control; Operation procedures; System Programming and technical support functions;
+Qualify Assurance Procedures; Physical access controls; network and communication; Database
+Administration; protective and detective mechanisms against internal/external attacks etc.
+
+    8.3  CLASSIFICATION OF CONTROLS
+A control is a system that is used to prevent, detect, or correct unlawful events or errors. Controls
+can be classified into various categories to illustrate the interaction of various groups in the
+enterprise and their effect on information systems on different basis. The common classification of
+controls is represented in the Fig. 8.1.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                        8.7
+                                CLASSIFICATION
+
+     Objectives of            Nature of IS                                                  Audit Perspective       Control Activities       Controls             Resources
+
+  •Preventive                   • Environmental         •Management           •IT
+   Controls                 Controls                   Control Framework         • General Control
+  •Detective Controls       •Physical Access          •Application Control         • Application Control
+  •Corrective                Controls               Framework             •Physical
+   Controls                •Logical Access
+  •Directive Controls        Controls
+
+                                   Fig. 8.1: Classification of Controls
+8.3.1 Classification based on “Objectives of Controls”
+The controls applied to risks can be represented with a hierarchy of options of Preventive,
+Corrective, Directive and Detective (PCDD) which are described as follows through an illustration
+highlighted in the Fig. 8.2:
+
+Mr. Oberoi complains about high fever, sever coughing, shortness of breath and fatigue to his
+doctor, Mr. Rajesh. The Doctor on analysing his symptoms and widespread across the city,
+prescribed COVID test to Mr. Oberoi.
+
+     PREVENTIVE MEASURES                  DETECTIVE MEASURES
+ Mr. Anil, a healthcare provider is       Mr.  Oberoi  is  detected COVID19  positive &
+  his attendant in the hospital. He has                                    recommended  to  be  hospitalized  in  isolated
+ been well trained to how to practice      COVID ward.
+  best possible prevention measures
+  like hygiene practices, Handwashing                                       CORRECTIVE MEASURES
+  techniques, Disinfectant clothing etc.
+  while attending the COVID patients.      Mr.  Oberoi  has  been  put  on  COVID19  drug
+                                           treatment.
+
+                           DIRECTIVE MEASURES
+Mr. Oberoi has been directed to not to attend the office till he recovers fully. The family members
+and office staff working alongwith Mr. Oberoi have been directed to undertake the COVID Test.
+
+                                     Fig. 8.2: ILLUSTRATION
+(A)   Preventive Controls: These controls are designed to prevent errors, omissions, or security
+      and malicious incidents from occurring. Preventive controls can be implemented in both
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+8.8            DIGITAL ECOSYSTEM AND CONTROLS
+
+      manual and computerized environments. The implementation methodology may differ from
+      one environment to the other.
+     The main characteristics of Preventive controls are as follows:
+    o    A clear-cut understanding about the vulnerabilities of the asset.
+    o     Understanding of probable threats.
+    o     Provision of necessary controls for probable threats from materializing.
+    o    They are basically proactive in nature.
+    o    These are more cost-effective than detection and correction of errors when they occur.
+      Refer Table 8.1 to know about advantages, disadvantages, and examples of Preventive
+       Controls.
+                                Table 8.1: Preventive Controls
+         Advantages      Disadvantages                  Examples
+       These   controls  Not  a  cost-effective  Employing qualified personnel; Segregation
+         eliminate    the   operation,  moreover   of  duties;  Access  control  that  protect
+           risk;       and   not    possible     for   sensitive  data/  system  resources  from
+         therefore,   no   operational reasons.    unauthorized  people;  Vaccination  against
+          further                                   diseases;    Documentation;    Prescribing                            Elimination          of         consideration  is                          appropriate books for a course; Training and                              beneficial    activities,         required.                                     retraining    of    staff;   Authorization    of                                activities  may   be                                                      transaction; Validation,  edit checks  in the                              either  outsourced  or                                                        application;  Firewalls;  Anti-virus  software                          replaced          with                                              (sometimes this act like a corrective control                        something        less                                                      also)    etc.,   Intrusion   Prevention   and                              effective and efficient.                                              Passwords. The above  list contains both
+                                           manual  and   computerized,   preventive
+                                                        controls.
+(B)   Detective Controls: These controls are designed to detect errors, omissions or malicious
+       acts that has occurred and report the occurrence. In other words, Detective Controls detect
+       errors or incidents that elude preventive controls.
+     The main characteristics of Detective controls are given as follows:
+    o    These controls required to have clear understanding of lawful  activities so that
+              deviation is reported as unlawful, malicious, etc.
+    o    These controls require an established mechanism to refer the reported unlawful
+                activities to the appropriate person or group, whistle blower mechanism.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                        8.9
+                                CLASSIFICATION
+
+    o    These controls interact  with preventive control to prevent such acts from occurring
+           and may lead to change in structure of preventive controls.
+    o     Surprise checks by supervisor.
+    o    These controls are designed to be of  investigative in nature that reveals errors by
+           making a comparison with actual occurrence based on prescribed standards.
+    o    These controls provide evidence after the event such as loss/error has occurred but
+           do not prevent them from recurring.
+      Refer Table 8.2 to know about advantages, disadvantages, and examples of Detective
+       Controls.
+                               Table 8.2: Detective Controls
+      Advantages   Disadvantages                   Examples
+       Simple     to  Risks  generally  Review of payroll reports; identification of account
+       administer     occur     before                                   numbers of inactive accounts or accounts that have      and    gives  they         are
+                                   been flagged for monitoring of suspicious activities        early warning   detected.
+              if any of other                 Compare   transactions  on   reports   to  source
+         risk     has                   documents;  Monitor  actual  expenditures  against
+        materialize                                        budget;
+                                 Use   of  automatic  expenditure   profiling  where
+                                 management gets regular reports of spend to date
+                                          against profiled spend; Hash totals; Check points in
+                                         production jobs; Echo control in telecommunications;
+                                         Duplicate checking of calculations; Past-due accounts
+                                              report; internal audit functions; Intrusion Detection
+                                     System; Cash counts and bank reconciliation and
+                                         Monitoring expenditures against budgeted amount.
+                                       For sensitive electronic communications, detective
+                                            controls indicate that a message has been corrupted
+                                            or  the  sender’s  secure  identification  cannot  be
+                                           authenticated.
+(C)   Corrective Controls: It is desirable to correct errors, omissions, or incidents once they have
+      been detected. These corrective processes also should be subject to preventive and detective
+       controls because they represent another opportunity for errors, omissions, or falsification.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+8.10           DIGITAL ECOSYSTEM AND CONTROLS
+
+     The main characteristics of the Corrective controls are as follows:
+    o     Minimizing the impact of the threat.
+    o      Identifying the cause of the problem.
+    o     Providing Remedy to the problems discovered by detective controls.
+    o     Getting feedback from preventive and detective controls.
+    o     Correcting errors on account of unlawful/wrong event.
+    o    Most efficient to prevent errors or detect them as close as possible to their source to
+               simplify correction.
+    o    Designed to reduce the impact or correct an error once it has been detected.
+    o     Modifying the processing systems to minimize future occurrences of incidents.
+      Refer Table 8.3 to know about advantages, disadvantages, and examples of Corrective
+       Controls.
+                               Table 8.3: Corrective Controls
+      Advantages      Disadvantages       Examples
+       •    Reactive  in  •   The design and   Corrective controls may include the use of
+             nature.            implementation                                                       default dates on invoices where an operator
+                                    of these controls       •   Simple and                       has tried to enter the incorrect date. For
+                            sometimes may             cost                               example- “Complete changes to IT access                            cause   potential               effective.                                                                   lists   if  individual’s  role  changes”  is an                              disagreement.
+       •   Do      not                       example of corrective control. If an accounts
+                       •   These are put in             replace   or                             clerk is transferred to the sales department                               place because of             eliminate                                             as a salesman, his/her access rights to the                                 regulatory             the  existing                                requirement;       general ledger and other finance functions              practices.
+                           hence        the  should be removed and he/she should be
+                                 organization has  given access only to functions required to
+                                    to  confirm  their                                                perform his sales job.
+                             acquiescence
+                                 with   minimum  Some other examples of Corrective Controls
+                               requirement   of  are  submitting  corrective  journal  entries
+                                     legislation.         after discovering an error, to identifying and
+                                              removing unauthorized users or software
+                                               from systems or networks to recovery from
+                                                       incidents,   disruptions,  or   disasters;  A
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.11
+                                CLASSIFICATION
+
+                                              Business     Continuity    Plan    (BCP);
+                                              Contingency planning; Backup procedure;
+                                           Rerun procedures; System reboot; Change
+                                                      input value to an application system; and
+                                                      report violations.
+
+(D)    Directive Controls: These controls generally give directions to people or employees to follow
+      and make them understand to limit the damage and loss. Directive controls ensure the
+      achievement of a specific outcome. As an important control, these are likely to be used for
+      most risks irrespective of existence of other types of control. The management of the
+       organization identified the risk and their integration; prepares the relevant directive; ensures
+       that these are approved for compliance purposes.
+     The main characteristics of the Directive controls are as follows:
+    o     Ensures that all identifieds risks are managed by providing formal directions to staff of
+             the organization.
+    o     Requires  inter departmental indulgent which may include embedded regulatory
+             requirements.
+    o     Ensures the compliance of regulatory requirements.
+    o    These controls will be the first to response to a risk if it occurs.
+    o    These controls are easy to implement as compared to directive control than preventive
+           and corrective to reduce the risk by direction.
+      Refer Table 8.4 to know about advantages, disadvantages, and examples of Directive
+       Controls.
+                             Table 8.4: Directive Controls
+          Advantages         Disadvantages                Examples
+       •   The requirement  •    Training  can  give  The directive controls can be in the
+              or  policies and       impression           task  having  a  risk,  training, and
+            procedures    to       implementation  of   instruction, together with information
+                                                and documented procedure; provide              control  the  risk        control.
+                                                                training  the  employee   to  wear           can         be                           •   May cause chaos  personal protective equipment while             explained  in  a                                as    decentralized  working  on  dangerous  operation;            normal  training                                    operations     are   supervision of enforced procedures;
+            session       for                                         integrally divided.    providing training manual to driver for
+            employees.                                                        defensive   driving  and  use   of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+8.12           DIGITAL ECOSYSTEM AND CONTROLS
+
+       •    Result oriented.                              protocols in case of emergency, SOP
+                                                                    for process, and Internal circulars.
+       •    Safeguarding of
+             asset.
+
+8.3.2 Classification based on “Nature of Information System Resources”
+(A)   Environmental Controls: These are the controls relating to IT environment such as power,
+       air-conditioning, Uninterrupted Power Supply (UPS), smoke detection, fire-extinguishers,
+       dehumidifiers etc. Table 8.5 lists all the controls against environmental exposures like Fire,
+       Electrical  Exposures,  Water Damage, and  Pollution damage and  others  with  their
+      corresponding controls respectively.
+                                Table 8.5: Environmental Controls
+        Fire             Smoke Detectors: These should be positioned at places above
+             It is a major threat  and below the ceiling tiles and should produce an audible alarm
+         to   the   physical  and must be linked to a monitored station.
+        security     of    a  Reduction in Electric firing: The location of the computer
+       computer           room should be strategically planned. Wiring should be placed
+         installation.             in the fire-resistant panels and conduit.
+                              Fire Extinguishers:  Fire Alarms, Extinguishers, Sprinklers,
+                               Instructions / Fire Brigade Nos., Smoke detectors, and Carbon-
+                              dioxide based  fire extinguishers should be well placed and
+                             maintained.
+                              Fire Alarms: Place both automatic and manual fire alarms at
+                                strategic locations. Install control panel and master switches for
+                         power and automatic fire suppression system. On activation of
+                                       fire alarm, a signal may be sent automatically to permanently
+                       manned station.
+                          Regular Inspection: Regular inspection by Fire Department
+                                   Officials. Proper documentation of the procedure should follow
+                             during emergency.
+                           Raising awareness: Fire exits should be clearly marked, and
+                                         all the staff members should be trained  to use the system in
+                          case of emergency. Periodic Mock Drills should be conducted
+                                 to create awareness.
+                       Documented and Tested Emergency Evacuation  Plans:
+                           Saving human  life should be given paramount importance.
+                           Proper procedure  to  controlled shutdown  of  the computer
+                            should be documented and tested.
+        Electrical             Electrical Surge Protectors: The risk of damage due to power
+      Exposure            spikes can be reduced using Electrical Surge Protectors.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.13
+                                CLASSIFICATION
+
+      These  include  the  Un-interruptible Power System (UPS)/Generator: The UPS
+         risk of damages that  provides the backup by providing electrical power from the
+      may be caused due   battery to the computer for a certain span of time, in case of
+         electrical      faults  power failure.
+       such    as    non-  Voltage regulators and circuit breakers: These protect the
+         availability        of  hardware from temporary increase or decrease of power.
+         electricity,   spikes                       Emergency Power-Off Switch: An emergency power-off switch       (temporary     very                                 at the strategic locations should be easily accessible and to be        high      voltages),                           secured from unauthorized people.        fluctuations       of
+                       Power Back up and alignment: Redundant power links should        voltage  and  other
+                         be available at data centre so that interruption of one power       such risks.
+                            supply does not adversely affect availability of system.
+      Water Damage      Water Detectors: These should be placed under the raise floor,
+       Water damage to a  near drain holes and near any unattended equipment storage
+       computer                 facilities.
+         installation can be   Strategically locating the computer room: To reduce the risk of
+        the   outcome    of   flooding, the computer room should not be located in the basement
+       water  pipes  burst.   of the ground floor of a multi-storey building.
+       Water damage may  Some of the major ways of protecting the installation against water
+        also   result   from  damage are as follows:
+        other     resources                          •   Wherever possible have waterproof ceilings, walls, and floors.       such  as  cyclones,
+        floods   tornadoes,  •   Ensure an adequate positive drainage system exists.
+         etc.                •    Install alarms at strategic points within the installation.
+                          •   In flood-prone areas, have the installation above the upper
+                                       floors but not at the top floor.
+                          •   Water proofing and water leakage Alarms.
+       Pollution Damage   Prohibitions against eating, drinking and smoking within the
+      The major  pollutant  information processing facility
+         in    a    computer  •  These  activities should be prohibited from the information
+         installation   is  dust.      processing facility and such instructions should be displayed
+       Dust caught between       at appropriate places such as  - a sign on the entry door.
+        the    surfaces    of
+       storage devices may
+       cause          either
+       permanent  damage
+        to data or read/write
+        errors.
+
+(B)   Physical Access Controls: The Physical Access Controls are the controls relating to
+       physical security of the tangible resources and intangible resources stored on tangible media
+        etc. Such controls include access control doors, security guards, door alarms, restricted entry
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+8.14           DIGITAL ECOSYSTEM AND CONTROLS
+
+       to secure areas, visitor logged access, CCTV monitoring, etc. The details of these controls are
+       given in Table 8.6.
+                          Table 8.6: Controls for Physical Exposures
+      Heena and Neha are two friends who started their startup of candle making and home
+        decorative items. To secure their IT systems, they need to implement controls for physical
+       exposures. What are the possible options for the same?
+      Lock the Doors
+      ♦  Cipher locks (Combination Door Locks) are used in low security situations or
+             when many entrances and exits must be usable all the time. To enter, a person
+               presses a four-digit number, and the door will unlock for a predetermined period,
+                 usually 10 to 30 seconds.
+      ♦  In Bolting Door Locks, a special metal key is used to gain entry and to avoid
+                    illegal entry, the keys should not be duplicated.
+      ♦  Electronic Door Locks can be used wherein a magnetic or embedded chip-based
+                  plastics card key or token may be entered into a reader to gain access in these
+               systems.
+       Physical Identification Medium
+      ♦  Personal Identification Number (PIN)  is a secret number assigned  to an
+                  individual, in conjunction with some means of identifying the individual that serves
+                  to verify the authenticity of the individual. The visitor will be asked to log on by
+                  inserting a card in some device and then enter their PIN via a PIN keypad for
+                 authentication. Entry of individual will be matched with the PIN number available
+                   in the security database.
+      ♦  The Plastic Cards are used  for  identification purposes. Customers should
+               safeguard their card so that it does not fall into unauthorized hands.
+      ♦  Identification Badges are special identification badges that can be issued to
+               personnel as well as visitors. For easy identification purposes, the color of the
+              badge can be changed. Sophisticated photo IDs can also be utilized as electronic
+               card keys.
+      Logging on facilities
+      ♦  Manual Logging: All visitors should be prompted to sign a visitor’s log indicating
+                   their name, date and time of visit, company represented, their purpose of visit,
+              and person to meet. Logging may happen at both fronts office - reception and at
+               Server room. A valid and acceptable identification proof such as a driver’s license,
+               business card or vendor identification tag may also be asked for before allowing
+                 entry inside the company.
+      ♦  Electronic Logging: This feature is a combination of electronic and biometric
+                 security systems. The users logging can be monitored, and the unsuccessful
+                attempts being highlighted.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.15
+                                CLASSIFICATION
+
+       Other means of controlling physical access
+      ♦  Video Cameras should be placed at specific locations and monitored by security
+                guards. Refined video cameras can be activated by motion. The video footage
+              must be retained for longer period for future audit/investigations if any thing may
+               happen.
+      ♦  Extra security can be provided by appointing Security Guards aided with CCTV
+                feeds. Guards supplied by an external agency should be made to sign NDA (Non-
+                Disclosure Agreement) / bond to protect the organization from loss due to theft of
+                 data.
+      ♦  A responsible employee should escort all visitors to ensure Controlled Visitor
+             Access wherein  visitors may be  friends, maintenance personnel, computer
+                vendors, consultants, and external auditors.
+      ♦   All service contract personnel, such as cleaning people and off-site storage
+                 services, should be asked to sign a bond / NDA. This can help in minimizing the
+                  financial exposure of the organization.
+      ♦  Dead Man Doors/Man trap-based systems encompass a pair of doors that are
+                   typically found in entries to facilities such as computer rooms and document
+                  stations. The first entry door must close and lock, for the second door to operate,
+                 with the only one person permitted in the holding area. It helps to manage traffic
+              and prohibits the intruder from escaping the facility quickly.
+      ♦  There should be non-exposure of sensitive facilities such as the presence of
+              windows of directional signs hinting at the existence of facilities such as computer
+               rooms. Only the general location of the information processing facility should be
+                   identifiable.
+      ♦  Computer Terminal Locks ensure that the device to the desk is turned off  or
+                not accessed by unauthorized persons.
+      ♦   All incoming personnel can use Controlled Single-Entry Point unnecessary or
+              unused entry points should be eliminated or deadlocked.
+      ♦   Illegal entry can be avoided by linking the Alarm System to inactive entry point
+              and the reverse flows of enter or exit doors, to avoid illegal entry. Security
+               personnel should be able to hear the alarm when activated. Periodic mock drill
+               should cover testing of alarms.
+      ♦  Perimeter Fencing at boundary of the facility may also enhance the security
+              mechanism.
+      ♦  Control of out of office during the working hours of employees should be
+               monitored carefully and movements of such employees must be logged  and
+                reported to the concerned officials periodically by geo tagging.
+      ♦  Secured Report/Document Distribution Cart must be covered and locked and
+               should always be attended.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+8.16           DIGITAL ECOSYSTEM AND CONTROLS
+
+(C)   Logical Access Controls: Logical Access Controls are the system-based mechanisms used
+       to designate who or what is to have access to a specific system resource and the type of
+       transactions and functions that are permitted.   It restricts the use of information to authorized
+       individulas, groups, or organizations.
+     The characteristics of these controls are as follows:
+    o    These are the controls related to logical access to information resources such as
+             operating systems  controls,  application software boundary  controls, networking
+               controls, access to database objects, encryption controls etc.
+    o    These are implemented to ensure that access to systems, data and programs is
+               restricted to authorized users to safeguard information against unauthorized use,
+              disclosure or modification, damage, or loss.
+    o    The key factors considered in designing logical access controls include confidentiality
+           and  privacy  requirements,  authorization,  authentication, and  incident  handling,
+              reporting and follow-up, virus prevention and detection, firewalls, centralized security
+              administration, user training and tools for monitoring compliance, intrusion testing and
+              reporting.
+      Table 8.7 highlights various controls for technical exposures.
+
+                         Table 8.7: Controls for Technical Exposures
+
+             I.     User Access Management: This involves the system administrator for giving
+                individual users access to the application/Menu/Sysstem required as per the role
+                 in the organization  . This is an important function and  involves the following
+                  activities:
+          o    User Registration: There should be form for user registration which will
+                     provide the information about user such as Name, designation, Department,
+                    date of joining, access rights to be given, approval of access rights by Head
+                        of  Department    Standard  forms  should  also  be  used   for  de-
+                        registration/transfer of user rights.
+          o     Privilege management: Access privileges are  to be aligned with job
+                    requirements and responsibilities are to be minimal w.r.t their job function.
+                    For example, an operator at the order counter shall have direct access to
+                     order processing activity of the application system. Similarly, a business
+                      analyst could be granted access to view the report but should not allow to
+                    modify the report. Modification can be be done by the developer.
+          o    User password management:  Passwords  are  usually  the  default
+                    screening point for access to systems. Allocations, storage, revocation, and
+                     reissue of password are password management functions. Educating users
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.17
+                                CLASSIFICATION
+
+                           is a critical component about passwords and making them responsible for
+                         their password.
+          o    Review of user access rights: A user’s need for accessing information
+                may change due to change in job profile due to promotions  / transfer  /
+                        rotation.  Periodic review  of access  rights should be done  to check
+                      inconsistencies in the user’s current job profile, and the privileges granted.
+
+             II.    User Responsibilities: User awareness and responsibility are also important
+                factors and include followings :
+          o    Password use: This includes mandatory use of strong passwords to
+                     maintain confidentiality. Controls can be built in system for use of strong
+                   password. The definition of strong password should be displayed to user
+                     while creation / change of passwords.
+          o    Sharing of Password: User should never share the password with anyone.
+          o     Writing of Password: Password should not be written on paper  / desk
+                     while operating it should be kept secured by user.
+          o    Unattended user equipment: Users should ensure that none  of the
+                   equipment under their responsibility is ever left unprotected. They should
+                     also secure their PCs with a password and should not leave it accessible to
+                      others. Control should be built in IT system so that users are automatically
+                    logged off after certain period of inactivity. While leaving the premises from
+                    work, care should be taken to always lock the system.
+
+             III.   Network Access Control: Network Access controls refers to the process of
+            managing access for use of network-based services like shared resources, access
+                to cloud based services, remote login, intranet wireless network and internet
+              access. The protection can be achieved through the following means:
+          o     Policy on use of network services: An enterprise-wide policy applicable
+                        to internet and other network  aligned with the business need is the first
+                       step. Selection of appropriate services and approval to access them should
+                  be part of this policy.
+          o    Enforced path: Based on risk assessment,  it is necessary to specify the
+                    exact path or route connecting the networks  e.g.  internet access by
+                  employees will be routed through a firewall and proxy.
+          o    Segregation of networks: Based on the sensitive information handling
+                       function; say a VPN connection between a branch office and the head-
+                         office, this network is to be isolated from the internet usage service thereby
+                      providing a secure remote connection.
+          o    Network connection and routing control: The traffic between networks
+                    should be restricted, based on identification of source and authentication
+                   access policies implemented across the enterprise network facility.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+8.18           DIGITAL ECOSYSTEM AND CONTROLS
+
+          o     Security of network services:  Network devices should be accessed
+                    through authentication and authorization policy should be implemented
+                    across the organization’s network.
+          o     Firewall: A Firewall is a system that enforces access control between two
+                    networks. To accomplish this, all traffic between the external network and
+                     the organization’s Intranet must pass through the firewall that will allow only
+                     authorized traffic between the organization and the outside to pass through
+                                    it. The firewall must be immune to penetrate from both outside and inside
+                     the organization. In order  to insulate the organization’s network from
+                      external networks,  firewalls can be used  to  insulate  portions  of  the
+                      organization’s  Intranet from  internal access as per the organization’s
+                    network usage policy. The firewall rules should be reviewed periodically to
+                   address new threats.
+          o    Network  Encryption: Network  encryption is  defined  as  the  process
+                        of encrypting data and messages transmitted or communicated over a
+                   computer network. Encrypting data means the conversion of data into a
+                     secret code for storage in databases and transmission over networks. Two
+                     general approaches - Private key and Public key encryption are used for
+                      encryption.
+          o     Call Back Devices:  It is based on the principle that the key to network
+                       security is to keep the intruder off the Intranet rather than imposing security
+                  measures after the criminal has connected to the intranet. The call back
+                    device requires the user to enter a password and then the system breaks
+                     the connection.  If the caller is authorized, the call back device dials the
+                         caller’s number to establish a new connection. This limit access only from
+                     authorized terminals  or telephone numbers and prevents an  intruder
+                   masquerading as a legitimate user. This also helps to avoid the  call
+                     forwarding and man-in-the middle attack.
+         IV.    Operating System Access Control: Operating System (O/S) is the computer
+                control program that allows users and their applications to share and access
+           common computer resources, such as processor, main memory, database, and
+                 printers. Major tasks of O/S are Job Scheduling; Managing Hardware and Software
+             Resources;  Maintaining System  Security;  Enabling  Multiple User Resource
+              Sharing; Handling Interrupts and Maintaining Usage Records. Operating system
+                security involves policy, procedure and controls that determine, ‘who can access
+              the operating system,’ ‘which resources they can access’, and ‘what action they
+             can take’. Hence, protecting operating system access is extremely crucial and can
+            be achieved using the following steps.
+          o    Automated terminal identification: This will help to ensure that a specified
+                    session could only be initiated from a certain location or computer terminal.
+          o     Terminal log-in procedures: A log-in procedure is the first line of defense
+                     against unauthorized access as  it does not provide unnecessary help or
+                      information, which could be misused by an intruder. When the user initiates
+                     the log-on process by entering user-id and password, the system compares
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.19
+                                CLASSIFICATION
+
+                     the ID and password to a database of valid users and accordingly authorizes
+                     the log-in.
+          o    Access Token: If the log on attempt is successful, the Operating System
+                     creates an access token that contains key information about the user
+                      including user-id, password, user group and privileges granted to the user.
+                 The information in the access token is used to approve all actions attempted
+                   by the user during the session.
+          o    Access Control List: Access Control Lists (ACLs) provide a method for
+                       controlling access to objects on a computer system. ACLs aim to protect
+                     operating system resources, including directories, files, and devices. An
+               ACL is a list of users and groups, alongwith the permissions they have for
+                  an object, such as a file or directory. hese permissions include read, write,
+                     execute, delete, list directory contents, and change permissions.
+          o     Discretionary  Access  Control:  The  system  administrator  usually
+                    determines who is granted access to specific resources and maintains the
+                   access control  list. However, in distributed systems, resources may be
+                      controlled by the end-user. Resource owners in this setting may be granted
+                      discretionary access control, which allows them to grant access privileges
+                        to other users. For example, the controller who is owner of the general
+                     ledger  grants  read-only  privilege  to  the budgeting department  while
+                    accounts payable manager is granted both read and write permission to the
+                      ledger.
+          o    User identification and authentication: The users must be identified and
+                     authenticated in a foolproof manner. Depending on risk assessment, more
+                       stringent methods like Biometric Authentication or Cryptographic means like
+                        Digital Certificates should be employed.
+          o    Password management system: An operating system could enforce
+                      selection of good passwords. Internal storage of password should use one-
+                 way hashing algorithms and the password file should be stored in encrypted
+                    form and not be accessible to users.
+          o    Use of system utilities: System utilities are the programs that help to
+                manage critical functions of the operating system e.g. addition or deletion
+                        of users. This utility should be accessible to system administrator only. Use
+                  and access to these utilities should be strictly controlled and logged.
+          o    Duress alarm to safeguard users:  If users are forced to execute some
+                       instruction under threat, the system should provide a means to alert the
+                        authorities. The design of the duress alarm should be simple enough to be
+                    operated under stressful situations.
+          o     Terminal time out: Log out the user if the terminal is inactive for a defined
+                       period. This will prevent misuse in the absence of legitimate user.
+          o     Limitation of connection time: Define the available time slot. Do not allow
+                  any transaction beyond this time. For example, System access should not
+                  be allowed after 8.00 p.m. and before 8.00 a.m. or on a Saturday / Sunday
+                      or Holidays.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+8.20           DIGITAL ECOSYSTEM AND CONTROLS
+
+        V.    Application and Monitoring System Access Control: Applications are the most
+           common assets that access information. Users invoke the or modules of application
+                to access, process and communicate information. Hence, it is necessary to control
+               the accesses to application. Some of the controls are as follows:
+          o     Information Access restriction: The access to information is prevented
+                   by application specific menu interfaces, which  limit access to system
+                       function. Controls are implemented on access rights like read, write, delete,
+                  and execute to users, and further to ensure that sensitive output is sent only
+                        to authorized terminals and locations.
+          o     Sensitive System isolation: Based on the critical constitution of a system
+                         in an enterprise, it may even be necessary to run the system in an isolated
+                    environment. Monitoring system access is a detective control, to check  if
+                     preventive controls discussed so far are working.  If not, this control will
+                      detect/report any unauthorized activities.
+          o    Event logging: In Computer systems,  it is easy and viable to maintain
+                     extensive logs for all types of events. It is necessary to review if logging is
+                   enabled and the logs are archived properly. An intruder may penetrate the
+                   system by  trying  different passwords and user ID combinations.  All
+                    incoming and outgoing requests along with attempted access should be
+                    recorded in a transaction log. The log should record the user ID, the time of
+                     the access and the terminal location and, IP address from where the request
+                  has been originated.
+          o     Monitor System use: Based on the risk assessment, constant monitoring of
+                some critical systems is essential. Define the details of types of accesses,
+                      operations, events, and alerts that will be monitored. The extent of detail and
+                     the frequency of the review would be based on criticality of operation and risk
+                        factors. The log files are to be reviewed periodically and attention should be
+                     given to any gaps in these logs. Considering the cyber risk, organization can
+                    outsource the continuous monitoring of key logging activities.
+          o    Clock Synchronization: Event logs maintained across an enterprise
+                    network play a significant role in correlating an event and generating reports
+                  on it. Hence, the need for synchronizing clock time across the network as
+                    per a standard time is mandatory.
+         VI.    Controls when mobile: In today’s organizations, computing facilities are not
+                restricted to a certain data center alone. Ease of access on the move provides
+                efficiency and results in additional responsibility on the management to maintain
+               information security. Theft of data carried on the disk drives of portable computers
+                   is a high-risk factor. Both physical and logical access to these systems is critical.
+               Information is to be encrypted and access identifications like fingerprint, eye-iris,
+            and smart cards are necessary security features. VPN (Virtual Private Network)
+              should be implemented for sharing data with employees / vendors who have opted
+                 for work from home option.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.21
+                                CLASSIFICATION
+8.3.3 Classification based on “Audit Perspective”
+There can be several approaches for audit in IT environment . Auditors have found two ways to be
+especially useful when conducting information systems audits, as discussed below. Fig. 8.3 and Fig.
+8.4 provide an overview of The Management Control Framework and Application Control Framework
+respectively.
+A.    The Management Control Framework (Refer Fig. 8.3): Managerial functions must be
+      reviewed  to ensure the development, implementation, operation, and maintenance  of
+       information systems in a planned and controlled manner in an organization. These functions
+       provide a stable infrastructure in which information systems can be built, operated, and
+      maintained on a day-to-day basis.
+           I.    Top Management Controls: The  controls adapted by the management  of an
+              enterprise are to ensure that the information systems function correctly, and they meet
+             the strategic business objectives. The management has the responsibility to determine
+            whether the controls that their enterprise system has put in place are sufficient so that
+             the IT activities are adequately controlled. The scope of control here includes framing
+              high-level IT policies, procedures, and standards on a holistic view and in establishing
+           a sound internal controls framework within the organization. The high-level policies
+              establish a framework on which the controls for lower hierarchy of the enterprise will
+             operate. The controls flow from the top  of an organization  to the bottom; the
+               responsibility still lies with the senior management. Top management is responsible
+                for planning  for the information systems function. The major functions that a senior
+           management must perform are Planning, Organizing, Leading and Controlling.
+           II.    Systems Development Management Controls: Systems Development Management
+            has responsibility for the functions associated  with analyzing, designing, building,
+               altering, implementing, and maintaining information systems. System development
+              controls are targeted to ensure that proper documentation and authorizations are
+              available for each phase of the system development process.  It includes controls
+             required for new system development activities. Therea are various activities involved
+               that deal with system development controls in IT setup.
+           III.   Programming Management Controls: Program development and implementation is
+           a major phase within the system’s development life cycle. The primary objectives of
+                this phase are to produce or acquire and to implement high-quality programs. Refer
+               Fig. 8.3 for the details of each phase of the Program Development Life cycle.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+8.22           DIGITAL ECOSYSTEM AND CONTROLS
+
+        IV.   Data Resource Management Controls: In organizations, data is a critical resource
+               that must be managed properly accordingly, centralized planning and control are
+            implemented. For effective data management , users must be able to share data; data
+           must be available to users when it is needed, in the location where it is needed, and
+                in the form in which it is needed. Further, it must be possible to modify data easily if
+             the change is required and the integrity of the data must be preserved.
+                      If data repository system is used properly, it can enhance data and application system
+                 reliability. Data definition should be controlled carefully,  as the consequences are
+             serious if the data definition is compromised or destroyed. Careful control should be
+             exercised over the roles by appointing senior, trustworthy persons, segregating duties
+               to the extent possible and maintaining and monitoring logs of the data administrator’s
+           and database administrator’s activities. Data integrity is defined as maintenance,
+             assurance, accuracy, consistency of data and the control activities that are involved
+                in maintaining it are highlighted in Fig. 8.3.
+       V.    Security Management Controls: Information security administrators are responsible
+                for ensuring that information systems assets categorized under Personnel, Hardware,
+                Facilities, Documentation, Supplies Data, Application Software and System Software
+             are secure. Assets are secure when the expected losses that may occur are kept at
+           an acceptable level. Environmental Controls, Physical Controls and Logical Access
+              Controls are all security measures against the possible threats. However, despite the
+              controls on place, there could be a possibility that a control might fail. Disasters are
+              events/incidents that are so critical that has capability to hit business continuity of an
+               entity in an irreversible manner.
+          When disaster strikes, it should be possible to recover operations and mitigate losses
+             using the controls of last resort - A Disaster Recovery Plan (DRP) and Insurance,
+            as referred in Fig. 8.3.
+       VI.   Operations Management Controls: Operations management is responsible for the
+               daily running of hardware and software facilities so that production application systems
+            can accomplish their work and development staff can design, implement, and maintain
+              application systems. Operations management typically performs controls over the
+              functions as discussed in Fig. 8.3.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.23
+                                CLASSIFICATION
+
+        VII.   Quality Assurance Management Controls: Quality Assurance management  is
+            concerned with ensuring that the –
+          Information systems produced by the information systems function achieve
+                     certain quality goals.
+          Development, implementation, operation, and maintenance  of Information
+                  systems comply with a set of quality standards.
+              Quality Assurance (QA) personnel should work to improve the quality of information
+            systems produced, implemented, operated, and maintained in an organization. They
+            perform a monitoring role for management to ensure that –
+           Quality goals are established and understood clearly by all stakeholders.
+          Compliance occurs with the standards that are  in place  to  attain quality
+                    information systems.
+            Best  practices  in  the  industry are  also  incorporated  during  the  production  of
+              information systems including detailed knowledge transfer sessions, quality matrix.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+8.24           DIGITAL ECOSYSTEM AND CONTROLS
+
+
+              To &with
+                             &                                                                        quality                                                                h/w                                           goals                                                                       n/w                                                                                                 Data      SLAsand  h/w   day-                     of                                          of                                                of                                                         comply                                                      of                                                                                                                                                                                                                                                    resourceout                              QualityAssuranceManagementControls:achievequality                   ISsetstandards.                                                                              Computersystems   etc.,promotetoControls                                                                                                                                                                                  employ                                                                                                             mgt.       up-to-dateto   carry                                                                                                                                                     running
+                                                               to             IS        to &to&                                                                                                                      identify                                                                                                                                                                                                                                                                     functioning                                                             to                                                                                                                                                                                                                                     production                      are                from                                        dailyIncludes                                                                                                                                                                            devicesdesigned                                                                                                                                                                                                                                                                  Production         Documentation                                              or                          that                   disasterIncludes(how                                       losses).         foretc.                                                                                                                                                                                                                                                                                                           scheduling;      securely;end-users                                                                                            testinvolve                                              of          jobmedia,                        Operations                                                                                                                                                                             stored                                                                                                                                                                                  assistMonitoring                              SecurityManagement                                                 Controls:Ensure                                           assets                                                         secure,                                                                                                  recoverableafteroccurs.DRPrecover                                                                                                         disaster                                                                                                  returnsnormalcy)Insurance(protectionagainst                                                                                                                                                                                                                             channels,                                                                                                                                                                                                                                                                       operators,                                                                                                             I/O;                                                                                        file                                                                                                                                                                                                                                                                                                                 environments                                                     of                                                      of                                                                                                                                                                                                                                         Responsiblelibrary     a                                                                                                                                                                                                    storage             is                         of                                                                                                                                                                                                            support                                                                                                                                                                                                              executionOperations                             like                                 with          at                                                        of                                                                  only,                                                                                                                                                                                                                                                                                                                    Outsourcedcontracts.                                                                                 access,                                                                                                      Quality                                                                                                                   daily                                                              of                                       needed,                                                                                                                                                                                                            keyboard                                                                                                                                                                                                                                                                                                                                          Performance                                                                                                                                              accuracy,                                                                                                                overcome                                                                          update                                  Controls:                                                                                                                                                                                                                                                   operations,                                                                                                                                                                                                                                             wellbeing   mgt.documentation                                                                                          standards,existenceAccess           is                                                          integrity                        users               &                                                                                                                                                                                            Controls:                              &                                                                  users           it                                                          controlscomply                                                                                                                                                                    Networkcommunication                            to                                                    loss,                                                                                                                                                                                                                                                                       Technical          to                                                                  n/w                                                                                                                                                                support                                                                                                                                                                                  include                                                                                                                                                                                                                                                                                                                                                                                                                                                  receipt/dispatch                to                          data                                                           ensure                                                                                                                                                                                                       consistency.                                                                                                   restrict                                                                                                                                                                                                                                                                                                                                                                  outsourcing Framework                            which                                                                                                                                                                                                                  maintain                                                                                                                                                                                                                                includes                                                                                                                                                                                                          ensures      &                    todata                                                                of                                                                                                             like                         to                                                                                                                                                                                                                exists,                                                                                                                                          unauthorized           in                                                                                                                                                                                                                                                Planning                                                                                                                                                                                                                                                                                                                    Management                                                     to                                                                  data                                                                                                                                                                                                                      platform,                                                          Includes                                                                                                                       problemsensure                                                                                                                             Entry                                                                                                                                                                                       directly                                      Managementavailable                                                                                                              controls                                                                                                                                    authorized                 &                                                                                                                                                                                                       computer,                                                                                          definition                         &                                                                                                                                                                                                                                                      monitoring                                                     after                                                                                                                                                                                                                 Management                                                                                              and                                              to                               to                      form                                                                       s/w          be                                                                                                                                                                                                 Library                                                                                                                                                                                                      Library                             etc.Controls                          to                                                                                                                                                                                  backup                                                                             Controls
+                                                or                                                                                                                                                                                                                                                    functions Control                                                                modifiable                                                                                 preventControls                 and                                                                                                                                                                                                                                                Capacity                                                                                                                                                                                                                                                                                                                                  monitoring                                                                                                              File                               Resourcemust is                                                                   integrity                                                  software  h/w                                                                                                                          s/w,                                                                                     database                                                                                              OperationsandOperationsonoperations,Preparationspeed/accuracyincludeetc.,Programadequate                               &deficienciesto-day               DataDatalocationdatapreservedDefinitiondatabaseExistenceofControlsUpdatedatabaseConcurrencydataControlscompleteness,
+
+
+                                               be
+                                                                                                                                                  timely                                                                                                               WBS,PERT.                                                                       can Management                                                                                                                                                                              Controlmonitorsall                                             so
+                                                 on                    Mgt.Toimplement      IncludesPlanningtheresources      involvesapproachdesign,Top-useBottom-upTestingtodevelopedits&toofstatus   that                                                                                                                                                                                             against                                                                                                                                           using       &                                                 development,                                                                                                                                                    achievesOperation     &thatThe                                                                           estimates                                                                                                                           Charts,                                   s/w           program8.3:                                   ProgrammingControls:acquirehigh-qualityprograms.phasesthatrequiredforDesignsystematictoCodingdown,approach,ensureprogramgoals,MaintenancemonitoroperationalprogramsmaintenanceidentifiedbasisphaseprogressphasesGantt
+Fig.                like   Thisandfindtheir                                 flow,   etc.,                                                                                                                                                      before                                                                                                                                                                 system                                                                                                                                                                                                  identify                                                                           resolve                                                                                                   existing                                                                                             system,                                                                                                                                                   physical                                                                                           existing                                                                      data                                                                                                                                                                                                                                                                monitored                     to                              and                                                                                                                                                           information                                                                                newsystem                                                                                                                                                   processinginvolvingdetailed                                        the                       of                                   of                                     the                                                                                                                                                                                                                                  developmentselectedarecriterion,                                                                                                                                                      system                                           DevelopmentControls:functionsbuilding,            &  &    and &              &                      IS.definitionto                           of                                                                                                                                                                 testing                                                to                                                                                                                                                         platformacquisition
+                                 of                                                          s/w                                                                                                                                                                                                                                     Operationwhich                                                                                                                                                                                       interface,                                                                           the                 for                                                                                                         design                                                      in       activities                                                              study              design                                                                 designing,                                                                                 maintaining       Assessment                                                          and                        evaluation   in                                                           S/w                                                                                         solutionsjustificationAnalysis                                                                         user                                                                                                                                                                                                                                                                                    production                                                                                                                                                        vendors                                                                                             cultureproduct                         to                                                        Problem                                                                                                                                                                  Information                                             on                                                          h/w
+                    &                                                                                                                                                                                                               release, as                           SystemsManagementResponsibleanalyzing,implementing,includesFeasibilitypossibleeconomicproblems,systemstructure,existingflows,systemelicitationrequirements,database,design,H/wprocedureswhereinbasedAcceptanceconversiondeficienciesitsMaintenancerunmaintenancecarefully.
+                    Mgt.   by   that togoalsinformationfunctionofmeansgoals;toallocate,the to     LeadingtoactivitiesMotivate,and       personnel;Controllingactualplanned                                                                                                                                                                                             compare               TopControls:FunctionsperformedSeniorManagementincludesPlanningdetermineofsystemsandachievingOrganizinggather,coordinateresourcesneededaccomplishgoals,includelikeguide,communicatewithandtowithperformance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.25
+                                CLASSIFICATION
+
+
+                                          of
+             to             to   on                        withand
+
+       &                                                 ensure                           protects/w     use  and   that             File                                                                                                               prevent                                                        used                   app.                to                                                                                                                                                                                                          formatted,     controlscontrols,                    distributing,                                                  database.                                                                                                  instances,      Controls,handlesdeadlock,        To &Controls                    that     to                                           compromise                                            access                   when                                                                                                                                                                                                                                            complianceproduction                                                                                    Controls                                                                                                                                                   integrity,        destruction                      user                                                                                                                                                                                 source,output.                                                                                                                                                                                                                                                                                  distribution                                                                Controls of                                                                     Report  andControls                                                                                                                                                                                                          presented,                                   and                                                   at                 b/wAccess                                                                                                                                                    preventdistribution    ensure                                                                                                 Controls                                                                                                                     completeness,  S/w                                               tooutput                                  Controls:database                                     dataControls                                                                   data     isto    report                                                                 and
+         of                                                                                                                                                        output                                                                                                                          medium.                                                                                       unauthorizedIntegrity              Update        concurrency                                                                                                                                                                                                                                                                                                destructing                          of                                                  interface                                                                                                     users                                                    includes                                                                            the           as                                                                               and                                         data,                      toControls      controls,controlsOnline                              DatabaseintegrityactThispreventofaccuracy,uniquenessApplicationinvolveConcurrencycasesCryptographicmaintainHandlingaccidentalstorage                                                                                                                                                                                                                        production           output,                                                                                                                                           Design                                                                                                                                                                                      printing                                                                                                                                                                                                                                            retaining                                                                                                                                                                                      deliveredInference                                                                         theestablishing           a     to                           data.   from      that toVM   App.   data                                output                                                                         protect                                   data              Report   with                                                                                                                                                                                                                 viewing,                               compute                                                                                                                                                   during                                                Controls                                                                                                                                                                                                             spooling,                                                                                                                                                                         includes                                                                                        checks                                                         errorsto                                                                                                                     addresses                                                                               associatedMemory      Framework                                                                                                     deal         To                                                                                     access,                                          ItBatch                                          losses                                                                                           fileBatch                               and                                                                                                  laid                          VM                                                                                             during                      Ensure                                                                                          assigned                                  Real                                                summarize                                                                           addresses,                                                    cells                          validate                             overetc.,               receiving,                                                                                     illegal                                                    maps     Control         andProcessor                             to                                                                            Controls                                       Controls:                                                        expected                                                                                                                                                                                                     database,                                                                                                                                      detect/correct                                                                                                              irregularities                                                                                                                                                                                                                                                                                  consistently.                                                                    memory                                                fromthatmemory    errors                                 Controls:                   to                                                                                                                                                                                      controlscontrolsprocedures                     sort                                                              memory
+        &                       of                                                                                                processors, in                                                 includes                                                       realControl                                          reduce                                                                                                                       OutputdeliveredstatisticalincludestoragecontrolDistributioncommunicating,                                            Processingclassify,ThistoerrorswithControlsoccurareasprogramControlsintoS/widentifyprocessing.        Application
+                                         ofofdataainare  The          ofinto   to   toinof in                                                                                                                     access                              Data   error                              before                                                                                                          error                   channel,uselessnetwork                                                                                                                                              effects                                                                                                              whichnodesnodesin                                                                       errors     Controls   8.4:                Controls:           system.                   feeding,                                                                                       errorsdata                                     user                                         accuracyinputted                                                                                                                                                                                        control                                                                                                                                                                                                                                                  communication                                                                                                                                        channel                                                                   Controls                                                                                                                                                                 processed.                        &      rendered                                         dataControls       Validation            be   Fig.                                                             includes                                     in                   &                                                     to                                                                   input                                                                                                                                                                   mitigate atratetwob/wway                                                   be            to                                                are                                         to                                contentionto                     InputEnsuredataapplicationThisCodereduceduringBatchprevent/detectbatch,Datadetecttransactiondata                                                                    detect/correct   linklocation                                                                                                                                                          control                                                                                                      data                                                                                                                                                                                                               Controls                                          toto                                                                                                                                                   handle                                                                                                                                                                        exposurescomponents,                                                 to                                                                                                                                         managespecify                                                                                                                                                                Controls                                              toto     require                   This   thatnon-                                                                                                                                  Discuss                                                                                                                                                                      ControlsControls       aAccesssteps:3    random                                                                                                                                                            physical                                Involves     Controls                                                                                                                                                                                                 Controlsthreat           a                                 codes                                                                                Digitalestablish        information
+                      for                                                                                       FlowControlsControls                       Internetworking                                                                                                                                                     Authentication,                      is                   e-documents,          identification              overComponentError                          into                                                                       store                         to                                                                                                                                                                     Controls:                                                                                                         database,                              an                                                mechanism.                 person,involves  PIN                           of                            to                       in                                   Controls:      data                                                      Line   Link    AccessSubversive                                                                                                                                                            controls                                                          intrusion,devices.                                    that          in                                                                                                                                                                Physical         users,Topological   overof                                  controlCryptographic                              stored        Cards                                                                                                                                                                         Channel                                                                                 meaningless                                           b/w                                                           transform                                                                           case                               BoundaryaccessinvolvestoareauthenticatedControlsIdentification,Authorization;numberSignaturesauthenticityPlasticrequiredprocess.                      Communicationsubsystem,controls.exposures,attenuation/distortion,flowsnetwork,linked,Controlinconnecting
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+8.26           DIGITAL ECOSYSTEM AND CONTROLS
+
+B.    The Application Control Framework: The objective of application controls is to ensure that
+      data remains complete, accurate and valid at all levels including input, updation, and storage.
+     The specific controls could include form design, source document controls, input, processing
+      and output controls, media identification, movement and library management, data back-up
+      and recovery, authentication and integrity, legal and regulatory requirements. Any function or
+        activity that works to ensure the processing accuracy of the application can be considered an
+       application control. For example, a counter clerk at a bank is required to enter user master
+      data in system,  will not be allowed to exit unless  all mendatory fields are captjred in
+       application system.
+       Application System Controls involve ensuring that individual application systems safeguard
+      assets (reducing expected losses), maintain data integrity (ensuring complete, accurate and
+       authorized data) and achieve objectives effectively and efficiently from the perspective of
+      users of the system from within and outside the organization.
+           I.    Boundary Controls: The major controls of the boundary system are the access
+              control mechanisms that link the authentic users to the authorized resources they are
+             permitted to access. The boundary subsystem establishes the interface between the
+            would-be user of a computer system and the computer itself. Major Controls at the
+            Boundary subsystem is shown in Fig. 8.4.
+           II.     Input Controls: Data that  is presented to an application as input data must be
+              validated for authorization, reasonableness, completeness, accuracy, and integrity.
+           These controls are designed to ensure the accuracy and completeness of data and
+               instruction entered into an application system. Input controls are important and critical
+             since substantial time is spent on input of data, and when data is entered manually
+             through human intervention is prone to error and fraud. Its types are shown in the
+               Fig. 8.4.
+           III.   Communication  Controls:  These  controls  are  designed  at   communication
+            subsystem, controls over physical components, communication line errors, flows, and
+                links, topological controls, channel access controls, controls over subversive attacks,
+             internetworking controls, communication architecture controls, and audit trail controls.
+          Some communication controls are shown in the Fig. 8.4.
+       IV.   Processing Controls: The processing subsystem  is responsible  for computing,
+               sorting, classifying, and summarizing data. Its major components are the Central
+            Processor in which programs are executed, the real or virtual memory in which
+            program instructions and data are stored, the operating system that manages system
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.27
+                                CLASSIFICATION
+
+             resources, and the application programs that execute instructions to achieve specific
+             user requirements. Some of these controls are shown in Fig. 8.4.
+       V.    Database Controls : These controls are used within application software to maintain
+             the integrity of data, to prevent integrity violations when multiple programs have
+             concurrent access to data, and the ways in which data privacy can be preserved within
+             the database subsystem. Various types of database controls are shown in Fig. 8.4.
+        VI.   Output Controls:  These controls ensure that the data delivered to users will be
+             presented, formatted, and delivered in a consistent and secured manner. Output can
+           be in any form, it can either be a printed data report or a database file in a removable
+            media. Various Output Controls are shown in Fig. 8.4.
+8.3.4 Classification based on “Control Activities”
+As discussed  earlier, control  activities are the policies and procedures used to ensure that
+appropriate actions are taken to deal with the organization’s identified risks. These can be grouped
+as shown in the Fig. 8.5.
+
+
+                                                                      General
+
+                                    Information Technology
+
+        Control Activities                                                 Application
+
+                                           Physical
+
+
+                      Fig. 8.5: Classification based on “Control Activities”
+General controls apply to  all system across the organization and, not related to any specific
+application. These controls are designed to ensure the system  integrity, and are not designed to
+control specific transaction. General controls are basic controls which will be required to support the
+functioning of all other application control.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+8.28           DIGITAL ECOSYSTEM AND CONTROLS
+
+
+                                                        Security
+                                                        Policy
+
+                             Backup &                          Access
+                               Business                           Termination
+                                   Continuity                           Process
+
+                                      GENERAL
+                                      CONTROLS
+
+                                                                       Implementation                                CIA of                                                                                of Application                                 Software                                                                          Software
+
+                                             Change
+                                           Management
+
+
+                                      Fig. 8.6: General Controls
+
+General IT controls include following, but are not limited to the following:
+♦    Information Security Policy: An Information Security policy is the statement of intent by the
+       senior management about how to protect a company’s information assets. The security policy
+        is a set of laws, rules, and practices that regulates how assets including sensitive information
+      are managed, protected, and distributed within the user organization. The security policy is
+      approved by the senior management and encompasses all areas of operations and drives
+      access to information across the enterprise and other stakeholders.
+♦    Administration, Access, and Authentication: Access controls are measures taken to
+      ensure that only the authorized persons have access to the system and the actions they can
+       take. IT should be administered in line of approved security  policies and procedures clearly
+       defining the levels of access to information and authentication of users.
+♦    Separation of key IT functions: Secure deployment of IT requires the organization to have
+      separate IT Department with key demarcation of duties for different personnel within IT
+      department and to ensure that there are no Segregation of Duties (SoD) conflicts.
+♦    Management of Systems Acquisition and Implementation: Management should establish
+       acquisition standards that address the security, functionality, and reliability issues related to
+      systems acquisition. Hence, the process of acquisition and implementation of systems should
+      be properly controlled.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.29
+                                CLASSIFICATION
+
+♦    Change Management: Deployed IT solutions and their various components undergo change
+      due to changes in technology environment, business processes, regulatory, requirements,
+      compliance requirements and changing needs of the users. These changes impact the IT
+      environment  of  the  organization. Hence, a change management process should be
+      implemented to ensure smooth transition to new environments covering all key changes
+       including hardware, software, and business processes.  All changes must be properly
+      approved by the management and tested before implementation.
+♦    Backup, Recovery and Business Continuity: Heavy dependence on IT and  criticality
+     makes it imperative that resilience of the organization operations should be ensured by having
+       appropriate business continuity including backup, recovery, and off-site data center. Business
+       continuity controls ensure that an organization can prevent interruptions (violations) and
+      processing can be resumed in an acceptable period of time.
+♦    Proper Development and Implementation of Application Software: Application software
+       drives the business processes of the organizations. These solutions in case developed and
+      implemented must be properly controlled by using standard software development process.
+       Controls over software development and implementation ensure  that  the software  is
+      developed according to the established policies and procedures of the organization. These
+       controls also ensure that the systems are developed within budgets, within budgeted time,
+       security measures are duly incorporated, and quality and documentation requirements are
+       maintained.
+♦     Confidentiality,  Integrity and  Availability  of Software and data  files:  Security  is
+      implemented  to ensure  Confidentiality,  Integrity, and  Availability (CIA)  of  information.
+       Confidentiality refers to protection of critical information to ensure that information is only
+       available to persons who have right to see the same. Integrity refers to ensuring that no
+      unauthorized alterations are made in data in all stages of processing. Availability refers to
+      ensuring availability of information to users when required.
+♦     Incident response and management: Thereare various incidents in system due to failure
+       of any IT controls. These incidents need to be appropriately responded to and managed as
+      per pre-defined policies and procedures.
+♦    Monitoring of Applications and supporting Servers: The Servers and applications running
+      on them are monitored to ensure that servers, network connections and application software
+      along with the interfaces are working continuously without downtime.
+♦    Value Added areas of Service Level Agreements (SLA): SLA with vendors is regularly
+      reviewed to ensure that the services are delivered as per specified performance parameters.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+8.30           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦    User training and qualification of Operations personnel: The personnel deployed have
+       required competencies and skillsets to operate and monitor the IT environment. These
+      competencies should be consistent with the defined roles. Moreover, training may be used
+      as a tool to develop the competencies and skillsets to work in an IT environment.
+It is important to note that proper and consistent operation of automated controls or IT functionality
+often depends upon effective IT general controls. In later sections, detailed risk, and control matrix
+for various types of general controls are provided.
+Application Controls and Physical Controls are explained earlier in this context.
+
+    8.4  ROLE  OF  AUDITORS  WHILE  INSPECTING  THE
+      CONTROLS
+
+ The attack on the World Trade Centre in 2001 and COVID 19 outbreak has created a worldwide
+  alert bringing focus on business continuity planning and environmental controls. Inspection of
+ environmental controls should form a critical part of every IS audit plan. The IS auditor should
+ satisfy not only the effectiveness of various technical controls but also the overall controls
+ safeguarding the business against environmental risks.
+I.     Inspecting Environmental Controls: Inspection of environmental controls requires the IS
+       auditor to conduct physical inspections and observe practices. Reviewing environmental
+       controls requires knowledge of building mechanical and electrical systems as well as fire
+      codes. The IS auditor needs to be able to determine if such controls are effective and if they
+      are cost-effective and are operative throughout the period.  Auditing environmental controls
+       requires attention to these and other factors and activities, including:
+    o    Power conditioning: The  IS  auditor should determine how  frequently power
+              conditioning equipment, such as UPS, line conditioners, surge protectors, or motor
+             generators, are used, inspected, and maintained and if this is performed by qualified
+             personnel.
+    o    Backup power: The IS auditor should determine  if backup power is available via
+               electric generators or UPS and how frequently they are tested. S/he should examine
+            maintenance records to see how frequently these components are maintained and if
+                this is done by qualified personnel.
+    o     Heating, Ventilation, and Air Conditioning (HVAC): The IS auditor should determine
+                        if HVAC systems are providing adequate temperature and humidity levels, and if they
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.31
+                                CLASSIFICATION
+
+             are monitored. Also, the auditor should determine  if HVAC systems are properly
+             maintained and if qualified persons do this.
+    o    Water detection: The IS auditor should determine if any water detectors are used in
+           rooms where computers are used. He or she should determine how frequently these
+             are tested and if they are monitored.
+    o     Fire detection and suppression: The IS auditor should determine  if fire detection
+            equipment is adequate,  if staff members understand their function, and  if they are
+              tested. S/he should determine how frequently fire suppression systems are inspected
+           and tested, and if the organization has emergency evacuation plans and conducts fire
+                  drills. The IS auditor may also check refilling status of fire extinguishers installed
+            around Data center / DR site.
+    o     Cleanliness: The IS auditor should examine data centers to see how clean they are.
+              IT equipment air filters and the inside of some IT components should be examined to
+            see if there is an accumulation of dust and dirt.
+II.    Inspecting Physical Access Controls: The inspection of physical access requires the
+       auditor to review the physical access risk and controls to form an opinion on the effectiveness
+       of the physical access controls. This involves the following activities:
+    o     Risk Assessment: The auditor must satisfy him/herself that the risk assessment
+            procedure adequately covers periodic and timely assessment of all assets, physical
+            access threats, vulnerabilities of safeguards and exposures there from.
+    o    Review of Documents: The auditor may examine relevant documentation such as the
+              security policy and procedures, premises plans, building plans, inventory  list and
+             cabling diagrams to check that they are in compliance with the organizations policies.
+    o     Controls Assessment: The auditor should check whether risk assessment is done by
+           management which would evaluates whether the physical access controls are in place
+           and adequate to protect the IS assets against the risks. This may include the following
+                activities:
+           Sitting and Marking: Auditor may review building layout, sitting arrangements
+                 and location of data center and Disaster recovery  site. This  will require
+                     attention to several key factors and features, including natural and manmade
+                  hazards to dams; rivers, lakes, and canals; natural gas and petroleum pipelines;
+                   water mains and pipelines; earthquake  faults; areas prone to landslides;
+                   volcanoes; severe weather such as hurricanes, cyclones, and tornadoes; flood
+                   zones; military bases; airports; and railroads.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+8.32           DIGITAL ECOSYSTEM AND CONTROLS
+
+          Physical barriers: This includesreview of  fencing, walls, barbed/razor wire,
+                 and crash gates which  are used  to  control access  to  the  facility and
+                    determination of their effectiveness.
+          Surveillance: This includes review of video and human surveillance which are
+                 used to control and monitor access, and  if  it  is effective in preventing or
+                    detecting incidents or not.
+         Guards and  dogs:  This  includes  examination  of  processes,  policies,
+                   procedures, and records to understand the required activities used to evaluate
+                    the effectiveness of security guards and guard dogs and how they are carried
+                      out.
+          Key-Card systems: This includes review of card systems which are used to
+                     control access to the facilities like work zones and answers the questions like -
+                  whether the  facility  is divided into security zones and which persons are
+                    permitted to access which zones whether key-card systems record personnel
+                movement or not; what processes and procedures are used to issue keycards
+                      to employees, etc.
+III.    Inspecting Logical Access Controls
+    o    Network Access Paths: This includes an independent review of the IT infrastructure
+               to map out the organization’s logical access paths. This will require considerable effort
+           and may require the use of investigative and technical tools, as well as use of external
+              specialized experts on IT network architecture.
+    o    Documentation: This will include review of any discrepancies that may exist and  to
+               identify  all the documented and undocumented access paths to functions and data.
+    o    User Access Controls: Inspecting user access controls requires attention to several
+              factors  like  authentication mechanism, access  violations, use account  lockout,
+               intrusion prevention and detection system logs, dormant and shared accounts, usage,
+           and system admin accounts logs, etc.
+    o    Password Management: This will include review of password configuration settings
+           on information systems as to determine how passwords are controlled. Some of the
+            areas requiring examination include determination of how many characters must a
+            password have and whether there  is a maximum length defined; how frequently
+            passwords to be changed; whether old passwords can be used again; whether the
+            password is masked when logging in or when creating a new password,etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.33
+                                CLASSIFICATION
+
+    o    User Access Provisioning: The review of the user access provisioning process
+              requires attention to several key activities, including access request processes and
+             approvals, new employee provisioning, segregation of duties, access reviews, etc.
+    o    Employee Terminations: This  will include review of removal of access to  all IT
+            system, NOC from various departments. Back up of personal data stored on system,
+               etc.
+    o    User Access Logs: This will include review of user access logs to check what events
+             are recorded in access logs, are  the logs aggregated or are stored in individual
+            systems, can access logs be modified /  altered, destroyed or attacked to cause the
+            system to stop logging events, how and when the access logs are reviewed and who
+             review them, are the access logs retained by the organization or are backed up and
+            what actions are take when necessary.
+    o     Investigative Procedures: In some cases, if auditors is assigned with investigation
+               role then auditor needs to identify non-compliance of any IT policies and procedures,
+            use techniques to identify computer crime investigations, and computer forensics.
+    o     Internet Points of Presence: The IS auditor who is performing a comprehensive
+             review of an organization’s system and network system needs to perform a “points of
+            presence”  audit  to  discover what  technical  information  is  available about  the
+              organization’s Internet presence. Some of the aspects of this intelligence gathering
+              include search engines, social networking and online sales sites, domain names, etc.
+IV.    Inspecting Management Control Framework (Refer Table 8.8)
+
+                       Table 8.8: Inspecting Top Management Controls
+       Planning         Whether top management has formulated a high-quality information
+                        system plan and  Policies  that are   appropriate  to the scale  of
+                            organization.
+       Organizing       Whether proper organization chart is prepared assigning roles and
+                              responsibilities at each level.
+      Leading          Whether top management are prompt in dealing with any technical
+                        development in industry and how  it is responded including the latest
+                         cyber threats.
+       Controlling       Focus on subset of the control activities to be performed by top
+                     management to evaluate whether top management’s choice to the
+                     means of control over the users of IS services is likely to be effective
+                            or not.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+8.34           DIGITAL ECOSYSTEM AND CONTROLS
+
+                      Systems Development Management Controls
+       Concurrent       As a member of the system development team, the auditors need to
+                              assist the team in improving the quality of systems development for the       Audit                              specific system they are building and implementing. The Auditor may
+                          guide that required  controls are built into the system at development
+                            stage.
+       Post                 -   Auditors seek to help an organization learn from its experiences in the
+                        development of a specific application system. In addition, they might be       implementation                            evaluating the current status of the system in terms of attaining asset
+       Audit                           safeguarding, data integrity, system effectiveness and system efficiency
+                            objectives so that the decision on whether the system needs to be
+                          scrapped, continued, or modified in some way can be taken.
+       General Audit    To check whether there is continuous system of IS audit once the system
+                                   is developed to evaluate the quality of overall systems development
+                           process. This review allows them to make judgments on the likely quality
+                              of individual application systems developed by the system development
+                      management  subsystem,  the  control   risk  associated  with  this
+                         subsystem, and to determine whether the extent of substantive testing
+                       needed to form an audit opinion about management’s assertions relating
+                              to the systems effectiveness and efficiency, can be reduced or not. An
+                            external auditor is more likely to undertake general audits rather than
+                          concurrent or post-implementation audits of the systems development
+                          process. Organisation may use resources from  their own Internal
+                            auditors team or generally participate in the development of material
+                            application systems or undertake post-implementation review of the
+                         system.
+                         Programming Management Controls
+       Planning     ♦   They should evaluate whether nature of and extent of planning
+                               are appropriate to different types of software that are developed
+                                 or acquired.
+              ♦   They must  evaluate how  well  the  planning work  is  being
+                               undertaken.
+       Control      ♦   This  will include review of control   activities undertaken are
+                                appropriate for the different types of software that are developed
+                                 or acquired.
+              ♦   They must gather evidence on whether the control procedures
+                               are operating reliably. For example - they might first choose a
+                            sample if past and current software development and acquisition
+                                 projects carried out at different locations in the organization, they
+                               are auditing.
+      Design      ♦   Auditors should find out whether programmers use some type of
+                               systematic approach to design.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.35
+                                CLASSIFICATION
+
+              ♦   Auditors can obtain evidence of the design practices used by
+                               undertaking   interviews,   observations,   and   reviews   of
+                              documentation.
+      Coding      ♦   Auditors should seek evidence –
+                           •   On the level of care exercised by programming management
+                                            in  choosing a module  implementation and  integration
+                                        strategy.
+                           •   To determine whether programming management ensures
+                                         that   programmers   follow   structured   programming
+                                    conventions.
+                           •   To check whether programmers employ automated facilities
+                                         to assist them with their coding work.
+       Testing      ♦   Auditors can use interviews, observations, and examination of
+                             documentation to evaluate how well unit testing is conducted.
+              ♦   Auditors are primarily concerned with the quality of integration
+                                   testing work carried out by information systems professionals
+                                  rather than end users.
+              ♦   Auditors primary concern is to see that whole-of-program tests
+                           have been undertaken for all material programs and that these
+                                   tests have been well-designed and executed.
+       Operation  and ♦   Auditors need  to  ensure  effective and  timely  reporting  of
+                            maintenance needs that occur so that maintenance is carried out      Maintenance
+                                      in a well-controlled manner.
+              ♦   Auditors should ensure that management has implemented a
+                               review system and assigned responsibility for monitoring the
+                                 status of operational programs.
+                           Data Resource Management Controls
+    ♦   Auditors should determine what controls are exercised to maintain data integrity. They
+            might also interview database users to determine their level of awareness of these
+              controls.
+    ♦   Auditors might employ test data to evaluate whether access controls and update
+             controls are working.
+    ♦   Auditors might interview the Data Administrator (DA) and Database Administrator
+           (DBA)  to  determine  the  procedures used by them  to  monitor  the database
+            environment.
+    ♦   Auditors need to assess how well the DA and DBA carry out the functions of database
+               definition, creation, redefinition, and retirement.
+                                 Security Management Controls
+    ♦   Auditors must evaluate whether security administrators are conducting ongoing, high-
+              quality security reviews or not;
+    ♦   Auditors need to evaluate the performance of BCP controls. The BCP controls are
+             related to having an operational and tested IT continuity plan, which is in line with the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+8.36           DIGITAL ECOSYSTEM AND CONTROLS
+
+              overall business continuity plan and its related business requirements to make sure
+             IT services are available as required and to ensure a minimum impact on business in
+            the event of a major disruption.
+    ♦   Auditors check whether the organizations audited have appropriate, high-quality
+             disaster recovery plan in place or not; and
+    ♦   Auditors check whether the organizations have opted for an appropriate insurance
+            plan or not.
+    ♦   Auditor needs to check how security incidents are identified, handled and reported to
+             regulating authorities such as SEBI/RBI as per the requirement of CERT-In
+                             Operations Management Controls
+    ♦   Auditors should pay concern to see whether the documentation is maintained securely
+          and that it is issued only to authorized personnel.
+    ♦   Auditors can use interviews, observations, and review of documentation to evaluate-
+        o   the activities of documentation librarians;
+        o   how  well  operations management  undertakes  the  capacity  planning  ad
+                performance monitoring function;
+        o   the reliability of outsourcing vendor controls;
+        o   whether operations management is monitoring compliance with the outsourcing
+                   contract; and
+        o   Whether operations management regularly assesses the financial viability of any
+                 outsourcing vendors that an organization uses.
+                            Quality Assurance Management Controls
+    ♦   Auditors might use  interviews, observations, and reviews  of documentation  to
+            evaluate how well Quality Assurance (QA) personnel perform their monitoring role.
+    ♦   Auditors might evaluate how well QA personnel make recommendations for improved
+            standards  or  processes  through  interviews,  observations,  and  reviews  of
+            documentation.
+    ♦   Auditors can evaluate how well QA personnel undertake the reporting function and
+              training through interviews, observations, and reviews of documentation.
+
+V.    Inspecting Application Control Framework (Refer Table 8.9)
+                      Table 8.9: Inspecting Application Control Framework
+                                  Boundary Controls
+   ♦  To determine how well the safeguard assets are used and preserve data integrity by
+             verification of PAM – Privilege Access Management.
+   ♦  To determine whether the access control mechanism implemented in that system is
+             sufficient or not by review of Access control matrix.
+   ♦  To ensure that careful control must be exercised over maintenance activities, in case
+             of hardware failure by ensuring proper session log in and log out during maintenance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.37
+                                CLASSIFICATION
+
+   ♦  To address three aspects to assess cryptographic key management - how keys will be
+          generated and distributed to users, and how they will be installed in cryptographic
+              facilities?
+   ♦  To ensure that rules in Firewall and network architecture is adequate.
+                                         Input Controls
+   ♦  To analyze what and how the data will be captured and by whom, how the data will be
+          prepared and entered into the computer systems and how the document  will be
+           handled, stored and filed.
+   ♦  To examine the data-entry screens used in an application system and validation rules
+             for data entered. Auditor should check validation made in application for auto correct/
+            rejection option provided while entering the data. For example PIN code field should
+           only have 6 digit numeric field only.
+   ♦  To evaluate the quality of the coding systems used in application system to determine
+             their likely impact in the data integrity, effectiveness, and efficiency objectives.
+   ♦  To comprehend various approaches used to enter data into an application system and
+             their relative strengths and weaknesses. Auditor may review system user manual or
+        SOP to identify gaps if any.
+   ♦  To check whether input files are stored securely and backup copies of it are maintained
+             at an offsite location so that recovery remains unaffected in case system’s master files
+           are destroyed or corrupted. Ensure that auto backup is scheduled in system without
+          manual intervention.
+                              Communication Controls
+   ♦  To adopt a structured approach to examine and evaluate various controls in the
+          communication subsystem.
+   ♦  To collect enough evidence to establish a level of assurance that data transmission
+          between two nodes in a wide area network is being accurate and complete by review
+             of Downtime records maintained by IT department.
+   ♦  To check  whether adequate network backup and recovery controls are practiced
+            regularly or not. These controls may include automatic line speed adjustments by
+        modems based on different noise-levels, choice of network topology, alternative routes
+          between sender and receiver, etc., to strengthen network reliability.  Auditor should
+           also ceck whether alternate back up network communication lines are available and
+            periodically switching is done between network line.
+   ♦  To assess the implementation of encryption controls to ensure the protection of privacy
+             of sensitive data.
+   ♦  To assess the topological controls to review the logical arrangement of various nodes
+          and their connectivity using various internetworking devices in a network.
+                                  Processing Controls
+   ♦  To determine whether user processes can control unauthorized activities like gaining
+          access to sensitive data or not.
+   ♦  To evaluate whether the common programming errors that can result in incomplete or
+           inaccurate processing of data have been taken care or not.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+8.38           DIGITAL ECOSYSTEM AND CONTROLS
+
+   ♦   Auditor may enter data in test server to ensure desired output  is received after
+           processing the data.
+   ♦  To assess the performance of validation controls to check for any data processing
+             errors.
+   ♦  To check for the checkpoint and restart controls that enable the system to recover itself
+           from the point of failure. The restart facilities need to be implemented well so that restart
+             of the program is from the point the processing has been accurate and complete rather
+           than from scratch.
+                                  Database Controls
+   ♦  To check for the mechanism if a damaged or destroyed database can be restored in
+          an authentic, accurate, complete, and timely way. To check controls at Disaster
+          Recovery (DR) site and ensure replica of database is available on real time basis.
+   ♦  To comprehend backup and recovery  strategies  for  restoration  of damaged  or
+           destroyed database in the event of failure that could be because of application program
+             error, system software error, hardware failure, procedural error, and environmental
+              failure. Auditor can also check whether operation is shifted periodically to DR site.
+   ♦  To evaluate whether the privacy of data is protected during all backup and recovery
+              activities. Auditor can check privacy policy.
+   ♦  To check for proper documentation and implementation of the decisions made on the
+          maintenance of the private and public keys used under cryptographic controls.
+   ♦  To address the concerns regarding the maintenance of data integrity and the ways in
+          which files must be processed to prevent integrity violations.
+                                    Output Controls
+   ♦  To determine what report programs are sensitive, who all are authorized to access
+         them and that only the authorized persons are able to execute them.
+   ♦   Auditors should review that the action privileges that are assigned to authorized users
+           are appropriate to their job requirement or not.  Auditor can check the job profile and
+            relevant report menu access provided in Application.
+   ♦   Auditors must evaluate how well the client organizations are provided controls in terms
+             of alteration of the content of printer file, number of printed copies etc. Auditor can
+          check whether external emails outside organization network are restricted.
+   ♦   Auditors should determine whether the report collection, distribution and printing
+            controls are well executed in an organization or not. Auditor can check whether all
+             prints are directed to centralized printer.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+INFORMATION SYSTEMS’ CONTROL AND ITS                                                                     8.39
+                                CLASSIFICATION
+SUMMARY
+In this chapter, the Internal control framework has been discussed in detail. An internal control
+framework is a structured guide that organizes and categorizes expected controls or control topics.
+Furthermore, the chapter deals with controls and their classification based on various parameters.
+The importance of these controls and how these are to be implemented to safeguard the information
+systems in an organization are covered vastly in the chapter. Furthermore, how these controls are
+to be inspected to ensure the proper implementation of these controls in an organization’s working
+environment.
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.     Identify from the following controls of Information System that deals with framing of high-level
+       IT policies, procedures, and standards on a holistic view.
+        (a)   Management Controls
+        (b)    Environmental Controls
+        (c)    Access Controls
+        (d)    Physical Controls
+2.     Mr. Amit is an auditor of a company XYZ Ltd. While evaluating controls over ERP systems,
+      he had to audit the controls which were administered through the computer center/computer
+       operations group and the built-in operating system controls. Which of the following controls
+      are referred here?
+        (a)    Environmental Controls
+       (b)    Application controls
+        (c)   Management Controls
+       (d)    Audit Controls
+3.     Mr. Y used duplicate keys to enter in prohibited area zone of JKH Ltd. company and stole
+     some important documents of the company. Which of the following controls you think has
+      been compromised to make such an incident happen?
+       (a)    Environmental Control
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+8.40           DIGITAL ECOSYSTEM AND CONTROLS
+
+       (b)    Physical Access Control
+        (c)    Network Access Control
+       (d)    Logical Access Control
+4.    Output Controls are responsible to ensure that the data delivered to users will be presented,
+       formatted, and delivered in a consistent and secured manner. Which of the following activity
+      does not fall under the purview of Output Control?
+       (a)    Spooling
+       (b)    Report Distribution Control
+        (c)    Asset Safeguarding
+       (d)    Control over printing
+5.    The Quality Assurance Management controls involve various functions that ensure that the
+      development, implementation, operation and maintenance of information systems conform to
+       quality standards. With such scope of the controls in mind, what do you think is not true about
+       Quality Assurance Management Controls?
+       (a)    Auditors might use interviews, observations and reviews of documentation to evaluate
+          how well Quality Assurance (QA) personnel perform their monitoring role.
+       (b)    Auditors might evaluate how well QA personnel make recommendations for improved
+             standards  or  processes  through  interviews,  observations,  and  reviews  of
+             documentation.
+        (c)    Auditors can evaluate how well QA personnel undertake the reporting function and
+               training through interviews, observations, and reviews of documentation.
+       (d)    Auditors check whether the organizations that have been audited have appropriate,
+              high-quality disaster recovery plan in place or not.
+
+ANSWERS/SOLUTIONS
+     1.         (a)        2.        (a)        3.        (b)        4.        (c)        5.       (d)
+
+
+© The Institute of Chartered Accountants of India

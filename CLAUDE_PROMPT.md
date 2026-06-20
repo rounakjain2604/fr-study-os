@@ -1,6 +1,6 @@
 # Prompt For Claude Code
 
-You are working on a local-only handoff of my CA Final FR Study OS / FR Ledger PWA. Do not push to GitHub, do not deploy, do not add remote CI, and do not modify anything outside this folder unless I explicitly approve it.
+You are working on a local-only handoff of my CA Final Trinsic / FR Ledger PWA. Do not push to GitHub, do not deploy, do not add remote CI, and do not modify anything outside this folder unless I explicitly approve it.
 
 ## Goal
 

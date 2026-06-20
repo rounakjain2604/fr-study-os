@@ -1,0 +1,645 @@
+Source PDF: 07_SPOM/Set_C_01_Risk_Management/001 - CHAPTER 1- INTRODUCTION & OVERVIEW - 79327bos63447-p1.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_01_Risk_Management\001 - CHAPTER 1- INTRODUCTION & OVERVIEW - 79327bos63447-p1.pdf
+Extracted at: 2026-05-31T10:29:43+05:30
+Pages: 16
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          1
+
+
+INTRODUCTION & OVERVIEW
+
+
+                       LEARNING OUTCOMES
+
+After going through the chapter student shall be able to understand:
+    Introduction to Risk & Uncertainty
+    Classifications & Types of Risks
+    Importance & Objectives
+   Overview of Mitigation & Controls
+    Opportunities in RM for CAs
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+1.22.2            RISK MANAGEMENT
+
+ CHAPTER OVERVIEW
+
+
+                                          Risk and Uncertainty
+
+
+                                          Classifications & Types of Risks                           OVERVIEW
+   &
+                                       Importance & Objectives
+
+
+                                 Overview of Mitigation & Controls                                        INTRODUCTION
+
+                               Opportunities in Risk Management for Chartered
+                                            Accountants
+
+      1.   INTRODUCTION TO RISK & UNCERTAINTY
+We often find the terms  “risk” and “uncertainty” used interchangeably. However, a distinction
+needs to be drawn between the two. Risk is the chance or probability, whether high or low, that
+someone will be harmed by a hazard. Risk is often thought of in terms of chance (or probability) of
+loss. Uncertainty  falls into two broad categories. There are those for which the probability of
+occurrence is calculable either on a priori grounds or through the statistical analysis of a series of
+similar events  that have occurred  in the past. The remainder does not lend them  to such
+measurement either because their occurrence follows no discernable pattern or because they are
+unique events. Professor Frank Night called the first group risks, whereas the latter he described
+as uncertainties, in his book Risk, Uncertainty and Profit. John Maynard Keynes a well known
+economist considers  that the element  of surprise  is an important element  of a  situation  of
+uncertainty. The importance of uncertainty arises from its influence on the process of decision-
+making of individuals, businesses as also society.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+INTRODUCTION & OVERVIEW              1.32.3
+
+While risk is a state of nature, uncertainty is a state of human mind.  It is therefore possible to
+consider a situation risky  if a number of outcomes  is possible and the actual outcome that
+materializes is not known in advance. Thus, risk is defined as the relative variation of the actual
+outcome from the anticipated or expected outcome. For instance, for a manufacturing firm, the
+development of a new product is risky as the profits from the sale of the product in the market are
+uncertain before the actual sale. Likewise, the development of a new drug by a pharmaceutical
+company is characterized by risk because of the range of possible outcomes with regard to the
+market reception for the drug.
+
+      2. CLASSIFICATION & TYPES OF RISKS
+In practice, risks get classified in one of these four different ways:
+(i)    Risk based on Source – Depending on the source of origination, risks can be classified as
+       follows:
+            Internal
+            External
+(ii)   Risk based on Nature – Depending on how much influence one can exert on the risk,
+       risks can be classified as follows:
+            Controllable
+            Uncontrollable
+(iii)   Risk based on Status – Depending on whether or not we have applied any risk treatment
+       or mitigatory actions, risks can be classified as follows:
+           Inherent
+           Residual
+(iv)   Risk based on Consequences – Depending on the outcome of the risk on various aspects
+       or functions of a business, risks can be classified as follows:
+           Strategy
+           Operations
+            Financial
+2.1  Risk Based on source – Internal and External Risks
+Internal risks pertain to events within the enterprise and usually arise during the normal course of
+the business. Since they are the outcome of actions internal to the business, they are easier to
+anticipate and their occurrence is more manageable in nature.
+Examples of Internal Risks:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+1.42.4            RISK MANAGEMENT
+
+•     Production factors such as quality of product, manner of production, quantity of goods
+      produced, etc., can result in unintended consequences and hence create an internal risk
+       scenario.
+•     People factors such as employee churn, strikes or lock - outs by trade unions, negligence or
+      dishonesty of employees, accidents in the factory, etc., are risk of the human nature.
+•     Technical factors which may lead to internal risks could be the manner in which technology
+        is deployed in operations or production (automation), the creation of products which may
+       not suit customer needs or deployment of technology in dispatching/distributing goods to
+      customers.
+•     Physical factors can create internal risks such as open access to assets, information, etc.,
+       or a fire in the factory, leakage of dangerous fumes, drainage of toxic chemicals, etc.,
+•     Process or system factors can create internal risks where outdated processes no longer
+       cater to change in business dynamics such as bottlenecks resulting in long cycle time for
+      producing goods or internal communications creating delays or confusion.
+External risks pertain to events which arise from the environment external to the organisation and
+generally outside the normal course of business operations, but nevertheless having an impact on
+its business. Since they can arise from any external source, they are harder to predict than the
+internal factors, hence more difficult to manage.
+Examples of External Risks:
+•     Economic factors stem from various aspects of the economy and could be in the nature of
+       the general health of the economy (impacts consumer, hence sales), inflation (impacts
+       pricing of products), credit in the market (impacts company's working capital and disposable
+      income of consumers), etc.
+•       Political factors such as  stability  of government (could impact the business  policy &
+       regulations), communal violence/tensions (causes business disruptions),  hostilities with
+       other countries (impacts import/export of goods).
+•     Nature and environment factors such as natural calamities (flooding. earthquake, cyclones)
+      can cause business disruptions or severe weather conditions can impact sales  of a
+      seasonal nature.
+•     Market or industry factors can surface in the nature of changing consumer preferences or
+       habits (e.g., healthy living), alternative sources/solutions to consumer needs (e.g., eating
+       out vs. home cooking). or developments in technology (e.g., on-line music) etc.,
+Internal risks are perceived to be more manageable than external risks:
+•     They are easier to predict as management can quantify the possibility of its occurrence with
+       greater degree of precision due to its dependence on internal factors.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+INTRODUCTION & OVERVIEW              1.52.5
+
+•      Their outcome can be influenced by management either by taking or not taking a certain
+       internal course of action.
+Nevertheless, external risks are now also being studied in a more thorough and scientific manner
+so as to strengthen the ability of the organisation to deal with these outside events. For example,
+enterprises with multiple businesses in diverse industries now employ  full time economists to
+monitor and track changing economic scenario on their various businesses. This enables them to
+identify some key trends sooner.
+2.2  Risk Based on Nature – Controllable and Uncontrollable Risks
+Risks where the outcome can be influenced by management to a great extent (either their impact
+or the probability of occurrence) are Controllable Risks and conversely, those that cannot be
+influenced to a reasonable extent are considered to be Uncontrollable Risks. There are various
+ways to control and manage risks and there are many different ways to exert influence over their
+outcome. However,  in a  nutshell,  this influence  is exerted on  either the  probability  of the
+occurrence or the impact the event will have, once it occurs.
+Examples of Controllable Risks:
+•     Safety precautions taken on the factory floor to reduce the chance of an accident (Internal
+       Risk).
+•     Technology deployed to improve the product features to cater better to evolve consumer
+     demand (External Risk).
+•    Employee sensitization towards security threats to prevent system hacking and loss of
+      company’s sensitive information (Internal and External Risk).
+Examples of Uncontrollable Risks:
+•    An aggrieved employee chooses to sabotage some production machinery (an Internal Risk):
+•     Flooding in a certain part of the country brings to a halt all production in the region (an
+       External Risk).
+•      Terrorist strikes and bomb-blasts are also high up on the list of uncontrollable risks as there
+        is precious little which can be done to prevent them, despite high security consciousness
+      and sophisticated arrangements.
+These controllable risks are easier to predict and the ability to influence their outcome is generally
+much better, especially  if the sources are internal in nature. Companies are in a position to take
+various preventable measures towards controllable risk, especially due to their predictability.
+Uncontrollable risks are generally harder to predict since  its, difficult to anticipate their source.
+Usually companies can only react to these types of risks to minimize their impact after the event
+has happened. With the advancements in science and technology, man has found a way to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+1.62.6            RISK MANAGEMENT
+
+influence most events. However, natural events are still considered as uncontrollable as our ability
+to influence nature is still limited to a great extent.
+Relationship between Source and Nature of Risk
+As can be observed from the discussion so far, there is a relationship between the source of the
+risks (internal/ external) and the nature of the risk (controllable /uncontrollable). These risks are
+not mutually exclusive, in that an external risk is not controllable or uncontrollable. Similarly a
+controllable risk is not only internal or external. Any combination or a situation somewhere in
+between  is possible. The main thing to remember  is that the internal risks are usually more
+controllable, as explained earlier, while the external risks are more in the nature of uncontrollable
+risks.
+One way to depict this relationship is as follows:
+                                     Risk Relationships
+                       Controllable        Uncontrollable
+
+         Internal         Lowest                High
+
+        External        Low                 Highest
+
+
+As can be seen, risk is highest for external uncontrollable factors and conversely, its lowest for
+internal controllable factors. So, to better manage these risks, one would explore the possibility of
+moving risks form the higher to the lower region, as shown by the two arrows above, and therefore
+control external risks by internal measures, etc.,
+Example of Controlling External Risk:
+It was generally believed that external risks are impossible or very difficult to manage. A typical
+example was that of laws and regulations and the belief was that one can only react to these
+events. However, now with the lobbying for favourable legislation and against unfavorable laws is
+an established business especially in the USA. In fact, the situation there is so bad that new laws
+and regulations had to be issued recently just to curtail the “business of lobbying”.
+2.3  Risk Based on Status – Inherent and Residual Risk
+Earlier we mentioned how risks are  “all pervasive in nature” meaning they are inherent in  all
+business activity. They are present in a latent manner in everything we do due to their inherent
+uncertainty. Hence when we call a risk an “Inherent Risk”, we acknowledge the presence of a risk
+in ‘raw form’ before any risk treatment / mitigation activity has been applied to it. Risk is, therefore,
+implicitly assumed to exit.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+INTRODUCTION & OVERVIEW              1.72.7
+
+The risk undergoes some type of treatment (e.g., through controls, mitigations or optimization) to
+allow  it to be managed better. But despite all mitigation efforts, some level of risk would remain
+untreated. This is the Residual Risk which we either accept reluctantly or consciously decide to
+assume its presence due to some reason such as high cost of treatment.
+2.4  Risk Based on Consequences – Outcome of Event
+Risks are also classified in the manner in which these emanate and how we expect them to unfold
+and have their impact on various aspects /functions of the business. Typical areas of consequence
+are:
+(A)    Strategic
+(B)    Operations
+(C)   Brand / Reputation
+(D)   Customer
+(E)   Finance
+(F)   Law and Regulations
+(G)   Knowledge
+(H)   Technology
+(I)    Management and Employees (People)
+(J)    Location/Geography
+This is by no means a complete or comprehensive  list. Many risks are quite unique to some
+industries and may have their own unique impact. For example, who could have anticipated the
+leakage of toxic gas from the Union Carbide plant In Bhopal in 1984 which consumed the lives of
+thousands of ordinary citizens living nearby and causing the biggest industrial disaster of the time?
+So, it's almost impossible to account for all possible eventualities. There will always be more than
+one way of categorizing the risks and one risk could always be assigned in more than one
+category.
+The main aspects of each of the categories indicated above are as follows:
+(A)  Strategic Risks: These are risks of a very significant nature impacting the fundamental
+business of the company and impacting the long-term objectives or viability of the enterprise (as
+opposed to the short-term or annual objectives). They generally concern the significant changes to
+the operating business environment such as the industry or the changing political dynamics and
+economic condition in the country, etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+1.82.8            RISK MANAGEMENT
+
+Examples:
+•    Emergence  of  alternative  product/service  by  competitor  making  company's  product
+       obsolete.
+•      Political/Economic disability in a foreign country with significant business operations.
+•     Loss of permit/license to sell product/provide specialised service.
+(B)  Operational Risks: These risks impact the manner in which the organisation prepares and
+delivers  its product/service  to the customers. Therefore they are  quite fundamental  to the
+organisation's business, but generally more internal in nature. However, it's broader and higher
+than process risks with which  it tends to get confused with. Process risk  is not confined to
+operational risks and can pertain to all the risk categories being covered in this section.
+Examples:
+•     Breakdown of critical production machinery/support systems,
+•     Loss in supply of critical raw material for production activity.
+•     Serious quality deterioration or contamination of sensitive material.
+(C)  Brand/Reputation Risks: These are risks which have the possibility of tarnishing the image
+of the company due to poor perceptions by customers, public or other key stakeholders. These
+generally emanate from some serious event which shakes the core foundation  of what the
+company stands for.
+Examples:
+•     Exposure of unethical dealings of company in the media.
+•    Bad press coverage from sensitive issues such as unauthorized leakage  of sensitive
+      customer data in the public domain.
+•      Actions/allegations by competitor, striking at brand credibility or company's reputation.
+(D)  Customer Satisfaction Risks: These risks are aimed at the quality of product or service
+provided to customers, but not severe enough to impact the whole brand or reputation of the
+company hence more limited in nature. These are slower in nature and could stem from a series of
+experiences resulting in an event.
+Examples:
+•     Not acknowledging/meeting customer needs/demands.
+•     Poor service quality after sales.
+•     Poor/delayed customer problem resolution.
+(E)  Financial Risks: All risks dealing with financial matters of the company, including its financial
+viability and the manner in which all financial information is shared and reported publicly by the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+INTRODUCTION & OVERVIEW              1.92.9
+
+company.  It includes the financial aspects of other operational and strategic matters, including
+capital availability and investments/depositions etc.
+Examples:
+•     Reporting inaccuracies in financial matters with stock price sensitivities.
+•     Dealing in foreign currency transactions or other rate fluctuating financial instruments.
+•     Adequacy of capital/funds for investments/expansion, etc.
+(F)  Laws and Regulations (Compliance) Risks: Any action resulting in non- compliance or
+violations to laws, regulations or other legal obligations resulting in penalties, law-suits etc.  It
+includes compliance to laid down internal policies, procedures and guidelines and matters of
+contractual nature with business associates and other third parties. Risks to intellectual property
+and defending the same are generally also classified here.
+Examples:
+•      Imposition of fines/penalties by government or regulator for legal/regulatory violations.
+•     Technical non-compliance resulting in rejection of applications withdrawal of permission to
+        sell product/provide service to customers.
+•     Challenges by competitor for violations of Intellectual Property Rights.
+(G) Knowledge Risks:  Information  of a  confidential  nature which has a  bearing on  the
+achievement  of objectives  is knowledge. Therefore, any corruption  to  or  loss/theft  of such
+vital/critical propriety information which could result in damage to business viability or competitive
+edge or misused by others for personal gains is knowledge risk. The production, protection and
+communication of such knowledge is, therefore, quite crucial.
+Examples:
+•      Reliability and accuracy of information shared publicly.
+•      Theft of intellectual property created through years of research and development.
+•     Disclosure of price sensitive information, such as negotiations on significant purchase/sale
+       of business.
+(H) Technology Risks: Risks emanating from dependence on use, ownership and operation of
+technology to deliver customer solutions/products/services or the risk emanating from not keeping
+pace with changing technological advancements. Risk which are faced by the company due to its
+poor understanding  of the nuances  of high technology and  its mode  of operation and  its
+consequences are also included here.
+Examples:
+•     Compromising on security procedures and allowing unauthorised systems access.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+1.102.10           RISK MANAGEMENT
+
+•     Sabotage of company systems as a result of hacking or virus attack.
+•      Introduction of untested new systems or poorly adopted IT packages.
+(I)  Management and Employees (HR/People) Risks: Risks impacting the employees and
+management of the organisation (its Human Resources) due to dependence individuals. Included
+here are risks emanating from their skills sets, experience and the ability of the organisation to
+effect the optimum utilisation of its people to achieve company's objectives.
+Examples:
+•    Sudden departure of key management personnel with critical information or skills.
+•      Inconsistent customer service due to poor staff training.
+•     Risk of mismatch of people skills with the jobs assigned to them.
+(J)  Location/Geography Risks: Risks which are specific to a particular geography or location
+and the organisation's dependence on that particular part of the geography to achieve objective.
+Examples:
+•     Mining company's ability to excavate the natural resource without disturbing the natural
+      eco-system.
+•     High security threat by operating in a terrorist prone part of the country (e.g., States of J&K
+      and North-east).
+•    Need to open outlets throughout the country to reach out to remote customers.
+(K)  Other Risks: Finally, we shall discuss briefly two more types of risks which are somewhat
+different in nature:
+(i)  Fraud Risk: Standard on Internal Audit (SIA) 11, Consideration of Fraud in an Internal Audit
+issued by the Institute of Chartered Accountants of India describes fraud as "an intentional act by
+one or more individuals among management, those charged with governance, or third parties,
+involving the use of deception to obtain unjust or illegal advantage. A fraud could take form of
+misstatement of an information (financial or otherwise) or misappropriation of the assets of the
+entity".
+In "Managing the Business Risk of Fraud: A Practical Guide, IIA, AICPA and ACFE", fraud is
+described as "any intentional act or omission designed to deceive others, resulting in the victim
+suffering a loss and/or the perpetrator achieving a gain". Due to the various scandals and frauds
+that have unfolded in the recent past, the possibility of fraud risks is now of real concern in most
+organisations. Management  is expected to take conscious steps to prevent and detect such
+incidents in their organisations and this aspect is generally a very high risk area. Hence  it will be
+discussed in depth in Module III.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+INTRODUCTION & OVERVIEW             1.112.11
+
+(ii)  Audit Risk: Audit risk is related mainly to the external and internal audit efforts designed to
+provide audit assurance with respect to the area subject to audit. It has traditionally been seen as
+the risk of incorrect audit conclusions, partly due to the inherent nature of audit work and partly
+due to flawed evidential matter. However, now it seems to encompass the risk of poorly designed
+and executed audit work and the possibility of oversight or poor detection.
+Risk Classification Linkages
+One may wonder if, after all this classification effort, what is it that we achieve.
+•    Do we get any much more clarity?
+•    Do we get a better appreciation of the risk dynamics at play?
+•     Or do we get a better road map of managing them?
+Fundamentally, one should look for some type of a benefit along those lines. In this regard  it
+makes sense to understand the way all this classification effort is linked together.
+The internal and external environment acts as a source for all the inherent risks which in a way
+forms the risk universe. We develop a risk response for each of these inherent risks and by
+classifying them as controllable and uncontrollable, we normally take the latter and seek to transfer
+or terminate them.
+The controllable risks are subject to mitigations and internal controls to reduce their impact and
+these result in residual risks and depending on the area of impact, may, be classified in any
+number of ways such as strategic, reputation, etc.
+
+      3. IMPORTANCE & OBJECTIVES
+3.1  Importance of Risk Management
+Governance functions include planning and budgeting, performance measurement, assurance and
+auditing, procurement, hiring, assessing staff as well as control over all day-to-day operations. The
+management of an organization, enabled by its governance arrangements, can be described as
+“coordinated activities to direct and control an organization”. Risk management  is defined as
+“coordinated activities to direct and control an organization with regard to risk”. The parallels
+between these two statements demonstrate how closely risk management and governance are
+linked.
+Risk Management is one of the important pillars of Governance and arguably the only tool to deal
+with business uncertainty. Risk Management is used most successfully by Fortune 500 and other
+large companies to sustain and grow their businesses. Risk management is recognised as an
+integral component of good management and governance. It is an iterative process consisting of
+steps, which, when undertaken in sequence, enable continual improvement in decision making.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+1.122.12           RISK MANAGEMENT
+
+Risk management  is the term applied to a logical and systematic method of establishing the
+context, identifying, analysing, evaluating, treating, monitoring and communicating risks associated
+with any activity, function or process in a way that will enable organisations to minimise losses and
+maximize opportunities.
+Risk management is as much about identifying opportunities as avoiding or mitigating losses.
+Risk consequences can be fatal to any business. The expenditure of fixing damage and/or the loss
+of valued assets or even customers to competition after a catastrophe can have a significant
+impact on the bottom line of a business. By identifying and managing risks entities are able to
+actively protect value from any potential catastrophes and save valuable time and money. A risk
+management plan and system is there to do more than identify risk, a good system should also
+quantify the risk, predict the impact, and put procedures in place to mitigate the risk, or even
+eliminate it to the extent possible.
+3.2  Objectives of Risk Management
+The main objective of risk management is to protect the property, earnings and personnel of the
+organisation against losses and legal  liabilities that may be incurred due to various  risks.  It
+minimises cost of the risk and maximises the profitability. The accidental risks may not only result
+in unexpected costs to a company but threaten its survival altogether. Thus, it is essential for the
+management to do some exercise to know about the possibility of a ‘risk event’, sources of such
+event and impact of such event beforehand and consider ways and means of preventing, reducing
+or minimising the loss. A risk manager has to take necessary measures with least possible costs to
+bring the functioning of the organisation back to normal when the risk event takes place. Now, the
+corporate sector in India is increasingly recognising the importance of employing independent risk
+managers  to manage  their  risks.  In  the changed  scenario  the main  function  of  the  risk
+management  is that  it should control not only the pure risks but also extend services to the
+analysis and control of all types of risks arising out of Business.
+
+      4.  OVERVIEW OF MITIGATION & CONTROLS
+4.1  Risk Mitigation
+The  first step in the process of managing risk is identifying the potential risks involved in the
+instant case. The risks must then be assessed as to their potential severity of likely losses that
+might have to be suffered and to the probability of occurrence, time and again. Risk is a measure
+of the inability to achieve overall programme objectives within the defined cost and time schedule,
+and technical constraints that may be embedded therein and has two components:
+(a)    the probability of failing to achieve a particular outcome and
+(b)    the consequences of failing to achieve that outcome.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+INTRODUCTION & OVERVIEW             1.132.13
+
+Possible Alternative Actions - Once risks have been identified and assessed, the next strategy is
+to devise plans how to deal with the risks so identified and analysed as to their outcomes. There
+cannot be any ready-made solution that will match every finding. The techniques to manage the
+risk usually fall into one or more of the four major categories as may be envisaged
+–     Avoidance:  It includes deliberate attempt on part of the person taking risk decision not to
+      perform an activity or not to accept a proposal, which is risk prone.
+–      Retention:  It involves accepting the loss when  it occurs by taking risky proposal or risky
+      assignment where there are no other alternatives to avoid risk.
+–      Transfer: It means causing another party to accept the risk, typically by contract. It involves
+      a process of shifting risk responsibility on others.
+–     Hedging: Risk hedging  is a systematic process  of reducing  risk associated  with an
+      investment proposal or in some other assignments where risk is inevitable i.e. the risk is of
+      such nature that it cannot be avoided altogether
+Ideal use of all these strategies at any particular point of time and in respect of any specific risk
+problem may not be possible in real life situations for various reasons. These strategies are not
+mutually exclusive rather they are exhaustive. Some of them may involve trade-offs that are not
+acceptable to the organization or person making the risk management decisions. A judicious
+combination of these may at best help better risk management.
+4.2  Risk Control
+Controlling the risk by selecting those techniques that will reduce the frequency of loss and reduce
+the severity of loss is Risk Control. Before deciding upon the specific risk control measure to be
+adopted  it is necessary to conduct a cost-benefit exercise. That is an evaluation of the expected
+benefits and costs involved to determine whether the decision taken is economically sound or not.
+However, where there is no option in regard to the risk control activity but is part of a contract or
+imposed by provision of law, cost benefit exercise has no place or validity.
+Risk Control covers all those measures aimed at avoiding / eliminating / reducing the chances of
+loss producing events. The purpose of risk control  is to minimize the total cost of risk to an
+organization whilst at the same time ensuring the long-term economic survival of the organization.
+
+      5.   OPPORTUNITIES IN RM FOR CAs
+A pertinent question one Chartered Accountant may ask is “How does RM matter for me?” A
+Chartered Accountant can  play an important  role  in RM  either as a Manager,  Auditor  or
+Consultant.
+5.1 CA as a Manager
+A chartered accountant can play certain important role in the area of risk management:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+1.142.14           RISK MANAGEMENT
+
+•    As a member of board of director or CEO of a company: The chief executive officer is
+       ultimately responsible  for implementing RM  in any organisation. The board of director
+      provides important oversight to RM and is aware of entity’s risk appetite.
+•     Sometimes companies form specific committees e.g. Risk Management Committee of board
+     members for implementing RM. A CA can play a significant role in this area.
+•    As a Chief Risk Officer (CRO): In large organizations there is likely to be a need for a
+      dedicated Risk Manager and a CA can play a role of CRO in this respect. He/ She would be
+      a key person whose role would include:
+            Setting policy and strategy for risk management,
+           Being the primary champion of risk management at strategic and operational levels
+            Building a culture of risk awareness within the organisation including appropriate
+             education and training
+            Establishing internal risk policy and structures for business units
+           Developing risk response processes including contingency and business continuity
+           programme
+           Preparing reports for the board and the stakeholders
+5.2 CA as an auditor
+Assuming a situation where the client has implemented an RM concept in their company.  If the
+auditor is aware of RM he can appreciate/ understand the concept and make use of the features of
+RM.
+As an internal auditor of the company:
+•    As an internal auditor a CA can assist both management and Risk management committee
+      by examining, evaluating, reporting and recommending improvements on the adequacy and
+       effectiveness of management’s risk assessment process.
+•    As an external auditor of the company:
+Concept of risk management had given rise to a new approach to auditing ‘Risk Management
+based Auditing’.
+5.3 CA as a consultant
+Risk management requires a detailed knowledge and understanding of the organisation and the
+processes involved in the business.
+There  are a huge number  of  different  advisers and  consultants  providing  support  to an
+organization’s risk management programme. Because of this, risk management is a truly multi-
+disciplinary profession.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+INTRODUCTION & OVERVIEW             1.152.15
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    Which of the following are example of Internal Risks?
+        (a)    Risks stem from the general health of the economy, inflation, credit in the market etc.
+        (b)    Risks stem from stability of government, communal violence/tensions, hostilities with
+             other countries.
+        (c)    Risks stem from people factors such as employee churn, strikes or lock - outs by
+             trade unions, negligence or dishonesty of employees, accidents in the factory, etc.
+        (d)    Risks  stem  from  environment  factors  such  as  natural  calamities  (flooding.
+             earthquake, cyclones) or severe weather conditions.
+2.    Which of the following risk can be perceived to be more manageable?
+        (a)    Flooding in a certain part of the country.
+        (b)    Terrorist strikes and bomb-blasts
+        (c)   An aggrieved employee chooses to sabotage some production process or certain
+             other systems.
+        (d)    Technology deployed  to improve the product features  to cater better to evolve
+           consumer demand.
+3.    Emergence of alternative product/service by competitor making company's product obsolete
+       primarily is an example of ……………
+       (a)    Strategic Risk
+       (b)    Operational Risk
+        (c)    Brand/ Reputation Risk
+       (d)    Finance Risk
+4.    Challenges by competitor  for  violations  of  Intellectual Property Rights  primarily  is an
+      example of ……………
+       (a)    Strategic Risk
+       (b)    Operational Risk
+        (c)    Brand/ Reputation Risk
+       (d)   Compliance Risk
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+1.162.16           RISK MANAGEMENT
+
+5.        ............. involves accepting the loss as there is no other alternative to avoid the risk.
+       (a)    Avoidance of Risk
+       (b)    Retention of Risk
+        (c)     of Risk
+       (d)   Hedging of Risk
+Answers to Multiple Choice Questions:
+    1.         (c)        2.        (d)        3.        (a)        4.        (d)        5.        (b)
+
+
+© The Institute of Chartered Accountants of India

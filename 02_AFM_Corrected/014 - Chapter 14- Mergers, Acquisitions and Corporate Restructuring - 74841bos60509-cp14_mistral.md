@@ -1,0 +1,3373 @@
+
+
+====================== PAGE 1 ======================
+
+CHAPTER 14
+
+# MERGERS, ACQUISITIONS & CORPORATE RESTRUCTURING
+
+![img-0.jpeg](img-0.jpeg)
+
+## LEARNING OUTCOMES
+
+After going through the chapter student shall be able to understand
+
+- ☐ Conceptual Framework
+- ☐ Rationale
+- ☐ Forms
+- ☐ Financial Framework
+- ☐ Takeover Defensive Tactics
+- ☐ Reverse Merger
+- ☐ Divestiture
+- ☐ Financial Restructuring
+- ☐ Ownership Restructuring
+- ☐ Unlocking the value through Mergers & Acquisitions and Business Restructuring
+- ☐ Mergers and Acquisitions Failures
+- ☐ Cross Border Mergers
+- ☐ Special Purpose Acquisition Companies (SPACs)
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 2 ======================
+
+14.2
+
+ADVANCED FINANCIAL MANAGEMENT
+
+# 1. CONCEPTUAL FRAMEWORK
+
+Restructuring of business is an integral part of modern business enterprises. The globalization and liberalization of Control and Restrictions has generated new waves of competition and free trade. This requires Restructuring and Re-organisation of business to create new synergies to face the competitive environment and changed market conditions.
+
+Restructuring usually involves major organizational changes such as shift in corporate strategies. Restructuring can be internally in the form of new investments in plant and machinery, Research and Development of products and processes, hiving off non-core businesses, divestment, sell-offs, de-merger etc. Restructuring can also take place externally through Mergers and Acquisitions (M&As), by forming joint-ventures and having strategic alliances with other firms.
+
+The aspects relating to expansion or contraction of a firm's operations or changes in its assets or financial or ownership structure are known as corporate re-structuring. While there are many forms of corporate re-structuring, mergers, acquisitions and takeovers, financial restructuring and re-organisation, divestitures de-mergers and spin-offs, leveraged buyouts and management buyouts are some of the most common forms of corporate restructuring.
+
+The most talked about subject of the day is Mergers & Acquisitions (M&A). In developed economies, corporate Mergers and Acquisition is a regular feature. In Japan, the US and Europe, hundreds of mergers and acquisition take place every year. In India, too, mergers and acquisition have become a part of corporate strategy today.
+
+Mergers, acquisitions and corporate restructuring of businesses in India have grown by leaps and bounds in the last decade. From about $4.5 billion in 2004, the market for corporate control zoomed to $13 billion in 2005 and reached to record $56.2 billion in 2016. This tremendous growth was attributed to the fact that the foreign investors were looking for an alternative destination, preferably a growing economy as their own country was reeling under the pressure of recession. This was caused by the tough macro-economic climate created due to Euro Zone crisis and other domestic reasons such as inflation, fiscal deficit and currency depreciation.
+
+The terms 'mergers; 'acquisitions' and 'takeovers' are often used interchangeably in common parlance. However, there are differences. While merger means unification of two entities into one, acquisition involves one entity buying out another and absorbing the same. In India, in legal sense merger is known as 'Amalgamation'.
+
+The amalgamations can be by merger of companies within the provisions of the Companies Act, and acquisition through takeovers. While takeovers are regulated by SEBI, Mergers and Acquisitions (M&A) deals fall under the Companies Act. In cross border transactions, international tax considerations also arise.
+
+Halsburry's Laws of England defined amalgamation as a blending of two or more existing undertakings, the shareholders of each amalgamating company becoming substantially the
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 3 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.3
+
+shareholders in the amalgamating company. Accordingly, in a merger, two or more companies combine into a single unit.
+
+The term “amalgamation” is used when two or more companies are amalgamated or where one is merged with another or taken over by another. In Inland Steam Navigation Workers Union vs. R.S. Navigation Company Ltd., it was observed that in case of amalgamation, the rights and liabilities of a company are amalgamated into another so that the transferee company becomes vested with all rights and liabilities of the transferor company.
+
+An acquisition is when both the acquiring and acquired companies are still left standing as separate entities at the end of the transaction. A merger results in the legal dissolution of one of the companies, and a consolidation dissolves both of the parties and creates a new one, into which the previous entities are merged.
+
+In India corporate takeovers were started by Swaraj Paul when he tried to takeover Escorts. The other major takeovers are that of Ashok Leyland by the Hindujas Shaw Wallace, Dunlop, and Falcon Tyres by the Chabbria Group; Ceat Tyres by the Goenkas; and Consolidated Coffee by Tata Tea. The BIFR arranged for the takeover of companies by giants like ITC, McDowells, Lakshmi Machine Works, and the Somani Group.
+
+Many new companies are being incorporated as a result of the fast-growing industrialization of the country which is mainly dependent on agriculture. With the new trends of globalization, not only in this country but also worldwide, there has been increasing interaction of companies and persons of one country with those of other countries. Today, corporate restructuring has gained momentum as a result, undertakings and companies are merging, demerging, divesting and taking over, both unregistered and registered in India as well as outside India.
+
+Against this corporate backdrop, mergers and acquisitions have to be encouraged in the interest of the general public and for the promotion of industry and trade. At the same time the government has to safeguard the interest of the citizens, the consumers and the investors on the one hand and the shareholders, creditors and employees/workers on the other.
+
+Chapter XV (Section 230 to 240) of Companies Act, 2013 (the Act) contains provisions on 'Compromises, Arrangements and Amalgamations', that covers compromise or arrangements, mergers and amalgamations, Corporate Debt Restructuring, demergers, fast track mergers for small companies/holding subsidiary companies, cross border mergers, takeovers, amalgamation of companies in public interest etc.
+
+Special restructuring processes such as 'Reconstruction' of sick industrial companies envisaged by the Sick Industries (Special Provisions) Act, 1985 and 'Revival' of financially unviable companies envisaged by sec 72A of the Income Tax Act, 1961. However, all such mergers and acquisitions are also governed or controlled through relevant provisions of the Foreign Exchange Management Act, 1999; Income Tax Act, 1961; Industries (Development and Regulation) Act, 1951, the Competition Act 2002; the restrictions imposed by other relevant Acts including SEBI Act, 1992, as the case may be.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 4 ======================
+
+14.4
+
+ADVANCED FINANCIAL MANAGEMENT
+
+"Generally, where only one company is involved in a scheme and the rights of the shareholders and creditors are varied, it amounts to reconstruction or reorganization or scheme of arrangement. In an amalgamation, two or more companies are fused into one by merger or by one taking over the other. Amalgamation is a blending of two or more existing undertakings into one undertaking, the shareholders of each blending company become substantially the shareholders of the company which is to carry on the blended undertaking. There may be amalgamation either by the transfer of two or more undertakings to a new company, or by the transfer of one or more undertaking to an existing company. Strictly, 'amalgamation' does not cover the mere acquisition of share capital of the other company which remains in existence and continues its undertaking but the context in which the term is used may show that it is intended to include such an acquisition."
+
+## 2. RATIONALE FOR MERGERS AND ACQUISITIONS
+
+The most common reasons for Mergers and Acquisition (M&A) are:
+
+- Synergistic operating economics: Synergy may be defined as follows:
+
+$$
+V (AB) &gt; V (A) + V (B).
+$$
+
+In other words, the combined value of two firms or companies shall be more than their individual value. Synergy is the increase in performance of the combined firm over what the two firms are already expected or required to accomplish as independent firms (Mark L Sirower of Boston Consulting Group, in his book "The Synergy Trap"). This may be the result of complimentary services or economies of scale or both.
+
+A good example of complimentary activities can be a company having a good network of branches and other company having an efficient production system. Thus, the merged companies will be more efficient than individual companies.
+
+On similar lines, economies of large scale is also one of the reasons for synergy benefits. The main reason is that, the large scale production results in lower average cost of production e.g. reduction in overhead costs on account of sharing of central services such as accounting and finances, office executives, top level management, legal, sales promotion and advertisement etc.
+
+These economies can be "real" arising out of reduction in factor input per unit of output, whereas pecuniary economics are realized from paying lower prices for factor inputs for bulk transactions. Other factors for Synergies are as follows:
+
+- Diversification: Merger between two unrelated companies would lead to reduction in business risk, which in turn will increase the market value consequent upon the reduction in discount rate/ required rate of return. Normally, greater the combination of statistically independent or negatively correlated income streams of merged companies, higher will be the reduction in business risk in comparison to companies having income streams which are positively correlated to each other.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 5 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.5
+
+- Taxation: The provisions of set off and carry forward of losses as per Income Tax Act may be another strong reason for the merger and acquisition. Thus, there will be Tax saving or reduction in tax liability of the merged firm. Similarly, in the case of acquisition the losses of the target company will be allowed to be set off against the profits of the acquiring company.
+
+- Growth: Merger and acquisition mode enables the firm to grow at a rate faster than the other mode viz., organic growth. The reason being the shortening of 'Time to Market'. The acquiring company avoids delays associated with purchasing of building, site, setting up of the plant and hiring personnel etc.
+
+- Consolidation of Production Capacities and increasing market power: Due to reduced competition, marketing power increases. Further, production capacity is increased by the combination of two or more plants. The following table shows the key rationale for some of the well-known transactions which took place in India in the recent past.
+
+Rationale for M & A
+
+|  Instantaneous growth, Snuffing out competition, Increased market share. | • Airtel – Loop Mobile (2014) (Airtel bags top spot in Mumbai Telecom Circle)  |
+| --- | --- |
+|  Acquisition of a competence or a capability | • Google – Motorola (2011) (Google got access to Motorola’s 17,000 issued patents and 7500 applications)  |
+|  Entry into new markets/product segments | • Airtel – Zain Telecom (2010) (Airtel enters 15 nations of African Continent in one shot)  |
+|  Access to funds | • Ranbaxy – Sun Pharma (2014) (Daiichi Sankyo sold Ranbaxy to generate funds)  |
+|  Tax benefits | • Burger King (US) – Tim Hortons (Canada) (2014) (Burger King could save taxes in future)  |
+|  Instantaneous growth, Snuffing out competition, Increased market share. | • Facebook – Whatsapp (2014) (Facebook acquired its biggest threat in chat space)  |
+|  Acquisition of a competence or a capability | • Flipkart – Myntra (2014) (Flipkart poised to strengthen its competency in apparel e-commerce market)  |
+|  Entry into new markets/product segments | • Cargill – Wipro (2013) (Cargill acquired Sunflower Vanaspati oil business to enter Western India Market)  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 6 ======================
+
+14.6
+ADVANCED FINANCIAL MANAGEMENT
+
+|  Access to funds | • Jaypee – Ultratech (2014) (Jaypee sold its cement unit to raise funds for cutting off its debt)  |
+| --- | --- |
+|  Tax benefits | • Durga Projects Limited (DPL) – WBPDCL (2014) (DPL’s loss could be carry forward and setoff)  |
+
+# 3. FORMS (TYPES) OF MERGERS
+
+A merger is generally understood to be a fusion of two companies. The term “merger” means the dissolution of one or more companies or firms or proprietorships to form or get absorbed into another company. By concept, merger increases the size of the undertakings. Following are the major types of mergers:
+
+(i) Horizontal Merger: The two companies which have merged are in the same industry, normally the market share of the new consolidated company would be larger and it is possible that it may move closer to being a monopoly or a near monopoly to avoid competition.
+
+(ii) Vertical Merger: This merger happens when two companies that have ‘buyer-seller’ relationship (or potential buyer-seller relationship) come together.
+
+(iii) Conglomerate Mergers: Such mergers involve firms engaged in unrelated type of business operations. In other words, the business activities of acquirer and the target are neither related to each other horizontally (i.e., producing the same or competing products) nor vertically (having relationship of buyer and supplier). In a pure conglomerate merger, there are no important common factors between the companies in production, marketing, research and development and technology. There may however be some degree of overlapping in one or more of these common factors. Such mergers are in fact, unification of different kinds of businesses under one flagship company. The purpose of merger remains utilization of financial resources, enlarged debt capacity and also synergy of managerial functions.
+
+(iv) Congeneric Merger: In these mergers, the acquirer and the target companies are related through basic technologies, production processes or markets. The acquired company represents an extension of product-line, market participants or technologies of the acquirer. These mergers represent an outward movement by the acquirer from its current business scenario to other related business activities within the overarching industry structure.
+
+(v) Reverse Merger: Such mergers involve acquisition of a public (Shell Company) by a private company, as it helps the same private company to by-pass lengthy and complex process required to be followed in case it is interested in going public.
+
+(vi) Acquisition: This refers to the purchase of controlling interest by one company in the share capital of an existing company. This may be by:
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 7 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.7
+
+(i) an agreement with majority holder of Interest.
+(ii) Purchase of new shares by private agreement.
+(iii) Purchase of shares in open market (open offer)
+(iv) Acquisition of share capital of a company by means of cash, issuance of shares.
+(v) Making a buyout offer to general body of shareholders.
+
+When a company is acquired by another company, the acquiring company has two choices, one, to merge both the companies into one and function as a single entity or two, to operate the taken-over company as an independent entity with changed management and policies. 'Merger' is the fusion of two independent firms on co-equal terms. 'Acquisition' is buying out of a company by another company and the acquired company usually loses its identity. Normally, this process is friendly.
+
+![img-1.jpeg](img-1.jpeg)
+
+Source: Patricial Anslinger and Thomas E Copeland, "Growth through Acquisitions : A Fresh look, Harvard Business Review Jan. – Feb -1996.
+
+Acquisition of one of the businesses of a company, as a going concern by an agreement need not necessarily be routed through court, if the transfer of business is to be accomplished without allotting shares in the transferee company to the shareholders of the transferor company. This would tantamount to a simple acquisition. In this case the transferor company continues to exist and no change in shareholding is expected. If the sale takes place for a lumpsum consideration without attributing any individual values to any class of assets, such sales are called slump sales. The capital gains arising on slump sales were being exempt from income tax based on a decision of the Supreme Court of India.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 8 ======================
+
+14.8
+
+ADVANCED FINANCIAL MANAGEMENT
+
+## 4. FINANCIAL FRAMEWORK
+
+### 4.1 Gains from Mergers or Synergy
+
+The first step in merger analysis is to identify the economic gains from the merger. There are gains if the combined entity is more than the sum of its parts.
+
+That is, Combined value &gt; (Value of acquirer + Stand-alone value of target)
+
+The difference between the combined value and the sum of the values of individual companies is usually attributed to synergy.
+
+Value of acquirer + Stand-alone value of target + Value of synergy = Combined value
+
+There is also a cost attached to an acquisition. The cost of acquisition is the premium paid over the market value plus other costs of integration. Therefore, the net gain is the value of synergy minus premium paid.
+
+$$
+V_A = ₹100
+$$
+
+$$
+V_B = ₹50
+$$
+
+$$
+V_{AB} = ₹175
+$$
+
+Where,
+$V_A$ = Value of Acquirer
+$V_B$ = Standalone value of target
+
+And,
+$V_{AB}$ = Combined Value
+
+So, Synergy = $V_{AB} - (V_A + V_B) = 175 - (100 + 50) = 25$
+
+If premium is ₹10, then, Net gain = Synergy - Premium = 25 - 10 = 15
+
+Acquisition need not be made with synergy in mind. It is possible to make money from non-synergistic acquisitions as well. As can be seen from the Exhibit, operating improvements are a big source of value creation. Better post-merger integration could lead to abnormal returns even when the acquired company is in unrelated business. Obviously, managerial talent is the single most important instrument in creating value by cutting down costs, improving revenues, operating profit margin and cash flow position, etc. Many a time, executive compensation is tied to the performance in the post-merger period. Providing equity stake in the company induces executives to think and behave like shareholders.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 9 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.9
+Exhibit: Merger gains
+
+![img-2.jpeg](img-2.jpeg)
+Source: Patricia L Anslinger and Thomas E Copeland, 'Growth Through Acquisitions : A Fresh Look', Harvard Business Review, Jan–Feb., 1996.
+
+## 4.2 Scheme of Amalgamation or Merger
+
+The scheme of any arrangement or proposal for a merger is the heart of the process and has to be drafted with care.
+
+There is no prescribed form for a scheme, and it is designed to suit the terms and conditions relevant to the proposal and should take care of any special feature peculiar to the arrangement.
+
+An essential component of a scheme is the provision for vesting all the assets and liabilities of the transferor company in its transferee company. If the transferee company does not want to take over any asset or liability, the transferor company before finalizing the draft scheme should dispose off or settle them. Otherwise, the scheme would be considered defective and incomplete, and the court would not sanction it.
+
+It is equally important to define the effective date from which the scheme is intended to come into operation. This would save time and labour in explaining to the court the intention behind using several descriptions in the scheme. For accounting purposes, the amalgamation shall be affected with reference to the audited accounts and balance sheets as on a particular date (which precedes the date of notification) of the two companies and the transactions thereafter shall be pooled into a common account.
+
+Another aspect relates to the valuation of shares to decide the exchange ratio. Objections have been raised as to the method of valuation even in cases where the scheme had been approved by a large majority of shareholders and the financial institutions as lenders. The courts have declared their unwillingness to engage in a study of fitness of the mode of valuation. A High Court stated: "There are bound to be differences of opinion as to what the correct value of the shares of the company is. Simply because it is possible to value the share in a manner different from the one adopted in each case, it cannot be said that the valuation agreed upon has been unfair." Similarly, in the case of Hindustan Lever the Supreme Court held that it would not interfere with the valuation
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 10 ======================
+
+14.10
+
+ADVANCED FINANCIAL MANAGEMENT
+
+of shares when more than 99 per cent of the shareholders have approved the scheme and the valuations having been perused by the financial institutions.
+
+## 4.3 Financial Evaluation
+
+Financial evaluation addresses the following issues:
+
+(a) What is the maximum price that should be paid for the target company?
+(b) What are the principal areas of Risk?
+(c) What are the cash flow and balance sheet implications of the acquisition? And,
+(d) What is the best way of structuring the acquisition?
+
+## 4.4 Arranging Finance for Acquisition
+
+Once the Definitive Agreement is signed, the Company Secretarial aspects relating to putting through the acquisition process will be taken up by the legal and secretarial department of both the companies. Side by side, the CFO of the acquiring company will move to the next stage which is 'Financing the Acquisition'.
+
+One of the most important decisions is how to pay for the acquisition – cash or stock or part of each and this would be part of the Definitive Agreement. If the acquisition is an 'all equity deal', the CFO's can breathe easy. However, if cash payout is significant, the acquirer has to plan for financing the deal. Sometimes acquirers do not pay all of the purchase consideration as, even though they could have sufficient funds. This is part of the acquisition strategy to keep the war chest ready for further acquisitions. Another reason to pay by shares would be when the acquirer considers that their company's shares are 'overpriced' in the market.
+
+Financing the acquisition can be quite challenging where the acquisition is an LBO. Many times, strong companies plan to shore up their long-term funds subsequent to the takeover. The immediate funding is accomplished with bridge financing.
+
+## 5. TAKEOVER DEFENSIVE TACTICS
+
+Normally acquisitions are made friendly, however when the process of acquisition is unfriendly (i.e., hostile) such acquisition is referred to as 'takeover'. Hostile takeover arises when the Board of Directors of the acquiring company decide to approach the shareholders of the target company directly through a Public Announcement (Tender Offer) to buy their shares consequent to the rejection of the offer made to the Board of Directors of the target company.
+
+## 5.1 Take Over Strategies
+
+Other than Tender Offer the acquiring company can also use the following techniques:
+
+- Street Sweep: This refers to the technique where the acquiring company accumulates larger number of shares in a target before making an open offer. The advantage is that the target
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 11 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.11
+
+company is left with no choice but to agree to the proposal of acquirer for takeover.
+
+- Bear Hug: When the acquirer threatens the target company to make an open offer, the board of target company agrees to a settlement with the acquirer for change of control.
+- Strategic Alliance: This involves disarming the acquirer by offering a partnership rather than a buyout. The acquirer should assert control from within and takeover the target company.
+- Brand Power: This refers to entering into an alliance with powerful brands to displace the target's brands and as a result, buyout the weakened company.
+
+## 5.2 Defensive Tactics
+
+A target company can adopt a number of tactics to defend itself from hostile takeover through a tender offer.
+
+- Divestiture - In a divestiture the target company divests or spins off some of its businesses in the form of an independent, subsidiary company. Thus, reducing the attractiveness of the existing business to the acquirer.
+- Crown jewels - When a target company uses the tactic of divestiture it is said to sell the crown jewels. In some countries such as the UK, such tactic is not allowed once the deal becomes known and is unavoidable.
+- Poison pill - The tactics used by the acquiring company to make itself unattractive to a potential bidder is called poison pills. For instance, the acquiring company may issue substantial amount of convertible debentures to its existing shareholders to be converted at a future date when it faces a takeover threat. The task of the bidder would become difficult since the number of shares having voting control of the company increases substantially.
+- Poison Put - In this case the target company issues bonds that encourage the holder to cash in at higher prices. The resultant cash drainage would make the target unattractive.
+- Greenmail - Greenmail refers to an incentive offered by management of the target company to the potential bidder for not pursuing the takeover. The management of the target company may offer the acquirer a higher price for its shares than the market price.
+- White knight - In this a target company offers to be acquired by a friendly company to escape from a hostile takeover. The possible motive for the management of the target company to do so is not to lose the management of the company as the hostile acquirer may change the management.
+- White squire - This strategy is essentially the same as white knight and involves sell out of shares to a company that is not interested in the takeover. Consequently, the management of the target company retains its control over the company.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 12 ======================
+
+14.12
+
+ADVANCED FINANCIAL MANAGEMENT
+
+- Golden parachutes - When a company offers hefty compensations to its managers if they get ousted due to takeover, the company is said to offer golden parachutes. This reduces acquirer's interest for takeover.
+- Pac-man defence - This strategy aims at the target company making a counter bid for the acquirer company. This would force the acquirer to defend itself and consequently may call off its proposal for takeover.
+
+It is needless to mention that hostile takeovers, as far as possible, should be avoided as they are more difficult to consummate. In other words, friendly takeover is a better course of action to follow.
+
+# 6. REVERSE MERGER
+
+In ordinary cases, the company taken over is the smaller company; in a 'reverse takeover', a smaller company gains control of a larger one. The concept of takeover by reverse bid, or of reverse merger, is thus not the usual case of amalgamation of a sick unit which is non-viable with a healthy or prosperous unit but is a case whereby the entire undertaking of the healthy and prosperous company is to be merged and vested in the sick company which is non-viable. A company becomes a sick industrial company when there is erosion in its net worth. This alternative is also known as taking over by reverse bid.
+
+The three tests to be fulfilled before an arrangement can be termed as a reverse takeover are specified as follows:
+
+(i) the assets of the transferor company are greater than the transferee company,
+(ii) equity capital to be issued by the transferee company pursuant to the acquisition exceeds its original issued capital, and
+(iii) the change of control in the transferee company through the introduction of a minority holder or group of holders.
+
+This type of merger is also known as 'back door listing'. This kind of merger has been started as an alternative to go for public issue without incurring huge expenses and passing through the cumbersome process. Thus, it can be said that reverse merger leads to the following benefits for the acquiring company:
+
+- Easy access to capital market.
+- Increase in visibility of the company in corporate world.
+- Tax benefits on carry forward losses acquired (public) company.
+- Cheaper and easier route to become a public company.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 13 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.13
+
+# 7. DIVESTITURE
+
+It means a company selling one of the portions of its divisions or undertakings to another company or creating an altogether separate company. There are various reasons for divestment or demerger viz.,
+
+(i) To pay attention on core areas of business;
+(ii) The Division's/business may not be sufficiently contributing to the revenues;
+(iii) The size of the firm may be too big to handle;
+(iv) The firm may be requiring cash urgently in view of other investment opportunities.
+
+# 7.1 Seller's Perspective
+
+It is necessary to remember that for every buyer there must be a seller. Although the methods of analysis for selling are the same as for buying, the selling process is termed divestiture. The decision to sell a company is at least as important as buying one but selling generally lacks the kind of planning that goes into buying. Quite often, the decision and the choice of the buyer is arbitrary, resulting in a raw deal for the selling company's shareholders. It is important to understand that selling needs the same skillset required for buying. At some point of time the executives of a company may have to take the decision to divest a division. There is nothing wrong in selling a division if it is worth more to someone else. The decision to sell may be prompted by poor growth prospects for a division or consolidation in the industry. Given the fact that the need to sell may arise any time, it makes sense for executives to be prepared. More specifically, executives need to know their company's worth. Consideration may be given to strengths and weakness in production, marketing, general management, value of synergy to potential buyers, value of brand equity, skill base of the organization, etc.
+
+To summarise, the following are some of the 'sell-side' imperatives.
+
+- Competitor's pressure is increasing.
+- Sale of company seems to be inevitable because company is facing serious problems like:
+
+- No access to new technologies and developments
+- Strong market entry barriers. Geographical presence could not be enhanced
+- Badly positioned on the supply and/or demand side
+- Critical mass could not be realised
+- Inefficient utilisation of distribution capabilities
+- New strategic business units for future growth could not be developed
+- Not enough capital to complete the project
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 14 ======================
+
+14.14
+
+ADVANCED FINANCIAL MANAGEMENT
+
+- Window of opportunity: Possibility to sell the business at an attractive price
+- Focus on core competencies
+- In the best interest of the shareholders – where a large well known firm brings-up the proposal, the target firm may be more than willing to give-up.
+
+## 7.2 Different Forms
+
+Different ways of divestment or demerger or divestitures are as follows:
+
+### 7.2.1 Sell off / Partial Sell off
+
+A sell off is the sale of an asset, factory, division, product line or subsidiary by one entity to another for a purchase consideration payable either in cash or in the form of securities. Partial Sell off, is a form of divestiture, wherein the firm sells its business unit or a subsidiary to another because it is deemed to be unfit with the company's core business strategy.
+
+Normally, sell-offs are done because the subsidiary doesn't fit into the parent company's core strategy. The market may be undervaluing the combined businesses due to a lack of synergy between the parent and the subsidiary. So, the management and the board decide that the subsidiary is better off under a different ownership. Besides getting rid of an unwanted subsidiary, sell-offs also raise cash, which can be used to pay off debts. In the late 1980s and early 1990s, corporate raiders used debt to finance acquisitions. Then, after making a purchase they used to sell-off its subsidiaries to raise cash to service the debt. The raiders' method certainly makes sense if the sum of the parts is greater than the whole. When it isn't, deals are unsuccessful.
+
+### 7.2.2 Spin-off
+
+In this case, a part of the business is separated and created as a separate firm. The existing shareholders of the firm get proportionate ownership. So, there is no change in ownership and the same shareholders continue to own the newly created entity in the same proportion as previously in the original firm. The management of spin-off division is however, parted with. Spin-off does not bring fresh cash. The reasons for spin off may be:
+
+(i) To give separate identity to a part/division.
+(ii) To avoid the takeover attempt by a predator by making the firm unattractive to him since a valuable division is spun-off.
+(iii) To create separate Regulated and unregulated lines of business.
+
+Example: Kishore Biyani led Future Group spin off its consumer durables business, Ezone, into a separate entity in order to maximise value from it.
+
+### 7.2.3 Split-up
+
+This involves breaking up of the entire firm into a series of spin off (by creating separate legal entities). The parent firm no longer legally exists and only the newly created entities survive. For
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 15 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.15
+
+instance, a corporate firm has 4 divisions namely A, B, C, D. All these 4 divisions shall be split-up to create 4 new corporate firms with full autonomy and legal status. The original corporate firm is to be wound up. Since de-merged units are relatively smaller in size, they are logistically more convenient and manageable. Therefore, it is understood that spin-off and split-up are likely to enhance shareholders value and bring efficiency and effectiveness.
+
+## 7.2.4 Equity Carve outs
+
+This is like spin off, however, some shares of the new company are sold in the market by making a public offer, so this brings cash. More and more companies are using equity carve-outs to boost shareholder value. A parent firm makes a subsidiary public through an initial public offering (IPO) of shares, amounting to a partial sell-off. A new publicly listed company is created, but the parent keeps a controlling stake in the newly traded subsidiary.
+
+A carve-out is a strategic avenue a parent firm may take when one of its subsidiaries is growing faster and carrying higher valuations than other businesses owned by the parent. A carve-out generates cash because shares in the subsidiary are sold to the public, but the issue also unlocks the value of the subsidiary unit and enhances the parent's shareholder value.
+
+The new legal entity of a carve-out has a separate board, but in most carve-outs, the parent retains some control over it. In these cases, some portion of the parent firm's board of directors may be shared. Since the parent has a controlling stake, meaning that both firms have common shareholders, the connection between the two is likely to be strong. That said, sometimes companies carve-out a subsidiary not because it is doing well, but because it is a burden. Such an intention won't lead to a successful result, especially if a carved-out subsidiary is too loaded with debt or trouble, even when it was a part of the parent and lacks an established track record for growing revenues and profits.
+
+## 7.2.5 Demerger or Division of Family-Managed Business
+
+Around 80 per cent of private sector companies in India are family-managed companies. The family-owned companies are, under extraordinary pressure to yield control to professional managements, as, in the emerging scenario of a liberalised economy the capital markets are broadening, with attendant incentives for growth. So, many of these companies are arranging to hive off their unprofitable businesses or divisions with a view to meeting a variety of succession problems.
+
+Even otherwise, a group of such family-managed companies may undertake restructuring of its operations with a view also to consolidating its core businesses. For this, the first step that may need to be taken is to identify core and non-core operations within the group. The second step may involve reducing interest burden through debt restructuring along with sale of surplus assets. The proceeds from the sale of assets may be employed for expanding by acquisitions and rejuvenation of its existing operations. The bottom line is that an acquisition must improve economies of scale, lower the cost of production, and generate and promote synergies. Besides acquisitions, therefore, the group may necessarily have to take steps to improve productivity of its existing operations.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 16 ======================
+
+14.10
+
+ADVANCED FINANCIAL MANAGEMENT
+
+# 8. FINANCIAL RESTRUCTURING
+
+Financial restructuring refers to the kind of internal changes made by the management in Assets and Liabilities of a company with the consent of its various stakeholders. This is a suitable mode of restructuring for corporate entities who have suffered from sizeable losses over a period of time. Consequent upon losses the share capital or net worth of such companies get substantially eroded. In fact, in some cases, the accumulated losses are even more than the share capital and thus leads to negative net worth, putting the firm on the verge of liquidation. In order to revive such firms, financial restructuring is one of the techniques that brings health into such firms having potential and promise for better financial performance in the years to come. To achieve this desired objective, such firms need to re-start with a fresh balance sheet free from losses and fictitious assets and show share capital at its true worth.
+
+To nurse back such firms a plan of restructuring needs to be formulated involving a number of legal formalities (which includes consent of court, and other stake-holders viz., creditors, lenders and shareholders etc.). An attempt is made to do refinancing and rescue financing. In restructuring normally equity shareholders make the maximum sacrifice by foregoing certain accrued benefits, followed by preference shareholders and debenture holders, lenders, and creditors etc. The sacrifice may be in the form of waving a part of the sum payable to various liability holders. The foregone benefits may be in the form of new securities with lower coupon rates to reduce future liabilities. The sacrifice may also lead to the conversion of debt into equity. Sometime, creditors, apart from reducing their claim, may also agree to convert their dues into securities to avert pressure of payment. These measures will lead to better financial liquidity. The financial restructuring leads to significant changes in the financial obligations and capital structure of a corporate firm, leading to a change in the financing pattern, ownership and control and payment of various financial charges.
+
+In a nutshell it may be said that financial restructuring (also known as internal re-construction) is aimed at reducing the debt/payment burden of the corporate firm. This results into:
+
+(i) Reduction/Waiver in the claims from various stakeholders;
+(ii) Real worth of various properties/assets by revaluing them timely;
+(iii) Utilizing profit accruing on account of appreciation of assets to write off accumulated losses and fictitious assets (such as preliminary expenses and cost of issue of shares and debentures) and creating provision for bad and doubtful debts. In practice, the financial restructuring scheme is drawn in such a way that all the above requirements of write off are duly met. The following illustration is a good example of financial restructuring.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 17 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.17
+
+# Illustration 1
+
+The following is the Balance-sheet of XYZ Ltd. as on March 31st, 2013.
+
+(₹ in lakh)
+
+|  Liabilities | Amount | Assets | Amount  |
+| --- | --- | --- | --- |
+|  6 lakh Equity Shares of ₹100/- each | 600 | Land & Building | 200  |
+|  2 Lakh 14% Preference shares of ₹100/- each | 200 | Plant & Machinery | 300  |
+|   |   |  Furniture & Fixtures | 50  |
+|  13% Debentures | 200 | Inventory | 150  |
+|  Debenture Interest accrued and Payable | 26 | Sundry debtors | 70  |
+|  Loan from Bank | 74 | Cash at Bank | 130  |
+|  Trade Creditors | 300 | Preliminary Expenses | 10  |
+|   |   |  Cost of Issue of debentures | 5  |
+|   |   |  Profit & Loss A/c | 485  |
+|   | 1,400 |  | 1,400  |
+
+The Company did not perform well and has suffered sizable losses during the last few years. However, it is now felt that the company can be nursed back to health by proper financial restructuring and consequently the following scheme of reconstruction has been devised:
+
+(i) Equity shares are to be reduced to ₹ 25/- per share, fully paid up;
+
+(ii) Preference shares are to be reduced (with Dividend rate of 10%) to equal number of shares of ₹50 each, fully paid up.
+
+(iii) Debenture holders have agreed to forego interest accrued to them. Beside this, they have agreed to accept new debentures carrying a coupon rate of 9%.
+
+(iv) Trade creditors have agreed to forgo 25 per cent of their existing claim; for the balance sum they have agreed to convert their claims into equity shares of ₹ 25/- each.
+
+(v) In order to make payment for bank loan and augment the working capital, the company issues 6 lakh equity shares at ₹ 25/- each; the entire sum is required to be paid on application. The existing shareholders have agreed to subscribe to the new issue.
+
+(vi) While Land and Building is to be revalued at ₹ 250 lakh, Plant & Machinery is to be written down to ₹ 104 lakh. A provision amounting to ₹ 5 lakh is to be made for bad and doubtful debts.
+
+You are required to show the impact of financial restructuring/re-construction. Also, prepare the new balance sheet assuming the scheme of re-construction is implemented in letter and spirit.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 18 ======================
+
+14.18
+
+ADVANCED FINANCIAL MANAGEMENT
+
+# Solution
+
+Impact of Financial Restructuring
+
+(i) Benefits to XYZ Ltd.
+
+|   |  | ₹ in lakhs  |
+| --- | --- | --- |
+|  (a) | Reduction of liabilities payable |   |
+|   |  Reduction in Equity Share capital (6 lakh shares x ₹75 per share) | 450  |
+|   |  Reduction in Preference Share capital (2 lakh shares x ₹50 per share) | 100  |
+|   |  Waiver of outstanding Debenture Interest | 26  |
+|   |  Waiver from Trade Creditors (₹300 lakhs x 0.25) | 75  |
+|   |   | 651  |
+|  (b) | Revaluation of Assets |   |
+|   |  Appreciation of Land and Building (₹250 lakhs - ₹200 lakhs) | 50  |
+|   |   | 701  |
+
+(ii) Amount of ₹ 701 lakhs utilized to write off losses, fictious assets and over- valued assets.
+
+|   | ₹ in lakhs  |
+| --- | --- |
+|  Writing off Profit and Loss account | 485  |
+|  Cost of issue of debentures | 5  |
+|  Preliminary expenses | 10  |
+|  Provision for bad and doubtful debts | 5  |
+|  Revaluation of Plant and Machinery (₹300 lakhs – ₹104 lakhs) | 196  |
+|   | 701  |
+
+Balance sheet of XYZ Ltd as at ______ (after re-construction)
+
+(₹ in lakhs)
+
+|  Liabilities | Amount | Assets |  | Amount  |
+| --- | --- | --- | --- | --- |
+|  21 lakhs Equity Shares of ₹25/- each | 525 | Land & Building |  | 250  |
+|  2 lakhs 10% Preference shares of ₹50/- each | 100 | Plant & Machinery |  | 104  |
+|  9% Debentures | 200 | Furnitures& Fixtures |  | 50  |
+|   |   |  Inventory |  | 150  |
+|   |   |  Sundry debtors | 70 |   |
+|   |   |   | -5 | 65  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 19 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING 14.19
+
+|   |  | Cash-at-Bank (Balancing figure)* | 206  |
+| --- | --- | --- | --- |
+|   | 825 |  | 825  |
+
+*Opening Balance of ₹ 130/- lakhs + Sale proceeds from issue of new equity shares ₹ 150/- lakhs – Payment of bank loan of ₹ 74/- lakhs = ₹ 206 lakhs.
+
+It is worth mentioning that financial restructuring is unique in nature and is company specific. It is carried out, in practice when all shareholders sacrifice and understand that the restructured firm (reflecting its true value of assets, capital and other significant financial para meters) can now be nursed back to health. This type of corporate restructuring helps in the revival of firms that otherwise would have faced closure/liquidation.
+
+## 9. OWNERSHIP RESTRUCTURING
+
+### 9.1 Going Private
+
+This refers to the situation wherein a listed company is converted into a private company by buying back all the outstanding shares from the markets.
+
+#### Example:
+
+The Essar group successfully completed Essar Energy Plc delisting process from London Stock Exchange in 2014.
+
+Going private is a transaction or a series of transactions that convert a publicly traded company into a private entity. Once a company goes private, its shareholders are no longer able to trade their stocks in the open market.
+
+A company typically goes private when its stakeholders decide that there are no longer significant benefits to be garnered as a public company. Privatization will usually arise either when a company's management wants to buy out the public shareholders and take the company privately (a management buyout), or when a company or individual makes a tender offer to buy most or all of the company's stock. Going private transactions generally involve a significant amount of debt.
+
+### 9.2 Management Buyouts
+
+Buyouts initiated by the management team of a company are known as management buyouts. In this type of acquisition, the company is bought by its own management team.
+
+MBOs are considered as a useful strategy for exiting those divisions that do not form part of core business of the entity.
+
+### 9.3 Leveraged Buyout (LBO)
+
+An acquisition of a company or a division of another company which is financed entirely or partially (50% or more) using borrowed funds is termed as a leveraged buyout. The target company no longer
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 20 ======================
+
+14.20
+
+ADVANCED FINANCIAL MANAGEMENT
+
+remains public after the leveraged buyout; hence the transaction is also known as going private. The deal is usually secured by the acquired firm's physical assets.
+
+The intention behind an LBO transaction is to improve the operational efficiency of a firm and increase the volume of its sales, thereby increasing the cash flow of the firm. This extra cash flow generated will be used to pay back the debt in LBO transaction. After an LBO, the target entity is managed by private investors, which makes it easier to have a close control over its operational activities. The LBOs do not stay permanent. Once the LBO is successful in increasing its profit margin and improving its operational efficiency, the debt is paid back and it will go public again. Companies that are in a leading market position with proven demand for product, have a strong management team, strong relationships with key customers and suppliers and steady growth are likely to become the target for LBOs. In India the first LBO took place in the year 2000 when Tata Tea acquired Tetley in the United Kingdom. The deal value was ₹ 2135 crores out of which almost 77% was financed by the company using debt. The intention behind this deal was to get direct access to Tetley's international market. One of the largest LBO deals in terms of deal value (7.6 billion) by an Indian company is the buyout of Corus by Tata Steel.
+
+## 9.4 Equity buyback
+
+This refers to the situation wherein a company buys back its own shares back from the market. This results in reduction in the equity capital of the company. This strengthens the promoter's position by increasing his stake in the equity of the company.
+
+The buyback is a process in which a company uses its surplus cash to buy shares from the public. It is almost the opposite of initial public offer in which shares are issued to the public for the first time. In buyback, shares which have already been issued are bought back from the public and once the shares are bought back, they get absorbed and cease to exist.
+
+For example, a company has one crore outstanding shares and owing a huge cash pile of ₹ 5 crores. Since, the company has very limited investment options it decides to buy back some of its outstanding shares from the shareholders, by utilizing some portion of its surplus cash. Accordingly, it purchases 10 lakh shares from the existing shareholders by paying ₹ 20 per share utilizing total cash of ₹ 2 crore. The process of buyback can be shown with the help of following diagram:
+
+![img-3.jpeg](img-3.jpeg)
+INITIAL PUBLIC OFFER (IPO)
+
+![img-4.jpeg](img-4.jpeg)
+BUY-BACK
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 21 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING 14.21
+
+# Example
+
+Cairn India bought back 3.67 crores shares and spent nearly ₹ 1230 crores by May 2014.
+
+## Effects of Buyback
+
+There are several effects or consequences of buyback some of which are as follows:
+
+(i) It increases the proportion of shares owned by controlling shareholders as the number of outstanding shares decreases after the buyback.
+
+(ii) Earning Per Share (EPS) escalates as the number of shares reduces leading the market price of shares to step up.
+
+(iii) A share repurchase also effects a company’s financial statements as follows:
+
+(a) In balance sheet, a share buyback will reduce the company’s total assets position as cash holdings will be reduced and consequently as shareholders’ equity reduced it results in reduction on the liabilities side by the same amount.
+
+(b) Amount spent on share buybacks shall be shown in Statement of Cash Flows in the “Financing Activities” section, as well as from the Statement of Changes in Equity or Statement of Retained Earnings.
+
+(iv) Ratios based on performance indicators such as Return on Assets (ROA) and Return on Equity (ROE) typically improve after a share buyback. This can be understood with the help of following Statement showing Buyback Effect of a hypothetical company using ₹ 1.50 crore of cash out of total cash of ₹ 2.00 for buyback.
+
+|   | Before Buyback | After Buyback (₹)  |
+| --- | --- | --- |
+|  Cash (₹) | 2,00,00,000 | 50,00,000  |
+|  Assets (₹) | 5,00,00,000 | 3,50,00,000  |
+|  Earnings (₹) | 20,00,000 | 20,00,000  |
+|  No. of Shares outstanding (Nos.) | 10,00,000 | 9,00,000  |
+|  Return on Assets (%) | 4.00% | 5.71%  |
+|  Earnings Per Share (EPS) (₹) | 2.00 | 2.22  |
+
+As visible from the above figure, the company’s cash pile has been reduced from ₹ 2 crore to ₹ 50 lakh after the buyback because cash is an asset, this will lower the total assets of the company from ₹ 5 crore to ₹ 3.5 crore. Now, this leads to an increase in the company’s ROA, even though earnings have not changed. Prior to the buyback, its ROA was 4% but after the repurchase, ROA increases to 5.71%. A similar effect can be seen in the EPS, which increases from ₹ 2.00 to ₹ 2.22.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 22 ======================
+
+14.22
+
+ADVANCED FINANCIAL MANAGEMENT
+
+## 10. UNLOCKING THE VALUE THROUGH MERGERS & ACQUISITIONS AND BUSINESS RESTRUCTURING
+
+The value is unlocked through mergers, acquisitions, and business restructuring because of following reasons:
+
+- Horizontal growth helps to achieve optimum size, enlarge the market share, curb competition and use of unutilised capacity;
+- Vertical combination helps to economise costs and eliminate avoidable taxes /duties;
+- Diversification of business;
+- Mobilising financial resources by utilising the idle funds lying with another company for the expansion of business. (For example, nationalisation of banks provided this opportunity and the erstwhile banking companies merged with industrial companies);
+- Merger of an export, investment or trading company with an industrial company or vice versa with a view to increase cash flow;
+- Merging subsidiary company with the holding company with a view to improving cash flow;
+- Taking over a ‘shell’ company which may have the necessary industrial licences etc., but whose promoters do not wish to proceed with the project.
+- An amalgamation may also be resorted to for the purpose of nourishing a sick unit in the group and this is normally a merger for keeping up the image of the group.
+
+The business restructuring helps the company in:
+
+- Positioning the company to be more competitive,
+- Surviving an adverse economic climate,
+- positioning the company into in an entirely new direction.
+
+## 11. PREMIUM AND DISCOUNT
+
+Premiums and discounts are typically attached to a business valuation, based on the situation. These could be market share premium, controlling stake premium, brand value premium, small player discount or unlisted company discount. In addition, it may be required to work out various potential scenarios in each methodology and arrive at the likely probabilities of each while deriving the values.
+
+Timing is very critical while divesting a business since valuation depends on the timing. Timing of sale is crucial keeping in mind economic cycles (deal valuation takes into consideration GDP growth rates), stock market situations (which would decide market multiples) and global situations (like a war or terrorist attacks).
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 23 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.23
+
+In times like the above, the price expectations between the buyer and the seller would widely vary. For example, during a bullish stock market, there could be a situation where there are more buyers but not sellers due to the low valuation.
+
+The basis for M&A is the expectation of several future benefits arising out of synergies between businesses. There is a risk involved in realizing this synergy value. This could be due to corporate, market, economic reasons, or wrong estimation of the benefits/synergies. A key case in point here is the high valuations at which internet companies were acquired in the year 2000 (such as Satyam Infoway acquisition of India World).
+
+As observed in the chapter on Corporate Valuation it is also important to try and work out valuations from as many of the above methods as possible. Then try to see which methodology is to be taken in and which are to be rejected that helps to derive a range of values for the transaction in different situations in case one is called upon to assist in advising the transaction valuation. Some methods like Net Asset Value or past Earnings Based methods may prove inadequate in case of growing businesses or those with intangible assets.
+
+## 12. MERGERS AND ACQUISITIONS FAILURES
+
+There are five principal steps in a successful M&A programme.
+
+1. Manage the pre-acquisition phase.
+2. Screening candidates.
+3. Eliminate those who do not meet the criteria and value the rest.
+4. Negotiate.
+5. Post-merger integration.
+
+During the pre-acquisition phase, the acquirer should maintain secrecy about its intentions. Otherwise, the resulting price increase due to rumours may kill the deal.
+
+Academic studies indicate that success in creating value through acquisitions in a competitive market is extremely difficult. Jensen and Ruback (1983) highlighted this point by summarizing results from mergers and acquisitions over a period of 11 years. They found that in case of a merger, the average return, around the date of announcement, to shareholders of the acquired company is 20 per cent, whereas the average return to the shareholders of acquiring company is 0 per cent. Another study by McKinsey indicates that 61 per cent of the 116 acquisitions studied were failures, 23 per cent were successes. Despite such statistics why do companies acquire? Why do mergers fail? The reasons for merger failures can be numerous. Some of the key reasons are:
+
+- Acquirers generally overpay.
+- The value of synergy is over-estimated.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 24 ======================
+
+14.24
+
+ADVANCED FINANCIAL MANAGEMENT
+
+- Poor post-merger integration; and
+- Psychological barriers.
+
+Companies often merge in the fear that the bigger competitors have economies of scale and may destroy them by exercising a stranglehold on raw material supply, distribution etc. What they do not realize is the drawbacks of being big. The acquiring company's executives would have drawn up elaborate plans for the target without consulting its executives which leads to resentment and managerial attrition. This can be avoided by honest discussions with the target company's executives.
+
+Most companies merge with the hope that the benefits of synergy will be realized. Synergy will be there only if the merged entity is managed better after the acquisition than it was managed before. It is the quality of the top management that determines the success of the merger. Quite often the executives of the acquiring company lose interest in the target company due to its smallness. The small company executives get bogged down repairing vision and mission statements, budgets, forecasts, profit plans which were hitherto unheard of. The elaborateness of the control system depends on the size and culture of the company. To make a merger successful:
+
+- Decide what tasks need to be accomplished in the post-merger period,
+- Choose managers from both the companies (and from outside),
+- Establish performance yardstick and evaluate the managers on that yardstick; and
+- Motivate them.
+
+# 13. ACQUISITION THROUGH SHARES
+
+The acquirer can pay the target company in cash or exchange shares in consideration. The analysis of acquisition for shares is slightly different. The steps involved in the analysis are:
+
+- Estimate the value of acquirer's (self) equity.
+- Estimate the value of target company's equity.
+- Calculate the maximum number of shares that can be exchanged with the target company's shares; and
+- Conduct the analysis for pessimistic and optimistic scenarios.
+
+Exchange ratio is the number of acquiring firm's shares exchanged for each share of the selling firm's stock. Suppose company A is trying to acquire company B's 100,000 shares at ₹ 230. So, the cost of acquisition is ₹ 230,000. Company A has estimated its value at ₹ 200 per share. To get one share of company B, A has to exchange (230/200) 1.15 share, or 115,000 shares for 100,000 shares of B. The relative merits of acquisition for cash or shares should be analyzed after giving due consideration to the impact on EPS, capital structure, etc.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 25 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.25
+
+Normally, when shares are issued as payment to the selling company's shareholders, stockholders will find the merger desirable only if the value of their shares is higher with the merger than without the merger. The number of shares that the buying company will issue in acquiring the selling company is determined as follows:
+
+(1) The acquiring company will compare its value per share with and without the merger.
+(2) The selling company will compare its value with the value of shares that they would receive from acquiring company under the merger.
+(3) The managements of acquiring company and selling company will negotiate the final terms of the merger in the light of (1) and (2); the ultimate terms of the merger will reflect the relative bargaining position of the two companies.
+
+The fewer of acquiring company's shares that it issues to the acquired company, the better off the shareholders of the acquiring company are and worse off are the shareholders of acquired company. However, for the merger to be effective, the shareholders of both the acquiring and acquired company will have to anticipate some benefits from the merger even though their share swap deal is subject to synergy risk for both.
+
+**Impact of Price Earning Ratio**: The reciprocal of cost of equity is Price-Earning (P/E) ratio. The cost of equity, and consequently the P/E ratio reflects risk as perceived by the shareholders. The risk of merging entities and the combined business can be different. In other words, the combined P/E ratio can very well be different from those of the merging entities. Since market value of a business can be expressed as product of earning and P/E ratio (P/E x E = P), the value of combined business is a function of combined earning and combined P/E ratio. A lower combined P/E ratio can offset the gains of synergy or a higher P/E ratio can lead to higher value of business, even if there is no synergy. In ascertaining the exchange ratio of shares due care should be exercised to take the possible combined P/E ratio into account.
+
+## Illustration 2
+
+Company X is contemplating the purchase of Company Y, Company X has 3,00,000 shares having a market price of ₹ 30 per share, while Company Y has 2,00,000 shares selling at ₹ 20 per share. The EPS are ₹ 4.00 and ₹ 2.25 for Company X and Y respectively. Managements of both companies are discussing two alternative proposals for exchange of shares as indicated below:
+
+(i) in proportion to the relative earnings per share of two companies.
+(ii) 0.5 share of Company X for one share of Company Y (0.5:1).
+
+You are required:
+
+(i) to calculate the Earnings Per share (EPS) after merger under two alternatives; and
+(ii) to show the impact of EPS for the shareholders of two companies under both the alternatives.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 26 ======================
+
+14.26
+
+ADVANCED FINANCIAL MANAGEMENT
+
+# Solution
+
+Working Notes: Calculation of total earnings after merger
+
+|  Particulars | Company X | Company Y | Total  |
+| --- | --- | --- | --- |
+|  Outstanding shares | 3,00,000 | 2,00,000 |   |
+|  EPS (₹) | 4 | 2.25 |   |
+|  Total earnings (₹) | 12,00,000 | 4,50,000 | 16,50,000  |
+
+(i) (a) Calculation of EPS when exchange ratio is in proportion to relative EPS of two companies
+
+|  Company X | 3,00,000  |
+| --- | --- |
+|  Company Y 2,00,000 x 2.25/4 | 1,12,500  |
+|  Total number of shares after merger | 4,12,500  |
+
+Company X
+
+|  EPS before merger | = ₹ 4  |
+| --- | --- |
+|  EPS after merger = ₹ 16,50,000/4,12,500 shares | = ₹ 4  |
+
+Company Y
+
+|  EPS before merger | = ₹ 2.25  |
+| --- | --- |
+|  EPS after merger |   |
+|  = EPS of Merged Entity after merger x Share Exchange ratio on EPS basis = ₹ 4×(2.25/4) | = ₹ 2.25  |
+
+(b) Calculation of EPS when share exchange ratio is 0.5 : 1
+
+Total earnings after merger = ₹ 16,50,000
+
+Total number of shares after merger = 3,00,000 + (2,00,000 x 0.5) = 4,00,000 shares
+
+EPS after merger = ₹ 16,50,000/4,00,000 = ₹ 4.125
+
+(ii) Impact of merger on EPS for shareholders of Company X and Company Y
+
+(a) Impact on Shareholders of Company X
+
+|   | (₹)  |
+| --- | --- |
+|  EPS before merger | 4.000  |
+|  EPS after merger | 4.125  |
+|  Increase in EPS | 0.125  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 27 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.27
+
+(b) Impact on Shareholders of Company Y
+
+|   | (₹)  |
+| --- | --- |
+|  Equivalent EPS before merger | 2.2500  |
+|  Equivalent EPS after merger | 2.0625  |
+|  Decrease in EPS | 0.1875  |
+
+## Illustration 3
+
+A Ltd. is studying the possible acquisition of B Ltd. by way of merger. The following data are available:
+
+|  Firm | After-tax earnings | No. of equity shares | Market price per share  |
+| --- | --- | --- | --- |
+|  A Ltd. | ₹ 10,00,000 | 2,00,000 | ₹ 75  |
+|  B Ltd. | ₹ 3,00,000 | 50,000 | ₹ 60  |
+
+(i) If the merger goes through by exchange of equity shares and the exchange ratio is set according to the current market prices, what is the new earnings per share for A Ltd.
+
+(ii) B Ltd. wants to be sure that its earning per share is not diminished by the merger. What exchange ratio is relevant to achieve the objective?
+
+## Solution
+
+(i) The current market price is the basis of exchange of equity shares, in the proposed merger, shareholders of B Ltd. will get only 40,000 shares in all or 4 shares of A Ltd. for every 5 shares held by them, i.e.,
+
+$$
+\frac{50,000 \times 60}{75} = 40,000
+$$
+
+The total number of shares in A Ltd. will then be 2,40,000 and, ignoring any synergistic effect, the profit will be ₹ 13,00,000. The new earning per share (EPS) of A Ltd. will be ₹ 5.42, i.e., ₹ 13,00,000/2,40,000.
+
+(ii) The present earnings per share of B Ltd. is ₹6/-(₹ 3,00,000 ÷ 50,000) and that of A Ltd. is ₹5/-, i.e., ₹ 10,00,000 ÷ 2,00,000. If B Ltd. wants to ensure that, even after merger, the earning per share of its shareholders should remain unaffected, then the exchange ratio will be 6 shares for every 5 shares.
+
+The total number of shares of A Ltd. that will produce ₹ 3,00,000 profit is 60,000, (3,00,000 ÷ 5), to be distributed among, shareholders of B Ltd., giving a ratio of 6 shares in A for 5 shares in B.
+
+Proof:
+
+The shareholders of B Ltd. will get in all 60,000 share for 50,000 shares. It means after merger, their earning per share will be ₹ 5/-, i.e. $\frac{₹13,00,000}{2,60,000}$.
+
+In all they will get ₹ 3,00,000, i.e., 60,000 × 5, as before.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 28 ======================
+
+14.28
+
+ADVANCED FINANCIAL MANAGEMENT
+
+# Illustration 4
+
+Simpson Ltd. is considering a merger with Wilson Ltd. The data below are in the hands of both Board of Directors. The issue at hand is how many shares of Simpson should be exchanged for Wilson Ltd. Both boards are considering three possibilities 20,000, 25,000 and 30,000 shares. You are required to construct a table demonstrating the potential impact of each scheme on each set of shareholders:
+
+|   |  | Simpson Ltd. | Wilson Ltd. | Combined Post merger Firm ‘A’  |
+| --- | --- | --- | --- | --- |
+|  1. | Current earnings per year | 2,00,000 | 1,00,000 | 3,50,000  |
+|  2. | Shares outstanding | 50,000 | 10,000 | ?  |
+|  3. | Earnings per share (₹) (1÷2) | 4 | 10 | ?  |
+|  4. | Price per share (₹) | 40 | 100 | ?  |
+|  5. | Price-earning ratio [4÷3] | 10 | 10 | 10  |
+|  6. | Value of firm (₹) | 20,00,000 | 10,00,000 | 35,00,000  |
+|  7. | Expected Annual growth rate in earnings in foreseeable future | 0 | 0 | 0  |
+
+# Solution
+
+The following table demonstrates the potential impact of the three possible schemes, on each set of shareholders:-
+
+|  Number of Simpson Ltd.’s shares issued to shareholders of Wilson Ltd. | Exchange ratio [(1)/10,000 shares of Wilson Ltd.] | Number of Simpson Ltd.’s shares outstanding after merger [50,000+(1)] | Fraction of Simpson Ltd. (Post merger) owned by Wilson Ltd.’s shareholders [(1)/(3)] | Value of shares owned by Wilson Ltd.’s shareholders [(4)x 35,00,000] | Fraction of Simpson Ltd. (combined Post-merger owned by Simpson Ltd.’s shareholders [50,000/(3)] | Value of shares owned by Simpson Ltd.’s shareholders [(6) x 35,00,000]  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  (1) | (2) | (3) | (4) | (5) | (6) | (7)  |
+|  20,000 | 2 | 70,000 | 2/7 | 10,00,000 | 5/7 | 25,00,000  |
+|  25,000 | 2.5 | 75,000 | 1/3 | 11,66,667 | 2/3 | 23,33,333  |
+|  30,000 | 3 | 80,000 | 3/8 | 13,12,500 | 5/8 | 21,87,500  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 29 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.29
+
+# 14. CROSS-BORDER M&A
+
+Cross-border M&A is a popular route for global growth and overseas expansion. Cross-border M&A is also playing an important role in global M&A. This is especially true for developing countries such as India. Kaushik Chatterjee, CFO, of Tata Steel in an interview with McKinsey Quarterly in September 2009 articulates this point very clearly. To the following question
+
+The Quarterly: Last year was the first in which Asian and Indian companies acquired more businesses outside of Asia than European or US multinationals acquired within it. What's behind the Tata Group's move to go global?
+
+His response is as follows:-
+
+"India is clearly a very large country with a significant population and a big market, and the Tata Group's companies in a number of sectors have a pretty significant market share. India remains the main base for future growth for Tata Steel Group, and we have substantial investment plans in India, which are currently being pursued but meeting our growth goals through organic means in India, unfortunately, is not the fastest approach, especially for large capital projects, due to significant delays on various fronts. Nor are there many opportunities for growth through acquisitions in India, particularly in sectors like steel, where the value to be captured is limited—for example, in terms of technology, product profiles, the product mix, and good management."
+
+Other major factors that motivate multinational companies to engage in cross-border M&A in Asia include the following:
+
+- Globalization of production and distribution of products and services.
+- Integration of global economies.
+- Expansion of trade and investment relationships on international level.
+- Many countries are reforming their economic and legal systems and providing generous investment and tax incentives to attract foreign investment.
+- Privatization of state-owned enterprises and consolidation of the banking industry.
+
+# 15. SPECIAL PURPOSE ACQUISITION COMPANIES
+
+In recent times, the concept of Special Purpose Acquisition Companies (SPACs) has come into existence wherein an entity is set up with the objective to raise funds through an IPO to finance a merger or acquisition of an unidentified target within a specific time. It is commonly known as a blank cheque company.
+
+The main objective of SPAC is to raise money, despite not having any operations or revenues. The money raised from the public is kept in an escrow account, which can be accessed while making the acquisition. However, in case the acquisition is not made within stipulated period of the IPO, the
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 30 ======================
+
+14.30
+
+ADVANCED FINANCIAL MANAGEMENT
+
+SPAC is delisted, and the money is returned to the investors. Shareholders have the option to redeem their shares if they are not interested in participating in the proposed merger. Finally, if the merger is approved by shareholders, it is executed, and the target private company or companies become public entities. Once a formal merger agreement has been executed the SPAC target is usually publicly announced.
+
+New investment opportunities in Indian companies have resurfaced and have set up new platform for SPAC transactions. The implementation of SPACs might face certain challenges since India does not have a specific regulatory framework guarding these transactions.
+
+The current regulatory framework in India does not support the SPAC transactions. Further as per the Companies Act, 2013, the Registrar of Companies is authorized to strike-off the name of companies that do not commence operation within one year of incorporation. SPACs generally take 2 to 3 years to identify a target and performing due diligence and before it could get operationalized its name can be stricken off and hence enabling provisions relating to SPAC need to be inserted in the Companies Act in order to make it functional in India.
+
+Though, SPACs do not find acceptance under the Securities and Exchange Board of India (SEBI) Act as it does not meet the eligibility criteria for public listing however SEBI is planning to come out with a framework for SPACs.
+
+The International Financial Services Centres Authority (IFSCA), being the regulatory authority for development and regulation of financial services, financial products and financial institutions in the Gujarat International Finance Tec-City, has recently released a consultation paper defining critical parameters such as offer size to public, compulsory sponsor holding, minimum application size, minimum subscription of the offer size, etc.
+
+SPAC approach offers several advantages over traditional IPO, such as providing companies access to capital, even when market volatility and other conditions limit liquidity. SPACs help to lower the transaction fees as well as expedite the timeline in becoming a public company. Raising money through a SPAC is easier as compared to traditional IPO since the SPAC has already raised money through an IPO. This implies the company in question only has to negotiate with a single entity, as opposed to thousands of individual investors. This makes the process of fundraising a lot easier and quicker than an IPO. The involvement of skilled professionals in identifying the target makes the investment a well thought and a well governed process.
+
+However, the merger of a SPAC with a target company presents several challenges, such as complex accounting and financial reporting/registration requirements, to meet a public company readiness timeline and being ready to operate as a public company within a period of three to five months of signing a letter of intent.
+
+It is typically more expensive for a company to raise money through a SPAC than an IPO. Investors' money invested in a SPAC trust to earn a suitable return for up to two years, could be put to better use elsewhere.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 31 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING 14.31
+
+# TEST YOUR KNOWLEDGE
+
+## Theoretical Questions
+
+1. Explain synergy in the context of Mergers and Acquisitions.
+2. What is take over by reverse bid or Reverse Merger.
+3. What is an equity curve out? How does it differ from a spin off.
+4. Write a short note on Horizontal Merger and Vertical Merger.
+
+## Practical Questions
+
+1. B Ltd. is a highly successful company and wishes to expand by acquiring other firms. Its expected high growth in earnings and dividends is reflected in its PE ratio of 17. The Board of Directors of B Ltd. has been advised that if it were to take over firms with a lower PE ratio than it own, using a share-for-share exchange, then it could increase its reported earnings per share. C Ltd. has been suggested as a possible target for a takeover, which has a PE ratio of 10 and 1,00,000 shares in issue with a share price of ₹ 15. B Ltd. has 5,00,000 shares in issue with a share price of ₹ 12.
+
+Calculate the change in earnings per share of B Ltd. if it acquires the whole of C Ltd. by issuing shares at its market price of ₹12. Assume the price of B Ltd. shares remains constant.
+
+2. Elrond Limited plans to acquire Doom Limited. The relevant financial details of the two firms prior to the merger announcement are:
+
+|   | Elrond Limited | Doom Limited  |
+| --- | --- | --- |
+|  Market price per share | ₹ 50 | ₹ 25  |
+|  Number of outstanding shares | 20 lakhs | 10 Lakhs  |
+
+The merger is expected to generate gains, which have a present value of ₹200 lakhs. The exchange ratio agreed to is 0.5.
+
+What is the true cost of the merger from the point of view of Elrond Limited?
+
+3. MK Ltd. is considering acquiring NN Ltd. The following information is available:
+
+|  Company | Earning after Tax (₹) | No. of Equity Shares | Market Value Per Share (₹)  |
+| --- | --- | --- | --- |
+|  MK Ltd. | 60,00,000 | 12,00,000 | 200.00  |
+|  NN Ltd. | 18,00,000 | 3,00,000 | 160.00  |
+
+Exchange of equity shares for acquisition is based on current market value as above. There is no synergy advantage available.
+
+(i) Find the earning per share for company MK Ltd. after merger, and
+(ii) Find the exchange ratio so that shareholders of NN Ltd. would not be at a loss.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 32 ======================
+
+14.32
+
+ADVANCED FINANCIAL MANAGEMENT
+
+4. ABC Ltd. is intending to acquire XYZ Ltd. by merger and the following information is available in respect of the companies:
+
+|   | ABC Ltd. | XYZ Ltd.  |
+| --- | --- | --- |
+|  Number of equity shares | 10,00,000 | 6,00,000  |
+|  Earnings after tax (₹) | 50,00,000 | 18,00,000  |
+|  Market value per share (₹) | 42 | 28  |
+
+Required:
+
+(i) What is the present EPS of both the companies?
+(ii) If the proposed merger takes place, what would be the new earning per share for ABC Ltd.? Assume that the merger takes place by exchange of equity shares and the exchange ratio is based on the current market price.
+(iii) What should be exchange ratio, if XYZ Ltd. wants to ensure the earnings to members are same as before the merger takes place?
+
+5. The CEO of a company thinks that shareholders always look for EPS. Therefore, he considers maximization of EPS as his company's objective. His company's current Net Profits are ₹ 80.00 lakhs and P/E multiple is 10.5. He wants to buy another firm which has current income of ₹ 15.75 lakhs & P/E multiple of 10.
+
+What is the maximum exchange ratio which the CEO should offer so that he could keep EPS at the current level, given that the current market price of both the acquirer and the target company are ₹ 42 and ₹ 105 respectively?
+
+If the CEO borrows funds at 15% and buys out Target Company by paying cash, how much cash should he offer to maintain his EPS? Assume tax rate of 30%.
+
+6. A Ltd. wants to acquire T Ltd. and has offered a swap ratio of 1:2 (0.5 shares for every one share of T Ltd.). Following information is provided:
+
+|   | A Ltd. | T. Ltd.  |
+| --- | --- | --- |
+|  Profit after tax | ₹18,00,000 | ₹3,60,000  |
+|  Equity shares outstanding (Nos.) | 6,00,000 | 1,80,000  |
+|  EPS | ₹3 | ₹2  |
+|  PE Ratio | 10 times | 7 times  |
+|  Market price per share | ₹30 | ₹14  |
+
+Required:
+
+(i) The number of equity shares to be issued by A Ltd. for acquisition of T Ltd.
+(ii) What is the EPS of A Ltd. after the acquisition?
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 33 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.33
+
+(iii) Determine the equivalent earnings per share of T Ltd.
+(iv) What is the expected market price per share of A Ltd. after the acquisition, assuming its PE multiple remains unchanged?
+(v) Determine the market value of the merged firm.
+
+7. The following information is provided related to the acquiring Firm Mark Limited and the target Firm Mask Limited:
+
+|   | Firm Mark Limited | Firm Mask Limited  |
+| --- | --- | --- |
+|  Earning after tax (₹) | 2,000 lakhs | 400 lakhs  |
+|  Number of shares outstanding | 200 lakhs | 100 lakhs  |
+|  P/E ratio (times) | 10 | 5  |
+
+Required:
+
+(i) What is the Swap Ratio based on current market prices?
+(ii) What is the EPS of Mark Limited after acquisition?
+(iii) What is the expected market price per share of Mark Limited after acquisition, assuming P/E ratio of Mark Limited remains unchanged?
+(iv) Determine the market value of the merged firm.
+(v) Calculate gain/loss for shareholders of the two independent companies after acquisition.
+
+8. XYZ Ltd. wants to purchase ABC Ltd. by exchanging 0.7 of its share for each share of ABC Ltd. Relevant financial data are as follows:
+
+|  Equity shares outstanding | 10,00,000 | 4,00,000  |
+| --- | --- | --- |
+|  EPS (₹) | 40 | 28  |
+|  Market price per share (₹) | 250 | 160  |
+
+(i) Illustrate the impact of merger on EPS of both the companies.
+(ii) The management of ABC Ltd. has quoted a share exchange ratio of 1:1 for the merger. Assuming that P/E ratio of XYZ Ltd. will remain unchanged after the merger, what will be the gain from merger for ABC Ltd.?
+(iii) What will be the gain/loss to shareholders of XYZ Ltd.?
+(iv) Determine the maximum exchange ratio acceptable to shareholders of XYZ Ltd.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 34 ======================
+
+14.34
+
+ADVANCED FINANCIAL MANAGEMENT
+
+9. XYZ Ltd., is considering merger with ABC Ltd. XYZ Ltd.'s shares are currently traded at ₹ 20. It has 2,50,000 shares outstanding and its earnings after taxes (EAT) amount to ₹ 5,00,000. ABC Ltd., has 1,25,000 shares outstanding; its current market price is ₹ 10 and its EAT are ₹ 1,25,000. The merger will be effected by means of a stock swap (exchange). ABC Ltd., has agreed to a plan under which XYZ Ltd., will offer the current market value of ABC Ltd.'s shares:
+
+(i) What is the pre-merger earnings per share (EPS) and P/E ratios of both the companies?
+(ii) If ABC Ltd.'s P/E ratio is 6.4, what is its current market price? What is the exchange ratio? What will XYZ Ltd.'s post-merger EPS be?
+(iii) What should be the exchange ratio; if XYZ Ltd.'s pre-merger and post-merger EPS are to be the same?
+
+10. Following information is provided relating to the acquiring company Mani Ltd. and the target company Ratnam Ltd:
+
+|   | Mani Ltd. | Ratnam Ltd.  |
+| --- | --- | --- |
+|  Earnings after tax (₹ lakhs) | 2,000 | 4,000  |
+|  No. of shares outstanding (lakhs) | 200 | 1,000  |
+|  P/E ratio (No. of times) | 10 | 5  |
+
+Required:
+
+(i) What is the swap ratio based on current market prices?
+(ii) What is the EPS of Mani Ltd. after the acquisition?
+(iii) What is the expected market price per share of Mani Ltd. after the acquisition, assuming its P/E ratio is adversely affected by 10%?
+(iv) Determine the market value of the merged Co.
+(v) Calculate gain/loss for the shareholders of the two independent entities, due to the merger.
+
+11. You have been provided the following Financial data of two companies:
+
+|   | Krishna Ltd. | Rama Ltd.  |
+| --- | --- | --- |
+|  Earnings after taxes | ₹ 7,00,000 | ₹ 10,00,000  |
+|  No. of Equity shares (outstanding) | 2,00,000 | 4,00,000  |
+|  EPS | 3.5 | 2.5  |
+|  P/E ratio | 10 times | 14 times  |
+|  Market price per share | ₹ 35 | ₹ 35  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 35 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.35
+
+Company Rama Ltd. is acquiring the company Krishna Ltd., exchanging its shares on a one-to-one basis for company Krishna Ltd. The exchange ratio is based on the market prices of the shares of the two companies.
+
+Required:
+
+(i) What will be the EPS subsequent to merger?
+(ii) What is the change in EPS for the shareholders of companies Rama Ltd. and Krishna Ltd.?
+(iii) Determine the market value of the post-merger firm. PE ratio is likely to remain the same.
+(iv) Ascertain the profits accruing to shareholders of both the companies.
+
+12. M Co. Ltd. is studying the possible acquisition of N Co. Ltd., by way of merger. The following data are available in respect of the companies:
+
+|  Particulars | M Co. Ltd. | N Co. Ltd.  |
+| --- | --- | --- |
+|  Earnings after tax (₹) | 80,00,000 | 24,00,000  |
+|  No. of equity shares | 16,00,000 | 4,00,000  |
+|  Market value per share (₹) | 200 | 160  |
+
+(i) If the merger goes through by exchange of equity and the exchange ratio is based on the current market price, what is the new earning per share for M Co. Ltd.?
+(ii) N Co. Ltd. wants to be sure that the earnings available to its shareholders will not be diminished by the merger. What should be the exchange ratio in that case?
+
+13. Longitude Limited is in the process of acquiring Latitude Limited on a share exchange basis. Following relevant data are available:
+
+|   |  | Longitude Limited | Latitude Limited  |
+| --- | --- | --- | --- |
+|  Profit after Tax (PAT) | ₹ in Lakhs | 120 | 80  |
+|  Number of Shares | Lakhs | 15 | 16  |
+|  Earning per Share (EPS) | ₹ | 8 | 5  |
+|  Price Earnings Ratio (P/E Ratio) |  | 15 | 10  |
+|  (Ignore Synergy) |  |  |   |
+
+You are required to determine:
+
+(i) Pre-merger Market Value per Share, and
+(ii) The maximum exchange ratio Longitude Limited can offer without the dilution of
+(1) EPS and
+(2) Market Value per Share
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 36 ======================
+
+14.30
+
+ADVANCED FINANCIAL MANAGEMENT
+
+Calculate Ratio/s up to four decimal points and amounts and number of shares up to two decimal points.
+
+14. P Ltd. is considering take-over of R Ltd. by the exchange of four new shares in P Ltd. for every five shares in R Ltd. The relevant financial details of the two companies prior to merger announcement are as follows:
+
+|   | P Ltd | R Ltd  |
+| --- | --- | --- |
+|  Profit before Tax (₹ Crore) | 15 | 13.50  |
+|  No. of Shares (Crore) | 25 | 15  |
+|  P/E Ratio | 12 | 9  |
+
+Corporate Tax Rate 30%
+
+You are required to determine:
+
+(i) Market value of both the company.
+(ii) Value of original shareholders.
+(iii) Price per share after merger.
+(iv) Effect on share price of both the company if the Directors of P Ltd. expect their own pre-merger P/E ratio to be applied to the combined earnings.
+
+15. Simple Ltd. and Dimple Ltd. are planning to merge. The total value of the companies are dependent on the fluctuating business conditions. The following information is given for the total value (debt + equity) structure of each of the two companies.
+
+|  Business Condition | Probability | Simple Ltd. ₹ Lacs | Dimple Ltd. ₹ Lacs  |
+| --- | --- | --- | --- |
+|  High Growth | 0.20 | 820 | 1050  |
+|  Medium Growth | 0.60 | 550 | 825  |
+|  Slow Growth | 0.20 | 410 | 590  |
+
+The current debt of Dimple Ltd. is ₹ 65 lacs and of Simple Ltd. is ₹ 460 lacs.
+
+Calculate the expected value of debt and equity separately for the merged entity.
+
+16. Yes Ltd. wants to acquire No Ltd. and the cash flows of Yes Ltd. and the merged entity are given below:
+
+(₹ In lakhs)
+
+|  Year | 1 | 2 | 3 | 4 | 5  |
+| --- | --- | --- | --- | --- | --- |
+|  Yes Ltd. | 175 | 200 | 320 | 340 | 350  |
+|  Merged Entity | 400 | 450 | 525 | 590 | 620  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 37 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING 14.37
+
+Earnings would have witnessed 5% constant growth rate without merger and 6% with merger on account of economies of operations after 5 years in each case. The cost of capital is 15%.
+
+The number of shares outstanding in both the companies before the merger is the same and the companies agree to an exchange ratio of 0.5 shares of Yes Ltd. for each share of No Ltd.
+
+PV factor at 15% for years 1-5 are 0.870, 0.756; 0.658, 0.572, 0.497 respectively.
+
+You are required to:
+
+(i) Compute the Value of Yes Ltd. before and after merger.
+(ii) Value of Acquisition and
+(iii) Gain to shareholders of Yes Ltd.
+
+17. The following information is provided relating to the acquiring company Efficient Ltd. and the target Company Healthy Ltd.
+
+|   | Efficient Ltd. | Healthy Ltd.  |
+| --- | --- | --- |
+|  No. of shares (F.V. ₹ 10 each) | 10.00 lakhs | 7.5 lakhs  |
+|  Market capitalization | 500.00 lakhs | 750.00 lakhs  |
+|  P/E ratio (times) | 10.00 | 5.00  |
+|  Reserves and Surplus | 300.00 lakhs | 165.00 lakhs  |
+|  Promoter's Holding (No. of shares) | 4.75 lakhs | 5.00 lakhs  |
+
+Board of Directors of both the Companies have decided to give a fair deal to the shareholders and accordingly for swap ratio the weights are decided as 40%, 25% and 35% respectively for Earning, Book Value and Market Price of share of each company:
+
+(i) Calculate the swap ratio and also calculate Promoter's holding % after acquisition.
+(ii) What is the EPS of Efficient Ltd. after acquisition of Healthy Ltd.?
+(iii) What is the expected market price per share and market capitalization of Efficient Ltd. after acquisition, assuming P/E ratio of Firm Efficient Ltd. remains unchanged.
+(iv) Calculate free float market capitalization of the merged firm.
+
+18. Abhiman Ltd. is a subsidiary of Janam Ltd. and is acquiring Swabhiman Ltd. which is also a subsidiary of Janam Ltd. The following information is given :
+
+|   | Abhiman Ltd. | Swabhiman Ltd.  |
+| --- | --- | --- |
+|  % Shareholding of promoter | 50% | 60%  |
+|  Share capital | ₹ 200 lacs | 100 lacs  |
+|  Free Reserves and surplus | ₹ 900 lacs | 600 lacs  |
+|  Paid up value per share | ₹ 100 | 10  |
+|  Free float market capitalization | ₹ 500 lacs | 156 lacs  |
+|  P/E Ratio (times) | 10 | 4  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 38 ======================
+
+14.38
+
+ADVANCED FINANCIAL MANAGEMENT
+
+Janam Ltd., is interested in doing justice to both companies. The following parameters have been assigned by the Board of Janam Ltd., for determining the swap ratio:
+
+Book value 25%
+Earning per share 50%
+Market price 25%
+
+You are required to compute
+
+(i) The swap ratio.
+(ii) The Book Value, Earning Per Share and Expected Market Price of Swabhiman Ltd., (assuming P/E Ratio of Abhiman remains the same and all assets and liabilities of Swabhiman Ltd. are taken over at book value.)
+
+19. The following information is provided relating to the acquiring company E Ltd., and the target company H Ltd:
+
+|  Particulars | E Ltd. (₹) | H Ltd. (₹)  |
+| --- | --- | --- |
+|  Number of shares (Face value ₹ 10 each) | 20 Lakhs | 15 Lakhs  |
+|  Market Capitalization | 1000 Lakhs | 1500 Lakhs  |
+|  P/E Ratio (times) | 10.00 | 5.00  |
+|  Reserves and surplus in ₹ | 600.00 Lakhs | 330.00 Lakhs  |
+|  Promoter's Holding (No. of shares) | 9.50 Lakhs | 10.00 Lakhs  |
+
+The Board of Directors of both the companies have decided to give a fair deal to the shareholders. Accordingly, the weights are decided as 40%, 25% and 35% respectively for earnings (EPS), book value and market price of share of each company for swap ratio.
+
+Calculate the following:
+
+(i) Market price per share, earnings per share and Book Value per share;
+(ii) Swap ratio;
+(iii) Promoter's holding percentage after acquisition;
+(iv) EPS of E Ltd. after acquisitions of H Ltd;
+(v) Expected market price per share and market capitalization of E Ltd.; after acquisition, assuming P/E ratio of E Ltd. remains unchanged; and
+(vi) Free float market capitalization of the merged firm.
+
+20. The following information relating to the acquiring Company Abhiman Ltd. and the target Company Abhishek Ltd. are available. Both the Companies are promoted by Multinational
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 39 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.39
+
+Company, Trident Ltd. The promoter's holding is 50% and 60% respectively in Abhiman Ltd. and Abhishek Ltd.:
+
+|   | Abhiman Ltd. | Abhishek Ltd.  |
+| --- | --- | --- |
+|  Share Capital (₹) | 200 lakh | 100 lakh  |
+|  Free Reserve and Surplus (₹) | 800 lakh | 500 lakh  |
+|  Paid up Value per share (₹) | 100 | 10  |
+|  Free float Market Capitalisation (₹) | 400 lakh | 128 lakh  |
+|  P/E Ratio (times) | 10 | 4  |
+
+Trident Ltd. is interested to do justice to the shareholders of both the Companies. For the swap ratio weights are assigned to different parameters by the Board of Directors as follows:
+
+Book Value 25%
+EPS (Earning per share) 50%
+Market Price 25%
+
+(a) What is the swap ratio based on above weights?
+(b) What is the Book Value, EPS and expected Market price of Abhiman Ltd. after acquisition of Abhishek Ltd. (assuming P.E. ratio of Abhiman Ltd. remains unchanged and all assets and liabilities of Abhishek Ltd. are taken over at book value).
+(c) Calculate:
+
+(i) Promoter's revised holding in the Abhiman Ltd.
+(ii) Free float market capitalization.
+(iii) Also calculate No. of Shares, Earning per Share (EPS) and Book Value (B.V.), if after acquisition of Abhishek Ltd., Abhiman Ltd. decided to :
+
+(1) Issue Bonus shares in the ratio of 1 : 2; and
+(2) Split the stock (share) as ₹ 5 each fully paid.
+
+21. T Ltd. and E Ltd. are in the same industry. The former is in negotiation for acquisition of the latter. Important information about the two companies as per their latest financial statements is given below:
+
+|   | T Ltd. | E Ltd.  |
+| --- | --- | --- |
+|  ₹ 10 Equity shares outstanding | 12 Lakhs | 6 Lakhs  |
+|  Debt: |  |   |
+|  10% Debentures (₹ Lakhs) | 580 | --  |
+|  12.5% Institutional Loan (₹ Lakhs) | -- | 240  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 40 ======================
+
+14.40
+
+ADVANCED FINANCIAL MANAGEMENT
+
+|  Earning before interest, depreciation and tax (EBIDAT) (₹ Lakhs) | 400.86 | 115.71  |
+| --- | --- | --- |
+|  Market Price/share (₹) | 220.00 | 110.00  |
+
+T Ltd. plans to offer a price for E Ltd., business as a whole which will be 7 times EBIDAT reduced by outstanding debt, to be discharged by own shares at market price.
+
+E Ltd. is planning to seek one share in T Ltd. for every 2 shares in E Ltd. based on the market price. Tax rate for the two companies may be assumed as 30%.
+
+Calculate and show the following under both alternatives - T Ltd.'s offer and E Ltd.'s plan:
+
+(i) Net consideration payable.
+(ii) No. of shares to be issued by T Ltd.
+(iii) EPS of T Ltd. after acquisition.
+(iv) Expected market price per share of T Ltd. after acquisition.
+(v) State briefly the advantages to T Ltd. from the acquisition.
+
+Note: Calculations (except EPS) may be rounded off to 2 decimals in lakhs.
+
+22. The following information is relating to Fortune India Ltd. having two division, viz. Pharma Division and Fast Moving Consumer Goods Division (FMCG Division). Paid up share capital of Fortune India Ltd. is consisting of 3,000 Lakhs equity shares of Re. 1 each. Fortune India Ltd. decided to de-merge Pharma Division as Fortune Pharma Ltd. w.e.f. 1.4.2009. Details of Fortune India Ltd. as on 31.3.2009 and of Fortune Pharma Ltd. as on 1.4.2009 are given below:
+
+|  Particulars | Fortune Pharma Ltd. | Fortune India Ltd.  |
+| --- | --- | --- |
+|  Outside Liabilities |  |   |
+|  Secured Loans | 400 lakh | 3,000 lakh  |
+|  Unsecured Loans | 2,400 lakh | 800 lakh  |
+|  Current Liabilities & Provisions | 1,300 lakh | 21,200 lakh  |
+|  Assets |  |   |
+|  Fixed Assets | 7,740 lakh | 20,400 lakh  |
+|  Investments | 7,600 lakh | 12,300 lakh  |
+|  Current Assets | 8,800 lakh | 30,200 lakh  |
+|  Loans & Advances | 900 lakh | 7,300 lakh  |
+|  Deferred tax/Misc. Expenses | 60 lakh | (200) lakh  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 41 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.41
+
+Board of Directors of the Company have decided to issue necessary equity shares of Fortune Pharma Ltd. of Re. 1 each, without any consideration to the shareholders of Fortune India Ltd. For that purpose following points are to be considered:
+
+(a) Transfer of Liabilities & Assets at Book value.
+(b) Estimated Profit for the year 2009-10 is ₹ 11,400 Lakh for Fortune India Ltd. & ₹ 1,470 lakhs for Fortune Pharma Ltd.
+(c) Estimated Market Price of Fortune Pharma Ltd. is ₹ 24.50 per share.
+(d) Average P/E Ratio of FMCG sector is 42 & Pharma sector is 25, which is to be expected for both the companies.
+
+Calculate:
+
+1. The Ratio in which shares of Fortune Pharma are to be issued to the shareholders of Fortune India Ltd.
+2. Expected Market price of Fortune India (FMCG) Ltd.
+3. Book Value per share of both the Companies immediately after Demerger.
+
+23. H Ltd. agrees to buy over the business of B Ltd. effective 1st April, 2012. The summarized Balance Sheets of H Ltd. and B Ltd. as on 31st March 2012 are as follows:
+
+Balance sheet as at 31st March, 2012
+(In Crores of Rupees)
+
+|  Liabilities: | H. Ltd | B. Ltd.  |
+| --- | --- | --- |
+|  Paid up Share Capital |  |   |
+|  -Equity Shares of ₹100 each | 350.00 |   |
+|  -Equity Shares of ₹10 each |  | 6.50  |
+|  Reserve & Surplus | 950.00 | 25.00  |
+|  Total | 1,300.00 | 31.50  |
+|  Assets: |  |   |
+|  Net Fixed Assets | 220.00 | 0.50  |
+|  Net Current Assets | 1,020.00 | 29.00  |
+|  Deferred Tax Assets | 60.00 | 2.00  |
+|  Total | 1,300.00 | 31.50  |
+
+H Ltd. proposes to buy out B Ltd. and the following information is provided to you as part of the scheme of buying:
+
+(a) The weighted average post tax maintainable profits of H Ltd. and B Ltd. for the last 4 years are ₹ 300 crores and ₹ 10 crores respectively.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 42 ======================
+
+14.42
+
+ADVANCED FINANCIAL MANAGEMENT
+
+(b) Both the companies envisage a capitalization rate of 8%.
+
+(c) H Ltd. has a contingent liability of ₹ 300 crores as on 31st March, 2012.
+
+(d) H Ltd. to issue shares of ₹ 100 each to the shareholders of B Ltd. in terms of the exchange ratio as arrived on a Fair Value basis. (Please consider weights of 1 and 3 for the value of shares arrived on Net Asset basis and Earnings capitalization method respectively for both H Ltd. and B Ltd.)
+
+You are required to arrive at the value of the shares of both H Ltd. and B Ltd. under:
+
+(i) Net Asset Value Method
+
+(ii) Earnings Capitalisation Method
+
+(iii) Exchange ratio of shares of H Ltd. to be issued to the shareholders of B Ltd. on a Fair value basis (taking into consideration the assumption mentioned in point 4 above.)
+
+24. Reliable Industries Ltd. (RIL) is considering a takeover of Sunflower Industries Ltd. (SIL). The particulars of 2 companies are given below:
+
+|  Particulars | Reliable Industries Ltd | Sunflower Industries Ltd.  |
+| --- | --- | --- |
+|  Earnings After Tax (EAT) | ₹ 20,00,000 | ₹ 10,00,000  |
+|  Equity shares O/s | 10,00,000 | 10,00,000  |
+|  Earnings per share (EPS) | 2 | 1  |
+|  PE Ratio (Times) | 10 | 5  |
+
+Required:
+
+(i) What is the market value of each Company before merger?
+
+(ii) Assume that the management of RIL estimates that the shareholders of SIL will accept an offer of one share of RIL for four shares of SIL. If there are no synergic effects, what is the market value of the Post-merger RIL? What is the new price per share? Are the shareholders of RIL better or worse off than they were before the merger?
+
+(iii) Due to synergic effects, the management of RIL estimates that the earnings will increase by 20%. What are the new post-merger EPS and Price per share? Will the shareholders be better off or worse off than before the merger?
+
+25. AFC Ltd. wishes to acquire BCD Ltd. The shares issued by the two companies are 10,00,000 and 5,00,000 respectively:
+
+(i) Calculate the increase in the total value of BCD Ltd. resulting from the acquisition on the basis of the following conditions:
+
+Current expected growth rate of BCD Ltd. 7%
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 43 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING 14.43
+
+Expected growth rate under control of AFC Ltd., (without any additional capital investment and without any change in risk of operations) 8%
+
+Current Market price per share of AFC Ltd. ₹ 100
+
+Current Market price per share of BCD Ltd. ₹ 20
+
+Expected Dividend per share of BCD Ltd. ₹ 0.60
+
+(ii) On the basis of aforesaid conditions calculate the gain or loss to shareholders of both the companies, if AFC Ltd. were to offer one of its shares for every four shares of BCD Ltd.
+
+(iii) Calculate the gain to the shareholders of both the Companies, if AFC Ltd. pays ₹22 for each share of BCD Ltd., assuming the P/E Ratio of AFC Ltd. does not change after the merger. EPS of AFC Ltd. is ₹8 and that of BCD is ₹2.50. It is assumed that AFC Ltd. invests its cash to earn 10%.
+
+26. AB Ltd., is planning to acquire and absorb the running business of XY Ltd. The valuation is to be based on the recommendation of merchant bankers and the consideration is to be discharged in the form of equity shares to be issued by AB Ltd. As on 31.3.2006, the paid up capital of AB Ltd. consists of 80 lakhs shares of ₹10 each. The highest and the lowest market quotation during the last 6 months were ₹570 and ₹430. For the purpose of the exchange, the price per share is to be reckoned as the average of the highest and lowest market price during the last 6 months ended on 31.3.06.
+
+XY Ltd.'s Balance Sheet as at 31.3.2006 is summarised below:
+
+|   | ₹ lakhs  |
+| --- | --- |
+|  Sources |   |
+|  Share Capital |   |
+|  20 lakhs equity shares of ₹10 each fully paid | 200  |
+|  10 lakhs equity shares of ₹10 each, ₹5 paid | 50  |
+|  Loans | 100  |
+|  Total | 350  |
+|  Uses |   |
+|  Fixed Assets (Net) | 150  |
+|  Net Current Assets | 200  |
+|   | 350  |
+
+An independent firm of merchant bankers engaged for the negotiation, have produced the following estimates of cash flows from the business of XY Ltd.:
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 44 ======================
+
+14.44
+
+ADVANCED FINANCIAL MANAGEMENT
+
+|  Year ended | By way of | ₹ lakhs  |
+| --- | --- | --- |
+|  31.3.07 | after tax earnings for equity | 105  |
+|  31.3.08 | do | 120  |
+|  31.3.09 | Do | 125  |
+|  31.3.10 | Do | 120  |
+|  31.3.11 | Do | 100  |
+|   | Terminal Value estimate | 200  |
+
+It is the recommendation of the merchant banker that the business of XY Ltd. may be valued on the basis of the average of (i) Aggregate of discounted cash flows at 8% and (ii) Net assets value. Present value factors at 8% for years
+
+1-5: 0.93 0.86 0.79 0.74 0.68
+
+You are required to:
+
+(a) Calculate the total value of the business of XY Ltd.
+(b) The number of shares to be issued by AB Ltd.; and
+(c) The basis of allocation of the shares among the shareholders of XY Ltd.
+
+27. R Ltd. and S Ltd. are companies that operate in the same industry. The financial statements of both the companies for the current financial year are as follows:
+
+Balance Sheet
+
+|  Particulars | R. Ltd. (₹) | S. Ltd (₹)  |
+| --- | --- | --- |
+|  Equity & Liabilities |  |   |
+|  Shareholders Fund |  |   |
+|  Equity Capital (₹ 10 each) | 20,00,000 | 16,00,000  |
+|  Retained earnings | 4,00,000 | -  |
+|  Non-current Liabilities |  |   |
+|  16% Long term Debt | 10,00,000 | 6,00,000  |
+|  Current Liabilities | 14,00,000 | 8,00,000  |
+|  Total | 48,00,000 | 30,00,000  |
+|  Assets |  |   |
+|  Non-current Assets | 20,00,000 | 10,00,000  |
+|  Current Assets | 28,00,000 | 20,00,000  |
+|  Total | 48,00,000 | 30,00,000  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 45 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.45
+
+## Income Statement
+
+|   | Particulars | R. Ltd. (₹) | S. Ltd. (₹)  |
+| --- | --- | --- | --- |
+|  A. | Net Sales | 69,00,000 | 34,00,000  |
+|  B. | Cost of Goods sold | 55,20,000 | 27,20,000  |
+|  C. | Gross Profit (A-B) | 13,80,000 | 6,80,00  |
+|  D. | Operating Expenses | 4,00,000 | 2,00,000  |
+|  E. | Interest | 1,60,000 | 96,000  |
+|  F. | Earnings before taxes [C-(D+E)] | 8,20,000 | 3,84,000  |
+|  G. | Taxes @ 35% | 2,87,000 | 1,34,400  |
+|  H. | Earnings After Tax (EAT) | 5,33,000 | 2,49,600  |
+
+## Additional Information:
+
+|  No. of equity shares | 2,00,000 | 1,60,000  |
+| --- | --- | --- |
+|  Dividend payment Ratio (D/P) | 20% | 30%  |
+|  Market price per share | ₹ 50 | ₹ 20  |
+
+Assume that both companies are in the process of negotiating a merger through exchange of Equity shares:
+
+You are required to:
+
+(i) Decompose the share price of both the companies into EPS & P/E components. Also segregate their EPS figures into Return On Equity (ROE) and Book Value/Intrinsic Value per share components.
+
+(ii) Estimate future EPS growth rates for both the companies.
+
+(iii) Based on expected operating synergies, R Ltd. estimated that the intrinsic value of S Ltd. Equity share would be ₹ 25 per share on its acquisition. You are required to develop a range of justifiable Equity Share Exchange ratios that can be offered by R Ltd. to the shareholders of S Ltd. Based on your analysis on parts (i) and (ii), would you expect the negotiated terms to be closer to the upper or the lower exchange ratio limits and why?
+
+28. BA Ltd. and DA Ltd. both the companies operate in the same industry. The Financial statements of both the companies for the current financial year are as follows:
+
+### Balance Sheet
+
+|  Particulars | BA Ltd. (₹) | DA Ltd. (₹)  |
+| --- | --- | --- |
+|  Current Assets | 14,00,000 | 10,00,000  |
+|  Fixed Assets (Net) | 10,00,000 | 5,00,000  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 46 ======================
+
+14.46
+
+ADVANCED FINANCIAL MANAGEMENT
+
+|   | Total (₹) | 24,00,000 | 15,00,000  |
+| --- | --- | --- | --- |
+|  Equity capital (₹10 each) |  | 10,00,000 | 8,00,000  |
+|  Retained earnings |  | 2,00,000 | --  |
+|  14% long-term debt |  | 5,00,000 | 3,00,00  |
+|  Current liabilities |  | 7,00,000 | 4,00,000  |
+|   | Total (₹) | 24,00,000 | 15,00,000  |
+
+Income Statement
+
+|   | BA Ltd. (₹) | DA Ltd. (₹)  |
+| --- | --- | --- |
+|  Net Sales | 34,50,000 | 17,00,000  |
+|  Cost of Goods sold | 27,60,000 | 13,60,000  |
+|  Gross profit | 6,90,000 | 3,40,000  |
+|  Operating expenses | 2,00,000 | 1,00,000  |
+|  Interest | 70,000 | 42,000  |
+|  Earnings before taxes | 4,20,000 | 1,98,00  |
+|  Taxes @ 50% | 2,10,000 | 99,000  |
+|  Earnings after taxes (EAT) | 2,10,000 | 99,000  |
+|  Additional Information : |  |   |
+|  No. of Equity shares | 1,00,000 | 80,000  |
+|  Dividend payment ratio (D/P) | 40% | 60%  |
+|  Market price per share | ₹40 | ₹15  |
+
+Assume that both companies are in the process of negotiating a merger through an exchange of equity shares. You have been asked to assist in establishing equitable exchange terms and are required to:
+
+(i) Decompose the share price of both the companies into EPS and P/E components; and also segregate their EPS figures into Return on Equity (ROE) and book value/intrinsic value per share components.
+
+(ii) Estimate future EPS growth rates for each company.
+
+(iii) Based on expected operating synergies BA Ltd. estimates that the intrinsic value of DA's equity share would be ₹20 per share on its acquisition. You are required to develop a range of justifiable equity share exchange ratios that can be offered by BA Ltd. to the shareholders of DA Ltd. Based on your analysis in part (i) and (ii), would you expect the negotiated terms to be closer to the upper, or the lower exchange ratio limits and why?
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 47 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.47
+
+(iv) Calculate the post-merger EPS based on an exchange ratio of 0.4: 1 being offered by BA Ltd. and indicate the immediate EPS accretion or dilution, if any, that will occur for each group of shareholders.
+
+(v) Based on a 0.4: 1 exchange ratio and assuming that BA Ltd.'s pre-merger P/E ratio will continue after the merger, estimate the post-merger market price. Also show the resulting accretion or dilution in pre-merger market prices.
+
+29. During the audit of the Weak Bank (W), RBI has suggested that the Bank should either merge with another bank or may close down. Strong Bank (S) has submitted a proposal of merger of Weak Bank with itself. The relevant information and Balance Sheets of both the companies are as under:
+
+|  Particulars | Weak Bank (W) | Strong Bank (S) | Assigned Weights (%)  |
+| --- | --- | --- | --- |
+|  Gross NPA (%) | 40 | 5 | 30  |
+|  Capital Adequacy Ratio (CAR) | 5 | 16 | 28  |
+|  Total Capital/ Risk Weight Asset |  |  |   |
+|  Market price per Share (MPS) | 12 | 96 | 32  |
+|  Book value |  |  | 10  |
+|  Trading on Stock Exchange | Irregular | Frequent |   |
+
+Balance Sheet
+(₹ in Lakhs)
+
+|  Particulars | Weak Bank (W) | Strong Bank (S)  |
+| --- | --- | --- |
+|  Paid up Share Capital (₹ 10 per share) | 150 | 500  |
+|  Reserves & Surplus | 80 | 5,500  |
+|  Deposits | 4,000 | 44,000  |
+|  Other Liabilities | 890 | 2,500  |
+|  Total Liabilities | 5,120 | 52,500  |
+|  Cash in Hand & with RBI | 400 | 2,500  |
+|  Balance with Other Banks | - | 2,000  |
+|  Investments | 1,100 | 19,000  |
+|  Advances | 3,500 | 27,000  |
+|  Other Assets | 70 | 2,000  |
+|  Preliminary Expenses | 50 | -  |
+|  Total Assets | 5,120 | 52,500  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 48 ======================
+
+14.43
+
+ADVANCED FINANCIAL MANAGEMENT
+
+You are required to
+
+(a) Calculate Swap ratio based on the above weights:
+(b) Ascertain the number of Shares to be issued to Weak Bank;
+(c) Prepare Balance Sheet after merger; and
+(d) Calculate CAR and Gross NPA of Strong Bank after merger.
+
+30. M/s Tiger Ltd. wants to acquire M/s. Leopard Ltd. The balance sheet of Leopard Ltd. as on 31st March, 2012 is as follows:
+
+|  Liabilities | ₹ | Assets | ₹  |
+| --- | --- | --- | --- |
+|  Equity Capital (70,000 shares) | 7,00,000 | Cash | 50,000  |
+|  Retained earnings | 3,00,000 | Debtors | 70,000  |
+|  12% Debentures | 3,00,000 | Inventories | 2,00,000  |
+|  Creditors and other liabilities | 3,20,000 | Plants & Eqpt. | 13,00,000  |
+|   | 16,20,000 |  | 16,20,000  |
+
+## Additional Information:
+
+(i) Shareholders of Leopard Ltd. will get one share in Tiger Ltd. for every two shares. External liabilities are expected to be settled at ₹ 5,00,000. Shares of Tiger Ltd. would be issued at its current price of ₹ 15 per share. Debenture holders will get 13% convertible debentures in the purchasing company for the same amount. Debtors and inventories are expected to realize ₹ 2,00,000.
+(ii) Tiger Ltd. has decided to operate the business of Leopard Ltd. as a separate division. The division is likely to give cash flows (after tax) to the extent of ₹ 5,00,000 per year for 6 years. Tiger Ltd. has planned that, after 6 years, this division would be demerged and disposed of for ₹ 2,00,000.
+(iii) The company's cost of capital is 16%.
+
+Make a report to the Board of the company advising them about the financial feasibility of this acquisition.
+
+Net present values for 16% for ₹ 1 are as follows:
+
+|  Years | 1 | 2 | 3 | 4 | 5 | 6  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  PV | 0.862 | 0.743 | 0.641 | 0.552 | 0.476 | 0.410  |
+
+31. The equity shares of XYZ Ltd. are currently being traded at ₹ 24 per share in the market. XYZ Ltd. has total 10,00,000 equity shares outstanding in number; and promoters' equity holding in the company is 40%.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 49 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING 14.49
+
+PQR Ltd. wishes to acquire XYZ Ltd. because of likely synergies. The estimated present value of these synergies is ₹ 80,00,000.
+
+Further PQR feels that management of XYZ Ltd. has been over paid. With better motivation, lower salaries and fewer perks for the top management, will lead to savings of ₹ 4,00,000 p.a. Top management with their families are promoters of XYZ Ltd. Present value of these savings would add ₹ 30,00,000 in value to the acquisition.
+
+Following additional information is available regarding PQR Ltd.:
+
+Earnings per share : ₹ 4
+Total number of equity shares outstanding : 15,00,000
+Market price of equity share : ₹ 40
+
+Required:
+
+(i) What is the maximum price per equity share which PQR Ltd. can offer to pay for XYZ Ltd.?
+(ii) What is the minimum price per equity share at which the management of XYZ Ltd. will be willing to offer their controlling interest?
+
+## ANSWERS/ SOLUTIONS
+
+### Answers to Theoretical Questions
+
+1. Please refer paragraph 2.
+2. Please refer paragraph 6.
+3. Please refer paragraph 7.2.
+4. Please refer paragraph 3.
+
+### Answers to the Practical Questions
+
+1. Total market value of C Ltd is = 1,00,000 x ₹ 15 = ₹ 15,00,000
+PE ratio (given) = 10
+Therefore, earnings = ₹ 15,00,000 /10 = ₹ 1,50,000
+Total market value of B Ltd. is = 5,00,000 x ₹ 12 = ₹ 60,00,000
+PE ratio (given) = 17
+Therefore, earnings = ₹ 60,00,000/17 = ₹ 3,52,941
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 50 ======================
+
+14.50
+
+ADVANCED FINANCIAL MANAGEMENT
+
+The number of shares to be issued by B Ltd.
+
+$$
+\begin{array}{l}
+\₹ 15,00,000 \div 12 = 1,25,000 \\
+\text{Total number of shares of B Ltd} = 5,00,000 + 1,25,000 = 6,25,000 \\
+\text{The EPS of the new firm is} = (\₹ 3,52,941 + ₹1,50,000) / 6,25,000 \\
+= ₹ 0.80 \\
+\text{The present EPS of B Ltd is} = ₹ 3,52,941 / 5,00,000 \\
+= ₹ 0.71 \\
+\end{array}
+$$
+
+So the EPS affirm B will increase from Re. 0.71 to ₹ 0.80 as a result of merger
+
+2. Shareholders of Doom Ltd. will get 5 lakh share of Elrond Limited, so they will get:
+
+$$
+= \frac{5 \text{ lakh}}{20 \text{ lakh} + 5 \text{ lakh}} = 20\% \text{ of shares Elrond Limited}
+$$
+
+The value of Elrond Ltd. after merger will be:
+
+$$
+\begin{array}{l}
+= ₹ 50 \times 20 \text{ lakh} + ₹ 25 \times 10 \text{ lakh} + ₹ 200 \text{ lakh} \\
+= ₹ 1000 \text{ lakh} + ₹ 250 \text{ lakh} + ₹ 200 \text{ lakh} = ₹ 1450 \text{ lakh} \\
+\end{array}
+$$
+
+True Cost of Merger will be:
+
+$$
+(\₹ 1450 \times 20\%) \quad ₹ 290 \text{ lakhs} - ₹ 250 \text{ lakhs} = ₹ 40 \text{ lakhs}
+$$
+
+3. (i) Earning per share of company MK Ltd after merger:-
+
+Exchange ratio $160 : 200 = 4 : 5$.
+
+that is 4 shares of MK Ltd. for every 5 shares of NN Ltd.
+
+$$
+\begin{array}{l}
+\therefore \text{Total number of shares to be issued} = 4/5 \times 3,00,000 = 2,40,000 \text{ Shares.} \\
+\therefore \text{Total number of shares of MK Ltd. and NN Ltd.} = 12,00,000 (\text{MK Ltd.}) + 2,40,000 (\text{NN Ltd.})} \\
+= 14,40,000 \text{ Shares} \\
+\end{array}
+$$
+
+$$
+\begin{array}{l}
+\text{Total profit after tax} = ₹ 60,00,000 \quad \text{MK Ltd.} \\
+= ₹ 18,00,000 \quad \text{NN Ltd.} \\
+= ₹ 78,00,000 \\
+\end{array}
+$$
+
+$$
+\therefore \text{EPS. (Earning Per Share) of MK Ltd. after merger} = 78,00,000 / 14,40,000 = ₹ 5.42 \text{ per share}
+$$
+
+(ii) To find the exchange ratio so that shareholders of NN Ltd. would not be at a Loss: Present earning per share for company MK Ltd.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 51 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.51
+
+$$
+= \ ₹ 60,00,000 / 12,00,000 = ₹ 5.00
+$$
+
+Present earning per share for company NN Ltd.
+
+$$
+= ₹ 18,00,000 / 3,00,000 = ₹ 6.00
+$$
+
+∴ Exchange ratio should be 6 shares of MK Ltd. for every 5 shares of NN Ltd.
+
+∴ Shares to be issued to NN Ltd. = 3,00,000 × 6/5 = 3,60,000 shares
+
+Now, total No. of shares of MK Ltd. and NN Ltd. = 12,00,000 (MK Ltd.) + 3,60,000 (NN Ltd.)
+
+$$
+= 15,60,000 \text{ shares}
+$$
+
+∴ EPS after merger = ₹ 78,00,000 / 15,60,000 = ₹ 5.00 per share
+
+Total earnings available to shareholders of NN Ltd. after merger = 3,60,000 shares × ₹ 5.00 = ₹ 18,00,000.
+
+This is equal to earnings prior merger for NN Ltd.
+
+∴ Exchange ratio on the basis of earnings per share is recommended.
+
+4. (i) Earnings per share = Earnings after tax / No. of equity shares
+
+$$
+\text{ABC Ltd.} = ₹ 50,00,000 / 10,00,000 = ₹ 5
+$$
+
+$$
+\text{XYZ Ltd.} = ₹ 18,00,000 / 6,00,000 = ₹ 3
+$$
+
+(ii) Number of Shares XYZ Limited's shareholders will get in ABC Ltd. based on market value per share = ₹ 28 / 42 × 6,00,000 = 4,00,000 shares
+
+Total number of equity shares of ABC Ltd. after merger = 10,00,000 + 4,00,000 = 14,00,000 shares
+
+Earnings per share after merger = ₹ 50,00,000 + 18,00,000 / 14,00,000 = ₹ 4.86
+
+(iii) Calculation of exchange ratio to ensure shareholders of XYZ Ltd. to earn the same as was before merger:
+
+Shares to be exchanged based on EPS = (₹ 3/₹ 5) × 6,00,000 = 3,60,000 shares
+
+EPS after merger = (₹ 50,00,000 + 18,00,000) / 13,60,000 = ₹ 5
+
+Total earnings in ABC Ltd. available to shareholders of XYZ Ltd. = 3,60,000 × ₹ 5 = ₹ 18,00,000.
+
+Thus, to ensure that Earning to members are same as before, the ratio of exchange should be 0.6 share for 1 share.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 52 ======================
+
+14.52
+
+ADVANCED FINANCIAL MANAGEMENT
+
+5. (i)
+
+|   | Acquirer Company | Target Company  |
+| --- | --- | --- |
+|  Net Profit | ₹ 80 lakhs | ₹ 15.75 lakhs  |
+|  PE Multiple | 10.50 | 10.00  |
+|  Market Capitalization | ₹ 840 lakhs | ₹ 157.50 lakhs  |
+|  Market Price | ₹ 42 | ₹ 105  |
+|  No. of Shares | 20 lakhs | 1.50 lakhs  |
+|  EPS | ₹ 4 | ₹ 10.50  |
+
+Maximum Exchange Ratio 4 : 10.50 or 1 : 2.625
+
+Thus, for every one share of Target Company 2.625 shares of Acquirer Company.
+
+(ii) Let $x$ lakhs be the amount paid by Acquirer company to Target Company. Then to maintain same EPS i.e. ₹ 4 the number of shares to be issued will be:
+
+$$
+\frac{(80 \text{ lakhs} + 15.75 \text{ lakhs}) - 0.70 \times 15\% \times x}{20 \text{ lakhs}} = 4
+$$
+
+$$
+\frac{95.75 - 0.105x}{20} = 4
+$$
+
+$x = ₹ 150$ lakhs
+
+Thus, ₹ 150 lakhs shall be offered in cash to Target Company to maintain same EPS.
+
+6. (i) The number of shares to be issued by A Ltd.:
+
+The Exchange ratio is 0.5
+
+So, new Shares = 1,80,000 x 0.5 = 90,000 shares.
+
+(ii) EPS of A Ltd. After a acquisition:
+
+Total Earnings (₹ 18,00,000 + ₹ 3,60,000) ₹ 21,60,000
+
+No. of Shares (6,00,000 + 90,000) 6,90,000
+
+EPS (₹ 21,60,000)/6,90,000) ₹ 3.13
+
+(iii) Equivalent EPS of T Ltd.:
+
+No. of new Shares 0.5
+
+EPS ₹ 3.13
+
+Equivalent EPS (₹ 3.13 x 0.5) ₹ 1.57
+
+(iv) New Market Price of A Ltd. (P/E remaining unchanged):
+
+Present P/E Ratio of A Ltd. 10 times
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 53 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING 14.53
+
+Expected EPS after merger ₹ 3.13
+Expected Market Price (₹3.13 x 10) ₹ 31.30
+
+(v) Market Value of merged firm:
+Total number of Shares 6,90,000
+Expected Market Price ₹ 31.30
+Total value (6,90,000 x 31.30) ₹ 2,15,97,000
+
+7. Particulars Mark Ltd. Mask Ltd.
+EPS ₹ 2,000 Lakhs/ 200 lakhs ₹ 400 lakhs / 100 lakhs
+= ₹ 10 ₹ 4
+Market Price ₹ 10 x 10 = ₹ 100 ₹ 4 x 5 = ₹ 20
+
+(i) The Swap ratio based on current market price is
+₹ 20 / ₹ 100 = 0.2 or 1 share of Mark Ltd. for 5 shares of Mask Ltd.
+No. of shares to be issued = 100 lakh x 0.2 = 20 lakhs.
+
+(ii) EPS after merger = ₹ 2,000 lakhs + ₹ 400 lakhs / 200 lakhs + 20 lakhs = ₹ 10.91
+
+(iii) Expected market price after merger assuming P/E 10 times.
+= ₹ 10.91 x 10 = ₹ 109.10
+
+(iv) Market value of merged firm
+= ₹ 109.10 market price x 220 lakhs shares = 240.02 crores
+
+(v) Gain from the merger
+Post merger market value of the merged firm ₹ 240.02 crores
+Less: Pre-merger market value
+Mark Ltd. 200 Lakhs x ₹ 100 = 200 crores
+Mask Ltd. 100 Lakhs x ₹ 20 = 20 crores ₹ 220.00 crores
+Gain from merger ₹ 20.02 crores
+
+Appropriation of gains from the merger among shareholders:
+
+|   | Mark Ltd. | Mask Ltd.  |
+| --- | --- | --- |
+|  Post merger value | 218.20 crores | 21.82 crores  |
+|  Less: Pre-merger market value | 200.00 crores | 20.00 crores  |
+|  Gain to Shareholders | 18.20 crores | 1.82 crores  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 54 ======================
+
+14.54
+
+ADVANCED FINANCIAL MANAGEMENT
+
+# 8. Working Notes
+
+(a)
+
+|   | XYZ Ltd. | ABC Ltd.  |
+| --- | --- | --- |
+|  Equity shares outstanding (Nos.) | 10,00,000 | 4,00,000  |
+|  EPS | ₹ 40 | ₹ 28  |
+|  Profit | ₹ 400,00,000 | ₹ 112,00,000  |
+|  PE Ratio | 6.25 | 5.71  |
+|  Market price per share | ₹ 250 | ₹ 160  |
+
+(b) EPS after merger
+
+|  No. of shares to be issued (4,00,000 x 0.70) | 2,80,000  |
+| --- | --- |
+|  Exiting Equity shares outstanding | 10,00,000  |
+|  Equity shares outstanding after merger | 12,80,000  |
+|  Total Profit (₹ 400,00,000 + ₹ 112,00,000) | ₹ 512,00,000  |
+|  EPS | ₹ 40  |
+
+(i) Impact of merger on EPS of both the companies
+
+|   | XYZ Ltd. | ABC Ltd.  |
+| --- | --- | --- |
+|  EPS after Merger | ₹ 40 | ₹ 28  |
+|  EPS before Merger | ₹ 40 | ₹ 28*  |
+|   | Nil | Nil  |
+
+* ₹ 40 x 0.70
+
+(ii) Gain from the Merger if exchange ratio is 1: 1
+
+|  No. of shares to be issued | 4,00,000  |
+| --- | --- |
+|  Exiting Equity shares outstanding | 10,00,000  |
+|  Equity shares outstanding after merger | 14,00,000  |
+|  Total Profit (₹ 400,00,000 + ₹ 112,00,000) | ₹ 512,00,000  |
+|  EPS | ₹ 36.57  |
+|  Market Price of Share (₹ 36.57 x 6.25) | ₹ 228.56  |
+|  Market Price of Share before Merger | ₹ 160.00  |
+|  Impact (Increase/ Gain) | ₹ 68.56  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 55 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.55
+
+(iii) Gain/ loss from the Merger to the shareholders of XYZ Ltd.
+
+|  Market Price of Share | ₹ 228.56  |
+| --- | --- |
+|  Market Price of Share before Merger | ₹ 250.00  |
+|  Loss from the merger (per share) | ₹ 21.44  |
+
+(iv) Maximum Exchange Ratio acceptable to XYZ Ltd. shareholders
+
+|   | ₹Lakhs  |
+| --- | --- |
+|  Market Value of Merged Entity (₹ 228.57 x 1400000) | 3199.98  |
+|  Less: Value acceptable to shareholders of XYZ Ltd. | 2500.00  |
+|  Value of merged entity available to shareholders of ABC Ltd. | 699.98  |
+|  Market Price Per Share | 250  |
+|  No. of shares to be issued to the shareholders of ABC Ltd. (lakhs) | 2.80  |
+
+Thus maximum ratio of issue shall be 2.80 : 4.00 or 0.70 share of XYZ Ltd. for one share of ABC Ltd.
+
+Alternatively, it can also be computed as follows:
+
+|  Earning after Merger (40 x 1000000 + 28 x 400000) | ₹ 512 lakhs  |
+| --- | --- |
+|  PE Ratio of XYZ Ltd. | 6.25  |
+|  Market Value of Firm after Merger (512 x 6.25) | ₹ 3200 lakhs  |
+|  Existing Value of Shareholders of XYZ Ltd. | ₹ 2500 lakhs  |
+|  Value of Merged entity available to Shareholders of ABC Ltd. | ₹ 700 lakhs  |
+|  Market Price per Share | ₹ 250  |
+|  Total No. of shares to be issued | 2.8 lakh  |
+
+Thus, maximum acceptable ratio shall be 2.80:4.00 i.e. 0.70 share of XYZ Ltd. for one share of ABC Ltd.
+
+9. (i) Pre-merger EPS and P/E ratios of XYZ Ltd. and ABC Ltd.
+
+|  Particulars | XYZ Ltd. | ABC Ltd.  |
+| --- | --- | --- |
+|  Earnings after taxes | 5,00,000 | 1,25,000  |
+|  Number of shares outstanding | 2,50,000 | 1,25,000  |
+|  EPS | 2 | 1  |
+|  Market Price per share | 20 | 10  |
+|  P/E Ratio (times) | 10 | 10  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 56 ======================
+
+14.50
+
+ADVANCED FINANCIAL MANAGEMENT
+
+(ii) Current Market Price of ABC Ltd. if P/E ratio is $6.4 = ₹ 1 \times 6.4 = ₹ 6.40$
+
+Exchange ratio = $\frac{\₹20}{\₹6.40} = 3.125$ or $\frac{\₹6.40}{\₹20} = 0.32$
+
+Post-merger EPS of XYZ Ltd.
+$$
+\begin{array}{l}
+= \frac{\₹5,00,000 + ₹1,25,000}{2,50,000 + (1,25,000/3.125)} \\
+= \frac{\₹6,25,000}{2,90,000} = 2.16
+\end{array}
+$$
+
+(iii) Desired Exchange Ratio
+
+Total number of shares in post-merged company
+$$
+= \frac{\text{Post-merger earnings}}{\text{Pre-merger EPS of XYZ Ltd}} = \frac{\₹6,25,000}{2} = 3,12,500
+$$
+
+Number of shares required to be issued
+$$
+= 3,12,500 - 2,50,000 = 62,500
+$$
+
+Therefore, the exchange ratio is
+$$
+\begin{array}{l}
+62,500 : 1,25,000 \\
+= \frac{62,500}{1,25,000} = 0.50
+\end{array}
+$$
+
+10. (i) SWAP ratio based on current market prices:
+
+EPS before acquisition:
+Mani Ltd.: ₹2,000 lakhs / 200 lakhs: ₹10
+Ratnam Ltd.: ₹4,000 lakhs / 1,000 lakhs: ₹ 4
+
+Market price before acquisition:
+Mani Ltd.: ₹10 × 10 ₹100
+Ratnam Ltd.: ₹4 × 5 ₹ 20
+SWAP ratio: 20/100 or 1/5 i.e. 0.20
+
+(ii) EPS after acquisition:
+$$
+\frac{\₹(2,000 + 4,000) \text{ Lakhs}}{(200 + 200) \text{ Lakhs}} = ₹15.00
+$$
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 57 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING 14.57
+
+### (iii) Market Price after acquisition:
+
+EPS after acquisition : ₹15.00
+P/E ratio after acquisition 10 × 0.9: 9
+Market price of share (₹ 15 X 9) ₹135.00
+
+### (iv) Market value of the merged Co.:
+
+₹135 × 400 lakhs shares ₹ 540.00 Crores
+or ₹ 54,000 Lakhs
+
+### (v) Gain/loss per share:
+
+|   | Mani Ltd. | Ratnam Ltd.  |
+| --- | --- | --- |
+|  Total value before Acquisition | 200 | 200  |
+|  Value after acquisition | 270 | 270  |
+|  Gain (Total) | 70 | 70  |
+|  No. of shares (pre-merger) (lakhs) | 200 | 1,000  |
+|  Gain per share (₹) | 35 | 7  |
+
+11.
+
+(i) Exchange Ratio 1:1
+New Shares to be issued 2,00,000
+Total shares of Rama Ltd. (4,00,000+2,00,000) 6,00,000
+Total earnings (₹ 10,00,000 + ₹ 7,00,000) ₹ 17,00,000
+New EPS (₹ 17,00,000/6,00,000) ₹ 2.83
+
+(ii) Existing EPS of Rama Ltd. ₹ 2.50
+Increase in EPS of Rama Ltd (₹ 2.83 – ₹ 2.50) ₹ 0.33
+Existing EPS of Krishna Ltd. ₹ 3.50
+Decrease in EPS of Krishna Ltd. (₹ 3.50 – ₹ 2.83) ₹ 0.67
+
+(iii) P/E ratio of new firm (expected to remain same) 14 times
+New market price (14 × ₹ 2.83) ₹ 39.62
+Total No. of Shares 6,00,000
+Total market Capitalization (6,00,000 × ₹ 39.62) ₹ 2,37,72,000
+Existing market capitalization (₹ 70,00,000 + ₹ 1,40,00,000) ₹ 2,10,00,000
+Total gain ₹ 27,72,000
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 58 ======================
+
+14.58
+
+ADVANCED FINANCIAL MANAGEMENT
+
+(iv)
+
+|   | Rama Ltd. | Krishna Ltd | Total  |
+| --- | --- | --- | --- |
+|  No. of shares after merger | 4,00,000 | 2,00,000 | 6,00,000  |
+|  Market price | ₹ 39.62 | ₹ 39.62 | ₹ 39.62  |
+|  Total Mkt. Values | ₹ 1,58,48,000 | ₹ 79,24,000 | ₹ 2,37,72,000  |
+|  Existing Mkt. values | ₹ 1,40,00,000 | ₹ 70,00,000 | ₹ 2,10,00,000  |
+|  Gain to share holders | ₹ 18,48,000 | ₹ 9,24,000 | ₹ 27,72,000  |
+
+or ₹ 27,72,000 ÷ 3 = ₹ 9,24,000 to Krishna Ltd. and ₹ 18,48,000 to Rama Ltd. (in 2: 1 ratio)
+
+12. (i) Calculation of new EPS of M Co. Ltd.
+
+No. of equity shares to be issued by M Co. Ltd. to N Co. Ltd.
+
+= 4,00,000 shares × ₹ 160/₹ 200 = 3,20,000 shares
+
+Total no. of shares in M Co. Ltd. after acquisition of N Co. Ltd.
+
+= 16,00,000 + 3,20,000 = 19,20,000
+
+Total earnings after tax [after acquisition]
+
+= 80,00,000 + 24,00,000 = 1,04,00,000
+
+$$
+\text{EPS} = \frac{\₹ 1,04,00,000}{19,20,000 \text{ equity shares}} = ₹ 5.42
+$$
+
+(ii) Calculation of exchange ratio which would not diminish the EPS of N Co. Ltd. after its merger with M Co. Ltd.
+
+Current EPS:
+
+$$
+\text{M Co. Ltd.} = \frac{\₹ 80,00,000}{16,00,000 \text{ equity shares}} = ₹ 5
+$$
+
+$$
+\text{N Co. Ltd.} = \frac{\₹ 24,00,000}{4,00,000 \text{ equity shares}} = ₹ 6
+$$
+
+Exchange ratio = 6/5 = 1.20
+
+No. of new shares to be issued by M Co. Ltd. to N Co. Ltd.
+
+= 4,00,000 × 1.20 = 4,80,000 shares
+
+Total number of shares of M Co. Ltd. after acquisition
+
+= 16,00,000 + 4,80,000 = 20,80,000 shares
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 59 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.59
+
+$$
+\text{EPS [after merger]} = \frac{\₹ 1,04,00,000}{20,80,000 \text{ shares}} = ₹ 5
+$$
+
+Total earnings in M Co. Ltd. available to new shareholders of N Co. Ltd.
+
+$$
+= 4,80,000 \times ₹ 5 = ₹ 24,00,000
+$$
+
+**Recommendation**: The exchange ratio (6 for 5) based on market shares is beneficial to shareholders of 'N' Co. Ltd.
+
+13. (i) Pre Merger Market Value of Per Share
+
+P/E Ratio X EPS
+
+Longitude Ltd. ₹ 8 X 15 = ₹ 120.00
+
+Latitude Ltd. ₹ 5 X 10 = ₹ 50.00
+
+(ii) (1) Maximum exchange ratio without dilution of EPS
+
+|  Pre Merger PAT of Longitude Ltd. | ₹ 120 Lakhs  |
+| --- | --- |
+|  Pre Merger PAT of Latitude Ltd. | ₹ 80 Lakhs  |
+|  Combined PAT | ₹ 200 Lakhs  |
+|  Longitude Ltd. ’s EPS | ₹ 8  |
+|  Maximum number of shares of Longitude after merger (₹ 200 lakhs/₹ 8) | 25 Lakhs  |
+|  Existing number of shares | 15 Lakhs  |
+|  Maximum number of shares to be exchanged | 10 Lakhs  |
+
+Maximum share exchange ratio 10:16 or 5:8
+
+(2) Maximum exchange ratio without dilution of Market Price Per Share
+
+|  Pre Merger Market Capitalization of Longitude Ltd. (₹ 120 × 15 Lakhs) | ₹ 1800 Lakhs  |
+| --- | --- |
+|  Pre Merger Market Capitalization of Latitude Ltd. (₹ 50 × 16 Lakhs) | ₹ 800 Lakhs  |
+|  Combined Market Capitalization | ₹ 2600 Lakhs  |
+|  Current Market Price of share of Longitude Ltd. | ₹ 120  |
+|  Maximum number of shares to be exchanged of Longitude (surviving company) (₹ 2600 Lakhs/₹ 120) | 21.67 Lakhs  |
+|  Current Number of Shares of Longitude Ltd. | 15.00 Lakhs  |
+|  Maximum number of shares to be exchanged (Lakhs) | 6.67 Lakhs  |
+
+Maximum share exchange ratio 6.67:16 or 0.4169:1
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 60 ======================
+
+14.60
+
+ADVANCED FINANCIAL MANAGEMENT
+
+14.
+
+|   | P Ltd. | R Ltd.  |
+| --- | --- | --- |
+|  Profit before Tax (₹ in crore) | 15 | 13.50  |
+|  Tax 30% (₹ in crore) | 4.50 | 4.05  |
+|  Profit after Tax (₹ in crore) | 10.50 | 9.45  |
+|  Earning per Share (₹) | $\frac{10.50}{25} = ₹ 0.42$ | $\frac{9.45}{15} = ₹ 0.63$  |
+|  Price of Share before Merger (EPS x P/E Ratio) | ₹ 0.42 x 12 = ₹ 5.04 | ₹ 0.63 x 9 = ₹ 5.67  |
+
+(i) ∴ Market Value of company
+
+P Ltd. = ₹ 5.04 x 25 Crore = ₹ 126 crore
+
+R Ltd. = ₹ 5.67 x 15 Crore = ₹ 85.05 crore
+
+Combined = ₹ 126 + ₹ 85.05 = ₹ 211.05 Crores
+
+After Merger
+
+|   | P Ltd. | R Ltd.  |
+| --- | --- | --- |
+|  No. of Shares | 25 crores | 15 x $\frac{4}{5}$ = 12 crores  |
+|  Combined |  | 37 crores  |
+|  % of Combined Equity Owned | $\frac{25}{37} \times 100 = 67.57\%$ | $\frac{12}{37} \times 100 = 32.43\%$  |
+
+(ii) ∴ Value of Original Shareholders
+
+|  P Ltd. | R Ltd.  |
+| --- | --- |
+|  ₹ 211.05 crore x 67.57% | ₹ 211.05 crore x 32.43%  |
+|  = ₹ 142.61 | = ₹ 68.44  |
+
+Alternatively, it can also be computed as follows:
+
+|  Combined Value of Entity | 211.05 crore  |
+| --- | --- |
+|  No. of shares after Merger | 37 crore  |
+|  Value of Per Share | ₹ 5.70405  |
+|  Value of P Ltd. Shareholders (25 crores x ₹ 5.70405) | ₹ 142.60 crore  |
+|  Value of R Ltd. Shareholders (12 crores x ₹ 5.70405) | ₹ 68.45 crore  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 61 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.61
+
+(iii) Price per Share after Merger
+
+$$
+\begin{array}{l}
+E P S = \frac {\ ₹ 19.95 \text{ crore}}{37 \text{ crore}} = ₹ 0.539 \text{ per share} \\
+P / E \text{ Ratio} = 12 \\
+\text{Market Value Per Share} = ₹ 0.539 \times 12 = ₹ 6.47 \\
+\text{Total Market Value} = ₹ 6.47 \times 37 \text{ crore} = ₹ 239.39 \text{ crore} \\
+\text{Price of Share} = \frac {\text{Market Value}}{\text{Number of Shares}} = \frac {239.39 \text{ crore}}{37 \text{ crore}} = ₹ 6.47 \\
+\end{array}
+$$
+
+(iv) Effect on Share Price
+
+$P$ Ltd.
+
+Gain/loss (-) per share = ₹ 6.47 – ₹ 5.04 = ₹ 1.43
+
+i.e. $\frac{6.47 - 5.04}{5.04} \times 100 = 0.284$ or $28.4\%$
+
+∴ Share price would rise by $28.4\%$
+
+$R$ Ltd.
+
+$$
+6.47 \times \frac{4}{5} = ₹ 5.18
+$$
+
+Gain/loss (-) per share = ₹ 5.18 – ₹ 5.67 = (-₹ 0.49)
+
+i.e. $\frac{5.18 - 5.67}{5.67} \times 100$ (-) 0.0864 or (-) 8.64%
+
+∴ Share Price would decrease by $8.64\%$.
+
+15. Compute Value of Equity
+
+Simple Ltd.
+
+₹ in Lacs
+
+|   | High Growth | Medium Growth | Slow Growth  |
+| --- | --- | --- | --- |
+|  Debit + Equity | 820 | 550 | 410  |
+|  Less: Debt | 460 | 460 | 460  |
+|  Equity | 360 | 90 | -50  |
+
+Since the Company has limited liability the value of equity cannot be negative therefore the value of equity under slow growth will be taken as zero because of insolvency risk and the value of debt is taken at 410 lacs. The expected value of debt and equity can then be calculated as:
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 62 ======================
+
+14.62
+
+ADVANCED FINANCIAL MANAGEMENT
+
+Simple Ltd.
+
+₹ in Lacs
+
+|   | High Growth |   | Medium Growth |   | Slow Growth |   | Expected Value  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Prob. | Value | Prob. | Value | Prob. | Value |   |
+|  Debt | 0.20 | 460 | 0.60 | 460 | 0.20 | 410 | 450  |
+|  Equity | 0.20 | 360 | 0.60 | 90 | 0.20 | 0 | 126  |
+|   |  | 820 |  | 550 |  | 410 | 576  |
+
+Simple Ltd.
+
+₹ in Lacs
+
+|   | High Growth |   | Medium Growth |   | Slow Growth |   | Expected Value  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Prob. | Value | Prob. | Value | Prob. | Value |   |
+|  Equity | 0.20 | 985 | 0.60 | 760 | 0.20 | 525 | 758  |
+|  Debt | 0.20 | 65 | 0.60 | 65 | 0.20 | 65 | 65  |
+|   |  | 1050 |  | 825 |  | 590 | 823  |
+
+Expected Values
+
+₹ in Lacs
+
+|  Equity |  | Debt |   |
+| --- | --- | --- | --- |
+|  Simple Ltd. | 126 | Simple Ltd. | 450  |
+|  Dimple Ltd. | 758 | Dimple Ltd. | 65  |
+|   | 884 |  | 515  |
+
+16. (i) Working Notes:
+
+Present Value of Cash Flows (CF) upto 5 years
+
+|  Year End | CF of Yes Ltd. (₹ lakhs) | PVF @15% | PV of CF (₹ lakhs) | CF of Merged Entity (₹ lakhs) | PV of CF of Merged Entity (₹ lakhs)  |
+| --- | --- | --- | --- | --- | --- |
+|  1 | 175 | 0.870 | 152.25 | 400 | 348.00  |
+|  2 | 200 | 0.756 | 151.20 | 450 | 340.20  |
+|  3 | 320 | 0.658 | 210.56 | 525 | 345.45  |
+|  4 | 340 | 0.572 | 194.48 | 590 | 337.48  |
+|  5 | 350 | 0.497 | 173.95 | 620 | 308.14  |
+|   |  |  | 882.44 |  | 1679.27  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 63 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.63
+
+PV of Cash Flows of Yes Ltd. after the forecast period
+
+$$
+TV_s = \frac{CF_5(1 + g)}{K_e - g} = \frac{350(1 + 0.05)}{0.15 - 0.05} = \frac{367.50}{0.10} = ₹3675 \text{ lakhs}
+$$
+
+PV of $TV_s = ₹3675 \text{ lakhs} \times 0.497 = ₹1826.475 \text{ lakhs}$
+
+PV of Cash Flows of Merged Entity after the forecast period
+
+$$
+TV_s = \frac{CF_5(1 + g)}{K_e - g} = \frac{620(1 + 0.06)}{0.15 - 0.06} = \frac{657.20}{0.09} = ₹7302.22 \text{ lakhs}
+$$
+
+PV of $TV_s = ₹7302.22 \text{ lakhs} \times 0.497 = ₹3629.20 \text{ lakhs}$
+
+Value of Yes Ltd.
+
+|   | Before merger (₹lakhs) | After merger (₹lakhs)  |
+| --- | --- | --- |
+|  PV of CF (1-5 years) | 882.440 | 1679.27  |
+|  Add: PV of TVs | 1826.475 | 3629.20  |
+|   | 2708.915 | 5308.47  |
+
+(ii) Value of Acquisition
+
+= Value of Merged Entity – Value of Yes Ltd.
+
+= ₹5308.47 lakhs – ₹2708.915 lakhs = ₹2599.555 lakhs
+
+(iii) Gain to Shareholders of Yes Ltd.
+
+Share of Yes Ltd. in merged entity = ₹5308.47 lakhs × $\frac{1}{1.5}$ = ₹3538.98 lakhs
+
+Gain to shareholder = Share of Yes Ltd. in merged entity – Value of Yes Ltd. before merger
+
+= ₹3538.98 lakhs - ₹2708.915 = ₹830.065 lakhs
+
+17. Swap Ratio
+
+|   | Efficient Ltd. | Healthy Ltd.  |
+| --- | --- | --- |
+|  Market capitalization | 500 lakhs | 750 lakhs  |
+|  No. of shares | 10 lakhs | 7.5 lakhs  |
+|  Market Price per share | ₹ 50 | ₹ 100  |
+|  P/E ratio | 10 | 5  |
+|  EPS | ₹ 5 | ₹ 20  |
+|  Profit | ₹ 50 lakh | ₹ 150 lakh  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 64 ======================
+
+14.64
+
+ADVANCED FINANCIAL MANAGEMENT
+
+|  Share capital | ₹ 100 lakh | ₹ 75 lakh  |
+| --- | --- | --- |
+|  Reserves and surplus | ₹ 300 lakh | ₹ 165 lakh  |
+|  Total | ₹ 400 lakh | ₹ 240 lakh  |
+|  Book Value per share | ₹ 40 | ₹ 32  |
+
+(i) Calculation of Swap Ratio
+
+|  EPS | 1 : 4 i.e. | 4.0 × 40% | 1.6  |
+| --- | --- | --- | --- |
+|  Book value | 1 : 0.8 i.e. | 0.8 × 25% | 0.2  |
+|  Market price | 1 : 2 i.e. | 2.0 × 35% | 0.7  |
+|   |  | Total | 2.5  |
+
+Swap ratio is for every one share of Healthy Ltd., to issue 2.5 shares of Efficient Ltd. Hence, total no. of shares to be issued 7.5 lakh × 2.5 = 18.75 lakh shares.
+
+Promoter's holding = 4.75 lakh shares + (5 × 2.5 = 12.5 lakh shares) = 17.25 lakh i.e. Promoter's holding % is (17.25 lakh/28.75 lakh) × 100 = 60%.
+
+Calculation of EPS, Market price, Market capitalization and free float market capitalization.
+
+(ii) Total No. of shares 10 lakh + 18.75 lakh = 28.75 lakh
+
+Total capital 100 lakh + 187.5 lakh = ₹ 287.5 lakh
+
+EPS $\frac{\text{Total profit}}{\text{No. of shares}} = \frac{50 \text{ lakh} + 150 \text{ lakh}}{28.75 \text{ lakh}} = \frac{200}{28.75} = ₹ 6.956$
+
+(iii) Expected market price EPS 6.956 × P/E 10 = ₹ 69.56
+
+Market capitalization = ₹ 69.56 per share × 28.75 lakh shares
+
+= ₹ 1,999.85 lakh
+
+(iv) Free float of market capitalization = ₹ 69.56 per share × (28.75 lakh × 40%)
+
+= ₹ 799.94 lakh
+
+18. SWAP RATIO
+
+|   | Abhiman Ltd. (₹) | Swabhiman Ltd. (₹)  |
+| --- | --- | --- |
+|  Share capital | 200 lacs | 100 lacs  |
+|  Free reserves & surplus | 900 lacs | 600 lacs  |
+|  Total | 1100 lacs | 700 lacs  |
+|  No. of shares | 2 lacs | 10 lacs  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 65 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.65
+
+|  Book value for share | ₹ 550 | ₹ 70  |
+| --- | --- | --- |
+|  Promoters Holding | 50% | 60%  |
+|  Non promoters holding | 50% | 40%  |
+|  Free float market capitalization (Public) | 500 lacs | ₹ 156 lacs  |
+|  Total Market Cap | 1000 lacs | 390 lacs  |
+|  No. of shares | 2 lacs | 10 lacs  |
+|  Market Price | ₹ 500 | ₹ 39  |
+|  P/E ratio | 10 | 4  |
+|  EPS | ₹ 50.00 | ₹ 9.75  |
+
+## Calculation of SWAP Ratio
+
+|  Book Value | 1:0.1273 | 0.1273 × 25% | 0.031825  |
+| --- | --- | --- | --- |
+|  EPS | 1:0.195 | 0.195 × 50% | 0.097500  |
+|  Market Price | 1:0.078 | 0.078 × 25% | 0.019500  |
+|  Total |  |  | 0.148825  |
+
+(i) SWAP Ratio is 0.148825 shares of Abhiman Ltd. for every share of Swabhiman Ltd.
+Total No. of shares to be issued = 10 lakh × 0.148825 = 148825 shares
+
+(ii) Book value, EPS & Market Price.
+
+Total No. shares = 200000 + 148825 = 348825
+
+Total capital = ₹200 lakh + ₹148.825 lac = ₹ 348.825 lac
+
+Reserves = ₹ 900 lac + ₹ 551.175 lac = ₹ 1451.175 lac
+
+Book value Per Share = $\frac{\text{₹ 348.825 lac } + \text{₹ 1451.175 lac}}{3.48825 \text{ lac}} = ₹ 516.02$
+
+or ₹ 516.02 × 0.148825 = ₹ 76.80
+
+or = $\frac{\text{Total Capital}}{\text{No. of Shares}} = \frac{1100\text{ lac} + 700\text{ lac}}{348825} = ₹ 516.02$
+
+EPS = $\frac{\text{Total Profit}}{\text{No. of shares}} = \frac{\text{₹ 100 lac} + \text{₹ 97.50 lac}}{3.48825\text{ lac}} = ₹ 56.62$
+
+or ₹ 56.62 × 0.148825 = ₹ 8.43
+
+Expected market price = ₹ 56.62 × PE Ratio = ₹ 56.62 × 10 = ₹ 566.20
+
+or ₹ 566.20 × 0.148825 = ₹ 84.26
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 66 ======================
+
+14.66
+
+ADVANCED FINANCIAL MANAGEMENT
+
+19.
+
+(i)
+
+|   | E Ltd. | H Ltd.  |
+| --- | --- | --- |
+|  Market capitalisation | 1000 lakhs | 1500 lakhs  |
+|  No. of shares | 20 lakhs | 15 lakhs  |
+|  Market Price per share | ₹ 50 | ₹ 100  |
+|  P/E ratio | 10 | 5  |
+|  EPS | ₹ 5 | ₹ 20  |
+|  Profit | ₹ 100 lakh | ₹ 300 lakh  |
+|  Share capital | ₹ 200 lakh | ₹ 150 lakh  |
+|  Reserves and surplus | ₹ 600 lakh | ₹ 330 lakh  |
+|  Total | ₹ 800 lakh | ₹ 480 lakh  |
+|  Book Value per share | ₹ 40 | ₹ 32  |
+
+(ii)
+
+# Calculation of Swap Ratio
+
+EPS 1:4 i.e. 4.0 × 40% 1.6
+
+Book value 1:0.8 i.e. 0.8 × 25% 0.2
+
+Market price 1:2 i.e. 2.0 × 35% 0.7
+
+Total 2.5
+
+Swap ratio is for every one share of H Ltd., to issue 2.5 shares of E Ltd. Hence, total no. of shares to be issued 15 lakh × 2.5 = 37.50 lakh shares
+
+(iii) Promoter's holding = 9.50 lakh shares + (10 × 2.5 = 25 lakh shares) = 34.50 lakh i.e. Promoter's holding % is (34.50 lakh/57.50 lakh) × 100 = 60%.
+
+(iv) Calculation of EPS after merger
+
+Total No. of shares 20 lakh + 37.50 lakh = 57.50 lakh
+
+$$
+\text{EPS} \frac{\text{Total profit}}{\text{No. of shares}} = \frac{100 \text{ lakh} + 300 \text{ lakh}}{57.50 \text{ lakh}} = \frac{400}{57.50} = ₹ 6.956
+$$
+
+(v) Calculation of Market price and Market capitalization after merger
+
+Expected market price EPS 6.956 × P/E 10 = ₹ 69.56
+
+Market capitalization = ₹ 69.56 per share × 57.50 lakh shares
+
+= ₹ 3,999.70 lakh or ₹ 4,000 lakh
+
+(vi) Free float of market capitalization = ₹ 69.56 per share × (57.50 lakh × 40%) = ₹ 1599.88 lakh
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 67 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.67
+
+20. (a) Swap Ratio
+
+|   | Abhiman Ltd. | Abhishek Ltd.  |
+| --- | --- | --- |
+|  Share Capital | 200 Lakh | 100 Lakh  |
+|  Free Reserves | 800 Lakh | 500 Lakh  |
+|  Total | 1000 Lakh | 600 Lakh  |
+|  No. of Shares | 2 Lakh | 10 Lakh  |
+|  Book Value per share | ₹ 500 | ₹ 60  |
+|  Promoter’s holding | 50% | 60%  |
+|  Non promoter’s holding | 50% | 40%  |
+|  Free Float Market Cap. i.e. relating to Public’s holding | 400 Lakh | 128 Lakh  |
+|  Hence Total market Cap. | 800 Lakh | 320 Lakh  |
+|  No. of Shares | 2 Lakh | 10 Lakh  |
+|  Market Price | ₹ 400 | ₹ 32  |
+|  P/E Ratio | 10 | 4  |
+|  EPS | 40 | 8  |
+|  Profits (₹ 2 X 40 lakh) | ₹ 80 lakh | -  |
+|  (₹ 8 X 10 lakh) | - | ₹ 80 lakh  |
+
+Calculation of Swap Ratio
+
+Book Value 1 : 0.12 i.e. 0.12 x 25% 0.03
+
+EPS 1 : 0.2 0.20 x 50% 0.10
+
+Market Price 1 : 0.08 0.08 x 25% 0.02
+
+Total 0.15
+
+Swap ratio is for every one share of Abhishek Ltd., to issue 0.15 shares of Abhiman Ltd. Hence total no. of shares to be issued.
+
+10 Lakh x 0.15 = 1.50 lakh shares
+
+(b) Book Value, EPS & Market Price
+
+Total No of Shares 2 Lakh + 1.5 Lakh = 3.5 Lakh
+
+Total Capital ₹ 200 Lakh + ₹ 150 Lakh = ₹ 350 Lakh
+
+Reserves ₹ 800 Lakh + ₹ 450 Lakh = ₹ 1,250 Lakh
+
+Book Value = ₹ 350 Lakh + ₹ 1,250 Lakh = ₹ 457.14 per share
+
+EPS = $\frac{\text{Total Profit}}{\text{No. of Share}} = \frac{\text{₹ 80 Lakh + ₹ 80 Lakh}}{3.5 \text{ Lakh}} = \frac{\text{₹ 160 Lakh}}{3.5} = \text{₹ 45.71}$
+
+Expected Market Price EPS (₹ 45.71) x P/E Ratio (10) = ₹ 457.10
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 68 ======================
+
+14.68
+
+ADVANCED FINANCIAL MANAGEMENT
+
+(c) (i) Promoter's holding
+
+Promoter's Revised Abhiman 50% i.e. 1.00 Lakh shares
+
+Holding Abhishek 60% i.e. 0.90 Lakh shares
+
+Total 1.90 Lakh shares
+
+Promoter's % = 1.90/3.50 x 100 = 54.29%
+
+(ii) Free Float Market Capitalisation
+
+Free Float Market = (3.5 Lakh – 1.9 Lakh) x ₹ 457.10
+
+Capitalisation = ₹ 731.36 Lakh
+
+(iii) (a) & (b)
+
+Revised Capital ₹ 350 Lakh + ₹ 175 Lakh = ₹ 525 Lakh
+
+No. of shares before Split (F.V ₹ 100) 5.25 Lakh
+
+No. of Shares after Split (F.V. ₹ 5) 5.25 x 20 = 105 Lakh
+
+EPS 160 Lakh / 105 Lakh = 1.523
+
+Book Value Cap. ₹ 525 Lakh + ₹ 1075 Lakh
+
+No. of Shares = 105 Lakh
+
+= ₹ 15.238 per share
+
+21. As per T Ltd.'s Offer
+
+|   |   | ₹ in lakhs  |
+| --- | --- | --- |
+|  (i) | Net Consideration Payable |   |
+|   |  7 times EBIDAT, i.e. 7 x ₹ 115.71 lakh | 809.97  |
+|   |  Less: Debt | 240.00  |
+|   |  | 569.97  |
+|  (ii) | No. of shares to be issued by T Ltd |   |
+|   |  ₹ 569.97 lakh/₹ 220 (rounded off) (Nos.) | 2,59,000  |
+|  (iii) | EPS of T Ltd after acquisition |   |
+|   |  Total EBIDT (₹ 400.86 lakh + ₹ 115.71 lakh) | 516.57  |
+|   |  Less: Interest (₹ 58 lakh + ₹ 30 lakh) | 88.00  |
+|   |   | 428.57  |
+|   |  Less: 30% Tax | 128.57  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 69 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.69
+
+|  Total earnings (NPAT) | 300.00  |
+| --- | --- |
+|  Total no. of shares outstanding | 14.59 lakh  |
+|  (12 lakh + 2.59 lakh) |   |
+|  EPS (₹ 300 lakh/ 14.59 lakh) | ₹ 20.56  |
+|  (iv) Expected Market Price: |   |
+|  Pre-acquisition P/E multiple: |   |
+|  EBIDAT (₹ in lakhs) | 400.86  |
+|  Less: Interest (580 X $\frac{10}{100}$) (₹ in lakhs) | 58.00  |
+|   | 342.86  |
+|  Less: 30% Tax (₹ in lakhs) | 102.86  |
+|  EAT (₹ in lakhs) | 240.00  |
+|  No. of shares (lakhs) | 12.00  |
+|  EPS | ₹ 20.00  |
+|  Hence, PE multiple $\frac{220}{20}$ | 11  |
+|  Expected market price after acquisition (₹ 20.56 x 11) | ₹ 226.16  |
+
+As per E Ltd’s Plan
+
+|   |  | ₹ in lakhs  |
+| --- | --- | --- |
+|  (i) | Net consideration payable |   |
+|   | 6 lakhs shares x ₹ 110 | 660  |
+|  (ii) | No. of shares to be issued by T Ltd |   |
+|   | ₹ 660 lakhs ÷ ₹ 220 | 3 lakh  |
+|  (iii) | EPS of T Ltd after Acquisition |   |
+|   | NPAT (as per earlier calculations) | 300.00  |
+|   | Total no. of shares outstanding (12 lakhs + 3 lakhs) | 15 lakh  |
+|   | Earning Per Share (EPS) ₹ 300 lakh/15 lakh | ₹ 20.00  |
+|  (iv) | Expected Market Price (₹ 20 x 11) | 220.00  |
+
+(v) Advantages of Acquisition to T Ltd
+
+Since the two companies are in the same industry, the following advantages could accrue:
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 70 ======================
+
+14.70
+
+ADVANCED FINANCIAL MANAGEMENT
+
+- Synergy, cost reduction and operating efficiency.
+- Better market share.
+- Avoidance of competition
+
+22. Share holders' funds
+(₹ Lakhs)
+
+|  Particulars | Fortune India Ltd. | Fortune Pharma Ltd. | Fortune India (FMCG) Ltd.  |
+| --- | --- | --- | --- |
+|  Assets | 70,000 | 25,100 | 44,900  |
+|  Outside liabilities | 25,000 | 4,100 | 20,900  |
+|  Net worth | 45,000 | 21,000 | 24,000  |
+
+1. Calculation of Shares of Fortune Pharma Ltd. to be issued to shareholders of Fortune India Ltd.
+
+|   | Fortune Pharma Ltd.  |
+| --- | --- |
+|  Estimated Profit (₹ in lakhs) | 1,470  |
+|  Estimated market price (₹) | 24.5  |
+|  Estimated P/E | 25  |
+|  Estimated EPS (₹) | 0.98  |
+|  No. of shares lakhs | 1,500  |
+
+Hence, Ratio is 1 share of Fortune Pharma Ltd. for 2 shares of Fortune India Ltd.
+
+OR for 0.50 share of Fortune Pharma Ltd. for 1 share of Fortune India Ltd.
+
+2. Expected market price of Fortune India (FMCG) Ltd.
+
+|   | Fortune India (FMCG) Ltd.  |
+| --- | --- |
+|  Estimated Profit (₹ in lakhs) | 11,400  |
+|  No. of equity shares (₹ in lakhs) | 3,000  |
+|  Estimated EPS (₹) | 3.8  |
+|  Estimated P/E | 42  |
+|  Estimated market price (₹) | 159.60  |
+
+3. Book value per share
+
+|   | Fortune Pharma Ltd. | Fortune India (FMCG) Ltd.  |
+| --- | --- | --- |
+|  Net worth (₹ in lakhs) | 21,000 | 24,000  |
+|  No. of shares (₹ in lakhs) | 1,500 | 3,000  |
+|  Book value of shares | ₹ 14 | ₹ 8  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 71 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.71
+
+## 23. (i) Net asset value
+
+|  H Ltd. | ₹ 1300 Crores – ₹ 300 Crores 3.50 Crores = ₹ 285.71  |
+| --- | --- |
+|  B Ltd. | ₹ 31.50 Crores 0.65 Crores = ₹ 48.46  |
+
+## (ii) Earning capitalization value
+
+|  H Ltd. | ₹ 300 Crores / 0.08 3.50 Crores = ₹ 1071.43*  |
+| --- | --- |
+|  B Ltd. | ₹ 10 Crores / 0.08 0.65 Crores = ₹ 192.31  |
+
+* Alternatively, Contingent Liability can also be deducted from this Valuation.
+
+## (iii) Fair value
+
+|  H Ltd. | ₹ 285.71 × 1 + ₹ 1071.43 × 3 4 = ₹ 875  |
+| --- | --- |
+|  B Ltd. | ₹ 48.46 × 1 + ₹ 192.31 × 3 4 = ₹ 156.3475  |
+
+Exchange ratio ₹156.3475 / ₹875 = 0.1787
+
+H Ltd should issue its 0.1787 share for each share of B Ltd.
+
+**Note**: In above solution it has been assumed that the contingent liability will materialize at its full amount.
+
+## 24. (i) Market value of Companies before Merger
+
+|  Particulars | RIL | SIL  |
+| --- | --- | --- |
+|  EPS | ₹ 2 | Re.1  |
+|  P/E Ratio | 10 | 5  |
+|  Market Price Per Share | ₹ 20 | ₹ 5  |
+|  Equity Shares | 10,00,000 | 10,00,000  |
+|  Total Market Value | 2,00,00,000 | 50,00,000  |
+
+## (ii) Post Merger Effects on RIL
+
+|   | ₹  |
+| --- | --- |
+|  Post-merger earnings | 30,00,000  |
+|  Exchange Ratio (1:4) |   |
+|  No. of equity shares o/s (10,00,000 + 2,50,000) | 12,50,000  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 72 ======================
+
+14.72
+
+ADVANCED FINANCIAL MANAGEMENT
+
+|  EPS: 30,00,000/12,50,000 | 2.4  |
+| --- | --- |
+|  PE Ratio | 10  |
+|  Market Value 10 x 2.4 | 24  |
+|  Total Value (12,50,000 x 24) | 3,00,00,000  |
+
+|  Gains From Merger: | ₹  |
+| --- | --- |
+|  Post-Merger Market Value of the Firm | 3,00,00,000  |
+|  Less: Pre-Merger Market Value |   |
+|  RIL 2,00,00,000 |   |
+|  SIL 50,00,000 | 2,50,00,000  |
+|  Total gains from Merger | 50,00,000  |
+
+## Apportionment of Gains between the Shareholders:
+
+|  Particulars | RIL (₹) | SIL (₹)  |
+| --- | --- | --- |
+|  Post-Merger Market Value: |  |   |
+|  10,00,000 x 24 | 2,40,00,000 | --  |
+|  2,50,000 x 24 | - | 60,00,000  |
+|  Less: Pre-Merger Market Value | 2,00,00,000 | 50,00,000  |
+|  Gains from Merger: | 40,00,000 | 10,00,000  |
+
+Thus, the shareholders of both the companies (RIL + SIL) are better off than before
+
+(iii) Post-Merger Earnings:
+
+Increase in Earnings by 20%
+
+New Earnings: ₹ 30,00,000 x (1+0.20) ₹ 36,00,000
+
+No. of equity shares outstanding: 12,50,000
+
+EPS (₹ 36,00,000/12,50,000) ₹ 2.88
+
+PE Ratio 10
+
+Market Price Per Share: = ₹2.88 x 10 ₹ 28.80
+
+∴ Shareholders will be better-off than before the merger situation.
+
+25. (i) For BCD Ltd., before acquisition
+
+The cost of capital of BCD Ltd. may be calculated by using the following formula:
+
+$$
+\frac{\text{Dividend}}{\text{Price}} + \text{Growth}\%
+$$
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 73 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.73
+
+Cost of Capital i.e., Ke = (0.60/20) + 0.07 = 0.10
+
+After acquisition g (i.e. growth) becomes 0.08
+
+Therefore, price per share after acquisition = 0.60/(0.10-0.08) = ₹30
+
+The increase in value therefore is = ₹(30-20) x 5,00,000 = ₹50,00,000/-
+
+(ii) To share holders of BCD Ltd. the immediate gain is ₹100 – ₹20x4 = ₹20 per share
+
+The gain can be higher if price of shares of AFC Ltd. rise following merger which they should undertake.
+
+|  To AFC Ltd. shareholders | (₹ (In lakhs)  |
+| --- | --- |
+|  Value of Company now | 1,000  |
+|  Value of BCD Ltd. | 150  |
+|   | 1,150  |
+|  No. of shares | 11.25  |
+|  ∴ Value per share | 1150/11.25 = ₹102.22  |
+
+Gain to shareholders of BCD Ltd. = ₹102.22 – ₹(4 x 20) = ₹22.22
+
+Gain to shareholders of AFC Ltd. = ₹102.22 – ₹100.00 = ₹2.22
+
+(iii) Gain to shareholders of AFC Ltd:-
+
+Earnings of BCD Ltd. (5,00,000 x 2.50) ₹12,50,000/-
+
+Less: Loss of earning in cash (5,00,000 x ₹ 22 x 0.10) ₹11,00,000/-
+
+Net Earning ₹ 1,50,000/-
+
+Number of shares 10,00,000
+
+Net increase in earning per share 0.15
+
+P/E ratio of AFC Ltd. = 100/8 = 12.50
+
+Therefore, Gain per share of shareholders of AFC Ltd. = 0.15x12.50 = ₹ 1.88
+
+Gain to the shareholders of BCD Ltd. ₹ (22-20) = ₹ 2/- per share
+
+Alternatively, it can also be computed as follows:
+
+|  Post-Merger Earnings (10,00,000 x ₹ 8 + 5,00,000 x ₹ 2.5 – 11,00,000) | ₹ 81,50,000  |
+| --- | --- |
+|  EPS after Merger (81,50,000/10,00,000) | ₹ 8.15  |
+|  PE Ratio | 12.50  |
+|  Post Merger Price of Share (₹ 8.15 x 12.50) | ₹ 101.875  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 74 ======================
+
+14.74
+
+ADVANCED FINANCIAL MANAGEMENT
+
+|  Less: Price before merger | ₹ 100.00  |
+| --- | --- |
+|   | ₹ 1.875  |
+|  Say | ₹ 1.88  |
+
+26. Price/share of AB Ltd. for determination of number of shares to be issued
+
+$$
+= (\text{₹ 570} + \text{₹ 430})/2 = \text{₹ 500}
+$$
+
+|  Value of XY Ltd based on future cash flow capitalization (105×0.93)+(120×0.86)+(125×0.79)+(120×0.74)×(300×0.68) | ₹ lakhs | 592.40  |
+| --- | --- | --- |
+|  Value of XY Ltd based on net assets | ₹ lakhs | 250.00  |
+|  Average value (592.40+250)/2 |  | 421.20  |
+|  No. of shares in AB Ltd to be issued ₹ 4,21,20,000/500 | Nos. | 84240  |
+|  Basis of allocation of shares |  |   |
+|  Fully paid equivalent shares in XY Ltd. (20+5) lakhs |  | 2500000  |
+|  Distribution to fully paid shareholders 84240×20/25 |  | 67392  |
+|  Distribution to partly paid shareholders 84240-67392 |  | 16848  |
+
+27. (i) Determination of EPS, P/E Ratio, ROE and BVPS of R Ltd. & S Ltd.
+
+|   | R Ltd. | S Ltd.  |
+| --- | --- | --- |
+|  EAT (₹) | 5,33,000 | 2,49,600  |
+|  N | 200000 | 160000  |
+|  EPS (EAT÷N) | 2.665 | 1.56  |
+|  Market Price Per Share | 50 | 20  |
+|  PE Ratio (MPS/EPS) | 18.76 | 12.82  |
+|  Equity Fund (Equity Value) | 2400000 | 1600000  |
+|  BVPS (Equity Value ÷ N) | 12 | 10  |
+|  ROE (EAT÷ EF) or | 0.2221 | 0.156  |
+|  ROE (EAT ÷ EF) x 100 | 22.21% | 15.60%  |
+
+(ii) Determination of Growth Rate of EPS of R Ltd.& S Ltd.
+
+|   | R Ltd. | S Ltd.  |
+| --- | --- | --- |
+|  Retention Ratio (1-D/P Ratio) | 0.80 | 0.70  |
+|  Growth Rate (ROE x Retention Ratio) or | 0.1777 | 0.1092  |
+|  Growth Rate (ROE x Retention Ratio) x 100 | 17.77% | 10.92%  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 75 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.75
+
+(iii) Justifiable equity share exchange ratio
+
+(a) Market Price Based = MPSₛ/MPSᵣ = ₹ 20/₹ 50 = 0.40:1 (lower limit)
+(b) Intrinsic Value Based = ₹ 25/₹ 50 = 0.50:1 (max. limit)
+
+Since R Ltd. has higher EPS, PE, ROE and higher growth expectations the negotiated term would be expected to be closer to the lower limit, based on existing share price.
+
+28. Market price per share (MPS) = EPS X P/E ratio or P/E ratio = MPS/EPS
+
+(i) Determination of EPS, P/E ratio, ROE and BVPS of BA Ltd. and DA Ltd.
+
+|   |  | BA Ltd. | DA Ltd.  |
+| --- | --- | --- | --- |
+|  Earnings After Tax | (EAT) | ₹ 2,10,000 | ₹ 99,000  |
+|  No. of Shares | (N) | 100000 | 80000  |
+|  EPS | (EAT/N) | ₹ 2.10 | ₹ 1.2375  |
+|  Market price per share | (MPS) | 40 | 15  |
+|  P/E Ratio | (MPS/EPS) | 19.05 | 12.12  |
+|  Equity Funds | (EF) | ₹ 12,00,000 | ₹ 8,00,000  |
+|  BVPS | (EF/N) | 12 | 10  |
+|  ROE | (EAT/EF) × 100 | 17.50% | 12.37%  |
+
+(ii) Estimation of growth rates in EPS for BA Ltd. and DA Ltd.
+
+Retention Ratio (1-D/P ratio) 0.6 0.4
+
+Growth Rate (ROE × Retention Ratio) 10.50% 4.95%
+
+(iii) Justifiable equity shares exchange ratio
+
+(a) Intrinsic value based = ₹20 / ₹40 = 0.5:1 (upper limit)
+(b) Market price based = MPSₕ/MPSₕ = ₹15 / ₹40 = 0.375:1 (lower limit)
+
+Since, BA Ltd. has a higher EPS, ROE, P/E ratio and even higher EPS growth expectations, the negotiable terms would be expected to be closer to the lower limit, based on the existing share prices.
+
+(iv) Calculation of Post merger EPS and its effects
+
+|  Particulars |  |  | BA Ltd. | DA Ltd. | Combined  |
+| --- | --- | --- | --- | --- | --- |
+|  EAT | (₹) | (i) | 2,10,000 | 99,000 | 3,09,000  |
+|  Share outstanding |  | (ii) | 100000 | 80000 | 132000*  |
+|  EPS | (₹) | (i) / (ii) | 2.1 | 1.2375 | 2.341  |
+|  EPS Accretion (Dilution) | (Re.) |  | 0.241 | (0.301***) |   |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 76 ======================
+
+14.76
+
+ADVANCED FINANCIAL MANAGEMENT
+
+(v) Estimation of Post merger Market price and other effects
+
+|  Particulars |  |  | BA Ltd. | DA Ltd. | Combined  |
+| --- | --- | --- | --- | --- | --- |
+|  EPS | (₹) | (i) | 2.1 | 1.2375 | 2.341  |
+|  P/E Ratio |  | (ii) | 19.05 | 12.12 | 19.05  |
+|  MPS | (₹) | (i) / (ii) | 40 | 15 | 44.6  |
+|  MPS Accretion | (₹) |  | 4.6 | 2.84*** |   |
+
+* Shares outstanding (combined) = 100000 shares + (0.40 × 80000) = 132000 shares
+** EPS claim per old share = ₹ 2.34 × 0.4 ₹ 0.936
+EPS dilution = ₹ 1.2375 – ₹ 0.936 ₹ 0.3015
+***S claim per old share (₹ 44.60 × 0.4) ₹ 17.84
+Less: MPS per old share ₹ 15.00
+₹ 2.84
+
+29. (a) Swap Ratio
+
+|  Gross NPA | 5:40 | 5/40 x 30% | 0.0375  |
+| --- | --- | --- | --- |
+|  CAR | 5:16 | 5/16 x 28% | 0.0875  |
+|  Market Price | 12:96 | 12/96 x 32% | 0.0400  |
+|  Book Value Per Share | 12:120 | 12/120x 10% | 0.0100  |
+|   |  |  | 0.1750  |
+
+Thus, for every share of Weak Bank, 0.1750 share of Strong Bank shall be issued.
+
+Calculation of Book Value Per Share
+
+|  Particulars | Weak Bank (W) | Strong Bank (S)  |
+| --- | --- | --- |
+|  Share Capital (₹ Lakhs) | 150 | 500  |
+|  Reserves & Surplus (₹ Lakhs) | 80 | 5,500  |
+|   | 230 | 6,000  |
+|  Less: Preliminary Expenses (₹ Lakhs) | 50 | --  |
+|  Net Worth or Book Value (₹ Lakhs) | 180 | 6,000  |
+|  No. of Outstanding Shares (Lakhs) | 15 | 50  |
+|  Book Value Per Share (₹) | 12 | 120  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 77 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.77
+
+(b) No. of equity shares to be issued:
+$$
+\frac{150}{10} \times 0.1750 = 2.625 \text{ lakh shares}
+$$
+
+(c) Balance Sheet after Merger
+Calculation of Capital Reserve
+Book Value of Shares ₹ 180.00 lac
+Less: Value of Shares issued ₹ 26.25 lac
+Capital Reserve ₹ 153.75 lac
+
+Balance Sheet
+|   | ₹ lac |  | ₹ lac  |
+| --- | --- | --- | --- |
+|  Paid up Share Capital | 526.25 | Cash in Hand & RBI | 2900.00  |
+|  Reserves & Surplus | 5500.00 | Balance with other banks | 2000.00  |
+|  Capital Reserve | 153.75 | Investment | 20100.00  |
+|  Deposits | 48000.00 | Advances | 30500.00  |
+|  Other Liabilities | 3390.00 | Other Assets | 2070.00  |
+|   | 57570.00 |  | 57570.00  |
+
+(d) Calculation CAR & Gross NPA % of Bank 'S' after merger
+$$
+\text{CAR / CRWAR} = \frac{\text{Total Capital}}{\text{Risky Weighted Assets}}
+$$
+
+|   | Weak Bank | Strong Bank | Merged  |
+| --- | --- | --- | --- |
+|  Capital Adequacy Ratio (CAR) | 5% | 16% |   |
+|  Total Capital | ₹ 180 lac | ₹ 6000 lac | ₹ 6180 lac  |
+|  Risky Weighted Assets | ₹ 3600 lac | ₹ 37500 lac | ₹ 41100 lac  |
+
+$$
+\text{CAR} = \frac{6180}{41100} \times 100 = 15.04\%
+$$
+
+$$
+\text{GNPA Ratio} = \frac{\text{Gross NPA}}{\text{Gross Advances}} \times 100
+$$
+
+|   | Weak Bank | Strong Bank | Merged  |
+| --- | --- | --- | --- |
+|  GNPA (Given) | 0.40 | 0.05 |   |
+|   | 0.40 = $\frac{\text{GNPA}_s}{\text{₹ 3500 lac}}$ | 0.05 = $\frac{\text{GNPA}_s}{\text{₹ 27000 lac}}$ |   |
+|  Gross NPA | ₹ 1400 lac | ₹ 1350 lac | ₹ 2750 lac  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 78 ======================
+
+14.78
+
+ADVANCED FINANCIAL MANAGEMENT
+
+## 30. Calculation of Purchase Consideration
+
+|   | ₹  |
+| --- | --- |
+|  Issue of Share 35000 x ₹15 | 5,25,000  |
+|  External Liabilities settled | 5,00,000  |
+|  13% Debentures | 3,00,000  |
+|   | 13,25,000  |
+|  Less: Realization of Debtors and Inventories | 2,00,000  |
+|  Cash | 50,000  |
+|   | 10,75,000  |
+
+Net Present Value = PV of Cash Inflow + PV of Demerger of Leopard Ltd. – Cash Outflow
+
+$$
+\begin{array}{l} = ₹ 5,00,000 P V A F (16\%, 6) + ₹ 2,00,000 P V F (16\%, 6) - ₹ 10,75,000 \\ = ₹ 5,00,000 \times 3.684 + ₹ 2,00,000 \times 0.410 - ₹ 10,75,000 \\ = ₹ 18,42,000 + ₹ 82,000 - ₹ 10,75,000 \\ = ₹ 8,49,000 \\ \end{array}
+$$
+
+Since NPV of the decision is positive it is advantageous to acquire Leopard Ltd.
+
+## 31. (i) Calculation of maximum price per share at which PQR Ltd. can offer to pay for XYZ Ltd.’s share
+
+|  Market Value (10,00,000 x ₹ 24) | ₹ 2,40,00,000  |
+| --- | --- |
+|  Synergy Gain | ₹ 80,00,000  |
+|  Saving of Overpayment | ₹ 30,00,000  |
+|   | ₹ 3,50,00,000  |
+|  Maximum Price (₹ 3,50,00,000/10,00,000) | ₹ 35  |
+
+Alternatively, it can also be computed as follows:
+
+Let ER be the swap ratio then,
+
+$$
+40 = \frac{24 \times 10,00,000 + 40 \times 15,00,000 + 80,00,000 + 30,00,000}{15,00,000 + 10,00,000 \times \text{ER}}
+$$
+
+$$
+\text{ER} = 0.875
+$$
+
+$$
+\text{MP} = \text{PE} \times \text{EPS} \times \text{ER} = \frac{40}{4} \times 4 \times 0.875 = ₹ 35
+$$
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 79 ======================
+
+MERGERS ACQUISITIONS & CORPORATE RESTRUCTURING
+14.79
+
+(ii) Calculation of minimum price per share at which the management of XYZ Ltd.'s will be willing to offer their controlling interest
+
+|  Value of XYZ Ltd.'s Management Holding (40% of 10,00,000 x ₹ 24) | ₹ 96,00,000  |
+| --- | --- |
+|  Add: PV of loss of remuneration to top management | ₹ 30,00,000  |
+|   | ₹ 1,26,00,000  |
+|  No. of Shares | 4,00,000  |
+|  Minimum Price (₹ 1,26,00,000/4,00,000) | ₹ 31.50  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 80 ======================
+
+© The Institute of Chartered Accountants of India
+
+# NOTES
+
+|  |   |
+| --- | --- |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |

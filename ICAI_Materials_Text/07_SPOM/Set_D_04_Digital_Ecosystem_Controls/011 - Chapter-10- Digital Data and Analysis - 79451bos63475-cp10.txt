@@ -1,0 +1,1621 @@
+Source PDF: 07_SPOM/Set_D_04_Digital_Ecosystem_Controls/011 - Chapter-10- Digital Data and Analysis - 79451bos63475-cp10.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_04_Digital_Ecosystem_Controls\011 - Chapter-10- Digital Data and Analysis - 79451bos63475-cp10.pdf
+Extracted at: 2026-05-31T10:36:47+05:30
+Pages: 39
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+UNIT – IV
+    DIGITAL DATA AND ANALYSIS
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+CHAPTER          10
+         1
+DIGITAL DATA AND
+PRIVACY
+
+
+                 LEARNING OUTCOMES
+After studying this chapter, you will be able to –
+   develop an understanding about the concepts of data protection and its
+     related principles.
+   comprehend the concepts related  to Data Analysis and the  tools
+    employed for data security.
+   know the basics about the Digital Personal Data Protection Act, 2023
+    and its major highlights.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+10.2           DIGITAL ECOSYSTEM AND CONTROLS
+
+  CHAPTER OVERVIEW
+
+
+       Data Protection & Information Practices
+
+           Data Security Tools
+
+              Data Analysis and Tools
+
+              Data Analytics
+
+              Data Assurance
+
+              IT Act 2000 based Regulatory compliances
+
+         Digital Personal Data Protection Act, 2023
+
+
+                                    Illustration: Aviation Industry
+ Headlines about the increase  in cyberattacks across  different  industries, companies, and
+ infrastructures, and the aviation industry have become dangerously common. There has been a
+ significant rise in cyber-attacks in the last decade in the aviation industry. The aviation industry
+ has access to a huge volume of sensitive information including passport and payment information,
+ making  it a prime target for cybercriminals. The aviation industry is a largely interconnected
+ network, spanning across various sectors and stakeholders, and each one is a potential entry
+ point  for attackers. Key elements  like the reservation systems,  digital  air  traffic controls,
+ navigation, anti-collision systems, in-flight entertainment devices, cabin crew devices, cockpit
+ instruments, cargo handling, amongst others, are all highly vulnerable to attacks. A breach of any
+ of these could be disastrous, potentially leading to hijacking or even a crash.
+ Furthermore, airlines are increasingly looking for ways to reduce costs and improve efficiency by
+ adopting advanced technologies across  all functions. This leads  to the outsourcing of IT
+ departments and systems to third-party vendors and relying on Commercial Off-The-Shelf (COTS)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.3
+
+ software. But third-party systems and software do not always have reliable and robust security,
+ leaving them more prone to attacks.
+ Major cyberattacks on Aviation Industry world-wide.
+ No company is immune from falling victim to a cyberattack. The number of security breaches grew
+ exponentially during the COVID-19 pandemic and the aviation industry has experienced a wave
+ of cyberattacks. Let’s consider the recent high-profile attacks that have threatened  critical
+ infrastructures.
+ In 2022, a low-cost airline in India  fell prey to a ransomware attack that led to the delayed
+ departures of several flights. While the airline was able to contain and rectify the situation and
+ resume operations within a few hours, it left many passengers stranded at different airports. Some
+ passengers took to social media to point out the chaos caused at the airports. The situation also
+ threw light on the fact that while IT teams try to resolve the issue at the back end, it is equally
+ crucial to train the ground staff and in-flight staff to handle such situations effectively.
+ ♦     In April 2022, a renowned airline faced a cyberattack that caused  flight delays and
+        operational glitches for five days. The attack was reportedly due to a data breach at the
+       company’s third-party service provider, which provides passenger management software
+        solutions (e.g. check-in and boarding) for the airlines. Without the check-in systems in
+        place, the airlines were forced to process flights,  fill out boarding passes, and check in
+       passengers manually.
+ ♦     In February 2021, one of the largest aviation IT companies that caters for nearly 90% of
+         airlines globally with  its in-house Passenger Service System, was  hit by a massive
+        cyberattack  in which hackers targeted servers containing personal data records  of
+       passengers dating back to a decade. The IT company revealed that several major airlines
+       were affected, including an Indian airline company that reported the personal data of nearly
+        4.5 million passengers were compromised.
+ ♦   A British airline company fell prey to one of the biggest cyberattacks in 2020, when the
+        personal data of nearly 9 million customers, including the credit card information of 2,000+
+       customers, was compromised.
+ ♦     In 2018, the largest British airline company had a major data breach in which the personal
+        data of over 400,000 customers and staff were compromised. The breached data included
+       names, addresses, and credit card information.
+ The consequences of these cyberattacks span from minor inconveniences to severe operational
+ disruptions, encompassing the breach of personal data for both customers and staff. Additionally,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+10.4           DIGITAL ECOSYSTEM AND CONTROLS
+
+ these attacks result in substantial financial losses for the airlines and, in the gravest scenarios,
+ pose a threat to life through potential hijacks or crashes.
+ What Needs to be done to protect Business and Customer Data?
+ The question is whether companies are doing enough from a data security and data privacy point
+ of view to protect themselves and their customers that put their trust in them. It is of the utmost
+ importance that organizations take further steps to bulletproof their data from cyberattacks,
+ especially if they are using external third-party services.
+ Compliance with best-practice data security guidelines and international standards is a significant
+ step to prevent future breaches. Additionally, to mitigate the potential damage of breaches that
+ may occur, it is of utmost importance that an organization employs a strong encryption strategy
+ and operational processes. To prevent unencrypted data being accessed by unauthorized parties,
+ the companies must take steps to ensure that:
+ ♦      Its data remains encrypted while at rest in its databases.
+ ♦      Its data remains encrypted while in transit while it migrates between clients, applications,
+       and the personnel of the company.
+ ♦    The Hardware Security Module (HSMs) must not be accessible by the third-party data
+        processor.
+ ♦      Its encryption keys must never be with its third-party data processor and must remain
+        stored in company’s vaulted data center.
+ ♦     Third parties will not have access to readable data.
+ ♦    The mandatory multifactor authentication of clients is implemented to generally limit the
+       access to data to only authorized persons like passengers who can only view their personal
+        data.
+
+    10.1 INTRODUCTION
+Every organization runs various operations which involve various kinds of data collection and data
+processing activities. Data across these activities needs to be collected properly and stored in an
+effective manner so that  it can be used for analysis purposes in an easy way. For example, an
+organization may have many employees and their records and data need to be maintained as part
+of the human resource process. Similarly, under the accounting process, transactions related to
+payroll and other expenses need to be maintained. But so far, the data that we have maintained is
+in a passive state.  If we can analyze this data, we can develop insights which may help us in
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.5
+
+transforming and restructuring existing operations to achieve optimum utilization of resources. The
+HR department can analyze the data and can identify the productivity. Employee leave records and
+patterns of people joining and leaving organizations can help in building a better HR policy. The
+accounts department can analyze transactional data to observe spending patterns. Restructuring
+the expenses policy based on  this analysis may lead  to better  utilization  of funds and the
+minimization of money wastage
+
+    10.2 DATA PROTECTION
+Data is a representation of facts and can be presented in many forms using characters, digits, and
+special symbols. Data has become a critical aspect of every business industry like agriculture, real
+estate, education, banking, food industry and others. Collecting data about your business results in
+better understanding of your customers and business. In fact, with the use of advanced data
+analytics and user-friendly tools it has become quite easy to take full advantage of data and analytics
+to transform any business. Digital data is the electronic representation of information in a format or
+language that machines can read and understand. In more technical terms, digital data is a binary
+format of information that's converted into a machine-readable digital format. The power of digital
+data is that any analog inputs, from very simple text documents to genome sequencing results, can
+be represented with the binary system.
+An Information Asset is information that is worth something to someone and where the holder of
+that asset might use the information to their benefit or might sell the information to others for a profit.
+Most information assets occur in the business and commercial world. Information assets are
+represented as digital assets in today's digital era. A Digital Asset is generally anything that is
+created and stored digitally, is identifiable and discoverable, and has or provides value. Digital
+assets have become more popular and valuable as technological advances become integrated into
+our personal and professional lives. Data, images, video, written content, and more are considered
+digital assets with ownership rights.
+
+                  DATA PROTECTION
+        DATA PRIVACY                DATA SECURITY
+  (What data is important and why?)   (How those policies get enforced?)
+
+• Legislation                         • Authentication
+• Third party Contacts                • Encryption                      Secure &
+• Data Governance                   • Data Loss Prevention            Usable Data
+• Policies                           • Threat Monitoring
+• Discovery & Classification          • Access Control
+• Data Subject Access Rights (DSARs) • Breach Response
+• Data Erasure
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+10.6           DIGITAL ECOSYSTEM AND CONTROLS
+
+                             Fig. 10.1: Data Protection Components
+♦     In technical terms, Data Protection (Fig. 10.1) is a set of strategies and processes one can
+      use to secure the privacy, availability, and integrity of your data. A data protection strategy is
+         vital for any organization that collects, handles, or stores sensitive data. A successful strategy
+      can help prevent data loss, theft, or corruption and can help minimize damage caused in the
+      event of a breach or disaster. Data loss can occur in many ways:
+    o     Physical loss of the data itself, either temporarily or permanently.
+    o     Loss of confidentiality of sensitive data.
+    o     Loss of the ability to be able to use the data because of a loss of access to the data
+                for any reason or a loss of responsiveness in which the data cannot be retrieved for
+            use (even if it is technically available) within a reasonable period.
+♦    Data protection, as a have-to function, means that it is a cost of doing business, and not a
+      want-to function, which directly carries out the mission of any organization. This means that
+      managing the costs of data protection is important, since spending more money on data
+       protection generates fewer profits for non-profit businesses. Data protection solutions rely on
+       technologies such as Data Loss Prevention (DLP), storage with built-in data protection,
+        firewalls, encryption, and endpoint  protection. Protection touches a wide spectrum  of
+      business issues, including but by no means limited to backup and restore, disaster recovery,
+      business continuity, high availability, compliance, governance, data privacy, data security and
+       e-discovery.
+♦    Data Privacy is a guideline for how data should be collected or handled, based on  its
+        sensitivity and importance. Data privacy helps ensure that sensitive data is only accessible
+       to approved parties so as to prevent criminals from being able to maliciously use data and
+      help ensure that organizations meet regulatory requirements. Data privacy is also important
+      because for individuals to be willing to engage online, they have to trust that their personal
+      data will be handled with care. Organizations use data protection practices to demonstrate to
+        their customers and users that they can be trusted with their personal data. Personal data
+      can be misused in several ways if it is not kept private or if people don’t have the ability to
+       control how their information is used - Entities may sell personal data to advertisers or other
+       outside parties without user consent, which can result in users receiving unwanted marketing
+       or advertising, which may prove to be harmful for the individuals. For a business, these
+      outcomes can irreparably harm their reputation, as well as resulting in fines, sanctions, and
+       other legal consequences.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.7
+
+       In addition to the real-world implications of privacy infringements, many people and countries
+      hold that privacy has intrinsic value: that privacy is a human right fundamental to a free
+       society, like the right to free speech. Overall, the primary data protection objectives have a
+       role in data privacy:
+    o    Data availability/data responsiveness: Individuals are more and more likely to have
+             the right to access personal information and to access it in a specified period.
+    o    Data preservation: The right to make sure that the data is accurate and the ability to
+                rectify mistakes will become more and more critical, and issues of data retention are
+                likely to become more prominent.
+    o    Data confidentiality: Data privacy is a subset of data confidentiality - is at the heart
+               of the loss of data privacy.
+♦    Data Security is focused on protecting personal data from any unauthorized third-party
+      access or malicious attacks and exploitation of data. It is set up to protect personal data using
+        different methods and techniques to ensure data privacy. Data security ensures the integrity
+       of the data, meaning data is accurate, reliable, and available to authorized parties.
+      Most online businesses and websites collect personal data, from email addresses to phone
+      numbers,  credit cards, and  log-in  details.  Ideally, these  entities shouldn’t keep more
+       information than is necessary, nor should they keep it longer than necessary.
+        Table 10.1: Differentiation between Data Privacy, Data Security and Data
+                                       Protection
+          Data Privacy             Data Security            Data Protection
+    Data privacy is about proper  Data security is policies,  Data   protection   provides
+    usage, collection, retention,  methods, and means to   tools and policies to restrict
+     deletion,  and  storage   of  secure personal data, i.e.  access to the data and makes
+    data,  i.e.   it  is more about     it is more about guarding  sure that an organization has
+    guarding  the  data  against  against        malicious  a way  of restoring  its data
+    unauthorized access.          threats.                     following a data loss event.
+    Emphasizes  on  “Are  you  Emphasizes  on  “Prove  Emphasizes on “How can we
+    who, you say, you are?”      you  are, who you  say,  ensure   that  the  data   is
+                              you are.”                  protected?”
+    For example - If we are using  For example  -  If we are  For   example   –   In   an
+    a  Google  Gmail  account,  using a Gmail account,  Insurance Policy, the aim of
+    then the way Google uses   the password would be a  data  protection   is  not  to
+    our data  to administer our  method of data security.   maximize profits or revenues,
+    account,  would  be  data                                or to minimize costs, but to
+    privacy.                                              minimize worst-case losses.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+10.8           DIGITAL ECOSYSTEM AND CONTROLS
+
+    Data privacy is post requisite  Data   security    is   a    It  is a combination of Data
+     to data security.               prerequisite    to   data   privacy and Data security.
+                                    privacy.
+
+    10.3 WHAT ARE FAIR INFORMATION PRACTICES?
+The Fair Information Practices are as follows:
+♦     Collection limitation: There should be limits to how much personal data can be collected.
+       Further data collection procedures should be standardized across all business processes
+      covering the concerns of all the related stakeholders.
+♦    Data quality: When collecting personal data, it should be accurate and directly relevant to
+         its intended purpose. Data plays a crucial role in any business process, and if not maintained
+       correctly,  it can  result  in misunderstandings and incorrect decision-making. Therefore,
+      adequate controls are essential to ensure data quality at every stage, including collection,
+       processing, and storage, thereby maintaining the integrity of the data.
+♦    Purpose specification: The use of personal data should be specified, and data should only
+      be used for the same. Further it should be ensured that data should be encrypted during and
+        after usage. This may include three states of data - rest, processing, transmission. Encryption
+         will ensure confidentiality of data and only intended participants will be able to access the
+       data.
+♦    Use limitation: Data should not be used for purposes other than what was specified and that
+      can be ensured by using multi-factor authentication and authorization mechanisms. This will
+      ensure need to know and need to do access control.
+♦    Security safeguards: Data should be secured through encryption at  all three stages:
+       processing, transmission, and storage.
+♦     Individual participation: Individuals have several rights, including the right to know who has
+        their personal data, to have their data communicated to them, to know why a request for their
+      data is denied, and to have their personal data corrected or erased.
+♦     Accountability: Anyone who collects data should be held accountable for implementing
+      these principles.
+        Table 10.2: Challenges user/businesses face when protecting their online privacy.
+       Challenges users face when protecting their  Challenges businesses face when
+       online privacy                               protecting users’ privacy
+       •  Online tracking: User behavior is regularly  •  Communication: Organizations
+           tracked  online.  Cookies  often  record  a     sometimes      struggle       to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.9
+
+           user’s activities, and while most countries     communicate  clearly  to   their
+           require websites to alert users of cookie     users what personal data they
+          usage, users may not be aware of to what      are collecting and how they use
+          degree   cookies   are   recording   their          it.
+             activities.
+       •  Losing control of data: With so many  •  Cyber-crime:  Attackers  target
+           online services in common use, individuals     both   individual   users   and
+        may not be aware of how their data is being      organizations  that  collect  and
+          shared beyond the websites with which they      store data about those users. In
+            interact online, and they may not have a say      addition, as more aspects of a
+          over what happens to their data.               business   become    Internet-
+                                                       connected,  the  attack  surface
+                                                           increases.
+       •  Lack  of  transparency:  To  use  web  •  Data breaches: A data breach
+            applications, users often have to provide     can lead to a massive violation of
+          personal data like their name, email, phone     user privacy  if personal details
+          number, or location; meanwhile, the privacy      are   leaked,   and   attackers
+            policies associated with those applications      continue to refine the techniques
+        may be dense and difficult to understand.       they  use   to  cause   these
+                                                       breaches.
+       •  Social media: It is easier than ever to find  •  Insider     threats:     Internal
+         someone   online   using   social  media     employees or contractors might
+           platforms, and  social media  posts may      inappropriately access data  if  it
+           reveal  more  personal  information  than       is not adequately protected.
+          users  realize.  In  addition,  social media
+           platforms often collect more data than users
+           are aware of.
+       •  Cybercrime: Many attackers  try to steal
+          user data  to commit  fraud, compromise
+          secure systems, or sell  it on underground
+          markets to parties who will use the data for
+           malicious purposes. Some attackers use
+           phishing attacks to try to trick users into
+           revealing  personal   information;  others
+           attempt to compromise companies’ internal
+          systems that contain personal data.
+
+    10.4 DATA SECURITY TOOLS
+♦    Encryption: Encryption is a way to conceal information by scrambling it so that it appears to
+      be random data. Only parties with the encryption key can unscramble the information, thereby
+       offering advanced protection to prevent misuse of business data, even if it gets accidentally
+       or intentionally leaked. Data encryption tools encrypt business information in a coded format
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+10.10           DIGITAL ECOSYSTEM AND CONTROLS
+
+      which can be decoded only by authorized persons after entering the preset security key. This
+      proves beneficial in events where corporate devices have been compromised due to theft or
+       hacking. Refer Fig. 10.2. Let’s consider  if a system wants to send some data secretly to
+      another system, then the sender system will encrypt(codify) the data using a secret key and
+      coded  data  would be  generated  that  would be  sent  to  the  receiver computer  in
+      encrypted(coded) form. Now the receiver system will take the same key and decrypt the
+      coded data to get the original data sent by the sender.
+
+
+                                 Key      Key
+                                                     F7#e+r                   data                      Data                            ENCRYPT            DECRYPT
+
+         Key                                                   Key
+
+                                 Fig. 10.2: Encryption Technique
+♦     Firewalls: Business networks experience a constant inflow of incoming and outgoing traffic
+      as employees try to access these networks several times a day from multiple locations.
+       Firewalls act as a great first line of defense as they monitor the traffic. They are easy to
+      implement and offer good resistance against external cyber threats trying to break into your
+      networks. Businesses must implement a third-generation firewall that not only monitors their
+      network traffic but also detects and blocks sophisticated cyber-attacks using in-line deep
+      packet inspection.
+♦    Two-factor Authentication (2FA): 2FA is one of the most important technologies for regular
+       users, as  it makes  it far harder for attackers to gain unauthorized access to personal
+      accounts. Verification of users will be a two-step process to make  it more effective. This
+       generally includes a combination of biometric information based on something the user knows
+      (Username, password, pin), something the user has (ATM card, mobile phone) and something
+       the user is (Biometric properties). Use of username and password control along with mobile
+      based OTP is a widely used example of two factor authentication as shown in the following
+       Fig. 10.3.
+
+
+                  username
+                                                                                             Enter                                                           765342                     …..                                                          Code
+                                                                                   …..  √                  LOGIN
+
+      The user enters  in  their     An authentication code is    The user enters  in their
+     username and password        sent to the user’s mobile     authentication code to log
+                                     device                          into the application.
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.11
+
+
+                              Fig. 10.3: Two Factor Authentication
+♦    Access Control: The best way to curb insider security threats, as well as external unwanted
+       entry to corporate devices and networks, is by restricting access to them. Access control
+      ensures that only authorized parties access systems and data. Access control systems allow
+     company IT admins to define who within the organization can access which  files and
+      networks. Access controls perform the steps of authentication and authorization to verify and
+       validate whether a user is allowed to access data or not. Users are either allowed or blocked
+      access to selective corporate resources. Most systems use user authentications to enable
+      access to corporate data. Access control can be combined with Data Loss Prevention (DLP)
+       to stop sensitive data from leaving the network.
+♦    Data Loss Prevention (DLP): Data loss prevention systems help businesses secure their
+      data against unwanted copying or deletion. It helps monitor the use of data, as well as detect
+      any suspicious activities to prevent the leakage of confidential business information. Modern-
+      day DLP systems help businesses tackle threats on multiple levels, including network data,
+      device data, as well as cloud data.
+
+    10.5 DATA ANALYSIS
+When most people think of “Business data,” they automatically think about the numbers and
+statistics. But there are several types of business data:
+♦     Internal Data: This type of data comes from business transactions such as point-of-sales
+      and customer records. It provides insight into how your enterprise operates and the financial
+       condition of the organization. Internal data includes any other information relevant  to
+      management, such as managerial performance metrics and productivity statistics.
+♦    External Data: External data focuses on analyzing trends relating to consumers, competitors,
+      markets, and suppliers. This category encompasses sources such as trade associations,
+      government agencies, and trade publications.
+♦    Marketing: Marketing data pertains to information about customers and their behaviors and
+       preferences, which is used to target specific individuals with tailored messages. This type of
+      data may include the various ways customers interact with your company, such as social
+      media activity, web cookies, and advertising retargeting.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+10.12           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦     Structural: Structural data is used to design or redesign physical infrastructure, such as
+       building plans or blueprints that show how structural elements should be configured in each
+       area. Data scientists often use mapping software for this purpose too.
+
+
+Table 10.3 shows majorly the two categories of data.
+                             Table 10.3: Categories of Data
+                  Qualitative Data                             Quantitative Data
+ Qualitative  data  asks  “why,”  and  consists  of   Quantitative data asks, “how much”  or
+ characteristics,   attributes,   labels,  and   other  “how many,” and consists of numbers and
+ identifiers.                                           values.
+ Some examples of how qualitative data is generated  Some examples of how quantitative data is
+ include  texts and documents, audio and  video  generated  include  tests,  experiments,
+ recordings,  images  and   symbols,   interview  surveys, market research and metrics.
+ transcripts and focus groups and observations and
+ notes.
+ Qualitative data is descriptive and non-statistical, as   Quantitative data is statistical, conclusive,
+ opposed to quantitative data.                    and measurable, making it a more optimal
+                                                   candidate for data analysis.
+  It can be used to gain insights into a particular    It helps in measuring the magnitude from a
+ practice.                                                 particular practice.
+  It does not have any predefined output categories.      It involves predefined output categories.
+  It can create patterns from insights and concepts.       It follows the  test hypothesis  statistical
+                                                   technique to gain insights and patterns
+                                                  from the data. It can numerically aggregate
+                                                     the data and the output categories can be
+                                                         clustered.
+  It can also perform an in-depth analysis of the data    It requires independent data from a large
+ coming from a small sample.                              statistical sample.
+ The sampling involved is theoretical.              The sampling involved is statistical.
+Refer Fig. 10.4.A well-organized data analysis practice helps in addressing business challenges and
+facilitate business decision making for complicated business questions by answering the questions
+like –
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.13
+
+
+  How can we improve our product and predict sales trends with effective marketing efforts?
+
+
+  How can we make it easier and faster for our customers to get what they need from us?
+
+
+  How do we beat out the competition and grow as a business and keep track of social media
+   interaction?
+
+  How can we solve business problems like discovering new customers and ensuring
+  customer retention with effective customer service?
+
+                   Fig. 10.4: Commonly addressed business Challenges
+
+The role of business data in business is changing rapidly as we move from companies using
+analytics to measure past performance to using them proactively to manage risk and increase
+profitability. There are four key insights that are commonly practiced in organizations. Refer Fig.
+10.5 that depicts that Data provides an opportunity for -
+
+        Operational efficiency. Business data collected from the operations can be analyzed to improve
+        business operations by reducing costs and improving efficiencies, businesses will become leaner and
+       more competitive.
+
+        Abetter understanding of customers. Customer being the most critical component for any business
+          carries valuable data. Collecting and analyzing behavioral and customer sentiment data helps
+        understand customers better. These insights help staff in serving customers in a better way, they can
+           sell more, provide a personalized customer experience, and increase customer retention.
+
+      New business models. Data is such a critical element nowadays that the data available in the public
+       domain referred as Big Data can help in understanding market trends and other external factors that
+      may impact business. In the age of “big data,” companies need to learn how to harvest, use and
+        monetize their own data.
+
+        Risk management. The future is uncertain; with technological transformations change will happen fast,
+       and businesses will be unable to plan without good data on which to make decisions.
+
+
+                       Fig. 10.5: Opportunities that Digital data provides
+Data Analysis is a process of delving into raw data and drawing insights and conclusions from it.
+Data Analysis encompasses all aspects of analyzing digital data with the purpose of getting answers.
+It includes collecting, measuring, mining, filtering, visualizing, and optimizing data. You may already
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+10.14           DIGITAL ECOSYSTEM AND CONTROLS
+
+be doing this using Google Analytics. Many data analysis software is available to make data analysis
+easier and faster. One of the most popular data analysis software, Microsoft Excel offers a range
+of data analysis features and Microsoft Power BI is an interactive data visualization software product
+developed by Microsoft with a primary focus on business intelligence.
+By analyzing historical data, we can make better business decisions as we’re more able to anticipate
+fluctuations in consumer demand, and to understand why these occur. However, it all depends on
+data quality and efficient data management, hence structured data is indispensable for effective data
+analysis.  If the data is substandard or somehow unreliable, the business decisions cannot be
+optimized.
+How can businesses use Data Analysis?
+The stages involved in Data Analysis are as follows are depicted in Fig. 10.6.
+
+
+        Data                               Clean the                           Collect the                             Analyzing            Data    Requirement                          (unnecessary)                         relevant data                             Data            Visualization   and Gathering                             Data
+
+
+                           Fig. 10.6: Stages of Data Analysis Process
+The explanation of these stages is provided in Table 10.4.
+                          Table 10.4: Stages of Data Analysis
+   Data           As a first step, Businesses must ensure that they have a long-term plan
+   Requirement     and clear objectives in mind. They must ask themselves questions about
+   and Gathering     their data requirements like why they want to collect certain types of data
+                   and what they hope to achieve. It is therefore important that we define the
+                     question well, as a well-defined question will provide the relevant data
+                        that is required to be analyzed to achieve the desired output.
+   Collect     the  Once businesses are clear in their own mind about the purpose of data
+   relevant data      analytics, they then need to determine which data sources are to be used,
+                    which data points need to be concentrated and how to collect that data.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.15
+
+                Some may simply use transaction and social media data, while others use
+                      high-tech sources including GPS and RFID chips.
+   Clean       the  Businesses must ensure that the quantitative data they collect is relevant
+   (unnecessary)   and that they know how to make sense of it. Simply hoovering up huge
+   Data               quantities of data may prove to be actively counter-productive. Once data
+                            is collected from all the necessary sources,  it needs to be tasked with
+                      cleaning and sorting, simply because not  all data  is good data. Data
+                        scientists must identify and purge duplicate data, anomalous data, and
+                      other inconsistencies that could skew the analysis to generate accurate
+                         results.
+   Analyzing Data  One of the last steps in the data analysis process is analyzing and
+                     manipulating the data which can majorly be done through different
+                      techniques.
+                   •     Data Mining which  is defined as “knowledge discovery within
+                           databases”  that  includes  techniques like  clustering  analysis,
+                         anomaly detection, association  rule mining, and others could
+                              unveil hidden patterns in data that weren’t previously visible.
+                   •     There’s also business intelligence and data visualization software,
+                           both of which are optimized for decision-makers and business
+                             users.  These  options  generate  easy-to-understand  reports,
+                          dashboards, scorecards, and charts.
+                   •     Data scientists may also apply predictive analytics, which makes
+                        up one  of  the  four  data  analytics used  today  (descriptive,
+                              diagnostic,  predictive,   prescriptive). Predictive  analysis looks
+                        ahead to the future, attempting to forecast what will likely happen
+                            next with a business problem or question.
+   Data            Whatever the analysis method is used, we would get a set of data as
+   Visualization      results and a set  of data  visualized  in the form  of a  chart. Data
+                        visualization with the help of tools like Tableau generate results in the
+                    form of charts and graphs that helps in interpreting and understanding the
+                         results.
+
+    10.6 DATA ANALYSIS TOOLS
+As mentioned before, the data analysis can be performed in five stages - Data Requirement and
+Gathering, Data  Collection, Data  Cleaning,  Analyzing  Data, Data  Interpretation, and Data
+Visualization. To achieve the above, many tools are available in the market. Let us discuss some of
+the most popular ones used through Table 10.5.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+10.16           DIGITAL ECOSYSTEM AND CONTROLS
+
+                          Table 10.5: Data Analysis Tools
+   Tools       Type       Availability  Mostly used for       Pros           Cons
+ Microsoft   Business      Commercial   Everything  from Great       data Clunky        user
+ BI           analytics       software      data               connectivity,       interface,        rigid
+               suite.           (with  a  free  visualization   to  regular  updates,  formulas, data limits
+                             version        predictive        good                 (in the free version).
+                               available).     analytics.          visualizations.
+ Statistical  Statistical     Commercial.  Business          Easily           High   cost,   poor
+ Analysis    software                        intelligence,       accessible,        graphical
+ System      suite.                          Multivariate  and business-         representation.
+ (SAS)                                      Predictive        focused,   good
+                                            Analysis.         user support.
+ Tableau    Data          Commercial.  Creating    data Great           Poor       versions
+              Visualization                dashboards, and  visualizations,     control, no data pre-
+                tool.                        worksheets.      speed,            processing.
+                                                                         interactivity,
+                                                          mobile support.
+ KNIME     Data        Open source. Data mining and Open-source     Lacks    scalability,
+              integration                 machine          platform  that  is and        technical
+              platform.                       learning.          great for visually  expertise is needed
+                                                        –          driven  for some functions.
+                                                       programming.
+MS Excel   Spreadsheet   Commercial.  Data   wrangling Widely-use  with  Cost,    calculation
+             software.                  and reporting.      lots   of   useful  errors,   poor    at
+                                                               functions    and handling big data.
+                                                                   plug-ins.
+ Python     Programming  Open source, Everything  from Easy   to   learn, Memory-intensive –
+            Language.     with          data scraping to  highly   versatile  doesn’t execute as
+                          thousands of  analysis    and and widely used.  fast as some other
+                               free libraries.  reporting.                          languages.
+R         Programming  Open source.  Statistical         Platform          Slower, less secure,
+            Language.                   Analysis    and independent,     and more complex
+                                          data mining.       highly              to     learn    than
+                                                             compatible,   lots Python.
+                                                                      of packages.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.17
+
+    10.7 DATA ANALYTICS
+Data Analytics is taking the analyzed data and                   Data Analytics
+                                                        The broad field of using data
+working on  it in a significant and useful way to             and tools to make business
+make   well-versed  business   decisions  and                         decisions.
+meaningful insights. These insights are then used
+to determine the best course of action like –                        Data Analysis                                                        A subset of data
+                                                                                analytics that♦   When  is the best time to  roll out that                                                                          includes specific
+      marketing campaign?                                          processes
+♦      Is the current team structure as effective
+                                                  Fig.  10.7: Relationship between Data      as it could be?                                           Analysis and Data Analytics
+♦    Which  customer segments  are  most
+        likely to purchase your new product?
+Refer Fig. 10.7 to understand Data Analysis and Data Analytics.
+Data Analytics is a crucial driver of any successful business strategy. Nowadays, data is collected
+by businesses constantly: through surveys, online tracking, online marketing analytics, collected
+subscription and registration data, social media monitoring, among other methods. Various types of
+Digital analytics strategies can be used to track business performances, understand customers’
+behavior, evaluate the effectiveness of marketing channels etc.
+Some of the key benefits of Data Analytics include the following:
+♦     Better decision making: Data analytics allows businesses to sharpen their decision-making
+         skills. Equipped with a more thorough understanding of their customer base and their own
+      performance, they can use the insights obtained via data analytics to make improved
+       decisions as well as making project management more effective.
+♦    Enhanced efficiency: It is possible for businesses to streamline many of their processes,
+       thus rendering them more efficient while also enabling them to cut costs. Thus, it also helps
+      them with financial analysis, enabling them to deploy their resources more efficiently. For
+       instance, with regard to targeted marketing campaigns.
+♦    Improved customer service: Data analytics can also help businesses to improve their
+       overall standard of customer service. Firstly, it provides in-depth insights into what customers
+      want and their preferences. Secondly, storing data in a single central location and allowing
+      your whole customer service team to access  it can help to ensure better consistency of
+       service quality.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+10.18           DIGITAL ECOSYSTEM AND CONTROLS
+
+Why should any business invest in digital analytics on a priority basis?
+♦     In the current digital era, making informed decisions requires more than personal experience,
+        intuition, or knowledge alone. Rapid changes demand real-time, data-based decision-making
+        for business owners, researchers, and marketers alike.
+♦    Businesses need to collect and process a huge amount of data  for analysis to yield
+      meaningful results. Handling huge data is not manually possible, hence Digital tools help to
+       get the job done.
+A  digital analytics tool can provide historical knowledge and an understanding of customer’s
+behavior so as to allow businesses to optimize customer experience based on data. Another
+possibility for businesses is to allow them to analyze their position in the market and benchmark
+against competition.
+Types of Data Analytics
+With a large amount of data getting generated on daily transactions across several industries around
+the globe, there comes a requirement to analyze the same for getting better business insights. Data
+Analytics techniques provide a viable solution in which the data can be extracted from multiple
+sources and is pre-processed which involves steps like validation, cleaning of data, etc. to segment
+it into various defined patterns. This comes under a stage called EDA (Exploratory Data Analysis)
+which helps in better understanding of the data and market trends.  It helps in increasing the
+productivity and business acumen of an organization. The demand for data analytics has increased
+over the years. There are four major types of Data Analytics given below in Fig. 10.8.
+
+                                Types of Data Analytics
+        Descriptive             Diagnostic              Predictive              Prescriptive
+    •What happened?     •Why did it happen?   •What is likely to hapen  •What's the best course
+                                                                      in the future?                of action?
+
+
+                               Fig.10.8: Types of Data Analytics
+♦    Descriptive Analytics: This provides an objective, fact-based description of ‘what has
+      happened’ in the past, i.e. ‘A’ occurred. In other words, it describes what has occurred over
+      a certain period of time. For example, processing and reviewing millions of customer sales
+       transactions for last quarter doesn’t give you the average amount spent by customers or total
+       sales compared to previous quarters. Descriptive analytics is the first step in making sense
+       of that raw data. It often uses basic mathematical operations to produce summary statistics
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.19
+
+        like average revenue per customer, that leads to a better understanding of the current state
+       of your business. Once companies identify trends, they may plan other types of analysis and
+      analyze causes and consequences of variations identified to improve business processes.
+       Descriptive Analytics can be implemented by identifying the metrics that reflect key business
+      goals of each group or of the company overall. If data is collected from multiple sources, it
+      needs to be modeled into uniform structure so that  it is ready for Descriptive analysis.
+     Companies can use a variety of tools like spreadsheet applications or Business Intelligence
+        (BI) software to generate visual representations for better understanding.
+♦    Diagnostic Analytics: Diagnostic analytics not only focuses on what happened in the past,
+       but also aims to describe the techniques used to answer questions like: ‘Why did this
+      happen?’ i.e. ‘A’ occurred because ‘B’.  It’s like doing a deep dive into your data to search
+        for valuable insights. To understand the “why” behind what happened, the first step is to set
+      up the data investigation to identify the issues so that analysis can be initiated. There could
+      be a single root cause, or there could be multiple data sets to isolate a pattern and find a
+       correlation. Statistical techniques like Linear Regression can help find relationships by fitting
+      a set of variables into a linear equation. For instance, the HR department might use this
+      method to analyze employee performance, considering factors like quarterly performance
+        levels, absenteeism, and weekly overtime hours.
+♦     Predictive Analytics: Predictive analytics predict what is likely to take place in the relatively
+      near term based on previous data for better decision making in business. In other words, it
+      uses past data to forecast trends i.e. because ‘A’ occurred, we predict that ‘C’ will occur
+       in the future. The operation of predictive analytics  is based on mathematical models,
+        historical and current data. On par with traditional data analysis, predictive analytics utilizes
+         artificial intelligence, machine learning and deep learning models and can look at all potential
+      scenarios without human interference. In addition, cloud technologies enable real-time data
+      processing and speed up decision-making.
+       Predictive analytics software solutions help marketers and retail specialists in predictive
+      marketing to optimize marketing campaigns, create personalized recommendations and
+       forecast sales based on insightful data. This approach contributes to increased revenue and
+      improved customer retention. Notably, predictive analytics finds applications across various
+       industries such as healthcare, sports, weather, insurance, and financial modeling.
+♦     Prescriptive Analytics: Prescriptive analytics is the process of using data to find out the
+      best possible solution by including all significant factors. In other words, this aims to provide
+       actionable steps towards a chosen goal i.e. To achieve goal ‘X’, we must take action ‘Y’.
+       This analysis provides options that  facilitate data-driven decision-making. This involves
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+10.20           DIGITAL ECOSYSTEM AND CONTROLS
+
+       extensive use of machine-learning algorithms. These algorithms process large amounts of
+      data and using conditional statements make recommendations based on combination of
+       specific  requirements. For example  - Investment  decisions can be strengthened by
+       Prescriptive analytics that considers risks and recommends whether to invest or not. Like
+     nowadays investment decision in startups involves high risk and Prescriptive analytics can
+     make this decision making effective. Prescriptive analytics can be used for detection and
+       flagging of bank fraud, as huge volumes of transactions need to be reviewed that is not
+       feasible manually. An algorithm—trained using customers’  historical transaction data—
+      analyzes and scans new transactional data for anomalies. The algorithm analyzes patterns
+        in any transactional data, alerts the bank, and provides a recommended course of action like
+       blocking the transaction.
+Other types of data analysis techniques are used by developers like Descriptive Analysis, Inferential
+Analysis,  Text  Analysis,  Statistical  Analysis,  Diagnostic  Analysis,  Predictive  Analytics, and
+Prescriptive Analytics. But all of these can be categorized under either Quantitative or Qualitative
+Analysis techniques which are more generic. The methodology discussed above is contingent upon
+the  specific requirements  of the organization,  including considerations such as setup  cost,
+technological stack, business ideology, and customer needs.
+
+    10.8 DATA ASSURANCE
+Data Assurance focuses on data quality and is important because we need:
+♦     accurate and timely information to manage services and accountability.
+♦    good information to manage service effectiveness.
+♦     to prioritize and ensure the best use of resources.
+Data Assurance can be achieved by an effective data quality management process by implementing
+a balanced set of practices to prevent future data quality issues and to cleanse data that does not
+meet the data quality Key Performance Indicators (KPIs) needed to achieve the established business
+objectives. The data quality KPIs will typically be measured on the core business data assets within
+the data quality dimensions as data uniqueness, completeness, consistency, conformity, precision,
+relevance, timeliness, accuracy, validity, and integrity. The data quality KPIs must relate to the KPIs
+used to measure business performance in general. The practices used to prevent data quality issues
+and eventual data cleansing includes these disciplines:
+♦    Data Governance: Data governance (DG)  is the process of managing the availability,
+        usability, integrity, and security of the data in enterprise systems, based on internal data
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.21
+
+      standards and policies that also control data usage. Effective data governance ensures that
+      data is consistent and trustworthy and doesn’t get misused.  It’s increasingly  critical as
+       organizations face new data privacy regulations and rely more and more on data analytics to
+      help  optimize  operations and  drive  business  decision-making. A  well-designed  data
+      governance program typically includes a governance team, a steering committee that acts as
+       the governing body, and a group of data stewards. They work together to create the standards
+      and policies for governing data, as well as implementation and enforcement procedures that
+      are primarily carried out by the data stewards. Ideally, executives and other representatives
+      from an organization’s business operations take  part,  in addition  to the IT and data
+     management teams.
+♦    Data Profiling: Data profiling is the process of examining, analyzing, and creating useful
+      summaries of data. The process yields a high-level overview which aids in the discovery of
+      data quality issues, risks, and overall trends. Data profiling produces critical insights into data
+       that companies can then leverage to their advantage.
+♦    Data Matching: Data matching refers to the process of comparing two different sets of data
+      and matching them against each other. The purpose of the process is to find the data that
+       refer to the same entity. Many a times, the data comes from two or more different sets of data
+      and have no common identifiers. But data matching is also useful to detect duplicate data
+       within a database.
+♦    Data Quality Reporting: Data quality reporting is the process of removing and recording all
+      compromising data. This should be designed to follow a natural process of data rule
+      enforcement. Once exceptions have been identified and captured, they should be aggregated
+      so that quality patterns can be identified.
+♦    Master Data Management (MDM): Master data represents “data about the business entities
+       that provide context for business transactions”. The most found categories of master data are
+       parties, products, financial structures, and locational concepts. Master data management
+     (MDM) is a technology-enabled discipline in which business and IT work together to ensure
+       the uniformity, accuracy, stewardship, semantic consistency, and accountability  of the
+       enterprise’s official shared master data assets.
+♦    Customer Data Integration (CDI): Customer data integration (CDI)  is the process of
+      combining and organizing customer data from different databases into a single more usable
+      and accessible form to enhance analytical capabilities. For example, a company might use
+      data integration to run an ad campaign that targets their most engaged customers.
+♦    Product Information Management (PIM): Product information management is the process
+       of managing all the information required to market and sell products through distribution
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+10.22           DIGITAL ECOSYSTEM AND CONTROLS
+
+      channels. This product data is created by an internal organization to support a multichannel
+      marketing strategy.
+♦     Digital Asset Management (DAM): A digital asset management solution is a software and
+      systems solution that provides a systematic approach to  efficiently storing, organizing,
+      managing,  retrieving, and  distributing an  organization’s  digital  assets.  Digital  Asset
+     Management (DAM) can be used to refer to both a business process and a form of information
+     management technology, or a digital asset management system. DAM functionality helps
+     many organizations create a centralized place where they can access their media assets.
+     The digital asset is a key component of the DAM process. It is any file type of value that is
+     owned by an enterprise or individual, comes in a digital format, is searchable via metadata,
+      and includes access and usage rights. There are many types of digital assets, including but
+       not limited to Documents, Images, Audio content, Video, Animations, Media files, Graphics,
+       Presentations, any digital media that includes the right to use etc.
+
+    10.9 INFORMATION  TECHNOLOGY  ACT,  2000  BASED
+      REGULATORY COMPLIANCES
+The Information Technology Act, 2000 (also known as ITA-2000, or the IT Act) is an Act of
+the Indian Parliament notified on 17th October 2000. India became the 12th nation in the world to
+adopt cyber laws by passing the Act.  It is the primary law in India dealing with cybercrime and
+electronic commerce. The Information Technology  Act, 2000 was enacted  to provide  legal
+recognition for transactions carried out by means of electronic data interchange and other means of
+electronic communication, commonly referred to as "electronic commerce", which involve the use of
+alternatives to paper-based methods of communication and storage of information, to facilitate
+electronic filing of documents with the Government agencies and further to amend the Indian Penal
+Code, the Indian Evidence Act, 1872, the Bankers' Books Evidence Act, 1891 and the Reserve Bank
+of India Act, 1934 and for matters connected therewith or incidental thereto.
+The IT Act was amended in 2008.  It introduced Section 66A which penalized sending "offensive
+messages".  It also introduced Section 69, which gave authorities the power of "interception or
+monitoring or decryption  of any information through any computer resource". Additionally,  it
+introduced provisions addressing - pornography, child porn, cyber terrorism and voyeurism.
+The provisions of the Information Technology Act 2000 and the amendments of 2008 are simple to
+understand and most of these are self-explanatory. In modern enterprises, most of the critical
+information is input, processed and stored in computers even in the case of small and medium
+enterprises. Hence, the regulatory provisions and impact of this data being available electronically,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.23
+
+the risks of it being misused and regulatory provisions of such non-compliance has to be understood
+and also communicated to the client to mitigate the control weaknesses and ensure compliance.
+The objectives of the Act are given as follows:
+♦    To grant legal recognition for transactions carried out by means of electronic data interchange
+      and other means of electronic communication commonly referred to as “electronic commerce”
+        in place of paper-based methods of communication.
+♦    To give legal recognition to Digital signatures for authentication of any information or matter,
+      which requires authentication under any law.
+♦    To facilitate electronic filing of documents with Government departments.
+♦    To facilitate electronic storage of data.
+♦    To facilitate and give legal sanction to electronic fund transfers between banks and financial
+        institutions.
+♦    To give legal recognition for keeping books of accounts by bankers in electronic form.
+♦    To amend the Indian Penal Code, the Indian Evidence Act, 1872, the Banker’s Book Evidence
+       Act, 1891, and the Reserve Bank of India Act, 1934.
+Some of the key issues of electronic information impacting enterprises and auditors are as follows:
+♦     Authenticity: How do we implement a system that ensures that transactions are genuine and
+      authorized?
+♦     Reliability: How do we rely on information which does not have physical documents?
+♦     Accessibility: How do we gain access and authenticate this information, which is digital
+      form?
+What are the privacy requirements under the Information Technology Act?
+Under the Act, the Ministry of Electronics & Information Technology  of  India, develops and
+promulgates specific rules and regulations. In 2011, the newly enacted privacy rules established a
+comprehensive set of privacy and personal data protection requirements. The Indian privacy regime
+is quite strict, for example - a written consent is required for collection and processing of personal
+data (a letter, fax or email shall normally suffice).
+The Rules offer special protection for Sensitive Personal Information (SPI) that includes passwords,
+financial information, credit card and debit card details, physical, physiological, and mental health
+conditions, sexual orientation, medical records and history, and biometric information of individuals.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+10.24           DIGITAL ECOSYSTEM AND CONTROLS
+
+Under the Rules,  all organizations, collecting personal data, must develop and make readily
+accessible a privacy notice that would clearly elaborate what personal data is being collected from
+the individuals, for what purposes and duration, and with whom it will or may be shared. Likewise,
+the privacy notice must explain how personal data is being protected from cyber-attacks and unlawful
+access.
+What are the cybersecurity requirements under the Information Technology Act?
+The above-mentioned  “Information Technology Rules”  also address  cybersecurity and data
+protection questions by mandating all entities that collect or process personal data, to comply with
+reasonable security practices and procedures.
+Furthermore, the requisite compliance must be thoroughly documented to explain implementation of
+adequate managerial,  technical, operational, and physical security  controls. The ISO 27001
+standard is expressly mentioned as an example of the reasonable security standard that evidences
+proper adherence to the data security requirements imposed by the Rules under the Act. An
+independent external entity shall certify compliance with such a standard by the virtue of annual
+security audits.
+In a nutshell, under the Rules, virtually all Indian companies, as well as foreign businesses that do
+business in India, are required to abide by the norms of ISO 27001 or another similar standard.
+Among the specific security measures required to comply are holistic IT asset inventory, information
+classification, regular risk assessments, continuous security monitoring, incident detection and
+response plan, security training and awareness program, annual penetration testing and ongoing
+vulnerability scanning for external systems that process or store personal data.
+Additionally, individuals whose personal data is stolen due to poor or insufficient cybersecurity
+practices in violation of the above-mentioned Rules, may also file a civil lawsuit claiming damages
+under Section 43A of IT Act 2000.
+Keys Provisions of IT Act
+The IT Act provides the legal framework for electronic governance by giving recognition to the
+electronic records and digital signature. It also deals governing of various nature of cybercrimes and
+facilitate electronic commerce.  It also prescribes penalties provisions in case of violations of the
+requirements of the IT Act.
+I.    Relevant terminologies under the Information technology Act, 2000:
+The IT Act, 2000 defines the terms Access in Section 2(a), computer in Section 2(i), computer
+network in Section (2j), data in Section 2(o) and information in Section 2(v). These are all the
+necessary ingredients that are useful to technically understand the concept of Cyber Crime.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.25
+
+2(a)  “Access” with its grammatical variations and cognate expressions means gaining entry into,
+       instructing or communicating with the logical, arithmetical, or memory function resources of
+      a computer, computer system or computer network;
+2(i)   “Computer” means any electronic, magnetic, optical or other high-speed data processing
+      device or system which performs logical, arithmetic, and memory functions by manipulations
+       of electronic, magnetic or optical impulses, and includes all input, output, processing, storage,
+      computer software, or communication  facilities which are connected or related  to the
+      computer in a computer system or computer network;
+2(j)   “Computer Network” means the interconnection of one or more Computers or Computer
+      systems or Communication device through -
+          (i)     the use of satellite, microwave, terrestrial line, wire, wireless or other communication
+            media; and
+           (ii)    terminals or a complex consisting  of two or more interconnected computers or
+            communication device whether or not the interconnection is continuously maintained;
+2(o)  “Data” means a representation of information, knowledge, facts, concepts or instructions
+      which are being prepared or have been prepared in a formalized manner, and is intended to
+      be processed, is being processed or has been processed in a computer system or computer
+      network and may be in any form (including computer printouts magnetic or optical storage
+      media, punched cards, punched tapes) or stored internally in the memory of the computer;
+2(v)   “Information”  includes  data, message,  text, images, sound,  voice, codes, computer
+      programmes, software and databases or microfilm or computer generated microfiche;
+       In a cyber-crime, computer or the data are the target or the object of offence or a tool in
+      committing some other offence. The definition of term computer elaborates that computer is
+       not only the computer or laptop on our tables, as per the definition computer means any
+       electronic, magnetic, optical or other high speed data processing devise of system which
+      performs logical, arithmetic and memory function by manipulations of electronic, magnetic or
+       optical impulses, and includes all input, output, processing, storage, computer software or
+      communication facilities which are connected or related to the computer in a computer system
+       or computer network. Thus, the definition is much wider to include mobile phones, automatic
+      washing machines, micro-wave ovens etc.
+II.   Some of key provisions of IT related offences:
+In case of violation of any compliances related to the cyber security and of privacy requirements,
+punishments and penalties are prescribed under the said Act. Following are the relevant penalties:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+10.26           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦    Section 43: Penalty and compensation for damage to computer, computer system,
+       etc.
+♦    Section 43A: Compensation for failure to protect data.
+♦    Section 65: Tampering with Computer Source Documents.
+♦    Section 66: Computer Related Offences.
+♦    Section 66B: Punishment for dishonestly receiving stolen computer resource or
+     communication device.
+♦    Section 66C: Punishment for identity theft.
+♦    Section 66D: Punishment for cheating by personation by using computer resource.
+♦    Section 66E: Punishment for violation of privacy.
+♦    Section 66F: Punishment for cyber terrorism.
+♦    Section 67: Punishment for publishing or transmitting obscene material in electronic
+      form.
+♦    Section 67A: Punishment for publishing or transmitting of material containing sexually
+       explicit act, etc. in electronic form.
+♦    Section 67B: Punishment for publishing or transmitting of material depicting children
+       in sexually explicit act, etc. in electronic form.
+[Section 43] Penalty and compensation for damage to computer, computer system, etc.
+If any person without permission of the owner or any other person who is incharge of a computer,
+computer system or computer network -
+(a)    accesses or secures access to such computer, computer system or computer network or
+      computer resource;
+(b)    downloads, copies or extracts any data, computer database or information from such
+      computer, computer system or computer network including information or data held or stored
+        in any removable storage medium;
+(c)    introduces or causes to be introduced any computer contaminant or computer virus into any
+      computer, computer system or computer network;
+(d)   damages or causes to be damaged any computer, computer system or computer network,
+       data, computer database or any other programmes residing in such computer, computer
+      system or computer network;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.27
+
+(e)    disrupts or causes disruption of any computer, computer system or computer network;
+(f)    denies or causes the denial of access to any person authorized to access any computer,
+      computer system or computer network by any means;
+(g)    provides any assistance to any person to facilitate access to a computer, computer system
+       or computer network in contravention of the provisions of this Act, rules or regulations made
+       thereunder;
+(h)    charges the services availed of by a person to the account of another person by tampering
+       with or manipulating any computer, computer system, or computer network;
+(i)     destroys, deletes or alters any information residing in a computer resource or diminishes its
+      value or utility or affects it injuriously by any means;
+(j)     steal, conceals, destroys or alters or causes any person to steal, conceal, destroy or alter
+      any computer source code used for a computer resource with an intention to cause damage,
+      he shall be liable to pay damages by way of compensation to the person so affected.
+Explanation - For the purposes of this section -
+(i)    "computer contaminant" means any set of computer instructions that are designed—
+       (a)    to modify, destroy, record, transmit data or programme residing within a computer,
+            computer system or computer network; or
+       (b)    by any means to usurp the normal operation of the computer, computer system, or
+            computer network;
+(ii)   "computer database" means a representation of information, know-ledge, facts, concepts
+       or instructions in text, image, audio, video that are being prepared or have been prepared in
+      a formalized manner or have been produced by a computer, computer system or computer
+      network and are intended for use in a computer, computer system or computer network;
+(iii)   "computer virus" means any computer instruction, information, data or programme that
+       destroys, damages, degrades or adversely affects the performance of a computer resource
+       or attaches itself to another computer resource and operates when a programme, data or
+       instruction is executed or some other event takes place in that computer resource;
+(iv)   "damage" means to destroy, alter, delete, add, modify or rearrange any computer resource
+      by any means;
+(v)   "computer source code" means the listing of programmes, computer commands, design
+      and layout and programme analysis of computer resource in any form.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+10.28           DIGITAL ECOSYSTEM AND CONTROLS
+
+[Section 43A] Compensation for failure to protect data
+Where a body corporate, possessing, dealing or handling any sensitive personal data or information
+in a computer resource which  it owns, controls or operates, is negligent in implementing and
+maintaining reasonable security practices and procedures and thereby causes wrongful loss or
+wrongful gain to any person, such body corporate shall be liable to pay damages by way of
+compensation to the person so affected.
+Explanation - For the purposes of this section -
+(i)    "body corporate" means any company and includes a firm, sole proprietorship or other
+       association of individuals engaged in commercial or professional activities;
+(ii)    "reasonable security practices and procedures" means security practices and procedures
+      designed to protect such information from unauthorized access, damage, use, modification,
+       disclosure or impairment, as may be specified in an agreement between the parties or as may
+      be specified in any law for the time being in force and in the absence of such agreement or
+      any law, such reasonable security practices and procedures, as may be prescribed by the
+       Central Government in consultation with such professional bodies or associations as it may
+     deem fit;
+(iii)    "sensitive personal data or information" means such personal information as may be
+       prescribed by the Central Government in consultation with such professional bodies or
+       associations as it may deem fit.
+[Section 65] Tampering with Computer Source Documents
+Whoever knowingly or intentionally conceals, destroys or alters or intentionally or knowingly causes
+another to conceal, destroy or alter any computer source code used for a computer, computer
+program, computer system or computer network, when the computer source code is required to be
+kept or maintained by law for the time being in force, shall be punishable with imprisonment up to
+three years, or with fine which may extend up to two lakh rupees, or with both. The explanation
+clarifies that ‘Computer Source Code’’ means the listing of programme, Computer Commands,
+Design and layout and program analysis of computer resource in any form.
+[Section 66] Computer Related Offences
+If any person, dishonestly, or fraudulently, does any act referred to in Section 43, he shall be
+punishable with imprisonment for a term which may extend to three years or with fine which may
+extend to 5 lakh rupees or with both.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.29
+
+[Section  66B]  Punishment  for  dishonestly  receiving  stolen  computer  resource  or
+communication device
+Whoever dishonestly receives or retains any stolen computer resource or communication device
+knowing or having reason to believe the same to be stolen computer resource or communication
+device, shall be punished with imprisonment of either description for a term which may extend to
+three years or with fine which may extend to rupees one lakh or with both.
+[Section 66C] Punishment for identity theft
+Whoever, fraudulently or dishonestly make use of the electronic signature, password or any other
+unique identification feature of any other person, shall be punished with imprisonment of either
+description for a term which may extend to three years and shall also be liable to fine which may
+extend to rupees one lakh.
+[Section 66D] Punishment for cheating by personation by using computer resource
+Whoever, by means for any communication device or computer resource cheats by personating,
+shall be punished with imprisonment of either description for a term which may extend to three years
+and shall also be liable to fine which may extend to one lakh rupees.
+[Section 66E] Punishment for violation of privacy
+Whoever, intentionally or knowingly captures, publishes or transmits the image of a private area of
+any person without his or her consent, under circumstances violating the privacy of that person, shall
+be punished with imprisonment which may extend to three years or with fine not exceeding two lakh
+rupees, or with both.
+[Section 66F] Punishment for cyber terrorism
+(1)   Whoever -
+       (A)    with intent to threaten the unity, integrity, security or sovereignty of India or to strike
+               terror in the people or any section of the people by –
+                    (i)    denying or cause the denial of access to any person authorized to access
+                  computer resource; or
+                      (ii)    attempting to penetrate or access a computer resource without authorization or
+                  exceeding authorized access; or
+                      (iii)    introducing or causing to introduce any computer contaminant,
+           and by means of such conduct causes or is likely to cause death or injuries to persons
+              or damage to or destruction of property or disrupts or knowing that it is likely to cause
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+10.30           DIGITAL ECOSYSTEM AND CONTROLS
+
+          damage or disruption of supplies or services essential to the life of the community or
+             adversely affect the critical information infrastructure specified under section 70; or
+       (B)    knowingly  or  intentionally penetrates or accesses a computer resource without
+              authorization or exceeding authorized access, and by means of such conduct obtains
+            access to information, data or computer database that is restricted for reasons of the
+              security of the State or foreign relations; or any restricted information, data or computer
+             database, with reasons to believe that such information, data or computer database
+            so obtained may be used to cause or likely to cause injury to the interests of the
+             sovereignty and integrity of India, the security of the State, friendly relations with
+              foreign States, public order, decency or morality, or in relation to contempt of court,
+            defamation or incitement to an offence, or to the advantage of any foreign nation,
+            group of individuals or otherwise, commits the offence of cyber terrorism.
+(2)   Whoever commits  or  conspires  to commit cyber  terrorism  shall be  punishable  with
+      imprisonment which may extend to imprisonment for life.
+[Section 67] Punishment for publishing or transmitting obscene material in electronic form
+Whoever publishes or transmits or causes to be published or transmitted in the electronic form, any
+material which is lascivious or appeals to the prurient interest or if its effect is such as to tend to
+deprave and corrupt persons who are likely, having regard to all relevant circumstances, to read,
+see or hear the matter contained or embodied in  it, shall be punished on  first conviction with
+imprisonment of either description for a term which may extend to three years and with fine which
+may extend to five lakh rupees and in the event of a second or subsequent conviction with
+imprisonment of either description for a term which may extend to five years and also with fine which
+may extend to ten lakh rupees.
+[Section 67A] Punishment for publishing or transmitting of material containing sexually
+explicit act, etc. in electronic form
+Whoever publishes or transmits or causes to be published or transmitted in the electronic form any
+material which contains sexually explicit act or conduct shall be punished on first conviction with
+imprisonment of either description for a term which may extend to five years and with fine which may
+extend to ten lakh rupees and in the event of second or subsequent conviction with imprisonment of
+either description for a term which may extend to seven years and also with fine which may extend
+to ten lakh rupees.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.31
+
+[Section 67B] Punishment for publishing or transmitting of material depicting children in
+sexually explicit act, etc. in electronic form
+Whoever, -
+(a)    publishes or transmits or causes to be published or transmitted material in any electronic form
+      which depicts children engaged in sexually explicit act or conduct; or
+(b)    creates text or digital images, collects, seeks, browses, downloads, advertises, promotes,
+      exchanges or distributes material in any electronic form depicting children in obscene or
+      indecent or sexually explicit manner; or
+(c)     cultivates, entices or induces children to online relationship with one or more children for and
+      on sexually explicit act or in a manner that may offend a reasonable adult on the computer
+       resource; or
+(d)     facilitates abusing children online; or
+(e)    records in any electronic form own abuse or that of others pertaining to sexually explicit act with
+       children, shall be punished on first conviction with imprisonment of either description for a term
+      which may extend to five years and with a fine which may extend to ten lakh rupees and in the
+      event of second or subsequent conviction with imprisonment of either description for a term
+      which may extend to seven years and also with fine which may extend to ten lakh rupees:
+PROVIDED that provisions of Section 67, Section 67A and this section does not extend to any book,
+pamphlet, paper, writing, drawing, painting representation or figure in electronic form -
+(i)     the publication of which is proved to be justified as being for the public good on the ground
+       that such book, pamphlet, paper writing, drawing, painting, representation or figure is in the
+       interest of science, literature, art or learning or other objects of general concern; or
+(ii)    which is kept or used for bona fide heritage or religious purposes.
+Explanation - For the purposes of this section, "children" means a person who has not completed
+the age of 18 years.
+
+   10.10 DIGITAL PERSONAL DATA PROTECTION ACT, 2023
+Personal data is information that relates to an identified or identifiable individual. Businesses as well
+as government entities process personal data for delivery of goods and services. Processing
+personal  data  allows  understanding  preferences  of  individuals,  which may be  useful  for
+customization, targeted advertising, and developing recommendations and may also aid law
+enforcement. Unchecked processing may have adverse implications for the privacy of individuals,
+which has been recognized as a fundamental right,  that may further subject individuals to harm
+such as financial loss, loss of reputation, and profiling.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+10.32           DIGITAL ECOSYSTEM AND CONTROLS
+
+The Digital  Personal  Data  Protection  Act, 2023 (DPDP  Act or DPDPA-2023)  is an  Act  of
+the Parliament of India to provide for the processing of digital personal data within the territory of
+India in a manner that recognizes both the right of individuals to protect their personal data and the
+need to process such personal data for lawful purposes and for matters connected therewith or
+incidental thereto. The DPDP Act is India's first data protection act, and it establishes a framework
+for the processing of personal data in India.
+Highlights of The Act
+♦     Applicability: The Act applies to the processing of digital personal data within India where
+      such data is either collected online or collected offline and is digitized. It will also apply to the
+      processing of personal data outside India  if  it is for offering goods or services in India.
+      Personal data is defined as any data about an individual who is identifiable by or in relation
+       to such data. Processing is defined as either wholly or partially automated operations, or a
+       set of operations, performed on digital personal data. This includes collection, storage, use,
+      and sharing of such data.
+♦    Consent:  Personal data may be processed only for a lawful purpose after obtaining the
+      consent of the individual. Notice that should contain details about the personal data to be
+       collected and the purpose of processing, must be given before seeking consent. Consent
+     may be withdrawn at any point in time and will not be required for ‘legitimate uses’ including:
+          (i) specified purpose for which data has been provided by an individual voluntarily,  (ii)
+       provision  of  benefit  or service by the government,  (iii) medical emergency, and  (iv)
+      employment. For individuals below 18 years of age, consent will be provided by the parent or
+       the legal guardian.
+♦    Rights and duties of the data principal:  An  individual/citizen whose data  is being
+      processed (data principal), will have the right to (Fig. 10.9):
+
+                          Information                    Correction and Erasure
+                •Individuals will have the right to seek   •Individuals  shall have the  right  to
+             more information on how their data is    correct  inaccurate/incomplete  data
+                processed, and the data fiduciary will   and erase data  that  is no longer
+             make this information available in a    required for processing.
+                  clear and understandable way.
+                    Grievance Redressal                   Nominate
+                •Individuals shall have the right to use   •Individuals can nominate any other
+                  readily    available   means     of    individual to exercise these rights in
+                  registering a grievance with a data    the event of death or incapacity.
+                   fiduciary.
+
+                                   Fig.10.9: Rights of Data Principal
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.33
+
+      Data principals will have certain duties, the violation of which will be punishable with a penalty
+       of up to ` 10,000. They must not: (i) register a false or frivolous complaint, and (ii) furnish
+      any false particulars or impersonate another person in specified cases.
+
+♦    Obligations of data  fiduciaries: The  entity determining the purpose and means  of
+       processing, (data fiduciary), must: (i) make reasonable efforts to ensure the accuracy and
+      completeness of data, (ii) build reasonable security safeguards to prevent a data breach, (iii)
+       inform the Data Protection Board of India and affected persons in the event of a breach, and
+         (iv) erase personal data as soon as the purpose has been met and retention is not necessary
+        for legal purposes (storage limitation). In the case of government entities, storage limitation
+      and the right of the data principal to erasure will not apply.
+
+♦    Transfer of personal data outside India: The Act allows transfer of personal data outside
+       India, except to countries restricted by the central government through notification.
+
+♦    Exemptions: Rights of the data principal and obligations of data fiduciaries (except data
+       security) will not apply in specified cases. These include: (i) prevention and investigation of
+       offences, and  (ii) enforcement of legal rights or claims. The central government may, by
+        notification, exempt certain activities from the application of the Act. These include:  (i)
+      processing by government entities in the interest of the security of the state and public order,
+      and (ii) research, archiving, or statistical purposes.
+
+♦    Data Protection Board of India: The central government will establish the Data Protection
+      Board of India. Key functions of the Board include: (i) monitoring compliance and imposing
+       penalties, (ii) directing data fiduciaries to take necessary measures in the event of a data
+      breach, and  (iii) hearing grievances made by affected persons. Board members  will be
+      appointed for two years and will be eligible for re-appointment. The central government will
+       prescribe details such as the number of members of the Board and the selection process.
+      Appeals against the decisions of the Board will lie with Telecom Disputes Settlement &
+       Appellate Tribunal (TDSAT).
+
+♦     Penalties: The schedule to the Act specifies penalties for various offences such as up to: (i)
+     ` 200 crore for non-fulfilment of obligations for children, and (ii) ` 250 crore for failure to take
+       security measures to prevent data breaches. Penalties will be imposed by the Board after
+      conducting an inquiry.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+10.34           DIGITAL ECOSYSTEM AND CONTROLS
+
+The General Data Protection Regulation (GDPR)
+The DPDPA is similar to The General Data Protection Regulation (GDPR) of the European
+Union. The GDPR is unified data privacy laws across the European Union (EU) and European
+Economic Area (EEA). The objective of the GDPR is to protect individuals and data that describes
+them and also ensure that the organization must collect that data in a responsible manner. The
+GDPR strengthens the individual’s fundamental rights in this digital age by protecting their personal
+data from unauthorized access, use, disclosure or destruction and also facilitates the organizations
+by clarifying rules  for companies and public bodies  in the  digital market. Indian government
+designates data fiduciary (data Controller) or a class of data fiduciary on the basis of volume and
+sensitivity of personal data it needs to process; risk to the data protection rights of the data principals;
+potential impact on the sovereignty and integrity of country; risk to electoral democracy; security of
+the state and public order to carry out risk mitigation measures. European countries have national
+bodies that are responsible for protecting personal data. The GDPR established the European Data
+Protection Board which is an independent European body that ensures the consistent application of
+data protection rules throughout the EU.
+Principles of The General Data Protection Regulation
+The GDPR follows seven principles which are based on its regulations and rules of compliance
+related to personal data of individuals. These are as follows:
+♦    Lawfulness, fairness and transparency:  It states that the individuals should be clearly
+      informed about the purpose for which their data will be used. The processing of data should
+      be lawful, fair and transparent.
+♦    Purpose Limitation: It states that data should be collected only for specific purpose. The
+       organizations should explicitly outline the end goal for which the data is collected, and the
+      time required to carry out that goal.
+♦    Data minimization: The data collected should be collected in the smallest amount that is
+       absolutely necessary for specific purpose. Organizations cannot collect personal data for the
+        possibility that it could be useful later on.
+♦    Accuracy: The data collected by the organization should be accurate and up-to-date. The
+      data should be changed whenever a request is made.
+♦    Storage limitation: The data should be stored as long as it is necessary for specific purpose.
+       After an organization no longer requires personal data, for the reason for which  it was
+       gathered, it should be deleted.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.35
+
+♦     Integrity and confidentiality: The processing of data should use appropriate protection
+      measures to ensure security, integrity and confidentiality of data.
+♦     Accountability: The data controller should be responsible  for ensuring the data  is  in
+      compliance with the GDPR. This indicates that organizations should be able to provide
+      evidence of the measure they have taken to ensure compliance.
+
+
+                                                  Lawfulness,
+                                                       fairness &
+                                                transparency
+
+                                     Integrity &                       Purpose
+                                  Confidentiality                        Limitation
+
+                                   Principles
+                                  of GDPR
+
+                                  Storage                          Data
+                                   Limitation                       Minimization
+
+
+                                                Accuracy
+
+
+                                Fig.10.9: Principles of the GDPR
+Similarities between GDPR and DPDPA: The DPDPA follows many similar principles with those
+set out in the GDPR and specifies the rules for data processor and right for data principals. Both the
+DPDPA and the GDPR work on data protection, and contain similar provision for the security
+measures to be adopted while processing personal data, hence have many similarities which are as
+follows:
+♦    Both of them impose obligations to organizations that process personal data such as report
+      data breaches to relevant authority.
+♦    Both contain the provisions for enforcement and penalties in case of non-compliance of
+       regulation.
+♦    Both the DPDPA and the GDPR permit an individual, number of rights over personal data
+      such as the right to erase, object and access to the processing of personal data.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+10.36           DIGITAL ECOSYSTEM AND CONTROLS
+
+Difference between the DPDPA and the GDPR
+♦    The DPDPA is applicable to  all organizations that process personal data of individuals
+       irrespective whether the organization  is located  in India or not whereas the GDPR  is
+       applicable to all organizations that process personal data of individual located in European
+      Union, irrespective whether the organization is located in EU or not.
+♦    The DPDPA is applicable to all personal data excluding data available publically. There is no
+       special category of data whereas the GDPR is applicable to data available publically in scope.
+           It recognizes the special categories of data such as racial origin, philosophical or political
+       views.
+♦   On the grounds of processing, the DPDPA is consent centric and has lesser legitimate
+       interest for processing. The GDPR has broader legitimate interests for processing.
+♦    The GDPR is applicable to all personal data whether data is digitized or not whereas the
+     DPDPA is applicable to only personal digitized data.
+♦     In GDPR, the age of consent ranges between 13-16 years  depending on the individual
+     member state while in the DPDPA the age of consent is 18 years. The processing of the data
+       of an individual below 18 years needs “verifiable parents consent”.
+
+SUMMARY
+The chapter has provided deep insight into the security mechanisms related to data. The discussion
+is on Data protection that safeguards information from loss through backup and recovery, whereas
+data security that refers specifically to measures taken to protect the integrity of the data itself
+against manipulation and malware.  It provides defense from internal and external threats. Data
+privacy refers to controlling access to the data. Furthermore, the discussion is on Digital Personal
+Data Protection Act, 2023 that provides for the processing of digital personal data in a manner that
+recognizes both the rights of the individuals to protect their personal data and the need to process
+such personal data for lawful purposes and for matters connected therewith or incidental thereto.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+DIGITAL DATA AND ANALYSIS             10.37
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.     Mr. Neeraj is working on a project on healthcare system where he has to perform data
+       analysis on the database of patients of last five years in ABC Hospital. The hospital provided
+      him inconsistent data with lots of errors, duplicate and missing values. He has to apply various
+      techniques to get rid of these anomalies. Identify from the following process which he can
+      use to get rid of these anomalies.
+        (a)    Cleaning of data
+        (b)    Selection of data
+        (c)    Integration of data
+        (d)    Data Visualization
+2.    The key provisions of IT related offences are for the smooth working of bank. In purview of
+      same, what is the primary objective of SPI?
+        (a)    Protecting Computer Software
+        (b)    Securing critical Information
+        (c)    Sensitive Personal Information
+        (d)    Identifying sensitive Information
+3.    Which of the following is not a type of Data Analytics technique?
+        (a)    Descriptive
+       (b)    Deductive
+        (c)    Predictive
+       (d)    Prescriptive
+4.    What does the term “data security” encompass?
+       (a)       It is the protection of physical assets of an organization.
+       (b)       It provides tools and policies to restrict access to the data.
+        (c)       It is to ensure the integrity of data.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+10.38           DIGITAL ECOSYSTEM AND CONTROLS
+
+       (d)       It is a guideline for how data should be collected or handled, based on its sensitivity
+           and importance.
+5.   ABC Corporative bank strictly follows the policy of Sensitive Personal Information. Choose
+       the attribute that is not defined as Sensitive Personal Information.
+       (a)   Home address
+       (b)   Password
+        (c)    Financial information
+       (d)    Biometric information
+
+ANSWERS/SOLUTIONS
+     1.         (a)        2.        (c)        3.        (b)        4.        (c)        5.       (a)
+
+
+© The Institute of Chartered Accountants of India

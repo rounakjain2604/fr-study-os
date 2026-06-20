@@ -1,0 +1,2955 @@
+Source PDF: 07_SPOM/Set_C_10_Forex_Treasury_Management/005 - CHAPTER 5- TREASURY-FOREX - 79396bos63468-cp5.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_10_Forex_Treasury_Management\005 - CHAPTER 5- TREASURY-FOREX - 79396bos63468-cp5.pdf
+Extracted at: 2026-05-31T10:35:23+05:30
+Pages: 72
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          5
+         1
+TREASURY – FOREX
+
+
+                      LEARNING OUTCOMES
+After going through the chapter, students shall be able to understand:
+   Foreign Exchange Markets
+   Forex Concepts
+   International Treasury
+   Derivative Markets
+   Interest Rate Derivatives
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+5.2          FOREX AND TREASURY MANAGEMENT
+
+ CHAPTER OVERVIEW
+
+                          Treasury-Forex
+
+
+                                                      Kinds of Inter-Bank Forex
+                                                             Markets
+
+
+                   Foreign Exchange Markets             Nature of Transactions
+
+
+                                                  Cross Border Currency Flows
+
+
+                                                              Automatic Route
+                             External Commercial
+                               Borrowings
+                                                               Approval Route
+                      Control
+                                                           Current Account Transaction                         Exchange                          Transactions under FEMA
+      of
+                                                               Capital Account Transaction
+                             Liberalised Remittance
+                          Scheme                                            Liberalization
+
+                      FDI vs FPI and its Pros and
+                             Cons
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+TREASURY – FOREX             5.3
+
+
+                  Role of Banks in Forex Market
+
+
+                    Factors Impacting Forex Market
+
+
+                      Convertibility & Balance of Payment
+
+
+                                                       Cross Currency
+
+                         Exchange Rate Quotes        Spreads & Pips
+
+                                Spot Rates                  Bid & Ask
+
+                          Forex           Cross Rates
+          in
+
+                              Forward Rates                                         Concepts
+
+                         Premium & Discount
+
+                            Forward Contracts
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+5.4          FOREX AND TREASURY MANAGEMENT
+
+
+                            Market Participants             Foreign Exchange
+
+
+                          Forex Treasury Products            Forex Options
+                                  Treasury
+                                     Volatalilty of Major                                                       Dual Currency Deposits
+                                                        International          PortfolioCurrenciesManagement of
+                               Global Securities
+
+                             Currency Trading
+
+
+                                                  Forwards
+
+
+                                                      Futures
+
+
+                            Derivative Market            Options
+
+
+                                         Non Deliverable
+                                                    Options
+
+
+                                             Swaps
+
+
+                    Interest Rate Derivatives
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+TREASURY – FOREX             5.5
+
+     1.  FOREIGN EXCHANGE MARKETS
+The foreign exchange market in India started in earnest more than four decades ago when in 1978
+the government allowed banks to trade in foreign exchange with one another. Today substantial
+trading in foreign exchange continues to take place in the inter-bank market. The market consists of
+over 90 Authorized Dealers (mostly banks) who transact currency among themselves and come out
+“square” or without exposure at the end of the trading day. Trading is regulated by the Foreign
+Exchange Dealers Association of India (FEDAI), a self- regulatory association of dealers.
+Since 2001, clearing and settlement functions in the foreign exchange market are largely carried out
+by the Clearing Corporation of India Limited (CCIL). The liberalization process has significantly
+boosted the foreign exchange market in the country by allowing both banks and corporations greater
+flexibility in holding and trading foreign currencies. The growth of the foreign exchange market in the
+last few years has been nothing less than phenomenal.
+1.1  Different Kinds of Inter-Bank Forex Markets
+
+The top foreign exchange market where banks trade multiple currencies is called the interbank
+market. The banks can transact with one other directly or via online brokerage services. The two
+rivals in the electronic brokering platform market, Thomson Reuters Dealing and Electronic Broking
+Services (EBS), jointly link more than a thousand banks. Most wealthy countries have variable
+exchange rates on their currencies. These currencies have values that fluctuate in relation to other
+currencies rather than set values.
+The interbank market is decentralized and lacks regulation. These currency exchange transactions
+don't happen at any one site or exchange. On the other hand, foreign exchange options are traded
+on several distinct derivatives markets and are governed in multiple jurisdictions.
+The different segments of interbank foreign exchange market are as follows:
+(i)    Spot Market: Spot market is a market for sale of security against immediate delivery, as
+      opposed to the future delivery.
+(ii)   Forward Markets: Forward markets are an over-the-counter marketplace that sets the price
+       of an underlying (currency, securities, commodity, or any other asset) for future delivery.
+      Contracts entered in the forward market are binding on the parties involved to deliver the
+       underlying at a future date at a predetermined price.
+(iii)   Futures Market: Contracts entering the futures market oblige the buyer to purchase an
+       underlying (currency, securities, commodity, or any other asset), at a predetermined future
+      date and  price. To make  trading on  futures exchange  easier,  futures  contracts are
+      standardized to provide information on the quantity and quality of the underlying asset.
+      Futures can be used to speculate on or hedge against changes in the underlying asset's
+       price.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+5.6          FOREX AND TREASURY MANAGEMENT
+
+         S.      Features             Forward                   Futures
+       No.
+         1.    Size of Contract  Forward    contracts    are  Futures    contracts    are
+                                    individually tailored and have  standardized  in  terms  of
+                            no standardized size.           quantity or amount.
+         2.    Organized       Forward contracts are traded  Futures    contracts    are
+            exchanges         in    an    over-the-counter  traded   in  the  organized
+                               market.                      exchanges.
+         3.    Settlement       Forward contracts settlement  Futures           contracts
+                               takes  place  on  the  date  settlements are made daily
+                             agreed  upon  between  the   via.  Exchange’s  clearing
+                                    parties.                      house.
+         4.     Delivery date     Forward  contracts may  be  Future  contracts’  delivery
+                                 delivered on the dates agreed  dates are fixed on a cyclical
+                           upon and in terms of actual  basis  and   hardly   take
+                                    delivery.                        place. However, it does not
+                                                                  portray  that  there  is  no
+                                                                  actual delivery.
+
+(iv)   Options Market: Contracts entered in options market gives a right to the holder of option to
+      buy  or  sell an underlying (currency,  securities, commodity, or any other asset)  at a
+      predetermined price at a predetermined date in future in exchange for a consideration called
+      as premium. In the event of options, the holder has a right and not any obligation to buy or
+        sell an underlying.
+Different platforms of foreign exchange market:
+♦    Exchange Traded: An exchange-traded market is a market in which trading happens through
+      an exchange, just like stocks.  Generally, the spot market, futures and options can be
+      exchange traded i.e. the contracts are entered into through an exchange. Clearing houses
+      are part of the exchange markets which help in the settlement of the transactions entered
+      through exchange.
+♦    Over the counter market (OTC): The OTC markets are informal markets where trades are
+       negotiated between two entities in a customized manner. Forwards market is through OTC
+      as forwards are customized contracts. Even spot transactions can happen through OTC
+       construct too.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+TREASURY – FOREX             5.7
+
+1.2  Nature of Transactions
+Since there is no central exchange or clearing house where orders are matched, the foreign currency
+market is an over the counter (OTC) market. Different market makers offer varying degrees of access
+to currencies for trading.
+The market between banks - The Electronic Brokerage System facilitates trade between sizable
+commercial banks (EBS). Only the banks they trade with will be able to access the quotes that banks
+provide in this market. Retail traders cannot directly access this market.
+The Online Market Maker: Online market makers, who mainly operate out of the US and the UK,
+give retail traders access to the FX market. These market makers typically have a relationship with
+several banks on EBS, the larger the trading volume of the market maker, the more relationships it
+likely has. These market makers usually have connections with multiple banks on EBS; the more
+trades a market maker does, the more connections it probably has.
+
+
+Market Hours
+As long as banks are operating in one of the world's main financial hubs, the forex market remains
+open for business. This goes into effect in Tokyo at the crack of dawn on Monday and ends in New
+York on Friday afternoon. The trading week lasts from Sunday night to Friday night, or roughly five
+days and twenty-four hours a day, in GMT.
+Price Reporting Trading Volume
+As long as banks are operating in one of the world's main financial hubs, the forex market remains
+open for business. This goes into effect in Tokyo at the crack of dawn on Monday and ends in New
+York on Friday afternoon. The trading week lasts from Sunday night to Friday night, or roughly five
+days and twenty-four hours a day, in GMT.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+5.8          FOREX AND TREASURY MANAGEMENT
+
+1.3  Cross Border Currency Flows
+A feature of the economy that is intricately related to the exchange rate regime followed is the
+freedom of cross-border capital flows. This relationship comes from the so-called “impossible trinity”
+or “trilemma” of international finance, which essentially states that a country may have any two but
+not all the following three things i.e., a fixed exchange rate, free flow of capital across its borders
+and autonomy in its monetary policy. Since liberalization, India has been liberalizing its foreign
+exchange flow regime while maintaining a status akin to a de facto peg to the dollar. Close on the
+heels of the adoption of market determined exchange rate (within limits) in 1993, came current
+account convertibility in 1994.
+The concept of capital account convertibility was defined as "the freedom to convert local financial
+assets into foreign financial assets and vice versa at market determined rates of exchange" by the
+Tarapore committee on capital account convertibility in 1997. The committee also outlined three
+primary prerequisites  for  this concept:  fiscal consolidation, a mandated  inflation  target, and
+strengthening of the financial system. Over time, there has been a gradual liberalization of capital
+flows that has made it possible for Indian companies to access foreign capital markets and make
+foreign direct and portfolio investments. Additionally, remittance privileges for individuals have
+significantly improved, and domestic companies have been able to expand internationally.
+Thus, to conclude,  it can be said that Cross-border payments are payment transactions between
+people, banks, or companies in different countries. These transactions can occur for a variety of
+reasons, such as international trade, remittances, travel, or e-commerce.
+1.4  Liberalization of Exchange Control
+The exchange control regulations have been liberalized over the years to facilitate the remittance of
+funds both into and out of India. The changes have been introduced on a continuous basis in line
+with the government policy of economic liberalization. Still, in a few cases, specific approvals are
+required from the regulatory authorities for foreign exchange transactions / remittances.
+The exchange control regulations in India are governed by the Foreign Exchange Management Act
+(FEMA) replacing the infamous Foreign Exchange Regulation Act (FERA) which has been found to
+be unsuccessful with the pro-liberalization policies of the Government of India. The apex exchange
+control authority in India  is the Reserve Bank of India (RBI) which regulates the law and  is
+responsible for all key approvals.
+FEMA is not only applicable to all parts of India but is also applicable to all branches, offices and
+agencies outside India which are owned or controlled by a person resident in India. FEMA regulates
+all aspects of foreign exchange and has direct implications on external trade and payments.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+TREASURY – FOREX             5.9
+
+FEMA is an important legislation which impacts foreign nationals who are working in India and
+Indians who have gone outside India.  It is important to be compliant with the exchange control
+regulations.
+FEMA is applicable all over India and to even branch, offices and agencies located outside India, if
+it relates to a person who is a resident of India.
+1.4.1 Overview of FEMA
+The Foreign Exchange Management Act, 1999 was enacted to consolidate and amend the law
+relating to foreign exchange management with the objective of facilitating external trade and
+payments and for promoting the orderly development and maintenance of foreign exchange market
+in India. In fact,  it is the central legislation that deals with inbound investments into India and
+outbound investments from India and trade and business between India and the other countries.
+
+
+1.4.2 Some Highlights of FEMA
+♦        It prohibits foreign exchange dealings undertaken other than by an authorized person.
+♦        It also makes it clear that if any person residing in India, received any Forex payment (without
+       there being a corresponding inward remittance from abroad) the concerned person shall be
+     deemed to have received the payment from a non-authorized person.
+♦    There are 7 types of current account transactions, which are totally prohibited, and therefore
+      no transaction can be undertaken relating to them. These include transactions relating to
+        lotteries, football pools, banned magazines and a few others.
+♦   FEMA and the related rules give full freedom to Residents of India (ROI) to hold or own or
+       transfer any foreign security or immovable property situated outside India.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+5.10         FOREX AND TREASURY MANAGEMENT
+
+♦     Similar freedom is also given to a resident who inherits such security or immovable property
+      from ROI.
+♦    A ROI is permitted to hold shares, securities and properties acquired by him while he was a
+      Resident or inherited such properties from a Resident.
+♦    The exchange drawn can also be used for purposes other than for which it is drawn provided
+      drawal of exchange is otherwise permitted for such purpose.
+♦     Certain prescribed limits have been substantially enhanced. For instance, residents now
+      going abroad for business purposes or for participating in conferences and seminars will not
+      need the RBI's permission to avail foreign exchange up to US$. 25,000 per trip irrespective
+       of the period of stay. Basic travel quota has been increased to US$ 10,000 per calendar year.
+1.4.3 External Commercial Borrowings (ECBs)
+It refers to commercial loans in the form of bank loans, buyers’ credit, suppliers’ credit, securitized
+instruments (e.g. floating rate notes and fixed rate bonds, non-convertible, optionally convertible or
+partially convertible preference shares) availed of from non-resident lenders with a minimum average
+maturity of 3 years.
+Further, ECB means borrowing by an eligible resident entity from outside India in accordance with
+framework decided by the Reserve Bank in consultation with the Government of India.
+ECBs can be accessed under two routes, viz,
+♦     Automatic Route
+♦     Approval Route
+AUTOMATIC ROUTE - do not require RBI / Government approval.
+Eligible borrowers
+(a)    Corporates registered under the Companies Act except financial intermediaries [such as
+      banks, financial institutions (FIs), housing finance companies and NBFCs] are eligible to raise
+     ECB. Individuals, Trusts, and Non-Profit making Organizations are not eligible to raise ECB.
+(b)   Non-Government Organizations (NGOs) engaged in micro finance activities are eligible to
+       avail ECB. Such NGO (i) should have a satisfactory borrowing relationship for at least 3 years
+       with a scheduled commercial bank authorized to deal in foreign exchange and  (ii) would
+       require a certificate of due diligence on  ‘fit and proper’ status of the board/committee of
+     management of the borrowing entity from the designated Authorized Dealer (AD) bank.
+(c)    Units in Special Economic Zones (SEZ) are allowed to raise ECB for their own requirement.
+      However, they cannot transfer or on-lend ECB funds to sister concerns or any unit in the
+      Domestic Tariff Area.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+TREASURY – FOREX            5.11
+
+APPROVAL ROUTE – require approval from RBI/Government
+Eligible borrowers
+The following types of proposals for ECB are covered under the Approval Route:
+♦    Regarding lending by the EXIM Bank for specific purposes will be considered on a case by
+      case basis.
+♦    Banks and  financial  institutions which had  participated  in  the  textile  or  steel sector
+       restructuring package as approved by the Government are also permitted to the extent of
+        their investment in the package and assessment by the Reserve Bank based on prudential
+      norms. Any ECB availed for this purpose so far will be deducted from their entitlement.
+♦   ECB with minimum average maturity of 5 years by Non-Banking Financial Companies
+      (NBFCs) from multilateral financial institutions, reputable regional financial institutions, official
+       export credit agencies and international banks to finance import of infrastructure equipment
+        for leasing to infrastructure projects.
+♦     Infrastructure Finance Companies (IFCs) i.e. Non-Banking Financial Companies (NBFCs),
+       categorized as IFCs, by the Reserve Bank, are permitted to avail of ECBs, including the
+       outstanding ECBs, beyond 50 per cent  of  their owned  funds,  for on-lending  to the
+       infrastructure sector as defined under the ECB policy, subject to their complying with the
+       following conditions:
+♦    Compliance with the norms prescribed in the DNBS Circular DNBS.PD.CCNo.168 / 03.02.089
+      /2009-10 dated February 12, 2010  ii) hedging of the currency  risk  in  full. Designated
+      Authorised Dealer should ensure compliance with the extant norms while certifying the ECB
+       application.
+♦     Foreign Currency Convertible Bonds (FCCBs) by Housing Finance Companies satisfying the
+       following minimum criteria: (i) the minimum net worth of the financial intermediary during the
+      previous three years shall not be less than ` 500 crore, (ii) a listing on the BSE or NSE, (iii)
+     minimum size of FCCB is USD 200 million and (iv) the applicant should submit the purpose /
+      plan of utilization of funds.
+♦     Special Purpose Vehicles, or any other entity notified by the Reserve Bank, set up to finance
+       infrastructure companies / projects exclusively, will be treated as Financial Institutions and
+     ECB by such entities will be considered under the Approval Route.
+♦     Multi-State Co-operative Societies engaged in manufacturing activity and satisfying the
+       following criteria  i) the Co-operative Society is financially solvent and  ii) the Co-operative
+       Society submits its up-to-date audited balance sheet.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+5.12         FOREX AND TREASURY MANAGEMENT
+
+♦    SEZ developers can avail of ECBs for providing infrastructure facilities within SEZ, as defined
+        in the extant ECB policy like
+          (i)    Power,
+           (ii)    Telecommunication,
+           (iii)    Railways,
+         (iv)   Roads including bridges,
+        (v)   Sea port and airport,
+         (vi)    Industrial parks,
+         (vii)   Urban infrastructure (water supply, sanitation, and sewage projects),  (viii) mining,
+              exploration, and refining and
+         (ix)   Cold storage or cold room facility, including for farm level pre-cooling, for preservation
+              or storage of agricultural and allied produce, marine products, and meat.
+♦     Corporates in the services sector viz. hotels, hospitals and software sector can avail of ECB
+      beyond USD 200 million per financial year.
+♦     Corporates which have violated the extant ECB policy and are under investigation by the
+      Reserve Bank and / or Directorate of Enforcement are allowed to avail of ECB only under the
+      approval route.
+♦    Cases falling outside the purview of the automatic route limits and maturity period to be
+       followed.
+♦      Eligible borrowers under the automatic route other than corporates in the services sector viz.
+       hotel, hospital and software can avail of ECB beyond USD 750 million or equivalent per
+       financial year.
+Recognized Lenders
+Borrowers can raise ECB from internationally recognized sources such as :
+♦     International banks
+♦     International capital markets
+♦      Multilateral financial institutions (such as IFC, ADB, CDC, etc.) / regional financial institutions,
+      and Government owned development financial institutions, (iv) export credit agencies
+♦     Suppliers of equipments
+♦     Foreign collaborators
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+TREASURY – FOREX            5.13
+
+♦     Foreign equity holders (other than erstwhile Overseas Corporate Bodies (OCBs).
+All-in-cost ceilings
+All-in-cost includes rate of interest, other fees and expenses in foreign currency except commitment
+fee, pre-payment fee, and fees payable in Indian Rupees. The payment for withholding tax in Indian
+Rupees is excluded for calculating the all-in-cost.
+The all-in-cost ceilings for ECB are reviewed from time to time. The following ceilings are valid until
+reviewed:
+ Average Maturity Period                       All-in-cost Ceilings over 6-month LIBOR*
+ Three years and up to five years         350 basis points
+ More than five years                   500 basis points
+*For the respective currency of borrowing or applicable benchmark.
+In the case of fixed rate loans, the swap cost plus margin should be the equivalent of the floating
+rate plus the applicable margin.
+“Restricted End Uses” shall mean end uses where borrowed funds cannot be deployed and shall
+include the following:
+(a)    Chit fund or Nidhi Company;
+(b)    Investment in capital market including margin trading and derivatives;
+(c)    Agricultural or plantation activities;
+(d)    Real estate activity or construction of farm houses; and
+(e)    Trading in Transferrable Development Rights (TDR), where TDR shall have the meaning as
+      assigned  to   it  in  the  Foreign Exchange Management  (Permissible  Capital  Account
+       Transactions) Regulations, 2015.
+Parking of ECB proceeds
+Borrowers are permitted to either keep ECB proceeds abroad or to remit these funds to India,
+pending utilization for permissible end-uses.
+ECB proceeds parked overseas can be invested in the following liquid assets (a) deposits or
+Certificate of Deposit or other products offered by banks rated not less than AA (-) by Standard and
+Poor’s/ Fitch IBCA or Aa3 by Moody’s; (b) Treasury bills and other monetary instruments of one year
+maturity having minimum rating as indicated above and (c) deposits with overseas branches  /
+subsidiaries of Indian banks abroad. The funds should be invested  in such a way that the
+investments can be liquidated as and when funds are required by the borrower in India.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+5.14         FOREX AND TREASURY MANAGEMENT
+
+ECB funds may also be repatriated to India for credit to the borrowers’ Rupee accounts with AD
+Category I banks in India pending utilization for permissible end-uses.
+The proceeds of the ECB raised abroad meant for Rupee expenditure in India, such as, local
+sourcing of capital goods, on-lending to Self-Help Groups or for micro credit, payment for spectrum
+allocation, etc. should be repatriated immediately for credit to their Rupee accounts with AD
+Category I banks in India. In other words, ECB proceeds meant only for foreign currency expenditure
+can be retained abroad pending utilization. The rupee funds, however, will not be permitted to be
+used for investment in capital markets, real estate or for inter-corporate lending.
+1.4.4 FEMA Regulations for Import / Export Transactions - Current A/c Rules –Capital
+Account Transactions
+Under Foreign Exchange Management Act (‘FEMA’), each transaction has to be categorized as
+either a capital account transaction or a current account transaction for applicability of relevant
+regulation thereon. The two have been defined unambiguously which avoids any chance of
+shortcoming in our understanding.
+(A)  CAPITAL ACCOUNT TRANSACTIONS
+Section  2(e)  of FEMA  provides  an  exhaustive  definition  of  the  term ‘Capital  Account
+Transaction’ which means a transaction which alters the assets or liabilities, including contingent
+liabilities, outside India of person resident in India or assets or liabilities in India of persons resident
+outside India, and includes a transaction referred in sub-section (3) of section 6.
+As per the provision of section 6(4) of FEMA 1999, all capital account transactions are prohibited
+unless specifically permitted.
+A capital account transaction means - when India and other countries trade money-related things
+like assets and debts with each other.  It includes transactions related to buying or selling non-
+financial assets, such as real estate and patents, and financial assets, including stocks, bonds, and
+derivatives.
+The components of a capital account include the flow of foreign capital and loans, banking activities,
+and other forms of investment, as well as fluctuations in the foreign exchange reserve.
+However, capital account transactions are restricted to a certain limit per the relevant regulations.
+The RBI or Central Government do not impose any restrictions on the withdrawal of foreign exchange
+for depreciation (decline in value) of direct investments.
+(B)  CURRENT ACCOUNT TRANSACTIONS
+Current Account Transaction is a transaction other than a capital account transaction and includes:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+TREASURY – FOREX            5.15
+
+(a)   Payment due in connection with foreign trade, other current business, services and short-
+      term banking and credit facilities in the ordinary course of business.
+(b)   Payments due as interest on loans and as net income from investments.
+(c)    Remittances for living expenses of parents, spouse and children residing abroad.
+(d)   Expenses in connection with foreign travel, education and medical care of parents, spouse,
+      and children.
+The definition of current account transaction is inclusive and any expenditure which is not covered
+under capital account transaction will be current account transaction even if the transaction is not
+specified above.
+All the current account transactions are free from restrictions, unless specifically restricted by
+Central Government as per section 6(4) of the Foreign Exchange Management Act, 1999 and
+Foreign Exchange Management (Current Account Transactions) Rules, 2000 are as follows:
+Restrictions on Current Account Transactions
+(i)    Remittances out of lottery winnings.
+(ii)    Remittance of income from racing/ riding etc. or any other hobby.
+(iii)   Remittance for purchase of lottery tickets, banned/ prescribed magazines, football pools,
+      sweepstakes, etc.
+(iv)   Payment of commission on exports made towards equity investment in Joint Ventures/ Wholly
+     Owned Subsidiaries abroad of Indian companies.
+(v)    Remittance of dividend by any company to which the requirement of dividend balancing is
+       applicable.
+(vi)   Payment of commission on exports under Rupee State Credit Route, except commission up
+       to 10% of invoice value of exports of tea and tobacco.
+(vii)   Payment related to “Call Back Services” of telephones.
+(viii)  Remittance of interest income on funds held in Non-Resident Special Rupee (Account)
+     Scheme.
+(ix)   Drawal of foreign exchange by any person is prohibited for travel to Nepal and/ or Bhutan
+      and/ or a transaction with a person resident in Nepal or Bhutan.
+1.4.5 LIBERALISED REMITTANCE SCHEME (LRS)
+Under the Liberalized Remittance Scheme, all resident individuals, including minors, are allowed to
+freely remit up to USD 2,50,000 per financial year (April – March) for any permissible current or
+capital account transaction or a combination of both. Further, resident individuals can  avail
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+5.16         FOREX AND TREASURY MANAGEMENT
+
+themselves of foreign exchange facility for the purposes mentioned in Para 1 of Schedule III of FEM
+(CAT) Amendment Rules 2015, dated May 26, 2015, within the limit of USD 2,50,000 only.
+The Scheme was introduced on February 4, 2004, with a limit of USD 25,000. The LRS limit has
+been revised in stages consistent with prevailing macro and micro economic conditions.
+In case of remitter being a minor, the LRS declaration form must be countersigned by the minor’s
+natural guardian. The Scheme is not available to corporates, partnership firms, HUF, Trusts etc.
+Prohibited items under the Scheme:-
+The remittance facility under the Scheme is not available for the following:
+(i)    Remittance for any purpose specifically prohibited under Schedule-I (like purchase of lottery
+       tickets/sweep stakes, proscribed magazines, etc.) or any item restricted under Schedule II of
+      Foreign Exchange Management (Current Account Transactions) Rules, 2000.
+(ii)    Remittance from India  for margins or margin calls to overseas exchanges  / overseas
+       counterparty.
+(iii)   Remittances for purchase of FCCBs issued by Indian companies in the overseas secondary
+      market.
+(iv)   Remittance for trading in foreign exchange abroad.
+(v)    Capital account remittances, directly or indirectly, to countries identified by the Financial
+       Action Task Force (FATF) as “non- cooperative countries and territories”, from time to time.
+(vi)   Remittances  directly or  indirectly to those individuals and  entities identified as posing
+        significant risk of committing acts of terrorism as advised separately by the Reserve Bank to
+       the banks.
+(vii)   Gifting by one resident to another resident, in foreign currency, for the credit of the latter’s
+       foreign currency account held abroad under LRS.
+1.4.6 Foreign Exchange Management (Current Account Transaction) Amendment
+Rules, 2015, under which a resident individual can avail of foreign exchange facility.
+(A)    Facilities available to a resident individual
+Individuals can avail of foreign exchange facility for the following purposes within the LRS limit of
+USD 2,50,000 on financial year basis:
+(i)     Private visits to any country (except Nepal and Bhutan).
+(ii)     Gift or donation.
+(iii)   Going abroad for employment.
+(iv)    Emigration.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+TREASURY – FOREX            5.17
+
+(v)    Maintenance of close relatives abroad.
+(vi)    Travel for business or attending a conference or specialized training or for meeting expenses
+        for meeting medical expenses, or check-up abroad, or for accompanying as attendant to a
+       patient going abroad for medical treatment/ check-up.
+(vii)   Expenses in connection with medical treatment abroad.
+(viii)  Studies abroad.
+(ix)   Any other current account transaction which is not covered under the definition of current
+      account in FEMA 1999.
+The AD bank may undertake the remittance transaction without RBI’s permission for all residual
+current account transactions which are not prohibited/ restricted transactions under Schedule I, II or
+III of FEM (CAT) Rules, 2000, as amended or are defined in FEMA 1999. It is for the AD to satisfy
+themselves about the genuineness of the transaction, as hitherto.
+(B)    Facilities available to persons other than individuals:
+(a)    Donations up-to one per cent of their foreign exchange earnings during the previous three
+       financial years or USD 5,000,000, whichever is less, for- (a) creation of Chairs in reputed
+       educational institutes, (b) contribution to funds (not being an investment fund) promoted by
+       educational institutes; and (c) contribution to a technical institution or body or association in
+       the field of activity of the donor Company.
+(b)    Commission, per transaction, to agents abroad for sale of residential flats or commercial plots
+        in India up to USD 25,000 or five percent of the inward remittance whichever is less.
+(c)    Remittances up to USD 10,000,000 per project for any consultancy services in respect of
+       infrastructure projects and USD 1,000,000 per  project,  for other consultancy services
+      procured from outside India.
+(d)    Remittances up to five per cent of investment brought into India or USD 100,000 whichever
+        is less, by an entity in India by way of reimbursement of pre-incorporation expenses.
+(e)    Remittances up to USD 250,000 per financial year for purposes stipulated under Para 1 of
+      Schedule III to FEM (CAT) Amendment Rules, 2015. However, all residual current account
+       transactions undertaken by such entities are otherwise permissible without any specified limit
+      and are to be disposed off at the level of AD, as hitherto. It is for the AD to satisfy themselves
+      about the genuineness of the transaction.
+Anything more than above limits requires prior approval of the Reserve Bank of India.
+1.4.7 FDI / FPI Guidelines in India and impact of Inflows & Outflows on Forex Treasury
+To promote Foreign Direct Investment (FDI), the Government has put in place an investor-friendly
+policy, wherein except for a small negative list, most sectors are open for 100% FDI under the
+Automatic route. Further, the policy on FDI is reviewed on an ongoing basis, to ensure that India
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+5.18         FOREX AND TREASURY MANAGEMENT
+
+remains attractive & investor friendly destination. Changes are made in the policy after having
+intensive  consultations  with  stakeholders  including  apex  industry  chambers,  Associations,
+representatives of industries  / groups and other organizations taking into consideration  their
+views/comments. The FDI policy is applicable across the sectors/ industries and equally applies to
+the SME sector.
+Apart from being a critical driver of economic growth, foreign direct investment (FDI) is a major
+source of non-debt financial resource for the economic development of India. Foreign companies
+invest in India to take advantage of relatively lower wages, special investment privileges such as tax
+exemptions, etc. For a country where foreign investments are being made, it also means achieving
+technical know-how and generating employment.
+The Indian government’s favourable policy regime and robust business environment have ensured
+that foreign capital keeps flowing into the country. The government has taken many initiatives in
+recent years such as relaxing FDI norms across sectors such as defence, PSU  oil refineries,
+telecom, power exchanges, and stock exchanges, among others.
+An Indian company may receive Foreign Direct Investment under the two routes as given
+under:
+(i)    Automatic Route FDI is allowed under the automatic route without prior approval either of
+       the Government or the Reserve Bank of India in all activities/sectors as specified in the
+       consolidated FDI Policy, issued by the Government of India from time to time.
+(ii)   Government Route : FDI in activities not covered under the automatic route requires prior
+      approval of the Government. Proposals for foreign investment under Government route are
+      considered by respective Administrative Ministry/Department.
+TYPES OF INSTRUMENTS THAT CAN BE USED UNDER FDI
+1.     Indian companies can issue equity shares, fully, compulsorily, and mandatorily convertible
+debentures and fully, compulsorily and mandatorily convertible preference shares subject to pricing
+guidelines/valuation norms prescribed under FEMA Regulations, subject to the following conditions:
+(a)    There is a minimum lock-in period of one year which shall be effective from the date of
+       allotment of such capital instruments.
+(b)    After the lock-in period and subject to FDI Policy provisions, if any, the non-resident investor
+       exercising  option/right  shall be  eligible  to  exit  without any  assured  return, as  per
+       pricing/valuation guidelines issued by RBI from time to time.
+2.    Other types of Preference shares/Debentures i.e. non-convertible, optionally convertible or
+partially convertible for issue of which funds have been received on or after May 1, 2007, are
+considered as debt. Accordingly,  all norms applicable for ECBs relating to eligible borrowers,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+TREASURY – FOREX            5.19
+
+recognized lenders, amount and maturity, end-use stipulations, etc. shall apply. Since these
+instruments would be denominated in rupees, the rupee interest rate will be based on the swap
+equivalent of London Interbank Offered Rate (LIBOR) plus the spread as permissible for ECBs of
+corresponding maturity.
+3.    The inward remittance received by the Indian company vide issuance of DRs and FCCBs are
+treated as FDI and counted towards FDI.
+4.    An Indian Company may issue warrants and partly paid shares to a person resident outside
+India subject to terms and conditions as stipulated by the Reserve Bank of India in this behalf, from
+time to time.
+5.     Issue of Foreign Currency Convertible Bonds (FCCBs) and Depository Receipts (DRs):
+(a)   FCCBs/DRs may be issued in accordance with the Scheme for issue of Foreign Currency
+       Convertible Bonds and Ordinary Shares (Through Depository Receipt Mechanism) Scheme,
+      1993 and DR Scheme 2014 respectively, as per the guidelines issued by the Government of
+       India there under from time to time.
+(b)   DRs are foreign currency denominated instruments issued by a foreign depository in a
+       permissible jurisdiction against a pool of permissible securities issued or transferred to that
+       foreign depository and deposited with a domestic custodian.
+6.       (i)    Two-way Fungibility Scheme: A limited two-way Fungibility scheme has been put in
+             place by the Government of India for ADRs/GDRs . Under this Scheme, a stockbroker
+                in India, registered with SEBI, can purchase shares of an Indian company from the
+            market for conversion into ADRs /GDRs based on instructions received from overseas
+              investors.  Re-issuance  of ADRs/GDRs  would be  permitted  to  the  extent  of
+          ADRs/GDRs which have been redeemed into underlying shares and sold in the Indian
+             market.
+          (ii)   Sponsored ADR/GDR issue: An  Indian Company can  also sponsor issue  of
+          ADR/GDR. Under this mechanism, the company offers its resident shareholders a
+             choice to submit their shares back to the company so that on the basis of such shares,
+          ADRs/GDRs can be issued abroad. The proceeds of the ADR/GDR issue are remitted
+            back to India and distributed among the resident investors who had offered their Rupee
+            denominated shares for conversion. These proceeds can be kept in Resident Foreign
+            Currency (Domestic) accounts  in India by the resident shareholders who have
+            tendered such shares for conversion into ADRs /GDRs.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+5.20         FOREX AND TREASURY MANAGEMENT
+
+
+Remittance of sale proceeds
+(i)    Sale proceeds of shares and securities and their remittance is ‘remittance of asset’ governed
+      by The Foreign Exchange Management (Remittance of Assets) Regulations, 2000 under
+     FEMA.
+(ii)   AD Category-I bank can allow the remittance of sale proceeds of a security (net of applicable
+       taxes) to the seller of shares resident outside India, provided the security has been held on
+       repatriation basis, the sale of security has been made in accordance with the prescribed
+       guidelines and NOC / tax clearance certificate from the Income Tax Department has been
+      produced.
+Reporting of Inflow
+An Indian company  receiving investment from outside  India  for issuing shares/  convertible
+debentures/preference shares under the FDI Scheme, should report the details of the amount of
+consideration to the Regional Office concerned of the Reserve Bank not later than 30 days from the
+date of receipt in the Advance Reporting Form.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+TREASURY – FOREX            5.21
+
+Reporting of FCCB/DR Issues
+The domestic custodian  shall  report the issue/transfer  of sponsored/unsponsored depository
+receipts as per DR Scheme 2014 in ‘Form DRR’ within 30 days of close of the issue/ program.
+ADHERENCE TO GUIDELINES/ORDERS
+(i)    FDI is a capital account transaction and thus any violation of FDI regulations is covered by
+       the penal provisions of the FEMA.
+(ii)    Reserve Bank of India which administers the FEMA and Directorate of Enforcement under
+       the Ministry of Finance is the authority for the enforcement of FEMA. The Directorate takes
+      up investigation in any contravention of FEMA.
+Capital is a vital ingredient for economic growth, but since most nations cannot meet their total
+capital requirements from internal resources alone, they turn to foreign investors to supply capital.
+Foreign Direct Investments (FDI) and Foreign Portfolio Investments (FPI) are two of the most
+common routes for overseas investors to invest in an economy. FDI implies investment by foreign
+investors directly in the productive assets of another nation. FPI means investment by investors in
+financial assets such as stocks and bonds of entities located in another country. FDI and FPI are
+similar in some respects but very different in others. As retail investors increasingly invest overseas,
+they should be clearly aware of the differences between FDI and FPI, since nations with a high level
+of FPI can encounter heightened market volatility and currency turmoil during times of uncertainty.
+Examples of FDI and FPI
+Imagine that you are a multi-millionaire based in the U.S. and are looking for your next investment
+opportunity. You are trying to decide between (a) acquiring a company that makes industrial
+machinery, and (b) buying a large stake in a company or companies that makes such machinery.
+The former is an example of direct investment i.e. FDI, while the latter is an example of portfolio
+investment i.e. FPI.
+Now, if the machinery maker was in a foreign jurisdiction, say Mexico, and if you did invest in it, your
+investment would be considered as FDI. Also, if the companies whose shares you were considering
+buying were also located in Mexico, your purchase of such stock or their American Depositary
+Receipts (ADRs) would be regarded as FPI.
+Evaluating Attractiveness for FDI / FPI
+Because capital is always in short supply and is highly mobile, foreign investors have standard
+criteria when evaluating the desirability of an overseas destination for FDI and FPI, which include:
+♦    Economic factors – The strength of the economy, GDP growth trends, infrastructure,
+        inflation, currency risk, foreign exchange controls etc.
+♦     Political factors – Political stability, government’s business philosophy, track record, and so
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+5.22         FOREX AND TREASURY MANAGEMENT
+
+       on.
+♦     Incentives for foreign investors – Taxation levels, tax incentives, property rights, etc.
+♦    Other factors – Education and  skills of the labor force, business opportunities, local
+       competition etc.
+FDI versus FPI
+There are some very important distinctions between FDI and FPI, even though they are both funded
+by foreign investors.
+The first difference arises in the degree of control exercised by the foreign investor. FDI investors
+typically take controlling positions in domestic firms or joint ventures and are actively involved in
+their management. Contrarily, even  if they own a controlling interest in domestic companies, FPI
+investors are typically passive investors who do not actively participate in the day-to-day operations
+and strategic goals of these businesses.
+The second difference is that FDI investors must take a long-term approach to their investments
+since it can take years from the planning stage to project implementation. On the other hand, FPI
+investors may profess to be in for the long haul but often have a much shorter investment horizon,
+especially when the local economy encounters some turbulence.
+So, FDI investors cannot easily liquidate their assets and depart from a nation, since such assets
+may be very large and quite illiquid. FPI investors have an advantage here in that they can exit a
+nation literally with a few mouse clicks, as financial assets are highly liquid and widely traded.
+                                                                        (Source: Investopedia)
+FDI and FPI – Pros and Cons
+FDI and FPI are both important sources of funding for most economies. Foreign capital can be used
+to develop infrastructure, set up manufacturing facilities and service hubs, and invest in other
+productive assets such as machinery and equipment, which contribute to economic growth and
+stimulate employment.
+However, since FDI is far more stable than FPI and denotes a sustained commitment to an economy,
+it is evident that most countries favor this approach for luring foreign investment. But for an economy
+that is just opening, meaningful amounts of FDI may only bring  fruitful results once overseas
+investors have confidence in its long-term prospects and the ability of the local government.
+Though FPI is desirable as a source of investment capital, it tends to have a much higher degree of
+volatility than FDI. In fact, FPI is often referred to as “hot money” because of its tendency to flee at
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+TREASURY – FOREX            5.23
+
+the first signs of trouble in an economy. These massive portfolio flows can exacerbate economic
+problems during periods of uncertainty.
+The Bottom Line
+While FDI and FPI can be sources of much-needed capital for an economy, FPI is much more
+volatile, and this volatility can aggravate economic problems during uncertain times. Since this
+volatility can have a significant negative impact on their investment portfolios, retail investors should
+familiarize themselves with the differences between these two key sources of foreign investment.
+                                                                        (Source: Investopedia)
+1.4.8 Foreign Exchange Management (Overseas Investment) Regulations, 2022
+Overseas investments by persons resident in India enhance the scale and scope of business
+operations of Indian entrepreneurs by providing global opportunities for growth. Such ventures
+through easier access to technology, research and development, a wider global market and reduced
+cost of capital along with other benefits increase the competitiveness of Indian entities and boost
+their brand value. These overseas investments are also important drivers of foreign trade and
+technology transfer thus boosting domestic employment, investment, and growth through such
+interlinkages.
+In keeping with the spirit of liberalization and to promote ease of doing business, the Central
+Government and the Reserve Bank of India have been progressively simplifying the procedures and
+rationalizing the rules and regulations under the Foreign Exchange Management Act, 1999. In this
+direction, a significant step has been taken with the operationalization of a new Overseas Investment
+regime. Foreign Exchange Management (Overseas Investment) Rules, 2022 have been notified by
+the Central Government vide Notification No. G.S.R. 646(E) dated August 22, 2022 and Foreign
+Exchange Management (Overseas Investment) Regulations, 2022 have been  notified by the
+Reserve Bank vide Notification No. FEMA 400/2022-RB dated August 22, 2022 in supersession of
+the Notification No. FEMA 120/2004-RB dated July 07, 2004 [Foreign Exchange Management
+(Transfer or Issue of any Foreign Security) (Amendment) Regulations, 2004] and Notification No.
+FEMA 7 (R)/2015-RB dated January 21, 2016 [Foreign Exchange Management (Acquisition and
+Transfer of Immovable Property Outside India) Regulations, 2015]. The new regime simplifies the
+existing framework for overseas investment by persons resident in India to cover wider economic
+activity and significantly reduces the need for seeking specific approvals. This will reduce the
+compliance burden and associated compliance costs.
+1.4.9 Some of the significant changes brought about through the new rules and
+regulations are summarized below:
+(i)    Enhanced clarity with respect to various definitions;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+5.24         FOREX AND TREASURY MANAGEMENT
+
+(ii)    Introduction of the concept of “strategic sector”;
+(iii)   Dispensing with the requirement of approval for:
+       (a)    deferred payment of consideration;
+       (b)    investment/disinvestment by persons resident in India under investigation by any
+              investigative agency/regulatory body;
+        (c)    issuance of corporate guarantees to or on behalf of second or subsequent level step
+          down subsidiary (SDS);
+       (d)     write-off on account of disinvestment;
+(iv)    Introduction of “Late Submission Fee (LSF)” for reporting delays.
+1.4.10 Key terms
+(i)    Overseas Direct Investment (ODI)” means (i) acquisition of any unlisted equity capital or
+subscription as a part of the Memorandum of Association of a foreign entity, or (ii) investment in
+10% or more of the paid-up equity capital of a listed foreign entity, or (iii) investment with control
+where investment is less than 10% of the paid-up equity capital of a listed foreign entity.
+Explanation: Once an investment in a foreign entity is classified as ODI, the investment shall
+continue to be treated as ODI even if such investment falls below 10% of the paid-up equity capital
+or the investor loses control of the foreign entity.
+(ii)   “Overseas Portfolio Investment (OPI)” means investment, other than ODI, in foreign
+securities. The following is further provided:
+OPI shall not be made in:
+(a)   any unlisted debt instruments; or
+(b)   any security which is issued by a person resident in India who is not in an IFSC; or
+(c)    any derivatives unless otherwise permitted by Reserve Bank; or
+(d)   any commodities including Bullion Depository Receipts (BDRs ).
+(iii)   Foreign Exchange Dealers' Association of India (FEDAI) was set up in 1958 as an
+Association of banks dealing in foreign exchange in India (typically called Authorized Dealers - ADs)
+as a self-regulatory body and is incorporated under Section 25 of The Companies Act, 1956.
+When the Reserve Bank issues instructions,  it is expected that the instructions are understood,
+interpreted, and implemented in a uniform and customer-friendly manner by all ADs without building
+up system level stresses. In the absence of unambiguous clarity of instructions to the base-level
+official, the objectives of various measures initiated by the Reserve Bank may not yield the desired
+results. With the advent of FEMA, which aims at facilitating external trade and payments besides
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+TREASURY – FOREX            5.25
+
+promoting orderly development and maintenance of forex market in India, the economy has been
+witnessing rapid liberalization.
+In such a scenario, FEDAI is playing a crucial role in monitoring the level of customer service and
+consumer protection provided by its members and ensuring filling the gaps arising out of inadequate
+knowledge or operational bottlenecks.
+FEDAI acts as a facilitating body and in consultation with Reserve Bank of India, frames rules  /
+regulations for ADs in India for conduct of the foreign exchange business related transactions. Since
+FEDAI is the Association of the member Banks,  it has been issuing guidelines and rules to its
+member banks related to management of foreign exchange business from time to time.
+1.5  Role of Banks in Forex Market
+Commercial banks are merely the middlemen who transfer funds from the capital markets to
+organizations and enterprises; they do not produce money. Banks receive funding from a variety of
+sources, including business checking and deposit accounts, service fees, and the issuance of money
+market instruments such as banker's acceptances and certificates of deposit (CDs), which are
+backed by letters of credit (LOCs) used in commercial paper and trade finance. Trade finance,
+project finance, payroll, trading and transactions in foreign currencies, lock boxes for payment
+collection, and general corporate finance are among the services provided by commercial banks.
+Significance
+The import-export business and international finance would not exist without commercial banks.
+International business practices and dependable money transfers between nations with disparate
+cultures are made possible by commercial banks. The dissemination of important economic and
+business information to clients and the capital markets worldwide is also made possible by the global
+nature of commercial banking. Additionally, commercial banking acts as a global indicator of
+business trends and the state of the economy.
+Trade Finance
+Because they facilitate trade between businesses and clients based abroad, commercial banks that
+do international business are also known as merchant banks. This is accomplished by providing
+Letters of Credit (LOCs), which serve as proof that a client has deposited the entire amount owed
+on an order with a foreign company. If the selling company ships items to its offshore customer, it
+can then rest comfortably that  it will be paid. The business may potentially utilize the LOC as
+collateral for a manufacturer's loan, which would enable  it to fund the production of the provided
+goods. Without LOCs, businesses would have to spend a lot of money verifying the legitimacy and
+creditworthiness of their overseas clients and adhering to local rules and regulations in each of the
+several nations where they do business.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+5.26         FOREX AND TREASURY MANAGEMENT
+
+Foreign Exchange
+Commercial banks exchange and  convert  foreign  currencies  to promote  global  trade and
+development. A corporation may be paid in that nation's currency when conducting business there.
+The company may need to buy goods from a neighboring country in that country's currency or
+convert cash to its native currency before returning to the home office, even though some of these
+revenues will be used to pay employees in that country as well as for administrative expenses like
+office rent, utilities, and supplies.
+1.6  Factors Impacting Forex Market
+Currency prices are influenced by supply and demand in the market, just like the pricing of other
+commodities. The forces that drive these fluctuations in demand and supply lead to fluctuations in
+currency values. These forces are impacted by numerous causes.
+This is one way that several things affect currency pricing. Currency values can be affected by
+anything that influences the movement of money within or between nations.
+The following are some of the main elements that influence a currency's value:
+♦    Economy: The value of a nation's currency is determined by its economic situation. A stable
+      currency with a high value relative to others usually has a rising economy as  its basis.
+      Currency prices are influenced by  all factors, both positive and negative, that influence
+      economic growth. For instance, currency values usually decrease during inflation. Money
+       loses purchasing power due to inflation, meaning that less can be purchased with a given
+      amount of money.
+     When choosing a forex trade strategy, several economic data must be considered. Numerous
+       facets of the economy are represented by these indicators. These indicators play a crucial
+       role in forecasting how currency values will perform considering the current economic climate,
+       since the overall state of the economy affects the value of the currency.
+♦   GDP – The Gross Domestic product of a country measures industrial growth and production.
+       This figure is a good indicator of how active the economy is. A steady GDP is an indication
+       of a healthy, growing economy. Currency values are likely to rise when such circumstances
+        prevail.
+♦    Purchasing Power Parity – PPP calculates a currency's relative ability to buy goods and
+       services in each nation. Let us consider A and B, two countries. According to the going
+      exchange rates in the market, 100 units of currency of A are equivalent to 1 unit of currency
+       of B. The purchasing power of currency A relative to currency B is the goal of PPP. In country
+       B, one unit of local currency should be equivalent to what may be purchased for 100 units in
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+TREASURY – FOREX            5.27
+
+       country A. At that point, the purchasing power of the nations is equal. If the purchasing power
+       parity (PPP) between the countries is not equal, the currency with the higher purchasing
+      power has a higher value.
+♦     Interest Rate Parity – For investments to provide equal returns, the interest rates that are
+     common in both nations must also be comparable. The worth of a nation's currency is
+       ultimately determined by its capacity for this kind of multiplication. Because of this, interest
+       rate parity plays a significant role in influencing the value of currencies.
+♦    Employment Levels: A country's productivity is determined by its employment levels. This
+        is a sign of the economy's potential growth. A high employment rate indicates that most
+      people in the nation are actively fostering economic expansion. Increased investment is
+       predicated on a strong employment rate, which is an indicator of a robust economy.
+     The value of the currency rises as a result. A low employment rate indicates a decline in the
+     number of workers boosting the economy. While consumption remains constant, a smaller
+      percentage of the population is engaged in the production of products and services. Low
+      employment levels will result in muted currency values.
+♦    Consumer Spending: A nation's  citizens' spending patterns reveal much about  their
+       perceptions about the state of the economy. People dread an economic downturn if they are
+      saving a lot of money and spending less. This suggests that there may be further currency
+      value declines.
+     A rise in consumer purchasing indicates a sense of confidence among consumers regarding
+        their future incomes and investment returns. The purchasing power and standard of living of
+       the average citizen are also indicated by consumer expenditure. A thriving economy is
+       characterized by sustainable levels of consumer expenditure. An economy  like  this  is
+      probably going to have a strong, stable currency.
+♦    Government Policies: The government constantly assesses the economy and takes
+      necessary action. Government policies are created and implemented to encourage prevailing
+      economic conditions during a positive trend and to correct the imbalance if the economy is
+       not doing well.
+      Most economic policies fall under two categories – fiscal policies and monetary policies.
+       Fiscal policies are those which outline the spending of the government. The annual budget is
+      a part of the fiscal policy. It determines the areas where the government will be spending
+      money. Government spending boosts the prospects of industries and segments of the
+      economy.
+      Monetary policies are those which influence the various components of the country’s financial
+       fabric to improve or sustain the economy. The central bank of a country implements the
+      government’s policies by using various investment strategies in the markets.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+5.28         FOREX AND TREASURY MANAGEMENT
+
+      Given the huge amount of funds the central bank can control any action by the bank has a
+      huge impact on the market. An inflationary trend can be curbed, falling prices can be shored
+      up and many other economic imbalances can be set right by central banks though their market
+        activities.
+      Both monetary and fiscal policies affect currency prices, though the impact of monetary
+       policies is almost immediate.
+♦     Natural Factors: Any natural disaster that affects a nation, such as a drought, famine, or
+       flood, will devalue its currency. In such unfavorable circumstances, the flow of money inside
+       the country's borders is severely constrained.
+     The aggregate quantity of money spent on investments is probably going to drop significantly
+      as people become more frugal with their money. In modern times, not many people are
+       interested in high-risk activities like forex. Due to the significant costs associated with relief
+        efforts, government spending is also decreased. The government's priority is to get the nation
+      back on its feet, so any extra money is directed into rehabilitation initiatives.
+♦     International Trade: Trade is the buying and selling of goods and services between nations.
+      This transaction calls for the exchange of money, just like any other. Indeed, the volume of
+       foreign trade serves as a reliable gauge of the demand for a nation's currency. Trade treaties
+       affect the values of the currencies of the two countries involved when they exchange goods
+      and services.
+Any economy will always involve some degree of international trade, with products and services
+being purchased and sold at any given time from a wide range of nations. The economy is said to
+have a trade deficit when imports exceed exports, and a trade surplus when exports exceed imports.
+Every month, governments release the balance of trade statistics that reflect this situation.
+A government gets paid for its exports and must pay for its purchases and imports. When there is a
+trade deficit, more domestic currency will be spent on foreign currency purchases to finance the
+transactions. In this scenario, the value of the local currency will decrease relative to the foreign
+currency. A trade surplus results from exports exceeding imports, and this translates into a stronger
+value for the home currency. The capital flow of a nation indicates the status of this equation.
+The government releases balance of payments figures, which incorporate both capital flow and
+balance of trade.
+A nation's balance of payments is composed of three parts:
+(i)    Current account:  Calculates  the amount  of products purchased and  sold  in  global
+      commerce.
+(ii)    Capital account: This accounts for the purchase and sale of non-financial assets.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+TREASURY – FOREX            5.29
+
+(iii)   Financial account: This gauges the movement of money across borders.
+Any nation's currency value is largely determined by its balance of payments figures. When making
+investment decisions, particularly long-term ones, a forex trader must take this into account above
+all others.
+♦    Market Sentiment: The state of the market has a significant impact on currency values.
+      These have a direct impact on market supply and demand. Stronger currencies that are
+      associated with nations that are seen as stable will appreciate during periods of worldwide
+      economic turmoil.
+     A nation with high rates of inflation is not a good place to trade forex because rising costs
+      would probably hinder the country's future economic progress. The general sentiment of the
+      market for a currency is determined by investors' assessment of an economy and how they
+      perceive different economic indicators.
+♦     Political Factors: Politics frequently dictates the course that an economy will follow. Political
+        instability suppresses economic growth and devalues the value of the currency and adds a
+       great deal of uncertainty to the future. A country's capital flow may be curtailed due to a
+       cautious investment stance resulting from an impending election or war.
+In the FX market, a change in leadership also frequently calms currency prices. The markets do not
+indicate a distinct trend in the value of the currency until the new leadership's political stance,
+monetary and fiscal policies, and views on foreign trade are made evident.
+A nation deemed politically unstable is unlikely to be a preferred trading partner. Both its forex
+trading and the market value of its currency will be impacted by this. On the other hand, a progressive
+political leader and a stable leadership pave the way  for increased investments as investor
+confidence becomes strong.
+1.7  Convertibility and Balance of Payment (BOP)
+Convertibility
+In a country's balance of payments, the capital account features transactions that lead to changes
+in the overseas financial assets and liabilities. These include investments abroad and inward capital
+flows. Capital account convertibility implies the freedom to convert domestic financial assets into
+overseas financial assets at market determined rates.
+It can also imply conversion of overseas financial assets into domestic financial assets. Broadly, it
+would mean freedom for firms and residents to freely buy into overseas assets such as equity, bonds,
+property and acquire ownership of overseas firms besides, free repatriation of proceeds by foreign
+investors.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+5.30         FOREX AND TREASURY MANAGEMENT
+
+How does easing capital controls benefit economies?
+♦    Once a country eases capital controls, typically, there  is a surge of capital flows. For,
+       countries that face constraints on savings and capital can utilize such flows to finance their
+       investment, which in turn stokes economic growth.
+♦    The inflow of capital can help augment domestic resources and boost growth. Local residents
+      would be in a position to diversify their portfolio of assets, which helps them insulate
+      themselves better from the consequences of any shocks in the domestic economy.
+♦     For global investors, capital account convertibility helps them to seek higher returns by
+       sharing risks. It also offers countries better access to global markets, besides resulting in the
+      emergence of deeper and more liquid markets. Capital account convertibility is also supposed
+       to bring with  it greater discipline on the part of governments in terms of reducing excess
+      borrowings and rendering fiscal discipline.
+What are the pitfalls of easing capital controls?
+♦    The possibility of the outflow of what are known as speculative short-term flows is one of the
+      primary issues that an economy that has chosen a free float must deal with. When a
+        significant portion of domestic assets are denominated in foreign currencies, there is a risk
+       of capital flight and rising interest rates, which can cause economies to become unstable.
+♦     Additionally, the exchange rate and interest rate volatility that follows capital inflows can result
+        in inadequate funding and significant unhedged foreign liabilities. This is particularly true for
+      economies that pursue free-market policies without adhering to sound macroeconomic
+       guidelines or making sure that necessary financial reforms are implemented.
+How far has India moved towards capital account convertibility?
+Capital account convertibility is in practice in terms of freedom to take out proceeds relating to FDI,
+portfolio investment for overseas investors and NRIs, besides leeway for firms to invest abroad in
+JVs or acquisition of assets, and for residents and mutual funds to invest abroad in stocks and bonds
+with some restrictions. India seems to be taking the approach that easing of capital controls would
+be affected by removal of capital outflow restrictions on NRIs first, corporates next, followed by
+banks and freedom for residents in the last stage.
+Balance of Payments
+All financial exchanges between a nation's citizens and the outside world are documented in the
+Balance of Payments (BoP). The current account, capital account, and financial account make up
+the BoP account.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+TREASURY – FOREX            5.31
+
+An important portion of the balance of payments (BoP) is the current account, which comprises flows
+of primary and secondary income as well as goods and services between residents and non-
+residents. The sums due and received in exchange for the temporary use of labor, money, or non-
+produced non-financial assets (natural resources) are shown in the main income statement. The
+secondary income account displays the income redistribution between residents and non-residents,
+or the instances in which resources are supplied for immediate use without any exchange of
+economic value (transfers).
+Conversely, the capital account includes capital transfers between residents and non-residents as
+well as credit and debit transactions under non-produced non-financial assets. Therefore, transfers
+that are capital in character, as well as purchases and sales of non-produced, non-financial assets,
+including property transferred to embassies and leases and licenses, are documented under this
+account.
+The net purchase and disposal of financial assets and liabilities over a given period are shown in
+the financial account. It also demonstrates how there has been net lending to and borrowing from
+the rest of the world. On the other hand, it demonstrates how the current account deficit is financed
+or how the surplus is utilized.
+
+     2.  FOREX CONCEPTS
+Forex is a commonly used abbreviation for "foreign exchange". It typically describes the buying and
+selling of currency in the foreign exchange market, especially by investors and speculators. The
+familiar expression, "buy low and sell high," certainly applies to currency trading. A forex trader
+purchases currencies that are undervalued and sells currencies that are overvalued, just as a stock
+trader purchases stock that is undervalued and sells stock that is overvalued.
+2.1  Exchange Rate Quotes
+"Foreign exchange" can be shortened to "forex" in everyday speech. Usually,  it refers to the
+purchasing and selling of money on the foreign exchange market, particularly by speculators and
+investors. "Buy low and sell high," as the saying goes, applies to currency trading. Like how a stock
+trader buys undervalued stocks and sells overpriced stocks, a forex trader buys undervalued
+currencies and sells overvalued currencies.
+In common parlance, "foreign exchange" is often abbreviated as "forex". It describes the buying and
+selling of money on the foreign exchange market, especially by investors and speculators.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+5.32         FOREX AND TREASURY MANAGEMENT
+
+Reading a Quote
+When a currency is quoted,  it is done in relation to another currency so that the value of one is
+reflected through the value of another. Therefore, if you are trying to determine the exchange rate
+between the U.S. dollar (USD) and the Japanese yen (JPY), the forex quote would look like this:
+
+                             USD/JPY = 119.50
+We call this a pair of currencies. The base currency is the one on the left side of the slash, while the
+quote or counter currency is the one on the right. The quoted currency, in this example the Japanese
+yen, is the amount that one base unit (in this case, US$1) in the other currency is equal to. The base
+currency, in this case the US dollar, is always equal to one unit (in this case, US$1). According to
+the quote, $1 US equals 119.50 Japanese yen. Put another way, $1 US is equivalent to 119.50
+Japanese yen. The currency abbreviations for the relevant currencies are included in the forex quote.
+Direct Currency Quote vs. Indirect Currency Quote
+Direct and indirect quotations are the two methods available for a currency pair.
+A direct quotation is a quote that expresses how many domestic currency units there are in relation
+to one foreign currency unit.
+A statement that shows how many units of foreign currency are equivalent to one unit of domestic
+currency is known as an indirect quote.
+This means that if the US dollar was the foreign currency and the Canadian dollar the local currency,
+the direct quote would be USD/CAD and the indirect quote would be CAD/USD. The quoted foreign
+currency stays fixed at one unit while the domestic currency fluctuates in a direct quote. However,
+the foreign currency is in the indirect quote variable and the domestic currency is fixed at one unit.
+An indirect quote, for instance, might be 0.85 CAD/USD if the home currency is Canada, meaning
+that one Canadian dollar would buy $0.85 in the US. The inverse (1/0.85), or 1.18 USD/CAD, would
+be the direct quote for this; it indicates that $1 USD will buy $1.18 in Canadian dollars.
+Most currencies are traded against the US dollar on the forex spot market, and the US dollar is
+typically the base currency in the currency pair. It is referred to as a direct quote for these currencies
+in certain situations. This would be relevant to the USD/JPY currency combination shown above,
+which shows that $1 US is equivalent to 119.50 Japanese yen.
+But not every currency has the US dollar as its foundation. The Australian dollar, New Zealand dollar,
+British pound, and other currencies that have traditionally been tied to Britain are all quoted as the
+base currency versus the US dollar. These currencies are collectively referred to as the Queen's
+currencies. In the same manner, the euro is quoted. In these instances, the exchange rate is referred
+to as an indirect quote of the US dollar, with the US dollar serving as the counter currency. For
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+TREASURY – FOREX            5.33
+
+example, the EUR/USD price of 1.25 indicates that one euro is worth 1.25 US dollars. This is the
+reason for it.
+Apart from the Japanese yen (JPY), which is quoted out to two decimal places, most currency
+exchange rates are published out to four digits after the decimal place.
+An indirect quote is the inverse of a direct quote, and a direct quote is the inverse of an indirect
+quote.
+Cross Currency
+A cross-currency quote  is one that  is provided without including the US dollar as one of  its
+components. The EUR/GBP, EUR/CHF, and EUR/JPY cross currency pairs are the most frequently
+traded ones. These currency combinations provide trading opportunities in the forex market, but it's
+vital to remember that they are not as popular or traded as frequently as pairs that incorporate the
+US dollar, generally known as the majors.
+Bid and Ask
+There is a bid price (buy) and an ask price (sell) when trading a currency pair, just like with other
+financial market activities. Once more, these relate to the base currency. The ask price, or how much
+the market will sell one unit of the base currency for in reference to the quoted currency, is the
+amount of quoted currency that must be paid to purchase one unit of the base currency when buying
+a currency pair (going long).
+When selling a currency pair, or going short, the bid price is used to determine how much the market
+is willing to pay for the quoted currency relative to the base currency, or how much of the quoted
+currency will be gained when selling one unit of the base currency.
+The two numbers following the slash indicate the ask price (usually, only the final two digits of the
+total amount are given), while the quote preceding the slash is the bid price. Keep in mind that the
+asking price is never more than the bid price. Let's look at an example:
+
+                       USD/CAD  =    1.2000/05
+                            Bid       =    1.2000
+                         Ask       =    1.2005
+If you are interested in purchasing this currency combination, it indicates that you plan to purchase
+the base currency. As a result, you are examining the ask price to determine the going rate for U.S.
+dollars in Canadian dollars. The requested price states that 1.2005 Canadian dollars can be used to
+purchase one US dollar.
+On the other hand, you would consider the bid price while selling this currency pair or selling the
+base currency for the quoted currency.  It informs you that the market will purchase US$1 base
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+5.34         FOREX AND TREASURY MANAGEMENT
+
+currency (which you will be selling to the market) for a price equal to the specified currency, 1.2000
+Canadian dollars.
+The currency in which the transaction is being carried out is always the one that is quoted first, or
+the base currency. The basic currency is either purchased or sold. You can find the price by
+consulting the corresponding currency pair sport exchange rate, depending on the currency you wish
+to use to buy or sell the base with.
+Spreads and Pips
+A spread is the amount that separates the ask price from the bid price. If we examine the following
+quotation: If EUR/USD were equal to 1.2500/03, the spread would be 0.0003, or three points, or 3
+pips. Even the smallest point change can result in thousands of dollars being made or lost due to
+leverage, despite the seemingly minor nature of these movements. Once more, this is one of the
+things that draws traders to the forex market: even a small change in price can yield enormous
+rewards.
+The smallest amount a price in a currency quote can move is called a pip. One pip would be 0.0001
+for the US dollar, the euro, the British pound, or the Swiss franc. One pip would be 0.01 in the
+Japanese yen since this currency is quoted to two decimal places. Therefore, the pip in a USD/CHF
+currency rate would be 0.0001 Swiss francs. Most currencies fluctuate between 100 and 150 pip per
+day.
+
+ Currency Quote Overview
+ USD/CAD = 1.2232/37
+ Base Currency     Currency to the left (USD)
+ Quote/Counter     Currency to the right (CAD)
+ Currency
+ Bid Price          1.2232                             Price for which the market maker
+                                                                           will buy the base currency. Bid is
+                                                    always smaller than ask.
+ Ask Price          1.2237                             Price for which the market maker
+                                                                           will sell the base currency.
+ Pip             One point move, in USD/CAD it is  The  pip/point   is  the  smallest
+                    .0001 and 1 point change would be  movement a price can make.
+                    from 1.2231 to 1.2232
+ Spread           Spread   in   this  case    is  5
+                       pips/points;  difference  between
+                      bid and ask price (1.2237-1.2232).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+TREASURY – FOREX            5.35
+
+Currency Pairs in the Forwards and Futures Markets
+The way currencies are quoted on foreign exchange markets  is one  of the main technical
+distinctions. Foreign exchange is always valued against the US dollar in the forward and futures
+markets. Therefore, the price is determined by taking the quantity of US dollars required to purchase
+one unit of the other currency. Keep in mind that while certain currencies are listed against the US
+dollar, others are valued on the spot market against the US dollar. As a result, quotes from the
+forwards and futures market and the spot market are not necessarily parallel.
+For example, on the spot market, the British pound is quoted as GBP / USD versus the US dollar.
+The forwards and futures markets would quote it in the same way. Because of this, the strength of
+the British pound in the spot market relative to the US dollar will be reflected in its appreciation in
+the forwards and futures markets.
+However, when comparing the exchange rates for these two currencies, the US dollar is mentioned
+against the Japanese yen. For example, one US dollar would be worth 115 Japanese yen  if the
+quote was 115 in the spot market. On the futures market, it would be priced at (1/115) or.0087, which
+means that one Japanese yen would be equivalent to.0087 in US dollars. An increase in the USD /
+JPY spot rate would correlate with a decline in the JPY futures rate since the US dollar would have
+strengthened versus the Japanese yen and one Japanese yen would thus buy less US dollars.
+2.2  Factors affecting Exchange Rates
+One of the most significant ways to assess a nation's relative economic health is to look at its foreign
+exchange rate. The foreign exchange rate of a nation offers insight into its economic stability, which
+is why it is continuously tracked and examined. You should pay close attention to currency exchange
+rates if you plan to send or receive money from abroad.
+"The rate at which one country's currency may be converted into another" is the definition of the
+exchange rate.  It could change every day due to shifting market forces affecting the supply and
+demand for different currencies in different nations. For these reasons, it's critical to comprehend
+the factors influencing currency rates while sending or receiving money abroad.
+1.     Inflation Rates: Changes in market inflation cause changes in currency exchange rates. A
+       country with a lower inflation rate than another will see an appreciation in the value of its
+       currency. The prices of goods and services increase at a slower rate where inflation is low.
+     A country with a consistently lower inflation rate exhibits a rising currency value while a
+       country with higher  inflation  typically sees depreciation  in  its currency and  is usually
+      accompanied by higher interest rates.
+2.     Interest Rates: Changes in interest rate affect currency value and dollar exchange rate.
+      Forex rates, interest rates, and inflation are all correlated. Increases in interest rates cause
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+5.36         FOREX AND TREASURY MANAGEMENT
+
+      a country's currency to appreciate because higher interest rates provide higher rates to
+       lenders, thereby attracting more foreign capital, which causes a rise in exchange rates.
+3.    Country’s Current Account / Balance of Payments: A country’s current account reflects
+      balance of trade and earnings on foreign investment.  It consists of a total number of
+       transactions including its exports, imports, debt, etc. A deficit in the current account due to
+      spending more of its currency on importing products than it is earning through sale of exports
+      causes depreciation. Balance of payments  in a country can cause fluctuations  in the
+      exchange rate of its domestic currency.
+4.    Government Debt: Government debt is public debt or national debt owned by the central
+      government. A country with government debt is less likely to acquire foreign capital, leading
+       to inflation. Foreign investors will sell their bonds on the open market if the market predicts
+      government debt within a certain country. As a result, a decrease in the value of its exchange
+       rate will follow.
+5.    Terms of Trade: Related to current accounts and balance of payments, the terms of trade
+      are the ratio of export prices to import prices. A country's terms of trade improve if its export
+       prices rise at a greater rate than its import prices. This results in higher revenue, which causes
+      a higher demand for the country's currency and an increase in its currency's value. This
+       results in an appreciation of the exchange rate.
+6.     Political Stability & Performance: A country's political state and economic performance can
+       affect its currency strength. A country with less risk for political turmoil is more attractive to
+       foreign investors, as a result drawing investment away from other countries with political and
+      economic stability. Increase in foreign capital, in turn, leads to an appreciation in the value of
+       the domestic currency. A country with a sound financial and trade policy does not give any
+     room for uncertainty in the value of its currency. But a country prone to political confusions
+     may see depreciation in exchange rates.
+7.    Recession: When a country experiences a recession, its interest rates are likely to  fall,
+      decreasing its chances of acquiring foreign capital. As a result, its currency weakens in
+      comparison to that of other countries, thereby lowering the exchange rate.
+8.    Speculation: If a country's currency value is expected to rise, investors will demand more of
+       that currency to make a profit soon. As a result, the value of the currency will rise due to the
+      increase in demand. With this increase in currency value comes a rise in the exchange rate
+      as well.
+2.3  Exchange Rate Mechanism
+Introduction - Major Currencies dominating the international financial and foreign exchange market
+today are on float. Their value is subject to variations depending upon changes in macroeconomic
+variables and market forces. The determination of the exchange rate is of utmost importance for a
+floating rate regime and for those who deal in foreign exchange.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+TREASURY – FOREX            5.37
+
+Exchange rate quotations – different currencies are bought and sold on the exchange market. It is
+important to know the ratio between different currencies or how many units of one currency will equal
+one unit of another currency. The ratio between two currencies is known as the exchange rate.
+2.4  Spot Rates
+The spot foreign exchange markets are those in which the commodity is bought or sold for an
+immediate delivery or delivery in the very near future. The trades in the spot markets are settled on
+the spot. The spot foreign currency market is among the most popular foreign currency instruments
+around the globe, contributing more than 37 percent of the total activity happening in all other types
+of foreign exchange markets. The spot forex currency market is opposite to other kinds of foreign
+exchange market such as the future market, in which a set date is mentioned.
+A spot deal in foreign exchange market comprises of a bilateral contract between two parties in
+which a party transfers a set amount of a particular given currency against the receipt of a specified
+amount of another currency from the counterparty, based on an agreed exchange rate, within two
+business days of the date when the deal gets finalized. However, there is an exception in case of
+Canadian dollar. In Canadian dollar, the Spot delivery happens the very next business day. The
+name ‘spot’ does not mean that the currency exchange happens the same business day on which
+the deal is executed.
+The most traded currency in spot markets in terms of volume is the US dollar. The reason: U.S.
+dollar is the currency of reference. The other major most common currencies traded in spot markets
+are the euro, followed by the Japanese yen, the British pound, and the Swiss Franc.
+A spot contract is a contract that involves the purchase or sale of a commodity, security or currency
+for immediate delivery and payment on the spot date, which is normally two business days after the
+trade date. The spot rate, or spot price, is the price quoted for the immediate settlement of the spot
+contract. For example, say an investor believes orange juice is more expensive in the winter due to
+supply and demand. However, the investor cannot buy a spot contract for delivery in December
+because the commodity will spoil. A forward contract is a better fit for the investment.
+2.5  Cross Rates
+The currency exchange rate between two currencies, both of which are not the official currencies of
+the country in which the exchange rate quote is given in, is called cross rate.
+For example,  if an exchange rate between the Euro and the Japanese Yen was quoted in an
+American newspaper, this would be considered a cross rate in this context, because neither the euro
+nor the yen is the standard currency of the U.S. However, if the exchange rate between the euro
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+5.38         FOREX AND TREASURY MANAGEMENT
+
+and the U.S. dollar were quoted in that same newspaper, it would not be considered a cross rate
+because the quote involves the U.S. official currency.
+In simple terms, a cross currency forward is a forward contract where a specified amount of one
+currency will be exchanged for a specified amount of another currency at a fixed future date agreed
+in the contract. The need for cross-currency forwards arises from several different situations:
+♦    To convert a loan rose in a foreign currency into the company’s domestic currency.
+♦    To hedge a foreign-denominated asset into a domestic currency.
+♦    To convert foreign currency cash balances to a domestic currency for a period of time.
+2.6  Forward Rates
+Unlike a spot contract, a forward contract is a contract that involves an agreement of contract terms
+on the current date with the delivery and payment at a specified future date. Contrary to a spot rate,
+a forward rate is used to quote a financial transaction that takes place on a future date and is the
+settlement price of a forward contract. However, depending on the currency being traded, the
+forward rate can be calculated using the spot rate.
+(i)     Pricing: The "forward rate" or the price of a forward contract is based on the spot rate at the
+time the deal is booked, with an adjustment for "forward points" which represents the interest rate
+differential between the two currencies concerned.
+Using the example of the U.S. Dollar and the Ethiopian Birr with a spot exchange rate of USD-
+ETB=9.8600 and one-year interest rates of 3.23% and 6.50% respectively for the U.S. and Ethiopia,
+we can calculate the one year forward rate as follows:
+Forward Rate: (Multiplying Spot Rate with the Interest Rate Differential):
+              ETB             ( 1+rETB )             (1+0.0650)                    = Spot ×        = 9.8600 ×          = 10.1720
+            USD             ( 1+rUSD )               ( 1+0.0323 )
+Forward Points  = Forward Rate – Spot Rate
+              = 10.1720 – 9.8600
+              = 0.312 (traders refer to these points as 31.2 pips)
+The forward points reflect interest rate differentials between two currencies. They can be positive or
+negative depending on which currency has the lower or higher interest rate. In effect, the higher
+yielding currency will be discounted going forward and vice versa.
+Hence the simple formulae to achieve the forward rate is to use interest rate differentials of both the
+currencies. The same is produced below:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+TREASURY – FOREX            5.39
+
+Forward quote = Spot quote x (1+ Quote or counter currency interest rate)/(1+ base currency interest
+rate)
+(ii)    Constraints: If the underlying reason for wishing to set the exchange rate for a future delivery
+date no longer exists, the forward exchange contract may need to be cancelled at prevailing market
+rates. The unwinding of the position may incur a profit or a loss. (I.e. the 'mark to market' value of
+the contract). Currency markets are highly volatile, and the prices of the underlying currencies can
+fluctuate rapidly and over wide ranges and may reflect unforeseen events or changes in conditions.
+(iii)   Forward currency spread. The spread on a forward currency quotation is calculated in the
+same manner as the spread for a spot currency quotation.
+The reasons that spread varies with forward foreign currency quotations are like the reasons for the
+variability of spreads with spot foreign currency quotations. The unique factor associated with
+spreads for forward foreign currency quotations is that spreads will widen as the length of time until
+settlement increases. Currency exchange rates would be expected to have a higher range of
+fluctuations over longer periods of time, which increases dealer risk. Also, as time increases, fewer
+dealers are willing to provide quotes, which will also tend to increase the spread.
+2.7  Premium and Discount
+Calculating a Forward Discount or Premium, Expressed as an Annualized Rate.
+Forward currency exchange rates often differ from the spot exchange rate. If the forward exchange
+rate for a currency is higher than the spot rate, there is a premium on that currency. A discount exists
+when the forward exchange rate is lower than the spot rate. A negative premium is equivalent to a
+discount.
+Example: Forward Discount Premium
+If the ninety days $/¥ forward exchange rate is 109.50 and the spot rate is $/¥ = 109.38, then the
+dollar is "strong" relative to the yen, as the dollar's forward value exceeds the spot value. The dollar
+has a premium of 0.12 yen per dollar. The Yen would trade at a discount because its forward value
+in terms of dollars is less than its spot rate.
+The annualized rate can be calculated by using the following formula:
+Formula
+Annualized Forward Premium = (Forward Price - Spot Price) x 12 x 100%/No of month of forward
+Answer: So, in the case listed above, the premium would be calculated as:
+Annualized forward premium= ((109.50 - 109.38 ÷ 109.38) × (12 ÷ 3) × 100% = 0.44%
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+5.40         FOREX AND TREASURY MANAGEMENT
+
+Similarly, to calculate the discount for the Japanese Yen, we first want to calculate the forward and
+spot rates for the Japanese Yen in terms of dollars per Yen. Those numbers would be (1/109.50 =
+0.0091324) and (1/109.38 = 0.0091424), respectively.
+So, the annualized forward discount for the Japanese Yen, in terms of U.S. dollars, would be:
+[(0.0091324 - 0.0091424) ÷ 0.0091424] × (12 ÷ 3) × 100% = -0.44%
+Forward Market
+Forward market assets are an over-the-counter marketplace that sets the price of a financial
+instrument or asset for future delivery. Contracts entered in the forward market are binding on the
+parties involved. Forward markets are used for trading a range of instruments including currencies
+and interest rates, as well as assets such as commodities and securities. While forward contracts,
+like futures contracts, may be used for both hedging and speculation, there are some notable
+differences between the two. Forward contracts can be customized to fit a customer's requirements,
+while futures contracts have standardized features in terms of their contract size and maturity.
+The lack of standard features means that forward contracts seldom trade on exchanges, whereas
+futures contracts are generally exchange-listed. Since forward contracts generally tend to be large,
+the forward market is dominated by financial institutions, government bodies and large corporations.
+Limitations of forward markets
+Forward markets world-wide are faced with several problems:
+♦    Lack of centralization of trading.
+♦      Illiquidity and
+♦     Counterparty risk.
+In the first two of these, the basic problem is that of too much flexibility and generality. The forward
+market is like a real estate market, in which any two consenting adults can form contracts with each
+other. This often makes them design the terms of the deal which are convenient in that specific
+situation but makes the contracts non-tradable.
+Counterparty risk arises from the possibility of default by any one party to the transaction. When one
+of the two sides to the transaction declares bankruptcy, the other suffers. When forward markets
+trade standardized contracts, though it avoids the problem of illiquidity, the counterparty risk remains
+a very serious issue.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+TREASURY – FOREX            5.41
+
+2.8  Forward Contracts
+A forward contract is an agreement to buy or sell an asset on a specified date for a specified price.
+One of the parties to the contract assumes a long position and agrees to buy the underlying asset
+on a certain specified future date for a certain specified price. The other party assumes a short
+position and agrees to sell the asset on the same date for the same price. Other contract details like
+delivery date, price and quantity are negotiated bilaterally by the parties to the contract. The forward
+contracts are normally traded outside the exchanges.
+The salient features of forward contracts are as given below:
+♦    They are bilateral contracts and hence exposed to counter party risk.
+♦    Each contract is custom designed, and hence is unique in terms of contract size, expiration
+      date and the asset type and quality.
+♦    The contract price is generally not available in public domain.
+♦   On the expiration date, the contract must be settled by delivery of the asset.
+♦        If the party wishes to reverse the contract, it must compulsorily go to the same counterparty,
+      which often results in high prices being charged.
+Booking
+Booking refers to a cash market transaction in which a seller agrees to deliver a specific cash
+commodity to a buyer at some point in the future. Unlike futures contracts (which occur through a
+clearing firm), cash forward contracts are privately negotiated and are not standardized. Further, the
+two parties must bear each other's credit risk, which is not the case with a futures contract. Also,
+since the contracts are not exchange traded, there is no marking- to- market requirement, which
+allows a buyer to avoid almost all capital outflow initially (though some counterparties might set
+collateral requirements). Given the lack of standardization in these contracts, there is very  little
+scope for a secondary market in the forwards.
+The price specified in a cash forward contract is for a specific commodity. The forward price makes
+the forward contract have no value when the contract is written. However,  if the value of the
+underlying commodity changes, the value of the forward contract becomes positive or negative,
+depending on the position held. Forwards are priced in a manner like futures. As in the case of a
+futures contract, the first step in pricing a forward is to add the spot price to the cost of carry (interest
+forgone, convenience yield, storage costs and interest / dividend received on the underlying). Unlike
+futures contract though, the price may also include a premium for counterparty credit risk, and the
+fact that there is no daily marking- to market process to minimize default risk. If there is no allowance
+for these credit risks, then the forward price will equal the futures price.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+5.42         FOREX AND TREASURY MANAGEMENT
+
+Cancellation
+In the case of cancellation of a contract at the request of the customer, the bank shall recover / pay
+the difference between the contacted rate and the rate at which the cancellation is affected.
+The rate at which cancellation is to be affected is dependent upon whether the cancellation is
+requested on maturity or before maturity.
+In case the cancellation is requested on maturity date the following becomes the rate at which
+cancellation is affected:
+i.     Purchase contracts shall be cancelled at the contracting bank spot Telegraphic Transfer
+       (T.T.) * selling rate current on the date of cancellation.
+ii.     Sale contracts shall be cancelled at the contracting bank spot T.T. buying rate current on the
+      date of cancellation.
+        * A telegraphic transfer, also known as a TT, telex transfer, or T/T bank payment, is a general
+      word for transferring funds between bank accounts. Typically, this involves transferring funds
+      across national borders and frequently involves multiple currencies.
+When the contract is cancelled before maturity date, the following rate is used for effecting
+the cancellation.
+i.     Purchase contracts shall be cancelled at the contracting bank forward T.T. selling rate on the
+      date of cancellation.
+ii.     Sale contracts shall be cancelled at the contracting bank forward T.T. buying rate on the date
+       of cancellation.
+In case a purchase contract becomes overdue, due to the bank inability to accept the bills tendered
+as approved bills, the exporter takes up the contract by tendering other approved bills or cancels
+the contract within a reasonable time.
+Notwithstanding the fact that the exchange contract between the customer and the bank becomes
+impossible of performance, for whatever reason, including Government prohibitory order, the
+exchange contract shall not be deemed to have become void, and the customer shall forthwith apply
+to the bank for cancellation.
+i.      In the absence of any instructions from the customer, contracts which have matured shall, on
+       the 15th day from the date of maturity, be automatically cancelled. In case the 15th day falls
+      on a Saturday or holiday, the contract will be cancelled on the next succeeding working day.
+      Note: The customer cannot affect delivery, extend, or cancel the contract after the maturity
+      date and the procedure for automatic cancellation on the 15th day from maturity date should
+      be adhered to in all cases of default by the customer.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+TREASURY – FOREX            5.43
+
+ii.      In the event the contract is ultimately cancelled, the customer will not be entitled to the
+      exchange difference, if any, in his favour, since the contract is cancelled on account of his
+       default.
+iii.     In the case of delivery after automatic cancellation the appropriate current rate prevailing on
+      such delivery date shall be applied.
+iv.   Swap cost
+       (a)   Swap cost to be recovered from customers: In all cases of early delivery of purchase
+              or sale contracts, swap cost shall be recovered from customers irrespective of whether
+           an actual swap is made or not. Such recoveries should be made either back-ended or
+                front- ended at the discretion of banks.
+       (b)   Swap Gain: Payment of swap gain to the customer will normally be made at the end
+               of the swap period.
+
+
+Outlay and inflow of funds.
+(a)    Interest at not below the prime lending rate of the respective bank on outlay of funds by the
+      bank for the purpose of arranging the swap shall be recovered in addition to the swap cost in
+      case of early delivery of purchase or sale contracts and early realization of export bills
+       negotiated. The amounts of funds earmarked for outlay shall be arrived at by taking the
+       difference between the original contract rate and the rate at which the swap could be
+      arranged.
+(b)       If such a swap leads to inflow of funds, the amount shall be arrived at as above and interest
+       shall be paid at the discretion of banks to the customer at the appropriate rate applicable for
+      term deposits for the period for which the funds remained with the bank deposits.
+Illustration: A forward sale contract of LKR 2,50,000 is entered into by an exporter on 15th of March
+for delivery due on 15th April by an Indian exporter, The same would be exchanged with INR at a
+forward rate of ` 0.8. The spot rate on 15th April indicated as ` 0.80-0.85 and the customer requested
+to cancel the forward. Please calculate the cancellation adjustment based on the above facts.
+Solution The customer has entered LKR sale contract and the same will be cancelled on the day of
+maturity at LKR purchase rate. LKR purchase rate is INR 0.85 per LKR.
+Hence the difference is (` 0.85 – ` 0.80) for LKR 250,000 = ` 12,500.
+This difference of ` 12,500 would be recovered from the customer by the bank.
+Extension
+Extend the contract
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+5.44         FOREX AND TREASURY MANAGEMENT
+
+It is the responsibility of the customer to effect delivery or to request the bank for extension  /
+cancellation on or before the maturity date of the contract.
+Banks will levy a minimum charge for every request for a cancellation of a contract.
+Early delivery
+If a bank accepts or gives early delivery, the bank shall recover / pay swap difference, if any.
+Extension
+Forward contract, whether short-term or long-term contract where extension  is sought by the
+customers (or rolled over) shall be cancelled (at T.T. Selling or Buying Rate as on the date of
+cancellation) and rebooked only at the current rate of exchange. The difference between the
+contracted rate and the rate at which the contract is cancelled should be recovered from/ paid to the
+customer at the time of extension. Such a request for an extension should be made on or before the
+maturity date of the contract.
+In other words, extension is treated as cancellation of the existing contract and re-entering of a new
+contract basis the revised forward exchange rate.
+NON-DELIVERABLE FORWARD CONTRACT:
+A cash-settled, short-term forward contract on a thinly traded or non-convertible foreign currency,
+where the profit or loss at the time at the settlement date is calculated by taking the difference
+between the agreed upon exchange rate and the sport rate at the time of settlement, for an agreed
+upon notional amount of funds.
+All NDFs have a fixing date and a settlement date. The fixing date is the date on which the difference
+between the prevailing market exchange rate and the agreed upon exchange rate is calculated. The
+settlement date is the date by which the payment of the difference is due to the party receiving
+payment.
+NDFs are commonly quoted for time periods of one month up to one year and are normally quoted
+and settled in U.S. dollars. They have become a popular instrument for corporations seeking
+to hedge exposure to foreign currencies that are not internationally traded.
+
+    3.   INTERNATIONAL TREASURY
+Deployment of foreign currency resources needs to be managed in such a way that  it would not
+create any excess position i.e., “Over bought” or “Oversold” and at the same time cash flow is not
+affected. There are various funding alternatives available for Forex Cash Management such as
+Currency Swaps i.e., lending in one currency and borrowing in another currency, foreign exchange
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+TREASURY – FOREX            5.45
+
+swaps i.e., swapping of one currency into other foreign currency or local currency for deployment to
+maximize the yield without creating the position and affecting the cash flow.
+3.1  Market Participants
+Unlike the stock market, where investors often only trade with institutional investors (such as mutual
+funds) or other individual investors, there are more parties that trade on the forex market for
+completely different reasons than those in the stock market. Therefore, it is very important to identify
+and understand the functions and motivations of these main players in the forex market.
+(i)    Governments and Central Banks : Probably the most influential participants involved in the
+forex market are the central banks and federal governments. In most countries, the central bank is
+an extension of the government and conducts its policy in unison with the government. However,
+some governments feel that a more independent central bank is more effective in balancing the
+goals of managing inflation and keeping interest rates low, which usually increases economic growth.
+Whatever the degree of independence that a central bank may have, government representatives
+usually have regular meetings with central bank representatives to discuss monetary policy. Thus,
+central banks and governments are usually on the same page when it comes to monetary policy.
+Central banks are often involved in maintaining foreign reserve volumes to meet certain economic
+goals. For example, ever since pegging its currency (the yuan) to the U.S. dollar, China has been
+buying up millions of dollars’ worth of U.S. Treasury Bills to keep the Yuan at its target exchange
+rate. Central banks use the foreign exchange market to adjust their reserve volumes. They have
+extremely deep pockets, which allow them to have a significant impact on the currency markets.
+(ii)   Banks and Other Financial Institutions: Along with central banks and governments, some
+of the largest participants concerned with forex transactions are banks. Most people who need
+foreign currency for small-scale transactions, like money for travelling, deal with neighborhood
+banks. However, individual transactions pale in comparison to the dollars that are traded between
+banks, better known as the interbank market. Banks make currency transactions with each other on
+electronic brokering systems that are based on credit. Only banks that have credit relationships with
+each other can engage in transactions. The larger banks tend to have more credit relationships,
+which allow those banks to receive better foreign exchange prices. The smaller the bank, the fewer
+credit relationships it has and lower the priority it has on the pricing scale.
+Banks, in general, act as dealers in the sense that they are willing to buy/sell a currency at the
+bid/ask price. One way that banks make money on the forex market is by exchanging currency at a
+higher price than they paid to obtain it. Since the forex market is a worldwide market, it is common
+to see different banks with slightly different exchange rates for the same currency.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+5.46         FOREX AND TREASURY MANAGEMENT
+
+(iii)   Hedgers: Some of the biggest clients of these banks are international businesses. Whether
+a business is selling to an international client or buying from an international supplier, it will inevitably
+need to deal with the volatility of fluctuating currencies.
+If there is one thing that management (and shareholders) hates, it is uncertainty. Having to deal with
+foreign exchange risk is a big problem for many multinational corporations. For example, suppose
+that a German company orders some equipment from a Japanese manufacturer that needs to be
+paid in yen one year from now. Since the exchange rate can fluctuate in any direction over the
+course of a year, the German company has no way of knowing whether it will end up paying euros
+at the time of delivery.
+One choice that a business can make to reduce the uncertainty of foreign exchange risk is to go into
+the spot market and make an immediate transaction for the foreign currency that they need. Foreign
+exchange risk  is a variance in the value of Assets,  Liabilities and Operating Income due to
+unanticipated changes in Exchange Rates.
+Unfortunately, businesses may not have enough cash on hand to make such transactions in the spot
+market or may not want to hold large amounts of foreign currency for long periods of time. Therefore,
+businesses quite often employ hedging strategies to lock in a specific exchange rate for the future,
+or to simply remove all exchange-rate risk for a transaction.
+For example, if a European company wants to import steel from the U.S., it will have to pay for this
+steel in U.S. dollars. If the price of the euro falls against the dollar before the payment is made, the
+European company will end up paying more than the original agreement had specified. As such, the
+European company could enter a contract to lock in the current exchange rate to eliminate the risk
+of dealing in U.S. dollars. These contracts could be either forwards or futures contracts.
+(iv)   Speculators: Another class of participants in forex is speculators. Instead of hedging against
+changes in exchange rates or exchanging currency to fund international transactions, speculators
+attempt to make money by taking advantage of fluctuating exchange rate levels.
+3.2  Various Forex Treasury Products
+The various Forex Treasury Products in Treasury Department are:
+♦     Foreign Exchange
+♦    Forex Options
+♦    Dual Currency Deposits
+Authorized dealers in India must conduct their foreign exchange business within the constraints
+imposed by several internal factors such as the business ethos of the bank, its geographical spread
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+TREASURY – FOREX            5.47
+
+and availability of trained personnel apart from environmental factors like communications. In
+addition, the authorized dealers should adhere to the trade and exchange controls. The involvement
+of the personnel coupled with accountability is also necessary.
+3.3  Volatility of Major Currencies
+Volatility is a frequently misunderstood concept even by seasoned financial market professionals.
+While investors are reasonably wary of rapidly moving assets because of the increased level of risk
+they represent, they frequently overlook volatility’s benefits for generating trading opportunities. To
+the uninitiated, trading currencies seems to intuitively trigger fears of erratic price swings. A deeper
+look at how volatility levels compare across various asset classes reveals FX to be a sensible
+component for both long and short-term portfolios.
+However, the trader can control that gearing as well as position size more finely than in many other
+asset classes. Overall, volatility is an important tool for all market participants as both a measure of
+return and risk. For the tactical and shorter-term “trader, volatility is pursued more as a source of
+opportunity. In contrast, the passive and longer-term “investor” looks to minimize volatility relative to
+projected returns (Income) as much as possible. From both perspectives, FX is an asset class that
+deserves an important place in portfolios.
+3.4  Currency Trading
+Most of the volume in currency trading is confined to only 18 currency pairs compared to the
+thousands of stocks that are available in the global equity markets. Although there are other traded
+pairs outside of the 18, the eight currencies most often traded are the U.S. dollar (USD), Canadian
+dollar (CAD), euro (EUR), British pound (GBP), Swiss franc (CHF), New Zealand dollar (NZD),
+Australian dollar (AUD) and the Japanese yen (JPY). Although nobody would say that currency
+trading is easy, having far less trading options makes trade and portfolio management an easier
+task.
+What Moves Currency?
+An increasing amount of stock traders are taking interest in the currency markets because many of
+the forces that move the stock market also move the currency market. One of the largest is supply
+and demand. When the world needs more dollars, the value of the dollar increases and when there
+is too much circulating, the price drops.
+Other factors like interest rates, new economic data from the largest countries and geopolitical
+tensions, are just a few of the events that may affect currency prices.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+5.48         FOREX AND TREASURY MANAGEMENT
+
+The Bottom Line
+Much like anything in the investing market, learning about currency trading is easy but finding the
+winning trading strategies takes a lot of practice. Most forex brokers will allow you to open a free
+virtual account that allows you to trade with virtual money until you find strategies that work.
+3.5  Global Securities – Portfolio Management
+Managing investment risk starts and ends with our portfolio managers, who look at both risk and
+return from every angle as they navigate today's complex investment landscape. Dedicated risk
+management specialists support our portfolio managers in conjunction with oversight committees
+and the application of sophisticated risk-management tools.
+3.5.1 Portfolio management
+Employ a fundamental, research-driven approach to managing assets.
+Assess risk at each stage of the investment  life cycle including investment selection, portfolio
+construction and ongoing portfolio evaluation.
+Are backed by the strength and stability of their global organization, which enables them to maintain
+a long-term perspective.
+Managing a portfolio requires a significant amount of time and investment expertise. As a result,
+many investors choose to engage with an experienced Financial Advisor who can work closely with
+them.
+3.5.2 Goals of Portfolio Management
+While the portfolio methods vary greatly from company to company, the common denominator across
+firms is the goals executives are trying to achieve.
+According to 'best-practice' research by Dr. Cooper and Dr. Edgett, five main goals dominate
+the thinking of successful firms:
+1.    Value Maximization: Allocate resources to maximize the value of the portfolio via a few key
+objectives such as profitability, ROI, and acceptable risk. A variety of methods are used to achieve
+this maximization goal, ranging from financial methods to scoring models.
+2.    Balance: Achieve a desired balance of projects via several parameters: risk versus return;
+short-term versus long-term; and across various markets, business arenas and technologies. Typical
+methods used to reveal balance include bubble diagrams, histograms, and pie charts.
+3.    Business Strategy Alignment: Ensure that the portfolio of projects reflects the company’s
+product innovation strategy, and that the breakdown of spending aligns with the company’s strategic
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+TREASURY – FOREX            5.49
+
+priorities. The three main approaches are top-down (strategic buckets), bottom-up (effective gate
+keeping and decision criteria) and top-down and bottom-up (strategic check).
+4.     Pipeline Balance: Obtain the right number of projects to achieve the best balance between
+the pipeline resource demands and the resources available. The goal is to avoid pipeline gridlock
+(too many projects with too few resources) at any given time. A typical approach is to use a rank-
+ordered priority list or a resource supply and demand assessment.
+5.     Sufficiency: Ensure that the revenue (or profit) goals set out in the product innovation
+strategy are achievable given the projects currently underway. Typically, this is conducted via a
+financial analysis of the pipeline’s potential future value.
+3.5.3 What are the benefits of Portfolio Management?
+When implemented properly and conducted on a regular basis, Portfolio Management is a high
+impact, high value activity:
+♦    Maximizes the return on your product innovation investments.
+♦     Maintains your competitive position.
+♦    Achieves efficient and effective allocation of scarce resources.
+♦    Forges a link between project selection and business strategy.
+♦    Achieves focus.
+♦    Communicates priorities.
+♦    Achieves balance.
+♦    Enables objective project selection.
+Top performers emphasize the link between project selection and business strategy.
+3.5.4 Why is it so important?
+Companies without effective new product portfolio management and project selection face a slippery
+road downhill. Many of the problems that plague new product development initiatives in businesses
+can be directly traced to ineffective portfolio management.
+According to benchmarking studies conducted by Dr. Cooper and Dr. Edgett, some of the
+problems that arise when portfolio management is poor are:
+♦     Projects are not of high value to the business.
+♦      Portfolio has a poor balance in project types.
+♦    Resource breakdown does not reflect the product innovation strategy.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+5.50         FOREX AND TREASURY MANAGEMENT
+
+♦    A poor job is done in ranking and prioritizing projects.
+♦    There is a poor balance between the number of projects underway and the resources
+       available.
+♦     Projects are not aligned with the business strategy.
+As a result, too many companies have:
+♦    Too many projects underway (often the wrong ones).
+♦    Resources are spread too thin and across too many projects.
+♦     Projects are taking too long to get to market, and
+♦    The pipeline has too many low value projects.
+Portfolio Management is about doing the right projects. If you pick the right projects, the result is an
+enviable portfolio of high value projects: a portfolio that is properly balanced and most importantly,
+supports your business strategy.
+
+     4.  DERIVATIVE MARKETS
+Financial derivatives have emerged as one of the biggest markets of the world during the past two
+decades. A rapid change in technology has increased the processing power of computers and has
+made them a key vehicle for information processing in financial markets. Globalization of financial
+markets has forced several countries to change laws and introduce innovative financial contracts
+which have made it easier for the participants to undertake derivatives transactions.
+Derivatives are referred to instruments which derive their value from an underlying, has two parties
+to the contract. Examples of derivatives are futures, forwards, options, interest rate swaps, cross
+currency interest rate swaps etc.
+Early forward contracts in the US addressed merchants’ concerns about ensuring that there were
+buyers and sellers for commodities. ‘Credit risk’, however, remained a serious problem. To deal with
+this problem, a group of Chicago businessmen formed the Chicago Board of Trade (CBOT) in 1848.
+The primary intention of the CBOT was to provide a centralized location (which would be known in
+advance) for buyers and sellers to negotiate forward contracts. In 1865, the CBOT went one step
+further and listed the first ‘exchange traded” derivatives contract in the US. These contracts were
+called ‘futures contracts”. In 1919, Chicago Butter and Egg Board, a spin-off of CBOT, was
+reorganized to allow futures trading. Its name was changed to Chicago Mercantile Exchange (CME).
+The CBOT and the CME remain the two largest organized futures exchanges, indeed the two largest
+“financial” exchanges of any kind in the world today.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+TREASURY – FOREX            5.51
+
+The  first exchange-traded financial derivatives emerged in 1970’s due to the collapse of fixed
+exchange rate system and adoption of floating exchange rate systems. As the system broke down,
+currency volatility became a crucial problem for most countries. To help participants in foreign
+exchange markets hedge their risks under the new floating exchange rate system, foreign currency
+futures were introduced in 1972 at the Chicago Mercantile Exchange. In 1973, the Chicago Board
+of Trade (CBOT) created the Chicago Board Options Exchange (CBOE) to facilitate trading in
+options on selected stocks.
+The first stock index futures contract was traded at the Kansas City Board of Trade. Currently, the
+most popular stock index futures contract in the world is based on S&P 500 index, traded on Chicago
+Mercantile Exchange. During the mid-eighties, financial futures became the most active derivative
+instruments generating volumes many times more than commodity futures. Index futures, futures on
+T-bills and Euro Dollar futures are the three most popular futures contracts traded today. Other
+popular international exchanges that trade derivatives are LIFFE in England, DTB in Germany, SGX
+in Singapore, TIFFE in Japan, MATIF in France, Eurex etc.
+Futures contracts on interest-bearing government securities were introduced in the mid-1970s. The
+option contracts on equity indices were introduced in the USA in the early 1980’s to help fund
+managers to hedge their risks in equity markets. Afterwards, many innovative products were
+introduced in both exchange-traded format and the Over the Counter (OTC) format. The OTC
+derivatives have grown faster than the exchange-traded contracts in recent years.
+4.1  Regulatory Framework
+The trading of derivatives  is governed by the provisions contained in the Securities Contract
+Regulation Act, 1956, the SEBI Act, the rules, and regulations framed under that and the rules and
+byelaws of the stock exchanges.
+4.2  Some uses of derivatives
+There is always a misconception that derivatives are used for speculation. While speculators can
+use, and do use derivatives, they can also be used and are used by businessmen and investors to
+hedge their risks. The process of using derivatives to mitigate any adverse risk is known as hedging.
+Example 1 : A manufacturer, Mr. X, has received an order for the supply of his products after six
+months. The price of the product has been fixed. Production of goods will start after four months. He
+fears that if the price of raw material goes up in the meanwhile, he will suffer a loss on the order. To
+protect himself against possible risk, he buys the raw material in the 'futures' market for delivery and
+payment after four months at an agreed price, say, ` 100 per unit.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+5.52         FOREX AND TREASURY MANAGEMENT
+
+Let us take the case of another person, Mr. Y, who produces the raw material. He does not have
+advance orders. He knows that his product will be ready in four months. He roughly knows the
+estimated cost of his produce. He does not know what the price of his produce will be after four
+months. If the price goes down, he will suffer a loss. To protect himself against possible loss, he
+makes a 'futures' sale of his produce, at an agreed price, say, ` 100 per unit. At the end of four
+months, Mr. Y delivers the produce and receives payment at the rate of ` 100 per unit of contracted
+quantity.
+The actual price may be more or less than the contracted price at the end of the contracted period.
+A businessman may not be interested in such speculative gains or losses. However, price guarantee
+is the objective of such businessman. His main concern is to make profits from his main business
+and not through the rise and fall of prices. He wants to work with peace of mind and some assurance.
+In the above example, such a contract entered between Mr X and Mr Y would be called a forward
+contract where underlying is the raw material i.e. commodity that they have contracted to purchase
+or sale after 4 months from now. Mr X would have a long position and Mr Y would have a short
+position in such a contract.
+It is worthwhile to note that the forward contract can be entered for any other underlying as well such
+as equity, currency, interest rates etc.
+Example 2: Suppose a person is going to retire after one year. He wants to invest a part of his
+retirement dues, to be received after one year, in shares. He feels that share prices ruling at present
+are quite reasonable, and after one year the prices might go up. He enters into a 'futures' contract
+for one year to buy the shares at an agreed price of, say, ` 100 per share. After one year, he will
+make payment at the contracted rate and will receive the shares.
+There is another person who holds investments in shares. He desires to sell his investments after
+one year, to use for his daughter's marriage. He is afraid that if prices of his investments fall after
+one year, he will suffer a loss. He cannot sell them now as he has pledged them with a bank as
+security for a loan. He hedges the risk by selling his investments through a 'futures' contract for one
+year at a contracted price of, say, ` 100 per share.
+In the above two examples, at the end of one year, the ruling price may be more than ` 100 or
+less than ` 100. If the price is higher (say, ` 125), the buyer is gainer, for, he pays ` 100 and gets
+shares worth ` 125, and the seller is the loser for he gets ` 100 for shares worth ` 125 at the time
+of delivery. On the other hand, in case the price is lower (say, ` 75), the purchaser is loser; and the
+seller is the gainer.
+There is a method to limit such loss by buying a 'futures  ' contract with an 'option', on payment of a
+fee. The option gives a right (and not the obligation) to the buyer/seller to walk out of the 'futures'
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+TREASURY – FOREX            5.53
+
+contract. Naturally, a person will exercise option only if it is beneficial. The fee referred to above is
+known as premium.
+In the above example, suppose the option premium is ` 10, and the price of shares at the time of
+exercise of the option contract is ` 75, options have resulted advantageous as compared to futures
+contract. Thus, if he directly buys shares in the spot market, his cost will be only ` 85 (` 75 + ` 10
+fee) as against ` 100 mentioned in example 1 which he had to pay under the 'futures' contract. In
+case the current price at the time of delivery is higher (say, ` 125) than the contracted price (` 100)
+plus option fee, the seller of shares will be similarly benefited in opting out of the futures contract,
+for he can realize a higher price in the spot market.
+We have noticed from the earlier discussion that one's gain is another's loss. That is why derivatives
+are a 'zero sum game'. The mechanism helps in the distribution of risks among the market players.
+Let us see one of the uses of 'interest rate swap'. For example, a financial institution has some
+floating rate liabilities, but all its assets are on a fixed rate basis. Floating rate liabilities means
+interest rates payable on such liabilities are linked to a variable such as SOFR (secured overnight
+financing rate). A fixed rate basis is referred to as instruments carrying fixed rate of interest. In case
+the floating rate goes up,  it will be a loser. The institution can protect its position by swapping
+(exchanging) floating rates on its liabilities with a fixed rate. There may be another person holding
+floating rate assets. He fears that the floating rate may go down in the future. He may exchange his
+floating rate receipts with fixed rate receipts.
+Example 3: Currency Swap
+Suppose a person is holding one million Dollars. He does not need them now. But he will need them
+after six months for the purchase of machinery. His calculation is that he can earn a better return on
+his funds by investing in Rupee bonds. What he does is to sell the Dollars in spot market for Rupees.
+Simultaneously, he buys Dollars 'forward' for delivery after six months. At the end of six months, he
+sells his Rupee bonds and takes delivery of Dollars against payment of Rupees. He makes payment
+for the machine in Dollars. (The difference between 'forwards' and 'futures' is that while the former
+take place between two counterparties in the OTC market, the latter are transacted on stock
+exchanges.
+4.3  Derivatives can also be undertaken for speculation.
+Speculators, as you know, are of two types. One type is the optimist who sees a rise in prices in
+future. He is known as 'bull'. The other type is a pessimist who sees a fall in prices in future. He is
+known as 'bear'. They undertake 'futures' transactions with the intention of making gains through
+differences in contracted prices and future prices. If, in future, their expectations turn out to be true,
+they gain. If not, they lose. Of course, they may limit their losses through options.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 54 ======================
+
+
+5.54         FOREX AND TREASURY MANAGEMENT
+
+4.4  Futures
+Futures Forex currency markets are specific types that constitute the forward outright deals which
+in general take up a small part of the foreign exchange currency trading market. Since futures
+contracts are derivatives of spot price, they are also known as derivative instruments. They are
+specific about the expiration date and the size of the trade amount. In general, the forward outright
+deals which get mature past the spot delivery date will mature on any valid date in the two countries
+whose currencies are being traded; standardized amounts of foreign currency futures mature only
+on the third Wednesday of March, June, September, and December.
+Although the futures and spot markets trade closely together, certain differences between the two
+occur that provide arbitraging opportunities. Gaps, volume, and open interest are important technical
+analysis tools solely available in the futures markets. Because of these benefits, currency futures
+trading regularly attracts many forex traders into this market. The most common pages regarding
+future markets are available with Reuters, Bridge, Telerate, and Bloomberg. The rates are presented
+on composite pages by Telerate, while the currency futures are represented on individual pages
+showing the convergence between the futures and spot prices by Reuters and Bloomberg.
+4.5  Options
+Options give a right to the holder of such right to exercise the same in case of potentially favorable
+conditions.
+Broadly there are two types of options – Call Option and Put Option which are explained below.
+(i)     Call Option – This instrument gives a right to the holder to buy an underlying at a specified
+       price at a future date after payment of premium.
+(ii)   Put Option - This instrument gives a right to the holder to sell an underlying at a specified
+       price at a future date after payment of premium.
+Illustration of Call Option –
+Mr A purchases a call option by paying a premium of ` 5 for USD with an exercise price fixed at
+` 100 with an expiry of 3 months. In above example, Mr A gets a right to buy USD at ` 100 after 3
+months by paying a premium of ` 5 per contract. Mr A would exercise such right once the USD price
+after 3 months would have crossed ` 100. However,  if the price falls below ` 100, then  it is not
+advantageous for Mr A to exercise the same as Mr A can purchase the same at price less than
+` 100.
+Illustration of Put Option –
+Ms B purchases a put option by paying a premium of ` 5 for USD with an exercise price fixed at
+` 100 with an expiry of 3 months. In above example, Ms B gets a right to sell USD at ` 100 after 3
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 55 ======================
+
+
+TREASURY – FOREX            5.55
+
+months by paying a premium of ` 5 per contract. Ms B would exercise such right once the USD price
+after 3 months would come below ` 100. However,  if the price is more than ` 100, then  it is not
+advantageous for Ms B to exercise the same as Ms B can sell the USD at price more than
+` 100.
+Thus, it can be said that buying a put option is the opposite of buying a call option, in that a put gives
+you the right, but not the obligation to sell the underlying futures contract at a specific strike price in
+which the basic outlook of the investor is bullish in nature. When you buy or go long on a put your
+outlook is bearish on the market, and you expect a fall in the underlying asset price.
+4.5.1 Advantages of options:
+(i)    Leverage: Options allow you to employ considerable leverage. This is an advantage to
+       disciplined traders who know how to use leverage.
+(ii)   Risk / Reward Ratio: Some strategies, like buying options, allow you to have unlimited upside
+       with limited downside.
+(iii)   Unique Strategies: Options allow you to create unique strategies to take advantage of
+        different characteristics of the market like volatility and time decay.
+(iv)  Low Capital Requirements: Options allow you to take a position with very low capital
+      requirements. Someone can do a lot in the options market with $1,000.
+4.5.2 Disadvantages of Options
+Lower liquidity: Many individual stock options don't have much volume at all. The fact that each
+optionable stock will have options trading at different strike prices and expirations means that the
+option you are trading will be very low volume unless it is one of the most popular stocks or stock
+indexes. This lower liquidity won't matter much to a small trader who trades just 10 contracts.
+Higher spreads: Options tend to have higher spreads because of the lack of liquidity. This means
+it will cost you more in indirect costs when doing an option trade because you will be giving up the
+spread when you trade.
+Higher commissions: Options trades will cost you more in commission per dollar invested. These
+commissions may be even higher for spreads where you have to pay commissions for both sides of
+the spread.
+Complicated: Options are very complicated  for beginners. Most beginners, and even some
+advanced investors, think they understand them when they don't.
+Time Decay: When buying options, you lose the time value of the options as you hold them. There
+are no exceptions to this rule.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 56 ======================
+
+
+5.56         FOREX AND TREASURY MANAGEMENT
+
+Less information: Options can be a pain when it is harder to get quotes or other standard analytical
+information like the implied volatility.
+Options not available for all stocks: Although options are available on a good number of stocks,
+this still limits the number of possibilities available to individuals.
+4.5.3 Option Geeks:
+Following five are known as option geeks which are explained in detail:
+Delta: An options delta is used to measure the anticipated percentage of change in the premium in
+relation to a change in the price of the underlying security. If a particular call option had a delta of
+60%, we would expect the option premium to vary by 60% of the change in the underlying stock. If
+that stock rose 1 point, the option premium should rise approximately 6/10 (60%) of 1 point.
+Gamma: Gamma measures the expected change in the delta factor of an option when the value of
+the price of the underlying security rises. If a particular option had a delta of 60% and a gamma of
+5%, an increase of 1 point in the value of the stock would increase the delta factor by 5% from 60%
+to 65%.
+Theta: The theta geek attempts to measure the erosion of an option’s premium caused by the
+passage of time. We know that at expiration, an option will have no time value and will be worth only
+the intrinsic value if, in fact, it has any. Theta is designed to predict the daily rate of erosion of the
+premium. Naturally, other factors such as changes in the value of the underlying stock will alter the
+premium. Theta  is concerned only with the time value. Unfortunately, we cannot predict with
+accuracy changes in a stock’s market value, but we can measure exactly the time remaining until
+expiration.
+Vega: The fourth geek, Vega is concerned with the volatility factor of the underlying stock. We have
+pointed out that the volatility varies among different securities. Vega measures the amount by which
+the premium will rise when the volatility factor of the stock increases. Vega measures the sensitivity
+of the premium to these changes in volatility. Delta, gamma, theta, and Vega are very sophisticated
+tools for predicting changes in an option’s premium. They merely take the three factors which
+determine a premium (price of the stock, passage of time, and volatility), and measure each in an
+exacting manner. The derivatives vary for each series of options.
+Rho: The fifth geek rho measures the changes in option price when compared to the changes in
+interest rate. As expressed above, option pricing is adjusted for time value of money and time value
+of money is influenced by interest rates. With an increase in interest rates, the option price can
+change depending on the nature of option.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 57 ======================
+
+
+TREASURY – FOREX            5.57
+
+4.6  What is an NDO?
+A Non-Deliverable Option (NDO) is a financial agreement where the buyer of the NDO pays the
+seller of the NDO a Premium in return for receiving protection against unfavorable exchange rate
+movements during the term.
+An NDO may be useful in managing the currency risk associated with exporting or importing goods
+denominated in foreign currency, investing, or borrowing overseas, repatriating profits, converting
+foreign  currency  denominated  dividends,  or  settling  other  foreign  currency  contractual
+arrangements.
+An NDO should only be used where you have a genuine commercial need to manage the currency
+risk associated with a particular Currency Pair.  It should not be used for trading or speculative
+purposes.
+4.7  Swaps
+Swaps are private agreements between two parties to exchange cash flows in the future according
+to a prearranged formula. They can be regarded as portfolios of forward contracts.
+A foreign exchange swap is usually a combination of a spot and a forward transaction, entered
+simultaneously. Swaps are mostly inter-bank contracts and are neutral with respect to position as
+well as impact on the volatility of the exchange rate. Swaps do not have a separate regulatory
+framework and are covered by the foreign exchange regulations applicable to forward  / spot
+contracts.
+A Foreign currency swap is an agreement between two parties to exchange cash flows (viz., the
+principal and/or interest payments) of a loan in one currency for equivalent cash flows of an equal
+(in net present value) loan in another. Globally, foreign currency swaps constitute a large segment
+of foreign currency derivatives. Resident Indians may enter foreign currency-rupee swap within
+regulatory limits.
+Interest rate swap have been discussed in detail in Interest rate derivatives.
+Deliverable Swaps / Non-Deliverable Swaps
+Hedging products can be classified in accordance with the nature of the settlement of the cash flows.
+Two formats can be offered depending on the currency:
+(i)    Non-Deliverable : The non-deliverable feature of the swap refers to the way the cash flows
+of the swap agreed at inception  will be settled between the counterparties. Non-Deliverable
+products have all cash flows settled in an agreed hard currency (USD), regardless of the
+currency denomination of the obligation. That the product traded is a floating or fixed rate product
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 58 ======================
+
+
+5.58         FOREX AND TREASURY MANAGEMENT
+
+does not matter. In a Non-Deliverable Swap, at each settlement period, the difference between the
+value of the local currency leg and the hard currency leg of the swap is settled in hard currency by
+the counterparty having to settle a negative market value.
+Example an Indian company entered the foreign investment of USD 10,000 with the fixed rate of
+interest at 4%. The company expects interest rates to go up and hence enters an interest rate swap
+by exchanging the fixed leg of 4% for the floating leg of SOFR rate. Let us assume after one year
+the floating rate of SOFR turns out to be 5% hence there is 1% net gain to Indian company because
+of the swap.
+Since this is a non-deliverable swap, the net amount received would be 1% x 10,000 USD = 100
+USD. The settlement is happening on a net basis and only net gain/loss is settled. Separately the
+company would also receive 4% on USD 10,000 through foreign investment.
+(ii)    Deliverable: Cash flows settled through Deliverable contracts are done in the currency of
+each obligation and are therefore not netted. The Conditional Deliverable Swap implies that all cash
+flows are settled onshore for the local currency leg of the swap while the hard currency leg is settled
+either on an onshore or offshore account. The 'conditional' term refers to the mechanism whereby
+the swap reverts to a non-deliverable swap upon the occurrence of certain disruption events, which
+alter or prevent the settlement of the cash flows onshore.
+Continuing with the above example, let say in this case this interest rate swap is a deliverable interest
+rate swap, in such case the Indian company would pay 4% on USD 10,000 and receive 5% on USD
+10,000 separately.  At the same time the company would also receive 4% on USD 10,000 on the
+original investment made. In a nutshell the company would receive 5% on USD 10,000.
+4.8  DOLLARIZATION
+Dollarization  is the adoption  of a foreign country’s currency as a legal tender  for monetary
+transactions.
+Unofficial dollarization means that citizens prefer the foreign currency for some transactions,
+although it may not be legal tender. Official dollarization means that the foreign currency becomes
+the preferred tender within the country, while the domestic currency may also be accepted.
+The people expect stable returns on the foreign currency as compared to the domestic currency.
+Such a situation happens mostly in case of a hyperinflationary economy.
+The usual reason for dollarization is to substitute a more stable currency for a less stable one.
+Dollarization frequently involves the United States  dollar, although  it can be based on other
+currencies, such as the euro. Countries that use the U.S. dollar include El Salvador, Ecuador, the
+Marshall Islands, Micronesia, Palau, and the British Virgin Islands.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 59 ======================
+
+
+TREASURY – FOREX            5.59
+
+What is significant, however, from a geopolitical standpoint is that China and Russia are developing
+a ruble-Yuan swap, negotiated between the Russian Central Bank, and the People’s Bank of China.
+The situation of the other three BRICS member states (Brazil, India, South Africa) regarding the
+implementation of  (rial, rand, rupiah) currency swaps is markedly different. These three highly
+indebted countries are in the straitjacket of IMF-World Bank conditionality. They do not decide on
+fundamental issues of monetary policy and macro-economic reform without the green light from the
+Washington based international financial institutions.
+China has signed currency swap agreements with Canada and Qatar to conduct trade without the
+dollar acting as the middleman. Currency swap means that two countries exchange large bags of
+their own money, so they can buy goods and services from each other in their own currency. This
+could double or even triple Chinese Canadian trade. The remarkable thing of course is that Qatar
+and certainly Canada are allies of the US. But the deal with Qatar is likely to be most consequential,
+threatening the petro-dollar system.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 60 ======================
+
+
+5.60         FOREX AND TREASURY MANAGEMENT
+
+4.9  Price Calculation of Various Instruments
+4.9.1. Pricing of Options
+Now that you know the basics of options, here is an example of how they work:
+Let's say that on May 1, the stock price of Cory's Tequila Co. is $67, and the premium (cost) is $3.15
+for a July 70 Call, which indicates that the expiration is the third Friday of July, and the strike price
+is $70. Strike price is also referred to as exercise price. The total price of the contract is $3.15 x 100
+= $315. In reality, you'd also have to take commissions into account, but we'll ignore them for this
+example.
+We assumed the lot size to be 100 shares and hence we have multiplied by 100 to get the total
+price. The strike price of $70 means that the stock price must rise above $70 before the call option
+is worth anything; furthermore, because the contract is $3.15 per share, the break-even price would
+be $73.15. (In case the actual price is at $73.15 then it is called as “At the money option”)
+When the stock price is $67, it's less than the $70 strike price, so the option is worthless (in such a
+case the option is referred to as “Out of the money option”. But don't forget that you've paid $315
+for the option, so you are currently down by this amount.
+Three weeks later, the stock price is $78. The options contract has increased along with the stock
+price and is now worth $8.25 (78 – 70) x 100 = $825. Subtract what you paid for the contract, and
+your profit is ($8.25 - $3.15) x 100 = $510 (In such case the option is referred to as “In the money”
+option). You almost doubled your money in just three weeks! You could sell your options, which is
+called "closing your position," and take your profits-unless, of course, you think the stock price will
+continue to rise. For the sake of this example, let's say we let it ride.
+To recap, here is what happened to our call option investment:
+
+ Date               May 1             May 21                  Expiry Date
+ Stock Price            $67                 $78                    $62
+ Option Price            $3.15                 $8.25                    worthless
+ Contract Value         $315       [100 (lot size) x $8.25] = $825          $0
+ Profit/Loss             $0        [$825 – $315(premium paid)]     -$315 (loss is the
+                                        = $510             premium amount
+                                                                                paid)
+The price swing for the length of this contract from high to low was $825, which would have given
+us over double our original investment. This is leverage in action.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 61 ======================
+
+
+TREASURY – FOREX            5.61
+
+Exercising Versus Trading-Out
+So far, we've talked about options as the right to buy or sell (exercise) the underlying. This is true,
+but a majority of options are not actually exercised.
+In the above example, you could make money by exercising at $70 and then selling the stock back
+in the market at $78 for a profit of $8 a share. You could also keep the stock, knowing you were able
+to buy it at a discount on the present value.
+However, most of the time holders choose to take their profits by trading out (closing out) their
+position. This means that holders sell their options in the market, and writers buy their positions back
+to close. According to the Chicago Board Options Exchange (CBOE), about 10% of options are
+exercised, 60% are traded out, and 30% expire worthless.
+Intrinsic Value and Time Value
+At this point it is worth explaining more about the pricing of options. In our example, the premium
+(price) of the option went from $3.15 to $8.25. These fluctuations can be explained by intrinsic value
+and time value.
+Basically, an option's premium is its intrinsic value + time value. Remember,’ intrinsic value’ is the
+amount in-the-money, which, for a call option, means that the price of the stock equals the strike
+price. In the above example, intrinsic value is $78 (spot price at the expiry of contract) - $70 (strike
+price) = $8. ‘Time value’ represents the possibility of the option increasing in value. So, the price of
+the option in our example can be thought of as the following:
+                Premium=        Intrinsic Value      +  Time Value
+                  $8.25  =          $8            +    $0.25
+
+In real life, options almost always trade above intrinsic value. If you are wondering, we just picked
+the numbers for this example out of the air to demonstrate how options work.
+4.9.2. Pricing of Interest Rate Swaps
+Plain vanilla swaps, like most derivative instruments, have zero value at initiation. This value
+changes over time, however, due to changes in factors affecting the value of the underlying rates.
+Like all derivatives, swaps are zero sum instruments, so any positive value increase to one party is
+a loss to the other.
+Interest rate swaps are derivative instruments that enable the parties involved to exchange fixed and
+floating cash flows. The parties may want to enter into such exchange transactions for several
+reasons. One of the reasons would be to change the nature of the assets or liabilities to protect
+against anticipated adverse movements of interest rates.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 62 ======================
+
+
+5.62         FOREX AND TREASURY MANAGEMENT
+
+For example, in 2014 Apple Inc. (AAPL) sold $2.5 billion of 3.45 percent, 10-year bonds, and Apple
+may want to convert the fixed rate liability into floating rate liability in anticipation of a future interest
+rate decline. In fact, Apple did exactly that as its Form 10-K SEC filings state: “In the third quarter of
+2014, the Company entered into interest rate swaps with an aggregate notional amount of $9.0
+billion, which effectively converted the fixed-rate notes due 2017, 2019, 2021 and 2024 into floating-
+rate notes”.
+To convert fixed rate liability to floating rate liability, a company should enter into an interest rate
+swap contract where it receives fixed cash flows and pays floating cash flow that may be tied to, for
+example, LIBOR rates.
+How is the Fixed Rate Determined?
+For determining the fixed rate leg in an interest rate swap, the relevant forward interest rate is taken,
+and cash flows are computed. The relevant forward interest rate would mean the time for such
+forward should be equal to the time period of the instrument or loan.
+To give an example let’s say a fixed rate is required to be determined for an interest rate swap on a
+loan of 3 years which carries an interest rate of bank rate.
+A 3-year forward interest rate for the bank rate in the same market would be equated to a fixed rate
+interest leg.
+Currently, the bank rate is quoted as 6%. However, 3 years forward interest rate for the bank rate is
+7 % hence the fixed rate would be locked as 7% for bank rate.
+The terms for interest rate swap would be 7% as fixed leg and bank rate as floating leg.
+4.10 Trends in Futures Market
+Derivative products initially emerged as hedging devices against fluctuations in commodity prices,
+and commodity-linked derivatives remained the sole form of such products for almost three hundred
+years. Financial derivatives came into the spotlight in the post 1970 period due to growing instability
+in the financial markets. However, since their emergence, these products have become very popular
+and by the 1990s, they accounted for about two-thirds of total transactions in derivative products.
+In recent years, the market for financial derivatives has grown tremendously in terms of the variety
+of instruments available, their complexity, and turnover. In the class of equity derivatives, the world
+over, futures and options on stock indices have gained more popularity than on individual stocks,
+especially among institutional investors, who are major users of index-linked derivatives. Even small
+investors find these useful due to the high correlation of the popular indexes with various portfolios
+and ease of use. The lower costs associated with index derivatives vis-à-vis derivative products
+based on individual securities is another reason for their growing use.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 63 ======================
+
+
+TREASURY – FOREX            5.63
+
+  The past decade has witnessed a manifold growth in the volume of international trade and
+   business due to the wave of globalization and liberalization all over the world. As a result, the
+  demand for international money and financial instruments increased significantly at the global
+   level. In this respect, changes in exchange rates, interest rates and stock prices of different
+   financial markets have increased the financial risk to the corporate world. Adverse changes
+   have even threatened the very survival of the business world. It is, therefore, to manage such
+   risk that the new financial instruments have been developed in the financial markets, which
+   are also popularly known as financial derivatives.
+  The basic purpose of these instruments is to provide commitments to prices for future dates
+   for giving protection against adverse movements in future prices, to reduce the extent of
+   financial risks. Today, financial derivatives have become increasingly popular and most used
+    in the world of finance. This has grown at such a phenomenal speed all over the world that
+  now it is called the derivatives revolution. In India, the emergence and growth of derivatives
+   market is relatively a recent phenomenon.
+
+4.11 Short Term Interest Rate Futures
+Most short-term contracts, like most financial futures, have as delivery months the March quarterly
+cycle March, June, September, and December plus the nearest 4 consecutive months that are not
+in the March quarterly cycle. For instance, before the last settlement day in December, there will be
+contracts for December, January, February, March, April, and May, with January, February, April,
+and May being the 4 months that are not part of the March quarterly cycle. Most contracts are quoted
+in terms of the prices of the contracts rather than their interest rates at a notional value of 100, which
+is the price index. The price of the futures contract is equal to 100 minus the interest rate. These are
+expressed in bond price which is expressed as follows:
+Price = 100 – Annualized Interest Rate as a Percentage
+Most short-term interest rate futures are based on a 3-month, or 90-day period; nonetheless, the
+interest rate is annualized, so for a 90-day period, the actual interest earned on a futures contract
+would be 25% of the annualized interest rate.
+There are many types of short-term interest rate futures, including T-bills, sterling, fed funds, Euribor
+(3-month LIBOR contract  for the Euro), Euroswiss, Eurodollar, and Euroyen; only a few are
+discussed here.
+The seller of the futures contract is given a choice of bonds from which to deliver, so that at least
+some of them will be available during the delivery month. The conversion factor is calculated thus:
+Conversion Factor = Bond Value / 100 = Present Value of the Bond’s Cash Flows / 100
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 64 ======================
+
+
+5.64         FOREX AND TREASURY MANAGEMENT
+
+One word of caution here is that since Bond value is inverse to the interest rate which is also reflected
+in the interest rate futures pricing.
+Hence in case a dealer needs to hedge against the risk of interest rate going down, then such dealer
+needs to purchase the bonds futures. This can be explained as follows:
+When interest rate goes down in future, the price of bonds future would increase as both have
+inverse relationship. A dealer who has purchased bonds future earlier would gain in case interest
+goes down. Hence the dealer would get himself hedged against the risk of interest going down.
+We can also conclude the basis above in case a dealer needs to cover against the risk of increasing
+interest rate, then the dealer can sell bond futures in the market and take a short position. This
+needs to be gained in case bonds values go down in the futures market.
+
+     5.  INTEREST RATE DERIVATIVES
+5.1  Introduction
+Interest rate derivatives are such derivatives which are used to hedge the risk against interest rate
+risk.
+There are broadly following types of interest rate derivatives:
+(a).   Forward rate agreements
+(b).    Interest rate futures
+(c).    Interest rate swap
+The above derivative instruments are used for protecting against the risk of inadvertent movement
+in interest rates.
+5.2  Brief terminology and hedging
+Hedging refers to financial strategy to offset the risk of any adverse movement of any variable.
+Interest rate risk can be hedged by using interest rate derivatives which are explained below:
+(a)   Forward rate agreements: These are referred to as FRA and are used for fixing the interest
+rate either for borrowing or for investment after a certain period of time.
+Example: Assume A Ltd is need of funds after 6 months from now for 3 months duration and is
+apprehensive that interest rates would increase drastically after 6 months. In order to protect itself
+against the risk of higher interest rates, the company enters into a FRA to borrow the required sum
+@ 9% p.a. for borrowings required after 6 months for 3 months’ duration. Such FRA would be
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 65 ======================
+
+
+TREASURY – FOREX            5.65
+
+denoted as FRA 6X9 wherein 6 denotes the period after which FRA would be executed and (9-6) =
+3 months denotes the period of borrowings.
+Similarly, FRA 3x12 denotes that borrowing or investment would happen after 3 months for 9 months
+duration (12-3).
+Generally, the FRA is quoted as follows:
+Example FRA 3X9 10.2% - 10.5%
+The above FRA denotes that  if a borrower is need of funds 3 months from now for a period of 6
+months than 10.5% would be applicable rate of interest as of today and the same would be locked
+for the borrowing to be done after 3 months.
+The above FRA also denotes that if an investor is willing to invest funds 3 months from now for a
+period of 6 months than 10.2% would be applicable rate of return as of today and the same would
+be locked in the investment to be done after 3 months.
+In other words, FRA represents the forward contract for rate of interest.
+(b)    Interest rate futures: Interest rate futures are generally executed with the help of bonds
+futures.
+As discussed above, the price of the futures contract is equal to 100 minus the interest rate. These
+are expressed in bond price which is expressed as follows:
+Price = 100 – Annualized Interest Rate as a Percentage
+One word of caution here is that since Bond value is inverse to the interest rate which is also reflected
+in the interest rate futures pricing.
+Hence in case a dealer needs to hedge against the risk of interest rate going down, then such dealer
+needs to purchase the bonds futures. This can be explained as follows:
+When interest rate goes down in future, the price of bonds future would increase as both have
+inverse relationship. A dealer who has purchased bonds future earlier would gain in case interest
+goes down. Hence the dealer would get himself hedged against the risk of interest going down.
+(c)    Interest rate swap: The commonly used swaps are:
+♦     Interest rate swaps: This entails swapping only the interest related cash flows between the
+       parties in the same currency by swapping the floating rate basis to fixed rate basis or vice
+       versa. In this only the interest rate risk is hedged.
+       Illustration: HCC ltd took a loan from domestic bank at floating rate of 6 months bank rate.
+     The bank rate is expected to go up and hence this would lead to higher interest costs. To
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 66 ======================
+
+
+5.66         FOREX AND TREASURY MANAGEMENT
+
+      combat such an increase the company swaps a floating rate 6-month bank rate with a fixed
+       interest rate of 5%. In this case only interest rate risk is taken into consideration.
+♦    Cross currency swaps: These entail swapping both principal and interest between the
+       parties, with the cash flows in one direction being in a different currency from those in the
+      opposite direction. In such swaps, the fixed does not change to floating. Fixed in one currency
+        is kept as fixed of other currency and floating of one currency is floating of another currency.
+       Illustration: HCC Ltd took a foreign currency loan of USD 10 mm with a fixed interest rate of
+     4%. HCC Ltd swapped such USD 10 MM with one of the domestic banks in India at ` 700
+       crores and 7 percent interest. In the above example the USD 10 mm is swapped with ` 700
+       crores, and 4% interest rate is swapped by 7% interest rate. Hence such a product is called
+      cross currency swap. Assuming this swap is for one year, after one year the bank would
+       return USD 10 mm to HCC ltd and HCC ltd would return ` 700 crores to the Bank. The bank
+      would pay interest at 4% to HCC ltd on USD 10 mm and HCC ltd would pay interest at 7% to
+      bank on ` 700 crores. In this contract, only currency risk was hedged.
+♦    Cross currency interest rate swaps: These entail swapping both principal and interest
+      between the parties, with the cash flows in one direction being in a different currency from
+      those in the opposite direction. In such swaps, the fixed rate basis is also swapped with
+        floating rate basis.
+       Illustration: HCC Ltd took a foreign currency loan of USD 10 mm with floating interest rate
+       at SOFR + 1%. HCC Ltd swapped such USD 10 MM with one of the domestic banks in India
+       at ` 700 crores and 7 percent interest. In the above example the USD 10 mm is swapped
+       with ` 700 crores and SOFR + 1% interest rate is swapped by 7% interest rate.
+Hence such a product is called a cross currency interest rate swap. Assuming this swap is for one
+year, after one year the bank would return USD 10 mm to HCC ltd and HCC ltd would return ` 700
+crores. Bank would pay interest at SOFR + 1% to HCC ltd on USD 10 mm and HCC ltd would pay
+interest at 7% to bank on ` 700 crores. In the above swap two risks are hedged, one is the interest
+rate and the second is currency.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 67 ======================
+
+
+TREASURY – FOREX            5.67
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    Which of the following statements is not correct?
+        (a)   Rupees are freely convertible on current accounts.
+        (b)   Rupees are not freely convertible in a Capital Account.
+        (c)   Rupees are, to a large extent, also convertible in a Capital Account.
+        (d)   Rupee is not freely convertible on Current Account
+2.    Exchange Rate between currency A and Currency B, given the values of Currencies A and B
+       with respect to a third currency is known as:
+        (a)   Golden Standard
+        (b)    Flexible Exchange Rate
+        (c)    Fixed Exchange Rate
+        (d)    Cross Exchange Rate
+3.     Foreign Exchange Risk is defined as:
+       (a)    Variance in the value of Assets, Liabilities and Operating Income due to unanticipated
+           changes in Exchange Rates
+       (b)    Variance in Operating Income due to expected changes in exchange rates
+        (c)    Variance in operating income, Value of Assets and Liabilities due to unfavorable
+           movement of Exchange Rates
+       (d)    Possibility of loss a firm may sustain due to changes in the Exchange Rates
+4.   A Swap can be interpreted as an exchange of
+       (a)    Fixed Rate Agreements and Future Contracts
+       (b)    Future Contracts only
+        (c)    Fixed Rate Agreements only
+       (d)   Exchange of fixed rate payment for floating rate payment
+5.    The features of forward rates are:
+       (a)   They are not projected based on exchange rate movement in the market.
+       (b)    Forward rates are decided based on the interest rate differential of two currencies.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 68 ======================
+
+
+5.68         FOREX AND TREASURY MANAGEMENT
+
+        (c)   The interest rate differential is added to the spot rate for low interest yielding currency
+           and deducted from the spot rate for high interest yielding currency
+        (d)     All the above
+6.   A derivative product can be structured based on the following criteria:
+        (a)    Risk Appetite
+        (b)    Size of Transactions
+        (c)    Maturity Requirements
+        (d)     All of these
+7.    Which of the following contracts/instruments allows individual tailor-made conditions to be
+       specified in the contract and it lacks standardization?
+        (a)    Forward
+        (b)    Forex futures
+        (c)   Bond futures
+        (d)   Exchange traded options
+8.    While reading a foreign exchange quote mentioned as USD/INR = 79, it means that currency
+       to the left of slash is ------- and currency to the right of slash is ------- respectively?
+        (a)    base, quote
+        (b)    Quote. Base
+        (c)    domestic, foreign
+       (d)     direct, indirect
+9.    Which of the following quote indicates how many units of domestic currency is equal to one
+        unit of foreign currency
+       (a)    Indirect quote
+       (b)    Direct quote
+        (c)    Cross currency quote
+       (d)    Bid and ask quote
+10.      If a quote is shared by bank to a dealer as USD/INR = 79-80, then at what rate Bank would
+      purchase the USD from that dealer.
+       (a)   79
+       (b)   80
+        (c)    79.5
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 69 ======================
+
+
+TREASURY – FOREX            5.69
+
+        (d)   79 minus spread.
+11.   Under which of the following situations  it can be concluded that forward is expressed at
+       discount:
+        (a)    Forward price > Spot price
+        (b)    Spot price > Forward price
+        (c)    Forward price = Spot price
+       (d)    In case present value is lower than future value
+12.   Which of the following instruments gives a right to the holder to sell an underlying instrument
+       at a specified price at a future date after the payment of premium.
+       (a)    Put Option
+       (b)    Call Option
+        (c)    Forward purchase contract
+       (d)    Forward sales contract
+13.   Which of the following swaps is used to hedge against the risk of foreign floating rate basis
+      borrowing which has currency risk and interest rate risk both.
+       (a)    Interest rate swap
+       (b)    Cross currency swap
+        (c)    Cross currency interest rate swap
+       (d)   Swap options
+14.   Which position would be taken by a dealer in case the overall interest rate is expected to go
+     down?
+       (a)    Sell bond futures
+       (b)   Purchase bond futures
+        (c)    Cross currency swap
+       (d)   Commodity futures
+Theoretical Questions
+1.  Explain different segments of the interbank foreign exchange market.
+2.  What  is a Current Account Transaction? Are there any  restrictions on Current Account
+    Transactions. If yes, then briefly discuss them.
+3.  Discuss the factors impacting the foreign exchange market.
+4.  Explain the factors affecting exchange rates.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 70 ======================
+
+
+5.70         FOREX AND TREASURY MANAGEMENT
+
+5.   Briefly discuss the various forex treasury products in the treasury department.
+Practical Questions
+1.    The price of a bond just before a year of maturity is $ 10,000. Its redemption value is $ 10,500
+       at the end of a particular period. Interest is $ 700 p.a. The Dollar appreciates by 2% during
+       that period. Calculate the rate of return from the US Investor’s and Non-US Investor’s
+       viewpoint.
+2.        If the present interest rate for 6 months borrowings in India is 10% per annum and the
+      corresponding rate in USA is 3% per annum, and the US$ is selling in India at ` 82.5/$.
+      Then,
+          (i)     Will US $ be at a premium or at a discount in the Indian Forward Market?
+           (ii)    Find out the expected 6 month forward rate for US$ in India.
+           (iii)   Find out the rate of forward premium/discount.
+3.    The following 2-way quotes appear in the foreign exchange market:
+                              Spot              2-months forward
+     RS/US $            ` 83.00/`82.25      ` 84.00/` 84.50
+      Required:
+          (i)   How many US dollars should a firm sell to get ` 50 lakhs after 2 months?
+           (ii)   How many Rupees is the firm required to pay to obtain US $ 2,50,000 in the spot
+            market?
+           (iii)   Assume the firm has US $ 72,000 in current accounts earning no interest. ROI on
+          Rupee investment is 10% p.a. Should the firm encash the US $ now or 2 months later?
+
+ANSWERS/SOLUTIONS
+Answer to Multiple Choice Questions
+    1.        (d)        2.        (d)        3.        (a)        4.        (d)        5.        (d)
+    6.        (d)        7.        (a)        8.        (a)        9.        (b)       10.       (a)
+   11.       (b)       12.       (a)       13.       (c)       14.       (b)
+
+Answers to Theoretical Questions
+1.    Please refer to paragraph 1.1
+2.    Please refer to paragraph 1.4.4
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 71 ======================
+
+
+TREASURY – FOREX            5.71
+
+3.    Please refer to paragraph 1.6
+4.    Please refer to paragraph 2.2
+5.    Please refer to paragraph 3.2
+Answers to Practical Questions
+1.    Here we can assume two cases (i) If investor is US investor, then there will be no impact of
+       appreciation in $. (ii) If investor is from any other nation other than US say Indian then there
+         will be impact of $ appreciation on his returns.
+        First, we shall compute return on bond which will be common for both investors.
+                  (Price at end - Price at begining)+Interest      Return =
+                              Price at begining
+               (10500 − 10000) + 700           =
+                    10000
+              500 + 700           =          =0.12 say 12%
+               10000
+          (i)    For US investor the return shall be 12% and there will be no impact of appreciation in
+               $.
+           (ii)       If $ appreciate by 2% then return for non-US investor shall be:
+            Return x 1.02 = 0.12 x 1.02=0.1224 i.e. 12.24%
+              Alternatively, it can also be considered that $ appreciation will be applicable to the
+           amount of principal as well. The answer therefore could also be -
+             (1+0.12) (1+0.02) -1 =1.12X1.02 - 1 = 0.1424 i.e. 14.24%.
+2.       (i)    Under the given circumstances, the USD is expected to quote at a premium in India
+            as the interest rate is higher in India.
+          (ii)    Calculation of the forward rate:
+            1 + R h   F1               =
+            1 + R f  E o
+           Where: Rh is home currency interest rate, Rf is foreign currency interest rate, F1 is end
+               of the period forward rate, and Eo is the spot rate.
+                     1 +  ( 0.10/2 )     F1             Therefore            =
+                      1 + ( 0.03 / 2 )     82.5
+             1 + 0.05        1F                  =
+             1 + 0.015     82.5
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 72 ======================
+
+
+5.72         FOREX AND TREASURY MANAGEMENT
+
+              or 1.015 1F = 86.625
+              or F1 = ` 85.34
+          (iii)   Rate of premium:
+            85.34 - 82.50    12                   ×    × 100 = 6.88%
+                82.50       6
+3.       (i)   US $ required to get ` 50 lakhs after 2 months at the Rate of ` 84/$
+           ` 50,00,000
+                     = US $ 59,523.8095
+              ` 84
+          (ii)   ` required to get US$ 2,50,000 now at the rate of ` 82.25/$
+      ∴ US $ 250,000 × ` 82.25 = ` 2,05,62,500
+          (iii)   Encashing US $ 72000 now versus 2 months later
+                      If we can encash in open mkt $ 72000 × ` 83 = ` 59,76,000
+             Opportunity gain
+                        10   2           = 59,76,000×    ×                                `  99,600
+                        100  12
+              Likely sum at end of 2 months                             60,75,000
+            Proceeds if we can encash by forward rate:
+           $ 72,000 × ` 84.00                                       60,48,000
+           It is better to encash the now and get opportunity gain.
+
+
+© The Institute of Chartered Accountants of India

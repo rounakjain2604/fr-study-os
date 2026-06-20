@@ -1,4 +1,4 @@
-const CACHE_NAME = "fr-study-os-v11";
+const CACHE_NAME = "trinsic-v12";
 const APP_SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", (event) => {

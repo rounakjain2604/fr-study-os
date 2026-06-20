@@ -1,0 +1,3844 @@
+Source PDF: 07_SPOM/Set_C_08_Valuation/004 - Chapter-3- Valuation Approaches and Methodologies - 79627bos63598-cp3.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_08_Valuation\004 - Chapter-3- Valuation Approaches and Methodologies - 79627bos63598-cp3.pdf
+Extracted at: 2026-05-31T10:33:25+05:30
+Pages: 71
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          3
+
+
+VALUATION APPROACHES
+AND METHODOLOGIES
+
+
+                       LEARNING OUTCOMES
+
+At the end of this chapter, you will be able to understand:
+   Valuation Approaches (Definition)
+   ¾   Asset Based Approach
+   ¾   Income/Earning Based Approach
+        Price/Earnings Ratio & Price/Growth Ratio
+        Earning measure on Cash Flow Basis (DCF Approach)
+        Earning measure non-Cash Flow Basis (Non DCF Approach)
+   ¾   Market Based Approach
+   Fair Value Computation
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+1.23.2           VALUATION
+
+
+CHAPTER OVERVIEW
+
+
+                         Valuation Approaches and
+                            Methodologies
+
+
+                                  Asset Based
+                                 Approach
+
+
+                                     Income/
+                                  Earning Based
+                                 Approach
+
+
+                                                           Earning measure on                                Earning Measure on
+     Price/Earning Ratio                              Non Cash Flow Basis                             Cash Flow Basis
+
+
+                                  Market Based
+                                 Approach
+
+
+                                          Fair Value
+                                 Computation
+
+
+ © The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+3.3      VALUATION APPROACHES AND METHODOLOGIES      1.3
+
+
+     1.  INTRODUCTION
+
+Valuation, in the realm of finance and accounting, serves as a cornerstone for decision-making
+processes across various sectors and industries. It entails the estimation of the worth or fair value
+of assets,  liabilities, businesses, or securities, providing stakeholders with  critical insights for
+investment, financial reporting, taxation, and other strategic endeavors (e.g., Buyback, M&A etc.).
+Valuation approaches and methodologies encompass a diverse array of techniques, each tailored
+to the specific context and purpose of the valuation exercise.
+
+These approaches often blend elements of financial theory, market analysis, and quantitative
+modeling to arrive at a credible and defensible valuation outcome. From traditional methods such
+as the discounted cash flow (DCF) and comparable company analysis (CCA) to more specialized
+techniques like option pricing models (Black Scholes Model) and real options analysis, practitioners
+must navigate a nuanced landscape to accurately capture the intrinsic value of assets and entities.
+Moreover, the evolving dynamics of global markets, regulatory frameworks, and technological
+advancements continuously shape and refine valuation practices, underscoring the importance of a
+robust understanding of valuation principles and methodologies for accounting professionals.
+In this chapter, we explore the key valuation methods, their theory, practical uses, and how they impact
+financial decisions in today's business world.
+
+     2.  APPROACHES OF VALUATION
+The following are the 3 widely accepted approaches:
+
+i    Market based approaches
+
+i    Income / Earning based approaches
+
+i    Asset / Cost based approaches
+
+Market Approach measures value based on what other purchasers in the market have paid for
+assets that can be considered reasonably similar to those being valued.
+
+Income / Earning Approach is based on the present value of future earnings from the asset.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+1.43.4           VALUATION
+
+
+Asset / Cost Approach is based on the costs of developing or acquiring a new asset that is of similar
+use as the existing one.
+
+
+Selection of the Correct Approach:  In most cases, there may never be one single approach to
+identify the correct value of a transaction. This must be finalized based on the Background and the
+Purpose of the Valuation. Once we understand the background and the purpose of the valuation,
+we must proceed towards gathering the below information:
+
+1.    Nature of Asset to be Valued;
+
+2.      Availability of adequate Inputs / Information and its reliability;
+
+3.     Strengths and Weakness of each Valuation Approach and Method;
+
+4.     Valuation Approach / Method considered by Market Participants;
+
+5.    Understanding the Purpose / Base / Premise of the Valuation:
+
+       (a)       If the Valuation is for the purpose of liquidation, the Valuer would use the Realizable
+            Value of the Net Assets as the company will no longer exist and going concern is
+             questionable, hence predicting future cash-flows will not be possible.
+
+       (b)    In case of Valuing a Start-up, since it is more privately held and the shares of
+           such Start-up being illiquid (less tradeable) as compared to investments in
+             publicly  traded companies  hence  there  can  be  lack  of  adequate  market
+            comparables. Further, in most cases of startup valuation, there is no track record of
+              profits/cashflow. In the absence of another identical company, Market Approach might
+             not be appropriate for reliable Valuation (unless there are comparable transactions
+              involving similar businesses for which information is available). In such case Income
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+3.5      VALUATION APPROACHES AND METHODOLOGIES      1.5
+
+
+            Approach can be considered subject to the availability of adequate observable inputs
+                like Actual Cash Flows and projected growth.
+
+        (c)     In certain aspects, the Statutory requirements may drive the Valuation Approach
+             wherein, the Statute may have prescribed the Valuation Approach  / Method to be
+            adopted  or may have even  spelt  out  the computation  for  the  given  specific
+             requirement, for example, Income-tax Act prescribes steps under Rule 11UA).
+
+6.    The Valuation Approach / Method shall be selected in the manner which would maximize the
+     use of RELEVANT OBSERVABLE INPUTS and MINIMIZE the use of UNOBSERVABLE
+     INPUTS. Select examples are as under:
+
+        (a)    Relevant Observable Inputs:
+
+                    (i)     Price / Cost for similar or identical assets in Active Market;
+
+                      (ii)    Actual Cash Flow generated.
+
+       (b)    Unobservable Inputs:
+
+                    (i)    Estimated Price / Cost for Un-identical Assets;
+
+                      (ii)    Projected Cash Flow generated
+
+The Valuer, based on the above information, may consider adopting a single approach or might
+consider multiple approaches to arrive at a reliable conclusion.
+
+Using more than one approach is recommended under scenarios when there are insufficient factual
+inputs for a single method to arrive at a reliable Value. When adopting multiple approaches, the
+Valuer needs to assign weights to different approaches as considered appropriate under the given
+circumstances.
+
+If the values under different approaches are in significant variance from each other, then the Valuer
+shall use his / her / their Professional Judgement to either consider or to discard or to revisit the
+value under a particular approach.
+
+ Purpose implies the reason for which Valuation is being conducted (Para 6.31 of  Valuation
+ Standard issued by the Institute of Chartered Accountants of India (ICAI VS)- ICAI VS 101 .
+
+ Premise of Value refers to the conditions and circumstances how an Asset is deployed (Para
+ 6.29 of ICAI VS 101).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+1.63.6           VALUATION
+
+
+ Observable Inputs are the Inputs that are developed using market data, such as publicly
+ available information about actual events or transactions, and that reflect the assumptions that
+ Market Participants would use when pricing the Asset or Liability (Para 6.25 of ICAI VS 101).
+
+ Unobservable Inputs are those Inputs for which market data are not available and that are
+ developed using the best information available about the assumptions that Market Participants
+ would use when pricing the Asset or Liability (Para 6.42 of ICAI VS 101).
+
+ Market Participants (Para 6.24 of ICAI VS 101) are willing buyers and willing sellers in the
+ principal (or most advantageous) market for the Asset or Liability that have all the following
+ characteristics:
+
+ (a)    they are independent of each other, i.e., they are not related parties as defined under
+        applicable accounting framework and set of reporting  / accounting standards therein,
+        although the price in a related party transaction may be used as an input to a fair value
+       measurement  if the entity has evidence that the transaction was entered into at market
+        terms;
+
+ (b)    they are knowledgeable, having a reasonable understanding about the Asset or Liability
+       and the transaction using all available information, including information that might be
+        obtained through due care that is usual and customary;
+
+  (c)    they can enter a transaction for the Asset or Liability; and
+
+ (d)    they are willing to enter a transaction for the Asset or Liability, i.e., they are motivated but
+        not forced or otherwise compelled to do so.
+
+2.1  Market Based Approach
+
+The market approach to valuation relies on real world market data to determine the worth of a
+business or an asset.  It leverages the  principle  of supply or demand, market  efficiency or
+comparative analysis to derive its value.
+
+The following are 3 methods under the Market Based Approach:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+3.7      VALUATION APPROACHES AND METHODOLOGIES      1.7
+
+
+Situations where Market Approach is relevant:
+
+1.   When the Asset to be Valued is TRADED in the Active Market; or
+
+2.   When there are RECENT, Orderly Transactions in the Asset to be Valued which are identical
+           / comparable in nature; or
+
+3.    INFORMATION is AVAILABLE and RELIABLE on the recent orderly transactions in identical
+           / comparable Assets.
+
+       Active Market is a market in which transactions for the Asset or Liability take place with
+         sufficient frequency and volume to provide pricing information on an ongoing basis (Para
+        6.1 of ICAI VS 101).
+
+       For listed securities, Active Market would refer to one where activity  / transaction is
+       ongoing in the Stock Exchanges (BSE, NSE, etc.,) and as defined in the guidelines issued
+       by SEBI.
+
+       Orderly Transaction is a transaction that assumes exposure to the market for a period
+        before the Valuation Date to allow for marketing activities that are usual and customary for
+        transactions involving such Assets or Liabilities and  it is not a forced transaction. The
+        length of exposure time will vary according to the type of asset and market conditions (Para
+        6.27 of ICAI VS 101).
+
+       Asset would refer to the Assets that need to be Valued during an engagement and will
+        also include a group of Assets, a Liability or a group of Liabilities, business, or business
+       ownership interests. Any reference to the term Asset also includes Liability (Para 6.2 of
+        ICAI VS 101).
+
+Certain benefits of using Market Approach:
+
+1.        It is easy to use, simple to comprehend, less time consuming and easily understood by users.
+
+2.        It incorporates information from other Valuations in a simple way and provides consistency in
+       the Valuation process by ensuring that Valuation is in line with other comparative Valuations.
+
+3.        It relies upon market information and implicitly embodies current market consensus about
+      assumptions such as the discount rate and growth rate. Hence, it reflects the current mood
+       of the market.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+1.83.8           VALUATION
+
+
+Certain limitations of Market Approach:
+
+1.     Relative Valuation is as good as the Valuation of the comparable companies and suffers from
+         volatility of the market.
+
+      For Example,  in case the market  is overvaluing comparable companies, the Relative
+       Valuation will also lead to overstatement of Value.
+
+2.     Identifying comparable companies with similar growth rates, business composition, stage and
+       riskiness of business is a difficult task and finding a perfect match is extremely challenging.
+       Adjusting the multiples for company-specific information is subjective and is always subject
+       to many debates.
+
+3.     Differences in accounting policies related to revenue recognition, depreciation, etc., though
+       adjustable to a certain extent, can result in a distorted valuation.
+2.1.1 Market Price Method
+
+A Valuer considers the traded price observed over a reasonable period while Valuing Assets which
+are traded in the Active Market under the market price method. A Valuer also considers the market
+where the trading volume of asset is the highest when such asset is traded in more than one active
+market. Further the Valuer should consider using weighted average or volume weighted average to
+reduce the impact of volatility or any one-time event in the asset.
+
+Example-1: The Equity Shares of Reliance Industries Limited (RIL) are listed on both National Stock
+Exchange (‘NSE’) and Bombay Stock Exchange (‘BSE’) and shares of RIL are widely traded with
+high-volume transactions, further RIL is a going concern entity.
+
+Accordingly, the Market Price can be considered for determining its Value. The Valuer will have to
+also consider whether to adopt the price as on a specific date or an average  / volume weighted
+average over a period. The Valuer must also consider the length of such period based on facts and
+circumstances for valuing a company like RIL.
+
+Example-2: The Equity Shares of Sika Interplant Systems (SIS) is listed only on Bombay Stock
+Exchange (‘BSE’) and not on National Stock Exchange (‘NSE’) and shares of SIS is not traded
+frequently, further SIS is a going concern entity.
+
+Accordingly, either the Market Price may not be considered for determining its Value or if used, be
+given a lower weightage in overall evaluation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+3.9      VALUATION APPROACHES AND METHODOLOGIES      1.9
+
+
+2.1.2 Comparable Companies Multiple (CCM) Method
+
+This is also an internationally accepted method under IVS 105 – Valuation Approaches and Methods.
+
+CCM Method involves Valuing an Asset based on Market Multiples derived from prices of market
+comparable companies which are traded on Active Market and is also known as Guideline Public
+Company (GPC) Method,  internationally  this method  is known as Guideline Publicly Traded
+Comparable (GPTC) Method.
+
+A Comparable Company  / Assets selection  is based on various factors including the
+following:
+
+1.     Operational Processes;
+
+2.    Cash Flows;
+
+3.    Growth Potential; and
+
+4.     Risks which are similar to the Company being Valued.
+
+The inherent drawback of CCM method is that, finding a direct comparable company becomes a
+very difficult exercise. Such direct comparable company can be traced only in very few industries.
+
+The CCM method uses a contextual approach to derive the Value of a Business or Asset, as opposed
+to Income Approach that Value a Company internally based on Cash Flow and other factors, without
+any comparisons.
+
+Important Steps in deriving a Value using the CCM:
+
+1.      Identification of Market Comparable Companies;
+
+2.     Selection and Computation of Market Multiples;
+
+3.    Comparison of Assets with Comparable Company’s Assets to trace for material differences;
+
+4.      Identification of adjustments of material differences to the Market Multiple;
+
+5.     Application of adjusted Market Multiple to the relevant parameter of the Asset to be Valued;
+
+6.    Computation of Value of the Asset using Market Multiples based on different metrics  /
+      parameters.
+
+The above steps are further explained in the forthcoming paragraphs:
+
+1.     Identification and Selection of Market Comparable Companies:
+
+       Traditionally, when looking at the companies within a specific industry / sector, provides a
+      reasonable number  of comparable companies (example, Infosys  vs. TCS  vs. Wipro).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+1.103.10           VALUATION
+
+
+       Alternatively, in certain situations, it is necessary to identify comparable companies across
+        different  industries   / sectors (example, Reliance  Industries  vs. Adani Enterprises  vs.
+      Vedanta).
+
+     The Valuer ideally needs to try and use several market comparable companies rather than
+       relying on a single comparable company. The following factors shall be considered in
+       identifying the comparables. These factors are to be assessed, within the industry, keeping
+        in mind, the company for which Valuation is to be conducted under the CCM Method:
+
+       (a)    Industry within which the Asset under Valuation, belongs;
+
+       (b)    Geographic area of its Operations;
+
+        (c)    Similar line of Business;
+
+       (d)    Similar Economic Forces that affect the Asset being Valued;
+
+       (e)    Size of the Comparable (example, Revenue, Asset, Market Cap etc.,)
+
+          (f)    Stage of the Lifecycle of the Asset and the Comparable;
+
+       (g)     Profitability/ Margins and Diversification of the Asset and the Comparable;
+
+      There may be other factors which the Valuer should consider when identifying and selecting
+       the Market Comparable.
+
+      Example for Selection of Multiples:
+
+     A 2-year-old EV Manufacturing Company is being acquired by a Foreign Company where
+       the objective is to enter the Indian market by capitalizing on their market reach.
+       For CCM method following Multiples can be explored:
+        1.    Book  Value  Multiple:  Asset heavy  businesses  that does  require  significant
+             investments on assets to scale further. Can be selected.
+
+        2.    EBITDA Multiple: Business in Manufacturing space, tend to have low EBIT margins
+           when Capital Investments are still being made. May not be selected.
+
+        3.    Revenue Multiple: Business had not achieved continuity in revenue and had not yet
+             broken into the market, which affects the visibility in the next few years. Shall not
+           be selected.
+
+2.    Computation of Market Multiples:
+
+     Once the Market Comparable is Identified and Selected, the next step is to compute the
+      standardized set of ratios for comparison commonly known as multiples.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+3.11      VALUATION APPROACHES AND METHODOLOGIES      1.11
+
+
+       Multiples are ratio of the Comparable Company over different financial parameters as:
+
+        (a)   Revenue;
+
+        (b)    Earnings before Interest, Tax, Depreciation and Amortization (EBITDA);
+
+        (c)     Profit after Tax (PAT);
+
+        (d)    Earnings per Share (EPS);
+
+        (e)   Book Value (BV), etc.,
+
+           It is common and prudent practice by valuers to use EBIDTA instead of PAT, to eliminate the
+       effect of difference in depreciation policy and impact of leveraging.
+
+     The computation of Market Multiples shall be based on the following inputs:
+
+       A.    Trading Prices of Market Comparable Companies in an Active Market;
+                                 AND
+
+       B.     Financial Metrics such as EBITDA, Revenue, BV, PAT, etc.,
+
+       In some cases, apart from the Market Multiples based on Financial Metrics, the Valuer may
+       also consider certain Non-Financial Metrics, such as:
+
+        (a)   Tower Telecom Companies (example, Indus Towers), Enterprise Value (EV) per
+            Tower;
+
+       (b)   Cement Companies (example, Dalmia Bharat, Ultratech), EV per Tonne of Cement
+             Manufacturing Capacity;
+
+        (e)     Oil Refining, Marketing Companies (example, IOC, BPCL, HPCL), EV per Oil Barrel.
+
+        (d)    Hotels (For Example Indian Hotels- Taj), EV per Room.
+
+3.    Comparison of Assets with Comparable Company’s Assets to trace for material
+      differences:
+
+     The Valuer shall record  all the material differences and use Professional Judgement in
+      comparing the Asset under Valuation with the Comparable Company’s Assets.
+
+4.     Identification of adjustments of material differences to the Market Multiple:
+
+      Comparable Companies are not exactly like the company being Valued, the multiples derived
+      from such companies cannot be applied as it is, and thus necessary adjustments are required
+       to account for differences in risk profile, growth rate, contingent liability etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+1.123.12           VALUATION
+
+
+      For example, a company with better growth may be valued using a premium to the multiple
+      enjoyed by market comparable.
+
+     The following are some of the differences between the Asset to be Valued and Market
+      Comparable that the Valuer may consider while adjusting the Market Multiple:
+
+        (a)    Size of the Asset;
+
+        (b)    Geographic Location;
+
+        (c)     Profitability in absolute terms as well percentage of turnover;
+
+        (d)    Stage of Life-Cycle of the Asset;
+
+        (e)    Diversification of products as well as customer base;
+
+          (f)     Historical and expected growth;
+
+        (g)   Management Profile.
+
+       (h)   Adherence to Environment, Governance and Social (ESG) norms.
+
+5.     Application of adjustments to the Market Multiple for the relevant parameter of the
+      Asset to be Valued:
+
+     The Valuer shall apply the relevant adjustments to the market multiple.
+
+6.    Computation of Value of the Asset using Market Multiples based on different metrics /
+      parameters:
+
+     The last step is to apply the adjusted Market Multiple to the relevant parameter of the Asset
+       to be Valued to arrive at the Value of such asset.
+
+     The computed Value may need to be adjusted for Discount  / Premium to factor in for the
+       specifics of the asset.
+
+     The adjustments are as follows:
+
+       1.    Control Premium to factor in the benefits of controlling the business operations,
+               directly or indirectly, when applicable; or
+
+       2.    Discount for Lack of Marketability (DLOM) for the unlisted securities or illiquidity
+                 risk; or
+
+       3.    Discount for size of the business, an adjustment made in valuation to reflect the
+            decreased risk or liquidity associated with smaller-sized companies; or
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+3.13      VALUATION APPROACHES AND METHODOLOGIES      1.13
+
+
+       4.    Any other specific adjustments such as synergy gains, cost of post transaction
+               integration, etc.
+
+Illustration on CCM Method:
+
+10-year-old established company DEF Ltd has a total Sales of INR 35000 Mn and a PAT of INR 500
+Mn (including one-time expense). The comparable multiples for business in the same industry and
+with similar attributes are as under:
+
+                Market Data               Financial Data            Valuation Multiples
+
+                  Market                               EV /     EV /   Co.     Price          EV     Sales   EBITDA  PAT                  PE
+                 Cap                                        Sales   EBITDA
+
+  INR per Share                  INR in Mn                             Metrics
+
+ ABC Ltd   240    7500    10000   20000     8000    2000     0.50      1.25     3.75
+
+ PQR Ltd   500    5000    6000    10000     4000    1000     0.60      1.50     5.00
+
+ XYZ Ltd   100    10000   12500   30000    10000   2000     0.42      1.25     5.00
+
+                         Average                                0.51      1.33     4.58
+
+From the above, EV/Sales can be considered as a multiple, as PAT is not normal and has one-time
+elements too. Accordingly, the Enterprise Valuation of DEF Ltd can be considered as follows:
+
+ = 0.51 x INR 35000 Mn = INR 17,850 Mn
+
+ Enterprise Value (EV):
+
+  It is the true Economic Value of a company. It is computed as follows:
+
+ Market Capitalization + Long-term Debt + (Minority Interest less Cash)–Investments in
+ Affiliates, Long-term Investments
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+1.143.14           VALUATION
+
+
+ EV of a Company can be broken-down in to:
+
+ 1.    Core EV or Operating EV
+
+ 2.    Non Core / Non Operating EV
+
+ 3.   Sum of Core EV / Operating EV and Non Core / Non Operating is Total EV.
+
+ Operating EV: Value of all Operating Activities. All the Non-Operating Assets shall be reduced
+ (including investment in shares of associates and other non-operating investments).
+
+ Non Operating EV: Value of all Non Operating Activities – such as surplus assets, investments
+  in associates etc.,
+
+2.1.3 Comparable Transaction Multiple (CTM) Method
+
+This is also an internationally accepted method under IVS 105 – Valuation Approaches and Methods.
+
+CTM Method also known as the Guideline Transaction (GT) Method involves Valuing a business
+based on Transaction Multiples derived from prices paid in transaction of Asset to be Valued / Market
+Comparables (Comparable Transactions).
+
+It is a variant of the CCM Method and uses Transaction Multiples instead of Trading Multiples. The
+Transaction Multiples, as the name suggests, are the multiples implied in the recent acquisition /
+disposals of comparable companies / business.
+
+A Comparable Transaction / Business selection is based on various factors including the following:
+
+1.     Comparability of the entity involved in the transaction
+
+2.    Recency of the Transaction;
+
+3.    Background of the Transaction; and
+
+4.    Deal Structure of the Transaction.
+
+The inherent drawback of CT method is that, finding a direct comparable transaction becomes a
+very difficult exercise. Further, many a time, the details relating to actual transactions are not
+available in the public domain when the company is in unlisted space. Such direct comparable
+transactions can be traced only in very few industries.
+
+Important Steps in deriving a Value using the CTM:
+
+1.      Identification of Transaction Comparable;
+
+2.     Selection and Computation of Transaction Multiples;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+3.15      VALUATION APPROACHES AND METHODOLOGIES      1.15
+
+
+3.    Comparison of Assets with Comparable Company’s Assets to trace for material differences;
+
+4.      Identification of adjustments of material differences to the Transaction Multiple;
+
+5.     Application of adjusted Transaction Multiple to the relevant parameter of the Asset to be
+      Valued;
+
+6.    Computation of Value of the Asset using Transaction Multiples based on different metrics /
+      parameters.
+
+When identifying and selecting the Comparable Transaction, the Valuer shall consider the
+following factors:
+
+i     Transactions, that have been consummated closer to Valuation Date are generally more
+       representative of the market conditions prevailing during that time;
+
+i    Selected Comparable is an Orderly Transaction;
+
+i     Availability of sufficient authentic Information on the Transactions to enable the Valuer to
+      reasonably understand the market comparable and derive the appropriate Transaction
+       Multiple;
+
+i     Availability of information from the reliable sources such as:
+
+   ¾    Regulatory Filings
+
+   ¾     Industry Magazines
+
+   ¾    Merger & Acquisition Databases, etc.,
+
+The computation of Transaction Multiples shall be based on the following inputs:
+
+A.     Price Paid in the Comparable Transaction;
+
+             AND
+
+B.     Financial Metrics such as EBITDA, Revenue, BV, PAT, etc., of the Market Comparable.
+
+In some cases, apart from the Transaction Multiples based on Financial Metrics, the Valuer may
+also consider certain Non-Financial Metrics, such as:
+
+(a)    Hotel Companies (example, Chalet Hotels), Enterprise Value (EV) per Room;
+
+(b)    Hospital Companies (example, Fortis, Apollo), EV per Bed;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+1.163.16           VALUATION
+
+
+Adjustments of material differences to the Transaction Multiple:
+
+Comparable Transactions are not exactly like the company being Valued, the multiples derived from
+such companies cannot be applied as it is, and thus necessary adjustments are required to account
+for differences in risk profile, growth rate, contingent liability etc.
+
+For example, a company with better growth potential shall require a positive adjustment to its
+multiple.
+
+The following are some of the differences between the Asset to be Valued and Transaction
+Comparable that the Valuer may consider while adjusting the Transaction Multiple:
+
+(a)    Size of the Asset;
+
+(b)    Geographic Location;
+
+(c)     Profitability;
+
+(d)    Stage of Life-Cycle of the Asset;
+
+(e)    Diversification;
+
+(f)     Historical and expected growth;
+
+(g)   Management Profile (private ownership vs. public sector undertaking);
+
+(h)    Contingent Consideration / Milestone Payment / Deferred Consideration.
+
+It shall always be presumed that the Value computed under the Comparable Transaction Method is
+inclusive of adjustments towards discount / premium, hence when applying such metrics to the Value
+of the Asset, the Valuer shall use their Professional Judgement in doing so, to avoid any double
+counting.
+
+The adjustments to look-out for, are as follows:
+
+1.    Control Premium to factor in the benefits of controlling the business operations, directly or
+        indirectly, when applicable; or
+
+2.    Discount for Lack of Marketability (DLOM) for the unlisted securities or illiquidity risk; or
+
+3.    Discount for size of the business, an adjustment made in valuation to reflect the decreased
+        risk or liquidity associated with smaller-sized companies; or
+
+4.    Any other specific adjustments such as synergy gains, cost of post transaction integration,
+        etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+3.17      VALUATION APPROACHES AND METHODOLOGIES      1.17
+
+
+Illustration on CTM Method:
+
+7-year-old start-up company D Ltd has, is an e-commerce player and has 20 Lakh monthly active
+users (MAU). While the other established start-up Z Ltd in the similar industry has 3.2 Crore MAU.
+Let us say Z Ltd was recently acquired for INR 2500 Crores.
+
+From the above, EV/MAU can be considered as a transaction multiple. Accordingly, the Valuation of
+D Ltd can be considered as follows:
+
+Multiples of Z Ltd = INR 2500 Crores ÷ 3.2 Crore MAU
+
+EV per MAU = INR 781.25
+
+Hence, the value of D Ltd can be estimated as follows:
+
+Value of D Ltd = 20 Lakh MAU x INR 781.25 = INR 156.25 Crores.
+
+(Based on assumption that no adjustment is required to be made to the Comparable Transaction
+Multiple such as size, Growth prospects, etc.)
+
+Some commonly used multiples are given below:
+
+ Enterprise Value Multiples                   Equity Value Multiples
+
+ EV ÷ EBIT                          P ÷ E
+ Enterprise Value ÷ Earnings Before Interest      Price ÷ Earnings
+ and Taxes                                    Market Capitalization
+                                       =   Market Capitalization+Debt                                                   Net Profit =
+           EBIT
+ EV ÷ EBITDA                        P ÷ CE
+ Enterprise Value ÷ Earnings Before Interest      Price ÷ Cash Earnings
+ Taxes Depreciation and Amortization                    Market Capitalization
+                                       =   Market Capitalization+Debt                                              Net Profit+Amortization+Depreciation =
+          EBITA
+
+ EV ÷ Sales                          P ÷ BV
+   Market Capitalization+Debt                     Price ÷ Book Value
+ =
+            Sales                             Market Capitalization
+                                       =
+                                                          Equity
+
+ EV ÷ OCF                          P ÷ OCF
+   Market Capitalization+Debt                     Price ÷ Operating Cash Flow
+ =
+      Operating Cash Flow                       Market Capitalization
+                                       =
+                                                Operating Cash Flow
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+1.183.18           VALUATION
+
+2.2  Income / Earning Based Approach
+
+The Income / Earning based Approach of Valuations are based on the premise that converts the
+maintainable future amounts (cash flows) into a single current amount (discounted / capitalized).
+
+The Current Value of any business is a function of the Future Value that an investor can expect to
+receive from purchasing all or part of the business. It is generally used for valuing businesses that
+are expected to continue operating for the foreseeable future.
+
+The basic Time Value of Money formula is as follows:
+
+
+Wherein:
+
+FV = Future Value of money (after earning interest)
+
+PV = Present Value of money
+
+i = interest rate
+
+n = number of compounding periods per year (investment period / loan period)
+
+t = number of years (the time period for which money is held)
+
+Instances when Income Approach can be used:
+
+1.    Where the Asset does not have any Market Comparable or Comparable Transaction;
+
+2.    Where the Asset has fewer relevant Market Comparables; or
+
+3.    Where the Asset is an Income producing Asset for which the future cash flows are available
+      and can reasonably be projected.
+
+4.    Where the Asset is in initial phase of its operation and do not have fully matured operational
+       cashflows.
+
+       Reasonably Projected:
+
+      The importance  of making  realistic and well-founded projections  of  future  financial
+       performance  based  on  a  thorough  analysis  of  relevant  factors  and  reasonable
+       assumptions.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+3.19      VALUATION APPROACHES AND METHODOLOGIES      1.19
+
+
+      Example to explanation:
+
+         1.   A company’s revenue growth rate over the past few years has been 10%. Based on
+                 this trend,  it is reasonable to project that the company’s revenue will continue to
+            grow at a similar rate in the future
+
+         2.   A startup company has developed a new product that has received positive
+             feedback from early adopters. Based on this feedback,  it is reasonable to project
+                that the product will be successful in the market and generate significant revenue
+                 in the future.
+
+       Market driven Example:
+
+       According to moneycontrol.com, for Infosys Ltd’s Q3FY24 PAT (was reasonably projected)
+         at INR 6,244 crores, and Revenue (was reasonably projected) at INR 38,630 crores.
+
+      The actual results for Infosys Ltd’s Q3FY24 PAT at INR 6,106 crores and Revenue at INR
+       38,821 crores for Q3FY24.
+
+Instances when Other Approaches can be used or combined with Income Approach:
+
+1.    The Asset has not yet started generating income or cash flows,  e.g., projects under
+      development;
+
+2.    There is significant uncertainty on the amount and timing of income/future cash flows, e.g.,
+       start-up companies; or
+
+3.    The Client does not have access to the information relating to the Asset being Valued, e.g.,
+       minority shareholder may not have access to projections/budgets or growth expectations
+       specific to the business.
+
+
+2.2.1 Price Earnings Ratio based Valuation
+
+The price-to-earnings (P/E) ratio measures a company's share price relative to its earnings per share
+(EPS). Often called the price or earnings multiple, the P/E ratio helps assess the relative value of a
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+1.203.20           VALUATION
+
+
+company's stock. It's handy for comparing a company's valuation against its historical performance,
+against other firms within its industry, or the overall market. P/E can be estimated on a trailing
+(backward-looking) or forward (projected) basis.
+
+P/E Ratio Formula and Calculation
+
+The formula and calculation are as follows:
+
+P/E Ratio = Market value per share/ Earnings per share
+
+To determine the P/E value, divide the stock price by the EPS.
+
+Example on Price Earnings Ratio based Valuation
+
+The following figures are for Simba Cements. All figures except the stock price are in millions.
+
+ Fiscal Year End                        2023            2022           2021
+
+ Total Shareholders’ Equity                 66.70              65.4             58.96
+
+ Net Revenues                            70.32             68.98            62.45
+
+ Net Income                                8.94              7.98              6.87
+
+ Net Cash Flow from operations             11.45              9.67              8.96
+
+ Stock Price                               23.78             16.78            12.45
+
+ Shares Outstanding                        3.45              3.33              2.99
+
+Calculate Simba’s lagging P/E, P/CF, P/S, and P/B ratios. Judge whether the firm is undervalued or
+overvalued using the following relevant industry averages for 2023 and the firm’s historical trend.
+
+Lagging Industry Ratios 2023
+
+Price-to-earnings 9.6
+
+Price-to-cash flow 8.6
+
+Price-to-sales 1.9
+
+Price-to-book value 2.6
+
+Answer:
+
+To calculate the lagging price multiples, first divide the relevant financial statement items by the
+number of shares to get per-share amounts. Then, divide the stock price by this figure.
+
+        Fiscal Year End                        2023      2022      2021   Average
+
+ A     Total Shareholders’ Equity                 66.7       65.4      58.96
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+3.21      VALUATION APPROACHES AND METHODOLOGIES      1.21
+
+
+ B    Net Revenues                           70.32      68.98      62.45
+
+ C    Net Income                               8.94       7.98       6.87
+
+ D    Net Cash Flow from operations           11.45       9.67       8.96
+
+ E    Stock Price                             23.78      16.78      12.45
+
+ F    Shares Outstanding                       3.45       3.33       2.99
+
+ G    Earnings Per Share=C/F                   2.59       2.40       2.30
+
+ H     Price to Earning= E/G                     9.18       7.00       5.42       7.20
+
+  I    Cash Flow per Share=D/F                  3.32       2.90       3.00
+
+ J     Price to Cash Flow= E/I                    7.17       5.78       4.15       5.70
+
+ K    Sales per Share= B/F                    20.38      20.71      20.89
+
+ L     Price to Sales=E/K                        1.17       0.81       0.60       0.86
+
+ M   BV per Share=A/F                       19.33      19.64      19.72
+
+ N     Price to Book value=E/M                   1.23       0.85       0.63       0.91
+
+Compared to industry averages the shares of Simba Ltd seem to be undervalued.
+2.2.2 Discounted Cash Flow Method
+
+This is an internationally accepted method under IVS 105 – Valuation Approaches and Methods.
+
+The Discounted Cash Flow (“DCF”) method, an application of the Income Approach is arguably one
+of the most recognized methods to determine the Value of a Business.
+
+The DCF method indicates the Fair Value of a Business based on the value of cash flows that the
+business is expected to generate in future. This method involves the estimation of post-tax cash
+flows for the projected period, after considering the Business’s requirement of reinvestment in
+terms of capital expenditure and incremental working capital. These cash flows are then discounted
+at a cost of capital that reflects the risks of the business and the capital structure of the entity.
+
+While DCF method is a reliable and acceptable means to Valuation but appropriate care has to be
+taken to ensure that key assumptions are vetted and common pitfalls/mistakes are avoided.
+
+1.     Merits of DCF Method:
+
+(a)    Theoretically, it is a very sound model because it is based upon expected future cash flows
+       that will determine an investor’s actual return;
+
+(b)       It is based on expectations of performance specific to the business, and is not influenced by
+       short-term market conditions or non-economic indicators;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+1.223.22           VALUATION
+
+
+(c)       It is not as vulnerable to accounting conventions like depreciation, inventory valuation in
+      comparison with the other techniques  / approaches since  it is based on cash flows rather
+      than accounting profits;
+
+(d)       It is appropriate for valuing start-up projects, as these projects have little or no asset base or
+      earnings which render the Cost Approach (net asset value) or the Market Approach
+       (application of market multiples) inappropriate. However, it is important that the Valuer must
+      recognize the additional risks in such a case (e.g. project execution risk, lack of past track
+       record, etc.) by using an appropriate discount rate.
+
+2.    Drawbacks of DCF Method:
+
+(a)       It is only as good as its input assumptions. Following the “garbage in, garbage out” principle,
+            if the inputs  - Cash Flow Projections, Discount Rate, and Terminal Value  - are not
+       appropriately selected, then the value generated by using DCF Method will not reflect the
+       Fair Value.
+
+(b)   DCF Method does not consider several other factors, such as investment risk associated with
+       opportunity cost, i.e., investments that could return greater cash flow yields would add an
+       unrealized element of risk, unforeseen variations in future cash flow, and other non-financial
+       factors.
+
+3.     Variants of DCF Method:There are two widely used variants of the DCF Methodology, while
+one determines the Equity Value the other helps in determining the Enterprise Value.
+
+The key difference between the two is that Equity Value is the Total Value of all outstanding shares
+of the company whereas Enterprise Value is the Total Worth of a company without factoring in the
+financial structuring involved.
+
+Equity Value  is calculated by multiplying price of a single share with the number of shares
+outstanding whereas Enterprise Value is calculated inclusive of the Market Value of Equity and
+Market Value of Net Debt.
+
+ Equity Value can be determined from Enterprise Value by eliminating following:
+
+ Adjustments are as follows:
+
+ Add: Cash & Cash Equivalents (to the extent it is in excess of routine business needs)
+
+ Add: Fair Value of Surplus Assets including Land
+
+ Add: Fair Value of Investments and Deposits
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+3.23      VALUATION APPROACHES AND METHODOLOGIES      1.23
+
+
+ Add: PV of MAT Credit
+
+ Less: Contingent Liability
+
+ Less: Fair Value of Long-Term Debt
+
+ Less: Fair Value of Short-Term Debt
+
+4.    Free Cash Flow to Equity (“FCFE”): This method estimates the Equity Value which is the
+Cash distributable among the Equity Shareholders after  all expenses, reinvestments and debt
+obligations have been met by the company. The Equity Value is the sum of Present Value of all Free
+Cash Flows, discounted using the Cost of Equity (“COE” / Ke).
+
+The formula for estimating FCFE:
+
+ FCFE = Net Income or Profit After Tax – Dividend on Preference Shares + Depreciation & Amortization
+ – Capital Expenditure – Increase in Non-Cash Working Capital + Increase in Long-Term Debt or Short-
+ Term Debt or Preference Shares – Decrease in Long-Term Debt or Short-Term Debt or Preference
+ Shares.
+
+5.    Free Cash Flow to the Firm (“FCFF”):This method estimates the Enterprise Value (“EV”)
+which is the Net Amount of Cash available for distribution among Equity Shareholders, Preference
+Shareholders and Debt Holders, after all Expenses and Re-investment requirements have been met.
+EV is the sum of Present Value of all Free Cash Flows, discounted using the Weighted Average
+Cost of Capital (“WACC”).
+
+The Equity Value can be ascertained by adjusting the non-equity claims such as External Debt,
+Preference Shares, Minority Interest and Cash & Cash Equivalents from the EV.
+
+The formula for estimating FCFF:
+
+ FCFF = Earnings Before Interest and Tax * (1–tax rate) + Depreciation – Capital Expenditure –
+ Increase in Non-Cash Working Capital.
+
+Illustration to elaborate FCFF & FCFE:
+
+             Particulars             Legend   FCFF in INR Lacs  FCFE in INR Lacs
+
+         Revenue / Sales            A               20,000.00          20,000.00
+
+ Cash Expenses (Other than Interest)     B                7,000.00            7,000.00
+
+            EBITDA            C = A-B            13,000.00          13,000.00
+
+ Depreciation (as per Income-tax Act)     D                2,000.00            2,000.00
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+1.243.24           VALUATION
+
+
+              EBIT              E = C-D            11,000.00          11,000.00
+
+   Interest on Long-Term Borrowings       F                                  -            1,000.00
+
+   Interest on Short-Term Borrowings     G                                  -            1,000.00
+
+            PBT            H = E-F-G           11,000.00            9,000.00
+
+          Tax* @ 25.168%                             I                 2,768.48            2,265.12
+
+            PAT                   J = H-I              8,231.52            6,734.88
+
+ Depreciation (as per Income-tax Act)     D                2,000.00            2,000.00
+
+       Cash Profit After Tax        K = J+D            10,231.52            8,734.88
+
+     Less: Net Repayment of Debt         L                                  -             500.00
+
+     Cash Flow to Firm / Equity     M = K-L            10,231.52            8,234.88
+
+     Net Increase in Fixed Assets       N                (2,500.00)           (2,500.00)
+
+     Increase in Working Capital**       O                (1,500.00)           (1,500.00)
+
+
+          Free Cash Flow         P = M+N+O           6,231.52            4,234.88
+
+* It is assumed that the company has selected tax rate given under Sec 115BAA
+
+** Current Assets should include regular cash, but exclude surplus cash; and,
+
+Current Liabilities should exclude Short-Term Borrowings like, Cash Credit Limit, Book Debt Limit, Bank
+Overdraft, Deposits, etc.,
+
+6.    The following are the major steps in deriving a value using the DCF Method:
+
+(a)    Analyze the historical performance of the business;
+
+(b)    Ascertain what you are Valuing;
+
+(c)    Prepare the Financials Projections based on underlying Assumptions (generally for 4-6
+       years);
+
+(d)    Calculate post tax ‘Free Cash Flows’ for the Projection Period – FCFF or FCFE;
+
+(e)    Calculate the Discount Factor using either WACC or Cost of Equity;
+
+(f)    Discount the Free Cash Flows by applying the Discount Factor;
+
+(g)   Sum of the discounted free cash flows during the projection period is termed as the “Present
+      Value” (PV);
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+3.25      VALUATION APPROACHES AND METHODOLOGIES      1.25
+
+
+(h)    Estimate the Terminal Growth Rate and calculate the “Terminal Value” (TV);
+
+(i)    Add the PV and TV to arrive at the “Enterprise Value” or “Equity Value” (depending upon
+      whether FCFF or FCFE was used);
+
+(j)    Deduction of Net Debt from Enterprise Value results in Equity Value.
+
+DCF Template for Equity Value:
+
+              Particulars               Year-1  Year-2   Year-3   Year-4   Year-5  Terminal
+
+ Revenue                           xxxxx  xxxxx   xxxxx   xxxxx   xxxxx
+
+ Total Cost                                 (xxx)    (xxx)     (xxx)     (xxx)     (xxx)
+ (including Depreciation, Interest & Tax)
+
+ Net Profit                           xxxx   xxxx    xxxx    xxxx    xxxx
+
+ Add: Non-Cash Expense                  xx      xx       xx       xx       xx
+ (e.g. Depreciation)
+
+ Cash Profit                         xxxxx  xxxxx   xxxxx   xxxxx   xxxxx
+
+ Less: Non-Current Investments               (xx)     (xx)       (xx)       (xx)       (xx)
+
+ Add / Less: Working Capital Changes        xx      xx       xx       xx       xx
+
+ Add / Less: Change in Debt                 xx      xx       xx       xx       xx
+
+ Add   / Less: Change  in Preference       xx      xx       xx       xx       xx
+ Shares
+
+ Free Cash Flow to Equity              xxxxx  xxxxx   xxxxx   xxxxx   xxxxx    xxxxx
+
+ Terminal Value                                                                     xxxx
+
+ Discount Factor at Ke                    o.xxxx  o.xxxx    o.xxxx   o.xxxx   o.xxxx    o.xxxx
+
+ Present Value                        xxxx   xxxx    xxxx    xxxx    xxxx    xxxx
+
+ Sum of Present Value                  xxxxxx
+
+ Add: Cash, Investments and other Non      xxx
+ operating assets (say, surplus land)
+
+ Equity Value                       xxxxxx
+
+7.    To arrive at the Discounted Cash Flows the following three factors are of prime
+      importance:
+
+(a)   Cash Flow Projections
+
+(b)    Discount Rate
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+1.263.26           VALUATION
+
+
+(c)    Terminal Value
+
+Let’s look at each of them one by one.
+
+8      (a)   Cash Flow Projections: Some of the important points to be kept in mind with regards
+to Cash Flow Projections are stated below:
+
+1.    While projecting Cash-Flow it is recommended to project the Statement of Profit & Loss and
+      Balance Sheet, as the same gives a complete and holistic picture with all the pieces of
+       projection fitting in, be it Revenue, EBIDTA, Capital Expenditure, Interest cost, etc. However,
+        in certain cases, if Balance Sheet and Statement of Profit & Loss are not available, the details
+       of Future Capital Expenditure and Working Capital requirements may also suffice along with
+       the Revenue and Expense projections. The Valuer is expected to have an understanding
+       about, each of the drivers, which are driving the Financial Statements.
+
+2.     In Cash Flow Projections since the historical financial data is used so the first step shall be
+       to ensure that effective due diligence has been carried out for authenticating such historical
+       financial data. From a Valuation perspective, due diligence focuses on varied areas like the
+       following:
+
+        (a)    Potential overvalued assets;
+
+       (b)    Under-recorded or un-recorded liabilities;
+
+        (c)    Non-operating / non-recurring cash inflows;
+
+        (d)    Quality of management;
+
+       (e)   Tax position and structure and its impact to the future cash flows;
+
+          (f)    The robustness of the projected cash flows, and
+
+       (g)     All other matters of significant interest to the acquirer / purchaser, which mainly are
+             the Value Drivers.
+
+      There are several examples wherein hidden liabilities like show cause notices received which
+      are yet to be translated into demands, letters of comforts issued to banks etc., are not
+       disclosed in the financial statement.
+
+3.    The next step is to project the Cash Flows during the extraordinary growth period. The length
+       of the period of projections (explicit forecast period) shall be determined based on the
+       following factors:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+3.27      VALUATION APPROACHES AND METHODOLOGIES      1.27
+
+
+        (a)    Nature of the Asset: where the business is of cyclical nature, explicit forecast period
+            should ordinarily consider one entire cycle (for example: cement business);
+
+        (b)     Life of the Asset: In case of Asset with definite life, explicit period should be for the
+               entire life of the asset (for example: debt instruments, Build Operate Transfer (BOT)
+            road projects);
+
+        (c)     Sufficient Period: The forecast period should have a length of time that is sufficient for
+             the asset to achieve stable levels of operating performance;
+
+        (d)    Reliable Data: The data that are used for projecting the cash flows, should be reliable.
+           These cash flow projections should reasonably capture the growth prospects and
+             earnings capability of a company;
+
+        (e)    Understanding about the basis for future revenue growth and changes in profitability;
+
+          (f)    Knowledge about the business’ historical performance.
+
+4.     Effects of change in the policy of the company may be taken into account by the Valuer  if
+       they are known in advance (by discussion with the management team) and the effects are
+      capable of being reliably quantified. These can include changes associated with the utilization
+       of production capacity, organizational set-up, product-mix, financing  policy,  etc., Their
+       treatment in the projection of future profits will depend entirely upon the effect, which in the
+       opinion of the Valuer, such changes will have on such future profits.
+
+5.    An appropriate allocation must be made for Capital Expenditure in projections. They should
+       not  include  Capital Expenditure  only  for  capacity expansion  or growth  but  also  for
+      maintenance of the existing operations.
+
+6.    Working  Capital requirement  is  yet another important component.  Projections should
+       appropriately account for Working Capital needs of the business in its different phases.
+
+7.     Income-tax outflow also impacts the Value of a business, and the Valuer should incorporate
+      any tax benefits like tax holiday, accumulated losses, etc.
+
+8      (b)   Discount Rate: The discount rate measures the risk associated with the investment,
+i.e., the danger of low returns, and it determines what should be the ideal expected rate of return to
+compensate for the danger or risk undertaken. This together with the risk-free market rate of return
+forms the Discount Rate for DCF.
+
+For computing the Equity Value using Free Cash Flow to Equity, we use Cost of Equity (COE / Ke)
+as Discount Rate. For computing the Enterprise Value using Free Cash Flow to Firm approach,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+1.283.28           VALUATION
+
+
+Weighted Average Cost of Capital (WACC)  is used to Discount the Future Cash Flows. An
+adjustment with respect to the Premium / Discount may have to be factored to both the COE and
+WACC to arrive at the Discount Rate based on the factors such as liquidity, control, size, specific
+risks etc., (this was also discussed in the CCM Method).
+
+The Cost of Equity (“COE”) reflects the return expected by the equity shareholders, to compensate
+for the risk assumed through their investment in the business.
+
+The Cost of Debt (“COD”) is based on the current or expected borrowing rate for the company, which
+may be provided by the management of the company and is generally assumed to be the market
+rate.
+
+The Weighted Average Cost of Capital (“WACC”) is based on the proportionate weights of each
+component of the source of capital, i.e., weighted average of COE and COD wherein the ratio of
+Equity and Debt on total capital is proportion to their respective weights.
+
+WACC constitutes all capital sources:
+
+(a)    Equity Shares
+
+(b)    Preference Shares
+
+(c)    Long-term Debts
+
+(d)    Short-term Debts.
+
+While calculating WACC, the Market Value Weights of the above sources are preferred over Book
+Value Weights.  If the proportion of these sources is expected to change during explicit forecast
+period, then  it is appropriate to calculate WACC separately for each year in the explicit forecast
+period. But, if there are no significant changes expected, then a single WACC may be used for the
+entire explicit forecast period.
+
+It may also be appropriate in certain cases to consider the Weights based on industry average  /
+norms instead of using the Actual Weights as applicable to the business case.
+
+Further, though Market Weights are preferred, it is not uncommon in India to use Book Weights for
+WACC computation.
+
+Now let us look into how one can derive Cost of Equity and Cost of Debt:
+
+A.    Cost of Equity:
+
+COE / Ke, reflects the return expected by Investors in Equity of Business to compensate for the risk
+assumed by them through their investment in the business.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+3.29      VALUATION APPROACHES AND METHODOLOGIES      1.29
+
+
+The traditional and most common methods of determining cost of equity are:
+
+(i)    Dividend Capitalization Model;
+
+      and,
+
+(ii)    Capital Asset Pricing Model (CAPM).
+
+Dividend Capitalization Method:
+
+Value of Equity is obtained by Discounting the Expected Cash Flows to Equity Holders at the Cost
+of Equity. Thus, for publicly traded companies, IF it is assumed that the market price is correct and
+the expected dividends are known to the investors, then the Internal Rate of Return (IRR) can be
+well assumed to be the Cost of Equity.
+
+
+ܲ 0= Market Price of Equity
+
+ܦ 1= Expected dividend per share next year
+
+ܭ݁ = Cost of Equity
+
+݃ = Expected Growth Rate
+
+Hence it can well be said that
+
+
+The limitation of this approach is the base assumption that the Current Stock Price is the correct
+Value of Stock, which is rarely the case. Hence this approach can be practically applied only after
+applying some variations. For e.g., In a particular industry the Cost of Equity is determined for
+multiple firms within the industry and then the Average Cost of Equity for all can be considered the
+general Ke for that industry.
+
+Illustration on Ke of Vedanta Ltd:
+
+As on January 12, 2024, the price of Vedanta Limited is INR 272 per share at NSE and the current
+year EPS is INR 28.50, it has paid a dividend of INR 29.50 in FY24 (till January 12, 2024) and the
+expected growth rate in dividend is 10% for the next year.
+
+Dividend per share in Current Year          = INR 29.50
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+1.303.30           VALUATION
+
+
+Expected Dividend per share in Next Year     = INR 32.45 (10% growth)
+
+                                                                 32.5
+Cost of Equity (Ke)                      =   +10% = 21.93%
+                                                         272
+
+Capital Asset Pricing Model (CAPM):
+
+Capital Asset Pricing Model (CAPM) is the most used method for determining COE. It is because
+investors have an idea of Market Risk and must be compensated for it. The compensation is usually
+greater than the Risk-free Rate, which is also known as Risk Premium.
+
+The formula for calculating cost of equity under CAPM is:
+
+
+ܭ݁ = Cost of Equity;
+
+ܴ݂ = Risk-free Rate of Return;
+
+ܴ݉ í ܴ݂ = Market Risk Premium.
+
+ߚ = Risk Index for Systematic Risk (regression coefficient)
+
+CAPM is usually the preferred model to determine Ke and, unlike the Dividend Capitalization Method,
+it considers a variety of factors while determining the Discounting Factor.
+
+The Country Specific Risk is considered while selecting the Risk-free Rate of Return. The risks
+LQKHUHQW ZLWK WKH VSHFLILF EXVLQHVV RU LQGXVWU\ RI WKH FRPSDQ\ DUH UHIOHFWHG LQ WKH ȕ DSSOLHG
+
+The model also accounts for expectations of returns from the market through the Risk Premium.
+
+1.     Risk-free Rate of Return ( ܴ݂ ): Most Valuers considers yields on Long-Term default free
+      government bonds, of the country where company’s headquarter is located as the Risk-free
+      Rate of Returns. However, this is not applicable in case of Multi-National Companies because
+      two different companies that compete is same markets on a global basis, which are exposed
+       to the same risks and use same Functional Currency (e.g., USD), should always be valued
+      on the basis of same cost of capital regardless of the country where they are headquartered,
+       to conclude, the Risk-free Rate of Return which will be applied, shall be based on the
+       Functional Currency of the Cash Flows being generated by the Company.
+
+2.    Equity Risk Premium ( ܴ݉ îܴ݂ ): It is the Additional Returns required by an Investor to move
+       his assets from a risk-free investment to an average risk investment. The most common
+      method for arriving the Equity Risk Premium is the historical approach, wherein historical data
+        for a group of stocks / companies / indices (e.g.: Reliance, TCS, Infosys, or the Indices like
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+3.31      VALUATION APPROACHES AND METHODOLOGIES      1.31
+
+
+     BSE Sensex or NSE Nifty) is used to determine by how much the average return on equity
+      exceeds the Risk-free Rate of Returns. This should always be based on Long-Term data to
+      avoid any periodic economic impact.
+
+       Functional Currency is the currency of the primary economic environment in which the
+         entity operates. (Para 8, Ind AS 21)
+
+3.    Beta Coefficient ( ߚ ): It is the sensitivity of the stock or asset to the market and is measured
+      as under:
+
+       Beta of an Asset = Covariance of Asset with Market Portfolio ÷ Variance of the Market
+        Portfolio
+
+      3-Step process to arrive at the Beta:
+
+       Step-1: The method to arrive at beta is by taking the company’s returns over a longer time
+       horizon (3/5/7 years) and comparing them with the returns from the Index say Sensex or Nifty
+        for the same period.
+
+       Step-2: Once we have both data sets, we take the co-variance of the company’s returns, and
+       the Index returns for the same period and divide it by the variance of the Index returns.
+
+       Step-3: This gives us a coefficient which measures the relative risk of selected company with
+       respect to the market. (For e.g., if the coefficient is 1.5, then if the index moves by 1% up or
+     down then the selected company moves 1.5% in the respective direction).
+
+      Hence, the assets that are riskier than average will have beta, that are greater than 1 and
+      assets that are safer than the average will have beta that are less than 1. Every intelligent
+       strategy to deliver high average returns ends up delivering high market beta.
+
+       Interpretation of Various Beta Values (with examples of publicly listed companies):
+
+          (i)    Beta < 0 (Negative Beta); means Inverse relation to the market –  it is possible but
+              highly unlikely.
+
+           (ii)    Beta = 0; Regardless of the way in which the market moves, the value remains
+            unchanged. E.g.: Cash and Government Securities.
+
+           (iii)   0 < Beta < 1; Companies have volatility lower than the market. E.g., Dr. Reddy’s
+             Laboratories Ltd (0.43 as on January 12, 2024) and Bajaj Auto Ltd (0.47 as on January
+             12, 2024).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+1.323.32           VALUATION
+
+
+         (iv)   Beta = 1, Stock or portfolio tracks the market closely E.g., Vedanta Ltd (1.00 as on
+            January 12, 2024).
+
+        (v)   Beta >  1, Denotes a  volatility  that  is greater than the market  E.g., Hindustan
+             Aeronautics Ltd (1.49 as on January 12, 2024) and Infosys Ltd (1.44 as on January
+             12, 2024).
+
+    How to obtain Beta for Unlisted Companies:
+
+       (a)     Identification of comparable listed companies (comparable listed company in Transfer
+              Pricing Study can also be of assistance).
+
+       (b)    Beta for comparable companies can be obtained from various databases, newspapers
+           and websites which are available publicly.
+
+        (c)    Beta can also be calculated using slope function of any spreadsheet like MS Excel.
+
+       (d)    Un-levering the Beta of the identified comparable companies, using Debt-Equity ratio
+           and tax rate applicable to the identified comparable companies.
+
+       (e)    Calculate average betas for all the identified comparable companies.
+
+          (f)     Re-levering the calculated average beta with Debt-Equity ratio and tax rate of the
+              relevant unlisted company, for which the computation was made.
+
+     Formula to adjust the Beta for leverage & Tax effects:
+
+
+      ߚ݈ = Levered Equity Beta;
+
+     ߚݑ = Unlevered Equity Beta;
+
+           t =Marginal rate of income-tax.
+
+      Leveraged Beta:
+
+    We can also lever the unlevered beta according to the capital structure of the unlisted
+     company under valuation.
+
+     Leveraged Beta = Unlevered Beta * [1+(1-MTR) * (D/E ratio)]
+
+    MTR = Marginal rate of Tax
+
+      D/E ratio = Debt to equity ratio
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+3.33      VALUATION APPROACHES AND METHODOLOGIES      1.33
+
+
+Illustration on Leveraged Beta and COE / Ke of Private Limited Company:
+
+ABC Ltd operates in the Information Technology sector and has a Debt-Equity ratio of 0.75., the
+Unlevered Beta of publicly traded companies is estimated to be 1.21. Assuming a marginal tax rate
+of 30% and risk-free rate of return is 6% with historical risk premium for the market to be 3%.
+
+Leveraged Beta for ABC Ltd          = Unlevered Beta * [1+(1-MTR) * (D/E ratio)]
+
+                                 = 1.21 * [1+(1-0.3) * (0.75)]
+
+                                 = 1.21 * [1.525]
+
+                                 = 1.84525
+
+Cost of Equity as per CAPM          =
+
+                                 = 6% + (3%) x 1.84525
+
+                                 = 6% + 5.53575%
+
+                                 = 11.53575% or say 11.54%
+
+Illustration on Beta calculation of TCS Ltd over 12 months from January 2023 to December
+2023:
+
+                                          X Bar =                        Covariance
+                     %     %              Y Bar =                                                 Average                       between
+                            Change   Change             Average   Variance
+                                                           of X over                    TCS and
+  Month    TCS     NSE       in TCS     in NSE                of Y over    in NSE
+                                                     12                     NSE (stock                                     (stock)   (market)            12 months   (market)                                              months =                        and
+                                     Price     Value              = 2.07%
+                                                  1.52%                           market)
+
+                                                                                                 (y-y       (x-x bar) *
+             Stock      Market         (x)           (y)       (x-x bar)     (y-y bar)
+                                                                                     bar)^2      (y-y bar)
+
+  Jan-23   3,312.85   17,303.95
+
+  Feb-23   3,205.90   17,359.75    -3.23%    0.32%     -4.75%     -1.75%     0.03%     0.08%
+
+  Mar-23   3,219.25   18,065.00    0.42%    4.06%     -1.11%     1.99%     0.04%      -0.02%
+
+  Apr-23   3,289.50   18,534.40    2.18%    2.60%     0.66%     0.53%     0.00%     0.00%
+
+  May-23   3,302.25   19,189.05    0.39%    3.53%     -1.14%     1.46%     0.02%      -0.02%
+
+  Jun-23   3,421.45   19,753.80    3.61%    2.94%     2.09%     0.87%     0.01%     0.02%
+
+   Jul-23    3,356.80   19,253.80    -1.89%    -2.53%    -3.41%     -4.60%     0.21%     0.16%
+
+  Aug-23   3,528.60   19,638.30    5.12%    2.00%     3.59%     -0.08%     0.00%     0.00%
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+1.343.34           VALUATION
+
+
+  Sep-23   3,368.75   19,079.60    -4.53%    -2.84%    -6.05%     -4.92%     0.24%     0.30%
+
+  Oct-23   3,487.60   20,133.15    3.53%    5.52%     2.00%     3.45%     0.12%     0.07%
+
+  Nov-23   3,793.40   21,731.40    8.77%    7.94%     7.24%     5.87%     0.34%     0.42%
+
+  Dec-23   3,884.60   21,571.95    2.40%    -0.73%    0.88%     -2.81%     0.08%      -0.02%
+
+                    Average    1.52%    2.07%            Sum      1.10%     0.99%
+
+Covariance (stock, market) = Cov (x,y) = SUM [(X-X bar) x (y-ybar)] / (n-1)       = 0.09%
+
+Variance (market)         = Var = sum of (y- y bar)^2 / (n-1)                 = 0.10%
+
+Beta                    = [Covariance (stock, market) ÷ Variance (market)]  = 0.90
+
+Beta                    = Excel Formula = Slope(x,y)                     = 0.90
+
+B.    Cost of Debt
+
+The Cost of Debt (“COD”) is the current or expected Cost for Borrowing Funds for the company or
+firm to fund its Assets. It can be easily provided by the management of the company and is generally
+assumed to be the Market Rate for Borrowing. However, it differs from one entity to another basis
+their embedded default risk.
+
+For companies / firms that are rated by any credit rating agency we can refer to the relevant credit
+rating to determine their default spread and thereafter by adding this default spread to the Risk-free
+Rate of Return, with this, we can determine the applicable Cost of Debt.
+
+Illustration on Cost of Debt:
+
+XYZ Ltd, a closely held Investment Company, is registered with RBI as a Core Investment Company.
+It has a credit rating of BBB+ then, the default spread will be 1.25%. Assuming the 10-year T-Bond
+rate to be 7.17%
+
+Cost of Debt of XYZ Ltd              = 7.17% + 1.25%
+
+                                 = 8.42%
+
+In the case of non-rated entities, one must look at the latest borrowing rate at which the company /
+firm has borrowed from Bank / Financial Institutions. This will provide a proxy for the Cost of Debt.
+
+ Cost of Debt considered for DCF is always post Tax
+
+ After Tax Cost of Debt = Pre-tax Cost of Debt x (1-Marginal rate of Tax)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+3.35      VALUATION APPROACHES AND METHODOLOGIES      1.35
+
+
+Marginal rate of Tax: This is the highest tax slab applicable for the company / entity i.e., the tax paid
+on last rupee. Generally, for all profit-making listed companies it is generally the Highest Tax Slab
+for the country.
+
+However, in the case of loss-making companies there will be no tax advantage (tax savings) on
+Interest paid and hence no tax reduction shall be considered while determining Cost of Debt for the
+years when the company / entity is making operating losses.
+
+Alternatively, there will be benefit of carry forward of losses for the company  / entity, hence the
+impact of such tax savings, shall be considered in years when there are profits during the subsequent
+period, this will assist in arriving at the net effective rate of tax.
+
+8      (c)    Terminal Value: The Value of a Business should account for the Cash Flows over the
+entire life of a company / entity, which can be assumed to be infinite, but in explicit forecast period,
+the Cash Flows are only estimated over a certain period (generally in the range of 3-5 years) hence
+a Terminal Value is computed to reflect the Value of the Cash Flows arising after the explicit forecast
+period till infinity.
+
+Terminal Value represents the Present Value at the end of explicit forecast period of all subsequent
+Cash Flows to the end of the life of the Asset or into perpetuity (if the asset has an indefinite life).
+
+3 methods of calculating Terminal Value, as follows:
+
+Method-1: Gordon (Constant) Growth Model
+
+Method-2: Exit Multiple
+
+Method-3: Salvage or Liquidation Value
+
+Method-1: Gordon (Constant) Growth Model:
+
+Gordon Growth Model or Perpetual Growth Model assumes that a Business has an infinite life and
+a stable growth rate of cash flows. Terminal Value  is derived mathematically by dividing the
+perpetuity cash flows (cash flows which are expected to grow at a stable pace) with the discount
+rate as reduced by the stable growth rate.
+
+ Terminal Value(n) = Expected FCF (n+1) / (Discount Rate – Expected Growth Rate)
+
+Estimation of the stable growth rate is of great significance because even a minor change in the
+stable growth rate assumption can have a compounding impact on the Terminal Value and hence
+the overall Business Value. Various factors like the size of a company, existing growth rate,
+competitive landscape, profit reinvestment ratio, etc. have to be kept in mind while estimating the
+stable growth rate.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+1.363.36           VALUATION
+
+
+If the expected growth rate tends towards the Discount Rate, Terminal Value will approach infinity
+and then turn negative, if expected growth rate exceeds the discount rate. The expected growth
+rate should be constrained (capped) to be less than or equal to the growth rate of the economy
+in which the business operates. If the growth rate of the company is more than the growth rate of
+the economy for infinite period (perpetuity), the business will eventually become larger than the
+economy (which has not been seen in real life, practically speaking). This method is most widely
+used among the 3 commonly used methods.
+
+Illustration on computation of Terminal Value using Gordon Growth Model:
+
+PQR Ltd, a private limited company, wanted to know the present value of its Terminal Value of their
+business based on the Cash Flows given below. It has a Ke of 10.95% and perpetuity growth rate of
+3%.
+
+             Particulars             Year-1     Year-2     Year-3     Year-4     Year-5
+  Cash Flow (in INR Lacs)            2507      2755      1233      4890      3101
+Terminal Value          = Cash Flow of Year-5    = INR 3101 Lacs
+
+Cost of Equity                                = 10.95%
+
+Perpetuity Growth Rate                         = 3%
+
+Terminal Value          = Expected FCF (n+1) ÷ (Discount Rate – Expected Growth Rate)
+
+                      = 3101(1.03) ÷ (10.95% – 3%)
+
+                      = 40,176 Lacs or 402 Crores
+
+Factors that a valuer may consider while determining the terminal growth rate:
+
+(i)    Whether the  level  of operations beyond  explicit  forecast period are expected  to be
+        significantly different from the level projected in the last year of the explicit forecast period or
+       only a normal growth is expected?
+
+(ii)   What is the capacity utilization at the end of explicit forecast period?
+
+(iii)   What functional currency in which the projections have been prepared?
+
+(iv)   What is the current market share and expected market share?
+
+(v)   What is the present product life cycle?
+
+(vi)   What is the geographic location of the asset?
+
+(vii)  What is the type of cash flow?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+3.37      VALUATION APPROACHES AND METHODOLOGIES      1.37
+
+
+(viii)  What is the residual life of the asset at the end of the explicit forecast period?
+
+(ix)   How much capital investment is required to support the assumed growth rate?
+
+(x)    Whether there is potential for future growth of the asset beyond the explicit forecast period,
+       or whether the asset is deteriorating in nature? and
+
+(xi)   Whether cyclical impact is considered to be the terminal value for assets which are cyclical
+        in nature?
+
+Method-2: Exit Multiple:
+
+The estimation of Terminal Value under the Exit Multiple method involves application of Market
+Multiples (EV/EBITDA, EV/Sales, etc.) to the perpetuity earnings / income. This method undercuts
+the notion of Intrinsic Value, which is what DCF method is designed to measure. The multiple that
+is used to estimate the Terminal Value comes from looking at what peer group companies are trading
+in the market. Although this approach is comparatively simple but since the Terminal Value multiple
+has a huge impact on Valuation it is extremely critical how it is being obtained.
+
+Illustration on computation of Terminal Value using Exit Multiple:
+
+MNO Ltd has a sales of INR 10 crores per annum and is expected to have a Terminal Value of INR
+25 crores at the end of 7 years.
+
+The Terminal Value to Sales Multiple is 2.5x (INR 25 crores ÷ INR 10 crores)
+
+For instance, IJK Ltd is operating in the same industry having a revenue of INR 20 crores will be
+estimated to have a Terminal Value of INR 50 crores (INR 20 crores x 2.5) at the end of 7 years.
+
+Hence under the Exit Multiple of computing Terminal Value, we are ultimately using the “Market
+Approach” to compute the single largest component of Cash Flow in the DCF Method, which is under
+the “Income Approach”. Hence the end result is a mix of both approaches.
+
+Method-3: Salvage or Liquidation Value:
+
+The Salvage Value / Liquidation Value method is used in case we see the relevant Company / Entity
+/ Firm will no longer operate as a going concern and might cease operations and go into liquidation.
+The Terminal Value is calculated by determining the Salvage or Realizable Value of all the Assets
+less costs to be incurred for disposing such an Asset.
+
+Terminal Value is estimated to be the Liquidation Value, which is based on the Book Value of the
+Assets typically adjusted for inflation, but this does not reflect the earning power of the Assets.
+Alternatively, discounting the expected Cash Flows from sale of such Assets using an appropriate
+Discount Rate would provide a better estimation of Liquidation Value.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+1.383.38           VALUATION
+
+
+However, Salvage Value / Liquidation Value is usually lower than the Book Value and Market Value.
+Using this approach to estimate the Terminal Value could give a result lower than the real Value of
+the Business after the explicit forecast period.
+
+Certain Key Assumptions on Terminal Value:
+
+(a)    Terminal Value often constitutes around 50% or more of the entire Business Value derived
+      using the DCF Method and is usually computed based on the “Gordon Growth Method” which
+      takes into consideration the Cash Flows of the last year of the explicit forecast period and
+      grows them by a Long-term Growth Rate. As such an unrealistic assumption associated with
+       the terminal value can profoundly skew the Resulting Present Value.
+
+(b)    Increasing the Long-term Growth Rate creates a significant impact on Terminal Value. If there
+        is an assumption of a Growth Rate that is higher than the prevalent Long-term inflationary
+       estimates,  it implies that the business will continue to grow ad-infinitum  (till infinity), which
+      has proven to be almost impossible for any company / entity / firm.
+
+(c)    Other issues associated with the Terminal Value may include the following:
+
+          (i)    Inadequate Long-term maintenance of Capital Expenditure;
+
+           (ii)    Inadequate Working Capital Assumptions relative to the Terminal Growth Rate;
+
+           (iii)   Large discrepancy between Depreciation and Capital Expenditure levels;
+
+         (iv)   Lower effective tax rate (due to prior year tax losses, limited period for tax exemption,
+                etc.,) which will typically be applicable for the initial few years post the discrete period.
+2.2.3 Discounted future earnings method (earning measure non DCF based valuation)
+
+The Discounted Future Earnings Method (DFE) is a valuation technique used to estimate the present
+value of a company's future earnings. This method involves projecting the company's future earnings
+over a specific period and then discounting those earnings back to their present value using a
+discount rate.
+
+To apply the Discounted Future Earnings Method, following aspects are required:
+
+Earnings Projection: Future earnings of the company are forecasted based on historical financial
+data, industry trends, and future expectations. These earnings projections typically cover a specific
+period, such as five or ten years.
+
+Discount Rate Selection: A discount rate is chosen based on factors like the company's risk profile,
+prevailing interest rates, market conditions, and industry benchmarks. The discount rate represents
+the investor's required rate of return or the opportunity cost of investing in the company.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+3.39      VALUATION APPROACHES AND METHODOLOGIES      1.39
+
+
+Discounting Future Earnings: The projected future earnings are then discounted back to their
+present value using the chosen discount rate. This involves dividing each future earnings figure by
+the appropriate discount factor corresponding to the time period in which  it is expected to be
+received.
+
+Summation: Finally, the present values of all projected future earnings are summed to arrive at the
+total present value of the company's future earnings.
+
+The Discounted Future Earnings Method provides a comprehensive way to estimate the intrinsic
+value of a company based on its expected future cash flows. However, it requires accurate earnings
+forecasts and careful consideration of the discount rate to ensure the reliability of the valuation.
+Additionally, like any valuation method, the Discounted Future Earnings Method has its limitations
+and should be used in conjunction with other valuation techniques for a more robust analysis.
+
+Illustration on non DCF based valuation
+
+Ruby Ltd   is a manufacturer of small refrigerators and other appliances. The following figures are
+from its most recent financial statements except for the market value of long-term debt, which has
+been estimated from financial market data.
+
+Stock price                                       ` 400
+
+Shares outstanding                                     20,000
+
+Market value of long-term debt                    ` 10,00,000
+
+Book value of long-term debt.                    ` 11,00,000
+
+Book value of total debt.                        ` 20,00,000
+
+Cash and marketable securities.                   ` 2,00,000
+
+EBITDA                                    ` 15,00,000
+
+Calculate the EV/EBITDA multiple.
+
+Answer:
+
+First, we must estimate the market value of the firm’s short-term debt and liabilities. To do so,
+subtract the book value of long-term debt from the book value of total debt: `  20,00,000 – `
+11,00,000 = `  9,00,000. This is the book value of the firm’s short-term debt. We can assume the
+market value of these short-term items is close to their book value.
+
+Add the market value of long-term debt to get the market value of total debt: 10,00,000 + 9,00,000
+= ` 19,00,000.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+1.403.40           VALUATION
+
+
+The market value of equity is the stock price multiplied by the number of shares: 400 × 20,000 = `
+80,00,000.
+
+The enterprise value of the firm is the sum of debt and equity minus cash: 19,00,000+80,00,000-
+2,00,000=97,00,000
+
+EV/EBITDA = 97,00,000/15,00,000=6.47 times
+
+If the competitor or industry average EV/EBITDA is above 6.47, Ruby is relatively undervalued. If
+the competitor or industry average EV/EBITDA is below 6.47, Ruby is relatively overvalued.
+2.2.4 Valuation of Intangibles
+
+The accounting definition of an Intangible Asset is as follows:
+
+“An Intangible Asset is an Identifiable Non-Monetary Asset Without Physical Substance.”
+
+Certain common examples of items of an Intangible Asset are as follows (exhaustive list):
+
+1.     Patents;
+
+2.     Copyrights;
+
+3.    Customer Lists;
+
+4.     Licenses;
+
+5.     Franchises;
+
+6.     Marketing Rights;
+
+7.    Computer Software; etc.,
+
+Below are certain methods which can be applied to arrive at Intangible Asset Value.
+
+(i)     Relief From Royalty Method (RFR): RFR is the most widely resorted method used to
+determine the Value of the Brand and certain other Intangibles such as IPs, Software, etc., RFR
+method assumes that the said Intangible is not owned by the branded business but is licensed from
+a third party. If the Intangible must be licensed from a third-party, a royalty rate on turnover or profit
+or other financial metrics will be charged for the privilege of using the Intangible.
+
+Thus, the said Intangible Value is deemed to be the Present Value of the royalty payments saved
+by virtue of owning the Intangible. This method is a typical combination of Market Approach and
+Income Approach where value is determined based on avoided cost.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+3.41      VALUATION APPROACHES AND METHODOLOGIES      1.41
+
+
+ An Intangible Asset is an identifiable non-monetary asset without physical substance (Para 6.19
+ of ICAI VS 101).
+
+ Present Value is an integral tool used in the income approach to link future amounts (e.g., cash
+ flows or values) to a present amount using a discount rate (Para 6.30 of ICAI VS 101).
+
+The RFR method is popularly used in the Valuation of Intangible assets such as Brands, Licenses,
+and Technical Know-how, where transacted Royalty Rates for similar assets are often available.
+
+The Royalty Rates are further adjusted for asset specific risks and returns such as:
+
+i    Geographical use;
+
+i    Geographical restrictions;
+
+i    Brand recall;
+
+i    Brand market share; etc.
+
+Key factors to be considered while using this method are:
+
+1.    Revenue Projections,
+
+2.     Discount Rate,
+
+3.     Appropriate Royalty Rate
+
+The following factors, should be considered while analyzing Royalty Rates:
+
+1.    Assets: For example, a Royalty Rate paid for a Trademark in isolation will likely be lower
+      than one for a bundled asset, including Trademarks and Product Formulations.
+
+2.    Rights (for example, geography, term, and usage): All things being equal, a Royalty Rate
+       paid for the right to use an Intangible Asset within a limited geography or specific customer
+      channel for a limited time will likely be different than that paid for perpetual rights with
+       unfettered usage.
+
+3.    Economic Returns: Typically, assets providing higher returns will warrant higher Royalty
+      Rates. This issue may arise when comparing Royalty Rates paid at different points within the
+      supply chain. Returns on wholesale revenues can differ significantly from those on retail
+      revenues.
+
+4.    Upfront Fees / Ongoing Cost Sharing: Licensees who are willing to pay an Upfront Fee or
+      share in future marketing or advertising expenses may be able to negotiate a lower Royalty
+      Rate.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+1.423.42           VALUATION
+
+
+The following are the major steps in deriving a value using the RFR Method:
+
+1.     Projections: Obtain the projected statement associated with the Intangible Asset to be
+      Valued over the remaining useful life of the said asset. The Value of the Intangible Asset to
+      be Valued is determined by first considering projections (of royalty income adjusted with
+      associated expenses like maintenance or marketing) relevant to the Intangible Asset to be
+      Valued for its estimated useful life. Forecasted revenue is Royalty computed as a percentage
+       of Revenue using an appropriate Royalty Rate. It is pertinent to consider that in general, the
+       useful life of the intangible would be for a limited period and accordingly terminal value will
+       not come into play and projections are generally affected for the whole useful life period.
+
+2.     Analysis: The  projected  statement and  its  underlying  assumptions  to  assess  the
+      reasonableness.
+
+3.     Selection: Select the appropriate Royalty Rate on the market-based royalty rates for similar
+       intangible assets (which can be based on Royalty Rates of similar transactions or can be
+      determined using the profit-split method).
+
+4.     Application: Apply the selected Royalty Rate to the future income attributable to the said
+       asset. The selected Royalty Rate is then applied to the cash flows so determined. Royalty
+      Rate should consider the features of the Intangible Asset to be Valued relevant to the profit
+       attributable to the Intangible Asset to be Valued or the observed transactions to determine
+       the Royalty Rate. Other factors that should be considered to determine the Royalty Rate are
+       the significance of the Intangible Asset to be Valued to its owner and the expected economic
+         life of the Intangible Asset with any risks relating to obsolescence.
+
+5.    Tax Rate: Use the appropriate marginal tax rate or such other appropriate tax rate to arrive
+       at an after-tax royalty savings.
+
+6.    Discount Rate: Discount the after-tax royalty savings to arrive at the Present Value using an
+       appropriate discount rate: The value of the Intangible Asset to be Valued is the Present Value
+       of the after-tax cash flows so computed by using an appropriate risk-adjusted discount rate.
+
+7.    Tax Amortization Benefit (TAB): If appropriate considering nature of the asset and purpose
+       of the engagement, the tax amortization benefits should be added to the overall value of the
+       Intangible Asset.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+3.43      VALUATION APPROACHES AND METHODOLOGIES      1.43
+
+
+Illustration on Relief from Royalty:
+
+      Particulars       Legends     2024      2025      2026      2027     Terminal
+                                                                           Year
+
+       Net Sales        INR Lacs    4,000.00   5,200.00   6,240.00   6,860.00   7,550.00
+
+    Projected Royalty      9%       360.00     468.00     561.60     617.40     679.50
+      Before Tax
+
+     Income Tax*       25.168%     90.60     117.79     141.34     155.39     171.02
+
+   Projected After Tax                 269.40     350.21     420.26     462.01     508.48
+        Royalty
+
+   Discounting Factor     10%        0.91       0.83       0.75       0.68       0.62
+
+     Growth Rate       4%
+
+   Present Value of                  244.90     289.43     315.74     315.56     315.73
+     Cash Flows
+
+  Sum of PV of Cash     1,165.63
+       Flows (A)
+
+   Value in Terminal      5,993.28
+      Year (B)**
+
+      Fair Value of        7,158.91
+   Intangible Assets
+        (A+B)***
+
+* It is assumed that the company has selected tax rate given under Sec 115BAA
+
+                                          508.48(1.04)
+** Calculation of Value in Terminal Year =           = 8813.65 x 0.68 = 5,993.28
+                                          0.10 - 0.04
+
+*** (1165.63 + 5993.28)
+
+(ii)    Multi-Period Excess Earnings Method (MEEM): Multi-Period Excess Earnings (MEEM)
+Method is generally used for Valuing Intangible Asset that is leading or the most significant Intangible
+Asset out of group of Intangible Assets being Valued.
+
+The MEEM Method is commonly used when a reliable direct measurement of future economic
+benefits generated by an Intangible Asset is not possible. However, revenue and earnings from
+other assets can be readily determined. The method adopts a “Residual Approach” for estimating
+the income that an Intangible is expected to generate.
+
+This MEEM Method examines the economic returns contributed by all assets utilized in generating
+earnings, and then carves out the excess return that is attributed to the specific asset being valued.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+1.443.44           VALUATION
+
+
+MEEM Method is applied to a wide variety of Intangible Assets, especially those that are close to
+the “core” of the business model. Customer relationship assets, technology, and IPR&D are among
+the Intangible Assets which are frequently valued using MEEM.
+
+Under this method, the Value of an Asset is a function of:
+
+i     Projected Revenue and Earnings generated by the Asset;
+
+i    Expected economic life of the Asset;
+
+i     Contributory Asset Charges that would be paid to the requisite operating assets; and
+
+i   A Discount Rate which reflects risk associated with receiving future cash flows.
+
+The important steps in deriving a value using the MEEM are as follows:
+
+1.     Projections: To ascertain the anticipated future after-tax cash flows, obtain from the client
+       or target the projections for the entity or the combined asset group for the remaining useful
+         life of the aforementioned intangible asset to be valued;
+
+2.     Analysis: Examine the projections and the underlying assumptions to see whether the cash
+       flows are acceptable;
+
+3.    Contributory Asset Charges (CAC): To determine the additional after-tax cash flows due to
+       the intangible asset to be valued, CAC or Economic Rents must be subtracted from the total
+       net after-tax cash flows estimated for the entity or combined asset group;
+
+4.    Discount Rate: To Discount the incremental after-tax cash flows attributable to the Intangible
+      Asset to be Valued to arrive at the Present Value using an appropriate Discount Rate; and
+
+5.    Tax Amortization Benefit (TAB), if appropriate.
+
+ The Contributory Asset Charges (CAC) represent the charges for the use of an asset or group
+ of assets (e.g., working capital, fixed assets, assembled workforce, other intangibles) based on
+  their respective Fair Values and should be considered for all assets, excluding goodwill, that
+ contribute to the realization of cash flows for the Intangible Asset to be Valued.
+
+Illustration on Multi-Period Excess Earning Method:
+
+X Ltd has Net Operating Assets worth INR 200 Crores. The Net Average Earnings are INR 8 Crores.
+The required rate of return on Net Assets is 12% and the Capitalization Rate for excess earning is
+15%.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+3.45      VALUATION APPROACHES AND METHODOLOGIES      1.45
+
+
+Computation:
+
+Net Operating Assets = INR 200 Crores; Net Average Earnings = INR 15 Crores
+
+Expected Return on Assets @ 12% = INR 24 Crores;
+
+Excess Contribution = INR 9 Crores (24 Crores – 15 Crores)
+
+Value of Excess Earnings = INR 9 Crores ÷ 15% = INR 60 Crores = Value of Goodwill
+
+Value of Company = INR 200 Crores + INR 60 Crores = INR 260 Crores.
+
+(iii)   With and Without Method (WWM): The present value of the difference between the
+expected cash flows during the asset's remaining useful  life under the two scenarios below
+determines the value of the intangible asset to be valued under the With and Without Method
+(WWM):
+
+A.   A business that has all its assets in place—including the intangible asset that needs to be
+     valued—and
+
+B.   A business that has all its assets in place—but not the intangible asset that needs to be
+       valued.
+
+Thus, the WWM method measures the economic contribution of the Asset by calculating the Net
+Present Value of the incremental cash flows to be derived from the use of the Asset.
+
+The WWM method requires ascertaining the future cash flows from the existing business with the
+Asset and the future cash flows from a notional business without the Asset. Non-compete
+arrangements are commonly valued using this method.
+
+Following are the major steps in deriving a Value using the WWM:
+
+1.     Projections: Obtain the cash flow Projections for the business over the remaining useful life
+       of the said Asset to be Valued under the following two scenarios:
+
+        (a)    Scenario-1: Business with ALL Assets in place INCLUDING the Intangible Asset to be
+             Valued.
+
+                          AND
+
+        (b)    Scenario-2: Business with ALL Assets in place EXCEPT the Intangible Asset to be
+             Valued.
+
+2.     Analysis: To Analyze the  projections and  its underlying assumptions  to assess the
+      reasonableness of the cash flows;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+1.463.46           VALUATION
+
+
+3.    Discount Rate: To Discount the difference between the projected cash flows under both the
+      scenarios to arrive at the Present Value using an appropriate Discount Rate; and
+
+4.    Tax Amortization Benefit (TAB), if appropriate.
+
+Illustration on Non-Compete Valuation which is for a period of 5 years.
+
+             Particulars            Legends      2024      2025      2026      2027      2028
+
+ Cash Flow (with Non-Compete)     INR Lacs   2,000.00   2,500.00   3,500.00   4,000.00   4,000.00
+
+ Cash Flow (without Non-          INR Lacs     500.00   1,000.00   2,000.00   2,500.00   3,000.00
+ Compete)
+
+ Difference in Cash Flows          INR Lacs   1,500.00   1,500.00   1,500.00   1,500.00   1,000.00
+
+
+ Discounting Factor                14.50%       0.87       0.76       0.67       0.58       0.51
+
+
+ Present Value of Differential Cash               1,310.04   1,144.14     999.25     872.71     508.13
+ Flows
+
+ Sum of PV of Differential Cash       4,834.27
+ Flows
+
+ Probability of Competing            40%
+
+  Fair Value of Non-Compete          1,933.71
+
+2.3  Asset / Cost Based Approach
+
+The cost approach, also known as current replacement cost, is a valuation method that shows how
+much would now be needed to replace an asset's service capacity. When required by the relevant
+regulation, the Valuer may in some circumstances take the Asset's historical cost into account.
+
+This Approach tends to determine the Value of the Business based on Value of Assets of the
+Business.
+
+This Approach is useful for:
+
+1.    Asset intensive entities
+
+2.     Valuing holding companies
+
+3.     Valuing distressed entities
+
+4.    And entities that are not worth more than their overall Net Tangible Value.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+3.47      VALUATION APPROACHES AND METHODOLOGIES      1.47
+
+
+The fundamental premise of the cost approach is that the cost to rebuild or replace a business may
+be used to calculate the value of an investment or business.
+
+Limitations of Cost Approach:
+
+1.     This Approach ignores the Amount, Duration and Timing of Future Economic Benefits arising
+      from the Asset.
+
+2.     This Approach neither considers the Risk characteristics of the Asset nor its Performance in
+      a competitive environment.
+
+3.    Under this Approach, the Company history, Intangible Assets, Discounts or Contingent
+        Liabilities are not accounted.
+
+4.    Cost Approach is not the most preferred method for estimating Enterprise Value of a going
+      concern business.
+
+Application of Cost Approach:
+
+1.    An Asset can be quickly recreated with substantially the same utility as the Asset to be
+       valued;
+
+2.     In case where Liquidation Value is to be determined; or
+
+3.    Income Approach and/or Market Approach cannot be used. For Example, Companies whose
+       future profits are indeterminable either because of newness, dislocation, losses in business
+       or due to business fluctuations.
+
+Hence Cost Approach becomes a material factor in Valuation of Shares where Assets are surplus
+to existing business operations. Examples as follows:
+
+(a)   Excess land in a manufacturing company;
+
+(b)    Valuing holding companies;
+
+(c)    Valuing real estate companies; and
+
+(d)    Valuing investment holding companies etc.
+
+The Commonly used methods under the Cost Approach are:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+1.483.48           VALUATION
+
+
+                                       Cost
+                                   Approach
+
+
+                         Replacement        Reproduction
+
+
+2.3.1 Replacement Cost Method
+
+This is also an internationally accepted method under IVS 105 – Valuation Approaches and Methods.
+
+Replacement Cost Method involves Valuing an Asset based on the Cost that a Market Participant
+shall have to incur to recreate an Asset with substantially the same Utility (Comparable Utility) as
+that of the Asset to be Valued and which is adjusted for Obsolescence.
+2.3.2 Reproduction Cost Method
+
+This is also an internationally accepted method under IVS 105 – Valuation Approaches and Methods.
+
+The Reproduction Cost Method involves Valuing an Asset based on the Cost that a Market
+Participant shall have to incur to recreate a Replica of the Asset to be Valued and which is adjusted
+for Obsolescence.
+
+ Market Participants (Para 6.24 of ICAI VS 101) are willing buyers and willing sellers in the
+ principal (or most advantageous) market for the Asset or Liability that have all of the following
+ characteristics:
+
+ (a)    they are independent of each other, i.e., they are not related parties as defined under
+        applicable accounting framework and set of reporting  / accounting standards therein,
+        although the price in a related party transaction may be used as an input to a fair value
+       measurement  if the entity has evidence that the transaction was entered into at market
+        terms;
+
+ (b)    they are knowledgeable, having a reasonable understanding about the Asset or Liability
+       and the transaction using all available information, including information that might be
+        obtained through due care that is usual and customary;
+
+  (c)    they can enter a transaction for the Asset or Liability; and
+
+ (d)    they are willing to enter a transaction for the Asset or Liability, i.e., they are motivated but
+        not forced or otherwise compelled to do so.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+3.49      VALUATION APPROACHES AND METHODOLOGIES      1.49
+
+
+ This words below are neither defined in the ICAI Valuation Standards, nor they are defined in the
+ International Valuation Standards, but their meaning is taken from Oxford Learner’s Dictionary to
+ make it relevant for the context and understanding.
+
+  Utility means the quality of being useful.
+
+ Replica means a very good or exact copy of something.
+
+Note the difference between the words “Comparable Utility” and “Replica”.
+
+This implies that, under the Replacement Cost method, only the Quality of Asset (even if it is from a
+second-hand asset) shall be ensured to be replaced, whereas under the Reproduction Cost method,
+the Asset shall be of an Exact Copy (it must be an appropriate duplicate).
+
+
+Major steps in deriving a value using the Replacement Cost method  / Reproduction Cost
+Method:
+
+1.     Estimating the costs that will be incurred by a Market Participant for creating an Asset with
+      Comparable Utility / to Replicate an existing Asset.
+
+2.    Assessing whether there  is any loss on account  of physical,  functional, or economic
+      obsolescence in the Asset to be Valued; and
+
+3.     Adjusting for the Obsolescence Value,  if any as determined above from the total costs
+      estimated above, to arrive at the Value of the Asset.
+
+ Meaning of Obsolescence
+
+ The Physical Properties of the new Asset may or may not be similar to the one under Valuation,
+ but the Asset should bear Comparable Utility.
+
+ Obsolescence includes
+
+ (a)    Physical Deterioration;
+
+ (b)    Functional (technological) Obsolescence; and
+
+  (c)   Economic (external) Obsolescence.
+
+ The term Obsolescence connotes a wider meaning than the term depreciation adopted for
+ financial reporting or tax purposes.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+1.503.50           VALUATION
+
+
+  I.     Physical Obsolescence represents the loss in Value on account of decreased usefulness
+         of the asset as the useful life expires.
+
+  II.    Functional (technological) Obsolescence represents the loss in Value on account of
+      new technological developments; whereby the Asset to be Valued becomes inefficient due
+         to availability of more efficient replacement assets.
+
+  III.   Economic  (external) Obsolescence  represents  the  loss  in Value on account  of
+       decreased usefulness of the Asset caused by external economic factors such as change
+         in environmental or other regulations, excess supply, high interest rates, etc.
+
+Following are the major steps in deriving a Value under the Cost Approach / Underlying Asset
+are:
+
+I.     Audit / Examine the Balance Sheet and Other Financial records;
+
+II.     Ascertaining Value of Assets; and
+
+III.    Ascertainment of Value of Liabilities (including Contingent Liabilities).
+
+ Value of Equity Capital = (Value of Assets – Value of Liabilities) ÷ No. of Equity Shares
+
+2.3.3 Valuation of Assets
+
+The Valuation of Assets can be carried out using the following approaches, i.e.,
+
+1.    Book Value: When the Valuation of Assets is done based on their Book Value, certain
+      adjustments shall be made.  It should be recognized that the Book Value reflects only the
+        historical cost of assets, which in the case of old entities, may be much lower than their
+       current Economic Value. Immoveable properties, Investments etc. are generally recognized
+       at their Market Value even where other Assets are considered at their Book Value.
+
+2.    Net Replacement Value:  If an entity is being Valued on a going concern basis, the Net
+      Replacement Value of the Assets gives a fair measure of their Current Value. However, in
+        this case too Intangible Assets may need to be Valued and added to recognize the fact that
+       individual Net Replacement Value of the Assets does not represent the inherent strength of
+       the entity.
+
+3.    Net Realizable Value: Where an entity is being wound up, its Assets are best Valued based
+      on their Net Realizable Value. In such cases, the total Net Realizable Value (after reducing
+       notional tax applicable on realization) will often be less than that based on a going concern.
+     When an  entity  itself  is under  liquidation,  but  its business  is being continued,  this
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+3.51      VALUATION APPROACHES AND METHODOLOGIES      1.51
+
+
+       consideration does not apply. However, a special provision must be made for Cost of
+       Liquidation.
+
+In practice while applying Underlying Asset Approach often a combination  of Book Values,
+Replacement Values and Realizable Values are adopted.
+
+For Example, even where an entity is being valued on an ongoing concern basis, excess Assets
+may be Valued at their Net Realizable Values.
+
+Certain steps for arriving at the Value of the various categories of Assets and Liabilities are
+given below:
+
+1.    Fixed Assets:
+
+        (a)    Estimate Replacement or Reproduction cost of Asset
+
+        (b)    Estimate the Total Economic Life and Effective Age of the Asset;
+
+        (c)    Depreciate the Replacement / Reproduction Cost over the new Economic Life to reflect
+            Obsolescence related to Effective Age; and
+
+       (d)    Adjust for Additional Functional / Economic Obsolescence.
+
+2.    Investments:
+
+      Shares and securities that are regularly traded in BSE / NSE  / Any other Stock Exchange
+     may be valued based on the prices quoted thereat. It must, however, be seen that there is
+       regular trading in those stocks, as an isolated transaction may lead to erroneous results.
+
+       In the case of quoted shares with isolated transactions and unquoted shares, a Secondary
+       Valuation may be necessary,   if the amount  is  material. Such unquoted shares and
+       infrequently traded (illiquid) shares may be valued using Relative Valuation method or Income
+      Approach of valuation.
+
+3.     Inventory:
+
+       (a)   Depending on the purpose and need for valuation, it could be based on Cost;
+
+       (b)    With due allowance / adjustment for any obsolete, unusable, or unmarketable stocks
+             held by the company; or
+
+        (c)   Based on Current Market Prices; or
+
+       (d)   Based on Net Realizable Value on sale of such inventory.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+1.523.52           VALUATION
+
+
+4.    Sundry Debtors:
+
+      Debtors are reflected as money receivable; it could be Valued considering the Time Value of
+      recovery and after making appropriate allowance / adjustment towards credit risk (any bad
+      debts and debts which are doubtful of recovery).
+
+5.    Contingent Assets:
+
+           If an entity has made escalation claims, insurance claims or other similar claims, then the
+        possibility of their recovery should be carefully made on a conservative basis, particularly
+      having regard to the time frame in which they are likely to be recovered.
+
+6.    Development Expenses: These arise:
+
+       (a)    In the case of a new company, when it is in the process of executing its project; and
+
+       (b)     in the case of an old company, when there is an expansion of the existing production
+               lines or diversification for entering new business.
+
+      These Development Expenses should be reviewed and the costs that have been incurred for
+      completing the project should be included.
+
+7.     Intangible Assets:
+
+       Intangibles Assets of an entity shall be considered, no matter whether they are reflected in
+       the books or not. Intangible Assets generally consist of
+
+       (a)    Goodwill,
+
+       (b)    Patents,
+
+        (c)    Trademarks,
+
+       (d)    Copyrights, etc.
+
+       Their Book Value  / Net Replacement Cost  / Net Realizable Value  / Fair Value has to be
+       considered. Goodwill is generally inseparable from business, and it can fetch a price only if
+       the business is sold on a going concern basis.
+2.3.4 Valuation of Liabilities
+
+1.    Contingent Liability: The amount of Liabilities reflected in the books of the entity, may
+       generally be accepted after proper scrutiny. Due consideration should, however, be given to
+      Contingent Liabilities if any, and the necessary legal opinion should be sought for ascertaining
+       the sustainability of such claims or Contingent Liabilities. Generally, the valuer applies a
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+3.53      VALUATION APPROACHES AND METHODOLOGIES      1.53
+
+
+       probability factor for contingent liabilities to arrive at a fair value (Say 50% chances of
+       contingent liabilities getting converted to actual liability).
+
+2.    Taxes: Where Liability for Taxation has not been provided in the accounts, an appropriate
+      amount should be included in the Liability.
+
+3.    Proposed Dividend: Where Proposed Dividends have not been provided in the accounts,
+       appropriate amount should be included in the Liability.
+
+4.    Reserves / Provisions: In case the entity has set aside any specific reserves to meet any
+       future losses, it should be ascertained whether they are reserves or provisions. If there is a
+        definite reason to regard them as provisions, they should either be included in liabilities or
+      deducted from the related assets.
+
+6.    Preference Shares: While valuing Equity Shares, the dues of Preference Shareholders have
+       also to be reduced from the Enterprise Value to determine the Value attributed to the Equity
+      Shareholders. These dues can be ascertained from the terms  of issue. Where such
+      shareholders also have a right to participate in the surplus, the applicable amounts of such
+       surplus should be included as Liabilities, together with the paid-up value of such preference
+       shares.
+
+Illustration on Asset/Cost Based Approach
+
+R-SQUARE is a publicly traded firm. An analyst estimates that the market value of net fixed assets
+is 150% of book value. Liability and short-term asset market values are assumed to equal their book
+values. The firm has 12,000 shares outstanding.
+
+Using the selected financial results in the table, calculate the value of the firm’s net assets on a per-
+share basis.
+
+Cash                                          1,00,000
+
+Accounts receivable                             2,00,000
+
+Inventories                                     5,00,000
+
+Net fixed assets                               12,00,000
+
+Total assets                                  20,00,000
+
+Accounts payable                               50,000
+
+Notes payable                                  3,00,000
+
+Term loans                                     4,50,000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 54 ======================
+
+
+1.543.54           VALUATION
+
+
+Common stockholder equity                    12,00,000
+
+Total liabilities and equity                      20,00,000
+
+Answer:
+
+Estimate the market value of assets, adjusting the fixed assets for the analyst’s estimates of their
+market values:
+
+1,00,000+2,00,000+5,00,000+12,00,000x1.5=26,00,000
+
+Market value of liability=50,000+3,00,000+4,50,000= 8,00,000
+
+Adjusted Equity value= 26,00,000-8,00,000=18,00,000
+
+Adjusted equity value per share= 18,00,000/12,000= ` 150
+
+     3.  FAIR VALUE AND ITS COMPUTATION
+
+Fair Value is the price that would be received to sell an Asset or paid to transfer a Liability in an
+orderly transaction between market participants at the Valuation Date.
+
+This definition as per ICAI Valuation Standards is akin to the one given under Ind AS 113 on Fair
+Value Measurement too.
+
+Under the Income Approach, the Fair Value measurement is determined based on the Value, as
+indicated by the current market expectations about those future amounts.
+
+In the context of ICAI Valuation Standards, Fair Value is the Price in an orderly transaction in the
+Principal Market (Most Advantageous) at the Valuation Date under the Current Market Conditions
+(i.e., Exit Price) regardless of whether that Price is directly observable or estimated using the other
+Valuation  technique.  Fair Value  is  also synonymous  with Market  Value, except  in  certain
+circumstances, where the characteristic of an Asset translates into a special Asset Value for the
+parties involved.
+
+The purpose of a potential acquirer of the controlling stake would be to purchase the stake at a “Fair
+Price, no less, no more”.
+
+A Chartered Accountant’s perspective to “Fair Value” would automatically envisage a transaction to
+be measured at the arm’s length (this purely emanates from the definition given in the Indian
+Accounting Standards)
+
+From the perspective of a Financial Analyst, this would mean the Present Value of an Entity in Cash
+Terms.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 55 ======================
+
+
+3.55      VALUATION APPROACHES AND METHODOLOGIES      1.55
+
+
+From the perspective of a Speculative Investor, this would mean the Arbitrage Opportunities that are
+available among the Market Participants.
+
+ Orderly Transaction is a transaction that assumes exposure to the market for a period before
+ the Valuation Date to allow for marketing activities that are usual and customary for transactions
+ involving such Assets or Liabilities and  it is not a forced transaction. The length of exposure
+ time will vary according to the type of asset and market conditions (Para 6.27 of ICAI VS 101).
+
+ Market Participants (Para 6.24 of ICAI VS 101) are willing buyers and willing sellers in the
+ principal (or most advantageous) market for the Asset or Liability that have all the following
+ characteristics:
+
+ (a)    they are independent of each other, i.e., they are not related parties as defined under
+        applicable accounting framework and set of reporting  / accounting standards therein,
+        although the price in a related party transaction may be used as an input to a fair value
+       measurement  if the entity has evidence that the transaction was entered into at market
+        terms;
+
+ (b)    they are knowledgeable, having a reasonable understanding about the Asset or Liability
+       and the transaction using all available information, including information that might be
+        obtained through due care that is usual and customary;
+
+  (c)    they can enter into a transaction for the Asset or Liability; and
+
+ (d)    they are willing to enter a transaction for the Asset or Liability, i.e., they are motivated but
+        not forced or otherwise compelled to do so.
+
+ Asset would refer to the Assets that need to be Valued during an engagement and will also
+ include a group of Assets, a Liability or a group of Liabilities, business, or business ownership
+ interests. Any reference to the term Asset also includes Liability (Para 6.2 of ICAI VS 101).
+
+ Valuation Date is the specific date at which the valuer estimates the value of the underlying asset
+ (Para 6.46 of ICAI VS 101).
+
+Key Aspects of Fair Value:
+
+1.     Fair Value is based on the Exit Price;
+
+2.     Fair Value emphasizes the concept of “Principal Market” and the “Most Advantageous
+       Market”;
+
+3.     Fair Value measurements should reflect the Market Participant assumptions in pricing an
+      Asset or Liability;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 56 ======================
+
+
+1.563.56           VALUATION
+
+
+4.     Fair Value considers Highest and Best Use (HABU) of utilizing the Asset or Liability;
+
+5.     Fair Value measurements should consider the characteristics of the Asset or Liabilities being
+       valued, such as
+
+        (a)    Condition;
+
+        (b)    Location;
+
+        (c)    Restrictions associated with Sale / Use
+
+The above aspects are elaborated under Ind AS 113 on Fair Value Measurement. Students are
+requested to familiarize themselves with the same.
+
+Illustration on Fair Value computation using Discounted Cash Flow Method:
+
+SD Pvt Ltd has earned a revenue of INR 100 Lacs as of March 31, 2023. It has anticipated, since it
+is growing in the market, its revenue will continue to grow at 37% in Year 2024, 98% in Year 2025,
+178% in Year 2026, 30% in Year 2027 and 27% in Year 2028 for 5 years and beyond that, at 5% for
+infinite period of time. The total cost (including depreciation, interest, and tax) remains constant at
+78% across 5 years, and non-cash expense (depreciation) remains at 12% across 5 years, and non-
+current investments and changes in Working-Capital at 5% and 17% of Revenue respectively.
+
+SD Pvt Ltd is a debt-free company and has no outstanding preference shares as well. It only has
+29,12,927 number of equity shares of INR 1 each. Cost of Equity is 12% and it has a cash balance
+of INR 27 Lacs
+
+ Particulars           Legend         2024     2025      2026      2027      2028  Terminal
+
+ Revenue             A           137.00    271.26     754.10     980.33   1,245.02
+
+ Revenue Growth
+                 B = % of A       37%     98%     178%     30%     27% Rate
+
+ Total Cost
+ (including
+               C = 78% of A      106.86    211.58     588.20     764.66     971.12 Depreciation,
+ Interest and Tax)
+
+ Net Profit         D = A - C         30.14     59.68     165.90     215.67     273.91
+
+ Add: Non-Cash
+ Expense (eg.      E = 12% of A       16.44     32.55      90.49     117.64     149.40
+ Depreciation)
+
+ Cash Profit             F             46.58     92.23     256.39     333.31     423.31
+
+ Less: Non-Current
+              G = 5% of A         6.85     13.56      37.71      49.02      62.25
+ Investments
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 57 ======================
+
+
+3.57      VALUATION APPROACHES AND METHODOLOGIES      1.57
+
+
+ Add / Less:
+ Working Capital    H = 17% of A       (23.29)    (46.11)    (128.20)    (166.66)    (211.65)
+ Changes
+
+ Free Cash Flow to
+                                          I = F-G-H         16.44     32.55      90.49     117.64     149.40
+ Equity
+
+ Terminal Value
+                           J                          -               -                -               -               -   2,241.15
+ (TV)*
+
+ Discount Factor at    K = 1 ÷
+                                       0.8929    0.7972     0.7118     0.6355     0.5674
+ Ke                  (1+12%)^n
+
+ Present Value         L = I x K          14.68     25.95      64.41      74.76      84.78
+
+ Sum of Present
+             M = Sum of L      264.58
+ Value
+
+ Add: PV of TV
+                   N          1,271.63
+ (2241.15 x 0.5674)
+
+ Add: Cash        O = Given         27.00
+
+ Equity Value      P = M + N + O    1,563.21
+
+ No. of Shares
+               Q = Given     29,12,927
+ Outstanding
+
+ Fair Value per
+                R = P ÷ Q         53.66
+ Share
+
+       149.4(1.05)   156.88
+* TV =          =      = ` 2,241.15
+         .12 - .05     0.07
+
+    4  CASE STUDIES
+
+4.1  Case Study on Market Based Approach:
+
+                                        Apollo             Fortis         Narayana
+ Particulars       Legend                                        Hospitals*       Healthcare*     Hrudayalaya*
+
+ ISIN                             INE437A01024    INE061F01013    INE410P01011
+
+ Equity                 in INR Crs           6509            7610            2501
+
+ Debt                   in INR Crs           4889            1033             1,072
+
+                    Market
+ Enterprise Value    Capitalization +       88357           32862           27026
+                   Debt
+
+ Book Value         per share             453             101             122
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 58 ======================
+
+
+1.583.58           VALUATION
+
+
+ Market Price*       per share            5975.7            421.2            1280.1
+
+ Earnings           per share             48.51              7.26             36.08
+
+ Cash Flow from                          in INR Crs           1377             822              1,085
+ Operations (CFO)
+
+ Sales (TTM)          in INR Crs           17830           6630            4888
+
+ EBITDA (TTM)       in INR Crs           2224            1229            1169
+
+ Net Profit after
+                          in INR Crs            730             773             858 Tax (TTM)
+
+ISIN = International Securities Identification Number; TTM = Trailing Twelve Months;
+
+*Data taken as on January 12, 2024, on a Consolidated basis
+
+Compute the following:
+
+1.    EBITDA %
+
+2.    EBITDA ÷ CFO
+
+3.   EV ÷ EBITDA
+
+4.     Price ÷ Earnings
+
+5.     Price ÷ Book
+
+                                                                  Fortis          Narayana
+    Particulars        Legend       Apollo Hospitals
+                                                          Healthcare       Hrudayalaya
+
+    EBITDA %         in percentage        12.47%          18.54%          23.92%
+
+  EBITDA ÷ CFO          in times             1.62               1.50               1.08
+
+  EV ÷ EBITDA           in times            39.73             26.74             23.12
+
+ Price ÷ Earnings         in times            123.18             58.02             35.48
+
+   Price ÷ Book           in times            13.19              4.17              10.49
+
+1.    Use of the appropriate Peer Group in the Industry: In the above table of three companies,
+         all of them operate in identical business lines and products namely – Healthcare, Hospitals,
+     Pharmacy and Diagnostics business. The Financial Facts have been presented to gauge the
+      reasoning for the differences in the multiples attributed by the market to the respective
+      companies. Notice the difference in the size of the operations, the margins of the company
+      and capital structure.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 59 ======================
+
+
+3.59      VALUATION APPROACHES AND METHODOLOGIES      1.59
+
+
+      Hence, Selecting the right peer group is critical to coming up with a reasonable valuation
+      using multiples.
+
+2.     Selection of relevant Value Measures  i.e., Multiples: The market allocates different
+       multiples to different businesses based on the Value drivers like future growth, Return on
+      Invested Capital, favorable regulatory environment etc. Though one cannot comment on the
+      market expectations, as valuers we can concentrate on the financial metrics to quantify the
+      same. Although the P/E is widely used multiple, it is distorted by capital structure and non-
+       operating or unusual gains and losses. Since the PE ratio mixes capital structure and non-
+       operating items with expectations of operating performance, a comparison of P/Es is a less
+        reliable guide to companies’ relative value than a comparison of Enterprise Value (EV) to
+     EBITDA or NOPAT which reduces the chances of multiple being distorted.
+
+     To use earnings multiples properly, one should dig into the financial statements to make sure
+       the comparison of companies is on an apples-to-apples basis.
+
+     Use of Forward Estimates of Earnings: While building multiples, the denominator should
+      be a forecast of profits, preferably normalized for unusual items, rather than historical profits.
+       Unlike backward-looking  multiples,  forward  looking  multiples  are  consistent  with  the
+       principles of valuation—in particular, that a company’s value equals the present value of
+       future cash flows, not sunk costs. In case of Acquisition, divestment or change of business
+       operations, historical profits become less relevant. Use of normalized earnings estimates
+       better reflect long term cash flows that can be sustainably generated by the company. To
+       build a forward-looking multiple, one can choose a forecast year for EBITDA / NOPAT that
+      best represents the long-term prospects of the business. In periods of stable growth and
+        profitability, next year’s estimate can be considered. For companies generating extraordinary
+      earnings (too high  / too low) or for companies whose performance is expected to change,
+       projections up to the year in which the earnings will mature or become stable should be
+       considered.
+
+       Multiples using forward earnings estimates typically have much lower variation across peers,
+       leading to a narrower range of uncertainty of the value.
+
+3.    Normalize Earnings to the extent possible: As a standard procedure, any non-operating
+      asset that does not contribute to EBITDA should be removed from enterprise value. Inclusion
+       of non-operating items embedded in reported EBITDA, as well as balance sheet items like
+      excess cash can lead to large distortions of multiples. Any item that is not a helpful indicator
+       of a company’s future cash-generating ability from continuing operations should be excluded
+      from the calculation of the multiple. The Enterprise value should include the portion of value
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 60 ======================
+
+
+1.603.60           VALUATION
+
+
+       attributable to assets and liabilities that generate EBITDA. Including value, such as the value
+       of joint ventures, in the numerator without including its corresponding income or loss in the
+      denominator will distort the multiple in upward direction. Conversely, failing to recognize a
+      component of enterprise value will understate the numerator and bias the multiple downward.
+       This occurs, for example, when the value of non-controlling interest is not added to the value
+       of common equity.
+
+     Any item that isn’t a helpful indicator of a company’s future cash-generating ability from
+       continuing operations should be excluded from the calculation of the multiple.
+
+4.2  Case Study: Vodafone’s acquisition by Idea
+
+The valuation methods deployed by the appointed CA firms for the merger were as follows:
+
+(a)   Market Value Method: The share price observed on NSE (National Stock Exchange) for a
+       suitable time frame has been considered to arrive at the valuation.
+
+(b)   Comparable Company’s Multiple Method: The stock market valuations of comparable
+      companies on the BSE and NSE were considered.
+
+(c)   NAV method: The Asset based approach was undertaken to arrive at the Net Asset Value of
+       the merging entities as of December 31, 2016.
+
+It is pertinent to note that the DCF method was not used for valuation purposes. The reason stated
+was that the managements of both Vodafone and Idea had not provided the projected cash flows
+and other parameters necessary for performing a DCF based valuation.
+
+The final valuation done using methods (a) to (c) gave a basis to form a merger based on the “Share
+Exchange” method.
+
+The above information extracted from: ‘Valuation report’ filed by Idea Cellular with NSE
+
+However, the markets have reacted to this news – the following article published in The Hindu
+Business Line dated March 20, 2017, will give a fair idea of the same:
+
+“Idea Cellular slumped 9.6% as traders said the implied deal price in a planned merger with
+Vodafone PLC's Indian operations under-valued the company shares. Although traders had initially
+reacted positively to the news, doubts about Idea's valuations after the merger sent shares
+downward.
+
+Idea Cellular Ltd  fell as much as 14.57%, reversing earlier gains of 14.25%, after the telecom
+services provider said it would merge with Vodafone Plc's Indian operations.”
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 61 ======================
+
+
+3.61      VALUATION APPROACHES AND METHODOLOGIES      1.61
+
+4.3  Case Study: WhatsApp’s acquisition by Facebook
+
+Facebook announced the takeover of WhatsApp for a staggering USD 21.8 billion USD in 2015. The
+key characteristics of WhatsApp that influenced the deal was:
+
+(a)       It is a free text-messaging service and with a proposed $1 per year service fee to be levied
+        in future, had 450 million users worldwide close to the valuation date.
+
+(b)   70% of the above users were active users.
+
+(c)   An aggressive rate of user account increase of 1 million users a day would lead to pipeline of
+      1 billion users just within a year’s range.
+
+The gross per-user value would thus come to an average of USD 55, which included a 4 billion
+payout as a sweetener for retaining WhatsApp employees post takeover. The payback for Facebook
+will be eventually to monetize this huge user base with recalibrated charges on international
+messaging  arena.  Facebook  believes  that  the  future  lies  in  international,  cross-platform
+communications.
+
+Above information extracted from the official website of business news agency ‘CNBC’.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 62 ======================
+
+
+1.623.62           VALUATION
+
+
+              TEST YOUR KNOWLEDGE
+
+
+Multiple Choice Questions
+
+1.     Calculate the Value of SKBC Pvt Ltd, FCF for each year is INR 287 Lacs, INR 456 Lacs, INR
+      211 Lacs, INR 301 Lacs, and INR 350 Lacs with growth rate at 3% and Ke being 14%.
+
+       (a)   INR 1693 Lacs
+
+       (b)   INR 1717 Lacs
+
+        (c)   INR 4697 Lacs
+
+       (d)   INR 2805.95 Lacs
+
+2.     Calculate the price of DG Ltd, when its market capitalization is INR 389 Lacs when shares
+       outstanding is 7,89,093.
+
+       (a)    47.40
+
+       (b)    49.30
+
+        (c)    43.95
+
+       (d)    41.40
+
+3.    Choose the correct definition of Value as per ICAI VS 101
+
+     A      prediction of the price of a business interest, arrived at by dividing market capitalization
+              with profit of the company.
+
+     B    an estimate of the value of a business or business ownership interests, arrived at by
+             applying the valuation procedures appropriate for a valuation engagement and using
+              professional judgement as to the value or range of values based on those procedures.
+
+    C    an estimate of the price of a segment, arrived at by applying the valuation procedures
+             appropriate for a valuation engagement and using professional judgement as to the
+             value or range of values based on those procedures.
+
+    D    a computation of the profits of a business or business ownership interests, arrived at
+            by applying the valuation procedures appropriate for a valuation engagement and
+             using professional judgement as to the value or range of values based on those
+             procedures.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 63 ======================
+
+
+3.63      VALUATION APPROACHES AND METHODOLOGIES      1.63
+
+
+4.     Price has the following attributes, pick the correct options.
+
+              i       Intrinsic Worth
+
+             ii     Transaction Specific
+
+             iii     Short-Term Focus
+
+        iv      Holistic Assessment
+
+      v     Market Influences
+
+        (a)       ii, iii, v
+
+        (b)       i, ii, iii
+
+        (c)       i, iii, v
+
+        (d)        iii, iv, v
+
+5.   How many Valuation Standards has ICAI issued?
+
+        (a)   9
+
+        (b)   10
+
+        (c)    8
+
+        (d)   7
+
+6.    What are the Observable Inputs under ICAI VS?
+
+     A     Public information about current events and that reflect past assumptions that market
+              participants had used
+
+     B     Private information about futuristic events and that reflect assumptions that market
+              participants would use
+
+    C     Private information about historic events and that reflect assumptions that market
+              participants would use
+
+    D     Publicly available information about actual events and that reflect assumptions that
+            market participants would use
+
+7.    What are the situations under which Market Approach is relevant?
+
+              i        Liabilities are to be settled before valuation
+
+             ii     Asset to be Valued is traded in the Active Market
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 64 ======================
+
+
+1.643.64           VALUATION
+
+
+             iii     Recent, Orderly Transactions  in the Asset  to be Valued which are  identical  /
+            comparable in nature
+
+        iv     Information must be made public
+
+      v      Information is Available and Reliable on the recent orderly transactions
+
+       (a)       i, iii, v
+
+       (b)        iii, iv, v
+
+        (c)        ii, iii, v
+
+       (d)       i, ii, iii
+
+8.   A Comparable Company  / Assets selection is based on various factors, which are those
+       factors?
+
+              i      Operational Processes & Cash Flows
+
+             ii      Futuristic Assumptions
+
+             iii    Growth Potential
+
+        iv      Historical facts
+
+      v     Risks which are similar to the Company being Valued
+
+       (a)       i, iii, v
+
+       (b)        iii, iv, v
+
+        (c)        ii, iii, v
+
+       (d)       i, ii, iii
+
+9.    Compute the below multiple and  find the average  of each multiple among the three
+      companies:
+
+              i    EV ÷ Sales
+
+             ii    EV ÷ EBITDA
+
+             iii     Price ÷ Earnings
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 65 ======================
+
+
+3.65      VALUATION APPROACHES AND METHODOLOGIES      1.65
+
+
+                              Market Data                            Financial Data
+
+                                   Market          Co.           Price               EV        Sales     EBITDA     PAT
+                              Cap
+
+                INR per Share                      INR in Mn
+
+      KNC Ltd       300        57000    100000     35000      15000      4000
+
+     SMC Ltd       540        15000     60000     15000      40000      1500
+
+     DGC Ltd       980        8000     25000      3000      12500      2750
+
+        (a)    6.05, 9.33, 5.09
+
+        (b)    5.06, 3.39, 9.05
+
+        (c)    8.35, 4.49, 7.51
+
+       (d)    2.53, 1.29, 4.55
+
+10.   Compute the Enterprise Value of Pearl Ltd as on March 31, 2024, with the following
+       information.
+
+              i      Market Capitalization = INR 2,80,000 Crores
+
+             ii     Net Debt = INR 12,000 Crores
+
+             iii     Minority Interest = INR 1,000 Crores
+
+         iv    Opening Cash Balance as on September 30, 2023 = INR 2,750 Crores and Closing
+           Cash Balance as on March 31, 2024 = INR 1,254 Crores
+
+      v     Investment in Rita Pvt Ltd which is carried at cost = INR 5,450 Crores
+
+        (a)    2,95,196
+
+       (b)    2,86,804
+
+        (c)    2,86,296
+
+       (d)    2,84,296
+
+11.    Calculate the Price to Book Value of X Ltd with the below information.
+
+              i      Market Price = INR 1,485
+
+             ii     No. of Shares Outstanding = 15,07,967
+
+             iii     Paid-up Price = INR 10
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 66 ======================
+
+
+1.663.66           VALUATION
+
+
+        (a)    158.40
+
+        (b)    150.79
+
+        (c)    197.50
+
+        (d)    148.50
+
+12.   Heena Ltd. in FY23 earned INR 1 crore as EBIT with Revenue of INR 5 crore, in the same
+      year Heena Ltd invested in Fixed Capital to the tune of INR 1 crore, Depreciation was INR 50
+      Lacs and Working Capital investment was INR 30 Lacs. Heena Ltd expects EBIT, Investment
+        in Fixed Assets, Working Capital, Depreciation and Sales to grow at 8% per year for the next
+      5 years. After 5 years, the growth in Sales, EBIT and Working Capital investment will decline
+       to a stable 5% per year and Investments in Fixed capital and Depreciation will offset each
+       other. Tax rate= 25.168%, WACC= 11% during the high growth stage and 8% during stable
+       stage.
+
+              i      Calculate the Free Cash Flow to the Firm in FY29
+
+             ii      Calculate the Terminal Value at the end of FY29
+
+        (a)    60.08 Lacs;2002.64 Lacs
+
+        (b)    69.17 Lacs;2,420.95 Lacs
+
+        (c)    96.17 lacs;3022.11 Lacs
+
+        (d)    79.32 Lacs;2644.96 Lacs
+
+13.    Calculate the PV of Cash Flows at 9% for the Bond issued by X Ltd, when Cash Outflow each
+      year is INR 5000, INR 6000, INR 7000, and INR 10000
+
+        (a)    22,127.00
+
+       (b)    21,000.00
+
+        (c)    22,000.00
+
+       (d)    20,127.00
+
+14.    Calculate the current Fair Value of DSCDG Ltd
+
+              i     Face Value = INR 10
+
+             ii     Dividend Expected at end of Year-1 = INR 7
+
+             iii    Growth in Dividend at 12% forever
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 67 ======================
+
+
+3.67      VALUATION APPROACHES AND METHODOLOGIES      1.67
+
+
+        iv     Expectation of Equity Shareholders = 18% per annum
+
+       (a)    118.18
+
+       (b)    116.67
+
+        (c)    109.99
+
+       (d)    106.67
+
+15.    Calculate FCFE with the following information for DD Pvt Ltd
+
+              i     FCFF = INR 185 Lacs; Depreciation = INR 50 Lacs
+
+              ii      Interest on Long-Term Loan = INR 30 Lacs & Short-Term Loan = INR 20 Lacs
+
+             iii     Issue of Preference Shares = INR 300 Lacs; Decrease in Working Capital = INR 30
+            Lacs
+
+         iv    Repayment of Loan = INR 100 Lacs; Purchase of Fixed Asset = 70 Lacs
+
+      v     Repayment of other Debt = INR 300 Lacs; Tax Rate = 25.168%
+
+       (a)    347.58 Lacs
+
+       (b)    385.87 Lacs
+
+        (c)    358.57 Lacs
+
+       (d)    378.55 Lacs
+
+      Workings: FCFE = FCFF – Interest (1-t) – Repay loan + issue preference
+            = 185-(50*0.74832)-100+300
+16.   Which are the 3 prime factors in a Discounted Cash Flow under Valuation of Business
+
+              i     Cash Fow Projections
+
+             ii     Discount Rate
+
+             iii     Terminal Value
+
+        iv     Cost of Tangible Assets
+
+      v      Historic Income from the Asset
+
+       (a)       i, ii, iii
+
+       (b)       ii, iii, v
+
+        (c)        iii, iv, v
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 68 ======================
+
+
+1.683.68           VALUATION
+
+
+        (d)       i, iii, v
+
+17.  SMS Pvt Ltd is having a sales of INR 10 crores per annum and has Asset base of INR 100
+       Crores, it intends to liquidate the Asset due to technological improvements, the salvage value
+        is expected to be 3.5% based on the expert estimate, calculate the salvage value of the asset.
+
+        (a)   10
+
+        (b)   35
+
+        (c)    3.5
+
+        (d)   100
+
+18.    Calculate the Compounded Annual Growth Rate (CAGR) at the end of year 5,  if INR 200
+       crores is invested, where the value at the end of year-5 is INR 2137 crores.
+
+        (a)   80.80%
+
+        (b)   48.41%
+
+        (c)   25.00%
+
+        (d)   60.60%
+
+Theoretical Questions
+
+1.    What are the situations in which the market approach is relevant? Also briefly discuss the
+       benefits and limitations of market approach.
+
+2.      Briefly discuss the differences between Free Cash Flow to Firm and Free Cash Flow to Equity
+      along with an example.
+
+3.     Explain the various methods for valuation of Intangibles.
+
+4.    Discuss the commonly used methods under Cost Approach.
+
+5.     Explain Fair Value and its various methods of computation.
+
+ANSWERS/SOLUTIONS
+
+Answer to Multiple Choice Questions
+
+     1.        (d)        2.        (b)        3.        (b)        4.        (a)        5.       (c)
+
+     6.        (d)        7.        (c)        8.        (a)        9.        (b)       10.      (c)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 69 ======================
+
+
+3.69      VALUATION APPROACHES AND METHODOLOGIES      1.69
+
+
+    11.        (d)       12.       (b)       13.        (a)       14.       (b)       15.      (a)
+
+    16.        (a)       17.        (c)       18.       (d)
+
+Explanation to the practical questions of the MCQs
+1.
+
+          Year         FCF       Discount Rate 14%      PV
+
+           1            287              0.877            251.75
+
+           2            456              0.769            350.88
+
+           3            211              0.675            142.42
+
+           4            301              0.592            178.22
+
+           5            350              0.519            181.78
+
+
+      Terminal Value Calculations
+     FCF for Year 5                                            350.00
+      Add: Growth Rate 3%                                        10.50
+     FCF for Perpetuity                                         360.50
+
+
+      Gross Perpetuity Value (360.50/0.14 – 0.03)                  3,277.27
+       Discount Rate                                               0.519
+      Discounted Perpetuity Value                              1,700.90
+
+
+     PV of FCF for first 5 Years                 1,105.05
+     PV of Perpetuity Value                     1,700.90
+      Value of SKBC Pvt. Ltd.                 2805.95
+
+2.    INR 3,89,00,000 ÷ 7,89,093 shares = 49.30
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 70 ======================
+
+
+1.703.70           VALUATION
+
+
+9.
+
+                                   Valuation Multiples
+
+                                 EV /            Co.       EV / Sales                 PE
+                                  EBITDA
+
+       KNC Ltd           2.86            6.67         14.25
+
+       SMC Ltd           4.00            1.50         10.00
+
+       DGC Ltd           8.33            2.00         2.91
+
+          Average           5.06            3.39         9.05
+
+10.    Enterprise Value = INR 2,80,000 Cr. + INR 12,000 Cr. + INR 1,000 Cr. – INR 1,254 Cr. – INR
+      5,450 Cr. = INR 2,86,296 Cr.
+
+11.   Market Capitalization = INR 1485 x 15,07,967
+       Equity = INR 10 x 15,07,967
+      =(1485*1507967)/15079670
+
+12.
+
+
+         Particulars     %     FY23    FY24    FY25    FY26    FY27    FY28     FY29
+
+        Sales (INR
+                   8%     500.00   540.00   583.20   629.86   680.24   734.66    771.40
+         Lacs)
+
+        EBIT (INR
+                   8%     100.00   108.00   116.64   125.97   136.05   146.93    154.28
+         Lacs)
+
+                       Tax @
+        EBIT (1-Tax)
+                         25.168    74.83    80.82    87.28    94.27    101.81   109.95    115.45
+        (INR Lacs)
+                %
+
+         Depreciation
+                   8%      50.00    54.00    58.32    62.99    68.02    73.47           -
+        (INR Lacs)
+
+        Net Fresh
+         Capital
+                   8%      50.00    54.00    58.32    62.99    68.02    73.47           -
+         Investment
+        (INR Lacs)
+
+        Working
+         Capital
+                   8%      30.00    32.40    34.99    37.79    40.81    44.08     46.28         Investment
+        (INR Lacs)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 71 ======================
+
+
+3.71      VALUATION APPROACHES AND METHODOLOGIES      1.71
+
+
+       FCFF (INR
+                                    44.83    48.42    52.29    56.48    60.99    65.87     69.17
+         Lacs)
+
+         Terminal Value
+         [69.17(1.05)                                                                          2,420.95
+         /0.08 – 0.05]
+
+13.
+
+                Particulars           Year-1      Year-2     Year-3    Year-4
+
+             Cash Flow           5000       6000      7000     10000
+
+         Discounting Factor @ 9%     0.9174      0.8417     0.7722    0.7084
+
+            PV @ 9%            4587       5050      5405      7084
+
+           Sum of PV                                          22127
+
+14.    Fair Value of Equity = Dividend at end of Year-1 ÷ (Expected Rate of Return - Growth in
+       Dividend)
+
+      =7/ (18%-12%) = 116.67
+
+15.   FCFE = FCFF – Interest (1-t) – Repay loan + issue preference
+
+           = 185-(50 x 0.74832)-100+300 = 347.58
+
+17.   100 x 3.5% = 3.5
+
+18.    [(2137/200) ^ (1/5)]-1 = 60.60
+
+Answers to Theoretical Questions
+1.    Please refer to paragraph 2.1
+
+2.    Please refer to paragraph 2.2.2
+
+3.    Please refer to paragraph 2.2.4
+
+4.    Please refer to paragraph 2.3
+
+5.    Please refer to paragraph 3
+
+
+© The Institute of Chartered Accountants of India

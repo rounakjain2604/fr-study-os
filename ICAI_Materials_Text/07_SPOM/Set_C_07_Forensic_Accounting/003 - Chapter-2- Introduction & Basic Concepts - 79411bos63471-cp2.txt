@@ -1,0 +1,1209 @@
+Source PDF: 07_SPOM/Set_C_07_Forensic_Accounting/003 - Chapter-2- Introduction & Basic Concepts - 79411bos63471-cp2.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_07_Forensic_Accounting\003 - Chapter-2- Introduction & Basic Concepts - 79411bos63471-cp2.pdf
+Extracted at: 2026-05-31T10:32:33+05:30
+Pages: 32
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          2         1
+
+INTRODUCTION AND
+BASIC CONCEPTS
+
+
+                       LEARNING OUTCOMES
+After studying this Chapter, you will be able to: -
+    Understand meaning and concept of Forensics
+   Know Meaning of Forensic Accounting, Investigations and Fraud
+     Differentiate among audit, forensic accounting and investigations
+   Know meaning of Stakeholders in FAI engagement
+    Gain knowledge of roles and responsibilities of stakeholders
+   Have overview of Theories and Vulnerabilities of Fraud
+    Gain an introduction to Forensic Accounting and Investigation Standards (FAIS)
+   Have a bird’s eye view of matters dealt with by each FAIS
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+2.2          FORENSIC ACCOUNTING
+
+ CHAPTER OVERVIEW
+
+
+   Possibility of                                           Forensic                            Forensic
+   Fraudulent                                         Accounting                       Accounting and
+    events or                                       and                                Investigation
+   suspicious                                             Investigations                        Standards
+  transactions
+
+
+      2.1  MEANING OF FORENSICS, FORENSIC ACCOUNTING,
+        FRAUD AND INVESTIGATION
+(a)   FORENSICS: Forensics, in general, is quite a broad term. In many ways,  it’s the way
+      something is minutely reviewed and analysed so that it can serve the needs of some legal
+      requirements.  Dictionary meaning of “Forensics” is scientific methods of solving crimes,
+       that involve examining objects or substances related to a crime.
+(b)   FORENSIC ACCOUNTING: Using Forensics in accounting domain means that the books
+       of accounts and/or accounting transactions and balances are minutely reviewed and
+      analysed to serve the needs of some legal requirements. Hence, this is slightly narrower
+     and focused to accounting and financial matters.
+     The Framework governing  Forensic  Accounting and  Investigations  defines  forensic
+      accounting as under: -
+
+                          DEFINITION: FORENSIC ACCOUNTING
+                  Forensic Accounting is gathering and evaluation of evidence by a
+                    professional to interpret and report findings before  a Competent               Emphasis
+                                                  Authority.
+
+
+     The overriding objective of Forensic Accounting is to gather facts and evidence, especially
+        in the area of financial transactions and operational arrangements, to help the Professional
+       report findings, to reach a conclusion (but not to express an opinion) and support legal
+      proceedings.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.3
+
+(c)   FRAUD: Fraud is an act conducted by someone to cause some form of financial harm to
+      another through deception. This act can be a civil or a criminal offence depending on how
+            it has taken place. If one person has acted against another person in a private matter, such
+      as buying and selling property, and one of the persons has tried to unfairly deceive the
+       other person in this act, then it can be assumed to be a civil offence between them due to
+        their personal contractual arrangement. The victim can take the offending individual to court
+      through a civil case. However, if this act is reported to the police as a fraud by the victim,
+       the same act can be tried as a criminal offence in a court of law which will seek to establish
+       the legal violation and also establish the damages. This definition of Fraud, as per Section
+      17 of the Indian Contract Act, 1872, is as follows:
+      “Fraud” means and includes any of the following acts committed by a party to a contract,
+       or with his connivance, or by his agent, with intent to deceive another party thereto of his
+      agent, or to induce him to enter into the contract: —
+       (1)    the suggestion, as a fact, of that which is not true, by one who does not believe it to
+           be true;
+       (2)    the active concealment of a fact by one having knowledge or belief of the fact;
+       (3)   a promise made without any intention of performing it;
+       (4)   any other act fitted to deceive;
+       (5)   any such act or omission as the law specially declares to be fraudulent
+     The term “Fraud” and its related words like “fraudulently” and “intent to defraud” have been
+      used for a long time in the Indian Penal Code and other Statutes. The courts, and these
+       Statutes have helped to define the key elements of the term (such as deception or intent to
+      deceive) and therefore helped to establish whether or not a fraud has occurred. But its
+      coverage in the corporate setting was very limited. The Companies Act, 2013 has defined
+      term “Fraud” in very broad terms covering almost every conceivable situation.
+      Section 447 of Companies Act, 2013 defines fraud as under: -
+          (i)    “Fraud” in relation to affairs of a company or anybody corporate, includes
+          any act, omission, concealment of any fact or abuse of position
+          committed by any person or any other person with the connivance in any
+                  manner,
+           with intent to deceive, to gain undue advantage from, or to injure
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+2.4          FORENSIC ACCOUNTING
+
+          the interests of, the company or its shareholders or its creditors or any other
+                   person,
+          whether or not there is any wrongful gain or wrongful loss.
+           (ii)    “wrongful gain” means the gain by unlawful means of property to which the person
+             gaining is not legally entitled;
+           (iii)    “wrongful loss” means the loss by unlawful means of property to which the person
+              losing is legally entitled.
+     The Framework governing Forensic Accounting and Investigations defines fraud as under:
+          -
+
+                                    DEFINITION: FRAUD
+               Fraud is any intentional or deliberate act to deprive another of property or               Emphasis              money through deception or other unfair means.
+
+(d)   INVESTIGATION:  Investigation  is  generally  referred  to a  set  of  specific  activities
+      undertaken to gather the evidence required with a set purpose in mind. The specific
+        activities can be in the nature of forensic accounting when the matter involves finance and
+      accounting or the activities can be in form of observations or interviews for non-financial
+       matters. The specific objectives can be anything where truth has to be established and
+      presented with the facts, for example it could be fund diversion in a case of financial frauds.
+     The Framework governing Forensic Accounting and Investigations defines Investigation as
+      under: -
+
+                               DEFINITION: INVESTIGATION
+                          Investigation is the systematic and critical examination of               Emphasis                   facts, records and documents for a specific purpose.
+
+       Investigation  is a  critical examination  of evidences, documents,  facts and  witness
+      statements  with  respect  to an  alleged  legal,  ethical  or  contractual  violation. The
+      examination would  involve an evaluation  of the  facts  for alleged  violation  with an
+      expectation that the matter might be brought to a Court of law or a regulatory body.
+     Some examples of each of the key terms defined above is presented below to clarify and
+      appreciate the terms better.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.5
+
+                         EXAMPLES – Frauds
+Some instances of Frauds in the Companies Act, 2013 (which attract Sec. 447 punishment):
+♦   Sec. 34: For untrue, misleading statement in prospectus or inclusion or omission of any
+       matter;
+♦    Sec.36: For fraudulently inducing persons to invest money;
+♦    Sec.38: For personation for acquisition of securities etc.;
+♦    Sec.75: Acceptance of deposits with intent to defraud depositors or for any fraudulent
+      purpose;
+♦    Sec.147: Cases where auditor acts in a fraudulent manner or abets or colludes in any
+       fraud;
+♦    Sec.213: When business of the Company  is carried on for a fraudulent or unlawful
+      purposes or with intent to defraud creditors, members or any other persons;
+♦    Sec.229: For furnishing of false statement, mutilation, destruction of documents during
+       inspection, inquiry or investigation; and
+♦    Sec.251: For making fraudulent application for removal of name.
+                       EXAMPLES – Investigations
+An internal investigation is sometimes initiated by the audit committee based upon its own concerns.
+More often, investigations are triggered by external factors, circumstances, or events. Common
+subjects of audit committee investigations include:
+♦    Improper accounting for business activities (e.g., manipulation of earnings), falsified books
+     and records, stock option grant irregularities, etc.
+♦      Illegal payments  to obtain business  (e.g., government contracts, FCPA issues, and
+      commercial bribery)
+♦    Occupational misconduct, such as embezzlement or employee theft
+♦     Conflict-of-interest or related-party transactions
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+2.6          FORENSIC ACCOUNTING
+
+                        EXAMPLE – Forensics
+The Company received an anonymous hand written letter through the mail in which there were
+serious death threats against the CEO and his family. The letter alluded to the fact that bodily harm
+may be inflicted on the children of the CEO unless he took some specific action to send a specific
+amount of cash in currency notes within a specified time period in such a manner where the identity
+of the receiver was to remain unknown. The CEO immediately informed the police who took the
+letter, and the envelope it came in, for “forensic analysis".
+The lab undertaking the forensic work examined the paper used, the possibility of capturing some
+finger prints on the letter and envelope, scrutinise the manner in which the writing was done, such
+as the ink used to find out the nature of the writing implement, deployed the expertise of a
+handwriting expert to decipher the possibility of the writer etc. The police also undertook an
+investigation of the possible suspects and collected various samples of hand-writings of suspects to
+allow the forensic experts to match the handwritings and shortlist the most likely suspect.
+All the above-mentioned techniques deployed to analyse the only clue available (letter and envelope)
+are generally referred to as forensic work.
+                     EXAMPLE – Forensic Accounting
+The management of a pharma company suspects pilferage in  its inventory and  it appoints a
+Professional to seek help to confirm or rule out this suspicion.  It wants review of its accounting
+records and their reconciliation with physical quantities to confirm or rule out suspicion. The
+management also wants to initiate legal proceedings against perpetrators in case fraud is confirmed.
+The Professional meticulously reviewed accounting records. To identify the reason of the variance,
+he undertook a review of the quantities of some of the large inventory items to see if he could identify
+the variance in kilogram weight terms. He noticed that some large expensive raw material inventory
+items receipts could neither be located in the store room or the factory production floor. He tried to
+trace these receipts to specific production runs to see if they had been used for making the medicines
+sold  Finally, he reviewed the wastage records to see  if these had been discarded due to quality
+control purposes. When he received no plausible explanation, he came to the conclusion that there
+is a serious possibility of pilferage of these expensive raw materials and asked the security head to
+investigate the matter during and after the time of receipt. This investigation led the security people
+to review the CCTV footage and records during delivery to identify a few instances of short delivery
+by the inward people.
+This detailed analysis by Professional is an example of some Forensic Accounting techniques used
+to identify a case of fraud.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.7
+
+      2.2  DIFFERENCES BETWEEN AUDIT, FORENSICS AND
+         INVESTIGATIONS
+Media constantly uses the term “Forensic Audit”, and no day goes by where some news or another
+is not splashed on printed pages referring to some forensic work or another underway! The media
+(and some others) have coined this new term called “Forensic Audit” to indicate a fraud investigation.
+Strictly speaking, “Forensic Audit” is a misnomer – a misleading term, because either one can have
+a   Forensic   Accounting
+exercise or an audit, never
+the two together.
+As  Forensics becomes  a
+new buzzword in this era of
+high-profile frauds,  it keeps
+getting much publicity these
+days (as shown above). In
+fact,   it  has now become
+more of a generic term to                                            Example of the
+indicate a particular type of                                               misuse of the
+                                                                           term “Forensic“detailed audit” designed to
+                                                                                        Audit” by theunearth fraudulent  activity.
+                                                                               media!This stems  primarily  from
+the  fact  that  forensics  is
+seen as an extension of a
+typical audit and Chartered
+Accountants (CAs)  are  generally  best  placed  to  also  undertake  Forensic  Accounting and
+Investigation work.
+However, it is mandated clearly in Forensic Accounting and Investigation Standards need to avoid
+any reference to the term “Forensic Audit”. This  is to prevent any confusion between a FAI
+engagement with an audit engagement, where the Auditor is expected to express an independent
+opinion based on work performed in accordance with Standards on Auditing. The FAIS, therefore,
+do not apply to auditors, but to other Professionals undertaking FAI engagements, irrespective of
+the Stakeholders. In many cases, the stakeholders could include a Competent Authority and other
+government agencies, such as a Regulatory Body (e.g., RBI, SEBI etc.). In fact, some of these
+bodies mandate FAI type of engagements, at times referring to them as “Forensic Audits”. Hence,
+wherever the Professional is undertaking an engagement which is being referred to as a “Forensic
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+2.8          FORENSIC ACCOUNTING
+
+Audit” (or any name whatsoever) and it complies with the mandate which is in the nature of either a
+Forensic Accounting engagement or an Investigation engagement (or a combination of the two), the
+FAIS would be applicable to such an engagement.
+It is expected from the Professional to recognise the nature of the engagement by understanding
+the mandate received from the Primary Stakeholder. The requirements are expected  to be
+implemented through an understanding of the various unique features which define the requirements
+in the mandate. These unique features cover various elements like objective, approach, focus,
+required skill set and also the typical outcomes, etc.
+2.2.1 We are familiar with meaning of audit. An audit is an independent examination of financial
+information of any entity, whether profit oriented or not, and irrespective of its size or legal form,
+when such an examination is conducted with a view to expressing an opinion thereon. The outcome
+of an audit is written audit report in which auditor expresses an opinion.
+The objectives of audit vary in nature. Statutory Audit is undertaken to express an independent
+opinion over the truth and fairness of financial statements. Internal audits are designed to strengthen
+internal controls with a focus on system and process improvement and thereby mitigate risks. These
+audit activities can, at best, identify red flags or fraud indicators, which may act as the starting points
+for a FAI engagement.
+2.2.2 The indicative features of terms “forensic accounting” and “investigations” are summarised in
+infographics presented below: -
+Key elements of Forensic Accounting are presented here:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.9
+
+Key elements of an Investigation are presented here:
+
+
+Forensic Accounting aims to highlight any accounting or legal violations, regulatory deviations or
+contractual breaches through ascertainment of facts and gathering of evidences admissible before
+a Competent Authority. The focus area is critical examination of transactions, funds and balances in
+the books of account or with third parties.
+However, the purpose of the Investigation  is to examine facts and circumstances and gather
+evidence to prove or disprove hypotheses formulated regarding alleged legal violations, unethical
+conduct or the possibility of a fraud by suspected individuals.
+The Professional can make a determination of the nature of the engagement by looking at the
+proposed mandate by the Primary Stakeholder (the party seeking Professional help and appointing
+the Professional).
+(a)    In most cases, the mandate does not specify any procedures which would immediately
+       direct the Professional to decide the nature of engagement. In fact, the Primary Stakeholder
+     may not know enough to help in this matter and would rely on the regular jargons like
+      “Forensic Audit” or “Investigation” without even knowing enough about the distinction
+      between the two.
+(b)   The mandate received from the Primary Stakeholders mostly define the purpose of the
+      engagement, which eventually will define its nature. This mandate will rightly define the
+      expected outcome. For example, the Professional  is informed that the management
+      suspects that there is inventory pilferage from the plant and unpacked finished product is
+      probably being stolen. The purpose in calling the Professional is to seek help to confirm or
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+2.10          FORENSIC ACCOUNTING
+
+       rule out this suspicion. This therefore becomes the mandate, which in most cases would
+       point towards a Forensic Accounting engagement.
+     The Professional may consider asking some of the following indicative questions while
+      determining the nature of the engagement:
+       (a)   Does the engagement require gathering of evidence regarding alleged legal, ethical
+              or contractual violations?
+       (b)    Will the findings be reported to a Competent Authority to make a legal or contractual
+             determination?
+        (c)   Does the engagement require provision of testimony or assistance to arbitration,
+            mediation or other alternative dispute resolution mechanisms on financial or non-
+               financial matters?
+     The answers to these, and similar questions provide greater clarity to help the Professional
+     make an informed determination.
+
+                       It’s very important that the Chartered Accountants are themselves familiar with the
+                   finer nuances  of each  of  the above terms  (Audit,  Forensic Accounting and
+                 Investigation) and the mandate they define, therefore use the right terms themselves              EMPHASIS             and correct others when they notice the wrong usage.
+
+
+      2.3  ROLES & RESPONSIBILITIES OF STAKEHOLDERS
+2.3.1  Meaning of Stakeholders
+The Professional has to deal with a number of Stakeholders. They can be primary stakeholders or
+other stakeholders.
+The appointing authority is the Primary Stakeholder, who is also referred to as “the Client” in some
+cases. The appointing authority can be identified from the content of the engagement or the
+appointment letter and their signatory(ies)
+The Primary Stakeholder could either be a section of the entity’s executive management or the
+governing body of an organisation (e.g., the Board of Directors or the Audit Committee), or a
+competent authority (such as a court of law, an adjudicating authority or any other quasi-judicial
+body) empowered under law to act as such.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.11
+
+All Stakeholders other than Primary Stakeholders are considered as Other Stakeholders and
+includes third parties (e.g., lenders, customers, suppliers, business partners, consumers, current or
+past employees, etc.)
+2.3.2  Role & Responsibilities of Stakeholders
+In case of corporates, so far as frauds are concerned, the Board of Directors are expected to take
+a pro-active role in their prevention and detection. The Board needs to implement and strengthen
+the governance processes consisting of anti-fraud measures so that there is a culture of compliance
+and the people within the organisation (and also those from the outside who deal with the officers of
+the organisation) have impeccable integrity and would think twice before indulging in any unethical
+activity. On the detection side, they should seek to implement strong controls and a speak-up culture
+through whistle-blowing mechanisms which encourage people to highlight any instances of violations
+which can be investigated and concluded in a rapid manner.
+Certain classes of companies are required to constitute an audit committee under provisions of
+Companies  Act, 2013. The audit committee performs many important functions  like making
+recommendations for appointment of auditors of company, reviewing and monitoring auditor’s
+independence, performance and effectiveness of audit process, examination of financial statements
+& auditor’s report thereon, evaluation of internal financial controls and risk management systems
+and monitoring end use of funds raised through public offers and related matters. Audit committee,
+thus, helps in ensuring better standards of corporate governance.
+The regulators have taken an uncompromising approach to instances of fraudulent activity and over
+a short period of time, implemented robust regulations and strict compliance reporting requirements.
+The Reserve Bank of India, for instance has come down very hard on the banks which have been
+reporting large NPAs  The Stock Exchange Board of India has also issued  strict strictures on the
+actions the companies need to take in strengthening their anti-fraud measures and it also undertakes
+investigations in accordance with law.
+
+      2.4  THEORIES AND VULNERABILITIES OF FRAUD
+Due to the prevalent incidents of frauds  , Fraud Risk is now considered to be one of the most
+important risks being faced by most organisations. In addition, most of the work in the area of
+Forensic Accounting and Investigations involves, in some form or another, something to do with
+fraud. So, the obvious question which comes to mind is the most basic question as to “why do
+frauds take place?” The answer to this million-dollar question will also help us to make sure that
+all our efforts in the prevention and detection area can be more effective if we are able to identify
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+2.12          FORENSIC ACCOUNTING
+
+the real root-cause of this menace. In this regard, its pertinent to mention two key points in the FAIS.
+
+          FAIS 120, on “Fraud Risk” states as under:-
+            Forensic Accounting and  Investigation (FAI) engagements generally  involve the
+              possibility of fraudulent events or suspicious transactions.
+            Typical characteristics of a “Fraud” involve an incentive or pressure to commit fraud, a
+            perceived opportunity to do so, and some rationalization of the act. Therefore, the
+            question of intent becomes critical as part of the engagement objectives. The concept EXAMPLE        of “Risk” is defined as the possibility of an unfavourable event or outcome, such as the
+           presence of a fraud.
+           Other Stakeholders: Stakeholders other than Primary Stakeholders are considered as
+            other stakeholders and would include third parties (e.g., lenders, customers, suppliers,
+           business partners, consumers, current or past employees, etc.).
+
+
+The above points seem to indicate the real reasons for why frauds happen. If we were to analyse
+any fraud in detail and look for the cause-effect, we would find that each of the frauds has these
+three essential ingredients – a motive (incentive), an opportunity (the enabler) and the rationalisation
+(justification in the mind).
+These three elements are essential for a fraud to be perpetrated and is presented as “Fraud Triangle
+Theory”. There are some other theories as well, but they are merely a modified extension of this
+Fraud Triangle Theory .
+2.4.1 FRAUD TRIANGLE
+Donald Cressey, a sociologist and criminologist in the 1940s, was one of the  first persons to
+specialize in the field of understanding fraudsters and why they do what they do. From his research,
+Cressey developed "The Fraud Triangle” which was a model he used to explain what caused some
+people to become fraudsters by analysing the circumstances in which the subjects of his research
+were drawn into fraud.
+2.4.1.1 The fraud triangle, developed by Donald Cressey, is a model for explaining the factors that
+cause someone to commit occupational fraud. It consists of three characteristics which, together,
+lead to fraudulent behaviour:
+(a)   The Motive or Perceived Pressure
+(b)    Opportunity or the enablers
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.13
+
+(c)    Rationalization or the Justification
+2.4.1.2 A pictorial depiction of the Fraud Triangle is as follows:
+
+
+We will now discuss each of these three characteristics.
+(a)   Motive or Perceived Pressure: Management or other employees may find themselves
+       offered  incentives  or placed under pressure  to commit  fraud. When,  for example,
+      remuneration or advancement is significantly affected by individual, divisional, or company
+      performance, individuals may have an incentive to manipulate results or to put
+      pressure on others to do so. Pressure may also come from the unrealistic expectations
+       of investors, banks, or other sources of finance. Certain risk factors are usefully
+      considered in the evaluation of whether or not the organization is at a greater or lesser
+     degree of risk, owing to incentives or pressures that could potentially lead to material
+      misstatements caused by frauds. Determining the presence and degree of these
+      pressures or incentives is part of the goal in evaluating the risk that misstatements
+     due to fraud may have occurred.
+
+       Certain  risk factors are usefully considered  in the evaluation of whether or not the
+       organization is at a greater or lesser degree of risk, owing to incentives or pressures that
+      could potentially lead to material misstatements caused by frauds. Some examples are as
+       follows:
+        Financial  stability  or  profitability  is threatened by economic,  industry,  or  entity
+             operating conditions.
+       Excessive pressure exists for management to meet debt requirements.
+       Personal net worth is materially threatened.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+2.14          FORENSIC ACCOUNTING
+
+(b)   Opportunity or the enablers: Circumstances may exist that create opportunities for
+     management or other staff to commit fraud. When such opportunities arise, those who might
+       not otherwise be inclined to behave dishonestly may be tempted to do so. Even individuals
+      under pressure and susceptible to incentives to perpetrate a fraud are not a grave threat
+       to an organization unless an opportunity exists for them to act on their need. An opportunity
+     must exist to commit fraud, and the fraudster must believe the fraud can be committed
+      with impunity. Opportunities may also be inherent in the nature, size, or structure of
+      the business. Certain types of transactions lend themselves more than others to
+       falsification or manipulation, as do certain kinds of balances or accounts.
+
+       There is a presence of large amounts of cash on hand or inventory items.
+       There is an inadequate internal control over assets.
+       Inadequate segregation of duties.
+       Absence of mandatory job rotation and vacations
+(c)    Rationalization or the Justification: Some individuals are more prone than others to
+      commit fraud. Other things being equal, the propensity to commit fraud depends on
+      people’s ethical values as well as on their personal circumstances. Ethical behaviour is
+      motivated both by a person’s character and by external factors. External factors may
+       include job insecurity, such as during a downsizing, or a work environment that inspires
+      resentment, such as being passed over for promotion. Risk factors that  fall into this
+      category of rationalization and attitude are typically the least tangible or measurable,
+     and many are by nature difficult  to observe or otherwise ascertain. Fundamentally,
+       rationalization and  attitude are functions  of the culture  of an organization, the
+      psychology of those who work in it, and the interaction between the two—for example,
+      the level of employee loyalty to the company. The wider business environment must
+      also be considered: hard times in an industry or in the overall economy may make it
+      easier for some individuals to rationalize fraud.
+
+      A history of violations of laws is known
+         Little communication and support of the entity’s core values is evident.
+       Management has a practice of making overly aggressive or unrealistic forecasts.
+       Personal financial obligations create pressure to misappropriate assets.
+       Adverse relationships between management and employees motivate employees to
+             misappropriate assets.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.15
+
+       Disregard for the need to monitor or reduce risk of misappropriating assets exists.
+       There is a disregard for internal controls
+2.4.2 FRAUD DIAMOND:
+Wolf and Hermanson  introduced the fraud diamond model where they presented another view of
+the factors to fraud. The theory adds fourth variable “Capability” to the three-factor theory of fraud
+triangle. Wolf and Hermanson believed many frauds would not have occurred without the right
+person with right capabilities implementing the details of the fraud.
+2.4.2.1 They also suggested four observation traits for committing fraud:
+♦     Authoritative position or function within the organization.
+♦    Capacity to understand and exploit accounting systems and internal control
+♦    Confidence of not being detected, or if caught, to get off easily.
+♦     Capability to deal with the consequences.
+2.4.2.2 A pictorial depiction of the Fraud Diamond is as follows:
+
+
+The Fraud Diamond theory states that all these 3 ingredients are essential but the critical component
+in turning the fraud opportunity into reality is “Capability”. The fraudster should have the necessary
+traits and abilities to be the right person to pull  it off and also the confidence and ego to escape
+detection or to escape any severe consequences, if detected.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+2.16          FORENSIC ACCOUNTING
+
+2.4.3 FRAUD PENTAGON
+Cressey’s classic fraud triangle helps to explain many situations, but today’s fraudster is more
+independent-minded and armed  with more  information and access than were  available  to
+perpetrators in the 1950s. In addition, few would deny there have been significant cultural changes
+in the past few decades. The fraud triangle can be expanded further to a Crowe Horwath’s Fraud
+Pentagon, where an employee’s competence and arrogance are factored into the 3 conditions
+generally present when fraud occurs. The two additional aspects in the Fraud Pentagon are as
+follows:
+(a)   Competence: It is an extension on the element of opportunity to include an individual’s
+        ability to override internal controls and to socially control the situation to his advantage.
+(b)   Arrogance (lack of conscience): It is an attitude of superiority and entitlement or greed
+      on the part of the perpetrator who believes that company policies and procedures do not
+      apply to him.
+     A pictorial depiction of the Fraud Pentagon is as follows:
+
+
+2.4.4 FRAUD SCALE
+This is another theory on propounded by Steve Albrecht which states:
+(i)     Situational pressures, perceived opportunities& personal integrity are the 3 factors that
+      lead to frauds–
+(ii)   When situational pressures & perceived opportunities are high & personal integrity is low,
+      occupational fraud is much more likely to happen than when the opposite is true.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.17
+
+(iii)      It also states that perpetrators hard to profile & fraud difficult to predict.
+A pictorial depiction of the Fraud Scale is as follows:
+
+
+2.4.5 FRAUD CIRCLE
+Another notable theory relating to Fraud is of ‘Fraud Circle’. This theory recognizes the fact that
+fraud is Omni-present everywhere and wherever there will be money, there will always be Frauds
+
+      2.5  INTRODUCTION TO FORENSIC ACCOUNTING AND
+         INVESTIGATION STANDARDS (FAIS)
+2.5.1  Forensic Accounting and Investigation Standards (FAIS)
+Forensic Accounting and Investigation Standards (FAIS) have been issued by ICAI.  These
+Standards have become mandatory for all the engagements conducted on or after 1st July, 2023.
+The FAIS, at a broad level, seek to provide:
+(a)    the professionals, with the minimum standards for undertaking Forensic Accounting and
+       Investigation (FAI) engagements
+(b)    the users of FAI services, with an indication of the quality of service that can be expected
+      from such engagements
+(c)    the regulators and agencies, with an appreciation of what can be expected from FAI
+       services; and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+2.18          FORENSIC ACCOUNTING
+
+(d)     in general, guidance on matters of implementation and related practical issues.
+The Standards are principle-based, thereby providing adequate scope for professional judgment
+when applying such principles to unique situations and under specific circumstances. The unique
+nature of forensic assignments necessitates that, the application of FAI skills and the use of technical
+tools and techniques, may vary depending on the nature of each specific engagement.
+BACKGROUND: Forensics is a very specialised area, and forensics in the field of Accounting and
+Finance, even more so. With the recent rise in financial frauds and heightened media attention to
+such instances, the area of forensic investigations has gained prominence as a distinct “profession”
+in its own right. Despite  it being at a nascent stage,  it is growing rapidly not just in India, but
+throughout the globe. We now have a comprehensive body of knowledge in the form of the Forensic
+Accounting and Investigation Standards issued by the ICAI.
+The primary  driving  force behind developing these Standards  is  to enhance the  quality  of
+performance of ICAI members in this specialized area. A need was felt that members may not fully
+recognise the unique and important aspects applicable in this profession (such as cross-examination
+of evidence in a court of law), especially  if these can “make or break” the credibility of the whole
+engagement and its output.
+2.5.2  Framework governing Forensic Accounting and Investigations:
+Each of the Standards operate within a pre-defined framework which governs the domains of FAI.
+The framework seeks to ensure a consistent application of basic principles, best practices and
+standards to achieve a high level of quality, consistent with the variety of objectives driven by the
+different types of FAI engagements. Besides defining key terms, this framework consists of following
+four key components: -
+(a)    Basic Principles of FAI;
+(b)   Key Concepts;
+(c)    Standards on FAI, and
+(d)   Guidance
+These four components are based on the of Code of Ethics of the Institute. The FAIS are a minimum
+set of requirements that apply to all members of the ICAI when conducting FAI assignments of any
+entity. The mandatory nature of the FAIS implies that while carrying out any FAIs, it shall be the duty
+of the Professional to ensure that they comply with the Standards.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.19
+
+If, for any reason, and after reasonable efforts, the Professional is unable to comply with any of the
+requirements of the Standard, or if there is a conflict between the Standards and other mandates,
+such as a statutory or regulatory requirement, the FAI report (or such similar communication) shall
+draw attention to the material departures therefrom along with appropriate explanation.
+The Framework Governing Forensic Accounting and Investigations lays down the underlying
+principles and boundaries for undertaking such services. Its aim is to preserve and enhance the
+quality  of  practice  of a member and the Professional performing Forensic Accounting and
+Investigation (FAI) services.
+The Framework covers all types of FAI services. The test of the Standard’s applicability is the
+purpose for which the service is being provided by the Professional to the service user. While the
+Standards are applicable in all cases where the engagement objectives are in line with the definition
+of FAI as outlined in Framework, the applicability of the Standards become much more critical where
+the engagement output may be used for possible litigation or prosecution. However, the Standards
+do not apply to a situation where a Professional performs forensic work-steps as part of an
+assurance assignment such as Statutory or Internal Audit or any other attest engagement.
+The main objectives of the Framework are to:
+(a)    Provide an overall understanding of FAI and its key components.
+(b)    Outline the manner in which these components come together in an inter-related cohesive
+     manner when providing FAI services.
+(c)    Maintain and continuously improve the quality of FAI services.
+Pictorial description of Framework governing Forensic Accounting and Investigations
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+2.20          FORENSIC ACCOUNTING
+
+Every Professional conducting a FAI engagement is bound by a written Code of Ethics (or Conduct),
+issued by a professional body and/or an organisation of which he is a member. This commits the
+Professional to the ethical Standards applied with utmost integrity and sincerity. A member of the
+ICAI, carrying out an FAIS engagement is, additionally, governed by the following:
+(a)   The requirements of the Chartered Accountants Act, 1949.
+(b)   The Code of Ethics issued by the ICAI,
+(c)    Other relevant pronouncements of the ICAI.
+2.5.3 THE BASIC PRINCIPLES:
+The Basic Principles of FAIs are a set of core principles fundamental to the domain of conducting
+such engagements. The Basic Principles are critical to achieve the desired objectives as set out in
+the definition of FAI, and therefore, apply to all relevant engagements. The FAIS have identified ten
+core principles.The first five of these principles relate to the attributes of the Professional and help
+to establish the credibility of the individual conducting the engagements while the next five principles
+relate to the performance of the Professional and help to establish the credibility of the manner in
+which the work is conducted.Snapshot of the ten basic principles of FAIS
+ S. No.     Principles of Attributes        S. No.     Principles of Performance
+    1     Independence                  6      Contextualisation of Situation
+    2       Integrity and Objectivity           7     Primacy of Truth
+    3    Due Professional Care           8     Respecting Rights and Obligations
+    4      Confidentiality                  9      Separating Facts from Opinions
+    5       Skills and Competence           10     Quality and Continuous Improvement
+These principles are discussed briefly as under: -
+Principles of Attributes
+(a)   Independence:The Professional shall be independent and neutral in, mind, conduct and
+      appearance. Hence the Professional shall be free from any undue influence which forces
+       deviation from the truth or influences the outcome of the engagement. For independence,
+       the Professional needs to resist any pressure or interference in establishing the scope of
+       the engagement or the manner  in which the work  is conducted and reported. The
+       Professional engaged as an external service provider shall ensure that the appointment is
+     made with due authority.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.21
+
+(b)    Integrity and Objectivity: The Professional shall be honest, truthful and a person of high
+        integrity. The Professional shall act in a highly ethical manner and be fair in all dealings.
+     The Professional shall avoid all conflicts of interest and shall not seek to derive any undue
+       benefits or advantages from their position.
+     The Professional shall conduct the work  in a highly objective manner, especially  in
+      gathering evidence and evaluation of facts. The Professional shall not allow prejudice or
+       bias to override their objectivity, especially in arriving at conclusions.
+     The Professional needs to plan and execute the engagement in an unbiased manner and
+      accept the possibility of the outcome of any form or direction. The quest for truth and the
+       objective outlined in the appointment should be the corner stone of the engagement.
+(c)   Due Professional Care: The Professional shall exercise due professional care and
+       diligence while carrying out the engagements. “Due Professional Care” implies the
+       following, for example, -
+       (a)    that reasonable care has been exercised in carrying out the work to ensure the
+            achievement of the planned objectives;
+       (b)   adequate focus and attention are given  to matters  of importance, along with
+              diligence in time-management;
+        (c)   measures are in place to comply with professional standards of work; and
+       (d)    steps  are  taken   to  ensure  continuous  communication   to  prevent  any
+            misunderstanding.
+      “Due Professional Care”, however, neither implies nor guarantees infallibility, nor does  it
+       require the Professional to go beyond the established scope of the engagement or exceed
+       the brief without due approvals.
+(d)    Confidentiality: The Professional shall at all times, maintain utmost confidentiality of all
+       information acquired during the course of the engagement. This includes the need to
+       protect privacy rights of the suspect and to discover evidence in a manner which does not
+       infringe upon the privacy rights of individuals. The Professional shall not disclose any such
+       information to a party outside the team formed to conduct the engagement and the
+      engaging management. Disclosures, if required, shall be on a “need to know basis”.
+     The Professional  shall keep  confidential information secured from others. Under no
+      circumstance, any confidential information shall be shared with third parties outside the
+       organisation without the specific approval of the Client or Competent Authority, unless there
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+2.22          FORENSIC ACCOUNTING
+
+        is a legal or a professional responsibility to do so. Reports prepared by the Professional
+       shall be addressed to specified individuals and submitted only to those who have appointed
+       or engaged them.
+(e)    Skills and Competence: The Professional shall undertake only those engagements for
+      which they have the requisite competence. Firstly, the Professional shall have the required
+       qualifications  to undertake FAI engagements. A Chartered Accountant  qualification,
+      supplemented with legal qualifications or post-qualification Certificate Courses are ideal.
+      Global qualifications, certifications, and such similar credentials carry requisite weightage.
+      Secondly,  the  Professional  shall have sound knowledge,  practical  experience and
+       professional expertise in forensic accounting and investigation domains to conduct a quality
+      engagement.
+     The Professional shall either have, or shall obtain, such skills and competencies, as are
+      necessary for the purpose of discharging their responsibilities. Continuing Professional
+      Education  is a key part of this exercise. In addition to the basic technical  skills, the
+       Professional shall have the soft skills (such as interpersonal and communication skills)
+       required to engage with a multitude of Stakeholders.
+     Where the Professional lacks the expected expertise, the required skills shall be procured
+       either through in-house experts or through the services of an outside expert, provided
+      independence is not compromised. The objective is to ensure that the FAI team, as a whole,
+      has all the expertise and skills required to execute the engagement successfully.
+Principles of Performance
+(a)    Contextualisation of Situation: FAI engagements cannot be conducted in isolation. The
+       context of the situation and the environment where the transactions or operations take
+      place is important to understand the complete picture. Each FAI assignment is unique. The
+      nature of the business, the situation, the complexity of the environment, the circumstances
+       at the time, and the manner in which all this comes together, plus the involvement of the
+      people in the affairs, all need to be well understood to develop and execute the plan of
+       action.
+       Also, any FAI engagement would require the Professional to act on predication, which is
+      based on a review of the totality of circumstances and evaluating the probability of the
+      occurrence of a fraud or some unlawful  activity which requires to be examined. For
+      example, presence of “red flags” or “Fraud Indicators” may be reasonable triggers to
+      conduct a FAI engagement.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.23
+
+(b)   Primacy of Truth: In any FAI engagement all the activities shall be centred around finding
+       the truth. Therefore, the primary objective of any Professional is to unearth the reality
+      behind every allegation or dispute, which in turn shall be based on facts, figures and reliable
+       evidential matter.
+       Establishing what actually occurred is of utmost and prime importance. Any deviation from
+        this may lead the Professional away from the engagement objectives and what needs to be
+       reported. The Professional should, therefore, always remain cautious of being misled in a
+       direction which may sway them away from the truth.
+(c)   Respecting Rights and Obligations: Due to the nature of FAI assignments, it is critical to
+       obtain and understand the views and standpoint of  all parties. Just as much as the
+       Professional has the right of examination to unearth the truth, the suspects have a similar
+        right to defend their innocence. The Professional is expected to seek information and
+      evidence from the suspects to understand their perspectives.
+     Ample opportunity should be given to all parties to present their case, evidences and
+       perspectives. This, however, should be done at the right time and in the right manner, such
+      as through written communication, for example, show-cause notice, written explanation etc.
+        All FAI engagements need to adhere to the laws, including law of privacy to the suspect.
+     The principles of natural justice, which give the other party  full right to be heard with
+       opportunity to present their version of the facts, should also be considered.
+(d)   Separating Facts from Opinions: Many  times,  in  discovering  evidential  matters,
+       interviews are sought from those who can provide important information to the Professional.
+      Under such circumstances, there is a risk in the information getting “contaminated” with
+      personal opinions of the source. Similarly, there could be other circumstances where “facts”
+       not relevant to the examination, may introduce an element of bias. The Professional needs
+       to guard against such situations where opinions and such bias may cause diversion from
+       the main objectives of FAIS. Nevertheless, opinions from reliable sources may be useful
+        for developing hypotheses and should be given due consideration.
+     The FAI assignment is predominantly a fact-finding exercise. The Professional shall ensure
+       that  their personal judgement and biases  find no place  in  this  exercise. Personal
+      perspectives shall be separated from professional judgement, which in turn shall not be
+      clouded by “noise” in the evidence. This is particularly important when interviewing a
+      witness or suspect.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+2.24          FORENSIC ACCOUNTING
+
+(e)    Quality and Continuous Improvement: The quality of work performed shall be paramount
+       to the Professional since the credibility of the outcome depends on the reliability of findings.
+     The Professional shall have in place a process of quality control to:
+       (a)    ensure factual authenticity of evidence obtained;
+       (b)    validate the accuracy of all findings; and
+        (c)    continuously improve the quality of the process followed and reports issued.
+     The Professional shall ensure that an assessment mechanism  is in place to monitor
+      performance of self and subordinates and also of any external experts on whom reliance is
+      placed to conduct some part of the assignment. An appropriate peer review mechanism
+       shall be implemented to examine conformance to the applicable pronouncements issued
+      by the ICAI.
+2.5.4 Key Concepts forming integral part of Forensic Accounting and
+Investigations
+There are certain concepts which form an integral part of the FAI domain and therefore, apply to
+most engagements. The key concepts are in the nature of, for example,
+(a)    Nature of Engagement.
+(b)   Fraud Risk
+(c)   Laws and Regulations
+(d)    Applying Hypotheses
+2.5.5  Introduction to Forensic Accounting and Investigation Standards
+(FAIS)
+The FAIS establish uniform performance and evaluation criteria, methods, processes and practices.
+The Standards are pronouncements which form the basis for conducting all FAI engagements. These
+pronouncements are designed to help the Professional to discharge their responsibilities when
+conducting such engagements.
+Since they are principle-based, they define the desired outcome, rather than prescribing a series of
+procedures or activities to be performed to get to the desired outcome. The Professional is expected
+to apply best judgement with regard to the procedures and activities required to be conducted to
+achieve the desired outcome
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.25
+
+2.5.5.1 Guidance
+These are a set of guidelines, which include Guidance Notes, Implementation Guides and Technical
+Guides. These guidelines are important for the implementation of the FAIS’s and provide clarification
+for their applicability under various circumstances. They also assist the Professional in designing
+the forensic accounting procedures and investigation work procedures to be conducted under
+various situations and circumstances.
+2.5.5.2 STANDARDS ON KEY CONCEPTS (100 SERIES):
+As discussed already, there are certain key concepts which are central to each FAI assignment and
+need to be considered by the Professional undertaking these assignments. These concepts apply
+to almost all FAI assignments and the Standards clarify these unique concepts and how they are
+relevant to FAI assignments.  . Following Standards on Key Concepts have been issued: -
+FAIS 110 on Nature of Engagement
+This standard outlines the following three different engagements which can be performed under the
+FAIS. Depending on their nature, the engagement undertaken may include any or all of the following
+elements:
+(a)    Forensic Accounting
+(b)    Investigation
+(c)     Litigation Support
+This Standard lays down the key concepts relating to nature of engagement and their relevance to
+the work to be performed by the Professional.
+The main objectives of the Standard are to ensure that the Professional (and other Stakeholders):
+(a)   Has clarity on the purpose of the engagement and what it seeks to achieve.
+(b)    Defines the appropriate forensic and investigation engagement scope and approach.
+(c)     Identifies any specialized skills or resources necessary for its quality execution.
+FAIS 120 on Fraud Risk
+Forensic Accounting and Investigation (FAI) engagements generally involve the possibility of
+fraudulent events or suspicious transactions. Fraud is any intentional or deliberate act to deprive
+another of property or money through deception or other unfair means. FAIS 120 deals with the
+Professional’s  responsibility to understand fraud  risk concepts and how these may apply  to
+engagements. Fraud Risk is, therefore, the concepts of risk applied in a fraud scenario. This helps
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+2.26          FORENSIC ACCOUNTING
+
+the Professional to focus and prioritize the work on areas of importance and with greater vulnerability
+to fraud.
+FAIS 130 on Laws and Regulations
+Each FAIS engagement is unique and, in some cases, subject to relevant applicable statutes. The
+Professional is expected to adhere to those provisions in addition to general applicable laws which
+form part of any engagement. Hence, the requirement to understand the law and discover suitable
+evidence in such engagements is critical. FAIS 130 deals with the Professional’s responsibility to
+understand the provisions of laws and regulations and how these apply to FAI engagement.
+FAIS 140 on Applying Hypotheses
+In any Forensic Accounting and Investigation (FAI) engagement, it is necessary to have a clear and
+defined plan to achieve the given objective. At the same time, maintaining the basic principle of
+objectivity  is also fundamental  to the engagement. This  is achieved by formulating various
+hypotheses for examining the subject matter, since this allows for a balance between professional
+skepticism and the need to maintain neutrality. Applying hypotheses is a technique which makes the
+process of evidence gathering more methodical and effective. Although the hypothesis may not be
+referred to in the report, the quality of the evidence gathered as a result of such application, makes
+the outcome more reliable and suitable before a Competent Authority. FAIS 140 deals with the
+Professional’s responsibility to understand the concept of hypotheses and how this applies to FAI
+engagements.
+2.5.5.3 STANDARDS ON ENGAGEMENT MANAGEMENT (200 SERIES)
+Following Standards on engagement management have been issued:-
+FAIS 210 on Engagement Objectives:
+This standard goes hand-in-hand with FAIS 110 on Nature of Engagement, as the nature of service
+effectively defines the purpose and objective  of the engagement. FAI engagements can be
+undertaken for different context or situations and different possible objectives can be present
+depending upon the nature of engagement being undertaken. Therefore, a clear understanding is
+required about the purpose and objectives of the engagement, considering that the output of the
+engagement may be used in legal proceedings. FAIS 210 deals with the Professional’s responsibility
+to clearly set the objectives of engagements.
+FAIS 220 on Engagement Acceptance and Appointment:
+Most FAI engagements come with a degree  of  sensitivity and inherent  risk. This Standard
+establishes the need to conduct preliminary procedures and due diligence when evaluating the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.27
+
+conditions for appointment. FAIS 220 deals with the responsibility of the Professional in agreeing
+the terms of the engagement during appointment.
+FAIS 230 on Using the Work of an Expert:
+In conducting FAI engagements, the Professional may seek assistance and place reliance on the
+work of an Expert where the required skills are neither possessed by the Professional nor available
+within the team. The work of the Expert may be in the form of specific examination procedures
+covering a specialized area or field, (such as, gathering electronic evidence, cyber security, asset
+valuations, voice sampling, signature verification) or advise from a legal or industry specialist. FAIS
+230 deals with the responsibility of the Professional regarding the use of an Expert to assist in
+gathering relevant and reliable evidence.
+FAIS 240 on Engaging with Agencies:
+FAI engagements are highly specialized in nature and in many engagements, Professionals are
+required to interact, or work closely with, the Law Enforcement Agencies and Regulatory Bodies
+(collectively referred to as “Agencies”). This interaction is either in their Professional capacity as a
+service provider, or in their official capacity of representing their organization. Examples of such
+Agencies include CBI, ED, SFIO, SEBI, RBI etc. FAIS 240 deals with the responsibility of the
+Professional when engaging with agencies.
+FAIS 250 on Communication with Stakeholders:
+FAIS 250 deals with the Professional’s responsibility to have an effective communication with the
+Stakeholders. A clear, unambiguous, continuous, two-way communication with Stakeholders at
+various stages of the engagement, is essential to achieve the objectives of the engagement.
+2.5.5.4 STANDARDS ON EXECUTING ASSIGNMENTS (300 SERIES):
+Following Standards on executing assignments have been issued:-
+FAIS 310 on Planning the Assignment:
+FAI assignments need to have a defined destination (the objectives) and the way to get there (the
+action plan). Therefore, one has to recognise that planning is not a one-time, but an on-going
+exercise. Planning the FAI assignment involves understanding the objectives of the assignment and
+developing a strategy for its execution to achieve those objectives. The extent and depth of planning
+required  will depend on the nature and complexity of the assignment. The  familiarity of the
+Professional with the Stakeholders and the facts of the case will also impact the level of planning
+that  is required. FAIS 310 deals with the responsibility of the Professional when planning an
+assignment.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+2.28          FORENSIC ACCOUNTING
+
+FAIS 320 on Evidence and Documentation:
+Evidence discovery is the crux of all FAI assignments. Considering the nature of FAI assignments,
+the Stakeholders often take a legal recourse for concluding the matters. Therefore, the Professional
+is expected to gather relevant and reliable evidence and maintain appropriate and sufficient
+documentation to conduct the assignment. FAIS 320 deals with the responsibility of the Professional
+to gather relevant and reliable evidence and maintain appropriate and sufficient documentation.
+FAIS 330 on Conducting Work Procedures:
+Work Procedures refer to a number of FAI activities to collect, analyse and interpret data and
+information, gather relevant and  reliable evidence  in order  to prove or disprove formulated
+hypotheses. Generally, in FAI assignments, Work Procedures are first conducted behind the scenes
+(Phase 1) where there is little interaction with the individuals involved, and thereafter (Phase 2),
+where there is a need to engage with the relevant Stakeholders. Some engagements may not involve
+Phase 2, since the Phase 1 may provide all the evidence required to meet the objectives of the
+assignment. FAIS 330 deals with various work procedures required to conduct FAI assignments.
+FAIS 340 on Conducting Interviews:
+Professionals primarily depend on documentary evidences, but may need to obtain substantial oral
+statements to corroborate the understanding of the documentary evidences. In addition, they may
+need to take written statements from individuals to record information discovered. This makes
+interviewing a necessary part of the overall FAI process. FAIS 340 deals with the requirements for
+the Professional to conduct interviews with individuals.
+FAIS 350 on Review and Supervision:
+FAIS 350 deals with exercising due professional care through a process of review and supervision
+towards effective execution of assignment. The objectives of FAIS 350 are to ensure that:
+(a)   The work procedures are being performed effectively and efficiently in line with the terms
+       of the engagement and applicable regulations, if any.
+(b)   The process of gathering evidence, information, data is comprehensive and reliable to help
+      achieve the objective of the assignment.
+(c)   The progress of the assignment is monitored as per the plan and the plan is updated,  if
+       required, based on the work completed and resources allocated.
+(d)   The procedures undertaken, the evidence gathered, and the documentation prepared are
+      evaluated to ensure their relevance and adequacy to derive necessary conclusions.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.29
+
+FAIS 360 on Testifying before a Competent Authority:
+In FAI engagements, a Professional may be called upon to testify before a Competent Authority in
+relation  to legal proceedings. FAIS 360 deals with the requirements  to be followed by the
+Professional when testifying before a Competent Authority.
+2.5.5.5 STANDARDS ON SPECIALISED AREAS (400 SERIES)
+Following Standards on Specialised areas have been issued:-
+FAIS 410 on Applying Data Analysis:
+Data Analysis is applied in FAI engagements for examining basic information, to analyse and
+discover patterns of irregular and inconsistent activities or other anomalies. Data used for this
+purpose is generally obtained from application systems or underlying databases of the organisation
+and at times, even from external sources. The result of the data analysis work is used to support the
+hypotheses and observations which may form part of the conclusions to be reported. FAIS 410 deals
+with the application of data analysis techniques to aid the work procedures of the Professional.
+FAIS 420 on Evidence Gathering in Digital Domain:
+As most business activities and transactions shift to the Digital Domain (DD), the evidential matters
+required to complete FAI assignments need to be gathered in a new way, referred to as “electronic
+gathering” or sometimes as “electronic discovery” (or e-discovery)”. FAIS 420 deals with the
+practices to be followed by the Professional for gathering of electronic evidence. The electronic
+evidence must be capable of satisfying the requirements of judicial scrutiny.
+FAIS 430 on Loans or Borrowings:
+FAIS 430 deals with the specific types of engagements related to disputed transactions of loans or
+borrowings. The subject matter  of these engagements generally requires an examination  of
+compliance with contractual, statutory, or regulatory provisions of loans or borrowings.
+The objectives of FAIS 430 are to gather evidences, facts and report on the following:
+(a)    Nature of Loans or Borrowing transactions and the nature and reasons for which they are
+      under dispute.
+(b)    Violations and the intent with respect to availment and utilization of the funds during the
+      complete life cycle of the loan or borrowing.
+2.5.5.6 STANDARDS ON REPORTING (500 SERIES)
+Following Standard on reporting has been issued: -
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+2.30          FORENSIC ACCOUNTING
+
+FAIS 510 on Reporting Results:
+Reporting results of the work procedures completed and the findings from those procedures, is the
+concluding part of the assignment. Since one engagement may include multiple assignments,
+multiple reports may have to be issued; one for each assignment.
+The written report seeks to  fulfil the requirement of FAIS 210 on “Engagement Objectives” and
+address the mandate provided in the Engagement Letter as per FAIS 220. FAIS 510 deals with the
+responsibility of the Professional to issue a written report to the Primary Stakeholders at the
+conclusion of the assignment.
+2.5.5.7 STANDARDS ON QUALITY CONTROL (600 SERIES)
+Following Standard on Quality Control has been issued: -
+FAIS 610 on Quality Control:
+FAI assignments generally have multiple Stakeholders, and recognising their quality expectations is
+important in this respect. Delivering quality output requires a systematic and disciplined approach.
+This approach needs a combination of the right people, robust processes and a Quality Control
+System (QCS), regardless of the size of the organisation or budget. FAIS 610 deals with the
+responsibility of the Professional to ensure a consistent approach for an acceptable quality of work
+performed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+INTRODUCTION AND BASIC CONCEPTS              2.31
+
+            TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+Choose the most appropriate answer: -
+1.    Most FAI engagements come with a degree of sensitivity and inherent risk. Which FAI
+      Standard establishes the need to conduct preliminary procedures and due diligence when
+       evaluating the conditions for appointment?
+       (a)   FAIS 210
+       (b)   FAIS 220
+        (c)   FAIS 230
+       (d)   FAIS 240
+2.    Which of following is distinguishing hallmark of Forensic Accounting and Investigation
+      Standards issued by ICAI?
+       (a)   These Standards are engagement based, thereby, providing strict requirements for
+             professional to be mandatorily followed while performing an engagement.
+       (b)   These Standards are strictly rule-based, thereby, leaving little scope for professional
+               to apply judgment.
+        (c)   These Standards  are  principle-based,  thereby,  providing adequate scope  for
+             professional judgment when applying such principles to unique situations and under
+              specific circumstances.
+       (d)   These Standards are strictly based on legal requirements leaving no scope for
+             professional to apply judgment.
+3.   A professional performs forensic work- steps as part of an assurance assignment. Which
+       of the following statements  is most appropriate regarding application of FAIS in this
+       situation?
+       (a)   FAIS would be applicable to such assurance assignment.
+       (b)   FAIS do not apply in such a situation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+2.32          FORENSIC ACCOUNTING
+
+        (c)   FAIS would be applicable to assurance assignment along with other applicable
+           Engagement Standards.
+       (d) T  he applicability of FAIS would depend upon evaluation of specific circumstances of
+               situation.
+4.    Which  of  following  is  not one  of  the basic  principles  of Forensic Accounting and
+       Investigations?
+       (a)    Expressing opinion
+       (b)   Primacy of Truth
+        (c)    Contextualisation of situation
+       (d)    Respecting rights and obligations
+5.   A professionally qualified accountant, carrying membership of a professional body, such as
+       the  ICAI, who undertakes  forensic accounting and  investigation assignments using
+      accounting, auditing and investigative skills is bound by: -
+       (a)    FAI Standards alone
+       (b)    FAI Standards and Chartered Accountants Act, 1949 only
+        (c)    FAI Standards, Chartered Accountants Act, 1949, code of ethics issued by ICAI and
+             other relevant pronouncements of ICAI
+       (d)    FAI Standards, Chartered Accountants Act, 1949 and code of ethics issued by ICAI
+             only
+Answers to Multiple Choice Questions:
+    1.        (b)        2.         (c)        3.        (b)        4.         (a)        5.         (c)
+
+
+© The Institute of Chartered Accountants of India

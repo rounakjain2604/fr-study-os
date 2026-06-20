@@ -1,0 +1,2268 @@
+Source PDF: 05_Indirect_Tax_Laws/005 - Chapter 5- Time of Supply - 75917bos61400-cp5.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\05_Indirect_Tax_Laws\005 - Chapter 5- Time of Supply - 75917bos61400-cp5.pdf
+Extracted at: 2026-05-31T10:24:56+05:30
+Pages: 56
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER         5
+
+TIME OF SUPPLY
+The section numbers referred to in the Chapter pertain to the CGST Act, 2017, unless
+ otherwise specified.  Examples/illustrations/Questions and Answers given in the
+Chapter are based on the position of GST law existing as on 30.04.2023.
+
+
+                  LEARNING OUTCOMES
+
+After reading this Chapter, you will be able to
+   identify the point in time when the liability to pay GST arises -
+        on supply of goods or services where GST is payable under
+          forward charge
+        on supply of goods or services where GST is payable under
+          reverse charge
+        on supply of vouchers exchangeable for goods and services
+        on supply of goods and services in residual cases
+         in case of enhancement of value of supply on account of
+           interest,  late fee/penalty paid  for delay  in payment  of
+          consideration
+   pinpoint the applicable rate of GST in case there is a change in rate
+     of GST in respect of supply of goods or services
+   apply the concepts relating to time of supply of goods and/or
+      services in problem solving
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+5.2         GOODS AND SERVICES TAX
+
+    1. INTRODUCTION
+GST  is payable on supply  of goods  or
+services. A supply consists of elements
+that can be separated in time,  like
+purchase   order    /   agreement,
+despatch  (of  goods),  delivery  (of
+goods) or provision or performance
+of  service,  entry  in  the  records,
+payment, and entry of the payment
+in the records or deposit in the bank.
+So, the question that arises is - at what
+point of time in the aforesaid transaction, the                      GST
+becomes payable? Does it become payable when an agreement to supply goods
+or services is made, or when the goods are shipped or the services are provided,
+or when the invoice is issued or when payment is made? What if the goods are
+shipped over a period of time? What if the service is provided over a period of
+time?
+                                Provisions relating to ‘time of supply’ provide
+                             answers to all such and other questions that arise
+                               with respect to the time when the liability to pay
+                         CGST and SGST/UTGST (intra-State supply) or
+                             IGST (inter-State supply) arises.  In other words,
+                              time of supply indicates the point in time when
+the liability to pay tax arises.  It is important to note here that though the liability
+to pay tax arises at the time of supply, the same can be paid to the Government
+by the due dates prescribed with reference to the said ‘time of supply’.  For
+instance, if time of supply of a given supply is 25th May, the tax leviable thereon
+would be payable latest by 20th June, which is the due date prescribed in the CGST
+Act for suppliers filing GST return on monthly basis.1
+The CGST Act provides separate provisions for time of supply for goods and
+services vide sections 12 and 13 respectively. Section 14 provides for the method
+
+1Provisions relating to due date for payment of tax have been discussed in Chapter 11: Payment
+of Tax in Module 2 of this Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+TIME OF SUPPLY    1.31.         5.3
+
+of determining the time of supply in case there is a change in the rate of tax on
+supply of goods or services. Sections 12 and 13 employ provisions of section 31
+relating to issue of tax invoice as a reference point. Therefore, it will be useful to
+read  this Chapter  in conjunction with the provisions  relating to tax invoice
+discussed in detail in Chapter 9: Tax Invoice, Credit and Debit Notes in Module 2 of
+this Study Material.
+Events like issuing of invoices, receipt of payment, provision of service, receipt of
+services as recorded in books of account need to be analysed to determine the
+time of supply when the tax on supply is payable under forward charge. When
+the tax on supply is payable under reverse charge, events like date of receipt of
+goods or services, date of making payment, date of issue of invoice etc. need to
+be analysed to determine the time of supply. The provisions relating to time of
+supply essentially fix the tax collection event to the earliest possible time.
+In the subsequent pages of this Chapter, sections 12, 13 and 14 are extracted,
+followed by their analysis, to understand how to determine the time of supply of
+goods and services respectively. When studying the statutory provisions, the
+definitions (extracted  first) must also be referred to simultaneously, so as to
+understand the precise meaning of the terms used.
+
+
+ Provisions of time of supply under CGST Act have also been made
+  applicable to IGST Act vide section 20 of the IGST Act.
+
+
+    2. RELEVANT DEFINITIONS
+   Associated enterprises shall have the same meaning as assigned to it in
+     section 92A of the Income-tax Act, 1961 [Section 2(12)].
+      Broadly, an associated enterprise in relation to another enterprise, means
+     an enterprise which participates, directly or indirectly, or through one or
+    more intermediaries, in the management or control or capital of the other
+      enterprise. [The detailed definition of associated enterprise may be referred
+      to from Chapter 24: Transfer Pricing and other provisions to check avoidance
+      of tax in the Study Material of Paper 4: Direct Tax Laws and International
+      Taxation.]
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+5.4         GOODS AND SERVICES TAX
+
+  Document includes written or printed record of any sort and electronic
+     record as defined in clause (t) of section 2 of the Information Technology
+      Act, 2000 [Section 2(41)].
+   Invoice or tax invoice means the tax invoice referred to in section 31 [Section
+       2(66)].
+  Goods means every kind of movable property other than money and
+      securities but includes actionable claim, growing crops, grass and things
+     attached to or forming part of the land which are agreed to be severed
+     before supply or under a contract of supply [Section 2(52)].
+
+              GOODS
+
+              MEANS
+
+
+         All kind of movable property                         Money &                                 EXCLUDES                                                                         Securities
+
+                INCLUDES
+
+
+         Actionable  claim, Growing  Crops,
+         Grass & Things forming part of land
+        agreed to be severed before supply
+         or under a contract of supply
+
+
+   Services means anything other than goods, money and securities but includes
+       activities relating to the use of money or its conversion by cash or by any
+     other mode, from one form, currency or denomination, to another form,
+     currency or denomination for which a separate consideration is charged.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+TIME OF SUPPLY    1.51.         5.5
+
+     Explanation––For the removal of doubts,  it  is hereby  clarified that the
+     expression  “services”  includes  facilitating  or  arranging  transactions  in
+      securities [Section 2(102)].
+              SERVICES                                         Activities
+                                                                     relating to use
+                                                                of money or its
+                                                              conversion for a
+             MEANS                                       consideration
+
+
+               Anything           INCLUDING
+
+                                                                       Activities
+                                                                         facilitating   or
+                                                            arranging
+                                                                 transactions  in
+            EXCLUDING                                         securities
+
+
+      Goods    Money        Securities
+
+   Prescribed means  prescribed by  rules made under  this  Act on  the
+     recommendations of the Council [Section 2(87)].
+   Reverse charge means the liability to pay tax by the recipient of supply of
+     goods or services or both instead of the supplier of such goods or services or
+     both under sub-section (3) or sub-section (4) of section 9, or under sub-
+      section (3) or sub- section (4) of section 5 of the Integrated Goods and
+      Services Tax Act [Section 2(98)].
+   Supplier in relation to any goods or services or both, shall mean the person
+     supplying the said goods or services or both and shall include an agent acting
+     as such on behalf of such supplier in relation to the goods or services or both
+     supplied [Section 2(105)].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+5.6         GOODS AND SERVICES TAX
+
+                                            and   includes
+                                                 an      agent
+                            means     the     acting     on
+                                  person             behalf of such
+                 Supplier     in     supplying  the     supplier      in
+                   relation to any     said    goods     relation to the
+               goods  and/or     and/or services    goods  and/or
+                   services                                                             services
+
+   Recipient of supply of goods or services or both, means—
+       (a)   where a consideration is payable for the supply of goods or services or
+           both, the person who is liable to pay that consideration;
+      (b)   where no consideration is payable for the supply of goods, the person
+           to whom the goods are delivered or made available, or to whom
+           possession or use of the goods is given or made available; and
+       (c)   where no consideration is payable for the supply of a service, the person
+           to whom the service is rendered,
+     and any reference to a person to whom a supply is made shall be construed
+     as a reference to the recipient of the supply and shall include an agent acting
+     as such on behalf of the recipient in relation to the goods or services or both
+     supplied [Section 2(93)].
+                   Recipient
+                If consideration is payable                                                   Person liable to pay the          for supply of goods and/or                                                            consideration                    services
+
+                                                  Person to whom goods are             If no consideration is payable                                                 delivered/made available or to              for supply of goods                                    whom possession/use of the
+                                           goods is given/ made available
+
+              If no consideration is payable
+            for the supply of services                 Person to whom the service is
+                                                          rendered
+
+       Recipient includes an agent acting on behalf of the recipient in relation to the goods
+                                 and/or services supplied
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+TIME OF SUPPLY    1.71.         5.7
+
+   Voucher means an instrument where there is an obligation to accept it as
+     consideration or part consideration for a supply of goods or services or both
+     and where the goods or services or both to be supplied or the identities of
+      their potential suppliers are either indicated on the instrument itself or in
+      related documentation, including the terms and conditions of use of such
+     instrument [Section 2(118)].
+
+    3. TIME OF SUPPLY OF GOODS [SECTION 12]
+
+      STATUTORY PROVISIONS
+
+ Section 12                  Time of supply of goods
+
+ Sub-section  Clause                       Particulars
+
+      (1)      The liability to pay tax on goods shall arise at the time of supply
+               as determined in terms of the provisions of this section.
+
+      (2)      The time of supply of goods shall be the earlier of the following
+                 dates, namely:-
+
+                    (a)    the date of issue of invoice by the supplier or the last date
+                     on which he is required, under section 31, to issue the
+                          invoice with respect to the supply; or
+
+                    (b)    the date on which the supplier receives the payment with
+                          respect to the supply2:
+
+               Provided that where the supplier of taxable goods receives an
+             amount up to one thousand rupees in excess of the amount
+
+
+2      Practically, in case of goods, the date of receipt of payment by the supplier is no longer
+a criterion for determination of time of supply for payment of tax.  Refer the ‘Analysis’ of
+section 12 given in the ensuing pages for detailed discussion in this regard.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+5.8         GOODS AND SERVICES TAX
+
+                indicated in the tax invoice, the time of supply to the extent of such
+                excess shall, at the option of the said supplier, be the date of issue
+                 of invoice in respect of such excess amount.
+
+               Explanation 1. For the purposes of clauses (a) and (b), the “supply”
+                  shall be deemed to have been made to the extent it is covered by
+                the invoice or, as the case may be, the payment.
+
+               Explanation 2. For the purpose of clause (b), “the date on which the
+                 supplier receives the payment” shall be the date on which the
+             payment is entered in his books of account or the date on which
+                the payment is credited to his bank account, whichever is earlier.
+
+      (3)       In case of supplies in respect of which tax is paid or liable to be
+               paid on reverse charge basis, the time of supply shall be the earliest
+                 of the following dates, namely:
+
+                    (a)    the date of the receipt of the goods, or
+
+                    (b)    the date of payment as entered in the books of account
+                           of the recipient or the date on which the payment  is
+                         debited in his bank account, whichever is earlier, or
+
+                      (c)    the date immediately following thirty days from the date
+                           of issue of invoice or any other document, by whatever
+                  name called, in lieu thereof by the supplier:
+
+               Provided that where  it is not possible to determine the time of
+               supply under clause (a), (b), or (c), the time of supply shall be the
+               date of entry in the books of account of the recipient of supply.
+
+      (4)        In case of supply of vouchers by a supplier, the time of supply shall be –
+
+                    (a)    the date of issue of voucher, if the supply is identifiable at
+                          that point; or
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+TIME OF SUPPLY    1.91.         5.9
+
+                    (b)    the date of redemption of voucher, in all other cases.
+
+      (5)     Where it is not possible to determine the time of supply under the
+                provisions of sub-section (2) or sub-section (3) or sub-section (4),
+                the time of supply shall––
+
+                    (a)     in a case where a periodical return has to be filed, be the
+                        date on which such return is to be filed; or
+
+                    (b)     in any other case, be the date on which the tax is paid.
+
+      (6)      The time of supply to the extent it relates to an addition in the
+               value of supply by way of interest, late fee or penalty for delayed
+             payment of any consideration shall be the date on which the
+                 supplier receives such addition in value.
+
+  Section 31  Tax invoice (to the extent relevant to the time of supply of
+              goods)  (Relevant
+    Extract)
+
+      (1)     A registered person supplying taxable goods shall, before or at the
+               time of,—
+
+                     (a)    removal of goods for supply to the recipient, where the
+                        supply involves movement of goods; or
+
+                     (b)     delivery of goods or making available thereof to the
+                            recipient, in any other case,
+
+                  issue a tax invoice showing the description, quantity and value of goods,
+                 the tax charged thereon and such other particulars as may be prescribed:
+
+               Provided that the Government may, on the recommendations of
+                the Council, by notification, specify the categories of goods or
+                 supplies in respect of which a tax invoice shall be issued, within
+               such time and in such manner as may be prescribed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+5.10        GOODS AND SERVICES TAX
+
+      (4)       In case of continuous supply of goods, where successive statements
+                 of accounts or successive payments are involved, the invoice shall
+              be issued before or at the time each such statement is issued or, as
+                the case may be, each such payment is received.
+
+      (7)      Notwithstanding anything contained in sub-section (1), where the
+              goods being sent or taken on approval for sale or return are
+             removed before the supply takes place, the invoice shall be issued
+                before or at the time of supply or six months from the date of
+               removal, whichever is earlier.
+
+
+             Section 12 must be read with section 31, which prescribes in detail
+             the date on which tax invoice for a supply of goods must be issued
+              in various situations.
+
+    ANALYSIS
+
+Section 12 provides for the determination of time of supply in the following
+situations:
+   Supply of goods under forward charge;
+   Supply of goods under reverse charge;
+   Supply of vouchers that can be used to pay for goods;
+   Residual cases
+   Addition to value of supply of goods by way of interest or late fee or penalty
+      for delayed payment.
+We consider below how the time of supply is determined in each of these situations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+TIME OF SUPPLY    1.111.         5.11
+
+(i)  Time of supply of goods under forward charge [Section 12(2)
+    read with section 31]
+     As per section 12(2), the time of supply of goods that are taxable under
+     forward charge, is the earlier of the following two dates:
+      Date of issue of invoice by the supplier or the last date on which the
+           invoice ought to have been issued in terms of section 31, to the extent
+           the invoice covers the supply of goods; or
+      Date of receipt of payment by the supplier, to the extent the payment
+           covers the supply of goods.
+    No tax payable at the time of receipt of advance for supply of goods
+     – Special procedure for payment of tax in case of supply of goods
+      In exercise of the powers conferred by section 1483, the Central Government,
+    on the recommendation of the GST Council, has issued Notification No.
+     66/2017 CT dated 15.11.2017 to specify that a registered person (excluding
+     composition supplier) should pay GST on the outward supply of goods at the
+     time of supply as specified in section 12(2)(a), i.e. date of issue of invoice or
+     the last date on which invoice ought to have been issued in terms of section
+      31, including in the situations attracting the provisions of section 14.
+      In simple words, all taxpayers under forward charge (except composition
+      suppliers) are not required to pay GST at the time of receipt of advance in
+      relation to supply of goods. The entire GST shall become payable only when
+     the invoice for the supply of such goods is issued or ought to have been
+      issued. Thus, time of supply of goods for the purpose of payment
+     of tax is the date of issue of invoice or the last date when the
+     invoice ought to have been issued under section 31.
+
+             The relief of not paying GST on receipt of advance is available
+              only in case of supply of goods and not for supply of services.
+
+
+3 Section 148 provides that the Government may, on the recommendations of the Council, and
+subject to such conditions and safeguards as may be prescribed, notify certain classes of registered
+persons, and the special procedures to be followed by such persons including those with regard
+to registration, furnishing of return, payment of tax and administration of such persons. The same
+is discussed in Chapter 24 - on Miscellaneous Provisions of Module 3 of this Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+5.12        GOODS AND SERVICES TAX
+
+    Meaning of “Date of receipt of payment”
+     “Date of receipt of payment” in the above situation refers to the date on which
+     the payment is recorded in the books of account of the entity (supplier of
+     goods) that receives the payment, or the date on which the payment  is
+      credited to the entity’s bank account, whichever is earlier.
+     Significance of “to the extent the invoice or payment covers the supply
+     of goods”
+     Suppose a part of the consideration is paid in advance or invoice is issued for
+      part payment, in such cases the time of supply will not cover the full supply.
+     The supply shall be deemed to have been made only to the extent  it is
+     covered by the invoice or the part advance payment.
+     However,  it may be noted that in case of goods (except for composition
+      supplier), tax is payable only on the basis of issuance of invoice/last date for
+     the purpose of issuance of invoice even if any advance or part payment has
+     been received before the issuance of invoice/last date for the purpose of
+     issuance of invoice.
+                  (1) A Ltd. enters into an agreement with B Ltd. to supply 100 kg
+                 of raw material.  However, A Ltd. supplies only 80 kg of raw
+                 material and issues the invoice for the same.
+     Here, the supply would be deemed to have been made in respect of 80 kg of
+     raw material,  i.e. to the extent covered by the invoice.   Therefore, the
+      provisions relating to time of supply will only be applicable to supply of 80
+     kg of raw material and not for entire 100 kg of raw material.
+     The provisions relating to time of supply of goods as contained in section 12
+      in case of forward charge read with Notification No. 66/2017 CT dated
+      15.11.2017, have been depicted by way of a diagram given at next page.
+    Time  limit for issuance of invoice for supply of goods under
+     section 31
+     Section 12(2) refers to the last date on which a supplier is required to issue
+     the invoice under section 31. Following are the relevant provisions of section
+     31 in this regard:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+TIME OF SUPPLY    1.131.         5.13
+
+      As per section 31(1), the invoice needs to be issued either before or at
+          the time of removal of goods (where supply involves movement of
+          goods) or delivery of goods/ making goods available to recipient (in
+          any other case).
+       In case of continuous supply of goods, the invoice should be issued
+          before or at the time of issuance of periodical statement/receipt of
+            periodical payment [Section 31(4)].
+          Continuous supply of goods is a supply of goods provided or agreed to
+         be provided continuously or on recurring basis, under a contract, and
+            for which the supplier issues an invoices to the recipient on a regular or
+           periodic basis and includes supply of such goods as the Government
+          may, subject to such conditions, as  it may, by notification, specify
+           [Section 2(32)].
+          The said term has been discussed in Chapter 9: Tax Invoice; Credit and
+           Debit Notes in Module 2 of this Study Material.
+       In case of goods sent or taken on approval for sale or return, invoice
+          should be issued before or at the time of supply or 6 months from the
+          date of removal, whichever is earlier [Section 31(7)].
+                (2) B Ltd. sells goods to C Ltd. on 10th June. The invoice for the
+            same is issued on the same day. Payment for the goods is received
+            on 20th June.
+   Time of supply of goods for the purpose of payment of tax is 10th June being
+   the date of issue of invoice in terms of section 31.
+    (3) B Ltd. sells goods to C Ltd. on 10th June. The invoice for the same is issued
+   on 10th June. Payment for the goods is received on 5th June.
+   Time of supply of goods for the purpose of payment of tax is 10th June being
+   the date of issue of invoice in terms of section 31.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+5.14        GOODS AND SERVICES TAX
+
+        TIME OF SUPPLY OF GOODS UNDER FORWARD CHARGE AS
+                        PER SECTION 12
+                             Date of issue of invoice /
+                                  Last  date  of  issue  of
+                                 invoice under section 31
+                             Date  on   which   the
+                           payment  is recorded  in
+                               the books of account of
+                               the  supplier  [presently                                   irrelevant for the purpose             Whichever
+                                 is                                  of payment of tax]
+                             Date  on   which   the                BANK                           payment  is  credited to          earlier
+                               the    supplier’s   bank
+                              account        [presently
+                                   irrelevant for the purpose
+                                  of payment of tax]
+             SPECIAL PROCEDURE4 FOR PAYMENT OF TAXAX
+                       IN CASE OF GOODS
+       GST to be paid at the        As specified in section 12(2)(a)
+        time of supply
+
+                                               Date  of   issue  of
+                                                      invoice / Last date of
+                                                        issue of invoice under
+                                                      section 31
+
+          Effectively, in case of goods, no GST is payable at the time of receipt
+         of advance for supply of goods.
+
+
+4 under section148 of the CGST Act
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+TIME OF SUPPLY    1.151.         5.15
+
+                      (4) B Ltd. sells goods to C Ltd. on 10th June. The invoice for
+                    the same is issued on 12th June. Payment for the goods is
+                     received on 20th June. Time of supply of goods for the
+          purpose of payment of tax is 10th June being the last date on which
+           invoice ought to have been issued in terms of section 31.
+
+                       (5) B Ltd. enters into a contract with C Ltd. for supply of
+                  goods over a period of one year starting from the month of
+                      January. As per the contract, C Ltd. makes payment on 10th
+          day of each month. B Ltd. issues the invoice on the same day. Time
+           of supply of the goods for the purpose of payment of tax will be 10th
+          day of each month.
+
+                      (6) B Ltd. sends goods to C Ltd. for sale on approval basis on
+                       10th January. C Ltd. approves the goods on 15th August. B
+                       Ltd. should issue the invoice on 10th July as the supply gets
+             fructified after six months from the date of removal. Time of supply of
+           the goods for the purpose of payment of tax is 10th July being the last
+          date on which invoice ought to have been issued in terms of section 31.
+
+     Excess payment upto ` 1000: Option of taking invoice date as time of
+     supply
+      In terms of the proviso to sub-section (2) of section 12, for a payment of up
+      to ` 1,000 received in excess of the value of the goods invoiced, the supplier
+     can choose to take the date of invoice issued with respect to such excess
+    amount as the time of supply of goods for such excess value. Since GST on
+     supply of goods  is payable only on the basis of issuance of invoice5, this
+      provision is practically irrelevant for supply of goods.
+
+
+5 as per Notification No. 66/2017 CT dated 15.11.2017
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+5.16        GOODS AND SERVICES TAX
+
+           If neither the date of invoice nor the date of payment is available, the
+    time of supply is determined in terms of the residual provisions under
+    sub-section (5) of section 12 [discussed under point (iv)].
+(ii) Time of supply of goods under reverse charge [Section 12(3)]
+     The  time  of  supply  of
+     goods on  which GST  is
+     payable on reverse charge
+      basis under sub-sections (3)
+     and (4) of section 9 of CGST Act is determined in terms of section 12(3)(a), (b)
+     and (c), as follows:
+     The time of supply for such goods will be the earliest of the following dates:
+      Date on which the goods are received, or
+      Date on which payment is recorded in the books of account of the
+            recipient, or the date on which the same is debited in his bank account,
+          whichever is earlier, or
+      Date immediately following 30 days from the date of issue of invoice
+            (or document by some other name in lieu of invoice) by the supplier.
+         If it is not possible to determine the time of supply by using these parameters,
+     then the time of supply will be the date of entry of goods in the books of
+     account of the recipient of supply.
+     The provisions relating to time of supply of goods in case of reverse charge
+      are depicted by way of a diagram given at a subsequent page.
+
+
+              The relief of not paying GST at the time of receipt of
+               advance is available only in case of supply of goods, the
+                tax on which is payable under forward charge. In case of
+        reverse charge, GST is payable at the time of payment, if payment
+          is recorded/made before receipt of goods (advance payment).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+TIME OF SUPPLY    1.171.         5.17
+
+               (7) B Ltd. sells goods to C Ltd. on 4th June. The goods are taxable
+             under reverse charge. Invoice for the same is issued on 4th June. C
+                Ltd. receives the goods on 12th June.
+    C Ltd. records the payment in the books of account on 30th June and the same
+        is debited from the bank account of C Ltd. on 2nd July.
+     Time of supply of the goods is 12th June being the earliest of the three
+      stipulated dates namely:
+    date of receipt of goods,
+    date of payment and
+    date immediately following 30 days of issuance of invoice.
+
+                (8) B Ltd. sells goods to C Ltd. on 4th June. The goods are taxable
+              under reverse charge. Invoice for the same is issued on 4th June. C
+                 Ltd. receives the goods on 6th July.
+    C Ltd. records the payment in the books of account on 21st July and the same
+        is debited from the bank account of C Ltd. on 31st July.
+     Time of supply of the goods  is 5th July being the earliest of the three
+      stipulated dates namely, date of receipt of goods, date of payment and date
+     immediately following 30 days of issuance of invoice.
+
+                (9) B Ltd. sells goods to C Ltd. on 4th June. The goods are taxable
+              under reverse charge. Invoice for the same is issued on 4th June. C
+                  Ltd. receives the goods on 27th June.
+    C Ltd. records the payment in the books of account on 10th June and the same
+        is debited from the bank account of C Ltd. on 2nd July.
+     Time of supply of the goods  is 10th June being the earliest of the three
+      stipulated dates namely, date of receipt of goods, date of payment and date
+     immediately following 30 days of issuance of invoice.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+5.18        GOODS AND SERVICES TAX
+        TIME OF SUPPLY OF GOODS UNDER REVERSE CHARGE
+
+                                        Date  on  which
+                                      goods        are
+                                             received
+                                        Date on which the
+                                      payment          is
+                                          recorded  in  the
+                                       books of account
+                                             of the recipient of
+                                      goods                                                                                                                                                               Whichever
+                                        Date on which the   is
+                     BANK                   payment          is
+                                           debited   in  the                                                                                                                            earlier
+                                      bank account of
+                                            the  recipient  of
+                                      goods
+
+                                                     31st day from the
+                              st DAY               issue  of  invoice
+                                      by the supplier
+
+
+            If it is not possible to determine the time of supply through above
+                                 parameters,
+                           THEN
+                       TIME OF SUPPLY WILL BE
+
+
+                                        Date  on  which  goods  are
+                                          recorded  in  the  books  of
+                                          account  of  the  recipient  of
+                                           supply
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+TIME OF SUPPLY    1.191.         5.19
+
+(iii) Time of supply of vouchers exchangeable for goods [Section
+     12(4)]
+     As commonly understood, vouchers are instruments that can be exchanged
+     as payment for goods or services of the designated value.  As per the
+      definition, vouchers are instruments, that certain persons (potential suppliers)
+      are obliged to accept as consideration, part or full, against supply of goods
+     and/or services. The instrument or its related documentation sets out the
+     terms and conditions of use, the goods and/or services covered, and the
+      identity of the potential suppliers of such goods and/or services.
+     As per section 12(4), the time of supply of vouchers exchangeable for goods
+       is-
+      Date of issue of the voucher, if the supply that it covers is identifiable
+            at that point, or
+      Date of redemption of the voucher in other cases.
+     The provisions relating to time of supply of vouchers exchangeable for goods
+      are depicted by way of diagram given below.
+       TIME OF SUPPLY OF VOUCHERS EXCHANGEABLE FOR GOODS
+
+                                            Supply is        Time of                        Any food                                              not           supply is                           item can be                                                   identifiable      DATE OF                           purchased                                                  at the time      REDEMPT-                          from the                                               of issue of       ION OF                          food pass                                            voucher       VOUCHER
+
+                          Only a shirt      Supply    is      Time of
+                          can     be       identifiable       supply is
+                          purchased         at the time                                                  DATE  OF                        from    the      of issue of                                                           ISSUE  OF                                 shirt coupon      voucher                                               VOUCHER
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+5.20        GOODS AND SERVICES TAX
+
+               (10) A Ltd. sells food coupons to B Ltd. The company gives these
+             coupons to its employees as part of the agreed perquisites. The
+             coupons can be redeemed for purchase of any item of food
+      /provisions in the outlets that are part of the program.
+     As the supply against which the coupon will be redeemed is not known on
+     the date of the sale of the coupon, the time of supply of the coupon will be
+     the date on which the employee redeems it against food / provision items of
+      his choice.
+                (11)  With each purchase of a large pizza during the Christmas
+             week from Perfect Pizza, one can buy a voucher for ` 20 which will
+              be redeemable till 5th Jan for a small pizza. As the supply against
+     which the voucher will be redeemed is known on the date of issue of the
+     vouchers, the time of supply is the date of issue of the voucher.
+(iv) Time of supply of goods in residual cases [Section 12(5)]
+         If the situation is not covered by any of the provisions discussed above, the
+     time of supply is fixed under sub-section (5) of section 12, in the following
+     manner:
+      Due date for filing of the periodical return, or
+       In any other case, date on which GST is paid.
+             TIME OF SUPPLY OF GOODS IN RESIDUAL CASES
+      Where   a    periodical
+       return is to be filed
+
+                                    TIME OF SUPPLY IS THE DATE
+                            ON   WHICH   RETURN    IS
+                                   REQUIRED TO BE FILED
+
+
+                                    TIME OF SUPPLY IS THE DATE
+                            ON WHICH GST IS PAID
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+TIME OF SUPPLY    1.211.2        5.21
+
+(v) Time of supply in case of enhancement in value on account of
+     interest/late fee etc. for delayed payment of consideration
+     [Section 12(6)]
+     Commercially, most of the contracts of
+      supplies     stipulate    payment     of
+      interest/late fee/penalty etc. in case of
+     payment  of  consideration beyond the
+     agreed time period.  Such interest/late
+      fee/penalty etc. is includible in value of
+      taxable supply  [This concept has been
+      discussed in detail in Chapter 6 - Value of Supply in this Module of the Study
+      Material]. So, the point to consider here is that when the liability to pay GST
+     would arise in such cases of addition in value.
+     Section 12(6) prescribes that time of supply in case of addition in value on
+     account of interest/ late fee/penalty for delayed payment of consideration for
+     goods is the date on which the supplier receives such addition in value.
+               (12) A Ltd. sold goods to B Ltd. on 6th June with a condition that
+                 interest @ 2% per month will be charged if B Ltd. failed to make
+             payment within 15 days of the delivery of the goods. Goods were
+      delivered as also the invoice was issued on  6th June.  B Ltd. paid the
+     consideration for the goods on 6th July along with applicable interest.
+     Time of supply for the goods sold is the date of issue of invoice, i.e. 6th June
+     and the time of supply for addition in value by way of interest is the date
+    when such addition in value is received by A Ltd., i.e. 6th July.
+
+
+   The provisions relating to time of supply of goods as contained in section 12
+are summarised in the diagram given on next page.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+5.22        GOODS AND SERVICES TAX
+
+    Time of supply of         Time of supply of goods                                                     Time of supply of  goods under forward         under reverse charge                                                               vouchers         chargeg                                                          exchangeable for
+    Date of issue/ due         Date of receipt of goods           goods
+    date of issue of tax
+   invoice under section                              Date of recording the          31                           payment in the books of                                                         Date of issue of                             accounts of the recipient of   Date of recording the                                        voucher, if the                                   goodsggoods     payment in the                                       supply is identifiable
+   books of accounts of                                            at that point                            Date on which payment is        the supplierpp                                debited from the bank
+                             account of the recipient of
+      Date on which                 goodsg                  Date of redemption    payment is credited                                                              of voucher in other     in the bank account                                31st day from the date of             cases       of the supplier                                       supplier’s invoice
+    whichever is earlier                                whichever is earlier
+
+
+ No GST at the time of           If the above events are
+ receipt  of  advance  for       UNASCERTAINABLE
+ supply of goods: GST to                         Time of supply = Date of entry be  paid  on  date  of                              of good in books of account of issue/due date of issue of                                       recipient of goods tax invoice under section
+ 31
+
+    Residual cases (If all                      Where a periodical return is to
+    the above do not    Time of supply       be filed, due date of such return
+   work for a situation)                            OR
+                                                      In any other case, the date on
+                                             which tax is paid   Addition in value by way
+   of      interest,      late
+   fee/penalty for delayed                      Date on which the supplier                          Time of supply   payment of consideration                         receives such addition in value
+    for goods
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+TIME OF SUPPLY    1.231.2        5.23
+
+    4. TIME OF SUPPLY OF SERVICES [SECTION 13]
+
+      STATUTORY PROVISIONS
+
+  Section 13                  Time of supply of services
+  Sub-section  Clause                         Particulars
+      (1)      The liability to pay tax on services shall arise at the time of supply, as
+               determined in terms of the provisions of this section.
+      (2)      The time of supply of services shall be the earliest of the following dates,
+               namely:-
+                   (a)      the date of issue of invoice by the supplier, if the invoice is
+                          issued within the period prescribed under section 31 or the
+                        date of receipt of payment, whichever is earlier; or
+                   (b)      the date of provision of service, if the invoice is not issued
+                         within the period prescribed under section 31 or the date of
+                           receipt of payment, whichever is earlier; or
+                     (c)       the date on which the recipient shows the receipt of services
+                           in his books of account, in a case where the provisions of
+                         clause (a) or clause (b) do not apply:
+               Provided that where the supplier of taxable service receives an amount
+             up to one thousand rupees in excess of the amount indicated in the tax
+                  invoice, the time of supply to the extent of such excess amount shall, at
+                the option of the said supplier, be the date of issue of invoice relating to
+               such excess amount.
+                Explanation - For the purposes of clauses (a) and (b) -
+                             (i)     the supply shall be deemed to have been made to the extent
+                                       it  is covered by the invoice or, as the case may be, the
+                       payment.
+                             (ii)     “the date of receipt of payment” shall be the date on which
+                         the payment is entered in the books of account of the supplier
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+5.24        GOODS AND SERVICES TAX
+
+                         or the date on which the payment is credited to his bank
+                         account, whichever is earlier.
+      (3)       In case of supplies in respect of which tax is paid or liable to be paid on
+                 reverse charge basis, the time of supply shall be the earlier of the
+                following dates, namely-
+                     (a)    the date of payment as entered in the books of account of the
+                            recipient or the date on which the payment is debited in his
+                     bank account, whichever is earlier; or
+                     (b)    the date immediately following sixty days from the date of
+                           issue of invoice or any other document, by whatever name
+                             called, in lieu thereof by the supplier:
+                Provided that where it is not possible to determine the time of supply
+               under clause (a) or clause (b), the time of supply shall be the date of entry
+                  in the books of account of the recipient of supply:
+               Provided further that in case of supply by associated enterprises, where
+                the supplier of service is located outside India, the time of supply shall
+              be the date of entry in the books of account of the recipient of supply or
+                the date of payment, whichever is earlier.
+      (4)       In case of supply of vouchers by a supplier, the time of supply shall be-
+                     (a)    the date of issue of voucher, if the supply is identifiable at that
+                            point; or
+                     (b)    the date of redemption of voucher, in all other cases;
+      (5)     Where it is not possible to determine the time of supply of services under
+                the provisions of sub-section (2) or sub-section (3) or sub-section (4), the
+               time of supply shall
+                     (a)     in a case where a periodical return has to be filed, be the date
+                     on which such return is to be filed; or
+                     (b)     in any other case, be the date on which the tax is paid.
+      (6)      The time of supply to the extent it relates to an addition in the value of
+                supply by way of interest, late fee or penalty for delayed payment of any
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+TIME OF SUPPLY    1.251.2        5.25
+
+                consideration shall be the date on which the supplier receives such
+                addition in value.
+  Section 31   Tax invoice (to the extent relevant to time of supply of services)
+      (2)     A registered person supplying taxable services shall, before or after the
+                 provision of service but within a prescribed period, issue a tax invoice,
+              showing the description, value, tax charged thereon and such other
+                 particulars as may be prescribed:
+               Provided that the Government may, on the recommendations of the
+                 Council, by notification,—
+                     (a)     specify the categories of services or supplies in respect of
+                      which a tax invoice shall be issued, within such time and in
+                       such manner as may be prescribed;
+                     (b)     subject  to the  condition mentioned  therein,  specify  the
+                          categories of services in respect of which—
+                                      (i)  any other document issued in relation to the supply
+                                 shall be deemed to be a tax invoice; or
+                                       (ii)  tax invoice may not be issued.
+      (5)       Subject to the provisions of clause (d) of sub-section (3), in case of
+               continuous supply of services,––
+                     (a)    where the due date of payment is ascertainable from the
+                          contract, the invoice shall be issued on or before the due
+                       date of payment;
+                     (b)    where the due date of payment is not ascertainable from the
+                           contract, the invoice shall be issued before or at the time when
+                         the supplier of service receives the payment;
+                        (c)    where the payment is linked to the completion of an event,
+                         the invoice shall be issued on or before the date of completion
+                           of that event.
+      (6)       In a case where the supply of services ceases under a contract before
+               the completion of the supply, the invoice shall be issued at the time
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+5.26        GOODS AND SERVICES TAX
+
+            when the supply ceases and such invoice shall be issued to the extent of
+                the supply made before such cessation.
+          Chapter VI: Tax Invoice, Credit and Debit Notes of CGST Rules
+
+ Rule 47                 Time limit for issuing tax invoice
+             The invoice referred to in rule 46, in case of taxable supply of
+                  services, shall be issued within a period of thirty days from the date
+                 of supply of service:
+                Provided that where the supplier of services is an insurer or a banking
+             company or a financial institution, including a non-banking financial
+              company, the period within which the invoice or any document in lieu
+                 thereof is to be issued shall be forty five days from the date of supply of
+                   service:
+                Provided further that an insurer or a banking company or a financial
+                    institution, including a non- banking financial company, or a telecom
+                 operator, or any other class of supplier of services as may be notified by
+                the Government on the recommendations of the Council, making taxable
+                 supplies of services between distinct persons as specified in section 25,
+            may issue the invoice before or at the time such supplier records the same
+                  in his books of account or before the expiry of the quarter during which
+                the supply was made.
+
+       ANALYSIS
+
+
+          Section 13 must be read with section 31 and rule 47 of CGST Rules,
+         which prescribe in detail the date on which tax invoice for a supply of
+           service must be issued in various situations.
+
+Section 13 provides for the determination of the time of supply in the following
+situations:
+   Supply of service taxable under forward charge,
+   Supply of service taxable under reverse charge,
+   Supply of vouchers that can be used to pay for services,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+TIME OF SUPPLY    1.271.2        5.27
+
+   Residual cases,
+   Addition to value of supply of services by way of interest or late fee or penalty
+      for delayed payment.
+Below we shall consider these in detail.
+(i)  Time of supply of services under forward charge [Section 13(2) read
+     with section 31 and rule 47 of CGST Rules]
+     For supply of service on which the supplier is liable to pay tax, the time of
+     supply will be the earlier of the dates arrived at by methods (A) and (B), as
+      follows:
+      (A)  Date of issue of invoice or date of receipt of payment (to the extent the
+           invoice or payment covers the supply of services), whichever is earlier,
+                  if the invoice is issued within the time prescribed under section 31;
+      (B)   Date of provision of service or date of receipt of payment (to the extent
+           the payment covers the supply of services), whichever is earlier, if the
+           invoice is not issued within the time prescribed under section 31,
+         If the above two methods [(A) and (B)] are not applicable, the time of supply
+       will be the date on which the recipient of service shows receipt of the service
+      in his books of account.
+    Meaning of “date of receipt of payment”
+     “Date of receipt of payment” in the above situation refers to the date on which
+     the payment is recorded in the books of account of the supplier that receives
+     the payment, or the date on which the payment is credited to the supplier’s
+     bank account, whichever is earlier.
+     Significance of “to the extent the payment covers the services”
+     Suppose a part of the consideration is paid in advance or invoice is issued for
+      part payment, the time of supply will not cover the full supply. The supply
+      shall be deemed to have been made to the extent it is covered by the invoice
+     or the part payment and time of supply shall be determined accordingly.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+5.28        GOODS AND SERVICES TAX
+
+     The provisions relating to time of supply of services in case of forward charge
+     can be depicted by way of a diagram given hereunder.
+
+        TIME OF SUPPLY OF SERVICES UNDER FORWARD CHARGE
+            Is invoice    YES                                     Date  of  issue  of
+                      Time of                                 invoice        issued within
+                        Supply         the time
+        specified u/s
+           31?                                               Date on which the
+                                                          payment            is             NO                                                                 recorded   in   the
+       Time of                                             books of account of                                                                    the supplier        Supply                                                                                                                                                                Whichever
+                                           is
+
+                                   BANK                                                                                                                                                        earlier
+                                                               Date on which the
+                                                          payment is credited
+                                                                     to  the  supplier’s
+                                                           bank account
+
+
+        Date       of  Date on which the  Date     on
+        provision  of  payment            is  which    the
+         service         recorded   in   the  payment     is
+                     books of account of   credited   to
+                        the supplier          the supplier’s
+                                       bank account
+
+                Whichever is earlier
+
+
+           If time of supply
+       cannot       be
+       determined   by                                  Date of receipt of services in
+       both  the  above                                     the books of account of the
+       methods, then                                            recipient
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+TIME OF SUPPLY    1.291.2        5.29
+
+    Time limit for issuance of invoice for supply of services under section 31
+     The criteria to determine the time of supply of services depend upon whether
+     the invoice is issued within the time prescribed under section 31.
+     Following are the relevant provisions in this regard:
+      As per section 31(2) read with rule 47, the tax
+           invoice needs  to be  issued  either  before  the
+           provision of service or within 30 days (45 days in
+                           case  of insurance companies/
+                        banking   companies/    financial    institutions
+                          including NBFCs) from the date of supply of service.
+       In  case  of  insurance  companies/  banking  companies/  financial
+            institutions including NBFCs/ telecom companies/ notified supplier of
+            services making taxable supplies between distinct persons as specified
+             in section 256, invoice may be issued before or at the time of recording
+          such supply in the books of account or before the expiry of the quarter
+          during which the supply was made [Second proviso to rule 47].
+       In case of continuous supply of services, the invoice should be issued
+             either:
+                  (i)   on/    before
+                the due date
+                 of payment -
+              where the due date of payment is ascertainable from the contract
+                or
+                  (ii)   before/ at the time when the supplier of service receives the
+              payment - where the due date of payment is not known
+                   (iii)  on/ before the date of completion of the milestone event - where
+                the payment is linked to completion of an event [Section 31(5)].
+
+
+6 Concept of distinct persons has been discussed in Chapter 1: Supply under GST in this
+Module of the Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+5.30        GOODS AND SERVICES TAX
+
+          Continuous supply of services are provided, or agreed to be provided,
+           continuously or on recurrent basis, under a contract, for a period
+          exceeding 3 months with periodic payment obligations and includes
+           supply of such services as the Government may notify [Section 2(33)].
+          The said term has been discussed in Chapter 9: Tax Invoice; Credit and
+           Debit Notes in Module 2 of this Study Material.
+       In case of cessation of supply of
+            services  before  completion   of
+           supply, the invoice should be issued
+            at the time when the supply ceases
+           to the extent of the supply made before such cessation. [Section 31(6)].
+                (13) A Ltd. provides services to B Ltd. on 10th June. A Ltd. issues
+                the invoice for the services on 15th June. Payment is received in
+                the bank account of A Ltd. on 20th June and is recorded in the
+               books of account of A Ltd. on 30th June.
+     Date of receipt of payment is 20th June being the earlier of two stipulated
+     dates namely, date on which the payment is recorded in the books of account
+      of the supplier and date on which the payment is credited to the supplier’s
+     bank account.
+     Since the invoice is issued within 30 days from the date of supply of service,
+     time of supply of services is 15th June being the earlier of the two stipulated
+     dates namely, date of issuance of invoice and date of receipt of payment.
+     (14) A Ltd. provides services to B Ltd. on 10th June. A Ltd. issues the invoice
+      for the services on 7th July. Payment is received in the bank account of A Ltd.
+    on 20th June and is recorded in the books of account of A Ltd. on 30th June.
+     Date of receipt of payment is 20th June being the earlier of two stipulated
+     dates namely, date on which the payment is recorded in the books of account
+      of the supplier and date on which the payment is credited to the supplier’s
+     bank account.
+     Since the invoice is issued within 30 days from the date of supply of service,
+     time of supply of services is 20th June being the earlier of the two stipulated
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+TIME OF SUPPLY    1.311.3        5.31
+
+     dates namely, date of issuance of invoice and date of receipt of payment.
+     (15) A Ltd. provides services to B Ltd. on 10th June. A Ltd. issues the invoice
+      for the services on 15th July. Payment is received in the bank account of A
+      Ltd. on 20th June and is recorded in the books of account of A Ltd. on 30th
+      June.
+     Here, invoice is not issued within 30 days of provision of service. Therefore,
+     time of supply of services is 10th June being the earlier of the two stipulated
+     dates namely, date of provision of service and date of receipt of payment.
+    Excess payment upto ` 1000: Option of taking invoice date as
+    time of supply
+      In terms of the proviso to sub-section (2) of section 13, for a payment of up
+      to ` 1,000 received in excess of the invoice value, the supplier can choose to
+     take the date of invoice issued with respect to such excess amount as the
+     time of supply of services in relation to this excess value.  In other words, if
+     advance upto ` 1,000 is received with respect to any services, GST is not
+     payable at that stage; GST will be payable when invoice  is raised.  This
+      provision facilitates the supplier to defer payment of tax on small amounts
+      typically received by him in excess of the invoice amount.
+      This provision has been made as in case of monthly/periodical bills like
+     telephone  bills or  electricity  bills, customers often pay  slightly higher
+     amounts than bill amounts.  It would have been very cumbersome to pay GST
+    on such petty advances and adjust them later, as legally, ‘receipt voucher’ is
+     required to be issued under GST when advance against services is received.
+                  (16) A telephone company receives ` 5000 against an invoice
+                   of ` 4800. The excess amount of ` 200 can be adjusted against
+                  the next invoice.
+     The company has the option to take the date of the next invoice as the time
+      of supply of service in relation to the amount of ` 200 received in excess
+      against the earlier invoice.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+5.32        GOODS AND SERVICES TAX
+
+(ii)  Time of supply of services taxable under reverse charge [Section
+     13(3)]
+     The time of supply of service on which GST is payable on reverse charge basis
+      (except on services received from associated enterprises located outside
+      India) under sub-sections (3) and (4) of section 9 is determined in terms of
+      section 13(3)(a) and (b) as follows:
+     The time of supply for such service will be the earlier of the following:
+      Date of payment, or
+      Date immediately following 60 days from the date of issue of invoice
+            (or any other document in lieu of invoice) by the supplier.
+         If it is not possible to determine the time of supply by using these parameters,
+     then the time of supply will be the date of entry of the service in the books
+      of account of the recipient of supply.
+    Meaning of “Date of payment”
+     “Date of payment” in the above situation
+      refers to the date on which the payment is
+     recorded in the books of account of the
+      recipient of service, or the date on which the
+     payment is debited from the recipient’s bank account, whichever is earlier.
+    Import of services between associated enterprises
+      In the case of service received from an associated enterprise7 located outside
+      India, the time of supply will be the date of payment for the service, or the
+     date of entry of the service in the books of account of the recipient, whichever
+        is earlier.
+
+7 Associated enterprises shall have the same meaning as assigned to it in section
+92A of the Income-tax Act, 1961. Broadly, an associated enterprise in relation to
+another enterprise, means an enterprise which participates, directly or indirectly,
+or through one or more intermediaries, in the management or control or capital
+of the other enterprise.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+TIME OF SUPPLY    1.331.3        5.33
+
+     The provisions relating to time of supply of services in case of reverse charge
+     can be depicted by way of a diagram given on next page.
+               (17) A Ltd. provides services to B Ltd. on 10th June. The services
+                are taxable under reverse charge. A Ltd. issues the invoice for the
+                 services on 15th June. Payment is debited from the bank account
+      of B Ltd. on 20th June and is recorded in the books of account of B Ltd. on
+      30th June.
+     Time of supply of services is 20th June being the earliest of the three stipulated
+     dates namely, date on which payment is recorded in the books of account of
+      recipient of services, date on which payment is debited from the bank account
+      of the recipient of services and date immediately following 60 days since issue
+      of invoice.
+
+               (18) A Ltd. provides services to B Ltd. on 10th June. The services
+                are taxable under reverse charge. A Ltd. issues the invoice for the
+                 services on 15th June. Payment is debited from the bank account
+      of B Ltd. on 20th September and is recorded in the books of account of B Ltd.
+    on 15th September.
+     Time of supply of services  is 15th August being the earliest of the three
+      stipulated dates namely, date on which payment is recorded in the books of
+     account of recipient of services, date on which payment is debited from the
+     bank account of the recipient of services and date immediately following 60
+     days since issue of invoice.
+
+               (19) A Inc., a foreign company, and B Ltd., an Indian company, are
+               associated enterprises. A Inc. provides technical services to B Ltd.
+              Vide an email dated June 4th, A Inc. informs B Ltd. the cost of
+      technical services provided to it. B Ltd. transfers the payment to A Inc. on
+      12th August.
+     Time of supply of services is 12th August being the date of payment as there
+        is no prior entry of the amount in the books of account of B Ltd.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+5.34        GOODS AND SERVICES TAX
+          TIME OF SUPPLY OF SERVICES UNDER REVERSE CHARGE
+                                 Date on  which  the payment  is
+                                  recorded in the books of account of
+                                    the recipient of services
+
+                                 Date on  which  the payment  is                                                                                                                                                                                   Whichever                                   debited from the bank account of
+                                        is                                    the recipient of services
+                                                                                                                                           earlier                                           61st day from issue of invoice by the
+                       st DAY         supplier
+
+         If it is not possible to determine the time of supply through above
+                 parameters, THEN TIME OF SUPPLY WILL BE
+
+
+                                 Date of entry of service in the books of account
+                                    of the recipient of supply
+
+
+         TIME OF SUPPLY IN CASE OF IMPORT OF SERVICES FROM ASSOCIATED
+                                 ENTERPRISES
+    Supply        of
+    services from AE
+    located   outside
+    India
+                                 Date of payment for the service                                                                                                                                                                                 Whichever
+                                            Date of entry of service   is
+                                                      in books of account of                                                     recipient                                  earlier
+     Associated Enterprises
+              (AE)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+TIME OF SUPPLY    1.351.3        5.35
+
+(iii) Time of supply of vouchers exchangeable for services [Section 13(4)]
+     The term voucher has already been explained under the Heading “Time of
+     Supply of Goods”. The time of supply of vouchers that are exchangeable for
+      services is stipulated as:-
+      the date of issue of the voucher -  if the supply is identifiable at that
+            point,
+                                      or
+      the date of redemption of the voucher - in other cases.
+               (20) A Ltd., a company providing hospitality services, enters into
+             agreement with B Ltd. by which B Ltd. markets A Ltd.’s hotel rooms
+            and sells coupons / vouchers redeemable for a discount against
+      stay in the hotel.
+     As the supply against which the voucher will be redeemed is identifiable, the
+     time of supply of the voucher will be its date of issue.
+(iv) Time of supply of services in residual cases [Section 13(5)]
+         If the situation is not covered by any of the provisions discussed above, the
+     time of supply is fixed under sub-section (5) of section 13, in the following
+     manner:
+      Date on which periodical return for the period is required to be filed, or
+       In any other case, date on which GST is paid.
+(v)  Time of supply in case of enhancement of value on account of
+     interest/late fee etc. for delayed payment of consideration [Section
+     13(6)]
+     The provisions for time of supply in case of addition in value by way of
+      interest, late fee/penalty for delayed payment of consideration are the same
+      for goods and services.
+     Section 13(6) prescribes that time of supply in case of addition in value by
+    way of interest/ late fee/penalty for delayed payment of consideration for a
+      service is the date on which the supplier receives such addition in value.
+
+   The provisions relating to time of supply of services as contained in section
+13 are summarised in the diagram given on next page.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+5.36        GOODS AND SERVICES TAX
+
+  Time of supply of    Time of supply of     Time of supply   Time of supply of
+    services under         services under         of services         vouchers
+   forward charge       forward charge      under reverse    exchangeable for
+ when the invoice is   when the invoice is        charge             services
+  issued within the     not issued within
+  time specified u/s     the time specified   Date of recording
+        31                 u/s 31        the payment in the    Date of issue of
+                                       books of accounts     voucher, if the
+  Date of issue of                           of the recipient of       supply is                    Date of provision    tax invoice                                     services           identifiable at                          of service                                                                       that point
+     Date of                             Date on which                     Date of recording   recording the                       payment is debited                        the payment in  payment in the                         from the bank          Date of                         the books of     books of                              account of the       redemption of                       accounts of the  accounts of the                            recipient of services   voucher in other                             supplier      supplier                                                          cases
+                       Date on which   Date on which                           61st day from the                      payment is    payment is                            date of supplier’s                          credited in the    credited in the                                 invoice                     bank account of  bank account of                          the supplier     the supplier                                            whichever is
+                                                          earlier                           whichever    whichever is                                        is earlier        earlier
+
+
+              If the above events are                  If the above events are
+         UNASCERTAINABLE            UNASCERTAINABLE
+   Time of Supply = Date of receipt of      Time of supply = Date
+   services in the books of account of the      of entry of services in
+             recipient of supply            books of account of the
+                                                  recipient of supply
+  Residual  cases                       Where a periodical return is to be filed,
+   (If all the above   Time of supply              due date of such return                                              OR  do not work for                                                   In any other case, date on which tax is paid  a situation)
+  Addition in value by way of interest,                        Date   on   which
+  late fee/ penalty for delayed payment   Time of supply        supplier receives such
+  of consideration for services                                    addition in value
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+TIME OF SUPPLY    1.371.3        5.37
+
+    5. CHANGE IN RATE OF TAX IN RESPECT OF
+      SUPPLY OF GOODS OR SERVICES [SECTION 14]
+
+      STATUTORY PROVISIONS
+
+  Section 14  Change in rate of tax in respect of supply of goods or services
+   Clause                              Particulars
+ Notwithstanding anything contained in section 12 or section 13, the time of supply,
+ where there is a change in the rate of tax in respect of goods or services or both,
+  shall be determined in the following manner, namely:––
+      (a)       in case the goods or services or both have been supplied before the
+             change in rate of tax,––
+                       (i)     where the invoice for the same has been issued and the
+                   payment is also received after the change in rate of tax, the
+                     time of supply shall be the date of receipt of payment or the
+                      date of issue of invoice, whichever is earlier; or
+                        (ii)     where the invoice has been issued prior to the change in
+                        rate of tax but payment is received after the change in rate
+                         of tax, the time of supply shall be the date of issue of invoice;
+                       or
+                        (iii)    where the payment has been received before the change in
+                        rate of tax, but the invoice for the same is issued after the
+                    change in rate of tax, the time of supply shall be the date of
+                         receipt of payment;
+      (b)       in case the goods or services or both have been supplied after the
+             change in rate of tax,––
+                       (i)     where the payment is received after the change in rate of
+                       tax but the invoice has been issued prior to the change in
+                        rate of tax, the time of supply shall be the date of receipt of
+                     payment; or
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+5.38        GOODS AND SERVICES TAX
+
+                        (ii)     where the invoice has been issued and payment is received
+                       before the change in rate of tax, the time of supply shall be
+                       the date of receipt of payment or date of issue of invoice,
+                     whichever is earlier; or
+                          (iii)   where the invoice has been issued after the change in rate
+                         of tax but the payment is received before the change in rate
+                         of tax, the time of supply shall be the date of issue of invoice:
+ Provided that the date of receipt of payment shall be the date of credit in the bank
+ account if such credit in the bank account is after four working days from the date
+  of change in the rate of tax.
+  Explanation –– For the purposes of this section, “the date of receipt of payment”
+  shall be the date on which the payment is entered in the books of account of the
+  supplier or the date on which the payment  is credited to his bank account,
+ whichever is earlier.
+
+     ANALYSIS
+
+        When there is a change in effective rate of tax, we have to identify -
+        the date of change in rate of tax,
+   the date of supply of goods or services,
+   the date of issue of invoice, and
+   the date of receipt of payment
+  The time of supply is determined according to a combination of these dates.
+
+When the rate of tax is changed before  , and a transaction of supply of goods or
+services gets completed in all its documentary and financial aspects, the law makes
+specific provisions for ascertaining the time of supply of the goods or service for
+the purpose of payment of tax.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+TIME OF SUPPLY    1.391.3        5.39
+
+The three markers for identifying time of supply are actual supply, invoice and
+payment.  These can occur in differing sequences.  Their occurrence before and
+after the change of effective rate of tax determines the time of supply of the service.
+Of the three markers (supply, invoice, payment), -
+      if issue of invoice and receipt of payment are both before the change in rate,
+     the time of supply is the date of the earlier of these two events;
+      if supply and issue of invoice are before the change in rate, the date of issue
+      of invoice is the time of supply;
+      if supply and receipt of payment are before the change in rate, the date of
+      receipt of payment is the time of supply.
+      If supply and receipt of payment are after the change in rate, the date of
+      receipt of payment is the time of supply;
+      If issue of invoice and receipt of payment are after the change in rate, the
+     date of the earlier of these two events is the time of supply;
+      If supply and issue of invoice are after the change in rate, the date of issue of
+      invoice is the time of supply.
+It can be seen from a study of these provisions, that the timing of two out of the
+three markers (supply, invoice, payment) determines the time of supply.  If any two
+of them occur before the change in rate of tax, the time of supply will fall in the
+period prior to change in rate of tax i.e., old rate will be applicable. However, if any
+two of them occur after the change in rate of tax, the time of supply will fall in the
+period after the change in rate of tax i.e., new rate will be applicable.
+Further, it may be noted that for supply of goods by a registered person (excluding
+composition supplier), GST is to be paid on the outward supply of goods on the
+date of issue of invoice or the last date on which invoice ought to have been issued
+in terms of section 31 - Notification No. 66/2017 CT dated 15.11.2017 (Refer point
+(i) of Analysis under Heading 3: Time of Supply of Goods [Section 12]).
+Meaning of “Date of receipt of payment”
+Here, “date of receipt of payment” refers to the date on which the payment is
+entered in the books of accounts of the supplier, or the date on which the payment
+is credited in his bank account, whichever is earlier.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+5.40        GOODS AND SERVICES TAX
+
+         (21) Mr. A, an interior decorator, designs and renovates the office of XYZ
+           in June. The invoice is to be raised after approval of the work.  In the
+        meantime, the rate of tax is changed on 5th July.  Invoice is raised and
+payment made later in July. Here, the time of supply is after the change in rate of tax,
+though the service was completed prior to the change.
+
+                  CHANGE IN RATE OF TAX
+
+                             Issuance of invoice  Any     two                                   Any     two
+   events before                                          events   after
+  change     in                                      change     in                        Supply of goods/services
+   rate of tax                                                 rate of tax
+
+                            Receipt of payment
+   OLD RATE                             NEW RATE
+
+         (22) A Ltd. makes custom-made precision tools for which it takes full
+        advance with the purchase order. One such order is received on 13th April
+        and full amount is paid with the order. The tools are manufactured and
+delivered on 22nd May. Invoice is also issued on the same day.  In the meanwhile,
+rate of tax was increased on the tools of this description from 20th May onwards.
+Here, increased rate of tax will be applicable as goods are supplied and invoice
+issued after 20th May.
+Date of crediting of payment in bank account to be the “date of receipt of
+payment” if such crediting takes place after 4 working days of change in rate
+of tax
+Where the payment is credited in the bank account after 4 working days from the
+date of change in the rate of tax, the date of receipt of payment will be the date of
+credit in the bank account.  In other words, in such a case, the date of recording
+the payment in the books of account will not be considered as the date of receipt
+of payment even though if the same precedes the date of crediting of payment in
+the bank account.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+TIME OF SUPPLY    1.411.4        5.41
+
+
+ Payment
+  entered      Change
+  in books        in rate                                      Date of                           Payment                                                                     crediting     of           of tax                                            Date of                                  credited                           of  account                                         receipt of                                      in bank                   payment in                                        payment                               account                      bank
+                                                             account                       After 4
+                 working days
+
+
+           (23) Rate of tax is changed on 10th July. Receipt of payment is recorded
+            in the books of account of the supplier on 8th July.  The payment is
+           credited in the supplier’s bank account on 15th July. The Bank was open
+all days between 10th and 15th July.  Here, the date of receipt of payment is 15th
+July.
+
+       LET US RECAPITULATE
+
+The provisions relating to time of supply of goods and services can be better
+understood if the same are studied simultaneously appreciating the similarities and
+differences between the two. Therefore, such provisions have been summarised by
+way of a comparison table to help students remember and retain the provisions in
+a better and effective manner:
+   TIME OF SUPPLY WHERE TAX IS PAYABLE UNDER FORWARD CHARGE
+
+ Time of supply of goods [Section  Time of supply of services [Section
+ 12(2)]                                13(2)]
+  Earliest of the following:               (a) Invoice issued within the time
+                                        period prescribed under section   Date of issue of invoice by the                                    31      supplier or the last date on which
+     he is required under section 31,       Earliest of the following:
+     to  issue  the  invoice  under
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+5.42        GOODS AND SERVICES TAX
+
+      section 31(1) with respect to the     Date of issue of invoice by the
+     supply                                      supplier
+   Date  on  which  the   supplier     Date  of  receipt  of payment
+      receives the payment (entering           (entering  the  payment   in
+      the payment in books of account or         books of account or crediting
+      crediting  of  payment  in  bank           of payment in bank account,
+      account, whichever is earlier) with          whichever is earlier)
+      respect to the supply – presently                                         (b) Invoice not  issued  within  the       irrelevant for purpose of payment of                                       time  period  prescribed  under      tax                                           section 31
+ No GST at the time of receipt of                                                Earliest of the following: advance for supply of goods: In case
+  of supply of goods by a registered     Date of provision of service
+ person   under   forward   charge     Date  of  receipt  of payment
+  (excluding composition supplier), GST                                                  (entering  the  payment   in
+  is to be paid on the outward supply of                                          books of account or crediting
+ goods on the date of issue of invoice                                                  of payment in bank account,
+  or the last date on which invoice ought                                             whichever is earlier)
+  to  have been  issued  in  terms  of
+                                             (c) When  the  above  events  are  section 31 [Notification No. 66/2017
+                                         unascertainable CT dated 15.11.2017].
+                       Date on which the recipient
+                                         shows the receipt of services in
+                                                      his books of account
+
+                TIME LIMIT FOR RAISING INVOICES
+
+    Supply of goods [Section 31(1)]      Supply of services [Section 31(2)]
+ Before or at the time of,-            Before or after the provision of service
+                                      but within 30 days [45 days in case of  (a)  removal of goods for supply to
+                                         insurance    companies/banking   and      the  recipient, where the supply
+                                               financial  institutions  including  NBFCs]      involves movement of goods, or
+                                    from the date of supply of services  (b)  delivery of goods or making
+      available   thereof   to   the
+      recipient, in any other case
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+TIME OF SUPPLY    1.431.4        5.43
+
+   TIME OF SUPPLY WHERE TAX IS PAYABLE UNDER REVERSE CHARGE
+
+ Time of supply of goods [Section  Time of supply of services [Section
+  12(3)]                                 13(3)]
+
+  Earliest of the following:                 Earliest of the following:
+   Date of receipt of goods, or      Date of payment as entered in the
+                                        books of account of the recipient   Date of payment as entered in the                                              or the date on which the payment     books of account of the recipient or                                                                is debited from his bank account,      the date on which the payment is                                           whichever is earlier, or      debited from  his bank  account,
+     whichever is earlier, or         61st day from the date of issue of
+                                             invoice by the supplier   31st day from the date of issue of
+      invoice by the supplier
+
+ Where the above events are not ascertainable, the time of supply shall be the
+ date of entry in the books of account of the recipient of supply
+
+                                    Import of service from associated
+                                         enterprise Date of entry in the books of
+                                       account of the recipient or the date of
+                                      payment, whichever is earlier
+
+TIME OF SUPPLY OF VOUCHERS EXCHANGEABLE FOR GOODS AND SERVICES
+
+ Supply of vouchers exchangeable for goods and services [Sections 12(4) and 13(4)]
+
+  (a)   Supply of goods or services is identifiable at the time of issue of voucher
+      Date of issue of the voucher
+  (b)  Other cases
+      Date of redemption of the voucher
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+5.44        GOODS AND SERVICES TAX
+
+     TIME OF SUPPLY OF GOODS AND SERVICES IN RESIDUAL CASES
+
+ Supply of goods and services in residual cases [Sections 12(5) and 13(5)] i.e
+ where it is not possible to determine the time of supply under the other
+  provisions
+  (a)  Where a periodical return is required to be filed
+      Due date of filing such return
+  (b)  Other cases
+      Date of payment of tax
+
+  TIME OF SUPPLY FOR ADDITION IN VALUE BY WAY OF INTEREST/ LATE
+       FEE/PENALTY FOR DELAYED PAYMENT OF CONSIDERATION
+
+ Addition in value by way of interest, late fee/penalty for delayed payment of
+  consideration
+ Time of Supply Date on which the supplier receives such addition in value
+
+                  CHANGE IN RATE OF TAX
+
+  In case of change in rate of tax, determination of rate of tax depends upon three
+ events namely,-
+    Date of supply of goods or services,
+    Date of invoice; and
+    Date of receipt of payment
+  If any two of the above events occur before the change of rate, the time of
+ supply is before the change of rate.  If any two of them occur after the change
+  of rate, the time of supply is after the change of rate and the new rate becomes
+  applicable to the supply. However, in case of supply of goods by a registered
+ person (excluding composition supplier), GST is to be paid on the date of issue
+  of invoice or the last date on which invoice ought to have been issued in terms
+  of section 31 [Notification No. 66/2017 CT dated 15.11.2017].
+ Using this principle, time of supply of services, in case of change in rate of tax,
+ can be determined as under:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+TIME OF SUPPLY    1.451.4        5.45
+
+     Supply         Issue of       Receipt of        Time of supply
+                      invoice       payment
+    BEFORE       BEFORE       AFTER     Date of issue of invoice
+
+    BEFORE       AFTER        BEFORE    Date of receipt of payment
+
+    BEFORE       AFTER        AFTER     Date of issue of invoice or
+                                                 date of receipt of payment,
+                                                 whichever is earlier
+    AFTER        AFTER        BEFORE    Date of issue of invoice
+
+    AFTER        BEFORE       AFTER     Date of receipt of payment
+
+    AFTER        BEFORE       BEFORE    Date of issue of invoice or
+                                                 date of receipt of payment,
+                                                 whichever is earlier
+
+
+          The provisions relating to time of supply of vouchers that are
+          exchangeable for goods are same as that of the vouchers that are
+          exchangeable for services. Similarly, the provisions relating to time
+of supply of goods falling in the residual category are same as that of the time of
+supply of services falling in the residual category. Also, the provisions relating
+to time of supply for addition in value by way of interest, late fee/penalty for
+delayed payment of consideration are same for goods and services.
+Furthermore,  concepts  like meaning  of “Date  of  receipt  of payment”,
+significance of words “to the extent the invoice or payment covers the supply”
+are also same for goods and services.
+Students may make a note of the above points as  it  will help them in
+understanding and remembering the provisions in a better manner.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+5.46        GOODS AND SERVICES TAX
+
+       TEST YOUR KNOWLEDGE
+
+1.   Kanchenjunga Pvt. Ltd. supplies taxable goods to Sutlej Pvt. Ltd. for ` 2,50,000
+     on 23rd June and issues the invoice on 25th June. Payment for the goods is made
+     by Sutlej Pvt. Ltd. on 15th July.
+     Determine the time of supply of goods for the purpose of payment of tax.
+2.       I buy a set of modular furniture from a retail store. Invoice is issued to me and
+          I make the payment. The furniture is to be delivered to me later in the week
+    when a technician is available to assemble and install it. The next day the rate
+      of tax applicable to modular furniture is revised upward, and the store sends
+    me a supplementary invoice with the delivery note accompanying the furniture
+      to collect the differential amount of tax.
+        Is this correct on store’s part? Explain.
+3.   An  online  portal,  Best  Info,  raises  invoice  for  database  access  on
+       21st February on Roy & Bansal Ltd. The payment is made by Roy & Bansal Ltd.
+     by a demand draft sent on 25th February, which is received and entered in the
+     accounts of Best Info on 28th February.  Best Info encashes the demand draft
+     and thereafter, gives access to the database to Roy & Bansal Ltd from 3rd March.
+      In the meanwhile, the rate of tax is changed from 1st March.
+     Determine the time of supply of the service of database access by Best Info.
+4.    Trust Industries Ltd. has entered into a contract with VST Ltd. to supply gas by
+     a pipeline to VST Ltd. for a period of one year. As per the terms of the contract-
+         (i)   VST Ltd. shall make monthly payments [Payment for a month shall be
+        made by 7th day of the next month]
+         (ii)   Every quarter, Trust Industries Ltd. shall issue a statement of account
+          showing the quantity and value of goods dispatched, payments received
+         and payment due.
+         (iii)  The differential amount, if any, as mentioned in the statement of account
+             shall be paid by VST Ltd.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+TIME OF SUPPLY    1.471.4        5.47
+
+     The details of the various events are:
+
+      August       5,  Payments of `2 lakh made in each month for the quarter
+      September   5,  July-September
+      October 6
+        October 3    Statement of accounts for the quarter July – September
+                       issued by the supplier showing amount of ` 2,56,000 as
+                     unpaid
+        October 17    Balance payment of ` 56,000 received by supplier for the
+                       quarter July – September
+
+     Determine the time of supply of goods for the purpose of payment of tax.
+5.   Renudhoot Ltd. enters into a contract with XYZ Ltd. on 2nd July 2022 for a period
+      of 2 years for construction of a new building - to be used for commercial
+     purposes - for a total consideration of ` 150 lakh. As per the terms of contract,
+     Renduhoot Ltd. is required to make payment at different stages of completion
+      of the building namely, 50%, 75% and 100%.
+     Determine the time of supply using relevant details given as under:
+
+          Stage      Date of      Date of      Date of    Amount
+                       various    issuance of   payment    paid (`)
+                       stages       invoice
+         Initial          02.07.2022    02.07.2022    02.07.2022    15 lakh
+       booking
+
+     50%           15.03.2023    22.03.2023    29.03.2023    60 lakh
+       completion of
+       building
+
+     75%           20.06.2023    24.07.2023    23.07.2023    35 lakh
+       completion of
+       building
+
+     100%          30.09.2023    30.09.2023    20.09.2023    40 lakh
+       completion of
+       building
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+5.48        GOODS AND SERVICES TAX
+
+6.    Mint Industries Ltd., a registered supplier, imports business support services
+     from Green Inc. of USA on 13th August. The relevant invoice for $ 1,20,000 is
+      raised by Green Inc on 18th August.  Mint Industries Ltd. makes the payment
+      against the said invoice as follows:
+                 Case I            22nd September
+                 Case II             27th December
+     Determine time of supply in each of the aforesaid cases.
+7.    Kothari Ltd., Mumbai, holds 51% of shares of Wilson Inc., a USA based company.
+     Wilson Inc. provides business auxiliary services to Kothari Ltd.  From the
+      following details, determine the time of supply of service provided by Wilson
+       Inc:
+
+      Agreed consideration                            US $1,00,000
+      Date on which services are provided by Wilson Inc.           16th June
+      Date on which invoice is issued by Wilson Inc.               19th August
+      Date of debit in the books of account of Kothari Ltd.       30th September
+      Date on which payment is made by Kothari Ltd.           23rd December
+
+8.    Basis the following information, determine the time of supply:
+
+        S. No.  Event                                    Date
+           (1)   Commencement of provision of service                 05th June
+           (2)    Completion of service                                 10th October
+           (3)    Invoice issued                                         20th October
+           (4)   Payment received by cheque and entered in the   15th October
+              books
+           (5)   Amount credited in Bank account                     18th October
+           (6)    Rate changed from 12% to 18%                       16th October
+
+     Note: Assume that all the days covered in the above case are working days.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+TIME OF SUPPLY    1.491.4        5.49
+
+9.   KLM  Ltd., a publishing and printing house registered  in Maharashtra,  is
+     engaged in supply of books, letter cards, envelopes, guides and reference
+      materials. The following information is provided by the company:
+
+      Event                                     Printing  of  Printing  of
+                                           books       envelopes
+      Date of entering into printing contract          16th March     20th March
+      Date of receipt of advance                       20th March     25th March
+      Date of completion of printing                   10th April        5th April
+      Date of issue of invoice                           15th May       10th April
+      Date of removal of books and letter heads to     13th May        7th April
+       buyer
+      Date of receipt of balance payment               31st May       30th April
+
+      In respect of printing of books, content was supplied by the author. For printing
+      of envelopes, the design and logo were supplied by the buyer.
+     Determine the time of suppl(ies) for the purpose of payment of tax.
+10.  Andes Pvt. Ltd., a registered supplier, manufactures product ‘A’ and ‘B’. While
+       ‘A’ is taxable under forward charge, ‘B’ is taxable under reverse charge. The
+      following details are provided in relation to two individual supplies of products
+       ‘A’ and ‘B’ made by the company:
+
+         S. No.  Date          Event
+                (i)     10th February   Payment of ` 1,00,000 made by buyer for supply
+                                    of ‘A’ to be delivered in the month of March
+                (ii)     13th February   Receipt of ` 1,00,000 [as mentioned in point (i)
+                               above]
+                (iii)    17th February   Payment of ` 2,00,000 made by buyer for supply
+                                    of ‘B’ to be delivered in the month of March
+             (iv)    20th February   Receipt of ` 2,00,000 [as mentioned in point (iii)
+                               above]
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+5.50        GOODS AND SERVICES TAX
+
+             (v)     5th March      Product ‘A’ manufactured and removed
+             (vi)     6th March       Receipt of product ‘A’ [as mentioned in point (v)
+                               above] by the buyer
+             (vii)    10th March     Product ‘B’ manufactured and removed
+             (viii)    23rd March      Receipt of product ‘B’ [as mentioned in point (vii)
+                               above] by the buyer
+             (ix)     4th March       Invoice for ` 2,00,000 issued for supply of ‘A’
+             (x)     11th March      Invoice for ` 4,00,000 issued for supply of ‘B’
+             (xi)    25th March     Payment made by the buyer of ‘A’
+              (xii)    31st March     Payment  [as mentioned  in  point  (xi) above]
+                                 received
+             (xiii)     1st April       Payment made by the buyer of ‘B’
+            (xiv)    4th April       Payment  [as mentioned  in point  (xiii) above]
+                                 received
+
+     Determine the time of suppl(ies) of goods for the purpose of payment of tax.
+
+      ANSWERS/HINTS
+
+1.    In terms of section 12(2), the time of supply of goods is the earlier of, the
+     date of issue of invoice/last date on which the invoice is required to be issued
+     or date of receipt of payment. However, Notification No. 66/2017 CT dated
+     15.11.2017  specifies  that  a  registered  person  (excluding  composition
+      supplier) has to pay GST on the outward supply of goods at the time of supply
+     as specified in section 12(2)(a), i.e. date of issue of invoice or the last date on
+     which invoice ought to have been issued in terms of section 31.
+     As per section 31(1), invoice for supply of goods should be issued before or
+      at the time of removal of goods for supply to the recipient, where supply
+      involves movement of goods. Therefore, time of supply of goods is 23rd June
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+TIME OF SUPPLY    1.511.         5.51
+
+     being the last date on which invoice ought to have been issued and not
+      25th June when the invoice is actually issued.
+2.   No, the store is not correct in issuing supplementary invoice with revised rate
+      of tax.  The revised rate of tax is not applicable to the transaction, as the
+     issuance of invoice as well as receipt of payment occurred before the supply.
+      Therefore, in terms of section 14(b)(ii), the time of supply is earlier of the two
+     events namely, issuance of invoice or receipt of payment, both of which are
+     before the change in rate of tax, and thus, the old rate of tax remains
+      applicable.
+3.   As issuance of invoice and receipt of payment (entry of the payment in Best
+      Info’s accounts) occurred before the change in rate of tax, the time of supply
+      of service by the online portal is earlier of the date of issuance of invoice
+       (21st February) or date of receipt of payment (28th February) i.e., 21st February.
+      This would be so even though the service commences after the change in rate
+      of tax [Section 14(b)(ii)].
+4.   As per Notification No. 66/2017 CT dated 15.11.2017, a registered person
+      (excluding composition supplier) has to pay GST on the outward supply of
+     goods at the time of supply as specified in section 12(2)(a), i.e. date of issue
+      of invoice or the last date on which invoice ought to have been issued in
+     terms of section 31.  As per section 31(4), in case of continuous supply of
+     goods, where successive statements of accounts or successive payments are
+      involved, the invoice is issued before or at the time of each such statement is
+     issued or, as the case may be, each such payment is received.
+      Therefore, invoices should be issued for ` 2 lakh each on or before August 5,
+     and September 5, when monthly payments of ` 2 lakh are received. Further,
+      invoice should also be issued for differential payment of ` 2,56,000 on or
+     before October 3, when statement of account is issued
+      Thus, assuming that the invoice is issued on August 5, September 5 and
+     October 3, the time of supply for the purpose of payment of tax will be August
+     5 and September 5 respectively for goods valued at ` 2 lakh each and October
+     3 for the goods valued at ` 2,56,000.
+5.   As per section 13, the time of supply of services is the earlier of the dates
+      arrived at by methods (A) and (B), as follows:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+5.52        GOODS AND SERVICES TAX
+
+      (A)  Date of invoice or date of receipt of payment (to the extent the invoice
+           or payment covers the supply of services), whichever is earlier, if the
+           invoice is issued within the time prescribed under section 31;
+      (B)   Date of provision of service or date of receipt of payment (to the extent
+           the payment covers the supply of services), whichever is earlier, if the
+           invoice is not issued within the time prescribed under section 31
+     Since in the present case, the construction services are provided under a
+      contract  for a period exceeding three months with  periodic payment
+      obligations, such services would fall within the ambit of term “continuous
+     supply of services” as defined under section 2(33).
+     As per section 31(5), in case of continuous supply of services, the invoice
+     should be issued either (i) on/ before the due date of payment or (ii) before/
+      at the time when the supplier of service receives the payment, if the due date
+      of payment  is not known  (iii) on/ before the date of completion of the
+     milestone event when the payment  is linked to completion of an event
+      [Section 31(5)].
+      Accordingly, the time of supply with respect to each of the stages of completion
+        is as follows:
+
+      Stages of    Time of supply
+      completion
+              Initial     Since invoice  is issued within the prescribed time  limit,
+        booking     earlier of the date of issue of invoice or date of receipt of
+                  payment is the time of supply. However, date of issuance
+                      of invoice (02.07.2022) and date of receipt of payment
+                      (02.07.2022) are the same.  Therefore, time of supply  is
+                     02.07.2022.
+        50%      Since invoice has not been issued on or before the date of
+               50% completion, earlier of date of provision of service
+                      (15.03.2023) or date of receipt of payment (29.03.2023), i.e.
+                    15.03.2023 is the time of supply.
+        75%      Since invoice has not been issued on or before the date of
+               75% completion, earlier of date of provision of service
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+TIME OF SUPPLY    1.531.         5.53
+
+                      (20.06.2023) or date of receipt of payment (23.07.2023), i.e.
+                    20.06.2023 is the time of supply.
+        100%     Since invoice  is issued within the prescribed time  limit,
+                         earlier of the date of issue of invoice (30.09.2023) or date of
+                      receipt of payment (20.09.2023), i.e. 20.09.2023 is the time
+                      of supply.
+6.    In case of services supplied by any person located in a non-taxable territory
+      to any person other than non-taxable online recipient, tax is payable under
+      reverse charge by the person located in the taxable territory [Notification No.
+     10/2017 IT (R) dated 28.06.2017]. Hence, in the given case, since the business
+     support services are provided by Green Inc (located in non-taxable territory)
+      to Mint Ltd. (person other than non-taxable online recipient and located in
+      taxable territory), tax is payable under reverse charge by Mint Ltd.
+     The time of supply of services taxable under reverse charge is the earlier of
+     the following:
+      Date of payment, or
+      Date immediately following 60 days since issue of invoice (or any other
+         document in lieu of invoice) by the supplier.
+         If it is not possible to determine the time of supply by using these parameters,
+     then the time of supply will be the date of entry of the service in the books
+      of account of the recipient of supply.
+      In view of the aforesaid provisions, the time of supply in each of the given
+     cases will be as under:
+     CASE   Time of supply
+     CASE I   Since Mint Ltd makes the payment within 60 days of the date of
+                 issue of invoice, the time of supply  is the date of payment,
+                         i.e. 22nd September.
+     CASE II  As Mint Ltd. makes the payment after 60 days from the date of
+                  invoice, time of supply is the date immediately following the said
+                period of 60 days, i.e. 61st day which is 18th October.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 54 ======================
+
+
+5.54        GOODS AND SERVICES TAX
+
+7.    Since Kothari Ltd. holds 51% shares of Wilson Inc., Kothari Ltd. and Wilson
+       Inc. are ‘associated enterprises’ as per section 92A of the Income-tax Act,
+     1961. As per second proviso to section 13(3), in case of supply by associated
+      enterprises, where the supplier of service is located outside India, the time of
+     supply is the earlier of the following two dates:
+      Date of entry in the books of  30th September
+       account of the recipient of supply
+       [which  is  Kothari  Ltd.  in  the
+       present case]
+               OR               OR
+      Date of payment [by Kothari Ltd.   23rd December
+        in the present case]
+
+      Thus, time of supply is 30th September.
+8.   The explanation to section 14 lays down that the date of receipt of payment
+        is the date on which the payment is entered in the books of account of the
+      supplier or the date on which the payment is credited to his bank account,
+     whichever is earlier. However, the date of receipt of payment is the date of
+      credit in the bank account if such credit in the bank account is after 4 working
+     days from the date of change in the rate of tax.
+      In the given case, the payment has been credited in the bank account within
+     4 working days from the date of change in the rate of tax. Therefore, the date
+      of receipt of payment is 15th October being the date of entry in the books of
+     account of the supplier which is earlier than the date of credit of the payment
+      in the bank account (18th October).
+     As per section 14(a)(iii), in case of change in rate of tax,  if the service is
+     supplied before the change in rate of tax and the invoice is issued after the
+     change in rate of tax but the payment is received before such change in rate
+      of tax, the time of supply is the date of receipt of payment.
+      Therefore, applying the provisions of section 14(a)(iii) to the given case, the
+     time of supply is 15th October.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 55 ======================
+
+
+TIME OF SUPPLY    1.551.         5.55
+
+9.   As per Circular No. 11/11/2017 GST dated 20.10.2017, in case of printing of
+     books where only content is supplied by the person who owns the usage
+      rights to the intangible inputs while the physical inputs including paper used
+      for printing belong to the printer, supply of printing [of the content supplied
+     by the recipient of supply] is the principal supply and therefore, such supplies
+     would constitute supply of service.
+      In case of supply of printed envelopes by the printer using its physical inputs
+      including paper to print the design, logo etc. supplied by the recipient of
+     goods, predominant supply is supply of goods and the supply of printing of
+     the content [supplied by the recipient of supply] is ancillary to the principal
+     supply of goods and therefore, such supplies would constitute supply of
+     goods.
+      Accordingly, the time of supply of books and envelopes will be governed by
+      sections 12 and 13 respectively.
+      In terms of section 12(2), the time of supply of goods is the earlier of, the
+     date of issue of invoice/last date on which the invoice is required to be issued
+     or date of receipt of payment. However, Notification No. 66/2017 CT dated
+     15.11.2017  specifies  that  a  registered  person  (excluding  composition
+      supplier) has to pay GST on the outward supply of goods at the time of supply
+     as specified in section 12(2)(a), i.e. date of issue of invoice or the last date on
+     which invoice ought to have been issued in terms of section 31.
+     As per section 31(1), invoice for supply of goods should be issued before or
+      at the time of removal of goods for supply to the recipient, where supply
+      involves movement of goods.  Therefore, in the given case, the last date by
+     which invoice ought to have been issued is 7th April. Thus, the time of supply
+      of envelopes for the purpose of payment of tax is 7th April.
+     As per section 13, the time of supply of services is the earlier of the dates
+      arrived at by methods (A) and (B), as follows:
+      (A)  Date of invoice or date of receipt of payment (to the extent the invoice
+           or payment covers the supply of services), whichever is earlier, if the
+           invoice is issued within the time prescribed under section 31;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 56 ======================
+
+
+5.56        GOODS AND SERVICES TAX
+
+      (B)   Date of provision of service or date of receipt of payment (to the extent
+           the payment covers the supply of services), whichever is earlier, if the
+           invoice is not issued within the time prescribed under section 31.
+     Since in the given case, invoice for the services is not issued within 30 days,
+     the time of supply for the advance received is the date of receipt of payment,
+        i.e. 20th March being earlier than the date of provision of service. However,
+     the time of supply for the balance payment is the date of provision of service,
+        i.e. 10th April being earlier than the date of receipt of balance payment.
+10.   In terms of section 12(2), the time of supply of goods is the earlier of, the
+     date of issue of invoice/last date on which the invoice is required to be issued
+     or date of receipt of payment. However, Notification No. 66/2017 CT dated
+     15.11.2017  specifies  that  a  registered  person  (excluding  composition
+      supplier) has to pay GST on the outward supply of goods at the time of supply
+     as specified in section 12(2)(a), i.e. date of issue of invoice or the last date on
+     which invoice ought to have been issued in terms of section 31.
+      Also, it is important to note that the relief of not paying GST at the time of
+      receipt of advance is available only in case of supply of goods, the tax on
+     which is payable under forward charge.  In case of reverse charge, GST is
+     payable at the time of payment, if payment is recorded/made before receipt
+      of goods (advance payment) [Section 12(3)].
+      Therefore, time of supply of product  ‘A’, which  is taxable under forward
+      charge, is 4th March being the date of issue of invoice.  However, time of
+     supply of product ‘B’, which is taxable under reverse charge, is 17th February
+      to the extent of ` 2,00,000 paid as advance being the earliest of the three
+      stipulated dates namely, date of receipt of goods (23rd March), date of
+     payment (17th February) and date immediately following 30 days of issuance
+      of invoice (11th April). For balance ` 2,00,000, the time of supply of product
+       ‘B’ is 23rd March being the earliest of the three stipulated dates namely, date
+      of receipt of goods (23rd March), date of payment  (1st April) and date
+     immediately following 30 days of issuance of invoice (11th April).
+
+
+© The Institute of Chartered Accountants of India

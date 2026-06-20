@@ -1,0 +1,539 @@
+Source PDF: 07_SPOM/Set_D_04_Digital_Ecosystem_Controls/001 - Initial Pages - 79441bos63475-ip.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_04_Digital_Ecosystem_Controls\001 - Initial Pages - 79441bos63475-ip.pdf
+Extracted at: 2026-05-31T10:36:22+05:30
+Pages: 15
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+SET
+   D
+                      SELF-PACED
+               STUDY MATERIAL
+                   PAPER-4
+DIGITAL ECOSYSTEM
+    AND CONTROLS
+
+
+     © The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+ii
+
+This Study Material has been prepared by the faculty of the Board of Studies. The objective of the
+Study Material is to provide teaching material to the students to enable them to obtain knowledge
+in  the  subject.  In  case  students  need  any  clarification  or  have  any  suggestion  for
+further improvement of the material contained herein, they may write to the Joint Director, Board of
+Studies.
+All care has been taken to provide interpretations and discussions  in a manner useful  for
+the students. However, the Study Material has not been specifically discussed by the Council of
+the  Institute or any of  its committees and the views expressed herein may not be taken to
+necessarily represent the views of the Council or any of its Committees.
+Permission of the Institute is essential for reproduction of any portion of this material.
+
+          © THE INSTITUTE OF CHARTERED ACCOUNTANTS OF INDIA
+All rights reserved. No part of this book may be reproduced, stored in a retrieval system, or
+transmitted, in any form, or by any means, electronic, mechanical, photocopying, recording,
+or otherwise, without prior permission, in writing, from the publisher.
+
+Basic draft of this publication was prepared by CA. (Dr.) Rashmi Goel
+Edition                                              :     March, 2024
+
+Committee/Department                   :     Board of Studies
+
+E-mail                                               :     bosnoida@icai.in
+
+Website                                            :      www.icai.org
+
+Price                                                 :    `    /-
+
+ISBN No.                                          :     978-81-19472-60-4
+
+Published by                                    :     The  Publication  & CDS  Directorate  on  behalf  of
+                                The   Institute   of  Chartered  Accountants   of   India,
+                                      ICAI    Bhawan,     Post    Box     No.     7100,
+                                       Indraprastha Marg, New Delhi 110 002 (India)
+Printed by                                        :
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+BEFORE WE BEGIN…..
+
+
+The traditional role of a chartered accountant restricted to accounting and auditing, has now
+changed substantially and there has been a marked shift towards strategic decision making and
+entrepreneurial roles that add value beyond traditional financial reporting. The primary factors
+responsible for the change are the increasing business complexities on account of plethora of
+laws, borderless economies consequent to giant leap in e-commerce, emergence of new financial
+instruments, emphasis on corporate social responsibility, significant developments in information
+technology, to name a few. These factors necessitate an increase in the competence of chartered
+accountants to take up the role of not merely an accountant, auditor or more specifically an IS
+Auditor, but a global solution provider. Towards this end, the scheme of education and training is
+being continuously reviewed so that it is in sync with the requisites of the dynamic global business
+environment; the competence requirements are being continuously reviewed to enable aspiring
+chartered accountants to acquire the requisite professional competence to take on new roles.
+Under the New Scheme of Education and Training, the content of the study material of the “Paper:
+Digital Ecosystem and Controls” under Self-paced Online Module Set D  is to provide the
+understanding of Governance and Management of Digital Ecosystem, Information Systems Life
+Cycle, Information System’s Control, Digital Data and Analysis and Digital Economy. The overall
+learning objective of  this paper “To develop competencies and skillsets in evaluation of
+controls and  relevant evidence  gathering  in an  IT environment using  IT  tools and
+techniques for effective and  efficient performance of accounting, assurance, financial
+technologies and compliance services” has been kept in mind while developing the material.
+The process  of learning should help you inculcate the  requisite IT  skill-sets necessary  for
+achieving the desired professional competence.
+Requirement of Professional Knowledge and Skills
+
+Students are required to learn and qualify Self-paced Online Modules after passing Intermediate
+Examination but before appearing in Final Examination. Accordingly, they are expected to not only
+acquire professional knowledge but also the ability to apply such knowledge in addressing issues
+and problem solving. The integrated process of learning through academic education and practical
+training will help inculcate in them, the requisite technical competence, and professional skills.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+ii
+
+Framework of Chapters: Uniform Structure comprising of specific components
+
+Efforts have been made to present the content of Digital Ecosystem and Controls in a lucid
+manner.  Care has been taken to present the chapters in a logical sequence to facilitate easy
+understanding by the students. Each chapter of the Study Material has been structured uniformly
+and comprises of the following components:
+  S. No.    Components     of                About the component
+           each chapter
+ 1         Learning             This lists the understanding and skill set to be acquired by
+          Outcomes          you after the thorough reading of the chapter.
+ 2         Chapter Overview   As the name suggests, this chart/table would give you an
+                                      overall outline of the contents covered in the chapter.
+ 3           Illustration             Illustration is provided at the beginning of each chapter to
+                                   provide  an  overview  of  the  topics  discussed  in  the
+                                     specified chapter.
+ 4         Introduction       A  brief introduction  is given  at the beginning  of each
+                                  chapter which would help you to get acclimatized with the
+                                broad coverage of the topics.
+ 5         Content            The concepts are explained in a student-friendly manner
+                              and  illustrated  with  the  aid  of  examples/illustrations
+                                    /diagrams/tables. These value additions would help you
+                                 develop conceptual clarity and get a good grasp of the
+                                        topic.
+ 6       Summary         A summary of the chapter provides quick recapitulation of
+                                   the topics covered in the chapter.
+ 7         Test your            This comprises of Multiple-Choice Questions which test
+          Knowledge           the breadth and depth of your understanding of the entire
+                                    chapter.
+
+Chapter-wise coverage of various topics in the study material are as follows:
+
+          UNIT I: GOVERNANCE AND MANAGEMENT OF DIGITAL ECOSYSTEM
+♦     Chapter 1 - Concepts of Governance and IT Strategy introduces the concept of
+       Governance,  its framework, and the impact of  their automation with the help of
+        Technology. The chapter focusses on the role of Information technology and alignment
+         of Information Systems strategy with business strategy. Further, it provides an insight
+         into IT Governance, Enterprise Governance and Corporate Governance. This chapter
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+iii
+
+        also discusses COBIT framework and Information Technology Infrastructure Library
+          (ITIL).
+♦     Chapter 2 - Governance, Risk, and Compliance (GRC) Framework familiarizes with
+        the concept of Governance, Risk, and Compliance. It further discusses the concept of
+         risks, its related terms and risk classification system. The chapter focuses on various
+        types of risks and their mitigation strategies. Various types of malicious attacks and
+        malicious software are also emphasized with the applicable counter measure  to
+        prevent or reduce threats.
+♦     Chapter 3 – Enterprise Risk Management Framework disseminates the basic
+       concept of Enterprise Risk Management and its related benefits. The chapter deals
+        with  implementation  of  Enterprise  Risk Management  in  organization  by  Plan,
+       Implement, Measure and Learn (PIML) methods.
+♦     Chapter 4 – Information System Security Policy provides the meaning, components
+         of an information system and the working of various components of an information
+       system.  It deals with the needs for protection of information systems. This chapter
+        provides an insight on information security policies, procedure, related standards, and
+        guidelines along with the need for information security and the prospects of frauds
+         relating to technology.
+♦     Chapter 5 – Business Continuity Planning and Disaster Recover Planning brings
+         into light the core concepts of Business Continuity Planning (BCP) and the key phases
+         in the development of BCP.  It also includes the Business Continuity Management
+       Process and various types back up plans and their working. Furthermore, the chapter
+         highlights the key aspects included in implementation of incident Management plan
+       and various areas involved in Disaster Recovery Procedural Plan.
+
+                   UNIT II: INFORMATION SYSTEMS LIFE CYCLE
+♦    Chapter 6 – System Development Life Cycle focuses on the need for development of an
+       information system.  It deals with the system development process  for an information
+      system. Various stages of system development life cycle are also discussed. Various tools
+     and techniques of system analysis and design and programming are also briefly covered in
+        this chapter.
+♦    Chapter 7 – System Acquisition and Development Methodologies devoted to system
+       acquisition and its phase wise activities, methods, tools, controls, etc. it provides the insight
+     on software procurement, acquisition from external sources and evaluation of IT proposals.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+iv
+
+           It provides the details on various SDLC models with their pros and cons and understanding
+       of the most appropriate model for a particular project.
+
+                   UNIT III: INFORMATION SYSTEMS’ CONTROL
+♦    Chapter 8 – Information Systems’ Control and its Classification provides a detailed
+      discussion on IS controls,  their objective, and functions with reference to information
+      systems. Understanding of these controls is essential to the Chartered Accountants to
+      strengthen their ability for conducting IS audit in any Organization.
+♦    Chapter 9 – Information Technology Tools devoted to auditing of Information system. It
+       highlights the working of various Information technology tools. Furthermore, this chapter
+      discusses the various illustrations to provide insight on risks and controls associated with
+       different business processes such as P2P, O2C, CASA, etc.
+
+                      UNIT IV: DIGITAL DATA AND ANALYSIS
+♦    Chapter 10 – Digital Data and Privacy devoted to various concepts of data protection and
+         its principles. Data Analysis and the tools devoted for data protection have been discussed
+        in the chapter. This chapter also provides highlights on Digital Personal Data Protection Act,
+      2023.
+♦    Chapter 11 – Business Intelligence deals with the concept of Business Intelligence and its
+         life cycle and functionality. It also discusses the various Business Intelligence tools used in
+      any organization.
+
+                           UNIT V: DIGITAL ECONOMY
+♦    Chapter 12 – ABCD of Fintech is devoted to ABCD technologies i.e. Artificial Intelligence,
+      Blockchain, Cloud Computing and Big Data used in Fintech. It provides insight on usage of
+      these technologies  in any  financial  institutions.  It  highlights the various components,
+      working, advantages and disadvantages of these technologies.
+♦    Chapter 13 – Emerging Technologies is devoted to emerging technologies. Major evolving
+      technologies/concept such as Internet of Things (IoT), Quantum computing, Regtech and
+      mobile computing.  This chapter also deals with various modes of digital payment used in
+       today’s world along with their advantages and disadvantages. The applications of these
+      technologies are covered in this chapter.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+v
+
+This study material covers both concepts and practical aspects and hence, students are advised to
+read the study material not only from examination point of view but also from practical perspective of
+how this is relevant and can be applied in any work environment.
+
+                     Happy Reading and Best Wishes!
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+vi
+
+         SYLLABUS – SELF PACED
+
+                         SET – D
+
+          PAPER-4 : DIGITAL ECOSYSTEM AND CONTROLS
+                              (100 MARKS)
+
+
+Objective
+“To develop competencies and skillsets in evaluation of controls and relevant evidence gathering
+in an IT environment using IT tools and techniques for effective and efficient performance of
+accounting, assurance, financial technologies and compliance services”.
+
+Contents
+
+Unit – I : Governance and Management of Digital Ecosystem
+
+    ♦     Key concepts of Governance and IT strategy.
+    ♦     Governance, Risk, and Compliance (GRC) Framework.
+    ♦      Risk fundamentals and related terms, Sources, and types of risks.
+    ♦      Enterprise Risk Management Framework.
+    ♦      Information Systems Security Policy.
+    ♦      Business Continuity Planning and Disaster Recovery Planning.
+Unit – II: Information Systems Life Cycle
+
+    ♦      Information System Acquisition.
+    ♦      Information System Development Methodologies.
+    ♦      Information Systems Implementation and Maintenance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+vii
+
+Unit – III: Information Systems’ Control
+
+    ♦      Information Systems’ Control and its Classification.
+    ♦     Overview of Information Technology Tools.
+    ♦       Illustrations on Risks and Controls of Specific Business Processes.
+Unit – IV: Digital Data and Analysis
+
+    ♦     Data Privacy.
+    ♦     Data Assurance.
+    ♦      Introduction to Personal Data Protection Act, 2023.
+    ♦      Regulatory  Compliance  in  terms  of  relevant  sections  of  Information
+              Technology Act, 2000.
+    ♦      Introduction to Data Analytical Tools and Techniques.
+    ♦      Introduction to Business Intelligence (BI) Tools and Techniques.
+Unit – V : Digital Economy
+
+    ♦    ABCD of Fintech.
+    ♦       Digital Payments, Digital Currency, and Cryptocurrency.
+    ♦      e-business and their associated risks and controls.
+    ♦     Emerging Technologies and Concepts.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+viii
+        DETAILED CONTENTS
+
+
+       UNIT-I : GOVERNANCE AND MANAGEMENT OF DIGITAL ECOSYSTEM
+
+                                                                      Page No.
+
+CHAPTER-1: CONCEPTS OF GOVERNANCE AND IT STRATEGY
+Chapter Overview ..................................................................................................................
+1.1     Introduction .......................................................................................................... 1.3
+1.2     Enterprise Governance ......................................................................................... 1.5
+1.3    Overview of IT Governance .................................................................................. 1.7
+1.4    Governance of Enterprise IT (GEIT) ...................................................................... 1.9
+1.5     Business and IT Strategy ................................................................................. …1.12
+1.6    Framework to Support Effective IT Governance .................................................. 1.18
+Summary ........................................................................................................................ 1.34
+Test Your Knowledge ...................................................................................................... 1.35
+
+CHAPTER-2: GOVERNANCE, RISK, AND COMPLIANCE FRAMEWORK
+Chapter Overview ......................... ………………………………………………………………..…2.2
+2.1     Introduction .......................................................................................................... 2.4
+2.2     Risk Fundamentals……………………………………………………………….. .. ………..2.6
+2.3     Risk ................................................................................................................... 2.10
+2.4     Malicious Attacks……………………………………. . ……………………………………..2.22
+2.5     Malicious Software ............................................................................................. 2.27
+2.6     Counter Measures .............................................................................................. 2.29
+2.7      Internal Controls ................................................................................................. 2.30
+2.8    Compliance ........................................................................................................ 2.35
+Summary ........................................................................................................................ 2.36
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+ix
+
+Test your Knowledge ...................................................................................................... 2.36
+
+CHAPTER-3: ENTERPRISE RISK MANAGEMENT FRAMEWORK
+Chapter Overview ............................................................................................................. 3.2
+3.1      Introduction ............................................................................................................... 3.3
+3.2     Enterprise Risk Management (ERM) ........................................................................... 3.3
+3.3   ERM Framework (For IT Governance Issues) ............................................................. 3.7
+Summary ........................................................................................................................ 3.17
+Test Your Knowledge ...................................................................................................... 3.17
+
+CHAPTER-4: INFORMATION SYSTEM SECURITY POLICY
+Chapter Overview ............................................................................................................. 4.4
+4.1      Introduction ............................................................................................................... 4.2
+4.2     Information Systems .................................................................................................. 4.5
+4.3    Need for Protection of Information systems ................................................................ 4.6
+4.4     Information System Security ....................................................................................... 4.8
+4.5      Principles of Information Security ............................................................................. 4.14
+4.6     Information Security Policy ....................................................................................... 4.15
+Summary ........................................................................................................................ 4.23
+Test Your Knowledge ...................................................................................................... 4.25
+
+CHAPTER-5: BUSINESS CONTINUITY PLANNING AND DISASTER RECOVERY PLANNING
+
+Chapter Overview ............................................................................................................. 5.5
+5.1     Introduction .......................................................................................................... 5.2
+5.2    Need of Business Continuity Management ............................................................ 5.5
+5.3   BCM Policy .......................................................................................................... 5.7
+5.4     Business Continuity Planning ................................................................................ 5.8
+5.5     Business Continuity Management (BCM) Process ............................................... 5.14
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+x
+
+5.6     Business Continuity Management (BCM) Cycle ................................................... 5.16
+5.7    Types of Plan  .................................................................................................... 5.24
+5.8    Types of Back-ups ............................................................................................. 5.26
+5.9     Alternate Processing Facility Arrangements  ....................................................... 5.32
+5.10    Disaster Recovery Procedural Plan. .................................................................... 5.33
+Summary ........................................................................................................................ 5.34
+Test Your Knowledge ...................................................................................................... 5.35
+
+                          UNIT-II : INFORMATION SYSTEMS LIFE CYCLE
+
+CHAPTER-6: SYSTEM DEVELOPMENT LIFE CYCLE
+
+Chapter Overview ............................................................................................................. 6.2
+6.1     Introduction .......................................................................................................... 6.3
+6.2    Need for SDLC  .................................................................................................... 6.4
+6.3    System Development Life Cycle (SDLC) ............................................................... 6.5
+6.4     Operation Manuals  ............................................................................................ 6.21
+Summary  ....................................................................................................................... 6.21
+Test Your Knowledge ...................................................................................................... 6.22
+
+CHAPTER-7: SYSTEM ACQUISITION AND DEVELOPMENT METHODOLOGIES
+
+Chapter Overview………………………………………………………………………………………..7.2
+7.1     Introduction .......................................................................................................... 7.4
+7.2     Information System Acquisition  ........................................................................... 7.5
+7.3     Information System Development Methodologies  ............................................... 7.16
+Summary  ....................................................................................................................... 7.30
+Test Your Knowledge ..................................................................................................... 7.30
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+xi
+
+
+                           UNIT-III : INFORMATION SYSTEMS’ CONTROL
+
+CHAPTER 8: INFORMATION SYSTEMS’ CONTROL AND ITS CLASSIFICATION
+
+Chapter Overview ................................................................................................................... 8.2
+8.1      Introduction ............................................................................................................................ 8.5
+8.2      Controls ................................................................................................................................. 8.6
+8.3      Classification of Controls ....................................................................................................... 8.6
+8.4     Role of Auditors While Inspecting the Controls .................................................................... 8.30
+Summary ............................................................................................................................................ 8.39
+Test Your Knowledge ......................................................................................................................... 8.39
+
+CHAPTER 9: INFORMATION TECHNOLOGY TOOLS
+
+Chapter Overview ................................................................................................................................ 9.2
+9.1      Introduction ............................................................................................................................ 9.3
+9.2      Control and Inspection of Information System ....................................................................... 9.4
+9.3      Information Systems Auditing ................................................................................................ 9.6
+9.4      Auditing around the Computer Versus Auditing Through the Computer ................................ 9.8
+9.5      Information Technology Tools.............................................................................................. 9.10
+9.6     Business Processes ............................................................................................................ 9.19
+Summary ............................................................................................................................................ 9.36
+Test Your Knowledge ......................................................................................................................... 9.37
+
+                          UNIT-IV : DIGITAL DATA AND ANALYSIS
+
+CHAPTER 10 : DIGITAL DATA AND PRIVACY
+
+Chapter Overview .............................................................................................................................. 10.2
+10.1     Introduction .......................................................................................................................... 10.4
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+xii
+
+10.2    Data Protection .................................................................................................................... 10.5
+10.3   What are Fair Information Practices? .................................................................................. 10.8
+10.4    Data Security Tools ............................................................................................................. 10.9
+10.5    Data Analysis ..................................................................................................................... 10.11
+10.6    Data Analysis Tools. .......................................................................................................... 10.16
+10.7    Data Analytics .................................................................................................................... 10.17
+10.8    Data Assurance ................................................................................................................. 10.20
+10.9    Information Technology Act,2000 Based Regulatory Compliance ..................................... 10.22
+10.10    Digital Personal Data Protection Act,2023 ............................................ ……………………10.24
+Summary .......................................................................................................................................... 10.27
+Test Your Knowledge ....................................................................................................................... 10.27
+
+CHAPTER 11 : BUSINESS INTELLIGENCE
+
+Chapter Overview .............................................................................................................................. 11.2
+11.1     Introduction .......................................................................................................................... 11.3
+11.2    Business Intelligence Life Cycle .......................................................................................... 11.5
+11.3.   Business Intelligence Tools ................................................................................................. 11.7
+11.4    Chart Types in Power BI .................................................................................................... 11.11
+11.5    Business Intelligence VS Data Analytics ........................................................................... 11.12
+Summary .......................................................................................................................................... 11.14
+Test Your Knowledge ....................................................................................................................... 11.15
+
+                            UNIT-V : DIGITAL ECONOMY
+
+CHAPTER 12 : ABCD of Fintech
+
+Chapter Overview .............................................................................................................................. 12.2
+12.1     Introduction .......................................................................................................................... 12.3
+12.2      Artificial Intelligence ........................................................................................................... 12.15
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+xiii
+
+12.3    Blockchain ......................................................................................................................... 12.20
+12.4    Cloud Computing ............................................................................................................... 12.27
+12.5    Big Data ............................................................................................................................. 12.45
+Summary .......................................................................................................................................... 12.49
+Test Your Knowledge ....................................................................................................................... 12.50
+
+CHAPTER 13 : EMERGING TECHNOLOGIES
+
+Chapter Overview .............................................................................................................................. 13.2
+13.1     Introduction .......................................................................................................................... 13.2
+13.2     Digital Payments .................................................................................................................. 13.3
+13.3    E-Business Associated Risks and their Controls ............................................................... 13.14
+13.4   Emerging Technologies ..................................................................................................... 13.19
+Summary ........................................................................................................................................ 13.34
+Test Your Knowledge ....................................................................................................................... 13.34
+
+
+© The Institute of Chartered Accountants of India

@@ -1,0 +1,646 @@
+Source PDF: 07_SPOM/Set_C_09_Financial_Services_Capital_Markets/001 - INITIAL PAGES - 79352bos63450-ip.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_09_Financial_Services_Capital_Markets\001 - INITIAL PAGES - 79352bos63450-ip.pdf
+Extracted at: 2026-05-31T10:33:38+05:30
+Pages: 18
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+iii
+
+         BEFORE WE BEGIN …
+
+
+The Board of Studies, ICAI created the study materials for Self-Paced Online Module-Set C with
+the goal of aligning the curriculum with the International Education Standards (IESs) of the
+International Federation of Accountants (IFAC) to instill and strengthen the prerequisite skills
+required to become a well-rounded, capable, and globally competitive accounting professional.
+Additionally, this study guide emphasizes the National Education Policy 2020 (NEP 2020)
+initiatives, such as curriculum restructuring and new pedagogical approaches centered on the
+use of technology in the classroom, as well as conceptual clarity as an alternative to rote
+learning.
+Our economic policies have been liberalized and globalized to be in line with the changes
+occurring throughout  the  world. This has  led  to the convergence  of several  significant
+developments in the  field  of Financial Services and Capital Markets that are required  to
+boost the economy as well as the corporate sector.
+
+Requirement of Professional Knowledge and Skills
+
+It is required of you to not only gain professional knowledge after Intermediate Level but also
+the capacity to put that information to use in addressing challenges and solving real-world
+scenarios prior to appearing in Final Level. You can acquire the professional values, ethics, and
+attitudes, as well as the needed technical competence and professional abilities, by pursuing
+an integrated learning approach that combines academic education with hands-on training.
+
+Significant Components of Financial Services and Capital Markets
+
+Elective Paper 9 of Set C – Financial Services and Capital Markets is a blend of theory and
+practical. The Study Material consists of Chapter 1 to 16 as mentioned in the syllabus.
+The study material is prepared by keeping in mind the current scenarios in the financial services
+and capital markets operating, wherever, required. Similarly, students will also get familiarized
+with the various concepts of capital market. In the chapter, Capital Market – Primary, besides
+the main topics covered in this field such as Green Shoe Option, Application Supported by
+Blocked Amount (ASBA), Anchor Investors etc., a relatively new concept in India – Special
+Purpose Acquisition Companies (ASBA) has also been introduced.
+Moreover, in the Chapter, Capital Market - Secondary, certain interesting topics such as Straight
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+iv
+
+Through Processing (STP), Securities Lending and Borrowing, Circuit Breakers, Margin Trading
+have been lucidly explained. Besides that, some other important topics such as Algorithmic
+Trading, Basket Trading, Index Management, Block and Bulk Deals, Emerging Markets have
+also been suitably covered.
+Furthermore, some chapters such as the Commodity Market, Bond Market, Derivatives Market,
+have also been included to give readers a working knowledge of these continuously emerging
+markets.
+Also, some more chapters such as Private Equity, Investment Banking and Credit Rating have
+been added to give a further boost to the ever-evolving field of Financial Services and Capital
+Markets.
+The penultimate two chapters, i.e. Leasing and Factoring, are included on account of their
+importance in Financial Services. And, finally, the last chapter, SEBI Regulations – Companies
+in Capital Markets have been added to give the readers a glimpse of the important regulations
+in the financial services and capital markets.
+
+Framework of Chapters – Uniform Structure comprising of specific components
+
+      Components of                    About the component
+        each Chapter
+ 1.  Learning            Learning outcomes which you need to demonstrate after learning
+     Outcomes          each topic have been detailed in the first page of each chapter.
+                          Demonstration  of these learning outcomes would help you  to
+                          achieve the desired level of technical competence.
+ 2.  Content           The concepts  of Financials Services and  Capital Markets are
+                           explained in a student-friendly manner with the aid of examples/
+                              Illustrations/diagrams /flow charts wherever possible. Diagrams and
+                         Flow charts would help you understand and retain the concept learnt
+                                 in a better manner. Examples would help you understand the
+                              application of concepts/provisions. These value additions would,
+                              thus, help you develop conceptual clarity and get a good grasp of
+                            the topic.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+v
+
+ 3.  Test Your          The exercise questions and answers would help you to analyze the
+     Knowledge          various aspects of Financial Services and Capital Markets and apply
+                            the same in problem solving, thus sharpening your application skills.
+                              Multiple choice questions have  also been given  to  test your
+                           conceptual understanding and analytical ability.
+
+
+It is desired that the students cover the entire syllabus and update themselves with the latest
+changes in the financial sector. The students are therefore required to refer academic updates
+in ‘Students Journal’ published by the Board of Studies, the monthly journal ‘The Chartered
+Accountant’, and financial newspapers such as Economic Times, Mint, Business Line and
+Business Standard.
+Although sincere efforts have been made to keep the study material error free,  it is possible
+that some errors might have inadvertently crept in. You may bring such errors/omissions to our
+notice so that necessary corrective action can be taken.
+
+
+                Happy Reading and Best Wishes!
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+vi
+         SYLLABUS – SELF PACED
+
+                        SET – C
+
+     PAPER 9: FINANCIAL SERVICES AND CAPITAL MARKETS
+                       (One paper – Three hours – 100 marks)
+
+Objective:
+
+1.    To gain knowledge of financial services rendered by various intermediaries and their role and
+        activities in the financial market in general and capital markets in particular.
+2.    To acquire the ability to apply such knowledge to address issues in practical scenarios.
+
+Contents:
+
+1.     Introduction to Financial Markets
+      •      Introduction to Financial Market
+      •     Role of Financial Market in Economic Development of a country
+      •     Stakeholders in Financial Market (Domestic and Global)
+      •      Indian Financial Market scenario
+2.    Impact of various Policies of Financial Markets
+      •      Credit Policy of RBI
+      •    Fed Policy
+      •     Cost Inflation Index
+      •    Consumer Price Index
+      •     Wholesale Price Index
+3.     Capital Market - Primary
+      •     Basics of Capital Markets
+      •     Segments of Capital Markets
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+vii
+
+      •      Capital Market Instruments
+      •     Aspects of Primary Market – Kinds of Securities, Types of Offer Documents, Issue
+            Requirements, Intermediaries to the Capital Markets, Book Building, Special Purpose
+              Acquisition Companies, Application Supported by Blocked Amount (ASBA), Green
+           Shoe Option, Anchor Investors, Private Placement of Shares, Right Issue, Exit Offers.
+4.     Capital Market - Secondary
+      •      Introduction to Secondary Market
+      •     Development of the Stock Market in India
+      •     Stock Market Organization in India
+      •     Demutualization of Stock Exchanges
+      •     Share Trading in Secondary Market – Trading by a Retail Investor, Algorithmic
+             Trading, Basket Trading
+      •     Stock Market and its Operations – Growth of Stock Exchanges, Characteristics of
+            Stock Exchanges in India, Functions of Stock Exchanges, Basics of Stock Market
+              indices, Index Management: Rebalancing and Reconstitution, Uses of Market Indexes
+      •     Risk Management in Secondary Market – Trading Rules and Regulations, Circuit
+            Breakers  to curb excess  volatility, Trading and Settlement, National  Securities
+             Clearing  Corporation  Limited, Market Making System,  Securities Lending and
+             Borrowing,  Short  Selling,  Straight Through  Processing, Margin  Trading,  Block
+           Mechanism in Demat Account.
+      •     Other aspects of Secondary Market – Buy Back of Shares, Block and Bulk Deals.
+      •      Indian Debt Market
+      •     Emerging Markets – GIFT City, Power Exchange, Energy Exchange, Social Stock
+           Exchange
+5.    Money Market
+      •     Basics of Money Market
+      •    Money Market Participants
+      •    Money Market Instruments
+      •    Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+viii
+
+      •     Determination of Interest Rates – MIBOR, LIBOR, Replacement of LIBOR
+      •    Money Market Instruments – Government Securities (G Sec)
+      •     Recent developments in Money Market
+      •    Repo and Reverse Repo
+      •    Day Count Convention
+6.   Bond Market
+      •      Introduction to Bond Market
+      •     Primary Bond Market vs Secondary Bond Market
+      •     Types of Bond Market
+      •    Bond Market Strategies
+      •    Bond Indices
+      •    Bond Market vs. Stock Market
+7.     Derivative Market
+      •      Introduction to Derivatives
+      •     Forward Contract
+      •     Futures Contract
+      •     Options Contract
+     •     Concept of Swaps
+8.     Institutions and Intermediaries
+      •     Depository
+      •     Stock and Commodity Exchanges – Indian and Global
+      •      Intermediaries in the Capital Markets – Merchant Bankers, Registrars to an issue and
+            Share Transfer Agents, Underwriters, Bankers to an issue, Debenture Trustees,
+               Portfolio Managers, Stockbrokers, and sub-brokers.
+      •      Institutional Investors
+      •     Foreign Portfolio Investors (FPIs)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+ix
+
+      •     Custodians
+      •     Clearing Houses – Indian and Global
+9.    Commodity Market
+      •      Introduction of Commodity Markets
+      •     Role of Commodity Markets
+      •     Commodity Market in India – including warehousing and physical settlement
+      •      Application of Derivative in Commodities
+      •     Global Commodities Exchanges
+10.   Mutual Funds
+      •     Meaning
+      •      Evolution
+      •     Mutual Fund Organization
+      •     Types of Mutual Fund
+      •     Net Asset Value (NAV)
+      •     Performance Measurement
+      •     Advantages and Disadvantages of Mutual Fund
+      •     Factors influencing the selection of Mutual Funds
+      •     Signals highlighting the exit of investors from the Mutual Fund Scheme
+      •    Money Market Mutual Funds
+      •     Exchange Traded Funds (ETFs)
+      •     Real Estate Investment Trusts (ReITs)
+      •      Infrastructure Investment Trusts (Invits)
+      •     Other aspects - Side Pocketing and Tracking Error
+11.    Private Equity
+      •     Meaning of Private Equity
+      •      Classification of Private Equity
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+x
+
+          Venture Capital
+          Buyouts
+          Hurdle rate
+          Paid in Capital
+         Term Sheet
+      •     Cost of Investing in Private Equity
+      •      Exit Routes
+      •     Valuation of Private Equity Transactions
+      •      Private Equity Funds (Distribution of returns in General Partner and Limited Partner)
+      •     Contemporary issues in Private Equity – The rise of patient capital, Ethical Issues
+12.   Investment Banking
+      •     Concept
+      •     Functions
+      •     Challenges
+      •     Developments in Investment Banking
+      •     Merchant Banking and Issue Management
+13.   Credit Rating
+      •      Introduction
+      •     Rating Services
+      •     Objectives and types
+      •    Uses
+      •      Credit Rating Process
+      •      Credit Rating Methodology
+      •     Rating Revisions
+      •      Credit Rating Agencies in India and abroad
+      •      Credit Rating agencies and the US Sub-prime crisis
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+xi
+
+      •      Limitations of Credit Rating
+      •     Contemporary Aspects in Credit Rating
+14.   Leasing
+      •     Meaning, types, advantages, and disadvantages of Leasing
+      •      Financial evaluation of lease proposal from the perspective of Lessee and Lessor
+      •     Break Even Lease Rental (BELR) from Lessee’s and Lessor’s point of view
+      •     Cross Border Leasing
+      •     Regulatory Aspects of Leasing
+15.   Factoring
+      •     Concept, Definition and Mechanism of Factoring
+      •     Types/Forms of Factoring
+      •     Functions of a Factor
+      •      Benefits of Factoring
+      •     Factors inhibiting the growth of Factoring in India
+      •      Forfaiting
+      •      Forfaiting vs Export Factoring
+      •     Regulatory Aspects of Factoring
+16.   SEBI Regulations – Compliances in Capital Markets
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+xii
+               CONTENTS
+
+
+CHAPTER 1 – INTRODUCTION TO FINANCIAL MARKETS
+
+Learning Outcomes ................................................................................................................... 1.1
+Chapter Overview ..................................................................................................................... 1.2
+1.       Introduction to Financial Market ................................................................................... 1.3
+2.      Role of Financial Market in Economic Development of a Country .................................. 1.6
+3.      Stakeholders in Financial Market (Domestic and Global) ............................................. 1.10
+4.       Indian Financial Market Scenario ............................................................................... 1.19
+Test Your Knowledge .............................................................................................................. 1.28
+
+CHAPTER 2 – IMPACT OF VARIOUS POLICIES OF FINANCIAL MARKETS
+
+Learning Outcomes ................................................................................................................... 2.1
+Chapter Overview ..................................................................................................................... 2.2
+1.       Credit Policy of the RBI ................................................................................................ 2.3
+2.     Fed Policy ................................................................................................................... 2.8
+3.      Cost Inflation Index (CII) ............................................................................................ 2.13
+4.     Consumer Price Index (CPI) ....................................................................................... 2.14
+5.      Wholesale Price Index (WPI) ...................................................................................... 2.16
+Test Your Knowledge .............................................................................................................. 2.18
+
+CHAPTER 3 – CAPITAL MARKET - PRIMARY
+
+Learning Outcomes ................................................................................................................... 3.1
+Chapter Overview ..................................................................................................................... 3.2
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+xiii
+
+1.      Basics of Capital Markets ............................................................................................. 3.3
+2.     Segments of Capital Market  ........................................................................................ 3.6
+3.       Capital Market Instruments .......................................................................................... 3.8
+4.      Aspects of Primary Market (New issue Market) ........................................................... 3.14
+Test Your Knowledge .............................................................................................................. 3.47
+
+CHAPTER 4 – CAPITAL MARKET – SECONDARY
+
+Learning Outcomes ................................................................................................................... 4.1
+Chapter Overview ..................................................................................................................... 4.2
+1.       Introduction to Secondary Market ................................................................................. 4.2
+2.      Development of the Stock Market in India ..................................................................... 4.3
+3.      Stock Market Organization in India ............................................................................... 4.5
+4.      Demutualization of Stock Exchanges .......................................................................... 4.10
+5.      Share Trading In Secondary Market ........................................................................... 4.11
+6.      Stock Market and Its Operations ................................................................................ 4.17
+7.      Risk Management In Secondary Market ..................................................................... 4.24
+8.      Other Aspects of Secondary Market ........................................................................... 4.36
+9.       Indian Debt Market  ................................................................................................... 4.43
+10.     Emerging Markets ..................................................................................................... 4.46
+Test Your Knowledge .............................................................................................................. 4.50
+
+CHAPTER 5 – MONEY MARKET
+
+Learning Outcomes ................................................................................................................... 5.1
+Chapter Overview ..................................................................................................................... 5.2
+1.      Basics of Money Market ............................................................................................... 5.4
+2.     Money Market Participants (Institutions) ..................................................................... 5.12
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+xiv
+
+3.     Money Market Instruments ......................................................................................... 5.13
+4.     Cash Reserve Ratio and Statutory Liquidity Ratio ....................................................... 5.33
+5.      Determination of Interest Rates .................................................................................. 5.33
+6.      Recent developments in Money Market ...................................................................... 5.38
+7.      Repurchase Options (Repo.), Reverse Repurchase Agreement (Reverse Repo) and
+       Ready Forward (RF) Contracts ................................................................................... 5.40
+9.     Day Count Convention  .............................................................................................. 5.44
+Test Your Knowledge .............................................................................................................. 5.47
+
+CHAPTER 6 - BOND MARKET
+
+Learning Outcomes ................................................................................................................... 6.1
+Chapter Overview ..................................................................................................................... 6.2
+1.       Introduction to Bond Market ......................................................................................... 6.4
+2.     What is a Bond? .......................................................................................................... 6.7
+3.     What Effect Bond Prices ............................................................................................ 6.15
+4.      Types of Bonds .......................................................................................................... 6.15
+5.      Risks in Bonds .......................................................................................................... 6.19
+6.      Risk Between Bond Price and Interest Rate and Duration of Bond  ............................. 6.21
+7.      Primary Bond Market Vs Secondary Bond Market ....................................................... 6.22
+8.      Types of Bond Markets  ............................................................................................. 6.25
+9.     Bond Market Strategies .............................................................................................. 6.28
+10.    Bond Market Index ..................................................................................................... 6.29
+11.    Bond Market Vs. Stock Market ................................................................................... 6.32
+12.    Bond Ratings ............................................................................................................ 6.33
+Test Your Knowledge .............................................................................................................. 6.37
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+xv
+
+CHAPTER 7 - DERIVATIVE MARKET
+
+Learning Outcomes ................................................................................................................... 7.1
+Chapter Overview ..................................................................................................................... 7.2
+1.       Introduction to Derivatives ............................................................................................ 7.4
+2.      Explanation of Important Terms Used In Derivatives .................................................... 7.7
+3.       Difference Between Forward and Futures ................................................................... 7.10
+4.       Difference Between Equity and Futures Contracts ...................................................... 7.11
+5.      Types of Derivatives .................................................................................................. 7.11
+Test Your Knowledge .............................................................................................................. 7.42
+
+CHAPTER 8 – INSTITUTIONS AND INTERMEDIARIES
+
+Learning Outcomes ................................................................................................................... 8.1
+Chapter Overview ..................................................................................................................... 8.2
+1.      Depository  .................................................................................................................. 8.3
+2.      Stock and Commodity Exchanges – Indian and Global.................................................. 8.5
+3.       Intermediaries in the Capital Markets ......................................................................... 8.13
+4.        Institutional Investors ................................................................................................. 8.18
+5.      Foreign Portfolio Investors (FPIs) .............................................................................. 8.20
+6.      Custodians  ............................................................................................................... 8.23
+7.      Clearing Houses ....................................................................................................... 8.24
+Test Your Knowledge .............................................................................................................. 8.25
+
+CHAPTER 9 – COMMODITY MARKET
+
+Learning Outcomes ................................................................................................................... 9.1
+Chapter Overview ..................................................................................................................... 9.2
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+xvi
+
+1.       Introduction ................................................................................................................. 9.3
+2.      Role of Commodity Markets ......................................................................................... 9.3
+3.     Commodity Market in India – including warehousing and physical settlement ................ 9.4
+4.       Application of Derivative in Commodities ...................................................................... 9.7
+5.      Global Commodities Exchanges ................................................................................. 9.10
+Test Your Knowledge .............................................................................................................. 9.14
+
+CHAPTER 10 – MUTUAL FUNDS
+
+Learning Outcomes ................................................................................................................. 10.1
+Chapter Overview ................................................................................................................... 10.2
+1.      Meaning .................................................................................................................... 10.4
+2.       Evolution ................................................................................................................... 10.5
+3.      Types of Mutual Fund .............................................................................................. 10.10
+4.       Direct Plan and Regular Plan  .................................................................................. 10.23
+5.      Explanation of Important Terms Used In Mutual Funds  ............................................ 10.24
+6.      Net Asset Value (NAV) ............................................................................................ 10.27
+7.       Indicative Net Asset Value  ...................................................................................... 10.29
+8.      Performance Measurement ...................................................................................... 10.30
+9.      Advantages and Disadvantages of Mutual Fund ....................................................... 10.38
+10.     Factors Influencing The Selection of Mutual Funds  .................................................. 10.40
+11.     Signals Highlighting The Exit of The Investor From The Mutual Fund Scheme .......... 10.41
+12.    Money Market Mutual Funds (MMMFS) .................................................................... 10.42
+13.     Separation of Distribution And Advisory Functions In The Mutual Fund Industry  ....... 10.42
+14.    Exchange Traded Funds (ETFS)  ............................................................................. 10.43
+15.     Side Pocketing ........................................................................................................ 10.45
+16      Tracking Error ......................................................................................................... 10.47
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+xvii
+
+17.     Real Estate Investment Trusts (REITs) ..................................................................... 10.50
+18.      Infrastructure Investment Trusts (INVITS) ................................................................ 10.53
+Test Your Knowledge ............................................................................................................ 10.56
+
+CHAPTER 11 – PRIVATE EQUITY
+
+Learning Outcomes ................................................................................................................. 11.1
+Chapter Overview ................................................................................................................... 11.2
+1.      Meaning of Private Equity  ......................................................................................... 11.3
+2.       Classification of Private Equity ................................................................................... 11.3
+2.1     Venture Capital .......................................................................................................... 11.3
+2.2     Buyouts for a PE ....................................................................................................... 11.9
+2.3     Hurdle rate .............................................................................................................. 11.10
+2.4     Paid in Capital ......................................................................................................... 11.10
+2.5    Term Sheet .............................................................................................................. 11.10
+3.      Cost of Investing in Private Equity ............................................................................ 11.12
+4.       Exit Routes .............................................................................................................. 11.12
+5.      Valuation of Private Equity Transactions................................................................... 11.13
+6.       Private Equity Funds (Distribution of returns in General
+        Partner and Limited Partners)  ................................................................................. 11.14
+Test Your Knowledge ............................................................................................................ 11.16
+
+CHAPTER 12 – INVESTMENT BANKING
+
+Learning Outcomes ................................................................................................................. 12.1
+Chapter Overview ................................................................................................................... 12.2
+1.      Concept of Investment Banking .................................................................................. 12.3
+2.      Functions of an Investment Bank ................................................................................ 12.9
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+xviii
+
+3.      Challenges in Investment Banking ............................................................................ 12.13
+4.      Developments in Investment Banking ....................................................................... 12.14
+5.      Merchant Banking and Issue Management ............................................................... 12.15
+Test Your Knowledge ............................................................................................................ 12.20
+
+CHAPTER 13 – CREDIT RATING
+
+Learning Outcomes ................................................................................................................. 13.1
+Chapter Overview ................................................................................................................... 13.2
+1.     What is a Credit Rating ? ........................................................................................... 13.3
+2.      Rating Services / Types of Credit Rating .................................................................... 13.3
+3.      Objectives and Credit Rating ...................................................................................... 13.5
+4.     Uses of Credit Rating ................................................................................................. 13.6
+5.       Credit Rating Process ................................................................................................ 13.6
+6.       Credit Rating Methodologies ...................................................................................... 13.9
+7.     Camel Model in Credit Rating ................................................................................... 13.13
+8.      Rating Revisions ..................................................................................................... 13.14
+9.       Credit Rating Agencies in India ................................................................................ 13.16
+10.     Credit Rating Agencies Abroad ................................................................................ 13.17
+11.     Credit Rating Agencies and The Use-Prime Crises  .................................................. 13.18
+12.      Limitation of Credit Rating ....................................................................................... 13.19
+13.     Contemporary Aspect in Credit Rating ...................................................................... 13.20
+Test Your Knowledge ............................................................................................................ 13.21
+
+CHAPTER 14 – LEASING
+
+Learning Outcomes ................................................................................................................. 14.1
+Chapter Overview ................................................................................................................... 14.2
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+xix
+
+1.      Leasing  .................................................................................................................... 14.3
+2.      Types of Leasing ....................................................................................................... 14.3
+3.    Advantages……………………………………………………………………………………..... 14.5
+3.      Disadvantages ........................................................................................................... 14.6
+5.      Evaluation of Lease  .................................................................................................. 14.6
+6.      Break Even lease Rental (BELR) .............................................................................. 14.14
+7.      Cross-Border Leasing .............................................................................................. 14.16
+8.      Regulatory Aspects of Leasing ................................................................................. 14.19
+Test Your Knowledge ............................................................................................................ 14.20
+
+CHAPTER 15 – FACTORING
+
+Learning Outcomes ................................................................................................................. 15.1
+Chapter Overview ................................................................................................................... 15.2
+1.       Introduction to Factoring ............................................................................................ 15.3
+2.       Definition and Mechanism .......................................................................................... 15.3
+3.      Types/Forms of Factoring .......................................................................................... 15.6
+4.      Functions of a Factor ................................................................................................. 15.7
+5.       Benefits of Factoring .................................................................................................. 15.8
+6.      Factors inhibiting the growth of Factoring in India ....................................................... 15.8
+7.       Forfaiting ................................................................................................................... 15.9
+8.     Some Illustrations in Factoring ................................................................................. 15.10
+9.      Regulatory Aspects of Factoring ............................................................................... 15.12
+Test Your Knowledge ............................................................................................................ 15.14
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+xx
+
+CHAPTER 16 - SEBI REGULATIONS – COMPLIANCES IN CAPITAL MARKETS
+
+Learning Outcomes ................................................................................................................. 16.1
+Chapter Overview ................................................................................................................... 16.2
+1.     SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018 .................... 16.2
+2.     SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 .............. 16.11
+3.     SEBI (Substantial Acquisition of Shares and Takeover) Regulations, 2011 ................ 16.19
+4.     SEBI (Buy-back of Securities) Regulations, 2018 ...................................................... 16.33
+5.     SEBI [Prohibition Of Insider Trading (PIT)] Regulations, 2015 ................................... 16.45
+Test Your Knowledge ............................................................................................................ 16.57
+
+
+© The Institute of Chartered Accountants of India

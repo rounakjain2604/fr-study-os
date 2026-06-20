@@ -1,0 +1,882 @@
+Source PDF: 07_SPOM/Set_C_09_Financial_Services_Capital_Markets/014 - CHAPTER 13- CREDIT RATING - 79365bos63450-cp13.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_09_Financial_Services_Capital_Markets\014 - CHAPTER 13- CREDIT RATING - 79365bos63450-cp13.pdf
+Extracted at: 2026-05-31T10:34:46+05:30
+Pages: 23
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER         13
+
+
+CREDIT RATING
+
+
+                          LEARNING OUTCOMES
+
+After going through the chapter student shall be able to understand:
+   Introduction
+   Rating Services
+   Objectives and types
+   Uses of Credit Rating
+   Credit Rating Process
+   Credit Rating Methodology
+   Camel Model of Credit Rating
+   Rating Revisions
+   Credit Rating Agencies in India and abroad
+   Credit Rating Agencies and the US sub-prime crisis
+   Limitations of Credit Rating Agencies
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+1.213.2          FINANCIAL SERVICES AND CAPITAL MARKETS
+     13.2
+CHAPTER OVERVIEW
+
+
+                          Introduction
+
+                      Rating Services
+
+                    Objectives and types
+                                             For Investors
+                Uses of Credit Rating                                 Strategic Risk
+                                              For Issuers
+                     Credit rating Process                          Complaince Risk
+                                           Business Risk
+                                                                     Operational Risk
+
+                                                                     Reputational Risk
+
+                                                               Counter Party Risk
+                 rating          Credit Rating                                           Political Risk
+                     Methodologies
+                 Credit                                   Financial Risk         Interest Rate Risk
+
+                     Rating Revisions                                      Management          Currency Risk
+                                                 Evaluation
+                                                                  Accounting Risk                    Credit Rating Agencies        Business
+                         in India and Abroad        Environment
+                                                  Analysis
+                    Credit Rating Agencies
+                and the US Sub-Prime
+                           Crises
+
+                       Limitation of Credit
+                      Rating Agencies
+
+                 Contemporary Aspects
+                           in Credit Rating
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+13.3                                 CREDIT RATING   1.3
+
+     1. WHAT IS CREDIT RATING?
+A credit rating represents the rating agency's opinion on the instrument issued by the issuer company
+and the likelihood of default on the principal and the interest payment. A simple alphanumeric symbol
+is normally used to convey a credit rating. However, one should keep in mind that credit ratings do
+not guarantee the performance of the Company/Instrument. It is only an opinion expressed and may
+not be taken as any kind of assurance.
+Thus, Credit rating is:
+•     Not an Insurance Against Default
+•    No Judgment on General Performance or Market Value
+•     Usually assigned to Debt Instruments, Not to Equity
+•     Important Input, but not the only Basis for Investment Decisions
+•    Dynamic and Subject to Change
+•      Different Rating Scales for Different Contexts
+Such opinions are relevant to investors due to the increase in the number of issues and in the
+presence of newer financial products viz. asset backed securities and credit derivatives.
+Credit Rating does not in any way linked with:
+(1)    Performance Evaluation of the rated entity unless called for.
+(2)    Investment Recommendation by the rating agency to invest or not in the instrument to be rated.
+(3)    Legal Compliance by the issuer-entity through audit.
+(4)    Opinion on the holding company, subsidiaries, or associates of the issuer entity.
+It should be noted that rating is a continuous process and as new information come, an earlier rating
+can be revised. While the rating is usually instrument specific, certain credit rating agencies like
+CARE, undertake credit assessment of borrowers for use by banks and financial institutions.
+
+     2. RATING SERVICES/ TYPES OF CREDIT RATINGS
+Following rating services are generally provided by the credit rating agencies. For this purpose, the
+example of Credit Rating information Services of India Limited (CRISIL) has been taken:
+(i)    Corporate sector Ratings
+Companies willing to launch Debt instruments in the market or those wanting to establish a good
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+1.413.4          FINANCIAL SERVICES AND CAPITAL MARKETS
+     13.4
+public image may undergo for such ratings. CRISIL follows a three-pronged approach to arrive at
+the standalone credit rating of a firm, comprising evaluation of Business Risk, Management Risk
+and Financial Risk. Also, the support obtained from a parent, group or  joint venture  is also
+considered to arrive at the overall credit rating.
+(ii)   Financial sector Ratings
+These services assess financial institutions like Banks, NBFC’s, Housing Finance companies,
+securities firms, etc. that are planning to issue instruments like bonds, bank loan instruments,
+Certificate of Deposits in the market. CRISIL ratings uses the ‘CRAMEL’ framework to rate finance
+companies which entails assessment on six major parameters such as capital, resource raising
+ability, asset quality, management, earnings, and liquidity.
+(iii)   Structured Finance
+Structured Finance is a financial instrument available to companies with complex financing needs,
+which cannot ordinarily be solved with conventional financing. Collateralized debt obligations
+(CDO’s), synthetic financial instruments, collateralized bond obligations, syndicated loans are a few
+examples of structured finance instruments. Credit ratings by CRISIL seek to ensure that the ratings
+assigned factor in all the key risks that the investors are exposed to in these transactions and
+specifically capture the nuances of the underlying asset class.
+(iv)   Credit Quality Ratings
+The ratings indicate opinion on the credit quality of the debt securities held by a Debt fund. The
+ratings express an opinion on the expected default probability of the debt securities that the funds
+hold. These ratings are assigned only to funds that invest entirely in debt.
+(v)   Recovery Risk Rating
+Recovery risk ratings indicate the variability in the extent of a recovery from a loan, post default. The
+ratings give insight into the potential loss in case of default. The key drivers for analysis are collateral
+coverage, quality of assets and seniority of the instrument.
+(vi)  Expected Loss (EL) ratings
+CRISIL, in consultation with Ministry of Finance and other stakeholders have developed a credit
+rating framework for operational infrastructure projects based on ‘expected loss methodology’. The
+ratings assigned are an opinion on the expected loss to be incurred over the  life of the debt
+instrument and consider not only the probability of default, but post default recoveries too. The
+ratings are assigned on an innovative seven point EL rating scale from EL1 to EL7, with EL1
+representing the lowest expected loss.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+13.5                                 CREDIT RATING   1.5
+
+(vii)  Insurance Hybrids
+The Insurance Regulatory and Development Authority (IRDA) has allowed insurance companies to
+raise non-equity form of capital such as subordinated debt or preference shares. Rating methodology
+adopted by CRISIL for such hybrid instruments considers the credit profile of the insurers through
+corporate credit ratings, and factors in additional risks that these instruments carry on account of
+restriction on debt servicing. CRISIL uses criteria’s such as Industry Risk and Business Risk across
+segments, Financials, Risk Management Systems, Goals and Strategies, Parental Support.
+(viii) Independent Credit Evaluation
+CRISIL conducts independent evaluations  of the residual debt  for resolution plans involving
+restructuring or changes in ownership of large accounts (accounts where the aggregate exposure of
+the lender is Rs1 billion and above). In fact, RBI notification dated August 6, 2020, has mandated
+ICE for resolution plans to deal with COVID-19 related stress. For a resolution plan to be considered
+for implementation without reference to NCLT, RBI guidelines require a minimum credit score.
+(ix)  REITS/INVITS Ratings
+Real Estate Investment Trusts (REITs) and Infrastructure Investment Trusts (InvITs) are innovative
+vehicles that allow developers to monetise revenue generating real estate and infrastructure assets, while
+allowing investors/unit holders to invest in these assets without owning them. REITs and InvITs enjoy
+favourable tax treatments and relaxation in capital gains tax. CRISIL has developed specific criteria for
+rating that focus on quality of the underlying asset portfolio and cash flows, and considers leverage,
+experience of the investment manager, risk management policies, etc.       (Source: www.crisil.com)
+
+     3. OBJECTIVES OF CREDIT RATING
+(i)    Rating debt obligations of companies.
+(ii)    Guiding investors regarding the risk of investment in a debt security as to timely repayment
+       of interest obligations and principal amount.
+(iii)    Creating awareness of the concept of credit rating amongst corporations, merchant bankers,
+       brokers, and regulatory authorities.
+(iv)      It helps in the creation of an environment that facilitates debt rating.
+(v)    Inculcating a positive environment regarding investment in debt securities.
+(vi)   Helps in creating confidence in the minds of investors.
+(vii)   Enable the companies to be quality conscious regarding their securities and create a positive
+      pressure on them to fulfill their debt obligations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+1.613.6          FINANCIAL SERVICES AND CAPITAL MARKETS
+     13.6
+     4. USES OF CREDIT RATING
+For Investors –
+(i)    Aids in investment decisions.
+(ii)   CRA’s shall observe a high standard of integrity and provide credible information about the
+      company/instrument.
+(iii)   Provides analysts in Mutual Funds to use credit ratings as one of the valuable inputs to their
+      independent evaluation system.
+(iv)    Assists investors to compare a wide variety of alternative instruments.
+(v)    Saving in time and cost as the investor need not carry out an in-depth analysis.
+For issuers –
+(i)    Requirement of meeting regulatory obligations as per SEBI guidelines.
+(ii)    Recognition given by prospective investors of providing value to the ratings which helps them
+       to raise debt / equity capital.
+(iii)   A highly rated instrument can raise funds at lower rates of interest.
+(iv)    Better credit rating motivates the issuers and encourages them to maintain their image
+      thereby resulting in Goodwill enhancement.
+(v)    Most companies use ratings as a marketing tool.
+The rating process gives a viable market driven system which helps individuals to invest in financial
+instruments which are productive assets.
+
+     5. CREDIT RATING PROCESS
+The default-risk assessment and quality rating assigned to an issue are primarily determined by
+three factors:
+(i)    The issuer's ability to pay,
+(ii)   The strength of the security owner's claim on the issue, and
+(iii)   The economic significance of the industry and marketplace of the issuer.
+The steps involved are:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+13.7                                 CREDIT RATING   1.7
+
+
+                                                                    (Source: www.crisil.com)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+1.813.8          FINANCIAL SERVICES AND CAPITAL MARKETS
+     13.8
+a)    Request from issuer and analysis – A company approaches a rating agency for rating a
+       specific security. A team of analysts interact with the company’s management and gather
+      necessary information. Areas covered are  historical performance, competitive position,
+      business risk profile, business strategies, financial policies, and short/long term outlook of
+      performance. Also factors such as the industry in which the issuer operates, its competitors
+      and markets are taken into consideration.
+b)    Rating Committee – On the basis of information obtained and assessment made, the team
+       of analysts present a report to the Rating Committee. The issuer is not allowed to participate
+        in this process as  it is an internal evaluation of the rating agency. The nature of credit
+       evaluation depends on the type of information provided by the issuer.
+c)    Communication to management and appeal – The Rating decision is communicated to the
+       issuer and then supporting the rating is shared with the issuer. If the issuer disagrees, an
+       opportunity of being heard is given to him. Issuers appealing against a rating decision are
+      asked to submit relevant material information. The Rating Committee reviews the decision
+      although such a review may not alter the rating. The issuer may reject a rating and the rating
+      score need not be disclosed to the public.
+d)    Pronouncement of the rating – If the rating decision is accepted by the issuer, the rating
+      agency makes a public announcement of it.
+e)    Monitoring of the assigned rating – The rating agencies monitor the on-going performance
+       of the issuer and the economic environment in which it operates. All ratings are placed under
+      constant watch. In cases where no change in rating is required, the rating agencies carry out
+      an annual review with the issuer for updating of the information provided.
+f)     Rating Watch – Based on the constant scrutiny carried out by the agency,  it may place a
+       rated instrument on Rating Watch. The rating may change for the better or for the worse.
+      Rating Watch is followed by a full-scale review for confirming or changing the original rating.
+g)    Rating Coverage – Ratings are not limited to specific instruments. They also include public
+         utilities; financial institutions; transport; infrastructure and energy projects; Special Purpose
+       Vehicles; domestic subsidiaries of foreign entities. Structured ratings are given to MNCs
+      based on guarantees or Letters of Comfort and Standby Letters of Credit issued by the banks.
+     The rating agencies have also launched Corporate Governance Ratings with emphasis on
+       quality of disclosure standards and the extent to which regulatory obligations have been
+      complied with.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+13.9                                 CREDIT RATING   1.9
+
+h)    Rating Scores – A comparative summary of Rating Score used by four rating agencies in
+       India is given below.
+                           Sample of Rating Scores
+
+      Debentures          CRISIL       ICRA       CARE        FITCH
+       Highest Safety       AAA        LAAA     CARE AAA (L)   AAA (ind)
+       High Safety         AA         LAA      CARE AA (L)    AA (ind)
+      Adequate Safety      A          LA       CARE A (L)     A (ind)
+      Moderate Safety      BBB        LBBB     CARE BBB (L)   BBB (ind)
+       Inadequate Safety    BB         LBB      CARE BB (L)    BB (ind)
+       High Risk           B          LB       CARE B (L)     B (ind)
+        Substantial Risk      C          LC       CARE C (L)     C (ind)
+       Default           D          LD       CARE D (L)     D (ind)
+       Fixed Deposits
+       Highest Safety       FAAA      MAAA    CARE AAA     TAAA
+       High Safety         FAA       MAA     CARE AA       TAA
+      Adequate Safety      FA        MA      CARE A        TA
+      Note: Ratings may apply modifiers (“+” (plus)/ ‘’-  ‘’ (minus)) with the rating symbols. The
+       modifiers reflect the comparative standing within the category.
+
+     6. CREDIT RATING METHODOLOGIES
+The general methodology adopted by credit rating companies is to analyze various aspects of a
+business. They are briefly discussed as below:
+(i)   BUSINESS RISK
+Business risk occurs when there is a possibility of a company earning lower profits than anticipated
+or incurring a loss. Business risk can be segregated into four categories - Strategic risk, compliance
+risk, operational risk, and reputational risk. We have briefly discussed each one as follows:
+(a)   Strategic Risk: A successful business always needs a comprehensive and detailed
+business plan. Everyone knows that a successful business needs a comprehensive, well-thought-
+out business plan. But it’s also a fact of life that,  if things change, even the best-laid plans can
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+13.101.10          FINANCIAL SERVICES AND CAPITAL MARKETS
+     13.10
+become outdated if it cannot keep pace with the latest trends. This is what is called a strategic risk.
+So, strategic risk is a risk in which a company’s strategy becomes less effective and it struggles to
+achieve its goal. It could be due to technological changes, a new competitor entering the market,
+shifts in customer demand, an increase in the costs of raw materials, or any number of other large-
+scale changes.
+We can take the example of Kodak which was able to develop a digital camera by 1975. But  it
+considers this innovation as a threat to its core business model and failed to develop it. However, it
+paid the price because when digital camera was ultimately discovered by other companies, it failed
+to develop it and left behind. A similar example can be given in the case of Nokia when it failed to
+upgrade its technology to develop touch screen mobile phones. That delay enabled Samsung to
+become a market leader in touch screen mobile phones.
+However, a positive example can be given in the case of Xerox, which invented the photocopy
+machine. When laser printing was developed, Xerox was quick to lap up this opportunity and
+changed its business model to develop laser printing. Therefore,  it survived the strategic risk and
+escalated its profits further.
+(b)   Compliance Risk: Every business needs to comply with rules and regulations. For
+example, with the advent of Companies Act, 2013, and continuous updating of SEBI guidelines,
+each business organization must comply with plethora  of  rules, regulations and guidelines.
+Noncompliance leads to penalties in the form of fine and imprisonment.
+ However, when a company ventures into a new business line or a new geographical area, a real
+problem then occurs. For example, a company pursuing cement business is likely to venture into
+sugar business in a different state. But the laws applicable to the sugar mills in that state are
+different. So, that poses a compliance risk. If the company fails to comply with laws related to a new
+area or industry or sector, it will pose a serious threat to its survival.
+(c)   Operational Risk: This type of risk relates to internal risk. It also relates to the failure on
+the part of the company to cope with day-to-day operational problems. Operational risk relates to
+‘people’ as well as ‘process’. We will take an example to illustrate this. For example, an employee
+paying out ` 1,00,000 from the account of the company instead of ` 10,000.
+The operational efficiency of the company can enable it to avail better ratings from the Credit rating
+agencies. Locational advantages, Relationship with labour, Favorable cost structure or advanced
+manufacturing technologies compared to competitors may act in the favor of the company and will
+enable the company to earn better ratings.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+13.11                                 CREDIT RATING  1.11
+
+(d)   Reputational Risk: Reputational impact mostly follows a decision under business risk. For
+example, closing of project in a country on the ground of viability, (which General Motors has done
+in India) creates a bad reputation for the company. In the above case,  it was observed that
+employees have reacted negatively to the decision and started feeling insecure.
+On the other hand, adding related products down the line adds customer confidence and boost
+investor’s confidence. For example, several Indian banks have embarked on opening e-trading
+account. This has added to the reputation and market confidence.
+(ii)   FINANCIAL RISK
+Financial Risk is referred to as the unexpected changes in financial conditions such as prices,
+exchange rate, Credit rating, and interest rate etc. Though political risk is not a financial risk in the
+direct sense, but it actually is as any unexpected political change in any foreign country may lead to
+country risk which may ultimately result in financial loss.
+Accordingly, the Financial Risk can be broadly divided into following categories:
+(a)    Counter Party Risk
+(b)     Political Risk
+(c)     Interest Rate Risk
+(d)    Currency Risk
+(e)    Accounting Risk
+Now, let us discuss each of the above-mentioned risks:
+(a)   Counter Party Risk: This risk occurs due to non-honoring of obligations by the counter party
+which can be failure to deliver the goods for the payment already made or vice-versa or repayment
+of borrowings and interest etc.
+Thus, this risk also covers the credit risk i.e. default by the counter party.
+(b)    Political Risk: Generally, this type of risk is faced by overseas investors, as the adverse
+action by the government of the host country may lead to huge losses. This can be on any of the
+following forms:
+•     Confiscation or destruction of overseas properties.
+•     Rationing of remittance to home country.
+•      Restriction on conversion of local currency of host country into foreign currency.
+•      Restriction on borrowings.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+13.121.12          FINANCIAL SERVICES AND CAPITAL MARKETS
+     13.12
+•      Invalidation of Patents
+•      Price control of products
+(c)    Interest Rate Risk: This risk occurs due to a change in interest rate resulting in a change in
+assets and liabilities. This risk is more important for banking companies as their balance sheets are
+more interest sensitive and their base of earnings is spread between borrowing and lending rates.
+As we know, the interest rates are of two types i.e. fixed and floating. The risk in both types is
+inherent. If any company has borrowed money at floating rate, then with increase in floating rate,
+the liability under fixed rate shall remain the same. On the other hand, with falling floating rate, the
+liability of the company to pay interest under fixed rate shall comparatively be higher.
+(d)   Currency Risk: This risk mainly affects the organization dealing with foreign exchange as
+their cash flows changes with the movement in the currency exchange rates. This risk can affect the
+cash flow adversely or favorably. For example, if the rupee depreciates vis-à-vis US$, receivables
+will stand to gain in comparison to the importer who has the liability to pay bill in US$. The best case
+we can quote, Infosys (Exporter) and Indian Oil Corporation Ltd. (Importer).
+(e)   Accounting Risk: For any evaluator, it is very important that the financial records are written
+as per the acceptable policies and standards. Any deviations from the standard should be highlighted
+or may result in evaluators reaching to wrong conclusions. Thus, Overstatement/understatement of
+profits, auditors’ qualifications, methods of income recognition, off balance sheet liabilities, etc. can
+affect the credit ratings of a company.
+(iii)  MANAGEMENT EVALUATION
+To evaluate the management of a company, the best way is to see the company’s Management
+Discussion and Analysis (MD&A) Report which every listed company is compulsory required to
+provide. In the case of unlisted companies also, the credit rating companies can influence the
+companies to include MD&A in their Annual Report.
+Actually, MD&A is the section of a company's annual report in which management provides a
+summary  of  the  previous  year’s  operations and how  the company  performed  financially.
+Management also gives an outline for the next year by highlighting the future and some briefs about
+the new projects to be launched by the company. Also, track record of managerial planning and
+control system, depth of managerial  talent, succession plans, capacity to overcome adverse
+situations, philosophy and strategies of the management affects the credit rating.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+13.13                                 CREDIT RATING  1.13
+
+(iv)  BUSINESS ENVIRONMENT ANALYSIS
+A business environment analysis includes examining factors which influence from outside of a
+business. These business environment factors can range from new laws such as Companies Act,
+2013; new trends i.e. the latest trends to shop online; and new technology, for instance battery cars
+which in future can be charged on road itself without the even the need to stop the car. The credit
+rating agencies would not only consider the factors influencing the specific industry but also consider
+the macro-economic factors which affect the economy. For e.g.: Likely recession in economy,
+constant inflation, etc. and would evaluate the impact of the same on the concerned business. After
+that strategies will be developed to ward off any negative impact that has arisen.
+
+     7. CAMELS MODEL IN CREDIT RATING
+CAMELS is a recognised international rating system that bank supervisory authorities use to rate
+financial institutions according to six factors represented by its acronym: Capital adequacy, Asset
+quality, Management, Earnings and Liquidity and Sensitivity. The CAMELS model adopted by the
+Rating Agencies deserves special attention; it focuses on the following aspects:
+
+                                    Management
+                                                 Quality
+                           Asset                             Earnings
+                             Quality                                 Quality
+
+               CAMEL
+                         Capital              MODEL            Liquidity                   Adequacy
+
+
+                               Technology         People
+
+1)    Capital adequacy – It includes assessing institutions capital adequacy through capital trend
+       analysis. Examiners also check if institutions comply with regulations pertaining to risk-based
+       net-worth requirements. To get a higher rating an institution must comply with interest and
+       dividend rules and practices.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+13.141.14          FINANCIAL SERVICES AND CAPITAL MARKETS
+     13.14
+2)    Asset quality –  It covers an institutional loan’s quality, which reflects the earnings of the
+        institution. Examiners also check how companies are affected by the fair market value of their
+      investments when compared with bank’s book value of investments  It also includes size,
+       ageing, and recoverability of monetary assets viz receivables and its linkage with turnover.
+3)   Management – It includes the extent of involvement of management personnel, teamwork,
+       authority, timeliness, effectiveness, and appropriateness of decision making along with
+       directing management to achieve corporate goals. Management assessment determines
+      whether an institution can react properly to financial stress.
+4)    Earnings – A bank’s ability to produce earnings to be able to sustain its activities, expand
+      and remain competitive. Examiners determine  this by assessing the bank’s earnings,
+      earnings growth, stability, net margins, net worth level.
+5)     Liquidity – It includes effectiveness of working capital management, corporate policies for
+       stock and creditors, management, and the ability of the corporate to meet their commitment
+        in the short run.
+6)     Sensitivity – Sensitivity covers how particular risk exposures can affect institutions. Thus,
+      examiners verify the vulnerability of the institution to internal and external factors.
+These six aspects form the core basis for estimating credit worthiness of an issuer which leads to
+the rating of an instrument. Rating agencies determine the pre-dominance of positive /negative
+aspects under each of these categories and these are factored in for making the overall rating
+decision.
+
+     8. RATING REVISIONS
+Credit Rating is an opinion expressed by a credit rating agency at a given point of time based on the
+information provided by the company and collected by  credit rating agencies. However, the
+information collected from the company at the time of giving credit rating to it is amenable to change.
+Therefore, revision of credit rating is required.
+To protect the interest of investors, SEBI has mandated that every credit rating agency shall, during
+the lifetime of the securities rated by it, continuously monitor the rating of such securities, and carry
+out periodic reviews of all published ratings.
+Moreover, India Ratings & Research (A Fitch Group Company) continuously monitors the ratings
+assigned to a particular instrument. In case of any changes in the ratings so assigned, India Ratings
+discloses the same through press releases and on its websites.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+13.15                                 CREDIT RATING  1.15
+
+For instance, CRISIL has updated long term credit rating of Sterlite Technologies Limited to ‘CRISIL
+AA-/Stable from CRISIL A+/Watch Developing’ and also its short term credit rating have been
+upgraded to CRISIL A1+ from CRISIL A1/Watch Developing. Additionally, CRISIL has removed its
+rating on bank loan facilities and debt instruments of the company from ‘Watch with Developing
+Implications’ and it has also withdrawn its rating on ‘bonds’ at the Company’s request, as there is no
+amount outstanding against the said instrument.
+(a)    Default rates: Default rates is the number of defaults among rated firms during a specific
+      time period, expressed as percentage of the total number of the firms with outstanding ratings.
+       Default ratings are calculated under each category and over multiple periods. Credit ratings
+      are opinions on the risk of default. Thus, higher the rating, lower should be the probability of
+       the default. An inverse correlation between credit ratings and default probability, called as
+       the test of ordinality,  is desirable for credit rating agencies. The following table shows
+      Cumulative Default Rates (CDRs) of CRISIL:
+              Table: Average CDRs for long-term ratings – monthly static pools
+       One-two-and three-year CDRs (FY11-21)
+       Rating category      Issuer-months     One-year       Two-year    Three-year
+       CRISIL AAA                  13,149       0.00%         0.00%        0.00%
+       CRISIL AA                   33,357       0.03%         0.11%        0.22%
+       CRISIL A                    63,679       0.16%         0.72%        1.39%
+       CRISIL BBB                 1,95,414       0.75%         2.06%        3.62%
+       CRISIL BB                  3,18,637       3.50%         7.43%       11.31%
+       CRISIL B                    2,72,105       8.41%        16.90%       24.03%
+       CRISIL C                      8,306      20.83%        34.89%       45.24%
+        Total                        9,04,647
+                                                                                         (Source: CRISIL Ratings)
+(b)    Transition rates: These rates indicate the number of instances when credit ratings among
+       rated firms have changed over a specified period, expressed as a percentage of the total
+     number of firms with outstanding ratings. It is important that the ratings remain stable over
+       the life of the instrument and thereby enable investors to hold on to instruments invested into
+        for longer periods.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+13.161.16          FINANCIAL SERVICES AND CAPITAL MARKETS
+     13.16
+Table: Average one-year transition rates for long-term ratings (FY11-21) – monthly static pools
+  Rating category    Issuer-     CRISIL   CRISIL   CRISIL   CRISIL    CRISIL   CRISIL   CRISIL   CRISIL
+                 months     AAA     AA      A    BBB      BB      B      C      D
+  CRISIL AAA       13,149    98.60%   1.40%   0.00%   0.00%    0.00%   0.00%   0.00%   0.00%
+  CRISIL AA         33,357     1.30%  96.28%   2.26%   0.12%    0.01%   0.00%   0.00%   0.03%
+  CRISIL A          63,679     0.02%   2.68%  92.56%   4.31%    0.22%   0.03%   0.03%   0.16%
+  CRISIL BBB      1,95,414     0.00%   0.05%   2.46%  90.90%    5.57%   0.19%   0.07%   0.75%
+  CRISIL BB       3,18,637     0.00%   0.00%   0.01%   3.73%   88.76%   3.78%   0.23%   3.50%
+  CRISIL B        2,72,105     0.00%   0.00%   0.00%   0.04%    8.03%  83.07%   0.45%   8.41%
+  CRISIL C           8,306     0.00%   0.00%   0.01%   0.00%    1.32%  19.40%  58.44%  20.83%
+  Total            9,04,647
+Source: CRISIL Ratings
+The highlighted diagonals indicate the stability rate under each rating category. Between fiscals
+2011 and 2021, 96.28% of ‘CRISIL AA’ ratings remained in that category, 1.3% were upgraded to
+‘CRISIL AAA’ and 2.4% were downgraded to lower categories.
+
+     9. CREDIT RATING AGENCIES IN INDIA
+Around 1990, Credit Rating Agencies started to be set up in India.
+
+
+Among them, the most important ones are:
+1)    Credit Rating Information Services of India Ltd. (CRISIL) – Launched in the pre-reforms
+       era, CRISIL has grown in size and strength over the years to become one of the top five
+       globally rated agencies. It has been India’s leading rating agency with over 60% share of the
+       Indian Rating market. It has a tie up with Standard and Poor’s (S & P) of USA holding 10%
+      stake in CRISIL. It has also set up CRIS – RISC a subsidiary for providing information and
+       related services over the internet and runs an online news and information service. CRISIL’s
+      record of ratings covers 1800 companies and over 3600 specific instruments.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+13.17                                 CREDIT RATING  1.17
+
+2)    Investment Information and Credit Rating Agency (ICRA) –  It began its operations in
+      1991. Its major shareholders are leading financial institutions and banks. Moody’s Investor
+      Services through their Indian subsidiary, Moody’s Investment Company India (P) Ltd. is the
+       single largest shareholder. ICRA covers over 2500 instruments.
+3)    Credit Analysis and Research Ltd. (CARE) –  It was established in 1993. UTI, IDBI and
+      Canara Bank are the major promoters. CARE has over 2500 instruments under its belt and
+      occupies a pivotal position as a rating entity.
+4)    Fitch Ratings India (P) Ltd. – The Fitch Group, an internationally recognized statistical rating
+      agency has established its base in India through Fitch Rating India (P) Ltd. as a 100%
+       subsidiary of the parent organization. Its credit rating applies to a variety of corporates  /
+      issues and  is not limited  to governments, structured financial arrangements and debt
+       instruments.
+5)    Onida Individual Credit Rating agency (ONICRA) – It is India’s first individual credit rating
+      company, established in 1993. There was a dearth of individual credit rating firms in India.
+     ONICRA helps the lending institutions by providing credit ratings for individual customers or
+      loan applicants. Various services offered include Credit rating, employee screening, customer
+        verification, SSI/SME rating, banking information service.
+All the agencies as discussed are recognized by SEBI.
+
+     10.  CREDIT RATING AGENCIES ABROAD
+(i)   Standard and Poor’s (S & P) Ratings
+S&P Global Ratings have been in the credit rating business for more than 150 years. They are the
+world’s leading provider of credit ratings. Their credit ratings are important not only for the corporates
+but also for the government and the financial sector. Their credit rating is basically an expression of
+opinion about the credit quality of a company, i.e. whether that company can meet its financial
+obligations in time or not. S & P operates in about 28 countries.
+(ii)   Fitch Ratings
+Fitch is among the top three credit rating agencies in the world. Fitch Ratings is headquartered in
+both New York and London. Fitch Ratings' long-term credit ratings are assigned on an alphabetic
+scale from 'AAA' to 'D'. It was first introduced in 1924 and later adopted and licensed by S&P. It is a
+global leader in financial information services with operations in more than 30 countries.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+13.181.18          FINANCIAL SERVICES AND CAPITAL MARKETS
+     13.18
+(iii)  Moody’s Ratings
+Moody’s is an important contributor to the global financial market providing credit rating services that
+helps in the building up of a transparent and integrated financial market. The Corporation, which
+reported revenue of $3.6 billion in 2016, employs approximately 10,700 people worldwide and
+maintains a presence in 36 countries.
+
+     11.  CREDIT RATING AGENCIES AND THE US SUB-PRIME
+         CRISIS
+
+Credit rating agencies played a very important role at various stages in the subprime crisis. They
+have been highly criticized for understating the risk involved with new, complex securities that fueled
+the United States housing bubble, such as mortgage-backed securities (MBS) and collateralized
+debt obligations (CDO).
+An estimated $3.2 trillion in loans were made to homeowners with bad credit and undocumented
+incomes (e.g., subprime, or Alt-A mortgages) between 2002 and 2007. These mortgages could be
+bundled into MBS and CDO securities that received high ratings and therefore could be sold to global
+investors.  Higher  ratings  were  justified  by  various  credit  enhancements  including  over-
+collateralization (i.e., pledging collateral in excess of debt issued), credit default insurance, and
+equity investors willing to bear the first losses.
+The critics claim that the rating agencies were the party that performed the alchemy that converted
+the securities from F-rated to A-rated. The banks could not have done what they did without the
+complicity of the rating agencies."Without the AAA ratings, demand for these securities would have
+been considerably less. Bank write downs and losses on these investments totaling $523 billion as
+of September 2008.
+The ratings of these securities were lucrative business for the rating agencies, accounting for just
+under half of Moody's total ratings revenue in 2007. Through 2007, ratings companies enjoyed
+record revenue, profits and share prices. The rating companies earned as much as three times more
+for grading these complex products than corporate bonds, their traditional business. Rating agencies
+also competed to rate particular MBS and CDO securities issued by investment banks, which critics
+argued contributed to lower rating standards.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+13.19                                 CREDIT RATING  1.19
+
+     12.  LIMITATIONS OF CREDIT RATING
+1)    Rating Changes – Ratings given to instruments can change over a period of time. They must
+      be kept under rating watch. Downgrading of an instrument may not be timely enough to keep
+       investors educated over such matters. Ratings do not guarantee any financial strength to the
+       investors.
+2)    Industry Specific rather than Company Specific – Downgrades are linked to industry rather
+      than company performance. Agencies give importance to macro aspects and not to micro-
+      ones and over-react to existing conditions which come from optimistic/pessimistic views
+       arising out of up/down turns.
+3)    Cost Benefit Analysis – Rating being mandatory, it becomes a must for entities rather than
+       carrying out Cost Benefit Analysis. Rating should be left optional, and the corporate should
+      be free to decide that in the event of self-rating, nothing has been left out.
+4)     Conflict of Interest – The rating agency collects fees from the entity  it rates leading to a
+        conflict of interest. The rating market being competitive there is a possibility of such conflict
+       entering into the rating system.
+5)    Information provided by Borrower – Ratings are always based on the information provided
+      by the borrower or the issuer and this could be subject to inaccuracy.
+6)    Lack of Accountability – The process of credit rating lacks accountability as  it is mere
+      expression of opinion. The lack of experienced and skilled staff may not do justice to their
+       task and may lead to inappropriate conclusions.
+7)    Corporate Governance Issues – Special attention is paid to:
+       a)     Rating agencies get more of its revenues from a single service or group.
+       b)     Rating agencies  enjoying a dominant market  position engaging  in  aggressive
+             competitive practices by refusing to rate a collateralized/securitized instrument or
+             compelling an issuer to pay for services rendered.
+       c)     Greater transparency in the rating process viz. in the disclosure of assumptions
+             leading to a specific public rating.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+13.201.20          FINANCIAL SERVICES AND CAPITAL MARKETS
+     13.20
+     13.  CONTEMPORARY ASPECTS IN CREDIT RATING
+13.1  SEBI telling rating agencies to disclose probability of default for issuers they
+       rate.
+According to a SEBI circular, rating companies, in consultation with the regulator, are now creating
+a uniform probability of default benchmark for each rating category on their website, for one-year,
+two-year and three-year cumulative default rates, both for the short term and long term.
+SEBI also tweaked the methodology to arrive at default rates. It is now based on marginal default
+methodology. This would ensure that a three-year default rate is greater than the one-year rate.
+Tracking the probability of default is a departure from earlier practices and is also a step towards
+aligning Indian rules with global standards. So far in India, credit decisions have been based only
+on assigned ratings. Globally, however, credit decisions are based on two more criteria—probability
+of default and tracking deviation of bond spreads.
+Probability of default describes the likelihood of a default over a particular period. It provides the
+likelihood that a borrower will be unable to meet its debt obligations and is typically used globally in
+credit analyses and risk management frameworks.
+The rating agencies would also be assessed based on probability of default. For an AAA-rated paper,
+for instance, the probability of default for a 1-year and 2-year paper should be zero; for a three-year
+paper, a 1% default probability would be accepted.
+For AA, it will be zero for a one-year paper; for a two-year paper, the acceptable deviation is 2%. It
+will be 3% for an A-rated paper.
+In line with global standards, the market regulator had also asked rating agencies to track deviation
+in bond spreads. The idea behind the move was to provide more information to bond subscribers
+and reduce reliance on assigned ratings.
+SEBI has also asked rating agencies to disclose all factors to which ratings are sensitive.
+“This is critical for the end-users to understand the factors that would have the potential to impact
+the creditworthiness of the entity," Sebi said in the circular.        (Source: www.livemint.com)
+13.2  RBI asking credit rating agencies to use artificial intelligence, social media to
+     catch stress signals.
+The Reserve Bank of India has asked rating agencies to enhance the quality of monitoring rated
+entities through means like social media and corporate filings, and not just depend on information
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+13.21                                 CREDIT RATING  1.21
+
+given by companies.
+Rating agencies in meeting with RBI top brass, including governor Shaktikanta Das and deputy
+governors, sought access to Central Repository of Information on Large Credits (CRILC) maintained
+by central bank.
+Banking regulator informed agencies that  it would consider plea for access to CRLIC.  It advised
+them to become proactive and not just look at information after critical events have happened. It
+also emphasized the need to pick up signals and work on them before defaults happen.
+There was also nudging from the banking regulator to use intelligent information systems be  it
+machine learning and Artificial Intelligence (AI) that could capture social media alerts and trends
+useful for rating purposes. This issue may also be discussed at the panel of market regulators
+comprising SEBI, IRDAI, PFRDA, among others, for improving the quality of oversight.
+During the meeting, held through video conference, Credit Rating Agencies (CRAs) presented
+assessment of the macroeconomic situation and outlook on various sectors including the financial
+sector. They also shared perspectives on the overall financial health of the entities rated by the
+CRAs and major factors that affect credit ratings in current context, RBI said in a statement.
+RBI also gave feedback on ways to further strengthen the rating processes and engagement with
+key stakeholders. Another official said rating agencies expressed concerns over rising share of
+companies in “not cooperating” categories. These entities should be taken off from monitoring after
+remaining in this category for 6-12 months.                       (Source: Business Standard)
+
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    Which of the following companies is primarily engaged in rating of Individuals
+       (a)   ICRA
+       (b)   CRISIL
+        (c)   ONICRA
+       (d)   CARE
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+13.221.22          FINANCIAL SERVICES AND CAPITAL MARKETS
+     13.22
+2.    The rate that measures the changes in the ratings of a company/instrument over a specified
+       period and expressed in percentage terms is
+        (a)    Transition rate
+        (b)    Default rate
+        (c)    Recovery rate
+        (d)    Negative rate
+3.    Which out of the following is not a parameter under consideration in the CAMELS model of
+       credit rating
+        (a)    Capital adequacy
+        (b)    Financial performance
+        (c)     Sensitivity
+        (d)   Management
+4.     Credit rating services might be of least utility to
+        (a)    Lender
+        (b)    Borrower
+        (c)    Customer
+        (d)   Government
+5.     Credit rating is not
+        (a)    Important input for investment decisions
+        (b)   Dynamic
+        (c)    Safeguard against Default
+       (d)    Assigned to debt instruments
+6.    Which among the following is not a problem associated with credit rating agencies in India?
+       (a)    Conflict of interest
+       (b)   More competition
+        (c)    Poor Rating Quality
+       (d)   Independence of the ratings committee
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+13.23                                 CREDIT RATING  1.23
+
+7.    Which among the following  is a solution  in addressing the challenges  in credit rating
+      agencies?
+        (a)    Persistence of conflict of interest
+       (b)    Introduction of more players
+        (c)   Non rotation of credit rating agencies
+       (d)   Unawareness among investors
+Theoretical Questions
+1.    Discuss the various rating services provided by the credit rating agencies.
+2.     Explain the Credit rating process usually practiced in India by Credit Rating Agencies.
+3.      Briefly describe the business risk and the various aspects related to it.
+4.     Explain the CAMELS model of credit rating?
+5.     Write a note on the limitations of credit rating services.
+
+ANSWERS/SOLUTIONS
+Answer to Multiple Choice Questions
+     1.         (c)        2.        (a)        3.        (c)        4.        (c)        5.       (c)
+     6.        (b)        7.        (b)
+
+Answers to the Theoretical Questions
+1.    Please refer to paragraph 2
+2.    Please refer to paragraph 5
+3.    Please refer to paragraph 6
+4.    Please refer to paragraph 7
+5.    Please refer to paragraph 12
+
+
+© The Institute of Chartered Accountants of India

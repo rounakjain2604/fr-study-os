@@ -3,7 +3,8 @@
 import { execSync } from "node:child_process";
 import { rmSync, writeFileSync } from "node:fs";
 
-const REPO = "https://github.com/rounakjain2604/fr-study-os.git";
+const REPO = process.env.TRINSIC_DEPLOY_REPO || "https://github.com/rounakjain2604/fr-study-os.git";
+const LIVE_URL = process.env.TRINSIC_LIVE_URL || "https://rounakjain2604.github.io/fr-study-os/";
 const run = (cmd, cwd) => execSync(cmd, { stdio: "inherit", cwd });
 
 run("npm run build");
@@ -17,4 +18,4 @@ run('git commit -m "Deploy build"', "dist");
 run(`git push --force ${REPO} gh-pages`, "dist");
 rmSync("dist/.git", { recursive: true, force: true });
 
-console.log("\nDeployed. Live in ~1 minute at https://rounakjain2604.github.io/fr-study-os/");
+console.log(`\nTrinsic deployed. Live in ~1 minute at ${LIVE_URL}`);

@@ -1,0 +1,1019 @@
+Source PDF: 07_SPOM/Set_D_04_Digital_Ecosystem_Controls/007 - Chapter-6- Information Systems Life Cycle - 79447bos63475-cp6.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_04_Digital_Ecosystem_Controls\007 - Chapter-6- Information Systems Life Cycle - 79447bos63475-cp6.pdf
+Extracted at: 2026-05-31T10:36:31+05:30
+Pages: 25
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+UNIT – II
+ INFORMATION SYSTEMS LIFE CYCLE
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+CHAPTER          6
+         1
+SYSTEM DEVELOPMENT
+LIFE CYCLE (SDLC)
+
+
+                  LEARNING OUTCOMES
+After studying this chapter, you will be able to –
+   understand the need for a System Development Life Cycle.
+   conceptualize the generic phases and associated activities of SDLC.
+   understand   the  importance   of   testing,   implementation,  and
+     maintenance of Information Systems.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+6.2            DIGITAL ECOSYSTEM AND CONTROLS
+
+  CHAPTER OVERVIEW
+
+
+                                                                    Preliminary Investigation
+
+
+                                                       System Requirement Analysis        (SDLC)
+       CYCLE
+     LIFE                  Need for SDLC                      System Designing
+
+
+                       SDLC Phases                     System Development               DEVELOPMENT
+        SYSTEM                                                            System Testing
+
+
+                                                         System Implementation
+
+
+                                                           Post Implementation Review and
+                                                                  Maintenance
+
+
+                              Illustration – Startup for Kid’s Apparel
+ “Delivering the Best” is a new startup owned by four friends as an online e-commerce portal for
+  for kids’ apparel. The startup is in the process of developing the web portal that may use the steps
+  for the software development life cycle. The case will represent the practical application of the
+ software development life cycle process.
+ At the very first step, the Business Analyst/Project Manager collected the details from various
+ stakeholders to know their requirements regarding how the e-Commerce platform will work and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)             6.3
+
+  its required features. A detailed Software Requirement Specifications (SRS) of software was
+ prepared then reviewed by the key policymakers and stakeholders.
+ After this, the SRS document was given to the software development team. The development
+ team carefully reviewed of the SRS document to clearly understand the client’s requirements.
+ Accordingly, a  well-suited design and  architecture  of webpages was developed by  the
+ development team duly approved by stakeholders.
+ The development team wrote the coding for various web pages and added API for various
+  functionalities. Once the coding was done, the testing team took over to perform end to end testing
+ to ensure the website worked seamlessly without any bugs. Once the stakeholders approved the
+ platform,  it became ready to be deployed. The final version of the e-commerce portal was
+ deployed; however, a similar process was followed to integrate the latest features.
+  All phases of the Software Development Life Cycle were being used in this case. The startup
+ team knew the criteria for choosing the SDLC which added value to their operations. After
+ considering the SDLC methodology, the requirements of stakeholders, technical capabilities, and
+ constraints of the web portal came into the picture.
+  It also helped to analyze the suitability of the chosen model of software development w.r.t team’s
+ size and their skills, the technology that is going to be used to develop the software. It became
+ helpful to make necessary adjustments that cope with the changes required during the execution
+ of the project.
+
+    6.1  INTRODUCTION
+The System Development Life Cycle (SDLC) provides a sequence of  activities  for system
+designers and developers to follow. It consists of a generic sequence of steps or phases in which
+each phase of the SDLC uses the results of the previous one. SDLC involves acquiring or developing
+and maintaining application systems that are used in routine business processes. The SDLC
+is document driven, which means that at crucial stages, the processes documentation is produced.
+Every hardware or software system undergoes a thorough development process which can be
+thought of as an iterative process with multiple steps. SDLC is used to give a rigid structure and
+framework to define the phases and steps involved in the development of a system.
+Barry Boehm suggested the principle of W5HH that talks about the objectives of system, milestone,
+schedule, responsibility, management, and technical approaches and required resources. The
+principle outlines a series of questions that can help project managers more efficiently manage
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+6.4            DIGITAL ECOSYSTEM AND CONTROLS
+
+software projects. Each letter in W5HH stands for a question in the series of questions to help a
+project manager lead as given in Table 6.1.
+                              Table 6.1: W5HH Principle
+  i.     Why is the system being developed?            i.  How will the job be done technically and
+                                                      managerially?  ii.     What will be done?
+                                                                                                 ii.  How much of each resource is needed?  iii.    When will be done?
+  iv.    Who is responsible for a function?
+ v.     Where are they located organizationally?
+
+This principle is applicable to every SDLC regardless of the size and complexity of the system. A
+phase of the SDLC is not complete until the appropriate documentation or artifact is produced. These
+are sometimes referred to as logical phase deliverables. A deliverable may be a substantial written
+document, a software artifact, a system test plan or even a physical object such as a new piece of
+technology that has been ordered and delivered. This feature of the SDLC  is  critical to the
+successful management of an IS project.
+
+    6.2  NEED FOR SDLC
+There are certain situations that may arises the need for the development or acquisition of a new
+system, which are explained below:
+♦        If there exists a new service delivery opportunity that relates to a new or existing business
+      processes.
+♦        If there persists an issue or problem with the existing system or business activities.
+♦        If strategic management changes  its focus, leading to an opportunity that may provide
+       benefits to the organization. This can be the merger or acquisition of new companies or the
+       starting of a new service delivery channel. For example - opening new ATMs in the case of
+      banks.
+♦     In case organizations get new opportunities due to advancement in their existing technology
+       or replacement of their existing technology with a newer one.
+♦        If the competitors of the organization are using automation to enhance the quality of service.
+SDLC can also be viewed from a more process-oriented perspective. This emphasizes the parallel
+nature of some of the activities and presents activities such as system maintenance as an alternative
+to a complete redesign of an existing system. The advantages of this system are as follows:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)             6.5
+
+♦     Better planning and control by project managers.
+♦    Compliance with prescribed standards ensuring better quality.
+♦    Documentation that SDLC stresses on  is an important measure of communication and
+       control.
+♦    The phases are important milestones and help the project manager and the user for review
+      and signoff.
+Some of the shortcomings and anticipated risks associated with the SDLC are as follows:
+♦    The development team may find it cumbersome.
+♦    The users may find that the end product is not visible for a long time.
+♦    The rigidity of the approach may prolong the duration of many projects.
+♦        It may not be suitable for small and medium-sized projects.
+
+    6.3  SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)
+The process of system development starts when management or sometimes system development
+personnel realize that a particular business system needs improvement. Refer Fig. 6.1. The System
+Development Life Cycle (SDLC) method can be thought of as a set of activities that analysts,
+designers and users carry out to develop and implement an information system. In most business
+situations, these activities are closely related, usually inseparable and even the order of the steps
+in these activities may be difficult to determine.
+
+                                          Preliminary
+                                           Investigation
+
+        Post Implementation Review                                                     System Requirements           & Maintenance                                                                   Analysis
+
+           System
+         Implementation                                    System
+                                                             Designing
+
+                 System                                        System                    Testing                                       Development
+
+                                   Fig. 6.1: The SDLC Phases
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+6.6            DIGITAL ECOSYSTEM AND CONTROLS
+
+Different parts of a project can be in various phases at the same time, with some components
+undergoing analysis while others are at advanced design stages.
+6.3.1 Preliminary Investigation
+A preliminary investigation is normally initiated by some sort of system request. It is predominantly
+aimed to determine and analyze the strategic benefits in implementing the system through evaluation
+and quantification of productivity gains, future cost avoidance, cost savings, and intangible benefits
+like improvement in the morale of employees.
+The  deliverable  of  the  preliminary  investigation includes a  report  including  feasibility study
+observations. The steps involved in the preliminary investigation phase are given in Fig. 6.2.
+
+                                          • After possible solution options are  identified, project  feasibility  i.e. the
+                                     likelihood  that  these  systems  will be  useful  for  the  organization  is
+                                determined. A feasibility study is carried out by the system analysts, which
+                                    refers to a process of evaluating alternative systems through cost/benefit
+                                  analysis so that the most feasible and desirable system can be selected for
+                              development. The Feasibility Study of a system is evaluated under following
+                              dimensions described briefly as follows:
+                           • Technical: Is the technology needed available?       Feasibility
+       Study               • Financial: Is the solution viable financially?
+                           • Economic: Return on Investment?
+                           • Schedule/Time: Can the system be delivered on time?
+                           • Resources: Are human resources reluctant for the solution?
+                           • Operational: How will the solution work?
+                           • Behavioral: Is the solution going to bring any adverse effect on quality of
+                              work life?
+                           • Legal: Is the solution valid in legal terms?
+                           • Political: How the internal organization will accept the new system?
+
+
+                                          •  After the analyst articulates the problem and defines the same along with
+                                              its scope, s/he provides one or more solution alternatives and estimates the        Reporting                                 cost and benefits  of each  alternative and reports these results  to the         results to                           management.    Management                                          • The report should be accompanied by a short covering letter of intent that
+                            summarizes the results and makes the recommendation regarding further
+                                procedures.
+                                          • From the analyst's report, management should determine what to do next.
+
+                      Fig. 6.2: Steps Involved in Preliminary Investigation
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)             6.7
+
+6.3.2 System Requirements Analysis
+This phase includes a thorough and detailed understanding of the current system, identification of
+the areas that need modification  to solve the problem, the determination  of user/managerial
+requirements and have fair idea about various systems development tools. It assesses the needs of
+end users and ensures that the newly developed system would fulfill all the requirements of end
+users. This phase also identifies and documents resources that will be responsible for individual
+pieces of the system, as well as the timeline expected. The following objectives are performed in
+this phase to generate the deliverable Systems Requirements Specification (SRS):
+♦    To identify and consult the stakeholders to determine their expectations and resolve their
+        conflicts.
+♦    To analyze requirements to detect and correct conflicts and determine priorities.
+♦    To gather data or find facts using tools like - interviewing, research/document collection,
+       questionnaires, and observation.
+♦    To verify that the requirements are complete, consistent, unambiguous, verifiable, modifiable,
+       testable, and traceable.
+♦    To model activities such as developing models to document Data Flow Diagrams, E-R
+      Diagrams, etc.
+♦    To document activities such as interviews, questionnaires, reports etc. and development of a
+      system (data) dictionary to document the modeling activities.
+To accomplish these objectives, a series of steps are taken that result in process, assuring
+appropriate systems requirements analysis. A generic set of process is described as follows:
+(i)    Fact Finding
+    o     Every system is built to meet some set of needs, for example, the need of the
+             organization for lower operational costs, better information for managers, smooth
+             operations for users or better levels of services to customers.
+    o    To assess these needs, the analysts often interact extensively with people who will
+              benefit from the system to determine ‘what are their actual requirements’.
+    o     Various  fact-finding  techniques and  tools such as documents,  questionnaires,
+              interviews, and observations are used by the system analyst to determine these
+             needs/requirements.
+(ii)    Analysis of the Present System: Detailed investigation of the present system involves
+        collecting, organizing, and evaluating facts about the system and the environment in which it
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+6.8            DIGITAL ECOSYSTEM AND CONTROLS
+
+       operates. The areas including reviewing historical aspects; surveying existing methods;
+       analyzing inputs, reviewing data  files, methods, procedures, and data communications;
+       analyzing outputs; reviewing internal controls, modeling the existing system and undertaking
+       overall analysis of the existing system should be intensive to fully understand the present
+      system and its related problems.
+(iii)  System Analysis of Proposed Systems: After a thorough analysis of each functional area
+       of the present information system, the proposed system specifications must be clearly
+       defined, which are determined from the desired objectives set forth at the first stage of the
+       study. Likewise, consideration should be given to the strengths and shortcomings of the
+      present system. The required systems specifications should be in conformity with the project's
+       objectives articulated and in accordance with the output. After outputs have been determined,
+            it is possible to infer what inputs, databases, methods, procedures, and data communications
+      must be employed.
+(iv)   System Development Tools: Various tools like Structured English, Flowcharts, Data Flow
+      Diagrams, Decision trees and Decision tables, CASE Tools and System Components Matrix
+        etc. are used to help end users and systems analysts in the following areas:
+    o    To conceptualize, clarify, document, and communicate the activities and resources
+             involved in the organization and its information systems.
+    o    To  analyze  present  business  operations,  management  decision-making  and
+              information- processing activities of the organization.
+    o    To propose and design new or improved information systems to solve business
+            problems or pursue business opportunities that have been identified.
+(v)   Systems Specification: At the end of the analysis phase, the systems analyst prepares a
+      document called Systems Requirement Specifications (SRS). A well-documented SRS
+     may normally contain the following sections:
+    o     Introduction: Goals, objectives, software context, scope, and environment of the
+            computer-based system.
+    o     Information  Description: Problem  description;  Information  content,  flow, and
+               structure; Hardware, software, human interfaces for external system elements and
+               internal software functions.
+    o     Functional Description: Diagrammatic  representation  of  functions; Processing
+              narrative for each function; Interplay among functions; Design constraints.
+    o     Behavioral Description: Response to external events and internal controls.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)             6.9
+
+    o     Validation  Criteria:  Classes  of  tests  to be  performed  to  validate  functions,
+            performance, and constraints.
+    o    Appendices: Data  flow/Object Diagrams, Tabular Data,  detailed  description  of
+             algorithms charts, graphs, and other such material.
+    o    SRS Review: The development team makes a presentation and then hands over the
+         SRS document to be reviewed by the user or customer. The review reflects the
+            development team’s understanding of the existing processes. Only after ensuring that
+             the document represents existing processes accurately, the user should sign the
+            document. This is a technical requirement of the contract between users and the
+            development team.
+6.3.3 System Designing
+After the completion of the requirements analysis for a system, systems designing activity takes
+place for the most feasible and optimal alternative, which is selected by management. The objective
+is  to design an Information System  that best satisfies the users/managerial requirements.  It
+describes the parts of the system and their interaction.  It sets out how the system shall be
+implemented using the chosen hardware, software, and network facilities.  It also specifies the
+program and the database specifications and the security plans and further specifies the change
+control mechanism to prevent uncontrolled entry of new requirements.
+The key and generic design phase activities include describing inputs and outputs such as screen
+design and reports; determining the processing steps and computation rules for the new solution;
+determining data file or database system file design; preparing the program specifications for the
+various types of requirements or information criteria defined; and Internal/external controls.
+Design phase documents/deliverables include a  ‘blueprint’  for the design with the necessary
+specifications for the hardware, software, people, and data resources. This phase describes in detail
+the specification, features, and operations that will meet the requirement previously defined. System
+design involves first logical design and then physical construction of a system.
+•    The logical design of an information system is like an engineering blueprint; it shows major
+       features of the system and ‘how they are related to one another’.
+•     Physical construction, the activity following logical design, produces program software, files,
+      and a working system.
+•     Design specifications guide the programmers about 'what the system should do and how to
+       implement'. The programmers, in turn, write the programs that accept input from users,
+      process data, produce reports, and store data in the files.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+6.10           DIGITAL ECOSYSTEM AND CONTROLS
+
+ Once the detailed design is completed, the design is then distributed to the system developers for
+ coding. The design phase activities are described briefly in Table 6.2 and the valuable consideration
+ points that are valid for both acquisition of hardware and software are given in Fig. 6.3.
+                           Table 6.2: Design phase activities
+ Architectural     Deals with the organization of applications in terms of hierarchy of modules
+ Design          and sub-modules. At this stage, we identify major modules; functions and
+                 scope of each module; interface features of each module; modules that each
+                 module can call directly or indirectly, and Data received from  / sent to  /
+                   modified in other modules.
+ Design of Data/  The design of the data and information flow is a major step in the conceptual
+ Information                   design of the new system. In designing the data/information flow for the flow
+                  proposed system, the inputs that are required are - existing data/information
+                     flows, problems with the present system, and the objective of the new system;
+                           all these have been identified in the analysis phase and documented in
+                 Systems Requirements Specification (SRS). In case of failure to produce a
+                   high quality design  for data/information flow, can seriously undermine a
+                   system. For example - Poor timing decisions may result in the capturing of
+                     out-of-date data and poor choices about information flows could result in the
+                    information being directed to wrong decision makers.
+ Design       of  The design of the database involves determining its scope ranging from local
+ Database          to global structure. The scope is decided based on interdependence among
+                     organizational units.
+ User  Interface    It involves determining the ways in which users will interact with a system. The
+ Design            points that need to be considered while designing the user interface are -
+                  source documents to capture raw data, hard-copy output reports, screen
+                    layouts for dedicated source-document input, inquiry screens for database
+                      interrogation,  graphic and  color  displays, and requirements  for  special
+                     input/output devices.
+ Physical         For the physical design, the logical design is transformed into units, which in
+ Design            turn can be decomposed further into implementation units such as programs
+                 and modules. Some of the issues addressed here are the type of hardware for
+                    the client application and server application, Operating systems to be used,
+                   type of networking, processing–batch–online, real–time; frequency of input,
+                     output; and month-end cycles / periodical processing.
+ System's          In some cases, the new system requires an operating platform including
+ Operating        hardware,  network, and system software  not  currently  available  in an
+ Platform          organization. The new hardware/system software platform required to support
+                    the application system will then have to be designed for requisite provisions.
+                                 If different hardware and software are not able to communicate with each
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)            6.11
+
+                      other, subsequent changes will have to be made and resources expended in
+                      trying to make the hardware and software compatible with each other.
+ Internal Design  From an internal control point of view, this phase is also important as all
+ Controls                       internal controls are placed in the system during this phase. The key control
+                   aspects at this stage include the following:
+                 •  Whether all control aspects have been properly covered?
+                 •  Whether controls put in place in the system appear in the documentation
+                   done at this stage?
+                 •  Whether a separate review of the design document has been done by the
+                         internal auditor?
+
+             Vendor Selection
+
+                     • This step  is a  critical step  for success of process of acquisition of systems.  It  is
+               necessary to remember that vendor selection is to be done prior to sending RFP. The
+                   result of this process  is that ‘RFP are sent only to selected vendors’. For vendor
+                  selection, following things are kept  in mind including the background and location
+               advantage of the vendor, the financial stability of vendor, the market feedback of vendor
+                performance, in terms of price, services etc.
+
+              Geographical Location of Vendor
+
+             The issue to look for whether the vendor has local support persons. Otherwise, the
+                proposals submitted by vendor not as per RFP requirements need to rejected, with no
+                   further discussion on such rejected proposals. This stage may be referred to as
+                   ‘technical validation’, that is to check the proposals submitted by vendors, are technically
+               complying with RFP requirements.
+
+              Presentation by Selected Vendors
+
+                     All vendors, whose proposals are accepted after “technical validation”, are allowed to
+             make presentation to the System Acquisition Team. The team evaluates the vendor’s
+                proposals by using techniques.
+
+              Evaluation of Users Feedback
+
+             The best way to understand the vendor systems is to analyze the feedback from present
+                 users. Present users can provide valuable feedback on system, operations, problems,
+               vendor response to support calls.
+
+       Fig. 6.3: Considerations are valid for both acquisition of Hardware and software.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+6.12           DIGITAL ECOSYSTEM AND CONTROLS
+
+6.3.4 System Development
+This phase is supposed to convert the design specifications into a functional system under the
+planned operating system environments. Application programs are written, tested, and documented,
+and conduct system testing. Finally, it results in a fully functional and documented system. A good
+coded application and programs should have the following characteristics:
+♦     Reliability: It refers to the consistency with which a program operates over a period of time.
+      However, poor setting of parameters and hard coding of some data, subsequently could result
+        in the failure of a program after some time.
+♦    Robustness:  It refers to the application’s strength to uphold  its operations in adverse
+       situations by considering all possible inputs and outputs of a program in case of least likely
+       situations.
+♦    Accuracy: It refers not only to ‘what the program is supposed to do’ but should also take care
+       of ‘what  it should not do’. The second part becomes more challenging for quality control
+      personnel and auditors.
+♦     Efficiency: It refers to the performance per unit cost with respect to relevant parameters and
+            it should not be unduly affected by the increase in input values.
+♦     Usability:  It refers to a user-friendly interface and easy-to-understand internal/external
+      documentation.
+♦     Readability: It refers to the ease of maintenance of a program even in the absence of the
+      program developer.
+Other related aspects of this phase are given as follows:
+(a)   Program Coding Standards: The logic of the program outlined in the flowcharts is converted
+        into program statements or instructions at this stage using any language that has specific
+       rules concerning format and syntax. Syntax means vocabulary, punctuation, and grammatical
+       rules available  in the language manuals that the programmer must follow  strictly and
+       pedantically. Different programmers may write a program using different sets of instructions
+       but each gives the same results. Therefore, coding standards are defined, which serves as a
+      method of communication between teams, amongst the team members and users, thus
+      working as a good control. Coding standards minimize the system development setbacks due
+       to programmer turnover. Coding standards provide simplicity, interoperability, compatibility,
+        efficient utilization of resources and least processing time.
+(b)   Programming Languages: Application programs are coded in the form of statements or
+       instructions and the same is converted by the compiler to object code for the computer to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)            6.13
+
+      understand and execute. The programming languages commonly used are High-level
+      general-purpose programming languages such as COBOL and C; Object oriented languages
+      such as C++, JAVA etc.; Scripting languages such as JAVA Script, VBScript; and Decision
+      Support or Logic Programming languages such as LISP and PROLOG.
+     The choice of a programming language may depend on various pertinent parameters. In
+       general, language selection may be made based on application area; algorithmic complexity;
+      environment in which software has to be executed; performance consideration; data structure
+       complexity; knowledge of software development staff; and capability of in-house staff for
+      maintenance.
+(c)   Program Debugging: Debugging is the most primitive form of testing activity, which refers
+       to correcting programming language syntax and diagnostic errors so that the program
+      compiles cleanly. A clean compile means that the program can be successfully converted
+      from the source code written by the programmer  into machine language instructions.
+      Debugging can be a tedious task consisting of the following four steps shown in Fig. 6.4.
+
+                                                                                Resubmitting
+           Giving input              Letting the              Correcting             the corrected
+            the source            compiler to find            lines of code              source
+         program to the            errors in the                 that are              program as
+             compiler.               program.               erroneous.              input to the
+                                                                                        compiler.
+
+                                  Fig. 6.4: Debugging Process
+(d)    Testing the Programs: Careful and thorough testing of each program is imperative to the
+       successful  installation  of any system. The programmer should plan the testing  to be
+      performed, including testing of all the possible exceptions. The test plan should require the
+      execution of all standard processing logic based on the chosen testing strategy/techniques.
+     The program test plan should be discussed with the project manager and/or system users. A
+       log of test results and all conditions successfully tested should be kept. The log will prove
+       invaluable in finding the faults and debugging.
+(e)   Program Documentation: The writing of narrative procedures and instructions for people
+     who will use software is done throughout the program life cycle. Managers and users should
+       carefully review both internal and external documentation to ensure that the software and
+      system behave as the documentation indicates.  If they do not, documentation should be
+       revised. User documentation  should  also be  reviewed  for  understandability  i.e.  the
+      documentation should be prepared in such a way that the user can clearly understand the
+       instructions.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+6.14           DIGITAL ECOSYSTEM AND CONTROLS
+
+(f)    Program Maintenance: The requirements of business data processing applications are
+       subject to periodic change. This calls for modification of various programs. There are usually
+      separate categories of programmers called maintenance programmers, who are entrusted
+       with this task.
+6.3.5 System Testing
+Testing is a process used to identify the correctness, completeness, and quality of developed
+computer software. Testing should systematically uncover different classes of errors in a minimum
+amount of time with a minimum amount of effort. The data collected through testing can also provide
+an indication of the software's reliability and quality. However, testing cannot show the absence of
+defects,  it can only show that software defects are present. Different levels/facets of Testing are
+described as follows.
+(i)    Unit Testing: In computer programming, unit testing is a software verification and validation
+      method in which a programmer tests if individual units of source code are fit for use. A unit is
+       the smallest testable part of an application, which may be an individual program, function,
+      procedure, etc. or may belong to a base/super class, abstract class, or derived/child class.
+       Unit tests are typically written and run by software developers to ensure that code meets its
+      design and behaves as intended. The goal of unit testing is to isolate each component of the
+      program and show that they are correct. A unit test provides a strict, written contract that the
+      piece of code must satisfy.
+(ii)    Integration Testing: Integration testing is an activity of software testing in which individual
+      software modules are combined and tested as a group. It occurs after unit testing and before
+      system testing to evaluate the validity of the connection of two or more components that pass
+       information from one area to another. Integration testing takes as its input the modules that
+      have been unit tested, groups them  in larger aggregates, applies tests defined  in an
+       integration test plan to those aggregates, and delivers as its output the integrated system
+      ready for system testing.
+(iii)   Regression Testing: Each time a new module is added, or any modification made in the
+       software,  it changes. New data flow paths are established, new I/O may occur, and new
+       control logic is invoked. These changes may cause problems with functions that previously
+      worked  flawlessly. The regression tests ensure  that changes or corrections have not
+       introduced new faults. The data used for the regression tests should be the same as the data
+      used in the original test.
+(iv)   System Testing: It is a process in which software and other system elements are tested as
+      a whole. System testing begins either when the software as a whole is operational or when
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)            6.15
+
+       the well-defined subsets of the software's functionality have been implemented. The purpose
+       of system testing is to ensure that the new or modified system functions properly. These test
+      procedures are often performed in a non-production test environment.
+(v)    Final Acceptance  Testing:  This  is conducted when  the system  is  just  ready  for
+      implementation. During this testing,  it is ensured that the new system satisfies the quality
+      standards adopted by the business and the system satisfies the users. Thus, the final
+      acceptance testing has two major parts  - Quality Assurance Testing (QAT) and User
+      Acceptance Testing (UAT). QAT ensures that new system  satisfies prescribed quality
+      standards and UAT ensures that functional aspects expected by users have been well
+      addressed in new system.
+It is important to document each test script, its results, and versioning them based on a number of
+iterations run for the test to pass. Documenting test scripts and running them through the users
+before Final Acceptance Testing can help them determine if all functional areas and scenarios have
+been covered or if they need to add more themselves.
+6.3.6 System Implementation
+To finally deploy or implement the new system in the real operating environment, several activities
+are undertaken. In terms of the output of the phase, a fully functional as well as documented system
+is a prerequisite. The process of ensuring that the information system is operational and then
+allowing users to take over its operation for use and evaluation is called Systems Implementation.
+Some generic key activities involved in System Implementation include the following shown in
+Fig. 6.5:
+
+
+                   System         Equipment          Training         System
+                   Conversion         installation        Personnel       changeover
+
+
+              Fig. 6.5: Generic Key Activities involved in System Implementation
+Implementation includes all those activities that take place to convert from the old system to the new
+one. The new system may be totally new, replacing an existing manual or automatic system or it
+may be a major modification in an existing system. Some of the generic activities involved in the
+system implementation stage are described briefly as follows:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+6.16           DIGITAL ECOSYSTEM AND CONTROLS
+
+(i)    System Conversion (Refer Table 6.3)
+                 Table 6.3: Technical activities involved in System Conversion
+          Procedure          File Conversion        System          Scheduling
+          Conversion                           Conversion        Personnel &
+                                                               Equipment
+       Operating          Because large files of   After  online and  Scheduling     data
+       procedures  should   information must be   off-line  files have  processing
+       be          carefully  converted  from  one  been   converted  operations of a new
+       completed      with  medium  to  another,  and the reliability   information  system
+         sufficient                this phase should be   of the new system   for the first time is a
+       documentation   for   started  long  before  has        been   difficult task for the
+        the new system.  It  programming    and  confirmed  for  a  system manager. As
+        applies    to   both   testing           are   functional   area,  users become more
+       computer            completed. The cost   daily  processing   familiar with the new
+        operations     and  and related problems  can  be   shifted  system,   the   job
+        functional     area   of file conversion are  from the existing  becomes     more
+        operations.  Before   significant   whether   information          routine.  Schedules
+       any    parallel    or  they  involve  online  system to the new  should be set up by
+        conversion activities   files      (common  one.              All   the system manager
+       can start, operating  database)  or  offline   transactions          in  conjunction  with
+       procedures must be   files.     For     the   initiated after this  departmental
+         clearly  spelled  out  conversion  to be as  time          are  managers          of
+         for personnel in the  accurate as possible,  processed on the   operational     units
+        functional    areas    file       conversion  new      system.  serviced   by   the
+       undergoing          programs  must  be  System            equipment.    The
+       changes.             thoroughly     tested.  development       master schedule for
+        Information     on  Adequate     control,  team   members   the            next
+         input,   data    files,  such as record counts  should be present  period/month should
+       methods,           and   control   totals,   to    assist   and  provide     sufficient
+        procedures,  output,  should  be  required  answer      any  computer  time   to
+       and internal control   output      of     the  questions     that  handle  all  required
+       must be presented  conversion  program.  might    develop.  processing.
+         in   clear,  concise,  The           existing  Consideration
+       and understandable  computer files should  should be given to
+       terms     for    the  be kept for a period of  operating the old
+       average     reader.  time   until  sufficient  system  for some
+        Written    operating   files are accumulated  more   time    to
+       procedures must be   for  backup.  This  is  permit  checking,
+       supplemented   by  necessary in case the  matching    and
+         oral communication   files    must    be  balancing the total
+        during  the  training  reconstructed   from   results   of  both
+       sessions  on   the   scratch after a "bug''  systems.
+       system change.         is discovered later in
+                              the       conversion
+                                 routine.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)            6.17
+
+(ii)   Equipment Installation: The hardware required to support the new system is selected prior
+       to the implementation phase. The necessary hardware should be ordered in time to allow for
+       the installation and testing of equipment during the implementation phase. An installation
+       checklist should be developed at this time with operating advice from the vendor and system
+      development team. In those installations, where people are not experienced in the installation
+       of the same or similar equipment, adequate time should be scheduled to allow the completion
+       of the following activities:
+    o     Site Preparation: An appropriate location/ambience as prescribed and the typical
+            equipment must be used to provide an operating environment for the equipment that
+                 will meet the vendor's temperature, humidity, and dust control specifications etc.
+    o     Installation of new hardware/software: The equipment must be physically installed
+            by the manufacturer, connected to the power source, and wired to communication
+                lines, if required. If the new system interfaces with the other systems or is distributed
+             across multiple software platforms, some final commissioning tests of the operating
+            environment may be desirable to prove end-to-end connectivity.
+    o    Equipment Checkout: The equipment must be turned on for testing under normal
+             operating conditions. Though the routine 'diagnostic tests' should be run by the vendor,
+             the implementation in-house team should devise and run extensive tests of its own to
+            ensure that equipment functionalities are in actual working conditions.
+(iii)   Training Personnel: A system can succeed or fail depending on the way it is operated and
+      used. Therefore, the quality of training received by the personnel involved with the system in
+       various capacities helps or hinders the successful implementation of the information system.
+      Thus, training is a major component of systems implementation. When a new system is
+       acquired, which often involves new hardware and software, both users and computer
+       professionals generally need some type of training. Often, this is imparted through classes,
+      which are organized by vendors, and through hands-on learning techniques. Such training
+       structure should be highly formalized and be based on business process executions with
+       actual data.
+(iv)   System Change-Over Strategies: Conversion or changeover is the process of changing
+      over or shifting over from the old system (maybe a manual system) to the new system.  It
+       requires careful planning to establish the basic approach to be used in the actual changeover,
+      as  it may put many resources/assets/operations at risk. The four types of popular system
+      change-over strategies are described in the Table 6.4:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+6.18           DIGITAL ECOSYSTEM AND CONTROLS
+
+                      Table 6.4: Popular System Change-over Strategies
+              Direct            Phased          Pilot Changeover         Parallel
+        Implementation /      Changeover                         Changeover
+        Abrupt Change-
+             Over
+       With   this  strategy,  With  this  strategy,  With  this  strategy,  This  is considered
+        the  changeover   is  implementation can                        the  most  secure                                                    the  new  system      done      in    one  be   staged   with                    method  with  both
+                                                   replaces   the   old        operation,             conversion  to  the                     systems running in
+       completely replacing  new system taking  one      in    one   parallel   over  an
+        the old system in one  place gradually. For   operation  but  only   introductory period.
+        go.    The    Direct  example, some new                   The   old  system                                            on     a     small
+       Implementation          files   may    be                      remains          fully
+                                                        scale.  Any  errors        usually  takes  place  converted and used                         operational    while
+      on a set date, often  by employees whilst  can be rectified, or   the  new  systems
+         after  a  break   in   other files continue   further    beneficial  come  online. With
+        production    or   a   to be used on the                            this  strategy,  the                                             changes  can  be
+        holiday period so that   old system  i.e. the                         old  and  the new                                                    introduced    and       time can be used to  new  is  brought  in                     systems  are  both
+        get the hardware and  stages (phases).   If   replicated          used     alongside
+       software for the new  a     phase       is  throughout      the  each   other,  both
+       system      installed  successful then the  whole  system   in  being    able     to
+        without causing  too  next   phase     is                       operate                                            good time with the      much disruption.        started,  eventually                        independently. If all
+                                                         least disruption. For                               leading to the final                     goes  well, the old
+                          phase  when   the  example  -  it might  system  is stopped
+                       new  system   fully  be tried out in one  and the new system
+                              replaces   the   old                          carries on as  the                                                branch    of    the
+                             one.                                       only system.
+                                          company or in one
+                                                          location.                If
+                                                      successful, then the
+                                                                 pilot   is  extended
+                                                                  until    it  eventually
+                                                   replaces   the   old
+                                              system completely.
+
+6.3.7 Post-Implementation Review and Maintenance
+To assess, review and ensure a complete working solution, a number of activities may be planned.
+As no phase may be assured to be perfect, errors are liable to occur. Therefore, a well-formalized
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)            6.19
+
+review must be undertaken including some of the systems maintenance activities, such as adding
+new data elements, modifying reports, adding new reports; and changing calculations. As the
+deliverable of this phase, a well-written document stating observations, modifications, controls, the
+scope of further improvements etc. may be prepared. Such aspects may also be availed in the form
+of responses to the following queries:
+♦    Could further training or coaching improve the degree of benefit being generated?
+♦    Are there further functional improvements or changes that would deliver greater benefit?
+♦    Are specific improvements required in procedures, documentation, support, etc.?
+♦    What learning points are there for future projects?
+(i)    Post Implementation Review: A Post Implementation Review answers the question “Did we
+      achieve what we set out to do in business terms?” This ascertains the degree of success of
+       the project, in particular, the extent to which it met its objectives, delivered planned levels of
+       benefit, and addressed the specific requirements as originally defined.
+           It examines the efficacy of all elements of the working business solution to see  if further
+      improvements can be made to optimize the benefit delivered. A Post-Implementation Review
+      should be scheduled sometime after the solution has been deployed. Typical periods range
+      from 6 weeks to 6 months, depending on the type of solution and its environment. There are
+      two basic dimensions of Information systems that should be evaluated. The first dimension is
+      concerned with whether the newly developed system  is operating properly. The other
+      dimension is concerned with whether the user is satisfied with the information system with
+      regard to the reports supplied by it. Typical evaluations include the following:
+
+                           Table 6.5: Various Types of Evaluation
+     Development  Evaluation:  Operational   Evaluation:  Information Evaluation: An
+                             The   evaluation   of   the      Evaluation       of      the                                  information system  should
+                                    information       system's     development   process    is                                 also be evaluated in terms of
+                                   operation    pertains     to
+       primarily  concerned   with                                 the information it provides or                                whether   the   hardware,
+      whether  the  system  was                                generates.  This  aspect  of                                  software and personnel are
+      developed on schedule and  capable of performing their  system evaluation is difficult,
+       within  budget.   It  requires   duties.   It  tries  to answer  and  it cannot be conducted
+      schedules and budgets to be  questions     related     to   quantitatively, as is the case
+                                      functional  aspects  of  the      established in advance and                                  with   development   and
+                                 system. Such an evaluation       that  a  record   of  actual                                  operational evaluations.
+                                              is relatively straightforward
+      performance  and  cost  be                                                                if  evaluation  criteria  are
+      maintained.                                   established in advance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+6.20           DIGITAL ECOSYSTEM AND CONTROLS
+
+(ii)   System Maintenance: Maintaining the system is an important aspect of SDLC. As key
+      personnel change positions in the organization, new changes will be implemented, which will
+       require system updates at regular intervals. Most of the information systems require at least
+     some modification after development. The need for modification arises from a failure to
+       anticipate/capture all the requirements during system analysis/design and/or from changing
+       organizational requirements. Maintenance can be categorized in the following ways (Refer
+       Fig. 6.6):
+
+                                                        •It  is anticipated and can be planned  for operational
+                                                 continuity  and  avoidance  of  anticipated  risks.  For
+       Scheduled Maintenance           example, the implementation of a new inventory coding
+                                    scheme can be planned in advance, security checks may
+                                      be promulgated etc.
+
+                                                        •It refers to previously undetected malfunctions that were
+                                             not anticipated but require immediate troubleshooting        Rescue Maintenance                                                  solution. A system that is properly developed and tested
+                                          should have a few occasions of rescue maintenance.
+                                            •Corrective maintenance deals with fixing bugs in the
+                                      code or defects found during the executions. A defect
+                                       can result from design errors, logic errors, coding errors,        Corrective Maintenance                                           data processing and system performance errors. The
+                                      need for corrective maintenance is usually initiated by
+                                     bug reports drawn up by the end users.
+
+                                                        •It  consists  of adapting software  to changes  in  the
+                                           environment, such as the hardware or the operating
+                                          system. The term environment in this context refers to
+                                             the totality of  all conditions and influences, which act        Adaptive Maintenance
+                                          from outside upon the system, for example, business
+                                                   rules, government policies and work patterns. The need
+                                                      for adaptive maintenance can only be recognized by
+                                             monitoring the environment.
+
+                                                        •It mainly deals  with accommodating  to  the new  or
+                                      changed  user  requirements and concerns  functional
+        Perfective Maintenance           enhancements to the system and activities to increase
+                                             the  system’s  performance  or  to  enhance  its  user
+                                                   interface.
+                                                        •It  concerns  the  activities  aimed  at  increasing  the
+                                           system’s     maintainability,    such    as    updating       Preventive Maintenance                                           documentation, adding comments, and improving the
+                                        modular structure of the system.
+
+                             Fig. 6.6: Various types of Maintenance
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)            6.21
+
+    6.4  OPERATION MANUALS
+It is a typical user’s guide also commonly known as Operations Manual. Moreover,  it may be a
+technical communication document intended to assist people using a particular system. It is usually
+written by technical writers, although user guides are written by programmers, product or project
+managers, or other technical staff, particularly in smaller companies. These are most associated
+with electronic goods, computer hardware, and software. The section of an operation manual may
+include a cover page, a title page, and a copyright page; a preface, containing details of related
+documents and information on how to navigate the user guide; an index page; a guide on how to
+use at least the main functions of the system; a troubleshooting section detailing possible errors or
+problems that may occur, along with how to fix them; FAQ (Frequently Asked Questions); glossary
+and, for larger documents, contact list in case of any assistance required etc.
+
+SUMMARY
+The objective of the chapter is to describe the key phases involved during the system development
+process. An effective System Development Life Cycle (SDLC) should result in a high-quality system
+that meets customer expectations, reaches completion within time and cost evaluations, and works
+effectively and efficiently in the current and planned Information Technology infrastructure. The
+System Development Life Cycle (SDLC) is a conceptual model that includes policies and procedures
+for developing or altering systems throughout their life cycles. SDLC is used by analysts to develop
+an information system. A detailed discussion of the System Development Life Cycle (SDLC) is
+provided in the chapter. Accordingly, various stages for the development of the system development
+life cycle have been discussed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+6.22           DIGITAL ECOSYSTEM AND CONTROLS
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    Which of the following phase of System Development Life Cycle (SDLC) involves the
+       determination of user needs of the Proposed System?
+       (a)   System Analysis
+       (b)   System Planning
+        (c)   System Designing
+       (d)   System Implementation
+2.    The following are definitions of various Feasibility Study used in System Development Life
+       Cycle.
+           I.      Is the solution viable financially?
+          II.    Does the project provide Return on Investment?
+          III.   How will the solution work?
+       IV.     Is the solution permissible?
+     The term used for various dimensions of feasibility study is given below:
+      A.    Legal Feasibility
+      B.    Operational Feasibility
+      C.    Economic Feasibility
+      D.    Financial Feasibility
+     Choose the correct option from the following that determine the correct match.
+       (a)     I-D, II-C, III-B, IV-A
+       (b)     I-C, II-B, III-A, IV-D
+        (c)     I-C, II-D, III-B, IV-A
+       (d)     I-A, II-C, III-D, IV-B
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+SYSTEM DEVELOPMENT LIFE CYCLE (SDLC)            6.23
+
+3.     In an organization, as most of the Information Systems require some modification after
+      development, the System Maintenance phase becomes one of the important aspects of
+     SDLC. There are  different categories of Maintenance which are Scheduled, Adaptive,
+       Corrective, Rescue, Preventive and Perfective. Which of the following statements is not
+       correct about these categories of Maintenance?
+        (a)    Scheduled Maintenance is planned to ensure operational continuity and avoidance of
+              anticipated risks.
+        (b)   Rescue Maintenance deals with undetected malfunctions that require immediate
+             troubleshooting solution.
+        (c)    Adaptive Maintenance mainly deals with accommodating to the new or changed user
+             requirements and concerns functional enhancements to the system.
+        (d)    Corrective Maintenance deals with fixing bugs in the code or defects found during the
+             executions.
+4.   ABC Ltd. is proposing to introduce the Fitness awareness amongst its employees by gifting
+        FitBit gadget to all employees and then given targets for personal fitness. The Management
+      wants to evaluate the Feasibility of this initiative. Which dimension is tested here?
+       (a)    Technical Feasibility
+       (b)   Economic Feasibility
+        (c)    Operational Feasibility
+       (d)    Behavioral Feasibility
+5.     Following are the different types of testing done during System Testing phase of Systems
+      Development Life Cycle (SDLC).
+       (A)   Regression Testing
+       (B)    Integration Testing
+       (C)   System Testing
+       (D)    Unit Testing
+     The activities carried out under these Testing types are mentioned below:
+          (i)    An activity of software testing in which individual software modules are combined and
+             tested as a group.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+6.24           DIGITAL ECOSYSTEM AND CONTROLS
+
+           (ii)   A process in which software and other system elements are tested as a whole.
+           (iii)   Ensures that changes or corrections in the software have not introduced new faults.
+         (iv)   To test if individual units of source code are fit for use.
+      Pick the correct match:
+       (a)    (A) - (i), (B) - (ii), (C) - (iii), (D) – (iv)
+       (b)    (A) - (iii), (B) - (i), (C) - (ii), (D) – (iv)
+        (c)    (A) - (i), (B) - (iv), (C) - (ii), (D) – (iii)
+       (d)    (A) - (iv), (B) - (ii), (C) - (i), (D) – (iii)
+
+ANSWERS/SOLUTIONS
+     1.         (a)        2.        (a)        3.        (c)        4.        (b)        5.       (b)
+
+
+© The Institute of Chartered Accountants of India

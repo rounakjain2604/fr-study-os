@@ -1,0 +1,1016 @@
+Source PDF: 04_Direct_Tax_Laws_International_Taxation/014 - Chapter 12- Taxation of Digital Transactions - 88279bos-aps2299-m2-ch12.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\04_Direct_Tax_Laws_International_Taxation\014 - Chapter 12- Taxation of Digital Transactions - 88279bos-aps2299-m2-ch12.pdf
+Extracted at: 2026-05-31T10:23:31+05:30
+Pages: 22
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER           12
+
+TAXATION OF DIGITAL
+TRANSACTIONS
+
+
+                    LEARNING OUTCOMES
+
+After studying this chapter, you would be able to -
+❑   appreciate the meaning of e-commerce and how business is transacted
+     through E-commerce;
+❑   identify the issues and problems in taxing e-commerce transactions;
+❑   comprehend  the OECD  recommendations  for  taxing e-commerce
+      transactions under Action Plan 1 of Base Erosion and Profit Shifting
+     (BEPS) project;
+❑   determine the income arising on transfer of virtual digital asset and
+      taxability thereof;
+❑   examine the applicability of the provisions of tax deducted at source on
+      transfer of virtual digital asset by a resident assessee.
+
+
+                                         1
+
+
+====================== PAGE 2 ======================
+
+
+12.2           DIRECT TAX LAWS
+
+ CHAPTER OVERVIEW
+
+
+ E-commerce
+ •Meaning
+ •How e-commerce transactions takes
+   place                                                     Taxation of Virtual Digital Assets
+
+
+       12.1  INTRODUCTION
+
+The rapid growth of information and communication technology has resulted in substantial expansion
+of the supply and procurement of digital goods and services globally, including India. The digital
+economy is growing at a faster pace than the global economy as a whole.
+
+At present, in the digital domain, business may be conducted without regard to national boundaries
+and may dissolve the link between an income-producing activity and a specific location. Hence,
+business in digital domain doesn’t actually occur in any physical location but instead takes place in
+"cyberspace." Persons carrying business in digital domain could be located anywhere in the world.
+Entrepreneurs across the world have been quick to evolve their business to take advantage of these
+changes. It has also made it possible for the businesses to conduct themselves in ways that did not
+exist earlier, and given rise to new business models that rely more on digital and telecommunication
+network, do not require physical presence, and derives substantial value from data collected and
+transmitted from such networks.
+
+The growth of e-commerce economy has revolutionised the concept of brick and mortar to click and
+order. The need for physical presence in a jurisdiction is consequently getting diminished. Therefore,
+due to transformed business models, communication with suppliers and customers take place
+virtually and digitally. Emergence of new age technologies such as 3D printing, sharing economy,
+internet of things etc. has revolutionised new business models in line with the digital epoch making
+it difficult to identify the location of source or origin point of a business transaction.
+
+The expansion of business in digital form, give rise to certain tax challenges in relation to nexus,
+data and characterization of digital transactions. Over the years, to address these tax challenges
+certain developments are taking place to tax digital transactions which are carried out either by a
+non-resident  non-corporate/ a  foreign company  or  by a  resident  assessee.  This  chapter
+
+
+====================== PAGE 3 ======================
+
+
+TAXATION OF DIGITAL TRANSACTIONS              12.3
+
+
+encompasses these developments introduced in the form of taxation of gains arising on transfer of
+virtual digital assets by a resident assessee.
+
+     12.2 WHAT IS E-COMMERCE?
+
+Clause (a) of Explanation to Section 194O defines “electronic commerce” to mean the supply of
+goods or services or both, including digital products over digital or electronic network.
+
+E-commerce or electronic commerce is one of the main components of the Digital Economy. In its
+widest sense, it encompasses consumer and business transactions conducted over a network, with
+the help of computers and telecommunications. In other words, e-commerce refers to the exchange
+of goods or services for value on the internet. E-commerce, inter-alia, includes, online shopping,
+online trading of goods and services, electronic fund transfers, electronic data exchanges and online
+trading of financial instruments.
+
+1OECD defines e-commerce as the sale or purchase of goods or services, conducted over computer
+networks by methods  specifically designed  for the purpose  of  receiving  or placing  orders.
+Accordingly, whether a commercial transaction qualifies as e-commerce  is determined by the
+ordering method rather than the characteristics of the product purchased, the parties involved, the
+mode of payment or the delivery channel. The ordering process  is considered as a crucial
+determinant of an e-commerce transaction in the OECD definition.
+
+E-commerce facilitates trade across borders, increases convenience for consumers, and enables
+firms to reach new markets. E-commerce reforms have rapidly evolved through the development of
+new business models, which often integrate new and emerging digital technologies as well as new
+online payment mechanisms. Many e-commerce business models use online platforms, facilitating
+purchases between often unknown and dispersed buyers and sellers. Another emerging trend is the
+growth of subscription e-commerce business models, whereby users access goods and services in
+a continuous, recurring stream. E-commerce business models integrate digital ordering mechanisms
+alongside physical infrastructures, including within brick-and-mortar stores.
+
+
+1 OECD (2019), Unpacking E-commerce: Business Models, Trends and Policies, OECD Publishing, Paris,
+https://doi.org/10.1787/23561431-en.
+
+
+====================== PAGE 4 ======================
+
+
+12.4           DIRECT TAX LAWS
+
+     12.3 CONDUCT OF BUSINESS IN DIGITAL ECONOMY
+
+E-commerce is a method of conducting business transactions and not a business transaction by
+itself. Therefore, the contents of a business transaction done through e-commerce means is no
+different from that of a business transaction carried out through traditional means.
+
+New business models expand the e-commerce frontier in two ways. First, new business models can
+enable more transactions to move online in a given market or for a given set of participants. Second,
+new business models can enable whole new markets to emerge  for goods and services that
+previously could not have been bought or sold online, or allow new participants to enter the market.
+
+Digital technologies enable e-commerce innovations and often serve as the backbone of business
+model developments. Some of these technologies,  like smart assistants enabled by  artificial
+intelligence (AI), constitute new channels for selling or purchasing products over electronic networks.
+Similarly, online payment innovations can help to unlock e-commerce potential by promoting trusted
+online transactions between unknown parties.
+
+Classification of E-commerce based on parties involved in transactions. Major types are
+mentioned below:
+
+
+(i)    Business to Customers (B2C): In this type of e-commerce, transactions take place between
+      businesses and consumers. In B2C e-commerce, products or services are sold to end-users
+         (i.e. consumers).
+
+      Examples: Amazon.in, Flipkart.com, Myntra.com, Snapdeal.com etc. are the examples of
+     B2C e-commerce businesses, where consumers can find almost anything be  it books,
+       electronic products like washing machines, USB storage devices, clothes, shoes or personal
+      care etc.
+
+
+====================== PAGE 5 ======================
+
+
+TAXATION OF DIGITAL TRANSACTIONS              12.5
+
+(ii)   Business to Business (B2B): In B2B e-commerce, transactions take place between two
+      businesses.
+
+      Example:  IndiaMART,  TradeIndia,  Alibaba,  go4WorldBusiness.com  (an  online B2B
+      marketplace for global exporters and importers), Amazon, the US-based ecommerce giant
+        etc. are the example of B2B online platforms.
+
+(iii)   Government to Customers (G2C): The online platform between a government and  its
+       citizens or consumers for paying taxes, registering vehicles, and providing information and
+       services such as filing of income-tax return etc.
+
+(iv)   Government  to Business  (G2B)/ Business  to Government (B2G):  In G2B/ B2G
+      e-commerce, an electronic exchange  of any information between businesses and the
+      government, usually using internet so the cooperation or communication takes place on the
+        internet.  In  G2B,  government  agencies  and  business  use  websites,  procurement
+      marketplaces, applications, web services.
+
+      Example: Government  e-Marketplace  (GeM), a one  stop  portal  to  facilitate  online
+      procurement  of common  use Goods &  Services  required  by  various  Government
+      Departments/Organizations / PSUs.
+
+      INAM-Pro is a web based application, designed by National Highways and Infrastructure
+      Development Corporation Ltd (NHIDCL) and launched by the Ministry as a common platform
+       to bring cement buyers and sellers together.
+
+(v)   Customer to Customer (C2C): When goods or services are bought and sold between two
+      consumers, C2C e-commerce business takes place.
+
+      Example: Olx, a C2C e-commerce online platform where customer sells his used goods to
+       other customer; eBay, an online marketplace in which an individual sells a product or service
+       to another.
+
+E-Commerce Business Models
+
+With the advancement  of  digitalization and emergence  of new technologies, new forms  of
+e-commerce business models have evolved. Some of such ways of transacting e-commerce
+business are discussed here below:
+
+Online platform e-commerce business model:
+
+In the context of e-commerce, online platforms act as intermediaries between buyers and sellers to
+facilitate the exchange of goods and services over the Internet. Buyers benefit due to the presence
+
+
+====================== PAGE 6 ======================
+
+
+12.6           DIRECT TAX LAWS
+
+
+of variety of products available with diverse sellers. Likewise, sellers discover many buyers to whom
+they can sell their products. As compared to the physical stores, digital marketplace deliver variety
+of goods and service.
+
+Meaning of Marketplace based model and Inventory based model of e-commerce2:
+
+Marketplace based model of e-commerce means providing an information technology platform by
+an e-commerce entity on a digital & electronic network to act as a facilitator between buyer and
+seller.
+
+Inventory based model of e-commerce means an e-commerce activity where inventory of goods
+and services is owned by e-commerce entity and is sold to the consumers directly.
+
+Subscription e-commerce business model: Subscription business model is characterised by
+regular and recurring payments for the repeated provision of a good or a service. The subscription
+business model can relate to recurring purchases of digital goods and services, or a combination of
+both digital and tangible products (such as a newspaper subscription that includes access to digital
+content). Some current e-commerce subscription business models, such as Spotify or Netflix etc.
+
+Digital identity and its potential for e-commerce: Digital identity refers to the set of information
+used by a computer to authenticate an identity. For example, India’s Aadhaar programme issues a
+unique number to every Indian citizen which  is a valid means  of  identification  vis-à-vis the
+government as well as private Internet sites including Airbnb, Uber and digital wallet services.
+
+Subscription access to tangible and bundled goods and services: A recent e-commerce trend
+has been the growth of subscription business models for tangible goods, including in categories like
+beauty supplies (Birchbox), minerals (Celestial Minerals), groceries (Blue Apron, Hello Fresh), snack
+foods (Nature Box), cosmetics and self-care products (Dollar Shave Club, Harry’s), and many more.
+
+Online-offline e-commerce business models: These business models serve as extensions of
+e-commerce, pushing the edges of online purchases into physical stores. Some business models
+combine online ordering with offline distribution, which may be useful to enable the online purchase
+of products whose quality may not be assessed from a distance, such as perishable goods like
+groceries. Many businesses have taken advantage of the ubiquity of digital technologies to grow
+business models based on a combination of both online and offline features. Other online businesses
+are moving offline by adding brick-and-mortar elements to enable the online sale of other goods, like
+clothing, where fit may be difficult to assess from a distance.
+
+
+2 Consolidated FDI Policy Circular of 2017, dated 28.8.2017 read with Press Note dated 26.12.2018
+
+
+====================== PAGE 7 ======================
+
+
+TAXATION OF DIGITAL TRANSACTIONS              12.7
+
+Mobile technologies  - Helping e-commerce to flourish in brick-and-mortar stores: Mobile
+technologies empower consumers to perform a range of digital activities, including online shopping.
+Consumers use digital technologies throughout the commercial process, but smartphones enable
+buyers to compare prices, to do research and finally make transactions from any networked location.
+
+Online groceries – e-commerce frontier: Many businesses are successfully selling perishable
+food and groceries online. Some online business models offer direct shipping of purchased groceries
+alongside guarantees related to quality and customer satisfaction to give consumers confidence in
+the purchase of perishable goods and services.
+
+Innovative payment mechanisms: Safely and remotely exchanging money online, including across
+borders, is fundamental to e-commerce. Safe and effective online payment mechanisms facilitate
+trusted online transactions, boosting the growth of e-commerce between unknown buyers and
+sellers. Many online payment mechanisms are closely associated with the rise of e-commerce. In
+fact, one of the earliest online payment models is “Paypal”, which is emerged in combination with
+the pioneering online auction house and e-commerce platform eBay, to enable safe online payments
+between the parties involved.
+
+Digital wallets: An online payment can be broadly considered to be a “purchase order placed using
+devices connected to the Internet”, a definition that is relevant to many forms of e-commerce. One
+mechanism of enabling online payments includes the use of digital wallets, also known as “e-wallets”
+or “electronic wallets”.
+
+Digital wallets allow e-commerce by enabling trusted transactions online, without which most
+e-commerce purchases would not be possible. Consumers may be more willing to do a transaction
+online using a digital wallet as opposed to directly sharing financial information with online retailers.
+
+Mobile money - Extending e-commerce to the unbanked: Another form of payment innovation
+that enables e-commerce is the rise of a specific form of mobile payment, also known as “mobile
+money”, particularly for unbanked people (i.e. those without access to financial services). Mobile
+money differs from digital wallets insofar that the mechanism for payment is conducted via mobile
+communication networks, and does not necessarily require an existing relationship with a financial
+services provider.
+
+Mobile money is facilitated by mobile network operators who use a system of agents to accept
+regular currency in the form of cash and store an equivalent value in a digital wallet, which can then
+be transferred to other users or can be withdrawn later. Mobile money is connected with a mobile
+phone number and often uses two-factor authentication through a personal identification number
+issued at the point of registration. Mobile money can be transferred to others who are also registered
+
+
+====================== PAGE 8 ======================
+
+
+12.8           DIRECT TAX LAWS
+
+
+with the same mobile money system, exchanged with merchants for goods and services, or can be
+withdrawn as cash from a mobile money agent. Mobile money can therefore act as a means of
+storing and transferring value in a secure and convenient way for unbanked people.
+
+ Resources: The discussion on E-commerce Business Models in this chapter is essentially based
+ on the text published in “Unpacking E-commerce: Business Models, Trends and Policies, OECD
+ Publishing, Paris” available at https://doi.org/10.1787/23561431-en.
+
+
+     12.4 TAXATION   ISSUES  RELATING  TO   DIGITAL
+       ECONOMY
+
+These new business models have created new tax challenges. The typical taxation issues relating
+to digital economy are:
+
+(i)     the difficulty in characterizing the nature of payment and establishing a nexus or link between
+       taxable transaction, activity and a taxing jurisdiction,
+
+(ii)    the difficulty of locating the transaction, activity and identifying the taxpayer for income tax
+      purposes.
+
+The digital business, thus, challenges physical presence-based permanent establishment rules. If
+permanent establishment principles are to remain effective in the new economy, the fundamental
+PE components developed for the old economy i.e. place of business, location, and permanency
+must be reconciled with the new digital reality. Further, characterizing the income as technical
+services becomes difficult since the technical services rendered digitally does not involve human
+intervention, as the digital platforms operate on sophisticated  artificial intelligence mechanism.
+Hence the new digital business models gives rise to ‘stateless income’ and thereby going completely
+tax free.
+
+     12.5 OECD RECOMMENDATIONS UNDER ACTION PLAN 1
+        OF THE BEPS PROJECT
+
+Due to the tax challenges arising from digitalization, the G20-OECD BEPS Action Plan Committee
+as part of  its 2015 Action 1 Report identified a number of broader tax challenges raised by
+digitalisation, notably in relation to nexus, data and characterisation.
+
+
+====================== PAGE 9 ======================
+
+
+TAXATION OF DIGITAL TRANSACTIONS              12.9
+
+The Action Report 1 analysed the following three options, namely -
+
+(i)    a new nexus rule in the form of a “significant economic presence” test,
+
+(ii)    a withholding tax which could be applied to certain types of digital transactions, and
+
+(iii)   an equalisation levy, intended to address a disparity in tax treatment between foreign and
+      domestic businesses where the foreign business had a sufficient economic presence in the
+        jurisdiction
+
+The OECD has recommended several options to tackle the direct tax challenges which include:
+
+(1)    Modifying the existing definition of permanent establishment to provide for whether an
+       enterprise engaged in  fully de-materialized digital activities would constitute a PE,  if  it
+      maintained a significant digital presence in another country's economy.
+
+(2)    Introducing the concept of a virtual fixed place of business in the concept of permanent
+      establishments i.e., creation of a permanent establishments when the enterprise maintains a
+      website on a server of another enterprise located in a jurisdiction and carries on business
+      through that website.
+
+(3)    Imposition of a final withholding tax on gross basis in case of certain payments made for digital
+      goods or services provided by a foreign e-commerce provider or imposition of a equalisation levy
+      on consideration for certain digital transactions received by a non-resident from a resident or from
+      a non-resident having permanent establishment in other contracting state.
+
+It was concluded that countries could introduce any of these options in their domestic laws as
+additional safeguards against BEPS, provided they respect existing treaty obligations, or in their
+bilateral tax treaties. The above options can be resorted to as an interim measure until a clear
+solution emerges on taxing digital economy.
+
+Taking into consideration the potential of new digital economy and the rapidly evolving nature of
+business operations, it becomes necessary to address the challenges in terms of taxation of such
+digital transactions. In order to arrive at a long term solution, the OECD along with the BEPS
+Inclusive Framework  is working on arriving at a consensus based solution to tackle the tax
+challenges arising out of the digital economy as part of a ‘Unified Approach’ under Pillar One.
+
+Consequent to the BEPS Action Report 1, a committee was constituted by the CBDT to evaluate the
+alternatives suggested in the BEPS Action Report 1 for addressing the challenges arising on taxing
+the digital economy. Pursuant to the recommendations of the Committee, Chapter VIII of the Finance
+Act,  2016,  titled  "Equalisation  Levy" was  introduced.   It  provides  for an  equalisation  levy
+@6% of the amount of consideration for specified services received or receivable by a non-resident
+
+
+====================== PAGE 10 ======================
+
+
+12.10           DIRECT TAX LAWS
+
+
+not having PE in India, from a resident in India who carries out business or profession, or from a
+non-resident having PE in India.
+
+In order to widen and deepen the equalisation levy net beyond online advertisement, its scope had
+been extended by the Finance Act, 2020 to consideration received or receivable for e-commerce
+supply or services made or provided or facilitated on or after 1.4.2020.
+
+However, some stakeholders have raised concerns  that the scope  of equalisation  levy on
+e-commerce supply or services made or provided or facilitated is ambiguous and as a result it leads
+to compliance burden. In view of this it is proposed that this equalisation levy shall not be applicable
+to consideration received or receivable for e-commerce supply or services, on or after the 1st day
+of August 2024. Further, vide Finance Act, 2025 the equalisation levy on specified services also
+abolished.
+
+     12.6 TAXATION OF VIRTUAL DIGITAL ASSETS
+
+There has been a phenomenal increase in transactions in virtual digital assets. Further, a market is
+emerging where payment for the transfer of a virtual digital asset can be made through another such
+asset. Accordingly, for the taxation of virtual digital assets, a scheme has been introduced by the
+Finance Act, 2022.
+
+Meaning of virtual digital asset [Section 2(47A)]
+
+It means -
+
+(a)   any information or code or number or token (not being Indian currency or foreign currency),
+
+          -     generated through cryptographic means or otherwise, by whatever name called,
+
+          -      providing a digital representation of value exchanged with or without consideration,
+
+          -      with the promise or representation of having inherent value, or
+
+          -      functions as a store of value or a unit of account including its use in any financial
+              transaction or investment, but not limited to investment scheme; and
+
+          -     can be transferred, stored or traded electronically;
+
+(b)   a non-fungible token or any other token of similar nature, by whatever name called;
+
+     The non-fungible token means such  digital asset as may be  notified by the Central
+      Government.
+
+
+====================== PAGE 11 ======================
+
+
+TAXATION OF DIGITAL TRANSACTIONS              12.11
+
+       Accordingly, the Central Government has, vide notification no. 75/2022 dated 30.6.2022,
+       specified a token which qualifies to be a virtual digital asset as non-fungible token. However,
+            it shall not include a non-fungible token whose transfer results in transfer of ownership of
+       underlying tangible asset and the transfer of ownership of such underlying tangible asset is
+        legally enforceable.
+
+(c)    any other digital asset, as may be notified by the Central Government.
+
+(d)   any crypto-asset being a digital representation of value that relies on a cryptographically
+      secured distributed ledger or a similar technology to validate and secure transactions,
+      whether or not such asset is included in point (a) or (b) or (c) above.
+
+However, the Central Government may, by notification, exclude any digital asset from the definition
+of virtual digital asset subject to specified conditions.
+
+Accordingly, the Central Government has, vide notification no. 74/2022 dated 30.6.2022, notified
+that the following virtual digital assets would be excluded from the definition of virtual digital asset–
+
+(i)      Gift card or vouchers, being a record that may be used to obtain goods or services or a
+       discount on goods or services;
+
+(ii)    Mileage points, reward points or loyalty card, being a record given without direct monetary
+       consideration under an award, reward, benefit, loyalty, incentive, rebate or promotional
+      program that may be used or redeemed only to obtain goods or services or a discount on
+      goods or services;
+
+(iii)    Subscription to websites or platforms or application
+
+Taxability of income from transfer of virtual digital assets [Section 115BBH]
+
+(1)   Tax rate on transfer of virtual digital asset – Where the total income of an assessee
+       includes any income from the transfer of any virtual digital asset, such income would be taxed
+    @30% under section 115BBH.
+
+(2)   No deduction allowed – In computing the income from transfer of virtual digital asset, no
+      deduction would be allowed under any provisions of the Act in respect of any expenditure or
+      allowance except cost of acquisition, if any. Further, no set off of any loss is allowed to the
+      assessee from such income.
+
+(3)    Set off or carry forward of loss from transfer of virtual digital asset not allowed – Loss
+      from transfer of virtual digital asset would not be allowed to be set off against income
+      computed under any provision of this Act to the assessee and such loss would not be allowed
+       to be carried forward to succeeding assessment years.
+
+(4)    Virtual digital asset need not to be a capital asset  - The definition of “transfer” under
+       section 2(47) would apply to any virtual digital asset, whether it is a capital asset or not.
+
+
+====================== PAGE 12 ======================
+
+
+12.12           DIRECT TAX LAWS
+
+Taxability  of  receipt  of  virtual  digital asset as  gift  or  for inadequate consideration
+[Section 56(2)(x)]
+
+In order to tax gift of virtual digital asset in the hands of the recipient, section 56 has been amended
+to include virtual digital asset within the definition of “property”.
+
+Accordingly, if virtual digital asset is received by any person from any person
+
+(i)    Without consideration: The aggregate fair market value of such virtual digital asset on the
+      date of receipt would be taxed as the income of the recipient, if it exceeds ` 50,000.
+
+(ii)    For inadequate consideration:  If the difference between the aggregate fair market value
+      and such consideration exceeds ` 50,000, such difference would be taxed as the income of
+       the recipient.
+
+However, the exclusions from the applicability of section 56(2)(x) will apply to gift virtual digital asset
+also. For example, if virtual digital asset is received as a gift by an individual from his relative, the
+value of the same would not be treated as income.
+
+TDS on payment on transfer of virtual digital asset [Section 194S]
+
+(1)    Applicability and rate of TDS – Section 194S requires any person who is responsible for
+      paying to any resident any sum by way of consideration for transfer of a virtual digital asset
+       to deduct tax @1% of such sum.
+
+(2)   Time of deduction – The deduction is to be made at the time of credit of consideration to the
+      account of the resident or at the time of payment of such sum by any mode, whichever is earlier.
+
+     Where consideration is credited to any account in the books of account of the person liable
+       to pay such sum, such credit of the sum is deemed to be the credit of such sum to the account
+       of the payee and tax has to be deducted at source. The account to which such sum is credited
+     may be called “Suspense Account” or by any other name.
+
+(3)   Cases where the consideration for transfer of virtual digital asset is wholly in kind or
+       partly in kind and partly in cash – In a case where the consideration for transfer of virtual
+        digital asset is
+
+          -      wholly in kind or in exchange of another virtual digital asset, where there is no part in
+             cash; or
+
+          -       partly in cash and partly in kind but the part in cash is not sufficient to meet the liability
+               of deduction of tax in respect of whole of such transfer,
+
+       the person  responsible  for  paying such  consideration has  to,  before  releasing  the
+       consideration, ensure that tax required to be deducted has been paid in respect of such
+       consideration for the transfer of virtual digital asset.
+
+
+====================== PAGE 13 ======================
+
+
+TAXATION OF DIGITAL TRANSACTIONS              12.13
+
+(4)   Non applicability of TDS under section 194S – No tax is required to be deducted under
+       section 194S, where the consideration is payable by the person referred to in column (2) of
+       the table below and aggregate value of such consideration during the financial year does not
+      exceed the threshold limit in the corresponding row of column (3) of the table below:
+
+         (1)                 Consideration is payable by                 Threshold limit
+                                                 (2)                                            (3)
+             (i)   Specified person, being an individual or a Hindu undivided  ≤ ` 50,000
+               family
+                    -   whose  total sales, gross receipts or turnover from  his
+                 business or profession does not exceed ` 1 crore in case
+                    of business or ` 50 lakhs in case of profession, during the
+                    financial year immediately preceding the financial year in
+                which such virtual digital asset is transferred; or
+                    -   not having any income under the head “Profits and gains of
+                 business or profession”.
+              (ii)   Other than specified person mentioned in (i) above          ≤ ` 10,000
+
+(5)   Due date of remittance to Government Account [Rule 30] and Furnishing statement and
+       certificate of TDS u/s 194S [Rules 31A and 31]
+
+         Sl.            (1)                     (2)                    (3)                   (4)
+       No.                 Particulars      Specified Person     Exchange    Any other person
+           (i)   Rule 30 – Time of  30 days  from  the   In case of tax deducted in March, on
+            payment         to  end of the month of   or before 30th April.
+            Government        deduction              In any other case, on or before 7 days
+             Account                                from  the  end   of  the  month   of
+                                                        deduction.
+            (ii)   Rule   31A    –
+              Furnishing       of
+             Statement of TDS
+               u/s 200(3)
+          Form            Form 26QE        Form 26QF      Form 26Q
+           Time                Within 30 days from  Common for Exchange and any other
+                                   the  end   of   the  person
+                             month of deduction                                                        Qtr ending      Due date
+                                                                    30th June           31st July
+                                                                     30th Sep            31st Oct
+                                                                      31st Dec            31st Jan
+                                                                     31st March          31st May
+
+
+====================== PAGE 14 ======================
+
+
+12.14           DIRECT TAX LAWS
+
+  (iii)   Rule  31  – TDS  Form  16E  to  be  Form 16A to be furnished within 15
+        Certificate           furnished within 15  days from the due date of furnishing
+                         days from the due  TDS statement  in Form 26QF/Form
+                           date  of  furnishing  26Q.
+                    TDS  statement  in
+                      Form 26QE.
+
+ILLUSTRATION 1
+
+Compute the net income-tax payable by Mr. Abhinav, aged 32 years, who has the following
+income for the A.Y.2026-27:
+
+(i) Interest on fixed deposits with SBI (Gross) `1,10,000
+
+(ii) Interest on savings bank account with SBI `35,000
+
+(iii) Consideration for transfer of VDA `4,62,000
+
+(iv) Cost of acquisition `21,000
+
+(v) Expenses on transfer of VDA `1,000
+
+Mr. Abhinav has exercised option to shift out of section 115BAC.
+
+SOLUTION
+
+Total income (excluding Income from transfer of VDA) is below the basic exemption limit of
+` 2,50,000. Therefore, tax on income, other than income from VDA,  is  Nil. Income of
+` 4,41,000 (` 4,62,000 – ` 21,000) from transfer of VDA would be taxable@30% (plus cess
+of 4%). The tax on income from transfer of VDA would be ` 1,37,592, being 31.2% of
+` 4,41,000. The expenses on transfer of VDA is not allowable as deduction.
+
+Section 194S provides for deduction of tax on payment on transfer of virtual digital asset to
+a resident at the rate of 1% of consideration. Hence, the transferee would have deducted tax
+of ` 4,620, being 1% of ` 4,62,000.
+
+Tax@10% under section 194A would have been deducted by SBI from ` 1,10,000. TDS
+u/s 194A = ` 11,000
+
+Net tax payable by Mr. Abhinav would be ` 1,21,972 [` 1,37,592 – ` 11,000 (TDS u/s 194A)
+– ` 4,620 (TDS u/s 194S)].
+
+
+====================== PAGE 15 ======================
+
+
+TAXATION OF DIGITAL TRANSACTIONS              12.15
+
+ILLUSTRATION 2
+
+Compute the net income-tax payable by Mr. Siddhanth, aged 24 years, who has the following
+income for the A.Y.2026-27
+
+(i)    Income from Salaries (computed)           ` 8,40,000
+
+(ii)     Interest on savings bank account with Axis Bank     `12,000
+
+(iii)    Consideration on transfer of VDA to Mr. Harsh      `50,000
+
+(iv)   Cost of acquisition of VDA transferred          `5,000
+
+Mr. Harsh is employed with ABC Ltd. on a monthly salary of ` 50,000. In addition, he has
+interest on savings bank account with Bank of India.
+
+Mr. Siddhanth has not exercised option to shift out of section 115BAC. Ignore TDS on income
+other than VDA.
+
+SOLUTION
+
+                 Tax payable by Mr. Siddhanth for A.Y. 2026-27
+
+                             Particulars                        Amount in `
+ Total income (excluding income from transfer of VDA) [` 8,40,000 +         8,52,000
+ ` 12,000]
+ Income from VDA (` 50,000 – ` 5,000)                                      45,000
+ Total Income                                                             8,97,000
+ Tax on income other than VDA
+ Upto ` 4,00,000                                                            Nil
+ ` 4,00,001 to ` 8,00,000 @5%                        ` 20,000
+ ` 8,00,001 to ` 8,52,000 @10%                        ` 5,200          25,200
+ Tax on income from VDA @30%                                            13,500
+                                                                         38,700
+ Less: Rebate u/s 87A                                                      25,200
+                                                                          13,500
+ Add: Health and education cess @ 4%                                      540
+                                                                         14,040
+ Less: TDS under section 194S [Mr. Harsh is a specified person since he
+ does not have income under the head “Profits and gains of business and
+ profession” and the consideration payable by him does not exceed
+ ` 50,000. Accordingly, Mr. Harsh need not deduct tax u/s 194S on                                                                                                      Nil
+ consideration payable to Siddhanth]
+ Net tax payable                                                          14,040
+
+
+====================== PAGE 16 ======================
+
+
+12.16           DIRECT TAX LAWS
+
+     ILLUSTRATION 3
+
+     Compute the net income-tax payable by Mr. Raj, aged 32 years, who has the following income
+        for the A.Y.2026-27
+
+          (i)    Business loss                           (`3,18,000)
+
+           (ii)     Interest on fixed deposits with HDFC Bank      `18,000
+
+           (iii)    Consideration on transfer of VDA         ` 6,20,000
+
+         (iv)   Cost of acquisition of VDA transferred        `20,000
+
+     SOLUTION
+
+     As per section 71, business loss of the current year can be set off against income from other
+      sources of that year. Therefore, business loss of ` 3,18,000 can be set off against interest of
+     ` 18,000 from fixed deposits.
+
+     As per section 115BBH, business loss cannot be set off against income from transfer of VDA.
+       Therefore, balance business loss of ` 3,00,000 cannot be set off against Income from VDA
+       of ` 6,00,000 (` 6,20,000 – ` 20,000). The same has to be carried forward to A.Y.2027-28
+        for set-off against business income of that year.
+
+      Tax on Income from VDA would be ` 1,87,200 (i.e., 31.2% of ` 6 lakh).
+
+      Section 194S provides for deduction of tax on payment on transfer of virtual digital asset to
+      a resident at the rate of 1% of consideration. Hence, the transferee would have deducted tax
+       of ` 6,200, being 1% of ` 6,20,000.
+
+      Net tax payable by Mr. Raj = ` 1,87,200 – ` 6,200 = ` 1,81,000.
+
+(6)    Non-applicability of section 203A - The provisions of section 203A containing the requirement
+        of obtaining TAN would not be applicable in case of specified person referred in 4(1).
+
+(7)   Cross application of section 194-O and section 194S - In case of a transaction where tax
+        is deductible under section 194-O along with the section 194S, then, the tax shall be deducted
+      under section 194S and not section 194-O.
+
+(8)   Power of the CBDT to issue guidelines – In case any difficulty arises in giving effect to the
+       provisions of this section, the CBDT is empowered to issue guidelines, with the prior approval
+       of the Central Government, for the purposes of removing the difficulty.
+
+
+====================== PAGE 17 ======================
+
+
+TAXATION OF DIGITAL TRANSACTIONS              12.17
+
+Every guideline issued by the CBDT shall be laid before each House of Parliament and
+shall be binding on the income-tax authorities and on the person responsible for paying the
+consideration on transfer of such virtual digital asset.
+
+Accordingly, the CBDT has, with the prior approval of the Central Government, vide Circular
+no. 13/2022 dated 22.6.2022, issued the following guidelines. These guidelines would apply
+only in cases where transfer of virtual digital asset  is taking place on or through an
+Exchange. In other cases (like peer to peer and others) provisions of section 194S would
+apply.
+
+Question 1: Who is required to deduct tax when the transfer of virtual digital asset is
+taking place on or through an Exchange and payment is made by the purchaser to
+the Exchange (directly or through broker) and then from the Exchange  it goes to
+seller directly or through the broker?
+
+Answer: According to section 194S, any person who is responsible for paying to any
+resident any sum by way of consideration for transfer of virtual digital asset is required to
+deduct tax.
+
+Thus, in a peer to peer (i.e., direct buyer to seller) transaction, the buyer (i.e., person paying
+the consideration) is required to deduct tax under section 194S. The tax so deducted is
+required to be deposited with Government in accordance with the time and procedure
+prescribed in the Act read with the relevant provisions of the Income-tax Rules, 1962.
+
+After deduction, the deductor is required to furnish a quarterly statement (in Form No. 26Q)
+for all such transactions of the quarter on or before the due date prescribed in the Income-
+tax Rules, 1962. For specified person Form 26QE has been introduced.
+
+It may be clarified that the TDS shall be on consideration for transfer of virtual digital asset
+less GST. [Clarified by the CBDT vide circular no. 14/2022 dated 28.6.2022 for all other
+transactions not conducted on or through Exchange]
+
+However, if the transaction is taking place on or through an Exchange, there is a possibility
+of tax deduction requirement under section 194S at multiple stages. Hence, in order to
+remove difficulties for transactions taking place on or through an Exchange, the following
+clarifications have been issued by CBDT:-
+
+(i)     In a case where the transfer of virtual digital asset takes place on or through
+     an Exchange and the virtual digital asset being transferred is owned by a
+     person other than the Exchange: In this case, buyer would be crediting or making
+      payment to the Exchange (directly or through a broker). The Exchange, then, would
+
+
+====================== PAGE 18 ======================
+
+
+12.18           DIRECT TAX LAWS
+
+
+      be required to credit or make payment to the owner of virtual digital asset being
+       transferred, either directly or through a broker. Since there are multiple players, to
+     remove difficulty it has been clarified that:
+
+       1.    Tax may be deducted under section 194S only by the Exchange which is
+              crediting or making payment to the seller (owner of the virtual digital asset
+            being transferred). In a case where broker owns the virtual digital asset, it is
+             the broker who  is the seller. Hence, the amount of consideration being
+              credited or paid to the broker by the Exchange is also subject to tax deduction
+            under section 194S.
+
+       2.     In a case where the credit/ payment between Exchange and the seller is
+             through a broker (and the broker is not seller), the responsibility to deduct tax
+            under section 194S shall be on both the Exchange and the broker. However, if
+             there is a written agreement between the Exchange and the broker that broker
+               shall be deducting tax on such credit/ payment, then broker alone may deduct
+             the tax under section 194S. The Exchange would be required to furnish a
+              quarterly statement (in Form 26QF) for all such transactions of the quarter on
+              or before the due date prescribed in the Income-tax Rules, 1962.
+
+(ii)    In a case where the transfer of virtual digital asset takes place on or through an
+     Exchange and the virtual digital asset being transferred is owned by such
+     Exchange: In this case, there are no multiple players. The buyer is required to deduct
+       tax under section 194S. However, there may be a practical issue as the buyer may not
+     know whether the virtual digital asset being transferred is owned by the Exchange or
+       not. Hence, there may be genuine doubt in the mind of buyer with regard to  its
+       responsibility to deduct tax under section 194S. This difficulty would also be there if
+       the buyer is buying virtual digital asset from an Exchange through a broker.
+
+     To remove this difficulty, it has been clarified that while the primary responsibility to
+      deduct tax under section 194S, in this case, remains with the buyer or his broker, as
+      an alternative the Exchange may enter into a written agreement with the buyer or his
+       broker that in regard to all such transactions, the Exchange would be paying the tax
+      on or before the due date for that quarter. The Exchange would be required to furnish
+      a quarterly statement (in Form 26QF) for all such transactions of the quarter on or
+       before the due date prescribed in the Income-tax Rules, 1962. The Exchange would
+       also be required to furnish its income tax return and all these transactions must be
+       included in such return. If these conditions are complied with, the buyer or his broker
+      would not be held as assessee in default under section 201 for these transactions.
+
+
+====================== PAGE 19 ======================
+
+
+TAXATION OF DIGITAL TRANSACTIONS              12.19
+
+     Meaning of certain terms:
+
+          (i)    The term “Exchange” means any person that operates an application or
+              platform for transferring of virtual digital assets, which matches buy and sell
+             trades and executes the same on its application or platform.
+
+           (ii)   The term “Broker” means any person that operates an application or platform
+                for transferring of virtual digital assets and holds brokerage account/accounts
+              with an Exchange for execution of such trades.
+
+Question 2: Question no 1 was with respect to transactions where the consideration
+for transfer of virtual digital asset is not in kind. How will this operate in a situation
+where it is in kind or in exchange of another virtual digital asset?
+
+Answer: In the above situation, the buyer will release the consideration in kind after seller
+provides proof of payment of such tax (e.g., Challan details etc.). In a situation where virtual
+digital asset “A” is being exchanged with another virtual digital asset “B”, both the persons
+are buyer as well as seller. One is buyer for “A” and seller for “B” and another is buyer for “B”
+and seller for “A”. Thus, both need to pay tax with respect to transfer of virtual digital asset
+and show the evidence to other so that virtual digital assets can then be exchanged. This
+would then be required to be reported in TDS statement along with challan number. Form
+26Q has included provisions for reporting such transactions. For specified persons, Form
+26QE has been introduced. [Also clarified by the CBDT vide circular no. 14/2022 dated
+28.6.2022 for all other transactions not conducted on or through Exchange]
+
+However, if the transaction is through an Exchange there is practical issue in implementing
+this provision. In order to address this practical issue and to remove difficulty, it is clarified
+that in such a situation, as an alternative, tax may be deducted by the Exchange. Such an
+alternative mechanism can be exercised by the Exchange based on written contractual
+agreement with the buyers/sellers.
+
+If such an alternative mechanism is exercised,
+
+(i)     the Exchange would be required to deduct tax for both legs of the transactions and
+      pay to the Government. In the Form 26Q it will need to report  it as tax deducted on
+      both legs of the transaction.
+
+(ii)    the buyer and seller would not be independently required to follow the procedure
+       prescribed under proviso to section 194S(1) i.e., to ensure that the tax required to be
+      deducted has been paid by the other person, before releasing the consideration.
+
+
+====================== PAGE 20 ======================
+
+
+12.20           DIRECT TAX LAWS
+
+
+(iii)   The tax withheld in kind under section 194S and converted into INR shall be deposited
+        in the Government Account as per the time line and process given in the Income-tax
+      Rules 1962.
+
+It has been clarified that there would not be any further TDS for converting the tax withheld
+in kind in the form of virtual digital asset into INR or from one virtual digital asset to another
+virtual digital asset and then into INR.
+
+Question 3: Whether the provision of section 194Q is also applicable on transfer of
+virtual digital asset?
+
+Answer: Without going into the merit whether virtual digital asset is goods or not,  it is
+clarified that once tax is deducted under section 194S, tax would not be required to be
+deducted under section 194Q. [Also clarified by the CBDT vide circular no. 14/2022
+dated 28.6.2022  for  all other transactions also not conducted on or through
+Exchange]
+
+Question 4: Whether the consideration for transfer of virtual digital asset shall be on
+Gross basis after including GST/commission or  it shall be on “net basis” after
+exclusion of these items.
+
+Answer: In order to remove difficulty, it is clarified that the tax required to be withheld under
+section 194S shall be on the “net” consideration after excluding GST/charges levied by the
+deductor for rendering service.
+
+Question 5: In transactions where payment is being carried out through payment
+gateways, there may be tax deduction twice. To illustrate that a person “XYZ” is
+required to make payment to the seller for transfer of virtual digital asset. He makes
+payment of ` 1,00,000 through digital platform of “ABC”. On these facts liability to
+deduct tax under section 194S may fall on both “XYZ” and “ABC”. Is tax required to
+be deducted by both?
+
+Answer: In order to remove this difficulty,  it is provided that in the above example, the
+payment gateway will not be required to deduct tax under section 194S on a transaction, if
+the tax has been deducted by the person (“XYZ”) required to make deduction under section
+194S. Hence, in the above example,  if “XYZ” has deducted tax under section 194S on
+` 1,00,000, “ABC” will not be required to deduct tax under section 194S on the same
+transaction. To facilitate proper implementation, “ABC” may take an undertaking from “XYZ”
+regarding deduction of tax.
+
+
+====================== PAGE 21 ======================
+
+
+TAXATION OF DIGITAL TRANSACTIONS              12.21
+
+              TEST YOUR KNOWLEDGE
+
+Questions
+
+1.     Explain the core reasons for difference between the e-commerce transactions and the
+        traditional business  transactions causing  difficulty  to  tax  the income  of e-commerce
+       transactions.
+
+2.    E-commerce transactions have replaced concepts generally associated with international
+       transactions traditionally. Discuss briefly the taxation issues involving such transactions.
+
+3.    From the following details compute the taxable income of Mr. Mohan for the sale and
+      purchase of Bitcoins and NFT made during the year:
+
+       Date               Particulars                               Units   Amount (`)
+
+       June 15, 2025      Purchase (Bitcoin)                       5000        50,000
+
+        July 15, 2025       Sale (Bitcoin)                           2500        25,500
+
+        July 20, 2025       Sale (Bitcoin)                           2500        28,750
+
+                        Expenses Incurred on Sale of Bitcoin                     15,000
+
+       August 1, 2025     Purchase (NFT)                        10000      1,50,000
+
+       August 16, 2025    Sale (NFT)                             6000        89,000
+
+       August 31, 2025    Sale (NFT)                             4000        56,000
+
+                        Expenses Incurred on Sale of NFT                       18,000
+
+Answers
+
+1.    The core reasons for difference between e-commerce transactions and traditional business
+       transactions causing difficulty to tax the income from e-commerce transactions under the
+      Income-tax Act, 1961 are absence of national boundaries, no requirement of physical
+      presence of goods and no requirement of physical delivery (in certain cases). Since e-
+     commerce transactions are completed in cyberspace,  it is often not clear as to the place
+      where the transaction is effected, thereby causing difficulty in implementing source rule
+       taxation.
+
+
+====================== PAGE 22 ======================
+
+
+12.22           DIRECT TAX LAWS
+
+
+2.    The typical taxation issues relating to e-commerce are:
+
+        (1)    the difficulty in characterizing the nature of payment and establishing a nexus or link
+           between taxable transaction, activity and a taxing jurisdiction,
+
+        (2)    the difficulty of locating the transaction, activity and identifying the taxpayer for income
+              tax purposes.
+
+3.                   Computation of Taxable Income of Mr. Mohan
+
+                                                                        `
+       Sale of 2500 Bitcoin 15.07.2025
+       Sale Consideration                                                       25,500
+        Less: Cost of Acquisition (2500 x 50000/5000)                                25,000
+       Gain                                                                 500
+       Sale of 2500 Bitcoin 20.07.2025
+       Sale Consideration                                                       28,750
+        Less: Cost of Acquisition (2500 x 50000/5000)                                25,000
+       Gain                                                                      3,750
+       Sale of 6000 NFT 16.08.2025
+       Sale Consideration                                                       89,000
+        Less: Cost of Acquisition (6000 x 150000/10000)                             90,000
+      Loss on Sale of NFT [Neither setoff of loss nor carry forward of loss       1,000
+       allowed]
+       Sale of 4000 NFT 31.08.2025
+       Sale Consideration                                                       56,000
+        Less: Cost of Acquisition (4000 x 150000/10000)                             60,000
+      Loss on Sale of NFT [Neither setoff of loss nor carry forward of loss       4,000
+       allowed]
+       Taxable income                                                      4250
+
+      Note: VDA income would be taxed @30% under section 115BBH without any deduction of
+      expenses.

@@ -1,0 +1,1399 @@
+Source PDF: 07_SPOM/Set_C_07_Forensic_Accounting/006 - Chapter-5- Process of Forensic Investigation - 79414bos63471-cp5.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_07_Forensic_Accounting\006 - Chapter-5- Process of Forensic Investigation - 79414bos63471-cp5.pdf
+Extracted at: 2026-05-31T10:32:51+05:30
+Pages: 35
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          5         1
+
+PROCESS OF FORENSIC
+INVESTIGATION
+
+
+                       LEARNING OUTCOMES
+After studying this Chapter, you will be able to: -
+    Various steps involved in the process of forensic investigation
+   Meaning of Project Mandate
+   Comprehensive planning process
+    Significant points to check while appointing an expert
+    Different types of evidence collected by forensic professional
+    Analytical techniques used in a forensic accounting investigation
+    Varieties of tools used for Forensic accounting analysis
+    Reporting Steps for forensic accounting investigation
+   Some legal aspects affecting the forensic assignments
+   General steps followed in fraud case for court proceedings
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+5.2          FORENSIC ACCOUNTING
+
+ CHAPTER OVERVIEW
+
+
+                               Types of Evidence which a
+                                    forensic professional can come
+                                           across
+
+
+                                            Financial Records
+
+
+                                     Computer Data
+
+
+                                          Physical Evidence
+
+
+                                      Witness testimony
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.3
+
+The process of forensic investigation can be divided into the following steps:
+5.1    Initialization & Defining Mandate
+5.2   Develop Plan & Gathering Expertise
+5.3   Gathering Relevant Evidence
+5.4   Perform the Analysis
+5.5   Reporting
+5.6   Court Proceedings
+
+      5.1  INITIALIZATION & DEFINING MANDATE
+5.1.1  Initialization and defining mandate are the first steps in a project management process, where
+the project manager identifies the need, opportunity, or problem that the project aims to address,
+and defines the objectives, scope, and deliverables of the project. The project mandate  is a
+document that summarizes the purpose, justification, and expected outcomes of the project, as well
+as the roles and responsibilities of the project team and stakeholders. The project mandate also
+provides the authority for the project manager to initiate the project and allocate resources.
+5.1.2  Following are further steps involved in the Initialization and Defining mandate step of Process
+of Forensic Accounting Investigation:
+1.    Establishing Contract: The client or the legal authority will contact a forensic professional
+       or a forensic audit firm to request their services. The professional will assess the feasibility
+      and scope of the assignment and provide a proposal or an engagement letter that outlines
+       the terms and conditions of the service.
+2.    Defining Objectives: The client or the legal authority will define the objectives of the
+       forensic audit, such as what type of fraud is suspected, who are the possible suspects,
+      what is the estimated amount of loss, what is the desired outcome of the investigation, etc.
+     The professional will also define their own objectives based on their professional standards
+      and ethical principles.
+3.    Signing an Agreement: The client or the legal authority will review and sign the proposal
+       or the engagement letter that confirms their acceptance of the service and authorizes the
+       professional to access the relevant information and records.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+5.4          FORENSIC ACCOUNTING
+
+5.1.3 Engagement/ Appointment Letter:
+Engagement  letter  is a sent by an  forensic  professional  to  its  client,  after the  receipt  of
+communication  regarding  his  appointment,  but  preferably  before  the  commencement  of
+engagement, seeking out the extent of his responsibilities in order to avoid any misunderstanding
+with respect to its engagement and documents and confirming the acceptance of appointment, the
+objectives and scope of audit, the extent of responsibilities and the form of reports to be made to
+the client.
+The Authorities & Regulatory bodies who can assign for a forensic investigation along with different
+types of mandate they can issue would include the following Illustrations:
+1.    Management of the company itself
+        Investigate suspected fraud or irregularities in the company.
+       Assess the company's financial performance and risks.
+2.     Securities and Exchange Board of India (SEBI)
+        Investigate  suspected  fraud  or  irregularities  in  listed  companies and  market
+              intermediaries.
+       Assess the damage caused by market manipulation or other violations of securities
+             laws.
+3.    National Company Law Tribunal (NCLT)
+        Investigate suspected fraud or mismanagement in companies.
+       Assess the damage caused by corporate fraud or negligence.
+4.    Income Tax Department (CBDT/ CBIC)
+        Investigate suspected tax evasion or fraud.
+       Assess the tax liabilities of individuals and businesses.
+5.    Central Bureau of Investigation (CBI)
+        Investigate suspected economic offenses, including fraud, corruption, and money
+              laundering.
+6.    Enforcement Directorate (ED)
+        Investigate suspected financial crimes, including money laundering and  terrorist
+              financing.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.5
+
+7.    Serious Fraud Investigation Office (SFIO)
+        Investigate suspected corporate fraud.
+      Recommend the prosecution of individuals and companies involved in corporate fraud.
+8.    Insurance Regulatory and Development Authority of India (IRDA)
+        Investigate suspected fraud or irregularities in insurance companies.
+       Assess the damage caused by insurance fraud.
+5.1.4 The Engagement letter or the mandate of a forensic investigation changes according to the
+type of forensic assignment.
+(1)   Employee Fraud: Forensic of employee fraud is the process of investigating and detecting
+       the illegal or unethical actions of employees that cause financial or reputational harm to the
+       organization. Forensic of employee fraud can help prevent, deter, and prosecute such
+       actions, as well as recover losses or damages caused by them. There are many types of
+      employee fraud, such as time theft, stealing office supplies, merchandise theft, cash theft,
+       financial fraud, embezzlement, billing fraud, payroll fraud, and more. Employee fraud can
+       affect any industry or size of organization and can result in significant losses or even
+      bankruptcy.
+(2)   Management Fraud : There are many types of fraud by management, such as financial
+      statement fraud, asset misappropriation, corruption, tax evasion, money laundering, and
+      more. Fraud by management can affect any industry or size of organization, and can result
+        in significant losses, legal liabilities, regulatory sanctions, or loss of trust.
+     To conduct a forensic assignment of fraud by management, the following steps are
+       generally followed:
+       Forensic assignment of fraud by management is important for maintaining the integrity
+           and performance of the organization.
+           It can also help protect the interests and rights of the shareholders and other
+             stakeholders.
+
+      5.2  DEVELOP PLAN & GATHER EXPERTISE
+How to go about planning:
+♦    Developing and using a process in completing the planning procedures.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+5.6          FORENSIC ACCOUNTING
+
+♦    Undertaking certain key elements of planning to ensure the achievement of assignment
+       objectives.
+♦    Using the information gathered; developing certain broad work procedures.
+♦    Confirming  the broad plan  with  the Primary Stakeholders  to ensure   it meets  their
+       expectations.
+With regard to appointment of an expert, following points need to be looked at:
+♦    An evaluation of the needs and availability of the expertise to assist the Professional in
+       obtaining relevant and reliable evidence.
+♦     Exercising the authority of who to engage and evaluating the credibility of that Expert.
+♦    Conducting an evaluation of the work performed and how to use the report.
+♦     Maintaining ultimate responsibility of the work performed.
+The Professional may align the understanding through discussions with Stakeholders in order to
+define a clear and concise approach as follows:
+♦    Obtain a detailed understanding of the subject matter, details of the available data sources
+     and level of cooperation which is expected to be extended to the Professional.
+♦    Determine the varied methodologies that may be employed in order to collect evidence,
+        viz., discussions and process understanding, data analytics, document review, transaction
+       testing, corporate intelligence, market intelligence etc.
+♦    Determine the forensic tools and technologies available with the Professional which may
+      be deployed or leveraged to achieve the objectives of the assignment along with limitations,
+            if any.
+♦    Assess the need for Experts and/or third parties in relation to any services to be rendered
+       to the Client.
+♦    The methodology may be tailored to the specific needs of the engagement and be flexible
+     enough to adapt to changes that may arise during the investigation.
+♦    Attempt to identify possible operational difficulties that may arise during the engagement,
+      as  well as possible solutions  to avoid or address those obstacles such as lack  of
+       cooperation,  fear  of  retaliation,  culture & language, access  to source  of evidence,
+       destruction or tampering with evidence, collusion between witness etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.7
+
+Skill and Resource Assessment Understanding various aspects and components of the engagement
+would enable the Professional to make a reasonable assessment of the skills and resources required
+to undertake the assignment such as, the following (indicative list):
+♦    Accounting or Financial Experts.
+♦    Subject Matter Experts (legal, industry, technology, etc.).
+♦    Tools for data extraction and analysis.
+♦    Disk recovery tools.
+♦    Mobile forensic tools.
+♦     Translation or Transcription services.
+Discussion with Stakeholders
+♦     Identify the relevant Stakeholders who may have information, knowledge or interest in the
+      assignment.
+♦    Determine the appropriate timing and manner to approach the Stakeholders, keeping in
+      mind the confidentiality requirements.
+♦    Conduct discussions and deliberations with the Stakeholders to gather their insights on
+       identifying relevant information, their data sources and other intricacies.
+♦     Align Stakeholder expectations with the assignment objectives and expected outcome.
+♦    Agree on the escalation matrix to be followed in the event of nonreceipt / delay in receipt
+       of data  / information required for the assignment or cooperation not received from the
+       stakeholder(s).
+♦    Documentation  of summary  of  all  the  information  collected  from  the  meetings &
+      communications with the Stakeholders.
+Technology Deployment
+♦    Determine the usage and acceptability  of technology  tools  to meet the assignment
+       objectives, quality requirements, and timely completion of the project.
+♦    The Professional may consider the following aspects:
+       Level and extent of technology deployment.
+       Management of IT processes, internally by the organisation, or outsourced to a third
+               party.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+5.8          FORENSIC ACCOUNTING
+
+       Need to use the services of an Expert on part of the assignment.
+       Need to conduct remote data processing, such as accessing data from a different
+               location.
+       Need to deploy data analysis, data mining, or digital forensic tools in the assignment.
+♦    The Professional may verify that the selection and use of technology tools comply with
+       applicable laws and regulations, especially with respect to confidentiality and privacy. For
+      example, in the European Union, in view of the stringent GDPR regulations, carrying of
+      data  analytics, imaging, usage  of  digital  tool  or review  of email systems becomes
+       challenging and adequate safeguards and disclosures would need to be adhered to in order
+       to be in compliance with the legal requirements.
+♦    For instance, where required by regulations, the Professional may obtain the necessary
+      consent from those whose data will be accessed. Additionally, the Professional may assess
+       the security and confidentiality of the data and ensure that  it is stored, processed, and
+       transferred in a secure and compliant manner.
+Procedures for Engaging the Expert:
+The  Professional  is  expected  to  obtain  information  about  the  independence,  objectivity,
+qualifications and credentials of the Expert prior to engaging and relying on the work of the Expert.
+Illustrative sources for such information are as follows:
+♦    Knowledge of the Expert’s qualifications, membership of a known and credible Professional
+      body or industry association, license to practice, or any other form of external recognition.
+♦    Personal experience with previous work of the Expert.
+♦    Discussion with other Professionals who are familiar with the Expert’s work to obtain
+      feedback on the Expert.
+♦    Discussions with the Expert to understand their availability of time and resources.
+♦    Published papers or books written by the Expert.
+♦     Self-certification by the Expert regarding its qualifications, expertise, any conflict of interest
+       or any pending disciplinary actions.
+(1)   Prepare clear and specific questions for the experts: What do you want to ask the
+      experts? How do you structure and phrase your questions?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.9
+
+      Example: - Here are some examples of clear and specific questions you could ask an expert
+       forensic accountant:
+       (a)   What are the most common types of fraud that occur in my industry?
+       (b)   What are the red flags that may indicate fraud?
+        (c)   What are the best practices  for gathering and analyzing evidence  in a fraud
+              investigation?
+       (d)   How do you assess the potential financial impact of fraud?
+       (e)   What are the legal implications of fraud investigations?
+     You should also be prepared to answer the expert's questions about your company and the
+      suspected fraud.
+(2)   Analyze and synthesize the expert’s responses: What are the main points and insights
+      from the expert’s responses? How do you compare and contrast them with other sources?
+      Example:  - Once you have gathered input from the experts, you need to analyze and
+      synthesize their responses to identify the most important findings and recommendations.
+     You should also compare and contrast their responses with other sources of information,
+      such as industry reports and government publications.
+      This information will help you to develop a comprehensive and effective forensic audit plan.
+(3)   Acknowledge and cite the expert’s contributions: How do you show appreciation and
+      respect for the expert’s time and expertise? How do you reference the expert’s opinions in
+      your plan?
+      Example:  - You should always acknowledge and cite the expert's contributions in your
+       forensic audit plan. This shows appreciation and respect for their time and expertise. It also
+      helps to establish the credibility of your plan.
+       In your plan, you should reference the expert's opinions and recommendations by name.
+     You should also explain how you have incorporated their feedback into your plan.
+
+      5.3  GATHERING RELEVANT EVIDENCE
+Type of Evidence: For evaluating the admissibility of evidence before Competent Authorities, the
+Professional may consider the  following type  of evidence:  (a) Primary Evidence  is  original
+documents and considered most authentic. (b) Secondary Evidence is certified copies of original
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+5.10          FORENSIC ACCOUNTING
+
+documents and admissible under certain circumstances. Similarly, in order to discuss the form of an
+evidence, the Professional may consider the following type of evidence: (c) Oral evidence is the
+information gathered during the Interview or an enquiry. (d) Documentary evidence includes various
+records in the form of documents such as invoices, purchase orders, inventory record, asset title
+papers, various types of agreements etc. (e) Electronic evidence includes records kept in electronic
+or  digital mode such as email communication, mobile text message, a spreadsheet  file, etc.
+Sometimes, the manner of capturing the evidence becomes a way to distinguish  it from other
+evidence, and the Professional may consider the following type of evidence: (f) Technical evidence
+may include records generated from various mechanical devices such as the time recorded on a
+stop watch, the electricity consumed recorded by a meter, or the reading of raw material processed
+through a production machinery, etc. (g) Camera evidence provides photographs (still pictures) and
+videos (moving pictures) thus generating an image of the subject matter at a point in time and
+creating evidence.
+5.3.1  Types of Evidence which a forensic professional can come through includes – Examples:
+(a).   Financial records: Financial records are the most common type of evidence that a forensic
+       professional will collect. Financial records can provide a wealth of information about the
+      company’s financial transactions and activities. Forensic professionals will typically review
+       the company’s accounting records, bank statements, credit card statements, and other
+       financial documents to identify any suspicious activity.
+(b).   Computer data: Computer data can also be a valuable source of evidence for forensic
+       professionals. Computer data can include emails, text messages, chat logs, and other data
+      stored on computers and  other  electronic  devices. Forensic professionals can use
+       specialized software to analyze large volumes of computer data to identify patterns and
+      anomalies that may indicate fraud or other financial irregularities.
+(c).   Physical evidence: Physical evidence can also be important for forensic professionals.
+      Physical evidence may include documents, checks, invoices, and other physical objects.
+      For example, a forensic professional investigating suspected embezzlement may collect
+      checks that were forged or that were written to unauthorized individuals.
+(d).   Witness testimony: Witness testimony can also be helpful for forensic professionals.
+      Forensic  professionals may  interview  employees,  customers,  vendors,  and  other
+       individuals who may have  information  about  the  alleged  fraud  or  other  financial
+        irregularities. Witness testimony can help to corroborate other evidence and to provide
+       insights into the motivations of the perpetrators.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.11
+
+5.3.2 Some specific steps relevant to gathering of relevant evidence in forensic accounting may
+include:
+(1)   Understand  the  nature  of  the  investigation:  Understanding  the  nature  of  the
+       investigation is essential for gathering relevant information in a forensic audit. This includes
+      understanding the specific allegations being investigated, the key areas of focus, and the
+       potential motivations of the perpetrators.
+     Once you have a good understanding of the nature of the investigation, you can start to
+        identify the types of information that are most relevant. For example, if you are investigating
+       allegations of financial fraud, you may need to collect information such as:
+       (a)    Financial records, such as ledgers, journals, and bank statements
+       (b)    Supporting documentation, such as invoices, contracts, and purchase orders
+        (c)    Electronic data, such as email, chat logs, and computer files
+       (d)    Interviews with employees, customers, and other stakeholders
+     You may also need to collect information about the specific fraud scheme that is being
+       investigated. For example,  if you are investigating allegations of asset misappropriation,
+      you may need to collect information about the company's assets, the procedures for
+       controlling access to assets, and the potential methods for misappropriating assets.
+     By understanding the nature of the investigation, you can develop a more targeted
+      approach to gathering relevant information. This will help you to collect the information you
+     need to conduct a thorough and comprehensive forensic audit.
+      Here are some specific examples of how understanding the nature of the investigation can
+      help you to gather relevant information:
+       (a)    Allegation of financial fraud: If you are investigating allegations of financial fraud,
+           you may need  to  collect information about the company's  financial  reporting
+            systems, the procedures  for approving and processing  transactions, and  the
+              potential methods for manipulating financial statements.
+       (b)    Allegation of asset misappropriation: If you are investigating allegations of asset
+             misappropriation, you may need to collect information about the company's assets,
+             the procedures for controlling access to assets, and the potential methods for
+             misappropriating assets.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+5.12          FORENSIC ACCOUNTING
+
+        (c)    Allegation of intellectual property theft:  If you are investigating allegations of
+               intellectual property theft, you may need to collect information about the company's
+               intellectual property, the procedures for protecting intellectual property, and the
+              potential methods for stealing intellectual property.
+     By understanding the nature of the investigation, you can tailor your data collection efforts
+       to gather the specific information you need to investigate the allegations and identify the
+       perpetrators.
+       (1)    Identify the sources of information: Identifying relevant stakeholders is important
+               for gathering relevant information in a forensic audit. Relevant stakeholders are
+            people who may have information that is relevant to the investigation. This may
+             include employees, customers, suppliers, regulators, and other third parties.
+           Here are some examples of relevant stakeholders in a forensic audit:
+               (a)   Employees: Employees may have information about the company's internal
+                     controls, the procedures for approving and processing transactions, and the
+                     potential methods for committing fraud.
+              (b)   Customers: Customers may have information about the company's products
+                     or services, the terms of contracts, and the potential methods for committing
+                     fraud.
+               (c)    Suppliers: Suppliers may have information about the company's purchasing
+                   procedures, the terms of contracts, and the potential methods for committing
+                     fraud.
+              (d)   Other third parties: Other third parties, such as auditors, lawyers, and
+                    consultants, may have information that is relevant to the investigation.
+           The professional can also take help  of Whistleblower’s complaints,  Industrial
+             research, Social Media, Statutory auditors report specially looking for any qualified
+             opinion given by the statutory auditor, etc.
+          Once you have identified the relevant stakeholders, you can start to develop a plan
+               for gathering information from them. This may involve conducting  interviews,
+             reviewing documents, or collecting electronic data.
+           Here are some specific examples  of how to gather information from relevant
+             stakeholders in a forensic audit:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.13
+
+       (a)    Interview employees: Interviewing employees can be a valuable way to gather
+             information about the company's internal controls, the procedures for approving and
+            processing transactions, and the potential methods for committing fraud. When
+              interviewing employees, it is important to be objective and impartial. You should also
+           be careful not to intimidate or coerce employees into providing information.
+       (b)   Review documents: Reviewing documents can be a valuable way  to gather
+             information about  the company's  financial  transactions,  contracts, and  other
+            business activities. When reviewing documents,  it is important to be thorough and
+             methodical. You should also be careful to document your findings.
+        (c)    Collect electronic data: Collecting electronic data can be a valuable way to gather
+             information about the company's email communications, computer files, and other
+              electronic records. When collecting electronic data, it is important to take steps to
+            preserve the data and prevent it from being altered or destroyed.
+By  gathering  information  from  relevant  stakeholders,  you  can  develop  a  comprehensive
+understanding of the situation and identify the perpetrators of any fraud or wrongdoing.
+(1)   Develop a data collection plan: Developing a data collection plan is important in gathering
+       relevant information. The data collection plan should identify the specific information that
+      needs to be collected, the sources of information, and the methods that will be used to
+       collect the information. The plan should also be tailored to the specific circumstances of
+       the forensic audit.
+       (a)    Identify the specific information that needs to be collected: This includes
+               identifying the types of information that are most relevant to the nature of the
+              investigation, the specific allegations being investigated, and the key areas of focus.
+       (b)    Identify  the sources  of  information:  This  includes  identifying  the  people,
+            documents, and electronic systems that may contain relevant information.
+        (c)   Assess the risks associated with each source of information: For example,
+          some sources of information may be more reliable than others, and some sources
+               of information may be more difficult to access or preserve.
+       (d)    Select the most appropriate data collection methods for each source of
+            information: For example, interviews may be the best way to collect information
+            from witnesses, while document reviews and forensic data collection may be the
+             best way to collect information from documents and electronic systems.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+5.14          FORENSIC ACCOUNTING
+
+       (e)   Develop a timeline for data collection: This  will help to ensure that the data
+              collection process is efficient and effective.
+The GNFA also recommends that the data collection plan be tailored to the specific circumstances
+of the forensic audit. This includes considering the size and complexity of the organization, the
+nature of the allegations being investigated, and the resources available to the forensic professional.
+Here are some additional tips for developing a data collection plan for a forensic audit:
+(a)   Be specific and clear: The data collection plan should identify the specific information that
+      needs to be collected, the sources of information, and the methods that will be used to
+       collect the information.
+(b)   Be realistic: The data collection plan should be realistic and achievable. Consider the
+      resources available to you and the time constraints of the investigation.
+(c)   Be flexible: The data collection plan should be flexible enough to be adapted as needed.
+      For example, you may need to adjust the plan if you discover new information or encounter
+      unexpected challenges.
+By following these tips, you can develop a data collection plan that will help you to gather the
+information you need to conduct a thorough and comprehensive forensic audit.
+(1)    Collect the information: Once you have developed a data collection plan, you can start
+       to collect the information you need. There are a variety of methods that can be used to
+       collect information in a forensic audit, including:
+       (a)    Interviews: Interviews can be used to collect information from witnesses, suspects,
+           and other stakeholders. Interviews can be conducted in person, over the phone, or
+              via video conferencing. When conducting interviews, it is important to be prepared
+           and to ask open-ended questions.  It is also important to document the interview
+            process thoroughly.
+       (b)   Document reviews: Document reviews can be used to collect information from
+           documents such as financial records, contracts, and emails. Document reviews can
+           be conducted manually or using electronic data extraction tools. When conducting
+           document reviews, it is important to be organized and to keep track of the documents
+              that you have reviewed. It is also important to make copies of all relevant documents.
+        (c)    Forensic  data  collection:  Forensic  data  collection can be used  to  collect
+             information from electronic devices such as computers, smartphones, and tablets.
+             Forensic data  collection  is  typically performed by trained professionals using
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.15
+
+             specialized tools and techniques. When collecting forensic data,  it is important to
+            preserve the integrity of the data and to document the collection process thoroughly.
+       In addition to these specific methods, there are a number of general tips that should be
+       follow when collecting information in a forensic audit:
+       (a)   Be thorough and methodical. Don't leave any stone unturned.
+       (b)   Be objective and impartial. Gather all relevant information, even if it is unfavorable
+               to your client.
+        (c)   Be discreet. Do not disclose the nature of the investigation or the information you
+             are collecting to anyone who does not need to know.
+       (d)   Be compliant with all applicable laws and regulations.
+       (e)   By following these tips, you can effectively collect the information you need to
+            conduct a thorough and comprehensive forensic audit.
+     The specific methods to be used for collecting information will depend on the nature of the
+       investigation and the sources of information that have been identified.
+(2)   Secure and preserve the information: Once the information  is collected to conduct
+       forensic audit,  it is important to secure and preserve  it properly. This means storing the
+       information in a safe and secure location and taking steps to prevent it from being altered
+       or destroyed.
+      Here are some tips for securing and preserving information in a forensic audit:
+       (a)    Store the information in a safe and secure location: This could be a physical
+              location, such as a locked cabinet or vault, or an electronic location, such as a secure
+             server or cloud storage provider.
+       (b)   Make copies of the information for backup purposes: This will ensure that you
+           have a copy of the information in case the original information is lost or destroyed.
+        (c)   Implement access controls to restrict access to the information: This could
+             involve using passwords, encryption, or other security measures.
+       (d)   Monitor the information for any signs of tampering or unauthorized access:
+             This could involve using audit logs or other security monitoring tools.
+       (e)    Retain the information for the required period of time: This will vary depending
+           on the nature of the investigation and the applicable laws and regulations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+5.16          FORENSIC ACCOUNTING
+
+         (f)    Here are some specific examples of how to secure and preserve information in a
+              forensic audit:
+                   (i)    Physical documents: Store physical documents in a locked cabinet or vault.
+                                If you need to make copies of the documents, use a secure copier and store
+                    the copies in a separate location.
+                   (ii)    Electronic data: Store electronic data on a secure server or cloud storage
+                     provider. Use encryption to protect the data from unauthorized access.
+                   (iii)   Emails and other electronic communications: Print out copies of important
+                   emails and other electronic communications. You may also want to archive
+                    the electronic communications in a secure manner.
+                (iv)   Forensic data from computers and other electronic devices: Store
+                     forensic data from computers and other electronic devices on a secure server
+                     or  cloud  storage  provider. Use  encryption  to  protect  the  data  from
+                   unauthorized access.
+     The evidence could be obtained or provided by Primary Stakeholder internally or by an
+       external source such as Other Stakeholders. The internal sources of evidence include
+      accounting records, inventory records, production records, audit trails of transactions etc.
+     The  external sources  of evidence  include documents and  confirmation from Other
+      Stakeholders, documents obtained from public authorities, digital footprints provided by the
+        digital service providers, such as website logs, user activity data, or online transaction
+      records etc.
+     The  reliability  of evidence depends upon the source and manner of gathering such
+      evidence. To establish the reliability of evidence, the Professional may follow planned
+      procedures while gathering and accepting the documents. The primary evidence generally
+      takes considerable time  to gather, and, therefore, the Professional has to  start the
+      assignment with whatever secondary evidence is available.
+     The reliability of the evidence also depends upon the type of evidence. For example, while
+       treating books of account as evidence, the Professional may consider  if the books of
+      account are kept on regular basis by collecting the relevant digital  trails of recorded
+       transactions. In cases where the transactions are modified frequently (which becomes
+      apparent from the digital trail), reliability may need to be further corroborated by other
+      evidence. In the absence of corroborative evidence, the evidence may not be considered
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.17
+
+        reliable. The Professional may come across different sets of books of account. In such a
+       situation, Professional judgment is to be applied as to the genuineness of the data.
+       Certain documentation records the evaluation outcome of various other documents which
+      were gathered with the intention of supporting evidence. For example, data analysed to
+      determine the relationship of transactions and their relevance to matter in dispute, including
+      (where necessary) further tracing of these with supporting transaction-related documents-
+      can make them admissible evidence.
+     The documentation may also include those documents which were provided by Primary
+      Stakeholder for evaluating and where the Professional is not under any obligation to gather
+       additional documents as evidence.
+     Documents are generally evaluated from two perspectives  in order to establish their
+      appropriateness: (a) Whether the documents are related to the objectives of assignment.
+      For example, in case a dispute is related to utilization of borrowed funds, the documents
+       related to asset trails are relevant evidence.  (b) Whether the documents may assist to
+       arrive at a conclusion. For example, evidence in the form of entries in the books of accounts
+        is relevant but not sufficient and additional evidence- related transactions are also required
+       to arrive at a conclusion. (c) In situations where the Professional has received documents
+     and information directly from the Agencies, the onus of the relevance and reliability of the
+      evidence and the appropriateness and sufficiency of the documents is on the Agencies
+      which have provided such documentation and  information, and  the same  shall be
+      mentioned in the report.
+       In an ideal situation, the Professional is expected to have custody of all the evidence and
+      documents. However, depending on the engagement, the Professional may not get direct
+      custody of the evidence, and should, therefore, endeavour to have a mechanism whereby
+      access to the evidence can be provided to the Professional as and when required including
+       presentation of evidence before Competent Authorities.
+      Appropriate procedure refers to the legitimate method or procedure prescribed by laws or
+       regulations to collect and gather evidence. The procedure followed to gather evidence is
+       required to be documented. For example, while collecting the documents from the public
+       authority, the Professional may follow the prescribed procedure such as submission of
+       application and payment of fees etc.
+     As a general principle, a public document requires no strong proof of  its authenticity
+      whereas a private document does require  it by way of primary evidence. Care should be
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+5.18          FORENSIC ACCOUNTING
+
+      taken to obtain certified copies of public documents from the public officer having  its
+      custody. For example, any document downloaded from Ministry of Corporate Affairs (MCA)
+       portal may not be admissible as such unless a certified copy of it is obtained after paying
+       appropriate legal fee. Certified copies of public documents can be produced in proof of the
+      contents of the public documents. Calling a witness or presenting other arguments is not
+     needed to prove a public document. Mere production of  it is enough for considering  it in
+      evidence.
+     The Professional may rely on public documents to the extent possible to reduce the burden
+       of  proving  the documents. The competent  authority may  lay down  guidelines  for
+       admissibility  of  specific documents based on  context, relevance and  authentication
+      requirements. Notwithstanding this, an illustrative list of public documents is provided below
+       (a) Revenue and land records. (b) Register of births and deaths. (c) While papers and
+        statistics published by government departments, ministries or other official agencies. (d)
+      Court orders, decrees, judgements and other documents issued by competent courts. (e)
+       Certified copies  of  certain  private documents may also be admitted depending on
+       authentication and contextual relevance e.g. wills, contracts, agreements authorised by a
+       court or a public official or assessment orders of taxation authorities, filings to bodies like
+       the MCA, etc.
+       Electronic Evidence  is required to be submitted as per the legal provisions of Indian
+      Evidence Act,1987. While gathering electronic records the Professional may take into
+       consideration the following aspects related to it: (a) Regular use of digital technology for
+      recording the transactions.  It could be confirmed through the digital record  trails. (b)
+       Information/data is maintained in the digital format as regular business activity. (c) Details
+       of specific tools used to collect and analyse the data for submitting as evidence and the
+       limitations of the tools. (d) Use of techniques like hash or other methods to ensure that
+      images and copies of electronic evidence can be validated as original. (e) The test of
+       reproducibility as explained in FAIS 420 on “Evidence Gathering in Digital Domain”. (f) The
+        certificate related to submission of electronic records as evidence. (g) While gathering the
+      evidence from Stakeholder, the Professional may obtain the certification about electronic
+      record from such Stakeholder. (h) Maintaining detailed documentation throughout the entire
+      process of collecting, preserving, and analysing the electronic evidence. This includes
+      documenting the methods used, the individuals involved, the dates and times of each step
+      performed etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.19
+
+     A “chain of custody” refers to the successive custodians of physical items or documents in
+        their original condition. A chain of custody has to be maintained by the Professional for
+      evidence at hand. Nonmaintenance of the chain of custody may jeopardise the admissibility
+       of the evidence before competent authorities.
+     The Professional would avoid evidence based on hearsay. Hearsay is a concept in the
+      evidence law where the witness has heard someone else say or read a document prepared
+      by someone else and is not the party who created the document or record or was a witness
+       to its creation.
+Most of the FAI assignments lead to legal proceedings where the report of the Professional is subject
+matter of such litigation. The Professional, while conducting the engagement would keep in mind
+that the report may be subject to cross examination and scrutinized at the appropriate forums.
+Hence,  the  Professional would  follow  the evidence  gathering process  diligently and make
+appropriate remarks in the report so that the Professional can defend the report in case of cross
+examination.
+Techniques to gather evidence in case of a fraud: In order to gather evidence, the investigator
+understands the possibility of the occurrence of a fraud, and if so, how it may have been perpetrated.
+In such cases, the evidence may need to be gathered to try and identify the individuals involved to
+better understand the modus operandi, and where possible, the amount of financial loss.
+Professional to seek written statements in the case where oral evidence has formed the basis of the
+inquiry, this may not be practical in all cases. The Professional may not always have the required
+support from the Client, or the required consent from the suspect to obtain the written statements. It
+may be prudent in those cases to at least have the Professional record the oral evidence to complete
+the documentation even though it may not be very reliable or acceptable.
+Evidence can be gathered using various techniques, such as: • testing controls to which identify the
+weaknesses, which allowed the fraud to be perpetrated. • using analytical procedures to compare
+trends over time or to provide comparatives between different segments of the business. • applying
+computer assisted audit techniques, for example to identify the timing and location of relevant details
+being altered in the computer systems. • discussions and interviews with employees. • Substantive
+techniques such as reconciliations, cash counts and reviews of documentation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+5.20          FORENSIC ACCOUNTING
+
+      5.4  PERFORM THE ANALYSIS.
+5.4.1  Module 6 of ICAI, analysis in a forensic accounting investigation is performed in the following
+steps:
+(a).   Understanding the case: The forensic accountant must first understand the nature of the
+      case, the allegations being made, and the parties involved. This includes reviewing the
+      case file, interviewing witnesses, and visiting the scene of the crime, if applicable.
+(b).   Identifying the relevant financial information: The  forensic accountant must then
+        identify the relevant financial information that will be needed to investigate the case. This
+     may include accounting records, bank statements, credit card statements, and other
+       financial documents.
+(c).   Gathering the data: Once the relevant financial information has been identified, the
+       forensic accountant must gather  it from the various sources. This may involve obtaining
+      copies of documents from clients, banks, or other third parties.
+(d).   Analyzing the data: The forensic accountant must then analyze the data to identify any
+      anomalies or inconsistencies. This may involve using a variety of analytical techniques,
+      such as ratio analysis, trend analysis, and benchmarking.
+(e).   Drawing conclusions: Once the data has been analyzed, the forensic accountant must
+      draw  conclusions about  the  case.  This may  involve  identifying  fraudulent  activity,
+       calculating damages, or providing expert testimony in court.
+5.4.2  Here are some specific examples of analytical techniques that may be used in a forensic
+accounting investigation:
+1.    Ratio analysis: Ratio analysis can be used to compare a company's financial performance
+       to its industry peers or to its own historical performance. This can help to identify any
+      unusual trends or fluctuations. For example, a forensic accountant could have calculated
+      Adelphia Communications' debt-to-equity ratio and compared  it to the ratios of other
+      cable companies.  If Adelphia Communications' debt-to-equity ratio was significantly
+      higher than the industry average, this could have been a sign of financial distress.
+2.    Trend analysis: Trend analysis can be used to track changes in a company's financial
+      performance over time. This can help to identify any long-term trends that may be indicative
+       of fraud or other financial wrongdoing. For example, a forensic accountant could have
+      analyzed the company's revenue and earnings trends.  If Adelphia Communications'
+      revenue and earnings were growing rapidly while its debt was increasing, this could have
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.21
+
+     been a sign that the company was using aggressive accounting practices to inflate its
+        profits.
+3.    Benchmarking: Benchmarking  can  be  used  to  compare  a  company's  financial
+      performance to that of  its competitors. This can help to identify any areas where the
+     company is underperforming or where there may be opportunities for cost savings. For
+      example, a forensic accountant could have compared Adelphia Communications' revenue
+      per customer  to  the revenue per customer  of  other cable companies.  If Adelphia
+      Communications' revenue per customer was significantly lower than the industry average,
+        this could have been a sign that the company was understating its revenue.
+4.    Data mining: Data mining is a powerful analytical technique that can be used to identify
+       patterns and  trends  in  large  datasets.  This can be  helpful  in  forensic accounting
+       investigations by identifying anomalies or suspicious transactions.For Example Forensic
+      accountants could have used data mining techniques to identify patterns and trends in
+      AIG's financial data. This could have helped to identify suspicious transactions or activities
+       that would not have been apparent from a standard financial analysis. For example, a
+       forensic accountant could have used data mining to identify suspicious transactions, such
+      as large payments to vendors that could not be verified.
+5.4.3  Forensic accounting analysis can also be performed using a variety of tools and techniques,
+including FTK images, buzzing words, social media analysis, KYC, and mystery shopping.
+(1)   FTK images are forensic copies of a computer's hard drive or other digital storage devices.
+     These images can be analyzed to identify deleted files, hidden files, and other data that
+     may be relevant to a forensic accounting investigation. For example, a forensic accountant
+     may use an FTK image to identify deleted accounting records or emails that may contain
+      evidence of fraud.
+       (a)    Forensic accountants used FTK images of Enron's computer hard drives to identify
+             deleted files and hidden accounting records. This evidence was used to prove that
+             Enron's executives had engaged in fraudulent accounting practices.
+       (b)    Forensic accountants could have created FTK images of Lehman Brothers' computer
+            hard drives to identify deleted files, hidden accounting records, and other data that
+          may have been relevant to the investigation. This evidence could have been used to
+            prove that Lehman Brothers' executives had engaged  in fraudulent accounting
+              practices, such as inflating the value of assets or hiding liabilities.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+5.22          FORENSIC ACCOUNTING
+
+          Buzzing Words are keywords or phrases that are frequently used by criminals
+                     or fraudsters. Forensic accountants can use buzzing word analysis to identify
+                    suspicious transactions or other activities that may be indicative of fraud. For
+                  example, a  forensic accountant may search  for buzzing words such as
+                    "kickback" or: Bribe”,” Write off,” Illegal”,” Failed Investment”,” Nobody will find”
+                       “out”, “Gray area”,” They owe  it to me”, “bribe".” Hair cut”,” Embezzlement”,
+                 “Money Laundering”, “We can work out”
+(2)     in emails or accounting records.
+       (a)    Forensic accountants searched for buzzing words such as “fraud,” “embezzlement,”
+           and “money laundering” in Enron’s emails and other electronic documents. This
+            evidence was used to identify suspicious transactions and activities.
+       (b)    For example,  if forensic accountants found emails  in which Lehman Brothers
+             executives were discussing ways to hide losses, this could be evidence of fraud.
+(3)    Social media analysis can be used to gather information about individuals or businesses.
+      This information can be used to corroborate other evidence or to identify potential leads in
+      a forensic accounting investigation.
+       (a)    For example, a forensic accountant may review a social media profile to see  if an
+              individual is claiming to have a job or lifestyle that is inconsistent with their income.
+             Forensic accountants reviewed Enron's social media accounts to see if there was
+           any evidence of a lavish  lifestyle on the part of Enron's executives that was
+              inconsistent with  their income. This evidence was used  to show that Enron's
+             executives had profited from their fraudulent activities.
+       (b)    Forensic accountants could have reviewed Lehman Brothers' social media accounts
+               to see if there was any evidence of a lavish lifestyle on the part of Lehman Brothers'
+             executives that was inconsistent with their income. This evidence could have been
+           used to show that Lehman Brothers' executives had profited from their fraudulent
+                activities. For example, if forensic accountants found photos of Lehman Brothers
+             executives on vacation at expensive resorts, this could be evidence that they were
+             using the company's money to fund their lavish lifestyles.
+(4)   KYC (Know Your Customer) is a process that businesses use to verify the identity of their
+      customers. KYC data can be used to identify individuals or businesses that are involved in
+       fraudulent activities.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.23
+
+       (a)    For example, a forensic accountant may compare KYC data to accounting records
+               to see if there are any discrepancies. Forensic accountants compared Enron’s KYC
+            data to its accounting records to see if there were any discrepancies. This evidence
+          was used to identify suspicious transactions and activities.
+       (b)    Forensic accountants could have compared Lehman Brothers’ KYC data to  its
+            accounting records to see if there were any discrepancies. This evidence could have
+           been used to identify suspicious transactions and activities. For example, if forensic
+            accountants found that Lehman Brothers had clients whose identities could not be
+               verified, this could be evidence that the company was involved in money laundering.
+(5)   Benford’s Law: Benford's law is a statistical law that states that the first leading digit of a
+      numerical data set is likely to be smaller than 9. In other words, the number 1 is more likely
+       to be the first digit of a number than any other number. Benford's law can be used to detect
+       fraud by looking for anomalies in the distribution of leading digits. For example,  if a data
+       set contains an unusually large number of numbers with a leading digit of 9, this could be
+      a  sign  of  fraud.  In 2002,  the  Securities and Exchange Commission (SEC) began
+       investigating the financial statements of Enron, a large energy company. The SEC used
+      Benford's law to analyze Enron's revenue data and found that the first leading digits of
+       the revenue numbers were not consistent with Benford's law. This suggested to the SEC
+       that Enron was inflating its revenue. The SEC's investigation eventually revealed that Enron
+     had been engaged in massive accounting fraud. Enron's CEO and CFO were both convicted
+       of fraud and sentenced to prison. Benford's law is a powerful tool that can be used to detect
+       fraud in a variety of data sets, including financial statements, insurance claims, and tax
+       returns. It is important to note that Benford's law is not a foolproof way to detect fraud, but
+            it can be a useful tool for identifying potential problems.
+      Here are some other examples of how Benford's law has been used to detect fraud:
+       (a)   The IRS has used Benford's law to identify fraudulent tax returns.
+       (b)    Insurance companies have used Benford's law to identify fraudulent insurance
+             claims.
+        (c)   Banks have used Benford's law to identify fraudulent credit card transactions.
+       (d)    Benford's law is a valuable tool for detecting fraud because it is simple to use and
+           can be applied to a wide variety of data sets.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+5.24          FORENSIC ACCOUNTING
+
+           It is important to note that the specific tools and techniques that are used in a forensic
+      accounting investigation will vary depending on the nature of the case. However, the tools
+     and techniques described above are commonly used in forensic accounting investigations.
+
+      5.5  REPORTING
+1.    Reporting in a forensic accounting investigation is done in the following steps:
+2.     Identify the audience: The first step is to identify the audience for the report. This may
+       include the client, the courts, or other stakeholders.
+3.    Determine the purpose of the report: The purpose of the report will vary depending on
+       the audience. For example, a report for the client may focus on the findings of the
+       investigation and the recommended course of action. A report for the courts may be more
+      formal and may include expert testimony.
+4.    Organize the report: The report should be organized in a clear and logical manner.  It
+      should be easy to read and understand, and it should be supported by evidence.
+5.    Write the report: The report should be written in a professional and objective manner. It
+      should be free of errors and should be easy to understand.
+6.    Review the report: The report should be reviewed by a qualified professional before it is
+        finalized. This will help to ensure that the report is accurate, complete, and fair.
+5.5.1  Here are some specific tips for writing a forensic accounting report:
+       (1)   Be clear and concise.
+       (2)   Use plain language.
+       (3)    Avoid technical jargon.
+       (4)    Support your findings with evidence.
+       (5)   Be objective and unbiased.
+       (6)    Proofread the report carefully before it is finalized.
+5.5.2  Forensic accounting reports can be used for a variety of purposes, including:
+       (1)   To provide evidence of financial crimes to the courts.
+       (2)   To help clients recover losses from fraud or embezzlement.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.25
+
+       (3)   To identify and prevent financial crimes in the future.
+       (4)   To meet regulatory requirements.
+5.5.3  Legal Ramifications
+       1.    One of the main aspects of Forensic Accounting is that this profession exists at the
+              intersection between Accounts and Law. The forensic or investigation work  is
+            focused on identifying violations to certain stipulated laws and regulations. After all,
+                       it is not fair to make any accusations of wrongdoing against someone unless these
+            accusations can be proved in a court of law which provides the platform for the
+           accused to not only defend himself fairly but also for an impartial judge to make an
+            independent  determination  of  guilt  or  innocence by  reviewing  the  evidence
+            presented by both parties to support their positions.
+       2.    Each engagement is unique due to the circumstances and the context and, in most
+             cases, subject  to relevant applicable  statutes. The Professional  is expected  to
+            understand the provisions  of not only the general laws, but also the  specific
+             requirements which may apply under the circumstances. Without adequate knowledge
+           and appreciation of these provisions, the Professional will not be able to conduct his
+            work properly, nor will he be able to look for the relevant and suitable evidence to
+            complete the engagement in an effective manner.
+       3.     Forensic assignments are investigations that use scientific methods and techniques to
+                collect, analyze, and present evidence for legal purposes. Forensic assignments may
+           be performed by forensic accountants, auditors, analysts, investigators, or examiners
+          who specialize in different fields, such as digital forensics, financial forensics, fraud
+             examination, or forensic auditing.
+5.5.4 Some of the legal aspects that may affect forensic assignments are:
+       1.    The authority and consent for the investigation: Forensic assignments must be
+            conducted with proper authorization and consent from the relevant parties, such as
+             the client, the court, or the law enforcement agency. The authority and consent may
+            determine the scope, purpose, and limitations of the investigation, as well as the
+               rights and  obligations  of  the  forensic  professionals and  the  subjects  of  the
+              investigation.
+       2.    The laws and regulations governing the investigation: Forensic assignments
+           must comply with the applicable laws and regulations that govern the collection,
+             handling, analysis, preservation, and presentation of evidence. These may include
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+5.26          FORENSIC ACCOUNTING
+
+            laws and  regulations  that  protect  privacy  rights,  intellectual  property  rights,
+               confidentiality rights, evidentiary rules, ethical standards, professional codes of
+             conduct, and quality assurance standards.
+       3.    The potential legal consequences of the investigation: Forensic assignments
+          may have significant legal consequences for the forensic professionals and the
+             subjects of the investigation. These may include civil or criminal liabilities, sanctions,
+              penalties, damages, or remedies that may arise from the findings or outcomes of the
+              investigation. Forensic professionals may also face legal challenges or disputes
+            over their qualifications, methods, procedures, or opinions.
+5.5.5 To provide a gist of the nature of various laws and regulations which may become relevant
+to the different type of assignments undertaken by the professional, below are some of these laws
+listed.
+1.    Indian Penal Code, 1860: The Indian Penal Code (IPC) is an Act of the Parliament of India
+       that regulates the formation, management, and dissolution of companies  in India.  It
+      replaces the Companies Act 1956 and introduces new concepts such as corporate social
+       responsibility, class action suits, one-person company, and more. The Act has 29 chapters,
+      470 sections, and 7 schedules. It was enacted on August 29, 2013, and came into force in
+       stages. The Act aims to enhance disclosure, accountability, and governance of companies
+        in India. The Indian Penal Code (IPC) is a comprehensive and systematic criminal code
+       that was enacted in 1860 during the British colonial rule in India. The IPC defines and
+      categorizes various criminal offenses and prescribes punishments for them, ranging from
+      minor penalties to imprisonment and even the death penalty in some cases. The IPC has
+      23 chapters, 511 sections, and 2 schedules. It was drafted by the first law commission of
+       India under the chairmanship of Lord Macaulay. The IPC aims to provide a general penal
+      code for India.
+     Some of the major topics covered by the IPC are:
+       (a)    Offences by or relating to public servants, such as corruption, bribery, etc.
+       (b)    Offences relating to elections, such as bribery, undue influence, etc.
+        (c)    Offences relating to documents and property marks, such as forgery, fraud, etc.
+       (d)    Criminal breach of contracts of service
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.27
+
+      Fraud is a criminal offence that involves deception, dishonesty, or misrepresentation for
+      personal gain or to cause loss to another person. The Indian Penal Code, 1860 (IPC) has
+       several sections that deal with different types of fraud, such as:
+       (a)    Section 403: Dishonest misappropriation of property. This section punishes any
+            person who dishonestly misappropriates or converts to his own use any movable
+             property of another person or causes wrongful gain to himself or wrongful loss to
+             another.
+       (b)    Section 405: Criminal breach of trust. This section punishes any person who, being
+             entrusted  with  property  or  with  any  dominion  over  property,  dishonestly
+             misappropriates or converts to his own use that property, or dishonestly uses or
+            disposes of that property in violation of any direction of law or any legal contract.
+        (c)    Section 415: Cheating. This section punishes any person who, by deceiving any
+             person, fraudulently or dishonestly induces the person so deceived to deliver any
+             property to any person, or to consent that any person shall retain any property, or
+               intentionally induces the person so deceived to do or omit to do anything which he
+            would not do or omit if he were not so deceived, and which act or omission causes
+              or is likely to cause damage or harm to that person in body, mind, reputation or
+              property.
+       (d)    Section 463: Forgery. This section punishes any person who makes any false
+           document or part of a document with intent to cause damage or injury to the public
+              or to any person, or to support any claim or title, or to cause any person to part with
+              property, or to enter any express or implied contract, or with intent to commit fraud
+              or that fraud may be committed.
+       (e)    Section 477A: Falsification of accounts. This section punishes any person who,
+            being a clerk, officer or servant, or employed or acting in the capacity of a clerk,
+               officer or servant, wilfully and with intent to defraud destroys, alters, mutilates or
+                falsifies any book, paper, writing, valuable security or account which belongs to or
+                 is in the possession of his employer, or has been received by him for or on behalf of
+              his employer.
+         (f)    Section 70A: National nodal agency. This section establishes the Indian Computer
+           Emergency Response Team as the national agency for performing functions relating
+               to cyber security under the IT Act.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+5.28          FORENSIC ACCOUNTING
+
+       (g)    Section 70B: Indian Computer Emergency Response Team to serve as national
+           agency for incident response. This section specifies the functions and duties of the
+             Indian Computer Emergency Response Team relating to collection, analysis, and
+             dissemination of information on cyber incidents, issuing guidelines, advisories,
+               vulnerability notes and whitepapers  relating  to information  security  practices,
+            procedures, prevention, response and reporting of cyber incidents.
+       (h)    Section 72: Penalty for breach of confidentiality and privacy. This section imposes
+             penalty on any person who secures access to any electronic record, book, register,
+            correspondence, information, document, or other material without the consent of the
+            person concerned and discloses such material to any other person.
+          (i)    Section 72A: Punishment for disclosure of information in breach of lawful contract.
+             This section imposes punishment on any person who while providing services under
+           a lawful contract has secured access to any material containing personal information
+            about another person and discloses such material without the consent of that person
+              or in breach of a lawful contract with intent to cause or knowing that he is likely to
+           cause wrongful loss or wrongful gain1.
+          (j)    Section 73: Penalty for publishing electronic signature certificate false in certain
+               particulars. This section imposes penalty on any person who makes, publishes or
+             otherwise makes available an electronic signature certificate with intent to deceive
+           any person.
+        (k)    Section 74: Publication for fraudulent purpose. This section imposes penalty on any
+            person who publishes an electronic signature certificate or otherwise makes  it
+              available to any other person with the knowledge that (a) the certifying authority
+               listed in the certificate has not issued it; or (b) the subscriber listed in the certificate
+           has not accepted it; or (c) the certificate has been revoked or suspended.
+          (l)    Section 79: Exemption from liability of intermediary in certain cases. This section
+             provides immunity to intermediaries from liability for any third party information, data,
+              or communication link made available or hosted by them  if they (a) do not initiate
+             the transmission; (b) do not select the receiver of the transmission; (c) do not select
+              or modify the information contained in the transmission; (d) observe due diligence
+             while discharging their duties under this Act and also observe such other guidelines
+            as prescribed by the Central Government.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.29
+
+      (m)   Section 79A: Central Government to notify Examiner of Electronic Evidence. This
+             section empowers the Central Government to notify any department, body or agency
+               of the Central Government or a State Government as an Examiner of Electronic
+            Evidence for providing expert opinion on electronic form evidence before any court
+              or other authority.
+2.    Contract Act, 1872: Fraud is a criminal offence that involves deception, dishonesty, or
+      misrepresentation for personal gain or to cause loss to another person. The Contract Act,
+     1872 has various provisions that deal with the effects and consequences of fraud in
+       contracts. According to section 17 of the Contract Act, fraud means and includes any of the
+       following acts committed by a party to a contract, or by his agent, with intent to deceive
+      another party thereto or his agent, or to induce him to enter into the contract:
+       (a)   The suggestion, as a fact, of that which is not true by one who does not believe it to
+           be true.
+       (b)   The active concealment of a fact by one having knowledge or belief of the fact.
+        (c)   A promise made without any intention of performing it.
+       (d)   Any other act fitted to deceive.
+       (e)   Any such act or omission as the law specially declares to be fraudulent.
+      According to section 19 of the Contract Act, the legal effect of fraud in a contract whose
+      consent was obtained through fraudulent means is that  it is voidable at the option of the
+       party whose consent was so obtained. The aggrieved party can either rescind the contract
+       to the extent that it has not been performed or affirm the contract and seek remedies.
+3.    Indian Evidence Act, 1872: The Indian Evidence Act, 1872 is a law that governs the rules
+     and principles of evidence in the courts of law in India. It also defines the types and modes
+       of evidence, the relevancy and admissibility of evidence, the burden and standard of proof,
+       the examination and cross-examination of witnesses, etc. The Indian Evidence Act, 1872
+      has various provisions that deal with the legal ramifications for fraud cases under the Act.
+4.    Prevention of Corruption Act, 1988: The Prevention of Corruption Act, 1988 (PCA) is a
+      law that aims to prevent and combat corruption in public administration and public services
+        in India.  It defines various offences relating to corruption and prescribes penalties and
+      punishments for them. It also provides for the investigation, prosecution and trial of such
+      offences by special agencies and courts.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+5.30          FORENSIC ACCOUNTING
+
+5.    The Securities and Exchange Board of India Act, 1992: The Securities and Exchange
+      Board of India (SEBI) is the regulator of the securities market in India. It has the power to
+      prevent and punish fraud cases in the securities market under various laws and regulations.
+6.    The Prevention of Money Laundering Act, 2002 (“PMLA”) along with the Prevention of
+     Money Laundering (Maintenance of Records) Rules, 2005 (“Rules”) The PMLA is an act of
+       the Parliament of India enacted to prevent money laundering and to provide for confiscation
+       of property derived from or involved in money laundering. The Rules are issued by the
+       Central Government in consultation with the Reserve Bank of India to prescribe the manner
+     and procedure of maintaining and furnishing information and records of transactions and
+        identity    of    clients   by   banking   companies,    financial    institutions,   and
+       intermediaries.According to Section 3 of the PMLA, money laundering is defined as any
+        activity  or  process  connected  with  proceeds  of  crime,  including  its  concealment,
+      possession, acquisition or use and projecting or claiming it as untainted property. Proceeds
+       of crime means any property derived or obtained directly or indirectly by any person as a
+       result of criminal activity relating to a scheduled offence or the value of such property. A
+      scheduled offence is any offence specified under Part A or Part B or Part C of the Schedule
+       to the PMLA.
+      Fraud is a scheduled offence under Part A of the Schedule to the PMLA if it is punishable
+      under Section 420 (cheating and dishonestly inducing delivery of property) or Section 467
+       (forgery of valuable security) or Section 468 (forgery for purpose of cheating) or Section
+     471 (using as genuine a forged document) of the Indian Penal Code, 1860, and if the total
+      value involved in such offence or offences is thirty lakh rupees or more.
+7.    Companies Act, 2013: The Companies Act 2013 is an Act of the Parliament of India that
+       regulates the formation, management, and dissolution of companies in India. It replaces
+       the Companies  Act 1956 and  introduces new concepts such as  corporate  social
+       responsibility, class action suits, one-person company, and more. The Act has 29 chapters,
+     470 sections, and 7 schedules. It was enacted on August 29, 2013, and came into force in
+       stages. The Act aims to enhance disclosure, accountability, and governance of companies
+        in India.
+8.    Information Technology Act, 2000: The Information Technology Act, 2000 is a law that
+      deals with various aspects of electronic transactions, data protection, cyber security, and
+      cybercrimes in India. It also provides legal recognition to electronic records and signatures
+     and establishes the regulatory framework for certifying authorities and electronic signature
+        certificates.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.31
+
+9.    Serious Fraud Investigation Office (SFIO): SFIO stands for Serious Fraud Investigation
+       Office, which is a statutory corporate fraud investigating agency in India. It has the power
+       to investigate into the affairs of a company that are suspected of fraud, as defined under
+      Section 447 of the Companies Act, 2013.
+10.   The Insolvency and Bankruptcy Code (IBC) : legal implications of fraud cases under the
+      Insolvency and Bankruptcy Code (IBC) in India. The IBC is a law that aims to consolidate
+     and amend the laws relating to reorganization and insolvency resolution of corporate
+      persons, partnership firms and individuals in a time bound manner. The IBC has a provision
+      under Section 66 that deals with fraudulent trading or wrongful trading. According to Section
+       66, if during the corporate insolvency resolution process (CIRP) or a liquidation process, it
+        is found that any business of the corporate debtor has been carried on with intent to defraud
+       creditors or  for any fraudulent purpose, the Adjudicating Authority (AA) may on the
+       application of the resolution professional (RP) pass an order that any persons who were
+      knowingly parties to the fraud shall be liable to make such contributions to the assets of
+       the corporate debtor as it may deem fit. The AA may also pass an order that any director
+       or partner of the corporate debtor who did not exercise due diligence in minimizing the
+       potential loss to the creditors shall be liable to make such contribution as it may deem fit.
+     The Supreme Court of India has interpreted and applied Section 66 in several cases
+       involving fraud and insolvency.
+11.   Reserve Bank of India (RBI) Regulations: The RBI is the central bank of India and has
+       the authority to issue directions and guidelines to banks and financial institutions on various
+      aspects of banking operations, including fraud prevention and management. The RBI has
+      issued a Master Direction on Frauds dated July 1, 2016, which consolidates and updates
+         all the instructions issued on the subject up to June 30, 2016. The Master Direction covers
+       the following topics:
+       (a)    Classification of frauds based on the nature and amount involved.
+       (b)    Reporting of frauds to RBI, police, CBI, and other authorities
+        (c)    Quarterly and annual reviews of frauds by banks and submission of reports to RBI
+       (d)    Guidelines  for  reporting  frauds  to  police/CBI and  filing  complaints  with law
+            enforcement agencies.
+       (e)    Reporting cases of theft, burglary, dacoity and bank robberies
+         (f)    Guidelines for dealing with loan frauds, including early warning signals, detection,
+              reporting, staff accountability and penal measures for fraudulent borrowers.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+5.32          FORENSIC ACCOUNTING
+
+      According to the Master Direction, frauds are classified into four categories based on the
+     amount involved:
+       Minor - below Rs. 1 lakh
+       Major - Rs. 1 lakh and above but less than Rs. 50 lakhs
+       Serious - Rs. 50 lakh and above but less than Rs. 5 crores
+       Very Serious - Rs. 5 crore and above
+     Banks are required to report all cases of frauds involving Rs. 1 lakh and above to RBI within
+       three weeks from the date of detection. They are also required to report all cases of frauds
+       involving Rs. 100 lakh and above to the Central Fraud Monitoring Cell of RBI within a week
+      from the date of classification. In addition, banks are required to report  all cases of
+      attempted frauds irrespective of the amount involved. Banks are also required to report all
+      cases of frauds involving Rs. 1 crore and above to the Central Bureau of Investigation (CBI)
+       within a month from the date of detection. They are also required to report all cases of
+      frauds involving Rs. 3 crore and above to the Serious Fraud Investigation Office (SFIO)
+       within a month from the date of detection.
+     The penal measures currently applicable to borrowers classified as fraud or wilful defaulter
+        in terms of the Master Direction on Frauds dated July 1, 2016, and the Master Circular on
+       Wilful Defaulters dated July 1, 2015, respectively, remain unchanged and shall continue to
+      be applicable in cases where the banks enter compromise settlement with such borrowers.
+5.5.6  Foreign Laws relevant in Frauds and Forensics: Many a times, the forensic accountant has
+to deal with situations concerning cross border transaction (e.g., buying raw materials or selling
+products), or they may have to deal with matters having global implications (e.g., transfer pricing).
+Companies operating in multiple countries have to be in compliance with laws and regulations
+pertaining to not just the country in which they operate but also other countries of their parent entity
+or countries where they may be registered (e.g., tax havens). All these different jurisdictions have
+their own laws pertaining to matters concerning the topics listed above under laws concerning India,
+such as Corruption, Bribery, Money Laundering, etc. given that these are global problems and not
+problems plaguing the business environment in India alone. A quick snapshot of some of these laws
+is presented here.
+   Country       Legislation                                          Year of Issue
+  USA          Foreign Corrupt Practices Act                         1977
+  USA         Sarbanes Oxley Act                                 2002
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.33
+
+  USA         The Money Laundering Control Act (MLCA)              2002
+  USA          United States Organizational Sentencing Guidelines       2004
+  UK            United Kingdom Bribery Act                           2010
+
+      5.6  COURT PROCEEDINGS
+5.6.1 When a fraud case of a company is found, the court procedure may vary depending on the
+jurisdiction in which the case is filed. However, there are some general steps that are typically
+followed.
+1.    Gather Evidence and Investigation: The first step is to gather evidence and investigate
+       the fraud case. This could include documents such as contracts, invoices, and emails that
+     show that the company committed fraud. This may be done by the company's internal audit
+      department, law enforcement agency, or a combination of the two.
+2.    Framing of Charges: Once the evidence gathering and investigation is completed, the
+       appropriate entity (SFIO/ Police Authority) may decide to frame charges against the
+       individuals or entities responsible for the fraud.
+3.    Issuing a Warning: Based on the charges framed a preliminary warning is issued to the
+       entity who is accused of committing fraud to take steps to resolve to rectify such allegations.
+4.     Filing of Suit: If the entity is not responsive to the allegation framed, the appropriate
+       authority will file the suit under relevant law at the court of first instance having appropriate
+        jurisdiction.
+5.    Issuing of Summons: Going through the petition of fraud, the judge will issue summons
+       to the defendant.  If the defendant is nonresponsive to the summons, then the court can
+      issue ex-parte order (deciding the case without hearing the opposite party).
+6.    Preparing Defence: The defendant will either plead guilty or not guilty, and the defence
+      statement will accordingly be prepared.
+7.     Trial: Based on the defence statement, the case will go to the Trial. This will include the
+      stage of witness gathering, examination and cross examination of evidence.
+8.    Issuing Judgement: The judge will consider the evidence and the arguments provided by
+      both the parties and deliver a judgement which fair and equitably just. The judgement will
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+5.34          FORENSIC ACCOUNTING
+
+       either acquit or convict the defendant. If the defendant is convicted, then the defendant will
+      be sentenced in the form of penalty - fine, imprisonment or both.
+9.    Appeal: If either party is not satisfied with the judgement, the party will appeal to the higher
+       court and the same process will be continued.
+10.   Final Justice: The judgement provided by the apex court is considered to full and final
+     and further the judgement needs to execute.
+In addition to the above steps, there are a number of other things that may happen during the court
+procedure for a fraud case. For example, the defendants may file pre-trial motions, such as a motion
+to dismiss the charges or a motion to suppress evidence. The defendants may also reach a plea
+agreement with the prosecution
+
+            TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    Which  regulatory body can  investigate suspected  financial crimes,  including money
+      laundering and terrorist financing?
+       (a)    Central Bureau of Investigation (CBI)
+       (b)    Insurance Regulatory and Development Authority of India (IRDA)
+        (c)    Enforcement Directorate (ED)
+       (d)    Serious Fraud Investigation Office (SFIO)
+2.   How should the Professional approach the experts?
+       (a)    Analyze and synthesize the expert's responses
+       (b)    Obtain information about the expert's credentials
+        (c)    Prepare clear and specific questions
+       (d)   Show appreciation for the expert's time and expertise
+3.    What is the purpose of developing a data collection plan in a forensic audit?
+       (a)   To identify the specific information that needs to be collected and the sources of
+             information
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+PROCESS OF FORENSIC INVESTIGATION              5.35
+
+       (b)   To secure and preserve the collected information
+        (c)   To create a timeline for the audit process
+       (d)   To conduct interviews with relevant stakeholders
+4.    Which statistical law can be used to detect fraud by analyzing the distribution of leading
+        digits in numerical data sets?
+       (a)   Data mining
+       (b)   FTK images
+        (c)    Benford's law
+       (d)    Ratio analysis
+4.    What is the purpose of organizing a forensic accounting report?
+       (a)   To meet regulatory requirements
+       (b)   To analyze the findings of the investigation
+        (c)   To collect and analyze evidence for legal purposes
+       (d)   To present the information in a clear and logical manner
+5.     In the trial of a fraud case, what step follows the framing of charges against the individuals
+      responsible for the fraud?
+       (a)    Issuing a Warning
+       (b)    Filing of Suit
+        (c)     Trial
+       (d)    Preparing Defence
+Answers to Multiple Choice Questions:
+    1.         (c)        2.         (c)        3.         (a)        4.         (c)        5.        (d)
+    6.         (a)
+
+
+© The Institute of Chartered Accountants of India

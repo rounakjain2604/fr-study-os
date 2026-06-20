@@ -1,0 +1,1528 @@
+Source PDF: 07_SPOM/Set_D_04_Digital_Ecosystem_Controls/014 - Chapter-13- Emerging Technologies - 79454bos63475-cp13.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_04_Digital_Ecosystem_Controls\014 - Chapter-13- Emerging Technologies - 79454bos63475-cp13.pdf
+Extracted at: 2026-05-31T10:36:58+05:30
+Pages: 38
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          13
+         1
+EMERGING TECHNOLOGIES
+
+
+                    LEARNING OUTCOMES
+After studying this chapter, you will be able to –
+   understand e-business and associated risks and their controls.
+   comprehend various digital payment used in today’s world along with their
+     advantages and disadvantages.
+   acknowledge various paradigms  of  Internet  of Things  (IoT) with  its
+      application in Finance and Accounting.
+   gain knowledge about Quantum Computing and its advantages in financial
+     organizations.
+   understand Regtech technology.
+   conceptualize Mobile Computing and its benefits.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+13.2           DIGITAL ECOSYSTEM AND CONTROLS
+
+  CHAPTER OVERVIEW
+
+
+                                            Digital Payments                                                e-business
+
+
+                                         Internet of Things
+
+                             Quantum Computing                                                          Technologies
+                                    RegTech
+
+                                    Mobile Computing                                       Emerging
+
+
+    13.1 INTRODUCTION
+Today’s world is driven by technology. Each day brings a new emerging trend in the digital world to
+back up and support the businesses and society as a whole. Every day the world sees newly
+developed solutions  - models designed to work closely with the physical and the digital world.
+Technologies such as Mobile Computing, 3D printing, Cloud Computing, Quantum Computing, etc.
+have changed our working style and made the work easier.
+These emerging technologies are seen to have enormous potential to meet global challenges. These
+technologies are interrelated with each other such as mobile technology can leverage other
+technologies such as social media or predictive analysis. Through mobile apps, users can purchase
+and buy anything anytime. The relationship between financial transactions and the internet  is
+triggered with the use of these emerging technologies. The digital finance or payment industry is
+promoted using technological innovation. Modern day transactions are constantly shifting from cash-
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+EMERGING TECHNOLOGIES             13.3
+
+based technology to technology-based transactions. The most convenient way is to make the
+payment using digital cash or digital payment.
+
+   13.2 DIGITAL PAYMENTS
+From booking a taxi to washing clothes and doing work in an office, technology has brought transition
+in every sector. Technology has not only made the work easier but also changed the way of
+payments. From contactless payment to mobile wallet, it becomes much easier to pay for any type
+of goods and services. The modern payment and e-business have made it simpler and more efficient
+not only businesses but also for consumers to exchange money and enhances the security. These
+technologies have implications on the financial system of businesses. The new digital payment
+system has enabled the organizations to expand their market presence. These new digital payments
+have truly revolutionized how we do business, thus showing how important technology is when  it
+comes to modern day business.
+The benefits of digital payments are as following:
+(i)    Easy and convenient: Digital payments are easy and convenient as the transactions made
+       during are simple click based. Digital payment eradicates the security risks associated with
+      handling cash. This ease of transaction is more secure as compared to making transactions
+       including cash.
+(ii)   Pay or send money from anywhere: Digital payments are available 24/7, meaning users
+      can make payments anywhere, anytime.
+(iii)   Tax Discounts: To encourage  digital payments, the government consistently provides
+       attractive discounts on specific commodities when purchased through digital channels. For
+       instance, users can avail 0.75% discount on fuels and a 10% discount on insurance premiums
+      from government insurers.
+(iv)   Log maintenance: User often forgets to note down his/her cash spending whereas digital
+      payments are automatically recorded in passbook or inside E-Wallet app. This helps to
+      maintain record, track spending and budget planning. Digital payments thus drive the
+      development and add modernization to payment system, promote transparency in economy.
+(v)   Less Risk: Digital payments entail lower risks when used judiciously. In the event of a lost
+      mobile phone or Debit Card/Credit Card/Aadhaar Card, users need not be overly concerned.
+      Unauthorized access to someone else's funds is prevented by requiring MPIN, PIN, or
+        fingerprint verification in the case of Aadhaar. It is advisable for users to promptly block their
+      cards if they are misplaced.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+13.4           DIGITAL ECOSYSTEM AND CONTROLS
+
+(vi)   Competitive advantage to business: Digital payment enables businesses to make sales to
+      customers who choose to pay electronically and gain a competitive advantage over those
+     who accept payment only through traditional methods.  It helps businesses to grow their
+      customers’ base and resource pool throughout the globe.
+(vii)  Environment  Friendly:  Digital  payments  eliminate  the  need  for  paper,  promoting
+       environmentally friendly practices known as Green Computing.
+National Payments Corporation of India (NPCI), an umbrella organization for operating  retail
+payments and settlement systems in India, is an initiative of Reserve Bank of India (RBI) and Indian
+Banks’ Association (IBA) under the provisions of the Payment and Settlement Systems Act, 2007,
+for creating a robust Payment & Settlement Infrastructure in India.
+Various types of digital payment are as following (Refer Fig. 13.1):
+
+                                        Unified Payments Interface
+
+                              Unstructured Supplementary Service Data
+
+                               Aadhar Enabled Payment Service
+
+                                          Mobile Wallet
+                                              Payments             Immediate Payment Service
+                                         Digital                                    Bharat Interface for Money
+
+                                      RuPay
+
+                                 e-RUPI               Debit card
+
+                                Cards                Credit card
+
+                                                  Smart card
+
+                               Fig. 13.1: Types of Digital Payments
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+EMERGING TECHNOLOGIES             13.5
+
+A.    Unified Payments Interface (UPI): It is a system that powers multiple bank accounts (of
+       participating banks), several banking services features like fund transfer, and merchant
+      payments into a single Mobile Application (of any participating bank), into one hood. The
+      upper limit per UPI transaction is ` 1 lakh. There are many UPI apps available such as BHIM,
+      SBI UPI app, HDFC UPI app, iMobile, PhonePe app, Axis app, UPI Collect etc.   It can be
+      used for various activities such as bill sharing with friends, payment to merchants, utility bill
+      payments, Barcode based payments, donations, etc.
+    o        It has transformed the landscape of banking by shifting a significant portion of banking
+                activities to digital platforms through mobiles and apps. UPI is a payment mode that
+            enables instant fund transfers from the sender’s bank account to the receiver’s bank
+            account through a mobile app.
+    o        It has enabled a seamless P2P (peer to peer) and P2M (peer to merchant) payment
+             experience through a virtual address to push or pull payment using any third-party
+              application provider authorized by the participating bank.
+    o    UPI  follows  the  one-click, two  factor  authentication  protocol. When a  transfer
+              transaction is initiated using a smartphone, the device’s fingerprint or other technical
+               detail which is unique to the device is passed as the first factor of authentication. The
+           second factor is the UPI PIN, which must be typed by the user on its mobile phone.
+    o      In  the  year  2022, NPCI  (National Payments  Corporation  of  India)  launched
+            UPI123Pay, an instant payment system designed for feature phone users. This service
+             allows them to utilize the Unified Payments Interface (UPI) in a safe and secure
+            manner, indicating a broader adoption of digital transactions in rural areas where a
+               significant portion of the population still does not own smartphones.
+    o        It also caters to the ‘Peer to Peer’ collect request, which can be scheduled and paid
+            as per requirement and convenience.
+    o     Users must register for mobile banking to use UPI apps. Users can transfer funds
+           between two accounts using UPI apps. They can use more than one UPI app on the
+          same mobile and link them with the same as well as different accounts.
+    o    As a fully digital system, UPI can be utilized 24/7, including on public holidays.
+    o    Customers cannot link wallet to UPI, he can only add bank accounts. UPI provides
+             only inter/intra bank accounts transfers.
+    o    UPI also enables non-financial transactions such as Mobile Banking Registration, One
+           Time Password (OTP) generation, UPI PIN Set/Change, UPI transaction status check,
+               etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+13.6           DIGITAL ECOSYSTEM AND CONTROLS
+
+    o     Users need to download a UPI app and create a VPA (Virtual Payment Address) or
+           UPI ID which can be used to transfer funds. It is not the actual payment address but
+              act as the payment address. Hence, user can link many accounts with one VPA.
+    Fig. 13.2 shows the benefits of using UPI app by Customers, banks, and merchants.
+
+                                                  For Customers
+                                                     Single applictaion-based
+                                                            Available 24x7
+                                            Easy to make bill payment
+                                                     Single click authentication
+                                                    For Banks
+                                     High security payment transaction with single click
+                                       Two factor authentication
+                                          Seamless merchant transaction
+
+                                                   For Merchants
+                                        Seamless fund collection from customer
+                                                   Ability to accept payment from customer not having
+                                                                  credit/debit cards
+                                          Seamless pull and in app payment
+                                                 Suitable mobile commerce transactions
+
+                                  Fig. 13.2: Benefits of using UPI app
+                                 Illustration on Usage of UPI payment
+   Ms. Kavita has received a notification on her phone which was a message from a UPI ID of her
+   younger brother who is studying in another city. He was asking her if she could instantly send
+   him ` 4000. After calling her brother and checking with him, Ms. Kavita then uses her own
+  HDFC net banking app to process the fund request, transfer the money and authenticate the
+    transaction with her M-PIN. In a few seconds, she received a successful transaction notification
+  SMS on her phone from her bank. Her brother also thanked her for the instant fund transfer.
+
+B.    Unstructured Supplementary Service Data (USSD):  It is a revolutionary idea where to
+     make payments through mobiles one neither needs to have internet nor any smart phone.
+    USSD banking or *99# Banking is a mobile banking based digital payment mode. User does
+       not need to have a smartphone or internet connection to use USSD banking.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+EMERGING TECHNOLOGIES             13.7
+
+    o     Users can easily use  it with any normal feature phone and is as easy as checking
+             mobile balance. Users can use this service for many financial and non-financial
+             operations such as checking balance, sending money, setting/generating or changing
+             Mobile Banking Personal Identification Number (MPIN) and getting Mobile Money
+                Identifier (MMID).
+    o     Users do not need to have a GPRS or any similar data connection on their mobile
+             devices. They can use the service from any GSM mobile connection that includes
+               calling features.
+    o    The maximum amount that can be transferred  is ` 5000 per day and only one
+              transaction can be done per session.
+    o     Various services can be used using USSD banking like *99*46*1# is used for Balance
+               Inquiry, *99*46*2# is used for Mini statement and *99*46*3# is used for Instant Money
+             Transfer
+C.    Aadhar Enabled Payment Service (AEPS): AEPS is an Aadhaar based digital payment
+     mode offered by National Payments Corporation of India (NPCI) to banks and financial
+        Institutions. The services offered by Aadhaar Enabled Payment Service are depicted in Fig.
+       13.3.
+
+                                               Fund Transfer
+
+                                              Cash Withdrawal
+
+                                              Cash Deposit
+
+                                                    Balance Checking
+
+
+                  Fig. 13.3: Services Offered by Aadhaar Enabled Payment Service
+    o    AEPS allows bank-to-bank transactions and customers need only  their Aadhaar
+           number to pay to any merchant.
+    o        It is the bank led model that allows online financial inclusion transaction using the
+           Aadhaar Authentication. It means the money the customer pays will be deducted from
+              his/her account and credited to the payee’s account directly.
+    o    Customers are required to link their Aadhaar numbers to their bank accounts. Once
+             launched, AEPS can also be used at Point of Sale (PoS) terminals.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+13.8           DIGITAL ECOSYSTEM AND CONTROLS
+
+    o    AEPS can be used  for  all banking transactions such as balance enquiry, cash
+             withdrawal, cash deposit, payment transactions, Aadhaar to Aadhaar fund transfers,
+               etc.
+    o      All transactions are carried out through a banking correspondent based on Aadhaar
+                verification. There is no requirement to go to a branch, provide debit or credit cards,
+              or even make a signature on a document.
+    o         It is one of the most cost-effective, safe, and secure means of paperless Know your
+           Customer (KYC) to all Banks/non-bank entities in India which may save a lot of cost
+           and effort related to storing physical KYC proofs.
+    o    AEPS accounts can be opened based on simplified KYC guidelines. The bank with
+            which the bank account of user is linked with Aadhar card would set the appropriate
+                 limit per transaction in a day. Few Indian banks that are members of AEPS are ICICI
+            Bank, Union Bank of India, Bank of India. Fig. 13.4 describes the working of AEPS.
+
+                                           Visit a local banking
+                                    correspondent
+
+                 Receipt is received                                                         Enter Aadhaar                    after completion of                                               number into PoS                      transaction
+
+
+                                                             Select the                 Provide biometric                                                        transaction type and                    authentication                                                          specify the bank
+
+                                   Enter the Amount to
+                                  be transacted
+
+                     Fig. 13.4: How the transaction takes place in AEPS
+                                          Illustration for AEPS
+        Ms. Neha runs a small village handicrafts sourcing business where she buys items from
+       many rural women’s groups around the country that have different bank accounts than
+         her own. As she doesn’t always have access to her home bank branch account due to
+         network issues. She is not able to see whenever someone make any transactions in her
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+EMERGING TECHNOLOGIES             13.9
+
+        bank account, hence, she preferred Aadhaar-enabled service through which wherever
+        she can make a Balance Enquiry, so that she is aware of her receipts and expenditure
+        as she travels.
+
+D.    Mobile Wallet: This is the new method of payment that has increased the prevalence in our
+        lives. This innovation allows us to store the payment details and transaction history at one
+      secure place.
+    o        It also requires users to enter authenticated login details to make the transaction.
+    o    Some banks also provide advanced  security  features, such as encryption and
+             biometrics  integrated  into mobile payments,  assuring  users  that  their data  is
+             thoroughly protected against external threats.
+    o     Users are not obligated to carry physical cards, making it a preferred choice for those
+          who frequently travel and prefer not to carry cash or cards.
+    o     Users can avail various offers such as cash back, discounts, coupons, etc., from the
+              wallet provider while transacting.
+    o     Only intra-wallet transfers are allowed, no inter-wallet transfer is allowed.
+    o    Most of the mobile wallet service providers have a monthly limit of depositing amounts
+           up to INR 10,000. Mobile wallets can have zero balance.
+E.    Immediate Payment Service (IMPS):  It is an instant inter and intra-bank electronic fund
+       transfer service through mobile phones. IMPS  is an empathetic tool to transfer money
+       instantly within banks across India through Mobile, Internet Banking and ATM, which is not
+       only safe but economical also.
+    o        It comprises of two methods for fund transfer:
+                        i.     Using Mobile number + Mobile Money Identifier (MMID)
+                         ii.     Using Account number + IFSC
+    o        It provides robust and real time, 24x7 instant interbank electronic fund transfer service.
+    o        It can be accessed through mobile, Internet, Branch, ATM and SMS.
+    o        It also provides a foreign inward remittance facility for beneficiary customers.
+    o         It also provides non-financial transactions such as checking of status, name of
+              beneficiary, etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+13.10           DIGITAL ECOSYSTEM AND CONTROLS
+
+      Transferring funds through IMPS
+      Follow the steps mentioned below to transfer funds through IMPS:
+    o    Step 1: Install the mobile banking app of your bank. You can also use the internet
+            banking facility for transferring money via IMPS and follow the steps given below.
+    o    Step 2: Log in on your bank’s mobile application using your credentials (Customer ID/
+            User ID and Password)
+    o    Step 3: Once you have successfully logged in, select the ‘Transfer’ option and choose
+               to add beneficiary. Alternatively, you can also choose the ‘One Time Transfer’ option.
+    o    Step 4: Now, complete the process using IMPS by providing either MMID & mobile
+           number details or account number & IFSC code.
+                                          Illustration of IMPS
+       Mr. Kamal, a senior manager in a software development company, had gone on an official
+          visit to USA. His son had an accident, and his wife took their son to hospital. She needed
+         to deposit a certain amount in the hospital. She was running short of money, so she called
+       Mr. Kamal. He immediately transferred the money from his salary account to his home in
+         India. He directly transferred the fund to his wife’s bank account through net banking IMPS
+         transfer. His wife got the money immediately when he transferred the amount.
+
+F.    Bharat Interface for Money (BHIM): It is a Mobile App developed by NPCI based on UPI
+       (Unified Payment Interface). It is the launchpad for UPI platform and brought features like
+      sending money, scan and pay, collect request, feature phone-based payments (*99# USSD
+       Service), UPI LITE, RuPay, Aadhaar OTP, e-RUPI, etc. that banks could extend to their user
+      base. Refer Fig. 13.5.
+    o        It facilitates e-payments directly through banks and supports all Indian banks which
+            use that platform.  It is built on the Immediate Payment Service infrastructure and
+             allows the user to instantly transfer money between the bank accounts of any two
+               parties.
+    o        It is also possible to link multiple bank accounts. BHIM works on all mobile devices
+           and enables users to send or receive money to other UPI payment addresses by
+            scanning QR code or using account number with Indian Financial Systems Code
+             (IFSC) code or MMID (Mobile Money Identifier) Code for users who do not have a UPI-
+           based bank account.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+EMERGING TECHNOLOGIES             13.11
+
+                                            Benefits to Customers
+                                    • Single app  for sending & recei]ving money through  virtual
+                        payment address.
+                                    • Aided in cashless any where any time.
+                                    • Payment through single app in user specific language.
+
+                                              Benefits to Banks
+                                    • Single- click, two factor authentication.
+                                    • No PSP(Payment Service Provider) fees saves lot of cost to
+                           banks.
+
+                      Fig. 13.5: Benefits of Bharat Interface for Money (BHIM)
+G.    RuPay: The term RuPay is coined from Rupee and Payment. This card system has become
+       instrumental in driving the digitally led, cashless economy and enhancing financial enclosure
+       while reducing the costs of cash, cheques, and manual transaction processing. It is adapted
+        in India in 2012.
+    o        It is accepted as a tool by retail outlets and e-commerce merchants.
+    o     This card can be used to withdraw cash from ATMs network in India and at Point of
+            Sale (PoS) at the merchant’s need.
+    o         It also supports reversal of transaction in case where the transaction is disputed within
+           an applicable banking time frame.
+    o     Transactions on a RuPay card can be made null and void by the merchant before the
+           payment transaction is completed.
+    o    The user can easily add money to the card to enable its usage for a wide range of
+              transactions.
+    o     Users can easily view debit, prepaid or balance amount as the card automatically
+            updates the balance after each transaction.
+                                               Illustration
+        Mr. Amit decided to buy the latest mobile phone. He visited the local mobile store and
+       purchased a mobile phone worth ` 20.00. After the purchase he handed over his RuPay
+        card to the shopkeeper who inserted his card in a Point-of-Sale (PoS) terminal and entered
+        the amount to be paid. Mr. Amit checked the amount and securely entered his card PIN
+       and clicked the submit button on the terminal. The PoS terminal prints out a mini receipt
+       and the merchant hands over a copy to Mr. Amit mentioning the bill amount.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+13.12           DIGITAL ECOSYSTEM AND CONTROLS
+
+H.    e-RUPI: Recently, the Government of India has launched a new mode of cashless and
+       contactless  digital payment named e-RUPI based on UPI systems to ensure seamless
+       transfer of benefits to the citizens in a “leak-proof” manner.
+    o        It is an e-voucher, which will be delivered to beneficiaries in the form of a QR code
+           and SMS-string-based voucher through which funds will be directly transferred to their
+           bank account.
+    o    These vouchers are person- and purpose-specific, meaning if they are released by the
+            government for the purpose of vaccination, for instance, then they can be redeemed
+             only for that.
+    o     This contactless e-RUPI is easy, safe, and secure as  it keeps the details of the
+              beneficiaries completely confidential.
+    o    The entire transaction process through this voucher is relatively faster and at the same
+             time reliable, as the required amount is already stored in the voucher.
+    o    Any government agency and corporation can generate e-RUPI vouchers via their
+             partner banks.
+      Refer Fig. 13.6 highlights major benefits of e-RUPI.
+
+             For Customer                         No prerequisite to have a bank account to avial e-RUPI.
+         •Can be operated on features phone ; not required to have smart phone.
+
+            For Government                             e-RUPI can be cretaed/revoked on the request of sponsor.
+         •Can be redeemed for P2M purchase.
+           •Cost saving, no need for physical issuance of voucher.
+
+           For Private Entities                          Can be accepted on all UPI merchant acceptance points.
+           •Every voucher is digitally validated on the redemption.
+            •Quick, safe and contactless voucher distribution.
+
+                                   Fig. 13.6: Benefits of e-RUPI
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+EMERGING TECHNOLOGIES             13.13
+
+I.     Cards: Cards are provided by banks to their account holders. These have been the most
+      used digital payment modes till now. These cards are the mode of digital payment the enables
+       the users to make transactions without spending cash. Plastic money refers to the payments
+     made via debit or credit card and is versatile and convenient. The invention of plastic money
+     was made possible by technology. Various types of cards are as follows:
+    o     Credit Cards: A small plastic card issued by a bank, or issuer etc., allowing the holder
+               to purchase goods or services on credit. It contains a unique number linked with an
+             account. It also has a magnetic strip embedded in it which is used to read credit card
+              via card readers. In this mode of payment, the buyer’s cash flow is not immediately
+             impacted. Users of the card make payment to the card issuer at the end of billing cycle.
+              Credit Card issuer charge customers per transactions/fixed amount as transaction
+              fees.
+    o     Debits Cards: Debit cards are also small plastic cards with a unique number linked
+              with a bank account number. It is required to have a bank account before getting a
+              debit card from the bank. It enables the cardholder to pay for his/her purchases directly
+             through his/her account. The major difference between debit card and credit card is
+               that in case of payment through debit card, amount gets deducted from card’s bank
+            account immediately and there should be sufficient balance in bank account for the
+              transaction to get completed, whereas  in case of credit card, there  is no such
+             compulsion.
+    o    Smart Cards: Smart cards are prepaid cards similar to credit cards and debit cards in
+            appearance, but it has a small microprocessor chip embedded in it. It has the capacity
+               to store customer’s personal information such as financial facts, private encryption
+             keys, credit card information, account information, and so on. Smart cards combine
+             the advantages of both debit card and credit card and are available to anyone,
+             regardless of credit ratings or income of applicant of smart card. Moreover, these are
+             not linked to any bank account. For this reason, smart card holders are not mandated
+               to have a bank account. It is also used to store money which is reduced as per usage.
+           Example - Visa Cash.
+           The smart card holder has to load money onto the card by paying cash or through
+              transfer from his/her bank account. After loading the money onto the card, the
+             cardholder can use the card to spend money up to the limit of loaded amount in the
+          same way as using a credit or debit card. Once the loaded amount is spent, the
+             cardholder may reload money onto the card.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+13.14           DIGITAL ECOSYSTEM AND CONTROLS
+
+   13.3 E-BUSINESSES  ASSOCIATED  RISKS  AND  THEIR
+      CONTROLS
+E-Commerce: “Sale/Purchase of goods/services through electronic mode is e-commerce.” This
+could include the use of technology in the form of Computers, Desktops, Mobile Applications, etc.
+The greatest change due to technological innovations in last five years has been the way users
+perform  their  daily  chores/activity  of   life. E-Commerce  and  its  related  technologies  are
+unquestionably the current leading-edge business and finance delivery systems.
+The explosion in the application of technologies and the delivery of these technologies into the hands
+of consumers has made the vision, the dream, the fantasy of conducting business electronically,
+anywhere in the global community, a reality.
+E-Commerce is the process of doing business electronically. It refers to the use of technology to
+enhance the processing of commercial transactions between a company, its customers, and its
+business  partners.  In  e-commerce,  the  buyers  and  sellers  interact  electronically  using
+telecommunication networks rather than through physical contact or exchange. It is a new way of
+conducting, managing, and executing business transactions using computer and telecommunication
+networks.
+E-commerce is not merely a concept;  it has evolved into a formidable market force. With the
+increasing number of organizations launching Internet and World Wide Web (WWW) home pages
+and intranets to share company/product information and broaden their customer base, numerous
+yet unnamed companies are now beginning to explore this alternative. These companies are
+realizing that business via the Internet is inevitable that they will not be able to ignore. The lure of
+reaching additional customers, expanding market shares, providing value added services, advancing
+technological presence, and increasing corporate profits is just too valuable to disregard, and will
+eventually attract companies to electronic commerce like moths to a flame.
+Benefits of e-Business
+E-business benefits individuals, businesses, government, and society at large. The major benefits
+from e-business are as follows:
+A.    Benefits to Customer/Individual/User
+    o    Convenience: Every product/service is easily available at the tip of an individual’s
+               fingertips on internet.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+EMERGING TECHNOLOGIES             13.15
+
+    o    Time saving: Some products such as e-books, recharge of mobile can be delivered
+              online through internet, which reduces the time. Buyers must wait to begin enjoying
+                their purchases.
+    o     Various options for comparison: Customers have several options that are not only
+            easy to compare but are also offered by different players in the market. This wide array
+               of choices enables buyers to consider numerous products and services from a diverse
+            range of sellers.
+    o    Easy to find reviews: There are often reviews about a particular site or product from
+             previous customers which provide valuable feedback.
+    o    Coupon and Deals: There are discount coupons and reward points available for
+            customers to encourage online transaction.
+    o    Anytime Access: The customers can evaluate the products 24 hours a day, each day
+            as per their convenience.
+B.    Benefits to Business/Seller
+    o     Increased Customer Base: The exponential growth in online users has resulted in
+             the creation of not only new customers but also the retention of existing ones. E-
+           commerce allows businesses to offer their products and services to almost everyone
+            worldwide  with an  internet-enabled  device.  It enables reaching narrow market
+           segments that may be widely scattered geographically.
+    o     Recurring payments made easy: Each business has several operations that are
+           homogeneous in nature. This brings in uniformity of scaled operations.
+    o     Instant Transaction: The interaction with the system occurs in real time, enabling
+            customers to respond quickly. This capability has facilitated the successful execution
+               of numerous deals.
+    o    Provides a dynamic market: With  multiple players  in the market, a dynamic
+            environment is created, fostering improved quality and business growth.
+    o    Reduction in:
+          costs to buyers from increased competition in procurement as more suppliers
+                 can compete in an electronically open marketplace.
+          costs  to  suppliers by  electronically  accessing  on-line databases  of  bid
+                     opportunities, on-line abilities to submit bids, and on-line review of rewards.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+13.16           DIGITAL ECOSYSTEM AND CONTROLS
+
+          overhead costs through uniformity, automation, and large-scale integration of
+                management processes.
+           advertising costs.
+    o     Efficiency improvement due to:
+          reduction in time to complete business transactions, particularly from delivery
+                      to payment.
+          reduction in errors, time for information processing by eliminating requirements
+                       for re-entering data.
+          reduction in inventories and reduction of risk of obsolete inventories as the
+               demand for goods and services is electronically linked through just-in-time
+                    inventory and integrated manufacturing techniques.
+    o     Creation of new markets: This  is done through the  ability  to reach potential
+            customers easily and at low cost.
+    o     Easier entry into new markets: This is especially into geographically remote markets
+                for enterprises regardless of size and location.
+    o    Low barriers to entry: Homepages provide equal footing for small organizations
+             alongside large international firms. Both small and large organizations have an equal
+              opportunity to establish a presence on the World Wide Web and conduct business
+              online.
+    o     Better quality of goods: Standardized specifications and competition have increased
+           and improved the variety of goods through expanded markets and the ability to
+            produce customized goods.
+    o     Elimination of Time Delays: Faster time to market as business processes are linked,
+             thus enabling seamless processing, and eliminating time delays.
+C.    Benefits to Government
+    o     Instrument to fight corruption: In  line with Government’s  vision, e-commerce
+             provides pivotal hand to  fight corruption. The Information Technology Act, 2000
+             provides a  legal framework  for  electronic governance by  giving  recognition  to
+              electronic records and digital signatures.
+    o    Reduction in use of ecologically damaging materials: There has been reduction in
+             the use of ecologically damaging materials through electronic coordination of activities
+           and the movement of information rather than physical objects.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+EMERGING TECHNOLOGIES             13.17
+
+       Clearly, the benefits of corporate-wide implementation of e-business are many, and this list
+        is by no means complete. With the benefits, however, also come the risks. An organization
+      should be cautious not to leap blindly into e-business, but rather first develop an e-business
+       strategy, and then organize a corporate-wide team to implement that strategy.
+Disadvantages of e-Business
+Following are the disadvantages of e-business:
+♦     Internet Connection: Internet connectivity is a pre-requisite to perform online transactions.
+       Internet connectivity may not be available in rural or remote areas. Many people may not
+      have Internet connectivity due to which they may not be able to do online transactions.
+♦    High start-up costs: The various components of costs involved with e-commerce are due to
+       the following factors:
+♦    Connection: Connection costs to the Internet (i.e., direct link or connection provider).
+♦    Hardware/software: This includes the cost of sophisticated computers, modems, routers,
+        etc.
+♦    Set up: This includes employee work hours involved in the processes of setting up the
+      systems.
+♦    Maintenance: This includes the costs involved in training employees and maintenance of
+      webpages.
+♦    Legal issues: Legal issues are a significant impediment to conducting business on the
+       Internet. It is almost uncertain to ascertain the legal issues that will start to pop up as business
+      on the Internet progresses. Legal issues may also arise if customer-sensitive data falls into
+       the hands of strangers. The legal environment in which e-commerce is conducted is full of
+       unclear and conflicting laws.
+♦   Some business processes may never be suitable for e-commerce: Items like perishable
+      foods and high-cost items such as jewelry and antiques may prove challenging to inspect
+      adequately from a remote location, regardless of future technological advancements.
+♦     Cultural impediments to e-business: Some customers are still somewhat fearful of sending
+        their credit card numbers over the Internet. Moreover, many customers are simply resistant
+       to change and are uncomfortable viewing merchandise on a computer screen rather than in
+      person.
+♦    Security Concerns: One of the primary drawbacks of conducting online business is the issue
+       of security. Technical challenges, including concerns related to the security and reliability of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+13.18           DIGITAL ECOSYSTEM AND CONTROLS
+
+      networks and the  internet, are  significant  factors  in online  transactions. The  fear  of
+      compromised safety and security of personal information persists due to the prevalence of
+      spyware and malware on the internet.
+Risks and controls associated with e- business
+Table 13.1 details the various risks vis-a-vis the controls to mitigate the risks that are associated
+with e-business.
+                    Table 13.1: Risks and their controls in e-business
+     Aspects               Risks                          Controls
+ Data privacy and  Hackers  and  Malicious  •  There is requirement to establish strong
+ Online  Security   actors  can   enter   the     data privacy and online security policy,
+ Risks             system through phishing,      training  to  staff and  incentivize  the
+                   malware, or ransomware.      employees to make them learn about
+                                                  data security.
+ Unauthorized      Unauthorized access can  •  Restricted access should be given to
+ Access            lead to significant amount     employees.
+                        of data loss.  It may also  • Two  factor  authentication  should be
+                     lead   to   data   security     used for login procedure.
+                     breach.                  •  Regular  updation   of  password   to
+                                                       mitigate the unauthorized access.
+ Exploitation   of   Vulnerabilities  such  as  •  Regular updation of system is required.
+ Vulnerabilities    unpatched       software,  • Remove  and  uninstall  incompatible
+                    legacy system,  etc. may      plugins.  Use  firewall  and  anti-virus
+                       benefit malicious actors to      software.
+                      attack the system.         •  Perform periodic security audit.
+ Human Error     Human mistake can cause  •  Implement  data  backup  and  data
+                      loss of data.                  recovery solution.
+ Platform          Lengthy   downtime    to  •  Efficient SaaS providers are required to
+ downtime         update  the  server  can     be chosen.
+                    impact the reputation and  •  Less dependencies on  third party  for
+                       productivity of e-business.     updation of software.
+ Non-Compliance  The hefty penalties would  •   It   is   required   to  understand    all
+                  be imposed in case of no      applicable data privacy laws.
+                   compliance           with  •  Regular updation of website can prevent
+                      regulatory framework.          the financial loss due to noncompliance
+                                                           of regulatory framework.
+ Loss   due   to   Disaster may cause loss  •  Design and implementation  of proper
+ Disaster          and ruin the e-business.        Disaster Recovery Plan that may cover
+                                                  every possible scenario.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+EMERGING TECHNOLOGIES             13.19
+
+   13.4 EMERGING TECHNOLOGIES
+I     Internet of Things (IoT)
+The Internet of Things (IoT) is a system of interrelated computing devices, mechanical and digital
+machines, objects, animals or people that are provided with unique identifiers and the ability to
+transfer data over a network without requiring human-to-human or human-to-computer interaction.
+Embedded with electronics, Internet connectivity, and other forms of hardware (such as sensors),
+these devices can communicate and interact with others over the Internet, and they can be remotely
+monitored and controlled. The goal of this interconnection is to make all these devices communicate
+with each other and therefore, be more intelligent and independent. One of the characteristics of IoT
+devices is that they are able to produce large amounts of data. This data can be particularly used in
+applications such as Artificial Intelligence and Machine Learning.
+IoT is an integrated part of the future that can be defined as dynamic and global. The main objective
+of IoT is to create an intelligent and smart world where physical, virtual, and digital are joining to
+create an intelligent and smart environment that provide more intelligence to the energy, healthcare,
+transport, cities, manufacturing, building and many other areas of our routine life. IoT is used to
+connect devices or objects to access information anytime, anywhere and anyone. Wireless sensors
+interconnect the devices and provide the relevant information to the user whatever is the location of
+user.
+Everything from toothbrush to washing machine, entrance gate, whatever is in the communication
+range is today’s internet and tomorrow’s Internet of Things. (IoT) systems and applications provide
+security, privacy, safety, integrity, trust, anonymity, and these are bound to ethics constraints. This
+can be achieved by having the objects connected with sensing,  identification, and  positing
+technologies.
+IoT is generally associated with sensors and used to collect the data from sensing devices attached
+to various objects. The analysis of this collected data is done to provide useful information to the
+users. However, IoT is not only used for collection of data and making analysis, but also used in
+financial and accounting industry.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+13.20           DIGITAL ECOSYSTEM AND CONTROLS
+
+A.    Applications of IoT in Finance and Accounting (Refer Fig. 13.7)
+
+
+                            Application of IoT in Financial Organization
+                                        •  Collection of Debts
+                                        •  Fraud Prevention
+                                        •  Personalized Offering and Reward System in banks
+                                        •  Capacity Building
+
+
+                          Fig. 13.7: Use of IoT in Financial Industry
+    o     Collection of Debts: This is a very crucial task that requires considerable efforts and
+            overhead costs to the lending financial institution. Using IoT sensors and network
+             operations and supply chain activities of debtors, businesses can be monitored that
+          may help Financial Investigators (FIs) to determine their readiness to pay without
+             involvement of overhead cost and the cost associated with cancellation and failure of
+            cheques. IoT network of ATM and various points of sales devices can allow to assess
+             the  borrower’s  expenditure and income,  their  ability and  intent  to repay and
+             expenditure by defaulters can be curbed until repayment.
+    o    Fraud Prevention: This is one of the major worries for the financial organization. IoT
+                 is the game changer in this area. IoT enabled security systems at various Point of Sale
+            (PoS) especially at ATM can prevent the misuse of debit/credit cards. The financial
+             organizations which constantly invest the money or support the startups, small
+            businesses with money, generally require to seek the various methods to stop the
+            misuse of their money. AI and IoT based systems allow financial organizations to
+              control the misuse of their money. HSBC bank has already successfully implemented
+           an AI based anti-fraud system.
+    o     Personalized Offering and Reward system in banks: With the promotion  of
+             cashless activities, customers prefer to pay with debit/ credit card/internet banking/
+           paytm etc. Banks generally give incentives or reward points to their customers who
+          make payment using different modes of e-payments. These points can be redeemed
+                in specific ways. Sometimes these rewards are not alluring to customers as either
+            process of redemption is tough, or the customers may not be able to get sufficient
+              points required for redemption. IoT along with Artificial Intelligence are used to attract
+             the customers by rewarding relevant redeemable options based on shopping activity
+              or demographics. For example - a customer who spends most on food would be given
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+EMERGING TECHNOLOGIES             13.21
+
+              points redeemable to food outlets and the customer who spends more on clothing
+            would give points or discounts redeemable on apparel.
+    o     Capacity building: IoT enabled systems monitor and track the number of customers
+                  visit per day and can keep track on average queue time to measure the optimal number
+               of employees or personnel to take care of customers. The decision regarding the new
+            branch can be made  easier by using  distribution data from  the customer  or
+             geographical location. Similarly  in banks the number of ATMs present and the
+             requirement to open new ATM centers can be easily monitored at any time.
+B.   Changes brought by IoT in Finance and Accounting
+      IoT with an innovative redesign, can bring change in financial services. Interact IoT, the first
+      ever IoT based financial service platform helps users in saving money by connecting their
+      bank accounts/cards to IoT enabled objects. Benefits can also be exploited by combining the
+       interconnectivity of IoT with blockchain for a reliable and secure network.
+    o    Product Planning & Management: The data is collected from various like mobile
+             apps, banks and other financial organization can launch better and more targeted
+              service offerings. It provides answers to following questions using data about the past
+              service offerings and the reaction of customers for the same:
+         What services and products to launch?
+         Who will be the key targets?
+         When is the right time to launch the products?
+    o     Tailored Marketing: Customers across the industries are demanding personalized
+              solutions for their varying needs and Banking Financial Services and Insurance (BFSI)
+                 is no different. To tailor a financial solution to a client, information is needed about his
+             present economic condition, buying behaviors & individual needs. IoT has made  it
+             possible for banks to keep a track of all consumer activities and present a solution
+               specific to the needs and desires of the client.
+    o     Proactive Service: IoT in financial industries can help to control service faults and
+           upcoming products changes. If there is an underlying concern about a product then it
+                  will come to notice quite easily, and steps can be taken to handle the issue before it
+           becomes too serious. Along with this, a record of the past actions of the customer can
+             help service representatives provide better solutions.
+    o    Other changes bought by IoT in financial services Wearable technologies of IoT
+            bought another big change in financial services. Due to  its popularity and easy
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+13.22           DIGITAL ECOSYSTEM AND CONTROLS
+
+                availability, wearables have become a primary target for such service providing
+             organizations across the world. For example- smart watch.
+      Along with wearables, remote devices like Amazon Alexa are also a focus area where
+       innovation in banking is necessary. Basic banking like balance check and transaction history
+      are some must haves in every wearable and remote assistant device.
+C.    Challenges in IoT Implementation
+     The Fig. 13.8 represents the challenges in IoT implementation:
+
+
+                                                Delivering value to the Customer
+
+                                          Hardware Compatibility Issues                                                                       implementation                            Data Connectivity Issues
+               IoT
+          in                           Incorrect Data Capture Difficulties
+
+                                                     Analytics Challenges                                                   Challenges
+                                                 Data Security issues
+
+
+             Fig. 13.8: Challenges in IOT implementation in financial industry
+    o     Delivering Value to the customer: The success of an IoT implementation depends
+           on the clear definition of the problem statement. However, this is the area missed by
+           most IoT service providers. It is necessary to know how these solutions can impact
+               efficiency, customer satisfaction and productivity in the long run.  Therefore,  it is
+             important to figure out the key performance indicators to measure and improve through
+           an IoT solution.
+    o    Hardware  Compatibility  Issues:  Data  is  captured  through  various  sensors
+             connected, IoT gateways collect & transmit data to the cloud. When existing legacy
+            machines do not have the required sensors, the IoT implementation becomes a
+             challenge. Adding external sensors to the machines becomes a challenging task.
+    o    Data Connectivity Issues:   This  is the most concerning challenge  in an IoT
+             implementation. Most IoT devices available are compatible with GPRS and Wi-Fi, but
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+EMERGING TECHNOLOGIES             13.23
+
+            few devices depend on sensors, and telemetry systems to generate data. So, there
+           need is for a suitable edge layer that translates transport and data format protocols to
+           send data to the IoT platform.
+    o     Incorrect Data Capture Difficulties: Due to some unpleasant incident or the inability
+               of the software to handle certain anomalies, incorrect data may get recorded. This
+               results in inaccurate analytics that would not be useful in taking better decisions.
+    o    Data Security issues: The various attacks  like ransomware attacks made the
+             organizations more skeptical about data security. Data breaches and the stealing of
+               intellectual properties have been increased.
+II.   Quantum Computing
+The study of quantum computing is basically focused on the development of computer-based
+technologies based on the principles of quantum theory. Quantum theory explains the nature and
+behavior of energy and matter at the quantum level.
+Every computer works on bits (0 and 1), and these bits represent the ON and OFF position (Fig.
+13.9). The various ways to enter the data are in the form of program, website, app or photograph.
+User enters the data in his own language, whereas the computer through various software converts
+it to in the language of 0 and 1 to the input understandable to system. Through these bits, the
+computer understands the program and data sent to  it as input. Every program, website, app,
+photograph etc. is made up of millions of bits which are the combination of 0 and 1.  It can be at one
+position at a time.
+The quantum computer uses quantum bits or Qubits.  Qubits can be in a quantum superposition
+which means they can be in on and off position at the same time or between the two (Fig. 13.10).
+The qubits can also be inseparably linked together. The result is that, where there are a large number
+of possible combinations, quantum computers can consider them simultaneously. This is what
+makes quantum computing device so powerful that it could do in four minutes what it would take a
+traditional supercomputer 10,000 years to accomplish.
+
+
+                ON                                  OFF
+
+
+                   Fig. 13.9: Bits (can be at ON or OFF position at a time)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+13.24           DIGITAL ECOSYSTEM AND CONTROLS
+
+
+        ON                        ON &                       OFF
+                                      OFF
+
+                                   Fig. 13.10: Quantum Bits
+     Quantum computers can solve various types of problems in a faster and more efficient
+     manner than traditional computing.
+A.    Advantages of Quantum computing in Financial Organization
+     Many problems in the financial sector can be expressed as optimization problems. Banks and
+       financial institutions are the most benefitted sectors and accessible sectors that quantum
+      computing can bring. These organizations have complex probability calculations for various
+       financial transactions like pricing securities, interest calculation, portfolio management, etc.
+      Accuracy and integrity of the data is very much required for security purposes. However, due
+       to their complexity, such activities can be extremely time-consuming.
+       Unlike  traditional computers  that use binary  bit technology (1 ON, 0 OFF), quantum
+      technology uses qubits that allow them to assume both the on-off states and interact and
+       influence each other regardless of medium or distance between them. Now many companies
+        like IBM, Google, and Microsoft are developing general purpose quantum processors.
+     Quantum finance is a newly developed interdisciplinary field that serves as a gateway to
+       financial technology, addressing fundamental challenges in finance. The following areas
+       highlight significant improvements and opportunities that quantum computing has brought to
+      banks and financial industries.
+    o     Targeting and  Prediction Modeling:  Financial  organizations such as  banks,
+            brokerage firms, Insurance companies, portfolio management companies, etc. need
+               to have analytical models which help to overcome the struggle in managing the target
+           and demand of their customers.  It should encourage their  ability to target what
+             products their customers require in almost real-time. The issue with current customer
+              targeting and prediction modeling can be the inaccurate fraud detection systems that
+              often provide false positives, thus delaying the onboarding of new customers. In such
+             cases, Quantum computing acts as a game changer  for  target and prediction
+             modeling. The capabilities of Quantum computing machines allow us to meet the
+             challenges of complex data structures and make predictions that are simply not
+             possible with present computers.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+EMERGING TECHNOLOGIES             13.25
+
+    o     Trading Optimization: Trading activity is one of the complex activities in financial
+             organization that requires regulatory elements, such as great transparency and proper
+              validation processes. The key concern for any investment manager is incorporating
+                 real-life  limitations and issues  into  portfolio  optimization, and market  volatility.
+            Rebalancing portfolios and simulating numerous scenarios and investment options are
+             fast-changing market movements which are dependent on transaction costs and
+             computational limitations. Quantum computing helps the investment managers to
+            improve portfolio diversification. They can also rebalance portfolio investment in a
+              better way as per the rapidly changing market conditions. Simultaneously,  it also
+             allows us to meet investor goals with more cost-effective and streamlined processes
+                for trading settlement.
+    o     Risk Profiling: In general, Banks and financial organization are highly on risk because
+             these are under high pressure to meet the terms with regulatory requirements. It is
+                 difficult to correctly manage the risk costs on trades because risk management,
+              derivatives pricing and liquidity management are complex and difficult calculations to
+             perform. It is expected going forward that amendments to regulations, directives and
+             standards  will continue  to add  to compliance costs. The faster data-processing
+               capabilities of quantum computing speeds up risk scenario simulations that are more
+             accurate in case of testing potential outcomes.
+B.    Threats that financial organizations face from Quantum Computing
+     The increased popularity of digital banking has made financial organizations the prime targets
+        for cyber-attacks. Most of the applications running on the Internet today are protected
+      by various sets of protocols. These protocols are reliable in protecting data in the most
+      powerful traditional computers. However, these may not be strong enough to stand up to a
+       future quantum computer: it is expected that quantum computers could easily break most of
+      these protocols and leave data unprotected.
+       This is a significant concern for many financial organizations. To safeguard valuable financial
+       data, these organizations must ensure that their systems adhere to the highest standards of
+       security, trustworthiness, reliability, and interoperability. Currently, every financial institution
+        relies on various cryptographic algorithms  to secure software and hardware used  for
+       authentication, encryption, and decryption of payments. However, all these measures could
+      be compromised by a single powerful quantum computer.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+13.26           DIGITAL ECOSYSTEM AND CONTROLS
+
+III.  RegTech
+Technology is changing the finance world at a high rate, simultaneously  it is raising new risks.
+Financial regulators must develop new approaches to regulation, using technology, and benefits of
+innovation for economic development with financial stability and consumer protection.
+Technology plays an ever-increasing role in regulating itself, particularly financial regulation. The
+intensive use of technology in finance puts pressure on the regulators to move from regulations
+designed to control human behavior to regulations that seek to supervise automated processes. This
+generates the need for RegTech. This is the contraction of terms “Regulatory” and “Technology” and
+describes the use of Information Technology (IT), in the context of regulation, monitoring, reporting
+and compliance in financial organizations.
+RegTech also known as Regulatory Technologies, is one of the emerging technologies that deals in
+the management of regulatory processes through technology within financial sector. This is a vibrant
+dimension of FinTech. The term “RegTech” was coined by the United Kingdom’s Financial Conduct
+Authority (FCA) as, “RegTech is any range of applications of FinTech for regulatory and
+compliance requirements and reporting by regulated financial institutions”.
+This technology is used for the purpose of regulatory monitoring, reporting and compliance for the
+betterment of financial organizations. RegTech with the help of technological innovation has enabled
+the companies to find out solutions that address the regulatory compliance issues. RegTech is
+mainly focused on the digitalization of regulatory reporting and compliances which  facilitates
+enormous cost savings for not only the financial sector but for the regulators as well.
+RegTech delivers technological solutions that are involved in financial activities to ensure regulatory
+compliances. This technology is used in either ways ie. How the new technology helps industry
+comply with regulations or as “RegTech for regulators,” which represents the use of new technology
+by regulatory bodies themselves.
+RegTech can be applicable to any industry, however, the technology has evolved in the financial
+arena, being the most pervasively and complexly regulated industry in the world. This technology
+escalates the development of new financial infrastructure, inclusive of digital identification systems
+and frameworks for payments and other transactions. To meet the compliance obligations, the
+financial organizations gain the potential for substantial cost savings using RegTech. Similarly,  it
+provides the opportunity for regulators to perform their functions more effectively. The combination
+of FinTech and RegTech offers the potential to frame the development of a very different financial
+system from what exists today.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+EMERGING TECHNOLOGIES             13.27
+
+A.    Advantages of RegTech in financial organization
+       Innovation in technology  is increasing on a daily basis, spreading across geographical
+       clusters, which makes monitoring new technologies challenging. The rapid growth of FinTech
+      and RegTech underscores the crucial role of technology and innovation in development and
+        sustainability. The self-learning nature of these new technologies is swiftly transforming the
+      scope and potential for automated regulation.
+      Technology in addition to its impact on finance, RegTech is also increasing its impact on
+       regulations including by industry and by regulators themselves, increasingly using technology
+       to enhance performance of their own mandates.
+       Further, market participants are beginning to consider how technology can be used to
+      redesign financial systems. This is the new step that will hold new smart and digitized
+       regulatory systems and a new approach to regulation that appeals to all available technology,
+        in a sequenced structured manner, to achieve the balancing act required of regulators. Both
+       finance and financial regulation have always presented intractable problems that have
+       persisted, despite the best  efforts  of policymakers,  for decades and sometimes even
+       centuries. The Policymakers of financial organization generally use regulation to pursue
+       following basic goals:
+    o    Consumer Protection and Financial Inclusion
+          Among various organizations around the world, global financial inclusion can never be
+            achieved without RegTech. Thousands of people are entering the financial services
+            marketplace be  it to purchase something or to invest in their future. The speed and
+             scale of this  shift has overpowered the traditional regulatory infrastructure. This
+              escalating fast speed can be controlled by using RegTech.
+           RegTech work has opened financial inclusion in other ways. The potential for Big data
+           and Machine Learning to fine tune assessment of customer risk profiles in both credit
+             decisioning and in KYC screening, thus giving more consumers access to the financial
+            system and to loans. The financial organizations will not be able to move to widespread
+             adoption  of such techniques unless regulators become comfortable with these
+             techniques. To do so, they will have to deploy RegTech that can evaluate whether
+             these systems are reliable and fair. Now, new solutions are available with automated
+              analysis of lending patterns for compliance with fair lending laws with an aim to
+           enhance  financial  inclusion. The  substantial  potential  of RegTech  to  reduce
+            compliance costs, and risks, will expand financial inclusion by making services more
+              affordable and widely available, and by helping to foster more Fintech innovation that
+            generates other consumer benefits.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+13.28           DIGITAL ECOSYSTEM AND CONTROLS
+
+    o     Credit discrimination and UDAAP
+            There is a clear risk that new technologies may be intensify-bias and use unfair
+              practices in the financial system, intentionally, unintentionally, or both. However, when
+              regulators are empowered with massively more data and the techniques of AI, also
+            has the opposite potential and becomes easier to catch the patterns of bias and unfair
+             treatment that currently go undetected. Federal law bans lending discrimination based
+           on factors like race, gender, and religion. It also prohibits financial organizations from
+            engaging in Unfair, Deceptive or Abusive, Acts and Practices (UDAAP).
+           RegTech can bring to bear the power of more data and AI analytical tools on solving
+             these challenges.  It could help the regulators to detect and prove violations more
+               easily.  It might also enable them to issue clearer and concrete guidance, including
+           more sophisticated standards on statistical modelling, to help organizations avoid
+              discrimination and UDAAP noncompliance. That  in turn could help  in reducing
+              regulatory risks and also better serving the customers.
+         New methodology could also help risk managers to identify possible problems early
+               that may reduce scenarios in which undetected non-compliance accumulates over
+             years and triggers large fines and reputation damage. This technology also helps new
+              startups and tech companies to enter the world of financial sector establish high-
+               quality compliance tools from the outset, rather than relying on less effective traditional
+            methods.
+    o    Anti-Money Laundering (AML)
+          One of the main objectives of RegTech is its usage in Anti-Money Laundering, or AML.
+           The reasons that make the law enforcement agencies find key material and detect
+              patterns of crime are that the data they receive today is low in value and contains too
+          much unimportant information.
+          Many Government agencies and financial companies are working on bringing better
+             technology  into  this  regard. They are seeking  to improve and ease customer
+               identification through Know Your Customer, strengthen the monitoring machanisum of
+              transactions for patterns of crime, and automate and ease investigation processes.
+           As financial companies are obligated to collect and track comprehensive information
+           on financial transactions, there is an opportunity to combat  illicit activities through
+           RegTech. If AI identifies patterns matching crime typologies,  it can alert authorities,
+               triggering the necessary due process steps to permit the disclosure of complete data.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+EMERGING TECHNOLOGIES             13.29
+
+    o     Synthetic identity fraud
+          Many anti-money laundering RegTech solutions are developed by the  financial
+              industry to identify fraud. One of the anti-fraud methods used in RegTech interest is
+             the growing use of fake identities. These are created by combining real customer
+              information with fake data in a series of steps that can fool normal detection systems
+             but can often be caught by RegTech analysis and machine learning. The efforts of
+               financial organizations taken on added urgency have shifted to functioning mostly
+              online, where fraud rates are comparatively high.
+    o     Monitoring conduct risk and illegal practices
+             Certain regulatory areas are overseen  to determine whether organizations and
+              individuals are directing themselves within purview of law. In the securities market,
+             both regulators and financial organizations are gradually using AI-based technology
+               to run market surveillance aimed at detecting signs of financial misconduct, such as
+              insider trading. The combination of big data and other algorithmic techniques seek out
+              patterns such as unusual behavior by brokers.
+    o    Avoid Phoenixing
+         One of the major challenges in regulatory licensing work is the difficulty of tracking
+           companies that have been barred from operating in the financial system. Governments
+             shut down illegal entities, imposing fines and sometimes banning their principals from
+              future financial activities. A prolonged problem can be when many of these players
+          may rise again, phoenix-like, doing business under a new name and resuming illegal
+                activities until caught again. They tend to inhabit the margins of the industry, in
+           shadowy spaces that are difficult for regulators to see into. RegTech has the potential
+               to solve three big problems at once.
+    o        It can address this acceleration problem, which, if unresolved, will pose an existential
+              threat to the system.
+    o        It may improve the existing performance of the regulatory system, fixing problems that
+           were beyond the reach of older technologies.
+    o        It can drive down costs to both organization and government, with all the subsidiary
+              benefits that reduced expense would generate in market efficiency, competitiveness,
+              innovation, improved affordability of services, and widened access.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+13.30           DIGITAL ECOSYSTEM AND CONTROLS
+
+IV.  Mobile Computing
+      Mobile computing is described as the ability to use computing capability without a pre-defined
+       location and connection to a network to publish and subscribe to information.  It  is the
+       interaction between humans and computers by the mean of which computer is expected to
+      be transported during normal usage. This is the generic term that describes the ability to use
+       the technology to connect wirelessly to use centrally located information and application
+      software through the application of small, portable, and wireless computing devices.
+       This  technology  enables  the  mobile  worker  to  create,  access,  process,  store and
+      communicate information without being constrained to a single location. Mobile computing
+       establishes interaction among various personnel  of organization which was previously
+      disconnected. This technology creates an information management platform, which is free
+      from spatial and temporal constraints. This freedom allows the users to access and process
+       the desired information from anywhere. It is independent of the stage of user whether static
+       or mobile. Users may use cell phones, laptops, palmtops etc. as mobile devices for mobile
+      computing.   Mobile connectivity between two devices can  exist   if these devices are
+       continuously connected through  wireless channels. Mobile computing involves mobile
+      hardware, mobile software, and mobile communication. A primitive scenario of mobile
+      computing in practice is shown in Fig. 13.11.
+
+
+                                Fig. 13.11: Mobile Computing
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+EMERGING TECHNOLOGIES             13.31
+
+A.   Components of Mobile Computing
+
+     The key components of Mobile Computing are as follows:
+    o    Mobile Communication: This refers to the infrastructure put in place to ensure that
+            seamless and reliable communication goes on. This would include communication
+              properties,  protocols, data formats and concrete  technologies.  The type and
+                availability  of communication medium  significantly impacts  the  type  of mobile
+            computing  application  that can be  created. There  are many communications
+             technologies available that make mobile devices to communicate. Some of the most
+          common of these technologies are Wireless Local Area Networks (WLANs), Satellite,
+              Cellular Digital Packet Data (CDPD), Personal Communications Systems (PCS),
+             Global System for Mobile communications (GSM), Internet etc.
+    o    Mobile Hardware: This includes mobile devices or device components that receive or
+            access the service of mobility. They would range from Portable laptops, Smart Phones,
+             Tablet PCs, and 4Personal  Digital Assistants (PDA)  that use an  existing and
+             established network to operate on. At the back end, there are various servers like
+              Application Servers, Database Servers, and Servers with wireless support, WAP
+            gateway, a Communications Server and/or MCSS (Mobile Communications Server
+             Switch)  or a  wireless gateway embedded  in  wireless  carrier’s  network. The
+              characteristics of mobile computing hardware are defined by the size and form factor,
+             weight, microprocessor, primary storage, secondary storage, screen size and type,
+          means  of  input, means  of  output,  battery   life,  communications  capabilities,
+              expandability, and durability of the device.
+    o    Mobile Software: It is an actual program that runs on mobile hardware and deals with
+             the characteristics and requirements of mobile applications. It is the operating system
+               of that appliance and  is the essential component that makes the mobile device
+             operate.  Mobile  applications  popularly  called  Apps  are  being  developed  by
+             organizations for use by customers, but these apps could represent risks, in terms of
+              flow of data as well as personal identification risks, introduction of malware and access
+               to personal information of mobile owner.
+     The most common operating system used on mobile computers includes Android, iOS etc.
+     Each operating system/environment has some form of Integrated Development Environment
+       (IDE) for application development. Most of the operating environments provide more than one
+      development environment option for custom application development.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+13.32           DIGITAL ECOSYSTEM AND CONTROLS
+
+B.    Benefit of Mobile Computing
+      This emerging technology offers a quick and easy way to increase efficiency, productivity and
+        profitability while gaining better control of the operations. The power and data storage
+       capacity of today’s handheld PCs and Personal Digital Assistants (PDAs) has made mobile
+      computing a practical reality with low-cost and ease to use. Today’s world mobile computing
+        is serving its benefits in various fields. Few of them are discussed below:
+    o     Mobile computing has empowered users to work from any location as long as they are
+            connected to a network. Employees can access the organization’s database from
+            remote locations, allowing them to work without being confined to a fixed position. This
+                  flexibility in working, such as enabling remote work or work while traveling, enhances
+              overall work flexibility.
+    o     Mobile computing has reduced the travelling time from different locations or to the
+               office and back. Employees of a company can now access all the important documents
+           and files over a secure channel or portal and work as if they were on their computer.
+    o     Employees’ productivity has been enhanced by the fact that a worker can simply work
+                efficiently and effectively from whichever location they see comfortable and suitable.
+            Users can work in comfortable environments.  It enables mobile sales personnel to
+            update work order status in real-time, facilitating excellent communication.
+    o     Mobile computing enables the organization to improve the services offered to  its
+             customers. For example, by using a wireless payment terminal the customers in a
+              restaurant can pay for their meal without leaving their table.
+    o     Increased information flow enables  in improving management effectiveness that
+              integrate the technology into their information systems.  It enables the computing
+           power and information system to be structured around the optimum workflow of a
+             mobile worker, instead of altering the mobile worker's workflow to meet the optimum
+              configuration for computing.
+    o     Mobile computing facilitates excellent communication and information accessibility.
+             This technology provides a wide range of options that can be combined together
+             according to the needs of each individual mobile computing application. This results
+                in improved information flow both to and from the central fixed information system in
+           a quick and efficient manner. The ability allows employees to access the information
+             they need to complete the job.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+EMERGING TECHNOLOGIES             13.33
+
+    o        It provides the mobile workforce with remote access to work order details, such as
+            work order location, contact information, required completion date, asset history
+              relevant warranties/service contracts.
+    o        It may improve efficiency  in saving time, reducing waste, reducing cycle times,
+             reducing rework, enabling business process reengineering, improving accuracy,
+             decreasing time spent on customer complaints, and reducing unnecessary travel.
+    o    Whenever there are emergency services involved  it becomes necessary to receive
+              information. Information regarding the address, type and other details of an incident
+            can be dispatched quickly, through Cellular Digital Packet Data (CDPD) system using
+             mobile computers, to one or several appropriate mobile units, which are in the vicinity
+               of the incident.
+    o     This technology can improvise the transaction process and relieve congestion at the
+         POS  terminals. when customers use  their  credit/debit  cards  for any  type  of
+              transactions, the intercommunication is required between the bank central computer
+           and the POS terminal, to make effective verification of the card usage,  it may take
+             place quickly and securely over cellular channels using a mobile computer unit.
+    o    Nowadays, Defense counsels can take their mobile devices to court. During the
+             hearing in the court, they may use mobile computing to get direct, real-time access to
+              on-line legal database services, where they can gather information on the case and
+              related precedents.
+    o     Using mobile computing, the operations of an entire transportation  fleet can be
+          managed from a central location. The central office may control the location, status,
+           and condition of all vehicles, and operators have two-way communication with the
+             operations center.
+    o     Using this information, vehicles can be optimally dispatched to maximize efficiency as
+           measured by time, fuel consumption, and delivery priority. The mobile computers
+            enable  significant  performance  improvements,  achieved  simultaneously  with
+              operational cost reductions.
+    o     Mobile computing along with Global Positioning System (GPS) and Geographical
+             Information System (GIS) data makes significant improvements in the operational
+               efficiency of various dispatch related operations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+13.34           DIGITAL ECOSYSTEM AND CONTROLS
+
+    o     General businesses  are immensely  benefitted  from mobile computing.  E-mail,
+            Spreadsheets, word processing, presentations, and many more applications can be
+           used through mobile computing by the businessmen anytime anywhere.
+
+SUMMARY
+This chapter highlights the digital payment ecosystem. This chapter has given an overview of various
+payment methods that are used in bank transfers, mobile money, QR codes, etc. The digital payment
+methods are used in buying anything, anywhere, anytime. It makes the payment hassle free and
+does not require users to carry cash. This chapter has provided a brief overview on UPI Apps, USSD,
+APES, IMPS, BHIM, RuPay, e-RUPI, cards, etc.  This chapter also discussed various emerging
+technologies such as IoT, Quantum Computing, RegTech, and Mobile computing etc. These
+technologies are automating human tasks and creating options to carry those tasks which could not
+have been executed previously.
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.     Mr. X is buying clothes for his kids at Royal’s Showroom. He makes payment using BHIM
+       (Bharat Interface for Money) App which is an example of _________.
+        (a)   UPI App
+        (b)    Mobile Hardware
+        (c)     Digital Library
+        (d)    Mobile Wallet
+2.    An IoT network is a collection of ______ devices.
+       (a)    Interconnected
+       (b)   Machine to Machine
+        (c)    Network to Network
+       (d)   Sensor
+3.    Which of the following statements are true, while using credit card………
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+EMERGING TECHNOLOGIES             13.35
+
+            i.    No immediate payment is required
+            ii.     linked with bank account of user
+             iii.    Cash flow is immediately impacted
+         iv.    Payment can be made on end of month
+     Choose the correct option from following
+        (a)       i, ii
+        (b)       iii, iv
+        (c)       i, ii, iii
+        (d)       i,iii,iv
+4.    Which of the following is not the disadvantages of e-business?
+       (a)    High start-up costs
+       (b)    Cultural impediments to e-business
+        (c)   Low barrier to entry
+       (d)    Security concern
+5.    Which of the following is not true about mobile computing?
+       (a)    enables the organization to improve effectiveness of management.
+       (b)    Improvise the transaction process
+        (c)     Facilitate excellent communication and information accessibility
+       (d)    Prevent the fraud transaction
+
+ANSWERS/SOLUTIONS
+     1.         (a)        2.        (a)        3.        (a)        4.        (c)        5.       (d)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+1
+REFERENCES
+
+
+BOOKS
+
+1.    Ron Weber, ‘Information Systems Control and Audit’, Pearson Education, Third impression,
+      2009.
+2.    Angel R Otero, ‘Information Technology Control and Audit’, CRC Press, Fifth Edition 2018.
+3.    Jake Kouns and Daniel Minoli, ’Information Technology Risk Management’, Wiley Publication,
+      2010.
+4.    Alan Calder and Steve Watkins,’ IT Governance An international guide to data security and
+      ISO27001/ ISO27002’, KoganPage, Sixth edition, 2015.
+5.   K Chandrasekaran, Essentials of Cloud Computing, CRC Press.
+6.    Thomas F. Wallace and Michael H. Kremzar, ‘ERP: Making It Happen: The Implementers’
+      Guide to Success with Enterprise Resource Planning’.
+7.    Sandra Senft and Frederick Gallegos, ‘Information Technology Control and Audit’, CRC
+      Press, Third edition.
+8.     Miklos A. Vasarhelyi,  ’Artificial  Intelligence  in Accounting and Auditing: Towards New
+      Paradigms,Markus Wiener Publisher, Volume 4.
+9.     LinekeSneller RC,’A Guide to ERP Benefits, Implementation and Trends’.
+10.    Ellen Monk and Bret Wagner,’Concepts in Enterprise Resource Planning’.
+11.    Yusufali F. Musaji,’Integrated Auditing of ERP Systems’.
+12.    Castells, Manuel. ‘The Rise of the Network Society.’ 2nd ed. Cambridge, MA: Blackwell
+       Publishers, 2000.
+13.    Valacich, Joseph, and Christoph Schneider, ‘Information Systems Today: Managing in the
+        Digital World’ NJ: Prentice-Hall, Fourth edition.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+13.2           DIGITAL ECOSYSTEM AND CONTROLS
+
+14.    Chui, Michael, Markus  Loffler, and Roger Roberts, ‘The Internet of Things.’ McKinsey
+       Quarterly, March 2010.
+15.    Gallagher, Sean, ‘Born to Be Breached: The Worst Passwords Are Still the Most Common’,
+       Arstechnica, 2012.
+16.    McCallister, Erika, Tim Grance, and Karen Scarfone, ‘Guide to Protecting the Confidentiality
+       of Personally Identifiable Information (PII)’.
+17.   Donal O’Mahoney, Michael Peirce, and Hitesh Tewari, ’Electronic Payment Systems for E-
+      Commerce’, Artech House
+18.   Roger S pressman,’ Software engineering’, Mcgraw Hill International, 2017
+
+WEB RESOURCES
+
+1.     Justice K.S. Puttaswamy (Retd) vs. Union of India, W.P. (Civil) No 494 of 2012, Supreme
+      Court of India, August 24, 2017.
+2.     Rojer Mathew versus South Indian Bank Ltd & Ors., 2019 (369) ELT3 (S.C.), Supreme Court
+       of India, November 13, 2019.
+3.     Report of the Joint Committee on the Personal Data Protection Bill, 2019, December 2021.
+4.     ‘A Free and Fair Digital Economy Protecting Privacy, Empowering Indians’, Committee of
+      Experts under the Chairmanship of Justice B.N. Srikrishna, July 2018.
+5.    www.meity.com
+6.    www. cloudian.com
+7.     www.prsindia.org
+8.     www.cio.com
+9.     www.sebi.com
+10.   www.rbi.com
+11.   www.isaca.org
+12.   www.razorpay.com
+13.    www.cleartax.in
+14.   www. economictimes.indiatimes.com
+15.   www.freshworks.com
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+EMERGING TECHNOLOGIES             13.3
+
+16.   www.iso.org
+17.   www.coso.org
+18.   www.careerfoundry.com
+19.   www.investopedia.com
+
+
+© The Institute of Chartered Accountants of India

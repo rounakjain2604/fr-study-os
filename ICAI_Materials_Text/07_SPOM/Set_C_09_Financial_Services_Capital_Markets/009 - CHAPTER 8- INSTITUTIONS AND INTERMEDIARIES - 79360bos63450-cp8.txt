@@ -1,0 +1,1090 @@
+Source PDF: 07_SPOM/Set_C_09_Financial_Services_Capital_Markets/009 - CHAPTER 8- INSTITUTIONS AND INTERMEDIARIES - 79360bos63450-cp8.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_09_Financial_Services_Capital_Markets\009 - CHAPTER 8- INSTITUTIONS AND INTERMEDIARIES - 79360bos63450-cp8.pdf
+Extracted at: 2026-05-31T10:34:30+05:30
+Pages: 27
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          8
+         1
+INSTITUTIONS AND
+INTERMEDIARIES
+
+
+                          LEARNING OUTCOMES
+After going through the chapter student shall be able to understand:
+   Depository
+   Stock and Commodity Exchanges – Indian and Global
+   Intermediaries
+    Institutional Investors
+   FPIs
+   Custodians
+   Clearing Houses
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+8.2           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+CHAPTER OVERVIEW
+
+
+                               Institutions and Intermediaries
+
+                                       Depository
+
+
+                                                                Indian
+          Stock and Commodity Exchange
+                                                            Global
+
+
+                     Intermediaries in the Capital Market
+
+                  Merchant Bankers
+
+                     Registrars to an issue & Share Transfer Agents
+
+                    Underwriters
+
+                  Bankers to issue
+
+                  Debenture Trustees
+
+                       Portfolio Managers
+
+                   Stockbrokers and Sub-broker
+
+                        Institutional Investors
+
+                    Foreign Portfolio Investros (FPIs)
+
+                   Custodians
+
+                    Clearing House
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+INSTITUTIONS AND INTERMEDIARIES             8.3
+
+     1.  DEPOSITORY
+Depository  in simple terms means a place where security  is kept  safely. Depository  is an
+organization which keeps securities in electronic form and helps in the transfer of ownership of
+securities. As per section 2(e) of the Depositories Act, 1996, ‘Depository means a company formed
+and registered under the Companies Act, 2013 and which has been granted a certificate of
+registration under Securities and Exchange Board of India Act, 1992.’
+In the depository system, transactions in securities are done entirely on paperless or electronic
+basis. This is quite like the banking system where one opens an account with a bank. Similarly, in
+the case of depository system, an investor willing to invest in the securities market opens an account
+(which is called a ‘Demat Account’) with a depository. Whenever securities are allotted to a particular
+investor, his account will be credited. In the same way, whenever any securities are sold by that
+investor, his demat account will be debited by the number of shares sold by him. A depository also
+acts as a securities bank where dematerialized securities in electronic are kept in safe custody.
+1.1  Benefits of a Depository System
+To the Investors
+i)         It eliminates bad deliveries of securities.
+ii)    The settlement cycle has become quicker. It is now T + 2.
+iii)    Immediate transfer and registration of securities are possible now.
+iv)       It eliminates the risks present in physical certificate for e.g., forgery, delays, mutilation, theft,
+      and damage of share certificates.
+v)    The electronic transfer of securities enables the investor to get dividends, bonus shares and
+        right shares quickly.
+vi)    Transaction costs are lower as transfer of securities in electronic form is exempt from stamp
+       duty.
+vii)    Further, as trading in the depository system is paperless, no share certificate and share
+       transfer deed is required.
+viii)    Lastly, the rate of interest on loan against the pledged demat shares are lower in comparison
+       to physical shares.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+8.4           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+To the Company
+i)    The depository system helps a company to maintain and update its shareholding pattern
+       periodically. The company always has knowledge of the beneficial ownership and their
+       holdings.
+ii)    The cost of issue of securities also gets lowered because of dematerialisation of securities.
+iii)    Another advantage of the depository system  is that many transactions can be settled
+       promptly.
+(iv)    Distribution of dividends and issuance of rights shares and bonus shares will be quicker as
+       the ownership can be easily identified.
+v)    The transfer process under the depository system is quick and without any defects. Therefore,
+      complaints against the company by investors have been drastically reduced in this respect.
+To the Capital Market
+i)    The capital market is more transparent, as trading, clearing and settlement are automatic and
+      always inter linked with the depository.
+ii)    Use of latest technology in the depository system has made the capital market activities more
+        efficient.
+iii)    That has made the investors have more confidence in the capital market.
+iv)   Use of depository system has attracted foreign institutional investors in large numbers.
+v)    Use of electronic system has made the Indian Capital Market more flourishing. For instance,
+     we can take the example of mutual funds which have increased substantially in the last few
+       years.
+1.2  The Process of Depository System
+Four parties are involved in a depository system i.e., the customer, the depository participant (DP),
+the depository, and the share registrar and transfer agent. The process of the depository system
+and the involvement of the four parties as mentioned above are discussed as below:
+(a)   Account Opening: An investor who wishes to avail the depository services must apply for
+      opening an account with a depository through a Depository Participant (DP). A depository
+       participant can either be a custodian, a bank, a broker, or an individual. After opening an
+      account, the investor is allotted a client account number. The holder of a demat account is
+       called a ‘beneficial owner’. He has the option of opening more than one demat account either
+       with the same DPs or multiple DPs.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+INSTITUTIONS AND INTERMEDIARIES             8.5
+
+(b)    Dematerialization: To convert physical shares into electronic ones, an investor has to make
+      an application to the depository in a Dematerialization Request Form (DRF). DP forwards the
+      form within seven days to the issuer company or its Registrar and Share Transfer Agent
+      (RTA). The company or its RTA, then verifies the validity of the security certificates and the
+        fact the person making an application is a registered member. After verification, the issuer
+      company, or its RTA, on being satisfied, authorizes an electronic credit of security in favour
+       of the investor. Thereafter, the depository also credits the demat account of the investor.
+(c)    Rematerialisation: An investor having a demat account can apply for withdrawal of balance
+        in his account in a Rematerialisation Request Form (RRF). On receipt of the RRF, if the DP
+        is satisfied that there is sufficient balance, will block the balance of the investor to the extent
+       of the rematerialisation quantity and electronically forwards the request to the depository. The
+       depository will then block the balance of the investor to the extent of the rematerialisation
+       quantity and forward the accepted rematerialisation application to the issuer or its Registrar
+      and Share Transfer Agent (RTA). The RTA will confirm that RRF has been accepted. Then,
+       the RTA will dispatch the physical share certificates within 30 days.
+(d)    Distributing Dividend: A company or its RTA generally informs the depository of various
+      dates such as book closures, redemption, or maturity of security etc. This enables the
+       depository to electronically provide the company a list of the holdings of the investors on the
+      day of distribution of dividend. The company will, then, distribute dividends on the basis of
+       the list provided.
+(e)    Closing an Account: If an investor wants to close his account, he shall make an application
+        in the prescribed format to the DP. The DP may close his account if no balances are there in
+       the investor’s demat account. If any balances exist, then the account may be closed either
+      by rematerialisation or transferring his securities to another account either with the same
+       depository participant or with a different depository participant.
+     2.  STOCK AND COMMODITY EXCHANGES – INDIAN AND
+      GLOBAL
+Stock exchanges are meant to facilitate mobilization of resources by companies. However, the
+regulation of stock exchanges is necessary to protect the interests of investors and safeguard the
+role of stock exchanges about the development of the capital market.
+Stock exchanges are basically regulated by SEBI. The recognition given to a stock exchange to
+function in the capital market is given by SEBI. The Securities Contracts (Regulation) Act 1956 along
+with the Securities Contracts (Regulation) Rules 1957 has been the main laws to regulate the
+securities market in India. As per the Securities Contracts Regulations Act, 1956 a stock exchange
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+8.6           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+is defined as "an association, organization or body of individuals whether incorporated or not,
+established for the purpose of assisting, regulating and controlling business in buying, selling and
+dealing in securities”.
+2.1  Growth of Stock Exchanges
+The history of Stock Exchanges in India goes back to the eighteenth century, when securities of the
+East India Company were transacted. There were 50-60 brokers led by the legendary Premchand
+Roychand. They formed the backbone of share floatation by East India Company and a few
+commercial banks. Corporate shares made their entry in the 1830s and assumed significance with
+the enactment of the Companies Act in the 1850s. The Bombay Stock Exchange, the oldest stock
+exchange in India was established in 1875 under the name, Share and Stockbrokers Association.
+The stock exchanges are tightly regulated as self-regulatory organizations (SROs) under the Act. In
+addition to ordinary regulatory powers over the stock exchanges, the Central Government and/or
+SEBI may nominate up to three members to the board of each stock exchange [Section 4(2) (iii) of
+the SC (R) Act, 1956 and Section 10 of SC(R) Rules, 1957]. The government and/or the agency
+have the authority to make, approve and amend the byelaws of the stock exchanges [Section 4(1)(a)
+&8 of the SC(R) Act, 1956].  In return, the stock exchanges have been granted strong disciplinary
+authority (as well as obligations) over their member stockbrokers.
+2.1.1 Leading Stock Exchanges in India
+The two leading stock exchanges in India are Bombay Stock Exchange (BSE) and National Stock
+Exchange (NSE). A brief about them has been discussed as below:
+(a)   Bombay Stock Exchange Limited:  It  is the oldest stock exchange  in Asia and was
+       established as "The Native Share & Stockbrokers Association" in 1875. The Securities
+      Contract (Regulation) Act, 1956 gives permanent recognition to Bombay Stock Exchange in
+      1956. BSE became the first stock exchange in India to obtain such permission from the
+      Government under the Act.
+     The Exchange's pivotal and pre-eminent role in the development of the Indian capital market
+        is widely recognized and its index, SENSEX, is tracked worldwide. Earlier, an Association of
+      Persons (AOP), the Exchange is now a demutualized and corporatized entity incorporated
+      under the provisions of the Companies Act, 1956, pursuant to the BSE (Corporatization and
+       Demutualization) Scheme, 2005 notified by the Securities and Exchange Board of India
+       (SEBI).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+INSTITUTIONS AND INTERMEDIARIES             8.7
+
+     The Exchange has nationwide coverage. The BSE’s systems and processes are designed in
+      such a way that  it safeguards the integrity of the market and ensures transparency in its
+       operations.
+       Therefore, the traders can freely trade in equity, debt, and derivative instruments as they are
+       pretty much sure of the BSE’s transparent and efficient operations. The BSE's Online Trading
+      System (BOLT) is a proprietary system of the Exchange and is BS 7799-2-2002 certified.
+       Similarly, the surveillance and clearing & settlement functions of the Exchange are ISO
+      9001:2000 certified.
+(b)    National Stock Exchange: NSE was incorporated in 1992.  It was recognized as a stock
+      exchange by SEBI in April 1993 and commenced operations in 1994 with the launch of the
+      wholesale debt market, followed shortly after the launch of the cash market segment.
+     NSE also has strategic investments in complementary businesses, including mutual fund
+       registry services, back-end exchange support services for its platforms, depository services,
+       e-corporate governance and commodity, power and receivables exchanges.
+     The National Stock Exchange of India Ltd. (NSE) is the leading stock exchange in India and
+       the second largest in the world by number of trades in equity shares from January to June
+      2018, according to World Federation of Exchanges (WFE) report.
+     NSE launched electronic screen-based trading in 1994, derivatives trading (in the form of
+      index futures) and internet trading in 2000, which were each the first of its kind in India.
+     NSE has a fully integrated business model comprising our exchange listings, trading services,
+       clearing and settlement services, indices, market data feeds, technology solutions and
+       financial education  offerings. NSE also oversees compliance by  trading and  clearing
+     members and listed companies with the rules and regulations of the exchange.
+     NSE is a pioneer in technology and ensures the reliability and performance of its systems
+      through a culture of innovation and investment in technology. NSE believes that the scale
+      and breadth of its products and services, sustained leadership positions across multiple asset
+      classes in India and globally enable it to be highly reactive to market demands and changes
+      and deliver innovation in both trading and non-trading businesses to provide high-quality data
+      and services to market participants and clients.                     [Source: NSE Website]
+2.1.2 Stock Exchanges Abroad
+With the increasing  globalization and  liberalization, the prices  of  securities on Indian stock
+exchanges are influenced by stock exchanges abroad. Under this heading we have tried to give a
+brief introduction of the major stock exchanges abroad.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+8.8           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+(a)  New York Stock Exchange (NYSE): The New York Stock Exchange was established
+more than 200 years ago in 1792. NYSE is the world’s foremost securities marketplace.
+Each day on the NYSE trading floor an auction takes place. Open bids and offers are made by
+investors which are efficiently managed by exchange members who act on behalf of institutions and
+individual investors. Prices are determined through the forces of demand and supply. Buy and sell
+orders given by investors for the listed securities are given an assigned location where a NYSE
+member from employed broker acts as an auctioneer in an open outcry market. However, from
+January 24, 2007, onwards NYSE stocks are also being traded electronically.
+(b)   Nasdaq: Nasdaq is known for its growth, liquidity, depth of market and the world’s most
+powerful, forward-looking technologies. This makes NASDAQ the leading choice of some of the well-
+known companies in the world. NASDAQ was founded in 1971. Since then,  it has outformed the
+other market to become the fastest growing stock exchange in the USA. In Nasdaq, trading takes
+place in electronic trading platform having the highest level of efficiency.
+As Nasdaq is one of the world’s most popular stock exchanges, the companies to get listed on  it
+must satisfy the strictest earnings, capitalization and corporate governance norms.
+In contrast to NYSE, the Nasdaq is a fully electronic trading platform for securities. So,  it has no
+individual specialist broker through which the transactions go through. Nasdaq’s market structure is
+such that  it allows many participants to undergo trading in stocks though a highly sophisticated
+computer network. Together, these participants help ensure transparency and  liquidity  for a
+company’s stock while maintaining an orderly market and functioning under tight regulatory controls.
+(c)   London Stock Exchange: The history of the formation of the London stock exchange can
+be traced back to 1760 when 150 brokers fired from royal Exchange for misbehavior formed a club
+at Jonathan’s Coffee House to buy and sell shares. In 1773, members voted to change the name to
+Stock Exchange and 2000 shareholders voted it to become a public limited company and thus the
+London Stock Exchange was formed. Dealing in shares is conducted via an off-market trading facility
+operated by Cazenove and Co.
+London Stock Exchange provides a range of services for companies and investors:
+(i)   Company Services -It provides several markets which allow companies large and small to
+       raise capital, and a range of services to increase the profile of the companies.
+(ii)   Trading Services -It gives market users access to a well-developed trading environment with
+      a proven record of stability and flexibility.
+(iii)   Information Services - It provides high quality real-time price information to market users
+      worldwide, as well as historical and reference data.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+INSTITUTIONS AND INTERMEDIARIES             8.9
+
+Supporting these activities, the exchange regulates the markets to give protection to investors and
+companies and to maintain its reputation for high standards and integrity. In addition, in partnership
+with others, it helps to track the performance of the markets through various indices.
+2.2  Characteristics of Stock Exchanges in India
+Stock exchange is an association of individual members called brokers. It is formed with the aim of
+regulating and facilitating the buying and selling of securities by retail investors and institutions.
+Corporate membership of stock exchanges was introduced lately.
+A stock exchange is typically governed by a board consisting of directors. Some Members of the
+Board have been nominated by the Government. Government nominees include representatives of
+the Ministry of Finance, as well as some public representatives, who are expected to safeguard the
+interest of investors in the functioning of the exchanges. The board is headed by a President, who
+is an elected member, usually nominated by the government, from among the elected members.
+The Executive Director, who is appointed by the stock exchange with government approval, is the
+operational chief of the stock exchange. His duty is to ensure that the day-to-day operations of the
+stock exchange are carried out  in accordance with the rules and regulations governing  its
+functioning.
+Securities and Exchanges Board of India (SEBI) has been set up in Mumbai by the Government to
+oversee the orderly development of stock exchanges in the country. Every company which wishes
+to raise capital from the public is required to get its securities listed on atleast one stock exchange.
+Thus, all ordinary shares, preference shares and debentures of publicly held companies are listed
+in one or more stock exchanges.
+2.3  Functions of Stock Exchanges
+The Stock Exchange is a marketplace where investors buy and sell securities. Functions of the stock
+exchanges can be summarized as follows:
+(a)    Liquidity and Marketability of Securities: The basic function of the stock market is the
+creation of a continuous market for securities, enabling them to be liquidated, where investors can
+convert their securities into cash at any time at the prevailing market price. It also provides investors
+with the opportunity to change their portfolio as and when they want to change, i.e. they can at any
+time sell one security and purchase another, thus giving them marketability.
+(b)    Fair Price Determination: The stock market is almost a perfectly competitive market. The
+reason is that there are large number of buyers and sellers, near perfect information and active
+bidding from both the buyer’s and the seller’s side. The reasons as mentioned above ensure that
+fair price is determined by the forces of demand and supply.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+8.10           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+(c)   Source for Long term Funds: Corporates, Government and public bodies raise funds from
+the equity market. These securities are negotiable and transferable. They are traded and change
+hands from one investor to the other without affecting the long-term availability of funds to the issuing
+companies.
+(d)   Helps in Capital Formation: Savings and investments of the people are closely interrelated.
+The savings of the community are mobilized and channeled by stock exchanges for investment into
+those sectors and units which are favoured by the community at large, based on such criteria as
+good return, appreciation of capital, and so on. It is the preference of investors for individual units
+as well as industry groups, which is reflected in the share price that decides the mode of investment.
+Stock exchanges render this service by arranging for the preliminary distribution of new issues of
+capital, offered through prospectus, as also offers for sale of existing securities, in an orderly and
+systematic manner. They themselves administer the same, by ensuring that the various requisites
+of listing (such as offering at least the prescribed minimum percentage of capital to the public,
+keeping the subscription list open for a minimum number of days, enlisting prescribed centres for
+receiving of applications, allotting shares against application received are complied with.
+Stock exchanges also provide a forum for trading in rights shares of companies already listed,
+thereby enabling a new class of investors to take up a part of the rights in the place of existing
+shareholders who renounce their rights for monetary considerations.
+(e)    Reflects the General State of Economy: The way stock markets perform is indicative of the
+manner of economic health of a country i.e. whether the economy is undergoing boom or depression.
+It indicates the general state of the economy to all those concerned, who can take suitable steps in
+time. The Government takes suitable monetary and fiscal steps depending upon the state of the
+economy.
+2.4  Indian Commodity Exchanges
+Presently four national commodity exchanges are operational: National Multi-Commodity Exchange
+of India (NMCE), Indian Commodity Exchange (ICEX), National Commodity and Derivatives
+Exchange (NCDEX) and Multi Commodity Exchange (MCX).
+(a)    National Commodity &  Derivatives  Exchange  Limited  (NCDEX): NCDEX   is  a
+professionally managed online multi commodity exchange.  It is promoted by ICICI Bank Limited
+(ICICI Bank), Life Insurance Corporation of India (LIC), National Bank for Agriculture and Rural
+Development (NABARD) and National Stock Exchange of India Limited (NSE), Punjab National Bank
+(PNB), CRISIL Limited (formerly the Credit Rating Information Services of India Limited), Indian
+Farmers Fertiliser Cooperative Limited (IFFCO), Canara Bank and Goldman Sachs by subscribing
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+INSTITUTIONS AND INTERMEDIARIES             8.11
+
+to the equity shares of the Exchange. NCDEX is the only commodity exchange in the country
+promoted by national level institutions.
+NCDEX is a public limited company incorporated on April 23, 2003, under the Companies Act, 1956.
+It commenced its operations on December 15, 2003.
+It  is a national  level, technology driven demutualized  on-line commodity exchange  with an
+independent Board of Directors and professionals not having any vested interest in commodity
+markets.  It  is committed to providing a world-class commodity exchange platform for market
+participants to trade in a wide spectrum of commodity derivatives driven by best global practices,
+professionalism, and transparency.
+Initially,  it was regulated by the Forward Market Commission in respect of futures trading in
+commodities. However, FMC merged with SEBI in 2015. Now, SEBI  is also the regulator of
+commodity exchanges. Further, NCDEX  is also required to comply with various laws like the
+Companies Act, Stamp Act, Contract Act, SEBI Act, and various other legislations, which generally
+hamper its working.
+(b)    Multi Commodity Exchange (MCX): MCX  is an independent and demutualized multi
+commodity exchange. The government has given  it permanent recognition for facilitating online
+trading, clearing and settlement operations for commodities futures market across the country.
+Because of the opportunities galore offered by the MCX to a large cross section of participants
+including producers/ processors, traders, corporate, regional trading centre, importers, exporters,
+co-operatives, and industry associations amongst others, it offers trading in more than 30 commodity
+futures contracts. The headquarters of MCX is in Mumbai. Further, it is led by an expert management
+team with good knowledge of the commodities futures market.
+Being a nation-wide commodity exchange having state-of-the-art infrastructure, offering multiple
+commodities for trading with wide reach and penetration, MCX is well placed to tap the vast potential
+posed by the commodities market.
+The key shareholders of MCX are Financial Technologies (I) Ltd. (now, 63 Moons Technologies
+Limited), State Bank  of  India and  its' associates,  National Bank  for  Agriculture and Rural
+Development (NABARD), National Stock Exchange of India Ltd. (NSE), Fid Fund (Mauritius) Ltd. -
+an affiliate of Fidelity International, Corporation Bank, Union Bank of India, Canara Bank, Bank of
+India, Bank of Baroda, HDFC Bank and SBI Life Insurance Co. Ltd.
+(c)    Indian Commodity Exchange (ICEX): It is a screen based on-line derivatives exchange for
+commodities. It has robust assaying and warehousing facilities to facilitate deliveries. It has Reliance
+Exchange Next Ltd. as anchor investor and has MMTC Ltd., India Bulls Financial Services Ltd.,
+Indian Potash Ltd., KRIBHCO and IDFC among others, as its partners.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+8.12           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+The head office is in Mumbai and has regional offices spread across the country which covers agri
+belt, with a vision to encourage participation of farmers, traders, and actual users to hedge their
+positions against the wide price fluctuations.
+It provides the widest range of benchmark future products available on any exchange, covering all
+major commodities. It offers future trading in Agriculture Commodities, Bullions, Base Metals and
+Energy.
+(d)    National Multi-Commodity Exchange of India (NMCE):  It  is  the  first demutualized
+Electronic Multi-Commodity Exchange of India and has been granted the National status on a
+permanent basis by the Government of India. NMCE has been operational since 26th November
+2002.
+It is promoted by commodity-relevant public institutions, viz., Central Warehousing Corporation
+(CWC), National Agricultural Cooperative Marketing Federation of India (NAFED), Gujarat Agro-
+Industries Corporation Limited (GAICL), Gujarat State Agricultural Marketing Board (GSAMB),
+National Institute of Agricultural Marketing (NIAM), and Neptune Overseas Limited (NOL) and
+Punjab National Bank (PNB).
+There are many positive features of NMCE.  It is a zero-debt company and has been regularly
+following prudent accounting and auditing practices. The delivery mechanism is very good, which
+makes it the most suitable participants in the physical commodity market.
+To attract speculative volume, the exchange does not compromise on delivery mechanism. The main
+motive  is public interest rather than commercial considerations.  It has transparent rule-based
+procedures which has almost eliminated any conflict of interest.
+2.5  International Commodity Exchanges
+Major international commodity exchanges of the world are briefly discussed as below:
+♦    Chicago Mercantile Exchange (CME): It is a financial and commodity derivative trading
+       platform which has its headquarter in Chicago. It was established in 1898 as the Chicago
+       Butter and Egg Board. Presently, Chicago  offers contracts  of  all kinds which include
+       agriculture, credit, equity index, interest rates and other futures/options investments.
+•    Chicago Board of Trade (CBOT): It is formed in 1848 and being considered among oldest
+       future/options trading exchanges in the world. The exchange offers more than 50 different
+       futures and option contracts for investors which are scattered over several asset classes.
+•   New York Mercantile Exchange (NYMEX): The NYMEX is the world’s largest physical
+      commodity futures exchange, which offers a wide variety of products. Commodity Exchange
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+INSTITUTIONS AND INTERMEDIARIES             8.13
+
+        Inc. (COMEX), which acts as a division of the NYMEX, also offers exposure to various metals
+       contracts.
+♦   London Metal Exchange (LME): LME was established in 1877. However, it has its roots
+        in 1571, when the Royal Exchange in London was founded, trading only copper at that time.
+           It is a major exchange which offers exposure to futures and options of various varieties of
+      base metals and other commodity products. Some of the metals which have been traded
+       include aluminum, copper, tin, nickel, zinc, and lead.
+♦    Intercontinental Exchange Inc. (ICE): The Intercontinental Exchange is an American
+     company which operates futures and over-the-counter contracts through internet. In the
+       beginning, the company was operating energy contracts but has increased  its scope by
+       offering exposure to several commodities including cocoa, cotton, sugar, iron ore, natural
+      gas, and crude products.
+     3.  INTERMEDIARIES IN THE CAPITAL MARKET
+The following market intermediaries are involved in the Capital Market:
+♦    Merchant Bankers
+♦     Registrars to an issue and Share Transfer Agents
+♦     Underwriters
+♦    Bankers to issue
+♦    Debenture Trustees
+♦     Portfolio managers
+♦    Stockbrokers and sub-broker
+We will discuss them one by one in the following paragraphs:
+3.1  Merchant Bankers
+SEBI (Merchant Banker) Regulations, 1992, define ‘merchant banker’ as any person who is engaged
+in the business of issue management, either by making arrangements regarding selling, buying, or
+subscribing, or acting as a manager, consultant, or advisor, or rendering corporate-advisory services
+in relation to such issue management.
+In case of both the public issues and right issues, it is mandatory to appoint a Merchant Banker. The
+task of Merchant Banker is basically that of a facilitator or coordinator. It coordinates the process of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+8.14           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+issue management by helping the underwriters, registrars, and bankers, in pricing and marketing
+the issue and complying with the SEBI guidelines.
+Merchant Bankers are prohibited from carrying on certain activities such as acceptance of deposits,
+leasing, and bill discounting. They are not allowed to borrow any money from the market. They are
+also debarred from engaging in the acquisition and sale of securities on a commercial basis.
+3.2  Registrars to an issue and Share Transfer Agents
+‘Registrar to an Issue’ means a person who is involved with the following activities:
+(a)    Collecting applications on behalf of the investors and keep a proper record of monies received
+      and paid.
+(b)    Helping the company which has issued shares in determining the basis of allotment of the
+       securities in consultation with the stock exchange.
+(c)    Finalizing the list of persons entitled to allotment of securities.
+(d)    Processing and dispatching of allotment letters, share certificates and refund orders.
+‘Share Transfer Agent’ means a person who on behalf of the issuer company maintains the records
+of holders of securities issued by such company.
+The Registrars to an Issue and Share Transfer Agents are important intermediaries in the primary
+market. They help in mobilizing new capital and ensure that proper records of the details of the
+investors are maintained, so that the decisions regarding the basis for allotment and the number of
+securities to be allotted can be smoothly implemented.
+3.3  Underwriters
+An underwriter is a person who engages in the business of underwriting the public issue of securities
+of a particular company. An underwriting is an arrangement in which a SEBI registered underwriter
+gives an undertaking to the issuing company that in case the company’s public issue is not fully
+subscribed, the underwriter will purchase the unsubscribed portion of the public issue.
+Underwriting is compulsory for a public issue. It is necessary for a public company which invites
+public subscription for  its securities to ensure that 90% of  its public issue is fully subscribed,
+otherwise the whole issued amount must be refunded. The company cannot  fully  rely on
+advertisements to ensure full subscription. In case of any subscription, it must be made good by the
+underwriters. And the underwriting agreement must be made in advance of the opening of the public
+issue.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+INSTITUTIONS AND INTERMEDIARIES             8.15
+
+3.4  Bankers to an issue
+Banker to an Issue means a scheduled bank doing any one of the following tasks:
+(i)    Acceptance of application money;
+(ii)    Acceptance of allotment or call money;
+(iii)   Refund of application money;
+(iv)   Payment of dividend or interest warrants.
+Therefore, as the name indicates, bankers to the issue carries out the important task of ensuring
+that the funds are collected and transferred to the Escrow accounts. The banks do a great favour to
+the companies in mobilization of capital.
+3.5  Debenture Trustee
+A debenture trust deed is a document created by the company where debenture trustees are
+appointed to protect the interest of the debenture holders. To act as debenture trustee, the entity
+should either be a scheduled bank carrying on commercial activity, a public financial institution, an
+insurance company, or a body corporate. The entity should be registered with SEBI to act as a
+debenture trustee. The contract deed entered with a debenture trustee must specify the interest rate
+and date of interest and principal repayments.
+Duties of the Debenture Trustee include:
+(a)    Call for periodical reports from the body corporate, i.e., issuer of debentures.
+(b)   Take possession of trust property in accordance with the provisions of the trust deed.
+(c)    Enforce security in the interest of the debenture holders.
+(d)   Ensure on a continuous basis that the property charged to the debenture is always available
+      and adequate to discharge the interest and principal amount payable in respect of the
+      debentures and that such property is free from any other encumbrances except those which
+      are specifically agreed with the debenture trustee.
+(e)    Exercise due diligence to ensure compliance by the body corporate with the provisions of the
+     Companies Act, the listing agreement of the stock exchange or the trust deed.
+(f)    To take appropriate measures for protecting the interest of the debenture holders as soon as
+      any breach of the trust deed or law comes to his notice.
+(g)   To ascertain that the debentures have been converted or redeemed in accordance with the
+       provisions and conditions under which they are offered to the debenture holders.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+8.16           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+(h)    Inform the Board immediately of any breach of trust deed or provision of any law.
+(i)    Appoint a nominee director on the board of the body corporate when required.
+(Source: SEBI FAQ’s - Debenture Trustee)
+3.6  Portfolio Managers
+As per SEBI, a portfolio manager is a body corporate who, pursuant to a contract or arrangement
+with a client, advises or directs or undertakes on behalf of the client (whether as a discretionary
+portfolio manager or otherwise), the management or administration of a portfolio of securities or the
+funds of the client.
+Simply stated, a portfolio manager is a person who is responsible for investing a fund's assets,
+monitoring investment strategy and doing day-to-day trading. A portfolio manager manages mutual
+funds and other investment funds, such as hedge or venture funds. He may be an experienced
+investor, a broker, a fund manager, or a trader with good knowledge of industry and a having a track
+record of producing good results.
+The portfolio manager provides the client with the Disclosure Document at least two days prior to
+entering into an agreement with the client. The Disclosure Document contains the quantum and
+manner of payment of fees payable by the  client  for each  activity,  portfolio  risks, complete
+disclosures in respect of transactions with related parties, the performance of the portfolio manager
+and the audited financial statements of the portfolio manager for the immediately preceding three
+years. Please note that the disclosure document is neither approved nor disapproved by SEBI nor
+does SEBI certify the accuracy or adequacy of the contents of the Documents.
+(Source: SEBI FAQ’s - Portfolio Managers)
+3.7  Stockbrokers and Sub-Broker
+A stockbroker is a person who buys and sells stocks and other securities for its clients through a
+stock exchange. Stockbrokers should be registered with SEBI and are governed by SEBI Act and
+Securities Contract Regulation Act. Stockbrokers may also call themselves investment consultants
+and financial consultants. A stockbroker should have a good knowledge of the securities market.
+Further, he should be good with numbers, have excellent interpersonal skills and should be attentive
+enough not to oversee any important details.
+On the other hand, a sub broker is a person who is not a trading Member of a Stock Exchange but
+who acts on behalf of a trading member as an agent. His task is to help investors in dealing in
+securities through such trading members(brokers). The leading stockbrokers in India are listed as
+below:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+INSTITUTIONS AND INTERMEDIARIES             8.17
+
+♦     India Infoline
+♦     ICICI Direct
+♦    Share Khan
+♦     India Bulls
+♦     Geojit Securities
+♦   HDFC
+♦    Reliance Money
+♦     Religare
+♦    Angel Broking
+New Margin Rules for brokers and its implications
+The new margin rules have come into effect from 1 September 2020 after SEBI's refusal to extend
+the deadline to implement the new rules on margin pledge any further. SEBI's new margin rules aim
+at bringing transparency and preventing brokerages from misusing clients' securities. These norms
+came out earlier in February 2020 and were initially scheduled to come into effect from June 1, 2020.
+The date was then extended to August 1, 2020, and thereafter to September 1, 2020. While the
+brokers and other participants requested more time to make their systems ready, SEBI's refused to
+extend this by saying there was enough time to make the changes.
+Here are the changes:
+♦    The stock will continue to remain in the investor’s demat account and can be directly pledged
+       to the clearing corporation. As the securities remain in investors’ own demat account, they
+         will enjoy all corporate benefits on their shares.
+      Under the old system, cash margins were taken care of by the broker. Investors either had to
+       transfer their shares to the brokers’ account or give power of attorney (POA) to the broker.
+     Some brokers went on to misuse the POA assigned to them.
+♦        It is mandatory for brokers to collect margins from investors upfront for any purchase of sale
+       of shares. Failing to do so will attract a penalty.
+♦   No Power of Attorney (POA) to be assigned to brokers. The investors used to give authority
+       to the brokers by way of POA to execute transactions on their behalf. The POA cannot be
+      used for pledges anymore.
+♦     Investors who want to avail margin now must create margin pledge separately.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+8.18           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+♦     Earlier collecting upfront margin wasn’t mandatory, but under the new system, investors will
+      have to pay at least 30% margin upfront to avail themselves of a margin loan.
+♦    Shares bought today cannot be sold tomorrow. Currently, investors can use intraday realized
+        profits for taking new positions on the same trading day. According to the new norms, you
+         will be able to use it only after T+2 days in case of equity/stocks once you receive the delivery
+       of shares in your account.
+♦       Till now, clients needed to meet margin requirements in their account once at the end of the
+      day. But, the new margin rules of SEBI will require them to fulfill their margin obligations at
+       the beginning of the deal.                                              (Source: Livemint)
+
+     4.  INSTITUTIONAL INVESTORS
+An institutional investor is a large organization that has large cash reserves by which it invests in
+securities and other investment assets. Institutional investors include endowment funds, hedge
+funds, insurance companies, pension funds, mutual funds, etc. An institutional investor is basically
+a non-bank organization that trades in large quantities to qualify for preferential treatment. They are
+considered as specialized investors and supply capital to organizations that require funds or are in
+dire straits. Moreover, they exert good influence in the management of the corporations exercising
+voting rights.
+So, basically, an institutional investor is an organization that invests on behalf of the investors.
+Institutional investors have the required resources to do detailed research on various investment
+avenues, and because of their extensive knowledge, they generally have an edge over  retail
+investors. Various institutional investors are briefly discussed as below:
+(i)    Commercial Banks: They play an important role in taking deposits from the public and giving
+loans to various sectors of the economy. A sound banking system ensures that mobilized savings
+are effectively deployed to needy sectors of the economy. When banks provide loans in the form of
+working capital, they are providing loans for funding the current assets. The working capital loan
+should be short term in nature, and it is given in the form of a limit.
+Banks provide long term loans for asset purchase as well as margin money for working capital
+purposes. In the case of asset purchase, a bank would provide a long- term loan which would be
+repaid either from the cash flow generated from the business or from refinancing or disinvestment.
+In such a case, security is generally created on the asset which is purchased out of the term loan.
+Besides, some other collateral is also taken as security in the form of term loan. In the case of term
+loans for working capital purpose, generally, other assets are taken as security. This asset can be
+immovable properties the borrower happens to have.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+INSTITUTIONS AND INTERMEDIARIES             8.19
+
+(ii)   Insurance Companies: Insurance is basically the process of safeguarding the interests of
+people from loss and uncertainty. Insurance companies do a lot of service to the economy of the
+nation by protecting companies from contingencies and compensating them from any loss. They
+collect premiums for providing these services. The role and responsibilities of insurance companies
+have been outlined as below:
+a)    The insurance companies provide safety and security against a particular event.
+b)    They generate financial resources by collecting premiums and utilizing the premium amount
+        for fruitful investment purposes.
+c)      Life insurance encourages savings through payment of regular premium amount.
+d)    The insurance companies promote economic growth by making accumulated capital into
+       productive investment purposes. They help  to reduce loss, bring financial  stability by
+       providing compensation at the time of any uncertain event and promote trade and commerce
+        activities resulting in economic growth and development.
+e)    And, finally, insurance help in shifting of risk from the insured to the insurer.
+(iii)   Mutual Funds: Mutual Fund is a trust that pools together the savings of investors by making
+investments in the capital market thereby making the investor to be a part owner of the assets of the
+mutual fund. The fund is managed by a professional money manager who invests the money
+collected from different investors in various stocks, bonds, or other securities according to specific
+investment objectives as established by the fund. If the value of the mutual fund investments goes
+up, the return on them increases and vice versa. The net income earned from the funds, along with
+capital appreciation of the investment, is shared amongst the unit holders in proportion to the units
+owned by them. Mutual Fund is therefore an indirect vehicle for the investor investing in capital
+markets. In return for administering the fund and managing its investment portfolio, the fund manager
+charges fees based on the value of the fund’s assets.
+(iv)   Pension Funds: A pension fund  is a fund from which pensions are paid which are
+accumulated from contributions from employers and employees. Pension systems throughout the
+world have been under scrutiny over the last couple of decades. Numerous reforms have been
+carried out to tackle the sustainability and adequacy of pension arrangements in the face of the
+rising global demographic challenge.
+In India, now Pension funds are regulated by Pension Fund Regulatory and Development Authority
+(PFRDA). Moreover, the funds contributed by the Subscribers are invested by the Pension Fund
+Regulatory and Development Authority (PFRDA) registered Pension Fund Managers (PFM’s) as per
+the investment guidelines provided by PFRDA. The investment guidelines are framed in a very
+professional manner in such a way that there is negligible effect on the subscribers’ contributions
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+8.20           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+even  if the market is not doing well by a prudent mix of investment vehicles like Government
+securities, corporate bonds, and equities.
+(v)   Endowment Funds: An endowment fund is an investment vehicle where periodic withdrawal
+from the money invested into the fund is possible. The money put into the endowment funds is often
+used by universities, nonprofit organizations, churches, and hospitals, and is generally used for
+specific requirement or to give a boost to the company's operating process.
+An endowment fund is a financial asset, basically held by a non-profit organization, which contains
+the capital investments and related earnings used by the non-profit organization to fund the overall
+objective of the organization. Further, endowment funds are organized by stringent contractual
+obligations and rules to be followed by the non-profit organization. The main aim of the fund is to
+further the goal of the long-term financial health of the non-profit organization and its beneficiaries.
+(vi)   Hedge Funds: A hedge fund can be explained as a package of funds that takes both short
+and long positions, buys, and sells equities, initiates arbitrage, and trades bonds, currencies,
+convertible securities, commodities, and derivative products to give returns at minimum possible
+risk. The hedge fund tries to minimize risks to investor's capital against market volatility by employing
+various hedging strategies as outlined above. Hedge fund investors typically include High Networth
+Individuals (HNIs), endowments and pension funds, insurance companies, and banks. These funds
+work either as private investment partnerships or offshore investment companies.
+
+     5.  FOREIGN PORTFOLIO INVESTORS (FPIs)
+Who are FPIs?
+FPIs are basically registered foreign funds, which put their money in the stock markets in India. They
+invest through various methods in the capital market, that is either in the debt segment or in the
+equity segment. Therefore, an FPI is an investor or investment fund that is registered in a country
+outside of the one in which  it is currently investing. Institutional investors include hedge funds,
+insurance companies, pension funds and mutual funds. If we try to explain it in the Indian context, it
+refers to foreign companies investing in the financial markets of India. The Institutional investors
+based internationally must register with the Securities and Exchange Board of India (SEBI) to
+participate in the market.
+Categorization of FPIs
+Before making  its investment in India, the FPI shall obtain a certificate of registration from a
+designated depository participant on behalf of the SEBI. They can be divided into following
+categories:
+(a)    Category I foreign portfolio investor" which shall include –
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+INSTITUTIONS AND INTERMEDIARIES             8.21
+
+          (i)    Government and Government related investors such as central banks, sovereign
+             wealth funds, international or multilateral organizations or agencies including entities
+              controlled or at least 75% directly or indirectly owned by such Government and
+           Government related investor(s);
+           (ii)    Pension funds and university funds;
+           (iii)    Appropriately regulated entities such as insurance or reinsurance entities, banks,
+             asset management companies, investment managers, investment advisors, portfolio
+            managers, broker dealers and swap dealers;
+         (iv)    Entities from the Financial Action Task Force member countries or from any country
+              specified by the Central Government by an order or by way of an agreement or treaty
+              with other sovereign Governments, which are –
+                   (I)     appropriately regulated funds;
+                    (II)    unregulated funds whose investment manager is appropriately regulated and
+                     registered as a Category I foreign portfolio investor:
+                   Provided that the investment manager undertakes the responsibility of all the
+                    acts of commission or omission of such unregulated fund;
+                    (III)    university related endowments of such universities that have been in existence
+                       for more than five years;
+        (v)   An entity (A) whose investment manager is from the Financial Action Task Force
+          member country and such an investment manager is registered as a Category I foreign
+               portfolio investor; or (B) which is at least seventy-five per cent owned, directly or
+               indirectly by another entity, eligible under sub-clause (ii), (iii) and (iv) of clause (a) of
+                this regulation and such an eligible entity is from a Financial Action Task Force
+          member country:
+            Provided that such an investment manager or eligible entity undertakes responsibility
+               of all the acts of commission or omission of the applicant’s seeking registration under
+                this sub-clause.
+(b)    "Category  II foreign portfolio investor" shall include all the investors not eligible under
+      Category I foreign portfolio investors such as –
+          (i)     appropriately regulated funds not eligible as Category-I foreign portfolio investor;
+           (ii)   endowments and foundations;
+           (iii)    charitable organisations;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+8.22           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+         (iv)    corporate bodies;
+        (v)    family offices;
+         (vi)    Individuals;
+         (vii)   appropriately regulated entities investing on behalf of their client, as per conditions
+              specified by the Board from time to time;
+          (viii)  Unregulated funds in the form of limited partnership and trusts;
+Explanation: An applicant incorporated or established in an International Financial Services Centre
+shall be deemed to be appropriately regulated.
+An interesting fact about FPIs
+Foreign Portfolio Investors have made good money in the last few years. However, the problem for
+the Indian markets is that if interest rates in the US rise, they may sell stocks they held in the Indian
+Stock Market to make higher yields in the US. The reason for this action is that they may earn higher
+return in the US than what they may earn by investing in the Indian Stock market. This may lead to
+high sell off in the Indian Capital market. So, interest rate hike by US Fed can influence the Indian
+Stock Market hugely.
+Investment restrictions on FPIs
+As per the SEBI (Foreign Portfolio Investors) Regulations), 2019
+(1)   A foreign portfolio investor shall invest only in the following securities, namely-
+          (i)     shares, debentures and warrants issued by a body corporate; listed or to be listed on
+           a recognized stock exchange in India;
+           (ii)     units of schemes launched by mutual funds under Chapter V, VI-A and VI-B of the
+              Securities and Exchange Board of India (Mutual Fund) Regulations, 1996;
+           (iii)    units of schemes floated by a Collective Investment Scheme in accordance with the
+               Securities and Exchange Board of India (Collective Investment Schemes) Regulations, 1999;
+         (iv)    derivatives traded on a recognized stock exchange;
+        (v)    units of real estate investment trusts, infrastructure investment trusts and units of
+            Category III Alternative Investment Funds registered with the Board;
+         (vi)    Indian Depository Receipts;
+         (vii)   any debt securities or other instruments as permitted by the Reserve Bank of India for
+              foreign portfolio investors to invest in from time to time; and
+          (viii)  such other instruments as specified by the Board from time to time.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+INSTITUTIONS AND INTERMEDIARIES             8.23
+
+Recent Trends
+Foreign portfolio investors (FPIs) remained net sellers in Indian markets in July 2020 so far on
+account of both domestic and global factors, including rising number of coronavirus cases and
+increasing tension between the US and China.
+According to the depositories data, overseas investors invested ` 2,336 crore in equities but pulled
+out ` 2,422 crore from the debt segment, leading to net outflows of ` 86 crore from Indian markets
+between July 1-24. In the previous month  i.e., June 2020 FPIs were net buyers to the tuneof
+` 24,053 crore.                                                              (Source: Livemint)
+About 70% of the foreign portfolio investor (FPI) inflows into Indian equities in the month of October
+2020 have gone into two sectors — banking and technology, according to NSDL data. These
+investors have pumped ` 16,945 crore into local stocks in October. Out of this, they have invested
+nearly ` 9,500  crore  in banking  stocks.  Better-than-expected September  quarter  earnings,
+improvement in asset quality, and lower valuations because of the recent share underperformance
+FPIs' purchases in shares of private banks in October 2020.
+FPIs put ` 3,327 crore into technology shares in October as the companies are cash-rich and their
+earnings have been resilient even when the disruptions on account of Covid-19 dragged down other
+sectors.
+FPIs have also increased  their stakes  in automobiles, consumer  discretions,  capital goods,
+consumer durables and construction companies. Data show these investors have pulled out ` 871
+cr from oil & gas companies, ` 847 crore from metals and a total of ` 350 crore from telecom and
+insurance sectors.                                                   (Source: Economic Times)
+
+     6.  CUSTODIANS
+The custodians play a critical role in the secondary market. SEBI (Custodian) Regulation, 1996 was
+framed for the proper conduct of their business. According to SEBI regulations, custodial services
+in relation to securities of a client or gold/gold related instrument held by a mutual fund or title deeds
+of real estate assets held by a real estate mutual fund mean safekeeping of such securities or
+gold/gold related instruments or title deeds of real estate assets and providing related services.
+The related services provided by them are as follows:
+♦     Maintaining accounts of the securities of a client.
+♦     Collecting the benefits /rights accruing to the client in respect of securities.
+♦    Keeping the client informed of the actions taken by the issuer of securities.
+♦     Maintaining and reconciling records of the services as referred above.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+8.24           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+Further, every custodian should appoint a compliance officer to monitor the compliance of SEBI Act
+and its various rules, regulations, and guidelines and for redressal of investor grievances. The
+compliance officer should immediately report any non-compliance observed by him to the SEBI.
+SEBI can also ask for information from the custodian regarding his activities. Such information must
+be given within a reasonable period as laid down by SEBI. Further, SEBI is also empowered to
+conduct inspection/investigation including audit of books of account, records etc. of custodians to
+ensure that they are being properly maintained. SEBI’s task is also to ascertain that compliance of
+provisions of SEBI Act and its regulations have been duly complied with. Moreover, his job is also
+to investigate complaints received from investors or clients.
+
+     7.  CLEARING HOUSES
+Clearing  house  is  an  exchange-associated  body  charged  with  the  function  of  ensuring
+(guaranteeing) the financial integrity of each trade. Orders are cleared by means of the clearing
+house acting as the buyer to all sellers and the seller to all buyers. Clearing houses provide a range
+of services related  to the guarantee  of contracts, clearance and settlement  of trades, and
+management of risk for their members and associated exchanges.
+7.1  Role of Clearing Houses
+♦        It ensures adherence to the system and procedures for smooth trading.
+♦        It minimises credit risks by being a counter party to all trades.
+♦        It involves daily accounting of all gains or losses.
+♦        It ensures delivery of payment for assets on the maturity dates for all outstanding contracts.
+♦        It monitors the maintenance of speculation margins.
+7.2  Working of Clearing Houses
+The clearinghouse acts as the medium of transaction between the buyer and the seller. Every
+contract between a buyer and a seller is substituted by two contracts so that clearing house becomes
+the buyer to every seller and the seller to every buyer. In a transaction where P sells futures to R, R
+is replaced by the clearinghouse and the risk taken by P becomes insignificant. Similarly, the credit
+risk of R is taken over by the clearing house; thus, the credit risk is now assumed by the clearing
+house rather than by individuals. The credit risk of the clearing house is then minimised by employing
+some deposits as collateral by both buyers and sellers. These deposits, known as margins, are
+levied on each transaction depending upon the volatility of the instrument and adjusted every day
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+INSTITUTIONS AND INTERMEDIARIES             8.25
+
+for price movements. Margins, which normally are in form of cash or T-bills, can be categorised into
+the following types: -
+♦      Initial Margins on Securities: It is paid by purchasers and short sellers, generally functions as
+      a security for loan, and is like a down payment required for the purchase of a security.
+♦      Initial Margins on Derivatives: It refers to funds paid as a guarantee to ensure that the party
+       to the transaction  will perform  its obligation under the contract. The  initial margin on
+       derivatives is designed to cover future changes that may occur in the value.
+♦    Maintenance Margins: It refers to the value over and above the initial margin, which must
+      always be maintained in a margin account after the initial margin requirement,  if any, is
+        satisfied.
+♦     Variation Margin: It refers to funds that are required to be deposited in, or paid out of, a margin
+      account that reflects changes in the value of the relevant instrument.
+7.3  Trading Procedure of Clearing Houses
+Clients must open an account with a member of the exchange. When they want to trade in futures,
+they instruct members to execute orders in their account. The trade details are reported to the
+clearing house. If a member of the exchange is also a member of clearing house, then he directly
+deposits the margins with the clearing house.  If he is not a member, then he should route all
+transactions through a clearing member to maintain margins.
+
+               TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    Which among the following is not an advantage of depository?
+       (a)       It eliminates bad deliveries of securities.
+       (b)   The settlement cycle has become quicker. It is now T + 2.
+        (c)    Immediate transfer and registration of securities are possible now.
+       (d)    the rate of interest on loan against the pledged demat shares are higher in comparison
+               to physical shares.
+2.   ……… is known for its growth, liquidity, depth of market and the world’s most powerful,
+       forward-looking technologies.
+       (a)    National Stock Exchange
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+8.26           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+       (b)   London Stock Exchange
+        (c)   Nasdaq
+       (d)   New York Stock Exchange
+3.   ……….. is the person who collects applications on behalf of the investors and keeps a proper
+      record of monies received and paid.
+       (a)    Merchant Bankers
+       (b)    Registrars to an issue and Share Transfer Agents
+        (c)    Underwriters
+       (d)    Bankers to an issue
+4.   …………. is an investment vehicle where periodic withdrawal from the money invested into
+       the fund is possible.
+       (a)    Hedge Funds
+       (b)   Endowment Funds
+        (c)    Pension Funds
+       (d)    Mutual Funds
+5.    Which among the following services are not provided by Custodians?
+       (a)    Maintaining accounts of the securities of a client.
+       (b)    Collecting the benefits /rights accruing to the client in respect of securities.
+        (c)       It minimizes credit risk by being a counter party to all trades.
+       (d)   Keeping the client informed of the actions taken by the issuer of securities.
+Theoretical Questions
+1.      Briefly discuss the process of depository system and give a conceptual clarity of what a
+       depository system is.
+2.     Write a short note on international commodity exchanges.
+3.   Who is the custodian and what are the services provided by a custodian?
+4.      Briefly explain the working of clearing houses and their trading procedure?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+INSTITUTIONS AND INTERMEDIARIES             8.27
+
+ANSWERS/SOLUTIONS
+Answers to Multiple choice Questions:
+    1.        (d)        2.        (c)        3.        (b)        4.        (b)        5.        (c)
+
+Answers to Theoretical Questions:
+1.    Please refer to paragraph 1
+2.    Please refer to paragraph 2.5
+3.    Please refer to paragraph 6
+4.    Please refer to paragraph 7.3
+
+
+© The Institute of Chartered Accountants of India

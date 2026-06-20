@@ -1,0 +1,2705 @@
+Source PDF: 07_SPOM/Set_C_08_Valuation/007 - Chapter-6- Other Applications of Valuation - 79630bos63598-cp6.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_08_Valuation\007 - Chapter-6- Other Applications of Valuation - 79630bos63598-cp6.pdf
+Extracted at: 2026-05-31T10:33:37+05:30
+Pages: 52
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          6
+
+
+OTHER APPLICATIONS
+OF VALUATION
+
+
+                       LEARNING OUTCOMES
+At the end of this chapter, you will be able to understand:
+   Valuation of Inventories
+   Valuation of Investments
+   Fixed Income Instruments
+   Valuation of Intangibles
+   Valuation of Liabilities
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+1.26.2           VALUATION
+
+
+ CHAPTER OVERVIEW
+
+
+        Other Applications of Valuation
+
+                    Valuation of Inventories
+
+                    Valuation of Investments
+
+             Valuation of Fixed Income Instruments
+
+                    Valuation of Intangibles
+
+                       Valuation of Liabilities
+
+
+     1.  INVENTORY VALUATION
+
+Introduction:
+
+Valuation is a complex process involving the assessment of various parameters, external factors,
+and assumptions to estimate the worth of an asset. Even though supported by thorough research, it
+inherently requires judgment, necessitating scrutiny of the reasonableness of assumptions. Mere
+estimations without substantiation hinder the independent evaluation of fair value.
+
+In the context of financial reporting under IND AS 2, accurate inventory valuation is essential for
+reliable financial statements and consequent decision-making. The book value of inventory often
+deviates significantly from its fair value, highlighting the importance of understanding the value chain
+dynamics from procurement to sale when determining fair value.
+
+1.1  Basics of Inventory Valuation
+1.1.1  Definition of Inventory Valuation:
+
+IND AS-2 on “Inventory” defines Inventory as: - “Inventories are assets:
+
+(a)    held for sale in the ordinary course of business;
+
+(b)     in the process of production for such sale; or
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+6.3              OTHER APPLICATIONS OF VALUATION
+
+
+(c)     in the form of materials or supplies to be consumed in the production process or in the
+       rendering of services.”
+
+This Standard applies to all inventories, except:
+
+(a)    financial instruments (Ind AS 32, Financial Instruments: Presentation and Ind AS 109,
+       Financial Instruments and);
+
+(b)    biological assets (i.e. living animals or plants) related to agricultural activity and agricultural
+      produce at the point of harvest (See Ind AS 41, Agriculture).
+
+Inventory does not encompass goods or assets subject to depreciation in terms of accounting.
+Assets like spare parts or those exclusively used in connection with fixed assets are specifically
+categorized as property, plant, or equipment and fall under the scope of Ind AS 16. Consequently,
+these specific assets are not considered as part of inventory.
+
+Inventory valuation is undertaken to determine the value of inventory or closing stock as on the
+valuation date.  It is the process of assigning a monetary value to goods held for sale, reflecting their
+economic substance. Inventories are generally the second largest component on the asset side of
+a balance sheet and the largest component under the current assets, hence its valuation for financial
+reporting is critical.
+
+Following are some examples of what constitutes as Inventory across varied industries:
+
+              Industry                                     Inventory
+
+ Automotive Industry                Spare Parts, Finished Vehicle, Raw Material  like  Steel,
+                                      Special Fibers etc.
+
+ Food and Beverage Industry         Packaging Industry, Raw Ingredients, Finished Product.
+
+ Clothing Retail Industry               Accessories, Apparel Inventory, Footwear.
+
+ Construction Industry                 Concrete, Cement, Construction Equipment.
+
+ Pharmaceuticals Industry              Active Pharmaceuticals Ingredients (API), Finished Drugs,
+                                 Packaged Materials.
+
+ Agriculture Industry                  Crops, Fertilizer, Livestock, Seeds.
+
+ Software Development                Licenses, Digital Assets, Hardware.
+
+ Oil and Gas Industry               Crude Oil, Refined Products, Spare Parts.
+
+ Hospitality- Hotel Industry             Linens, Kitchen Supplies, Toiletries.
+
+ Professional Services- Law Firms     Legal Documents, Research Materials.
+
+ Entertainment Industry                   Digital Content, Film Reels, Merchandise, Game Consoles.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+1.46.4           VALUATION
+
+
+ Education Services                 Books, Lab equipment, Education Material.
+
+ Shipping Industry                   Cargo, Containers, Spare Parts.
+
+ Telecommunication Industry          Network Equipment, Devices, Spare Parts.
+
+ Supermarket Chains                 Grocery Items, Perishables.
+
+Ind AS 2 prescribes that the inventories shall be measured at the lower of cost and net realisable
+value.
+
+Cost includes:
+
+1.    Cost of Purchase which shall include non-convertible taxes, transport, insurance and
+       handling.
+
+2.    Cost of Conversion - Fixed Overheads + Variable Overheads
+
+3.    Other Cost – All such costs that are incurred in bringing the assets to their present location.
+
+Cost excludes costs related to Abnormal Waste, Storage Cost, Admin Overheads, Selling and
+Distribution Cost and Interest Cost.
+
+Net Realisable Value (NRV) is the estimated selling price in the ordinary course of business, less
+the estimated costs of completion and the estimated costs to make the sale.
+
+If inventory value is written down in the books of account due to fall in NRV, periodic assessment is
+necessary to determine whether NRV has increased to a higher value.  If so, the write down of
+inventory is reversed.
+
+Example:
+
+XYZ Motors is a car manufacturer. At the end of the financial year, the company needs to determine
+the value of its inventory of 500 cars.
+
+XYZ purchased the required materials and produced cars for `  8,00,000 each, along with non-
+convertible taxes of ` 40,000, transport ` 20,000, insurance ` 10,000, and handling ` 5,000. The
+cost of converting each car includes fixed overheads ` 1,00,000 and variable overheads ` 50,000.
+During the manufacturing process, 10 cars were damaged beyond repair, resulting in abnormal
+waste. The cost associated with these damaged units is `  80,000 per unit. ABC Motors incurred
+additional costs, such as storage costs ` 15,000 and admin overheads ` 25,000 per unit in bringing
+the cars to their present location.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+6.5              OTHER APPLICATIONS OF VALUATION
+
+
+According to IND AS 2, Paragraph 10, Cost is calculated as-
+
+ Cost of Purchase      =   Purchase price + Import duties and other taxes (nonrefundable) + other
+                                  direct costs – discounts and rebates
+ Cost of Purchase      =  ` 8,00,000 + ` 40,000 + ` 20,000 + ` 10,000 + ` 5,000 ` 8,75,000
+ Cost of Conversion    =  ` 1,00,000 + ` 50,000 i.e. ` 1,50,000.
+ Other Costs          =   Administrative Overheads + Storage Costs
+                       ` 25,000 + ` 15,000
+                       ` 40,000
+ Total Cost Per Unit    =  ` 8,75,000 + ` 1,50,000 + ` 40,000
+                       ` 10,65,000 per unit
+Total Cost = ` 10,65,000 * 500 units i.e. ` 53,25,00,000.
+
+However, as per Ind AS 2, costs related to abnormal waste should be excluded from the inventory
+valuation.
+
+ Adjusted Inventory Value =   ` 53,25,00,000 – (` 80,000 per unit * 10 units)
+                         ` 53,17,00,000
+1.1.2 Methods under IND AS 2: Cost Formulas
+
+IND AS 2 prescribes methods such as Specific  Identification, FIFO  (First-In, First-Out), and
+Weighted Average for inventory valuation, emphasizing compliance with the standard.
+
+FIFO (First-In, First-Out)- It assumes that the items of inventory that were purchased or produced
+first are sold first, and consequently the items remaining in inventory at the end of the period are
+those most recently purchased or produced. Hence under this method, the inventory is being valued
+close to the current replacement cost. It is the most used inventory measurement method.
+
+Weighted Average Cost (WAC)- The cost of each item is determined from the weighted average of
+the cost of similar items at the beginning of a period and the cost of similar items purchased or
+produced during the period. The average maybe calculated on a periodic basis or as each additional
+shipment is received, depending upon the circumstances of the entity.
+
+Specific Identification Method- It attaches the actual cost to an identifiable unit of product. Under
+the specific identification method, the entity must identify each unit in inventory, unless it is unique,
+with a unique identification tag or serial number. This method is particularly used by entities dealing
+or manufacturing high valued large inventory items such as airplanes, railway coaches, etc.
+
+LIFO (Last-In, First-Out) - It assumes that the items of inventory that were purchased or produced
+most recently are sold first, and consequently the items remaining in inventory at the end of the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+1.66.6           VALUATION
+
+
+period are those that were first purchased or produced. This method is not permissible under Ind AS
+2. The use of LIFO is prohibited under IND AS primarily because it does not reflect the economic
+reality of most business operations. LIFO may result in mismatching costs with revenues, as  it
+assigns the most recent costs to the cost of goods sold, potentially understating profits during
+periods of rising prices.
+
+The table below assesses the impact of using FIFO and LIFO during Inflationary and Deflationary
+environment-
+
+ INFLATION      COST OF GOODS SOLD      PROFIT      CLOSING INVENTORY
+
+ FIFO                     Lower                 Higher                 Higher
+
+ LIFO                       Higher               Lower               Lower
+
+ DEFLATION          Cost of Goods Sold               Profit             Closing Inventory
+
+ FIFO                       Higher               Lower               Lower
+
+ LIFO                     Lower                 Higher                 Higher
+
+As previously mentioned, we can see that using the LIFO method in deflationary environment results
+in inconsistent financial reporting. Therefore, to avoid inconsistency and ensure comparability, LIFO
+is prohibited under IND AS.
+
+ Industry           Typical         Key Considerations
+                    Inventory
+                    Valuation
+                Method
+                  Followed
+
+ Retail           FIFO     (First-in,    -      Seasonality: Account for fluctuations in demand
+                        First-out)      or        and potential markdowns in value.
+                  Average Cost                                                        -     Obsolescence: Consider  the  risk  of  products
+                                        becoming      outdated      or      unsalable.
+                                                                  - Shrinkage:Factor in losses due to theft, damage,
+                                                 or spoilage.
+
+ Manufacturing    FIFO, or Average    -     Production  process: Choose  a  method  that
+                   Cost                       aligns with the flow of production (e.g., FIFO for
+                                             continuous flow, LIFO for discrete batches (LIFO is
+                                                  prohibited under Ind AS)).
+                                                        -    Raw material price fluctuations: Consider LIFO
+                                                        in periods of rising prices to potentially lower taxes.
+                                                        -      Work-in-progress     (WIP): Determine     the
+                                               appropriate cost allocation for partially completed
+                                            goods.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+6.7              OTHER APPLICATIONS OF VALUATION
+
+
+ Wholesale        Average Cost or    -     Rapid    inventory    turnover: Average-based
+                  Weighted              methods simplify valuation and tracking for fast-
+                  Average    Cost        moving goods.
+                (WAC)                                                        -     Large  product  variety: WAC  helps manage
+                                               diverse inventory with varying costs.
+                                                        -      Price  stability: If  prices  are  relatively  stable,
+                                           average-based methods are efficient.
+
+ Technology        Specific                -     Rapid  technological  advancements: Specific
+                        Identification   or           identification allows for precise valuation of high-
+                  Average Cost              value, quickly obsolescing items.
+                                                        -     Component costs: Consider the cost of individual
+                                        components when valuing assembled products.
+                                                        -      Inventory  turnover: If  turnover  is  slow  and
+                                                    specific identification is used, consider potential
+                                            obsolescence.
+
+ Pharmaceuticals  FIFO or Specific    -      Expiration dates: Manage and value inventory
+                        Identification            based on expiration dates to avoid write-offs.
+                                                        -       Strict   regulations: Ensure  compliance   with
+                                                    specific accounting and storage requirements.
+                                                        -      High-value items: Specific identification may be
+                                                preferred for valuable and unique drugs.
+
+1.2  Significance in Financial Reporting and Strategic Decision-Making
+
+Valuation of inventory has a direct impact on both the balance sheet and income statement, thereby
+influencing key financial indicators. Beyond its necessity for financial reporting and accounting
+purposes, the fair value of inventory assumes significance in various corporate activities such as
+mergers, demergers, liquidation, insolvency, transfer pricing,  litigation, and fundraising efforts,
+among others. Precise and accurate inventory valuation is imperative for conducting comprehensive
+profitability analyses, facilitating informed resource allocation, and guiding investment decisions.
+
+The role of inventory valuation extends to  its pivotal influence on determining optimal pricing
+strategies, thereby shaping a company's competitiveness within the market.
+
+Strategic planning benefits significantly from the precision afforded by inventory valuation which
+ensures realistic budgeting and enhances the accuracy of forecasting processes, contributing to the
+overall efficiency and effectiveness of organizational management.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+1.86.8           VALUATION
+
+
+1.2.1 Impact of Non-Financial Parameters on the value of Inventory
+
+The value of inventory is intricately influenced by several non-financial parameters that extend
+beyond mere monetary considerations.
+
+i     Perishability plays a pivotal role, as items with a limited shelf life demand swift turnover to
+      avoid losses.
+
+i     Seasonality introduces  fluctuations, impacting the demand and subsequently  affecting
+       inventory value.
+
+i    Obsolescence is another crucial factor, rendering outdated items less valuable over time.
+
+i    The strength of an inventory system, including its efficiency and accuracy, directly impacts
+      value by minimizing errors and ensuring optimal management.
+
+i     Regulatory  compliance  is  essential,  as  adherence  to  industry  standards and  legal
+      requirements safeguards the integrity and value of the inventory.
+
+By considering these non-financial parameters, businesses can enhance their overall inventory
+management strategies and maintain a more accurate reflection of value.
+1.2.2  Trial Balance and Closing Stock
+
+The trial balance summarizes the balances of all ledger accounts at a specific point in time, typically
+the end of an accounting period. However, it excludes the closing stock value as it represents the
+cost of unsold inventory on hand and is not directly tied to any specific account balance.
+1.2.3 Impact on Profitability
+
+The closing stock value directly impacts the calculation of the cost of goods sold (COGS), which in
+turn affects the final profit figure. An accurate closing stock valuation is crucial for presenting a true
+and fair view of the company's financial performance.
+1.2.4 Manipulation and Ethical Concerns
+
+The importance of inventory valuation can unfortunately lead to unethical practices. Undervaluing
+closing inventory inflates the cost of goods sold (COGS), leading to a lower reported profit. This can
+be tempting for companies aiming to reduce their tax liabilities or mislead investors about their
+profitability. Conversely, overvaluing inventory can  artificially boost the COGS, leading to an
+artificially inflated profit figure. This can be tempting for companies aiming to smooth out earnings
+or mislead investors about their profitability.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+6.9              OTHER APPLICATIONS OF VALUATION
+
+
+1.2.5 Valuers and Best Practices
+
+Valuers play a  critical role in safeguarding against such manipulation and ensuring  fair value
+representation.
+
+They employ various techniques and best practices to achieve this:
+
+i    Physical Inventory Count: This involves physically counting the inventory on hand at the
+      end of the accounting period. While seemingly straightforward, proper counting procedures
+      and documentation are crucial for accuracy.
+
+i    Market Comparison: Benchmarking the closing stock value against prevailing market prices
+        for similar goods can provide valuable insights and identify potential discrepancies.
+
+i    Scrutiny  of  Inventory  Records: Reviewing   historical  inventory  records, purchase
+       invoices, and sales records can help identify any unusual fluctuations or inconsistencies that
+      might indicate manipulation attempts.
+
+i    Professional Scepticism: Maintaining a healthy level of scepticism throughout the valuation
+      process is crucial. Valuers should critically analyse the information provided by management
+      and be alert to potential red flags that might suggest attempts to manipulate the closing stock
+       value.
+
+     2.  VALUATION OF INVESTMENT
+
+Definition as per IND AS 32, Para 11:
+
+A Financial asset is any asset that is:
+
+i    Cash;
+
+i    An equity instrument of another entity;
+
+i   A contractual right
+
+   ¾     to receive cash or another financial asset from another entity;
+
+   ¾     or  to exchange  financial assets or financial  liabilities with another  entity under
+              conditions that are potentially favourable to the entity; or
+
+i   A contract that may or will be settled in the entity’s own equity instrument and is not classified
+      as an equity instrument of the entity.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+1.106.10           VALUATION
+
+
+Examples of assets that meet the definition of a financial asset are Cash and Cash Equivalents,
+Investment in shares or other equity instrument issued by other entities, Trade Receivables, Loans
+to other entities, Investments in bonds and other debt instruments issued by other entities, Derivative
+financial assets, and some derivatives on own equity.
+
+An "investment" refers to the commitment of resources, typically capital, with the expectation of
+generating  future  financial  returns. Investments can  take  various  forms,  including  financial
+instruments, real assets, or business ventures, and are made with the intention of achieving specific
+financial objectives such as capital appreciation, income generation, or risk diversification. For the
+purpose of our context, we classify investments in the following three categories-
+
+1.     Equity
+
+2.    Debt
+
+3.     Hybrid
+
+Equity: Equity investments represent ownership in a company and entitle the investor to a share of
+the company's profits and losses. Common forms include stocks and equity mutual funds.
+
+Debt: Debt investments involve lending money to an entity, typically in exchange for periodic interest
+payments and the return of the principal amount at maturity. Bonds and fixed-income securities are
+common examples.
+
+Hybrid: Hybrid investments combine characteristics of both equity and debt. Convertible bonds,
+preferred stocks, and certain types of preferred equity instruments are examples of hybrid securities.
+
+2.1  Equity Valuation Methods
+
+Valuing equity instruments involve determining their fair market value, which can be influenced by
+various factors. Here are some common methods of approach:
+
+1.    Market Approach
+
+2.    Income Approach
+
+3.    Cost Approach
+2.1.1 Market Approach
+
+The Market Approach relies on prices and information from market transactions involving identical
+or comparable assets, liabilities, or a group of assets and liabilities. Valuers employ this approach
+when assets are actively traded, recent orderly transactions  exist, or reliable information on
+comparable transactions is available. In cases where identical or comparable assets are limited, not
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+6.11              OTHER APPLICATIONS OF VALUATION
+
+
+actively traded, or lack sufficient information, valuers may explore alternative valuation approaches
+or combine them with the Market Approach.
+
+Commonly used methods under the Market Approach include the Market Price Method, Comparable
+Companies Multiple (CCM) Method, and Comparable Transaction Multiple (CTM) Method. The
+Market Price Method involves considering traded prices over a reasonable period, with a preference
+for the market with the highest trading volume. The CCM Method utilizes market multiples derived
+from comparable companies traded on active markets, while the CTM Method derives transaction
+multiples from comparable transactions.
+
+Example
+
+Company ABC  is a  private  IT consulting company incorporated  in 2020. The company  is
+headquartered in Bangalore. The company provides infrastructure technology and applications
+outsourcing services. To value this company using the Comparable Companies Method, a list of
+comparable public companies was curated and using their historical and projected data, we have
+valued ABC using Revenue and EBITDA Multiples Approach.
+
+     Comparable Company Name        TEV/Revenue Multiple     TEV/EBITDA Multiple
+
+ HCL Technologies Limited                          3.6x                      16.8x
+
+ Tata Consultancy Services Limited                 5.4x                      20.8x
+
+ Tech Mahindra Limited                             2.0x                      16.7x
+
+ Wipro Limited                                      2.4x                      12.4x
+
+ Persistent Systems Limited                         5.9x                      34.1x
+
+ High                                               5.9x                     34.1x
+
+ Low                                               2.0x                     12.4x
+
+ Mean                                              3.9x                     20.2x
+
+ Median                                            3.6x                     16.8x
+
+Note: TEV is Total Enterprise Value
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+1.126.12           VALUATION
+
+
+Using the median multiple and the projected Revenue and EBITDA of ABC Private Limited, we
+conclude the value of ABC as given below:
+
+    ABC Private Limited              Revenue                  EBITDA
+
+ Projections                             100                         30
+
+ Multiple                                     3.6x                           16.8x
+
+ Valuation (INR Mn)                       360                        504
+
+Valuers identify market comparables based on factors such as industry, geographic area, line of
+business, and other parameters. Adjustments may be made for differences between the asset to be
+valued and market comparables, including considerations  for  size,  location,  profitability, and
+management  profile. The  valuer may  apply  discounts  or  control premiums  to account  for
+marketability or control differences. Professional judgment is crucial in determining appropriate
+adjustments and selecting the most relevant valuation method.
+2.1.2 Income Approach
+
+The Income Approach is a valuation method that converts maintainable or future amounts (e.g., cash
+flows or income and expenses) to a single current (i.e., discounted, or capitalised) amount. The fair
+value measurement is determined based on the value indicated by current market expectations
+about those future amounts. Valuers may opt for the Income Approach in situations where there are
+no market comparables, fewer relevant market comparables, or when the asset generates income
+with reasonably projectable future cash flows.
+
+Common valuation methods under the Income Approach include the Discounted Cash Flow (DCF)
+Method, Relief from Royalty (RFR) Method, Multi-Period Excess Earnings Method (MEEM), With
+and Without Method (WWM), and option pricing models like Black-Scholes-Merton formula. The DCF
+Method is extensively used, involving the discounting of projected cash flows over the asset's life,
+and determining a terminal value for assets with indefinite life.
+
+The DCF Method starts by analyzing projections, selecting appropriate cash flows, determining
+discount and growth rates, and applying these to calculate present values. Adjustments may be
+made for factors not covered by cash flow forecasts or discount rates. The method incorporates
+considerations for control or non-controlling interests.
+
+Some of the important inputs for the DCF method include cash flows, discount rates, and terminal
+value. Cash flows are derived from projections, and the explicit forecast period's length depends on
+the nature, life, and sufficient period for stability of the asset. Discount rates, representing expected
+returns, can be determined through methods like Capital Asset Pricing Model (CAPM) or Weighted
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+6.13              OTHER APPLICATIONS OF VALUATION
+
+
+Average Cost of Capital (WACC). The terminal value, capturing the asset's value beyond the
+forecast period, can be estimated using various methods such as Gordon Growth Model or Exit
+Multiple. Professional judgment is crucial in applying adjustments, selecting appropriate inputs, and
+determining terminal growth rates. The Income Approach proves beneficial in cases where other
+valuation approaches may be less applicable or reliable.
+
+Example
+
+Now that we have derived the value of ABC Private Limited using the Market Approach, the following
+illustration shows calculation deriving the value of ABC Private Limited using the Income Approach.
+
+ Particulars                    Year 1   Year 2   Year 3   Year 4   Year 5   Perpetuity
+
+ Revenue from Operations          100.0    129.1    165.4    220.0    265.0      282.8
+
+ Growth %                            29.1%   28.1%   33.0%   20.5%     6.7%
+
+ Software Licenses for resale       0.8       1.3       1.7       1.9       2.0         2.2
+
+ Direct Costs                      62.7     85.1     114.8    150.4    170.6      182.0
+
+ Administrative Overheads          1.8       2.0       1.7       2.5       2.7         2.9
+
+ Management and Staff Salaries     1.9       2.0       1.7       3.6       5.0         5.3
+
+ Sales and Marketing Costs         2.8       5.0       6.4       8.6      11.4       12.2
+
+ EBITDA                           30.0     33.7     39.0     53.2     73.3       78.2
+
+ % Revenue                   30.0%   26.1%   23.6%   24.2%   27.7%    27.7%
+
+ Depreciation & Amortization       0.0       0.0       0.0       0.0       0.0         0.0
+
+ EBIT                             30.0     33.7     39.0     53.2     73.3       78.2
+
+ Income Tax                        7.5       8.5       9.8      13.4     18.4       19.7
+
+ Depreciation                       0.0       0.0       0.0       0.0       0.0         0.0
+
+ Working Capital Changes         15.1      (6.8)      (8.9)     (10.6)     (5.6)        (6.0)
+
+ Capital Expenditure               0.11     0.00     -0.00     0.16     0.01       0.06
+
+ Free Cash Flow to Firm (FCFF)     37.5     18.4     20.3     29.0     49.3       52.4
+
+ Discount Factor                 0.916    0.768    0.644    0.540    0.453
+
+ Present  Value  of  Free  Cash    34.4     14.1     13.1     15.7     22.3
+ Flows
+
+ Total Present Value of Free Cash                                         99.6
+ Flows
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+1.146.14           VALUATION
+
+
+ Terminal Value of Business (Present Value of Perpetuity)
+
+ Long Term Cash Flow Growth Rate                                             5.0%
+
+ Cost of Capital                                                            15.0%
+
+ Terminal Value of Business                                                        550.2
+
+ Discount Factor                                                                    0.453
+
+ Present Value of the Terminal Value of Business                                    249.2
+
+Finally, we calculate the Enterprise Value as the sum of Total Present Value of Free Cash Flows
+and the Terminal Cash Flow, adjust it further to get the Fair Market Value of Equity.
+
+ Enterprise Value                                                                 348.8
+
+ Add: Cash and Cash Equivalents                                                          5.0
+
+ Less: Fair Value of Debt                                                                  0.0
+
+ Fair Market Value of Equity (INR Mn)                                              353.8
+
+Note: Free Cash Flow to Firm has been discussed in Chapter 3 – Valuation Approaches and
+Methodologies
+2.1.3 Cost Approach
+
+The Cost Approach is a valuation method that reflects the amount needed currently to replace the
+service capacity of an asset, commonly known as current replacement cost. The historical cost of
+the asset may be considered in specific situations based on regulations, laws, or guidelines, or when
+appropriate for the asset's nature. Valuers apply the Cost Approach when an asset can be quickly
+recreated with similar utility, in cases of liquidation value determination, or when the income or
+market approach cannot be utilized.
+
+Examples of situations where Cost Approach is applied include scenarios where the asset has not
+yet generated income, an asset of similar utility can be recreated with regulatory or legal restrictions,
+or the asset was recently created. Two commonly used valuation methods under the Cost Approach
+are the Replacement Cost Method and the Reproduction Cost Method.
+
+(i)    Replacement Cost Method:  It involves valuing an asset based on the cost a market
+       participant  would  incur  to  recreate  an  asset  with  comparable   utility,  adjusted  for
+      obsolescence. Obsolescence includes physical deterioration, functional (technological), and
+      economic factors. Steps include estimating costs for recreation, assessing obsolescence
+       loss, and adjusting to derive the asset's value.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+6.15              OTHER APPLICATIONS OF VALUATION
+
+
+(ii)   Reproduction Cost Method:  It involves valuing an asset based on the cost a market
+       participant would incur to recreate a replica of the asset, adjusted for obsolescence. Similar
+      steps to the Replacement Cost Method, including estimating costs, assessing obsolescence
+       loss, and adjusting to determine the asset's value.
+
+(iii)   Obsolescence: Under both methods, estimated costs are adjusted for depreciation due to
+      obsolescence. Types  of obsolescence include physical, functional  (technological), and
+      economic (external) factors. Physical obsolescence relates to decreased usefulness as the
+       asset's  life expires, functional obsolescence involves  inefficiency due  to technological
+      advancements, and economic obsolescence results from external economic factors.
+
+The Cost Approach is typically used for the valuation of property, plant, equipment, and certain
+intangible assets, providing specific guidance within the ICAI Valuation Standards.
+
+Example
+
+Continuing with ABC Private Limited, we now derive the value of the software using the Replacement
+Cost Method and Obsolescence.
+
+For this example, we have assumed Obsolescence Factor of 30% and Tax Amortization Benefit of
+` 6,983.
+
+ Particulars                                                                     Value
+
+ Hours to rewrite the code                                                              5,000
+
+ Hourly Rate                                                                    150
+
+ Reproduction Cost                                                               750,000
+
+ Less: Obsolescence Factor                               30%           (225,000)
+
+ Pre-Tax Replacement Cost                                                        525,000
+
+ Less: Taxes                                                 25.17%        (132,143)
+
+ After Tax Replacement Cost Before Amortization                                  392,857
+
+ Tax Amortization Benefit                                                              6,983
+
+ Fair Value of Software (INR)                                                      399,840
+
+2.2  Valuation of Preferred Stock
+
+Valuing preferred stock requires navigating its unique characteristics, which lie somewhere between
+traditional bonds and common stocks. Unlike bonds, preferred stock typically doesn't have a fixed
+maturity date and carries dividend payments that can be suspended in certain circumstances. While
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+1.166.16           VALUATION
+
+
+offering preferential rights to dividends over common stockholders, preferred shares generally lack
+voting rights and the potential for capital appreciation seen with common shares.
+
+Specific  features  like cumulative  dividends,  convertibility,  callability, and  participating  rights
+significantly impact the valuation of preferred stock. For instance, a cumulative preferred stock
+accrues any unpaid dividends, making it more valuable than a non-cumulative one.
+
+Similarly, a convertible preferred stock, offering the option to convert into common shares, may
+command a premium due to its potential for capital gains. On the other hand, callability, allowing the
+issuer to 'call back' the shares at a predetermined price, might reduce the stock's value due to the
+potential for an earlier redemption of the investment.
+
+Valuers translate these qualitative features into quantitative adjustments by employing various
+models. The dividend discount model is often used, where the present value of expected future
+dividends is calculated. Adjustments are made to the discount rate or dividend amount to reflect the
+risks and potential benefits associated with specific features, ultimately arriving at a fair value
+estimate for the preferred stock.
+
+2.3  Valuation of Convertible Instruments
+
+Convertible instruments, the financial chameleon, occupy a peculiar space in the capital structure,
+blending debt and equity characteristics. As such, their valuation demands a nuanced approach that
+captures their multifaceted nature. Unlike traditional bonds, convertibles offer the potential for equity-
+like upside through their conversion option, allowing the holder to exchange them for common stock
+at a predetermined price and ratio. This potential upside, however, comes at the cost of a lower
+coupon rate compared to traditional debt instruments.
+
+The valuation journey of a convertible instrument begins with acknowledging the inherent trade-off
+between debt-like security and equity-like optionality. Valuers often employ a two-stage process. In
+the first stage, the instrument's intrinsic value as debt is estimated using traditional bond valuation
+techniques, such as the discounted cash flow (DCF) model. This stage accounts for the fixed interest
+payments and the principal repayment at maturity. In the second stage, the optionality embedded in
+the conversion feature is valued using option pricing models, like the Black-Scholes model. This
+model incorporates factors such as the underlying stock's volatility, the conversion price, the time to
+maturity, and the risk-free interest rate to arrive at a fair value for the conversion option.
+
+Ultimately, the final valuation of a convertible instrument represents the sum of its intrinsic debt
+value and the option value, aptly reflecting its hybrid nature. This delicate dance between debt-like
+certainty and equity-like potential necessitates a comprehensive understanding of both traditional
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+6.17              OTHER APPLICATIONS OF VALUATION
+
+
+valuation methodologies and option pricing models, allowing valuers to pierce the veil of the
+convertible instrument and arrive at a sound and informed valuation.
+
+2.4  Valuation of Hybrid Instruments
+
+Hybrid instruments, the captivating creations of financial engineering, defy easy categorization. They
+combine between debt and equity, borrowing features from both while forging their unique identity.
+This intricate dance presents both challenges and opportunities for valuation professionals.
+
+The valuation of hybrid instruments demands a multifaceted approach that acknowledges their two
+faced nature.  Traditional methodologies, honed  for pure debt or equity instruments, require
+adaptation to capture the nuances of these hybrids. Similar to valuing convertible instruments, a
+two-stage approach often proves effective. The  first stage involves estimating the instrument's
+intrinsic value, often using discounted cash flow (DCF) models or comparable company analysis,
+depending on the instrument's specific characteristics. This stage accounts for the fixed or variable
+cash flows embedded in the instrument.
+
+The second stage focuses on the non-traditional features that distinguish the hybrid from its pure-
+play counterparts. These features can include participation rights in the issuer's profits, contingent
+payments linked to specific performance metrics, or call options granting the issuer the right to
+repurchase the instrument at a predetermined price. Valuing these features requires expertise in
+option pricing models and careful consideration of the instrument's unique structure. They may be
+valued individually and then combined with the intrinsic value to arrive at a final valuation.
+
+Therefore, the valuation of hybrid instruments necessitates a comprehensive understanding of both
+traditional valuation techniques and specialized option pricing models. By diligently addressing the
+instrument's unique blend of debt and equity characteristics, and by  skillfully employing the
+appropriate valuation tools, professionals can arrive at a fair and informed valuation, ensuring a
+sound decision-making process.
+
+2.5  Valuation of Structured Products
+
+Instruments with both derivative and non-derivative elements present a unique challenge  to
+valuation professionals. These instruments, often referred to as "structured products," combine
+features of traditional debt or equity with embedded derivative components, blurring the lines
+between asset classes and demanding a nuanced valuation approach.
+
+The first step in valuing such instruments involves a thorough understanding of their structure. This
+entails meticulously dissecting the various components, identifying the traditional aspects (e.g., fixed
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+1.186.18           VALUATION
+
+
+coupon payments, principal repayment) and the derivative elements (e.g., embedded options,
+contingent payoffs linked to specific events).
+
+Once the components are identified, the valuation process often proceeds in two stages. The first
+stage focuses on valuing the non-derivative elements using established techniques like discounted
+cash flow (DCF) models for debt-like features or comparable company analysis for equity-like
+components. This stage seeks to determine the instrument's intrinsic value based on its traditional
+characteristics.
+
+The second stage tackles the valuation of the embedded derivative element. This may involve
+employing specialized option pricing models, such as the Black-Scholes model, which consider
+factors like the underlying asset's volatility, the strike price (if applicable), time to maturity, and risk-
+free interest rate. The value derived from this stage reflects the additional potential upside or
+downside associated with the derivative aspect.
+
+Finally, the valuation of the entire instrument is achieved by combining the intrinsic value obtained
+in the first stage with the value of the derivative component determined in the second stage. This
+holistic approach ensures that both the traditional and derivative aspects are appropriately captured,
+resulting in a fair and informed valuation of the complex instrument.
+
+In conclusion, valuing instruments with both derivative and non-derivative elements requires a
+multifaceted approach that leverages both traditional valuation techniques and specialized derivative
+pricing models. Through meticulous dissection of the instrument's structure and a diligent two-stage
+valuation process, professionals can navigate the complexities of these hybrid instruments and
+arrive at a sound valuation, crucial for informed decision-making.
+
+2.6  Valuation for Issuer vs. Valuation for Investor
+
+Valuing complex investments like preferred stock, convertible instruments, hybrid instruments, and
+structured products inherently invites a degree of subjectivity, influenced by the perspective of the
+valuer. Issuers (sellers) and investors (buyers) often approach the valuation exercise with differing
+motivations, priorities, and potentially divergent access to information.
+
+Issuers, aiming to maximize proceeds from the transaction, might emphasize the potential growth
+and upside potential of the instrument's underlying business or project. They could utilize more
+optimistic projections for future cash flows or leverage bullish market sentiment in their valuation
+models. Conversely, investors, focused on maximizing returns and mitigating risk, might adopt a
+more conservative stance. They may incorporate higher discount rates to reflect perceived risk,
+focus on downside scenarios, or stress-test the instrument under unfavorable market conditions.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+6.19              OTHER APPLICATIONS OF VALUATION
+
+
+Additionally, the degree of information asymmetry between issuer and investor can further contribute
+to variations in valuation.
+
+However, it is important to note that both issuers and investors fundamentally rely on the same core
+valuation principles and methodologies. The use of discounted cash flow models, option pricing
+techniques, and comparable analysis remains central to the process. The difference often lies in the
+subtle nuances and assumptions embedded within these models, driven by the divergent goals and
+interests of the respective parties. Ultimately, successful negotiations often involve a process of
+reconciling valuations through transparency, open dialogue, and a focus on the underlying economic
+value of the instrument.
+
+     3.  VALUATION OF FIXED INCOME INSTRUMENTS
+
+Fixed-income securities are the primary method for global capital raising, offering future interest
+payments and principal return to investors. Fixed-income securities are the largest source of capital
+for government, not-for-profit, and other entities that do not issue equity. In private companies,
+investors in fixed-income securities don't hold ownership rights like shareholders do. However, in
+the  capital  structure,  the claims  of  fixed-income  investors  take precedence over those  of
+shareholders. As a result, theoretically, the fixed-income securities of a company carry less risk
+compared to its common shares.
+
+Here are some examples of common types of fixed income products:
+
+(i)    Treasury Bills (T-Bills): These are short-term securities issued by the government, maturing
+        in less than one year. T-Bills are purchased at a discount to their face value and upon
+       maturity, the government pays the investor the full-face value. The difference between the
+      purchase price and the face value is the investor's earnings.
+
+(ii)   Treasury Notes (T-Notes): Issued by the government, these have longer maturities than
+        T-Bills, ranging from two to 10 years. They offer fixed interest rates and make semi-annual
+       interest payments to investors. The principal amount is repaid at the end of the maturity
+       period.
+
+(iii)   Treasury Bonds (T-Bonds): Similar in nature to T-Notes but with even longer maturity
+       periods of 20 or 30 years. Like T-Notes, T-Bonds offer semi-annual interest payments.
+
+(iv)   Treasury Inflation-Protected Securities (TIPS): These government-issued bonds are
+      designed to shield investors from inflation. The principal value of TIPS adjusts based on
+        inflation rates, ensuring that the bond's purchasing power is maintained.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+1.206.20           VALUATION
+
+
+(v)   Corporate Bonds: Issued by corporations, these bonds' terms, including price and interest
+        rate, vary based on the issuing company's financial health and credit rating. Generally, bonds
+      from financially stable companies offer lower yields, while those from less stable entities offer
+       higher yields to compensate for increased risk.
+
+(vi)   High-Yield (Junk) Bonds: These are a type of corporate bond issued by companies with
+      lower credit ratings, carrying a higher risk of default. To compensate for this increased risk,
+      they offer higher interest rates to investors.
+
+3.2  Certificates of Deposit (CDs)
+
+Offered by banks and credit unions, CDs are time deposits with a fixed interest rate and maturity
+date, typically ranging up to five years. The interest rates are usually higher than those of savings
+accounts, and they are protected by the Federal Deposit Insurance Corporation (FDIC) or National
+Credit Union Administration (NCUA), making them a low-risk investment option.
+
+A bond is a type of fixed-income investment where an investor loans money to an entity, typically a
+corporation or government, for a defined period at a predetermined interest rate. In return, the issuer
+of the bond agrees to pay the investor back the original amount borrowed (the principal) at a
+specified future date, known as the maturity date, along with periodic interest payments. The bond’s
+features, including the issuer, maturity, par value, coupon rate and frequency, and currency
+denomination are important elements to consider. These features determine the bond’s scheduled
+cash flows and, therefore, are key determinants of the investor’s expected and actual return.
+
+3.3  Bonds
+
+Bonds, regardless of who issues them, share fundamental characteristics like maturity, principal
+amount, coupon size, payment frequency, and currency. Various entities issue bonds, such as
+individuals, governments, and corporations. Major issuers include Governments (both national and
+local), Corporates, Supranational Organizations (like The World Bank), and special legal entities.
+
+Maturity refers to the date on which a bond's issuer must repay the bond's full principal amount.
+The term "tenor" describes the time left until the bond reaches its maturity date. Tenor is crucial for
+evaluating a bond's risk and potential return since  it shows how long the bondholder will receive
+interest payments and when the principal will be fully repaid.
+
+The par value of a bond, also known as the principal amount, is the sum that the issuer commits to
+repay the bondholders upon maturity. This value is also commonly referred to as par, face value,
+nominal value, redemption value, or maturity value. Bonds can have varying par values.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+6.21              OTHER APPLICATIONS OF VALUATION
+
+
+The coupon rate, also known as the nominal rate, of a bond is the yearly interest rate the issuer
+promises to pay up until the bond matures. This rate determines the annual interest payments,
+referred to as the coupon. To calculate a bond's coupon, you multiply its coupon rate by its par value.
+These interest payments can be made on an annual, semi-annual, or quarterly basis.
+
+All bonds, whether they offer a fixed or floating interest rate, provide periodic coupon payments,
+except for zero-coupon bonds. Zero-coupon bonds, also known as pure discount bonds, are sold
+at a price below their par value and redeemed at par upon maturity. The interest earned on a zero-
+coupon bond is implicit and equals the difference between the par value and the purchase price.
+
+A traditional bond offers a fixed interest rate, meaning  its coupon payment remains constant
+throughout its lifespan. However, some bonds feature a floating interest rate, known as floating-
+rate notes (FRNs) or floaters, where the interest payment adjusts according to market rates.
+
+Market participants commonly use various yield measures to assess bonds. The current yield, or
+running yield, is calculated by dividing the bond's annual coupon by its price and expressing it as a
+percentage.
+
+For instance, if a bond with a 5% coupon rate, $1,000 par value, and $1,020 price, the current yield
+is 4.90% ($50 ÷ $1,020) (Remaining duration is assumed as one year). This yield is similar to the
+dividend yield for stocks.
+
+The most prevalent measure is the yield-to-maturity (YTM), also known as the redemption yield.
+YTM is the internal rate of return on a bond's expected cash flows, equating the present value of its
+expected cash flows with its price. It's an estimate of the bond's expected return, representing the
+annual return for an investor who buys the bond now and holds  it until maturity, reinvesting all
+coupons at the same yield. YTM and bond price have an inverse relationship: higher YTM leads to
+lower prices, and vice versa. Thus, investors anticipating lower interest rates (and a lower YTM)
+expect positive returns from price appreciation.
+
+Bond pricing involves discounted cash flow analysis, the complexity of which depends on the bond's
+features and the discounting rate(s) applied. For traditional fixed-rate bonds without options, future
+cash flows comprise coupon interest payments and  full principal repayment at maturity. These
+payments occur on scheduled dates, such as annually or semi-annually, with the final coupon often
+paid along with the principal at maturity. The bond's issuance price represents the present value of
+these cash flows, calculated using the market discount rate. This rate, also known as the required
+yield or rate of return, reflects investors' required return considering the bond's risk.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+1.226.22           VALUATION
+
+
+Example:
+
+Company NCQ has issued an annual bond with a 5-year maturity, and a par value of ` 1,000. The
+coupon rate of such bond is 6%, and the market discount rate is 8%. To find the price of the bond,
+we use
+
+ Price of the bond NCQ =   Coupon1/ (1+discount rate)^Period +
+
+                          Coupon2/(1+discount rate)^Period +
+
+                          Coupon3/(1+discount rate)^Period +
+
+                          Coupon4/(1+discount rate)^Period +
+
+                          Coupon5/(1+discount rate)^Period +
+
+                              Principal Amount/(1+discount rate)^Period
+
+Where Coupon = 6% of ` 1,000 i.e. ` 60
+
+ Bond NCQ  =   60/ (1+8%) ^1 +
+ Price                   60/ (1+8%)^2 +
+
+                   60/ (1+8%)^3 +
+
+                   60/ (1+8%)^4 +
+
+                  (1000+60)/ (1+8%)^5
+
+            =   55.6 + 51.4 + 47.6 + 44.1 + 40.8 + 680.6
+
+            =  ` 920.1
+
+Therefore, we conclude that if the time-to-maturity is five years and the market discount rate is 8%,
+the price of the bond is ` 920.1 per 1000 of par value.
+
+The final cash flow of 1060 is the redemption of principal (1000) plus the coupon payment for that
+date (60). The price of the bond is the sum of the present values of the five cash flows.
+
+This bond is described as trading at a discount because the price i.e. (` 920.1) is below par value
+i.e. (` 1000)
+
+In the same example,  if the coupon of NCQ bond was 8% and the market discount rate was 6%,
+then the price of such bond would be:
+
+ Price of the bond NCQ =   Coupon1/ (1+discount rate)^Period +
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+6.23              OTHER APPLICATIONS OF VALUATION
+
+
+                          Coupon2/(1+discount rate)^Period +
+
+                          Coupon3/(1+discount rate)^Period +
+
+                          Coupon4/(1+discount rate)^Period +
+
+                          Coupon5/(1+discount rate)^Period +
+
+                              Principal Amount/(1+discount rate)^Period
+
+Where Coupon = 8% of ` 1,000 i.e. ` 80
+
+ Bond NCQ  =   80/ (1+6%)^1 +
+ Price                 80/(1+6%)^2 +
+
+                 80/(1+6%)^3 +
+
+                 80/(1+6%)^4 +
+
+                 1000+80/(1+6%)^5
+
+            =   75.5 + 71.2 + 67.2 + 63.4 + 59.8 + 747.3
+
+            =  ` 1,084.2
+
+This bond is trading at a premium because its price (i.e. ` 1,084.2) is above par value (` 1000). If
+another five-year bond pays a 7% annual coupon and the market discount rate still is 7%, the bond
+would trade at par value.
+
+Taking the same example of bond issued by NCQ, with the Coupon rate now being 7% of ` 1000
+i.e. ` 70,
+
+ Bond NCQ  =   70/ (1+7%)^1 +
+ Price                 70/(1+7%)^2 +
+
+                 70/(1+7%)^3 +
+
+                 70/(1+7%)^4 +
+
+                 1000+70/(1+7%)^5
+
+            =   65.4 + 61.1 + 57.1 + 53.4 + 49.9 + 712.9
+
+            =  ` 1,000.0
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+1.246.24           VALUATION
+
+
+Please note that the Market Value of a bond and the YTM of a bond, both these values are dynamic and
+interdependent in nature. The coupon rate, the par value of a bond and its maturity are known in advance.
+The coupon amount is calculated with respect to the par value and similarly, the YTM is calculated using
+the Market Value of the bond. The demand and supply in the capital markets fundamentally affect the
+price of the bond, thus affecting the perceived YTM of the bond. The price of a bond keeps changing
+across the maturity of the bond. If the price of the bond at Year 1 of a 5-year bond is 800, the YTM is then
+calculated subject to the remaining duration of the bond.
+
+Thus, YTM can be calculated as
+
+Present value of Expected return (i.e. Coupon) on the bond/Current Market Value of the bond.
+
+YTM is the rate of return that makes the following assumptions:
+
+1.    The investor holds the bond until maturity.
+
+2.    The issuer fulfils all coupon and principal payments in full and on schedule, reflecting the
+      promised yield without default.
+
+3.    The investor can reinvest coupon payments at the same yield, reflecting an internal rate of
+       return characteristic.
+
+The discount rate used depends on the risk associated with the bond. For government bonds, you
+might use the risk-free rate plus a premium for inflation. For corporate bonds, you might use the risk-
+free rate plus a credit spread to account for default risk.
+
+3.4  Complexities in comprehensive valuation approach of Fixed Income
+     Instruments
+
+While concepts like duration, par value, price, and yield to maturity provide a foundational framework
+for valuing fixed income securities, a more comprehensive valuation approach incorporates the
+following complexities:
+
+(a)    Credit Risk and Credit Rating: Fixed income securities are exposed to credit risk, which is
+the risk that the issuer may default on its obligation to pay interest or principal. This risk significantly
+impacts the valuation of the security. Here's how it plays a role:
+
+i     Credit  Rating  Agencies:  Credit  rating  agencies  (e.g., S&P,  Moody's)  assess  the
+       creditworthiness of issuers and assign credit ratings (AAA, AA, A, BBB, etc.). Higher ratings
+       indicate lower default risk, while lower ratings indicate higher default risk.
+
+i     Yield Spreads: The yield to maturity (YTM) of a bond reflects not only the risk-free rate and
+       time to maturity but also the credit risk of the issuer. Higher-rated bonds (lower default risk)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+6.25              OTHER APPLICATIONS OF VALUATION
+
+
+        typically have yields closer to the risk-free rate. Conversely, lower-rated bonds (higher default
+        risk) have higher yields to compensate investors for the additional risk they are taking.
+
+(b)    Quantifying Default Risk: While credit ratings offer a general indication of creditworthiness,
+a more nuanced assessment of default risk  is crucial for accurate valuation. Here are some
+quantitative tools:
+
+i     Default Probability Models: Statistical models analyse historical data to estimate the
+       probability of default for an issuer with specific characteristics. These models can be complex,
+       incorporating factors like financial ratios, industry trends, and economic conditions.
+
+i    Spread Analysis: Comparing the yield spread (difference between a bond's yield and the
+        risk-free rate) to historical spreads of similar-rated bonds can provide insights into the
+       market's perception of the issuer's credit risk.
+
+(c)    Qualitative Factors Influencing Valuation: Beyond quantitative measures,  qualitative
+factors can also influence the valuation of fixed income securities. These factors are subjective and
+require careful judgement:
+
+i    Management Quality: The competence and experience of the issuer's management team
+      can impact the likelihood of successful financial performance and timely debt repayment.
+
+i    Legal Covenants: Bond indentures may contain covenants restricting the issuer's financial
+        activities  (e.g.,  limitations on debt  levels). These covenants  offer some protection  to
+      bondholders but may also limit the issuer's flexibility.
+
+i    Market Liquidity: The ease with which a bond can be bought or sold in the secondary market
+      can affect its valuation. Less liquid bonds may be subject to wider bid-ask spreads, making
+      them less attractive to investors.
+
+(d)    Integrating Quantitative and Qualitative Factors: The final stage in a complex valuation
+process involves integrating both quantitative and qualitative factors:
+
+i    Discount Cash Flow (DCF) Analysis: A modified DCF approach can incorporate credit risk
+      by adjusting cash flows for the probability of default.
+
+i    Market-Based Valuation: Comparing the bond's yield to the yields of similar bonds can
+       provide a market-driven valuation benchmark, reflecting the collective assessment of credit
+        risk by investors.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+1.266.26           VALUATION
+
+
+Conclusion:
+
+By incorporating credit risk analysis, quantitative default risk measures, and qualitative factors,
+investors can achieve a more comprehensive understanding of a fixed income security's value. This
+nuanced approach enables informed investment decisions that balance potential returns with the
+inherent risks associated with fixed income investments.
+
+Example: Quantifying Default Risk and Valuing a Corporate Bond
+
+Scenario:
+
+i   A 5-year corporate bond issued by Company X has a par value of $1,000, a coupon rate of
+    6% (paid semi-annually), and is currently priced at $950.
+
+i    The risk-free rate is 4%.
+
+i    Company X has a credit rating of BBB, and a default probability model estimates a 2% chance
+       of default over the next year.
+
+Quantifying Default Risk:
+
+(i)    Expected Cash Flows (ECL): Ignoring the default risk for now, the expected cash flows from
+       the bond would be the semi-annual coupon payments ($30) for 10 periods (5 years x 2 semi-
+      annual payments per year) and the final principal repayment of $1,000 at maturity.
+
+(ii)    Default-Adjusted Cash Flows: To account for default risk, we need to adjust the expected
+      cash flows by the probability of default. This involves multiplying each cash flow by (1 - default
+        probability).
+
+   ¾    Adjusted semi-annual coupon payment: $30 x (1 - 0.02) = $29.40
+
+   ¾    Adjusted final principal repayment: $1,000 x (1 - 0.02) = $980
+
+Expected Credit Loss Model and Fixed Income Securities
+
+1.    Probability-Weighted Cash Flows: The ECL model estimates the probability of default (PD)
+for each borrower or issuer of a fixed income security over different time horizons. This information
+can be used to:
+
+i    Adjust expected cash flows: Each cash flow from the security (coupon payments and
+       principal repayment) is weighted by its corresponding PD to reflect the likelihood of receiving
+       the full amount.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+6.27              OTHER APPLICATIONS OF VALUATION
+
+
+i    Calculate expected loss provision: The sum of the present value of these weighted cash
+       flow shortfalls represents the expected loss provision, which reflects the anticipated credit
+       losses associated with the security portfolio.
+
+2.    Impact on Valuation: The expected loss provision calculated using the ECL model can be
+incorporated into the valuation of fixed income securities in several ways:
+
+i    Discount Rate Adjustment: The expected loss provision can be added to the risk-free rate
+       to create an adjusted discount rate. This adjusted rate is then used to discount the expected
+      (unweighted) cash flows to their present value, resulting in a lower valuation compared to
+        traditional methods that don't consider credit losses.
+
+i    Market-Based Approach: The expected loss provision can be compared to the market yield
+      spread (difference between the bond's yield and the risk-free rate) of similar securities. This
+      comparison can help assess the fairness of the market valuation and identify potential
+       discrepancies.
+
+3.     Limitations: While the ECL model offers valuable insights, it's important to acknowledge its
+limitations:
+
+i    Model dependency: The accuracy of the valuation heavily relies on the accuracy of the
+       underlying PD estimates and the chosen model assumptions.
+
+i    Forward-looking nature: The estimated losses are projections based on historical data and
+       current economic conditions, and they may not always reflect future reality.
+
+Perspective of Issuer vs. Investor
+
+While the ultimate goal of valuation is to arrive at a fair market price, the perspectives of the issuer
+and the investor can differ slightly when considering key elements in the valuation process.
+
+From the Issuer's Perspective:
+
+i    Cost of Capital: Issuers are primarily concerned with the cost of capital, which represents
+       the minimum return they need to offer investors to raise funds. Issuers aim for a valuation
+       that reflects a fair return on their investment while being competitive in the market to attract
+       investors.
+
+i    Creditworthiness: Maintaining a strong credit rating is crucial for issuers as  it directly
+      impacts the cost of borrowing. A higher credit rating translates to a lower yield, making the
+       security more attractive to investors and lowering the financing costs for the issuer.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+1.286.28           VALUATION
+
+
+i    Market Conditions: Issuers need to be mindful of prevailing market interest rates and
+       investor risk appetite. They may adjust their pricing strategies based on these factors to
+      ensure the issued securities are appealing to potential investors.
+
+From the Investor's Perspective:
+
+i    Risk-Return Trade-off: Investors prioritize balancing potential returns with the associated
+        risks. They use valuation techniques to assess the expected yield of the security and weigh
+            it against the credit risk associated with the issuer.
+
+i     Liquidity: Investors also consider the liquidity of the security, meaning how easily it can be
+      bought or sold in the market. Less liquid securities may offer higher potential returns to
+      compensate for the difficulty in selling them when needed.
+
+i    Investment Objectives: Investors have diverse investment goals and risk tolerances.
+
+i     Valuation helps them identify securities that align with their specific needs, whether seeking
+      high current income, capital appreciation, or diversification within their portfolio.
+
+Convergence and Shared Interests:
+
+While the perspectives might differ slightly, both issuers and investors have a shared interest in a
+fair and efficient market. Issuers need to offer securities that are attractive to investors, while
+investors seek securities that provide a good return relative to the risk involved. Accurate valuation
+plays a vital role in achieving this balance and facilitating healthy transactions in the fixed income
+market.
+
+     4.  VALUATION OF INTANGIBLES
+
+Intangible assets are assets that feature on a company's balance sheet, that have a certain monetary
+or business value that is not visible in a physical form. These assets serve as a catalyst for gaining
+a competitive edge through distinctive operational approaches. Intellectual property, such as
+patents, trademarks, and copyrights are some examples of Intangible assets. Businesses can
+acquire access to intangibles by either creating them internally or procuring them from other
+enterprises. This strategic utilization of intangible assets  is pivotal in enhancing a company's
+competitive position and overall business performance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+6.29              OTHER APPLICATIONS OF VALUATION
+
+4.1 Why Valuation of Intangibles is Important?
+
+There can be different reasons to value intangibles, some of them are listed below –
+
+i    Asset Value Determination- Since an intangible asset is a non-physical asset, accurate
+       valuation of non-physical intangible assets is essential for disclosure purposes.
+
+i    Impairment Testing- Impairment testing involves comparing the balance sheet's carrying
+      amount of an asset with its recoverable amount.
+
+i    Regulatory Purposes- Determining the correct value for intangible assets is crucial for
+       taxation, transfer pricing, and mergers and acquisitions.
+
+i    Access to Finance- Recognizing and valuing intangible assets increases a company's
+      chances of successfully securing financing.
+
+i    Gaining competitive edge- Intensified investment in intangibles can boost total factor
+       productivity, contributing to long-term economic growth.
+
+i    Improving Accuracy and Reliability of Financial Communication- Enhancing accuracy
+      and reliability in communicating financial information to stakeholders is paramount.
+
+4.2  Types of Valuation Methodologies-
+
+1.     Relief from Royalty Method (RRM)-
+
+      Concept: The RRM calculates value based on the hypothetical royalty payments that would
+      be saved by owning the asset rather than licensing  it. The rationale behind the RRM is
+        intuitive: Owning an intangible asset means the underlying entity doesn’t have to pay for the
+       privilege of deploying that asset.
+
+       Calculation: The valuation is calculated by determining the royalty rate that would be paid if
+       the owner did not own the asset. This rate is then used to calculate the present value of the
+      revenue generated from the asset spread through its useful life, which becomes the value of
+       the asset. The RRM contains assumptions from both the market approach and income
+      approach.
+
+      Real Life Use Case: The RRM is often used to value domain names, trademarks, licensed
+      computer software, and in-progress R&D that can be tied to a specific revenue stream and
+      where data on royalty and license fees from other market transactions are available.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+1.306.30           VALUATION
+
+
+      Example: Valuation of a Trademark
+
+       Let's assume we're valuing the brand of a hypothetical company, "Gadget Mania," which
+       specializes in high-end electronic accessories. After analysing historical data, market trends,
+      and discussions with management, projected brand revenues over the next 5 years are
+      estimated as follows (all figures in ` ‘000s):
+
+      2024: 120,000
+
+      2025: 130,000
+
+      2026: 140,000
+
+      2027: 150,000
+
+      2028: 160,000
+
+       After  thorough  market  analysis,  comparison  with  similar  licensing  agreements, and
+       considering  factors such as  industry,  product  exclusivity, and brand  positioning, an
+       appropriate royalty rate for Gadget Mania is determined to be 3%. Gadget Mania incurs brand
+      promotion and marketing expenses amounting to 1% of its revenues. The corporate tax rate
+        is 30%. We calculate the royalty savings, reduce them by marketing expenses, and then
+       adjust for tax to find the net royalty savings post-tax. After considering the weighted average
+       cost of capital (WACC) and adjusting for the specific risk associated with the brand, the
+       discount rate is determined to be 10%. The expected remaining useful life of trademark is of
+      5 years.
+
+           It is to be noted that in many cases, marketing expense is not to be borne by the licensee,
+      unless it is franchisee specific expenditure.
+
+      Calculation:
+
+    We  first calculate the present value of the net royalty savings post-tax over the 5-year
+       projection period and add the tax amortization benefit (TAB) to arrive at the brand's value.
+
+      Projected Revenues and Royalty Savings:
+
+         Year    Revenue    Royalty    Marketing      Net      Tax @      Net
+                    (` ‘000s)  @ 3% (`   Expenses    Royalty    30% (`     Royalty
+                                  ‘000s)      (` ‘000s)                  ‘000s)    Post-Tax                                                      Pre-Tax
+                                                                                    (` ‘000s)                                                           (` ‘000s)
+
+        2024     120,000      3,600       1,200       2,400       720       1,680
+
+        2025     130,000      3,900       1,300       2,600       780       1,820
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+6.31              OTHER APPLICATIONS OF VALUATION
+
+
+        2026     140,000      4,200       1,400       2,800       840       1,960
+
+        2027     150,000      4,500       1,500       3,000       900       2,100
+
+        2028     160,000      4,800       1,600       3,200       960       2,240
+
+      Discounting Net Royalty Savings Post-Tax: Using a discount rate of 10%, we calculate the
+      present value of each year's net royalty savings post-tax.
+
+      Present Value Calculation: For simplicity, let's approximate using a direct 10% discount per
+      year compounding for mid-year adjustments: (` ‘000s)
+
+     PV 2024: 1,680 / (1 + 0.1)^0.5 = 1,601.82
+
+     PV 2025: 1,820 / (1 + 0.1)^1.5 = 1,577.55
+
+     PV 2026: 1,960 / (1 + 0.1)^2.5 = 1,544.45
+
+     PV 2027: 2,100 / (1 + 0.1)^3.5 = 1,504.34
+
+     PV 2028: 2,240 / (1 + 0.1)^4.5 = 1,458.75
+
+    Sum of Present Values: 7,686.90 (` ‘000s) (Sum of PVs from 2024 to 2028)
+
+      Tax Amortization Benefit (TAB):
+
+    We make the following table for calculating the present value of Tax Amortization Benefit.
+
+          Year        Amortization      Tax Savings     PV Factor     PV of Tax
+                 Expense (` ‘000s)    (Amortization                     Savings
+                          (7686.90/5)      Expense * Tax                                                                                 (` ‘000s)
+                                         Rate) (` ‘000s)
+
+       1                1537.38            461.21            0.91           419.29
+
+       2                1537.38            461.21            0.83           381.17
+
+       3                1537.38            461.21            0.75           346.52
+
+       4                1537.38            461.21            0.68           315.02
+
+       5                1537.38            461.21            0.62           286.38
+
+        Total TAB                                                              1,748.36
+
+      Calculation Formula:
+
+       TAB =    (Amortization Expense * Tax Rate * [1 - (1 + Discount Rate) ^(-Useful Life)])  /
+                   Discount Rate
+
+        =        (1,000*30%*[1-(1+10%) ^(-5)])/10% = 1748.36
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+1.326.32           VALUATION
+
+
+      Where:
+
+       Amortization Expense: Annual expense recognized for the intangible asset on the income
+       statement.
+
+      Tax Rate: Applicable corporate income tax rate.
+
+      Discount Rate: Cost of capital used to discount future cash flows to their present value.
+
+      Useful Life: Estimated period over which the intangible asset provides economic benefits.
+
+      Rationale for Including TAB in Valuation:
+
+      Tax Shield Effect: Amortization expenses reduce taxable income, leading to lower tax
+      payments. TAB captures the present value of these tax savings.
+
+     Enhanced Cash Flow: The tax shield generated by amortization increases the net cash flow
+       available to the company, making the intangible asset more valuable.
+
+      Market Recognition: Investors often consider TAB when valuing companies with significant
+       intangible assets, reflecting its impact on their cash flow potential.
+
+     By incorporating the TAB into the valuation, we obtain a more accurate representation of the
+       intangible asset's economic value for the company, reflecting both  its direct cash flow
+      generation and its tax-saving benefits.
+
+     Concluded Brand Value (RS. 000s):
+
+     Sum of Present Values: 7,686.90
+
+      Add: TAB: 1,748.36
+
+      Total Brand Value: ~9,435
+
+2.     Multi-period Excess Earnings Method (MPEEM)-
+
+      Concept: MPEEM estimates the value of an intangible asset by calculating the present value
+       of the excess earnings generated by the asset over multiple periods. Excess earnings refer
+       to earnings that exceed what would be considered a normal or expected return on tangible
+       assets. It is a variation of discounted cash-flow analysis which is applied to a single isolated
+      asset which is the primary driver of a business.
+
+       Calculation: The method  entails projecting  financial metrics, including cash flows and
+      expenses, for the entire entity. The cash flows linked to the intangible asset are isolated by
+      deducting a contributory asset charge (CAC), a form of economic rent. Subsequently, these
+      cash flows are discounted to their present value.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+6.33              OTHER APPLICATIONS OF VALUATION
+
+
+      Real Life Use Case: Early-stage enterprises and technology firms are prime candidates of
+        this approach. It is also useful in the case of valuing customer relationships.
+
+3.    With and Without Method-
+
+      Concept: This method compares the financial performance of a business with the intangible
+      asset ("with") and without the intangible asset ("without"). The difference in performance
+      represents the contribution of the intangible to the overall value.
+
+       Calculation: The valuation involves assessing the financial metrics of the business with the
+       intangible in place and subtracting the metrics of the business without the intangible. The
+       resulting differential is then assigned a present value.
+
+     Use Case: The With and Without Method is commonly used for valuing intangibles such as
+       trade names, non-compete agreements, and proprietary technology.
+
+4.    Option Pricing Method (OPM)-
+
+      Concept: OPM values an intangible asset by treating it as a call option. It reflects the flexibility
+       to exploit future opportunities associated with the intangible.
+
+       Calculation: The method involves estimating the volatility of cash flows associated with the
+       intangible, determining the expected life of the option, and applying an option pricing model
+      (such as the Black-Scholes model) to calculate the present value of the intangible.
+
+     Use Case: OPM  is often applied to value real options embedded in intangible assets,
+        particularly in industries with high uncertainty and strategic flexibility. Overall, while there is
+      judgment involved in the application of option pricing models to intangible assets, there is
+       also a significant amount of guidance and industry practice that has developed over time and
+       that the analyst can refer to for implementation.
+
+5.    Replacement Cost with Obsolescence Method-
+
+      Concept: This method values an intangible asset by estimating the cost of creating or
+       acquiring a substitute asset with equivalent functionality, adjusted for any obsolescence or
+       technological advancements.
+
+       Calculation: The valuation involves assessing the cost of replicating the intangible, factoring
+        in any advancements in technology or market conditions that may render the existing asset
+       obsolete. The adjusted cost represents the replacement cost with obsolescence.
+
+     Use Case: This method is particularly relevant for valuing technology-related intangibles,
+      where rapid advancements may impact the value of existing assets.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+1.346.34           VALUATION
+
+
+6.    Obsolescence Factor in Replacement Cost Method:
+
+     The Replacement Cost Method (RCM) estimates the value of an asset by considering the
+       cost to replace  it with a modern equivalent. However, complete replacement might not be
+       ideal due to:
+
+       1.    Functional Obsolescence: The original asset's functionality may be outdated or less
+                efficient compared to modern alternatives.
+
+       2.    Economic Obsolescence: External factors like changes in market conditions or
+              technological advancements might render the original asset less valuable.
+
+       Therefore, we need to factor in obsolescence to adjust the replacement cost and reflect the
+       actual value of the asset.
+
+     The Mathematical Formula:
+
+        Obsolescence Factor (OF) =  1 - (Depreciated Replacement Cost - Current Market Value
+                                              of Asset) / Replacement Cost (New)
+      Where:
+
+   ¾    Depreciated Replacement Cost  is  the replacement  cost  adjusted  for  physical
+             depreciation using an appropriate method (e.g., straight-line depreciation).
+
+   ¾    Current Market Value of Asset is the fair market value of the asset in its current
+              condition, considering any functional or economic obsolescence.
+
+   ¾    Replacement Cost (New) is the cost to acquire a new, identical asset at current market
+              prices.
+
+       This formula calculates the proportion of value lost due to obsolescence.
+
+      Example:
+
+     Suppose a company has created a software for ` 50 lacs. The current software was estimated
+       to have a useful life of 5 years. We are at the end of year 2. With rapid technology advances,
+      a newer, more efficient software can now be developed for ` 25 lacs. The current market
+      value of a similar software is ` 20 lacs
+
+     To calculate the obsolescence factor, we first calculate all its components.
+
+      Depreciated Replacement Cost = 50,00,000 – (50,00,000 / 5 * 2) = 30,00,000
+
+      Current Market Value of similar software = 20,00,000
+
+      Replacement Cost (new) = 25,00,000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+6.35              OTHER APPLICATIONS OF VALUATION
+
+
+      Obsolescence Factor = 1 – (30,00,000 - 20,00,000) / 25,00,000 = 1 – 0.40 = 0.60
+
+      Rationale for Obsolescence Factor:
+
+   ¾    Adjusting Replacement Cost: The RCM can overestimate the asset's value if it solely
+               relies on replacement cost without considering obsolescence.
+
+   ¾    Reflecting Market Reality: The obsolescence factor incorporates the impact of
+              functional and economic changes on the asset's current market value.
+
+   ¾    Decision-making  Tool: A  quantified  obsolescence  factor  allows  for  informed
+             decisions regarding asset replacement, depreciation, and investment strategies.
+
+       Qualitative Framework for Quantifying Obsolescence:
+
+      While the formula provides a quantitative measure,  it's crucial to supplement  it with a
+       qualitative assessment of obsolescence. A rough framework for quantifying obsolescence
+      can be as follows:
+
+      Functional Obsolescence:
+
+      Assess the extent  to which the asset's functionality  is outdated compared  to modern
+       alternatives (eg. With the emergence of tools like ChatGPT, consideration of functional
+      obsolescence has become highly relevant and crucial).
+
+      Consider factors like technological advancements, changes in user needs, and efficiency
+      improvements in newer models.
+
+      Assign a percentage value (typically 0-50%) reflecting the degree of functional obsolescence.
+
+     Economic Obsolescence:
+
+      Evaluate the impact of external factors like market shifts, regulatory changes, or economic
+      downturns on the asset's value. Consider changes  in demand  for the asset's output,
+       competition, and potential alternative uses.
+
+      Assign a percentage value (typically 0-30%) depicting the level of economic obsolescence.
+
+      Combining  the  quantitative  formula  with a  qualitative assessment  provides a more
+      comprehensive and  realistic  valuation  of  the asset by accounting  for both  physical
+       depreciation and obsolescence.
+
+       After considering the obsolescence factor, the fair value of the software can be calculated by
+       multiplying the Replacement Cost (new) by the Obsolescence Factor:
+
+       Fair Value of Software = Replacement Cost (new) x Obsolescence Factor
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+1.366.36           VALUATION
+
+
+       Fair Value of Software = ` 25,00,000 x 0.60 (as arrived in the above example) = ` 15,00,000
+
+      So, the fair value of the software, after considering the obsolescence factor, is ` 15,00,000.
+
+      Example:
+
+      Continuing with the above example for proprietary software, the company decides to use a
+       qualitative framework in conjunction with the above calculated Obsolescence Factor (OF) as
+       follows:
+
+        Qualitative Factors                                                   0-10%
+
+        Technological advancements                                        10%
+
+       Change in user needs                                          5%
+
+         Efficiency in newer models                                         10%
+
+       Market shifts                                               5%
+
+        Regulatory changes                                              10%
+
+       Economic downturns                                          5%
+
+        Competition                                                   10%
+
+       Change in demand for asset's output                                 5%
+
+        Total Qualitative Markup to OF                                     60%
+
+       In the above example, the degree of obsolescence has been defined as follows:
+
+           0%      No impact
+
+           5%       Medium impact
+
+            10%      High impact
+
+     Remember: This  is a general framework, and specific circumstances and professional
+      judgment are crucial in determining the most appropriate approach for each individual case.
+
+Conclusion
+
+Each of these methods offers a unique perspective on valuing intangible assets, catering to the
+specific characteristics and circumstances surrounding the asset in question. The choice of method
+often depends on the nature of the intangible, the availability of data, and the strategic context within
+which the valuation is conducted. In an era where intangibles increasingly dictate corporate success,
+unravelling  their worth demands a blend  of  financial acumen, strategic  insight, and a keen
+understanding of the human factor.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+6.37              OTHER APPLICATIONS OF VALUATION
+
+
+WACC WARA RECONCILIATION
+
+Understanding the Weighted Average Cost of Capital i.e. WACC
+
+To understand WACC we first need to understand the cost of capital. The cost of capital indicates
+how much a company needs to pay to finance its operations.  It can be viewed as the minimum
+amount the company has to earn to avoid defaulting on loans and handle its current debt and equity
+responsibilities. The cost of capital depends on the capital structure of a company.
+
+When a company uses both debt and equity to fund operations, that funding mix is called the
+company’s capital structure. The weighted average cost of capital looks at a company’s capital
+structure and compares equity and debt to their respective proportions of the capital structure. The
+debt portion typically involves the company’s interest rates and loan payments, while equity may
+involve dividend payments to investors.
+
+ WACC =              [(Equity/Total Capital) x Cost of Equity]
+                   +
+                       [(Debt/Total Capital) x (After-Tax  Cost of debt)]
+
+OR
+
+WACC = (E/V* Ke) + (D/V* Kd(1-t))
+
+Where
+
+i   E = Market value of the business’s equity
+
+i   V = Total value of capital (equity + debt)
+
+i    Ke = Cost of equity
+
+i   D = Market value of the business’s debt
+
+i    Kd = Cost of debt
+
+i    T = Tax rate
+
+Calculating Cost of Equity i.e. Ke
+
+Cost of equity is the return that an investor requires for investing in a company, or the required rate
+of return that a company must receive on an investment or project. There are two ways to calculate
+cost of equity: using the dividend capitalization model or the capital asset pricing model (CAPM).
+Neither method is completely accurate because the return on investment is a calculation based on
+predictions about the stock market.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+1.386.38           VALUATION
+
+
+&DSLWDO DVVHW SULFLQJ PRGHO &$30  ( 5L   5I   ȖL ( 5P – Rf)
+
+E(Ri)= Expected return on investment
+
+Rf= Risk free rate of return= The interest rate of an investment with zero risk- like govt bonds
+
+ȖL= Beta risk= the volatility of investment compared to general market
+
+(E(Rm) – Rf) = Market Risk= the overall risk of investing in stock market, or the expected return on
+investment in stock market minus risk free rate
+
+Dividend capitalization model:
+
+Re = (D1 / P0) + g
+
+Re = Cost of equity
+
+D1 = Yearly dividend per share= the current price of one share in a company’s stock
+
+G = dividend growth rate= the rate at which company dividends have historically grown
+
+Understanding the Weighted Average Return on Assets i.e. WARA
+
+The weighted average return on assets, or WARA, is the collective rates of return on the various
+types of tangible and intangible assets of a company. The presumption of a WARA is that each class
+of a company's asset base (such as property, plant and equipment, contracts, software, brand
+names, etc.) carries its own rate of return, each unique to the asset's underlying operational risk as
+well as its ability to attain debt and equity.
+
+When performing the WARA calculation, it is important to remember that the asset values used to
+calculate the WARA need to represent normal operating levels required to sustain the value of the
+entity.  In other words,  all non-operating assets and  liabilities are excluded from the WARA
+calculation (both from the individual assets included and from the purchase price used in the
+calculation). For example, a non-operating asset such as excess cash is excluded, and the WARA
+calculation reflects only normal levels of working capital for the entity (based on market participant
+perspectives)
+
+The WARA Formula = [(Asset A/Total Assets)  * Return on Asset A] + [(Asset B/Total
+Assets)*Return on Asset B]+….. [(Asset n/Total Assets) * Return on Asset n]
+
+Total Assets of a company can be classified into the following categories:
+
+1.     Fixed Assets
+
+2.     Current Assets
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+6.39              OTHER APPLICATIONS OF VALUATION
+
+
+3.     Identified intangible assets
+
+4.     Goodwill
+
+Reconciling WACC and WARA
+
+In essence, comparing the Weighted Average Return on Assets (WARA) to the Weighted Average
+Cost of Capital (WACC) serves as a diagnostic tool for valuation specialists. This comparison helps
+in reconciling the rates of return required by capital providers (WACC) with the returns earned by
+various asset classes (WARA). The WARA calculation is crucial for assessing the reasonableness
+of asset-specific returns for identified intangible assets and the implied return on goodwill.  It is
+calculated by adding the required rates of return for normalized working capital, fixed assets, and
+intangible assets, each weighted by its proportionate share of the entity's total value. A significant
+deviation between WARA and WACC may necessitate a reassessment of asset values and assumed
+returns to align with market participant assumptions. A higher WARA compared to WACC  is
+generally viewed as a positive indicator of the company's financial health. It is to be noted that in
+each intangible asset valuation, WACC WARA reconciliation must be provided.
+
+Example – WACC and WARR and its Reconciliation
+
+Aristock is a technology company with the following asset structure and financial metrics:
+
+The Market value of Equity (E) is valued at ` 15 crores. Similarly, the fair value of debt is estimated
+at `  5 crores. The Cost of Equity (Re) for the company is 14% and the cost of debt is 7%. The
+company must pay a corporate tax of 25%. The company assets can broadly be classified into the
+following: Fixed Assets worth `  10 crores, Current Assets worth `  5 crores and Identified
+Intangibles (e.g. Trademark) of ` 5 crores. Bifurcating net income into portions generated by fixed
+assets, current assets, and intangible assets involves a detailed and often complex analysis, as
+direct attribution of net income to specific asset types is not straightforward. For this example, we
+have assumed the following returns generated by the assets –
+
+Return on Fixed Assets: 10%
+
+Return on Current Assets: 8%
+
+Return on Identified Intangible Assets: 18%
+
+The company’s total assets are the sum of its fixed assets, current assets, and identified intangible
+assets totaling ` 20 crores.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+1.406.40           VALUATION
+
+
+Step 1: Calculate WACC
+
+Total Capital      = MV of Debt + MV of Equity
+
+                = 5 crores + 15 crores
+
+                = ` 20 crores.
+
+Weight of Equity   = 15 crores / 20 crores
+
+                = 75%
+
+Weight of Debt     = 5 crores/ 20 crores
+
+                = 25%
+
+WACC           = 75%*14% + 25%*(7%*(1-25%))
+
+                = 11.8125% ~ 11.8%
+
+Step 2: Calculate WARA
+
+The WARA Formula     =   [(Asset A/Total Assets)  * Return on Asset A] + [(Asset B/Total
+                            Assets)*Return on Asset B]+….. [(Asset n/Total Assets) * Return on
+                           Asset n]
+
+                    =   [(10/20)*10% + (5/20)*8% + (5/20)*18%)]
+
+                    =  5.0% + 2.0% + 4.5%
+
+                    = 11.5%
+
+ Sources of Market     Weight  Cost  of  Application of Market   Weight   Cost  of
+ Funds      Value      (%)    Funds   Funds         Value     (%)      Funds
+
+ Equity     15 Crores    75.0%    14.0%  Fixed Assets         10.0    50.0%    10.0%
+
+ Debt       5 crores     25.0%    7.0%*  Current Assets         5.0    25.0%     8.0%
+
+                                                 Intangible             5.0    25.0%    18.0%
+                                           Assets
+                WACC 11.8%                     WARA    11.5%
+
+                     Difference in WACC WARA Reconciliation = 0.3%
+
+After reconciling WACC of 11.8% and WARA of 11.5%, we realize that WACC is more than WARA,
+indicating that the returns generated by Aristock’s assets are not covering the cost of its capital. This
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+6.41              OTHER APPLICATIONS OF VALUATION
+
+
+could signal inefficiencies in asset utilization or potentially overvalued assets. This could have either
+of the following implications-
+
+1.    The assets are overvalued and therefore need to undergo impairment to be appropriately
+       valued.
+
+2.    There are unrecognized intangibles that are to be recognized as per IND AS 38 for the
+      purpose of WARA implication. Please note that the absolute returns and absolute total assets
+       stay the same, only the bifurcation and distribution of returns to respective assets change.
+
+In case of Aristock, it was determined that the assets were overvalued and therefore, were subject
+to impairment. On closer inspection, the company realized that some of its inventory has become
+obsolete, and hence, devalued by ` 1.55 crores. The resultant change gives us the reconciliation of
+WACC and WARA and accounts for the 0.3% initial difference in both. Taking the devaluation into
+account, WACC and WARA become equal as concluded in the table below:
+
+ Sources of Market    Weight  Cost  of  Application  of Market   Weight   Cost  of
+ Funds      Value     (%)     Funds   Funds          Value    (%)      Funds
+
+ Equity     15 Crores   75.0%   14.0%  Fixed Assets         10.0    54.2%    10.0%
+
+ Debt       5 crores    25.0%    7.0%*  Current Assets       3.45    18.7%     8.0%
+
+                                               Intangible             5.0    27.1%    18.0%
+                                          Assets
+
+                 WACC 11.8%                     WARA    11.8%
+
+*as shown above in the WACC calculation section, Cost of Debt is to be taken after-tax.
+
+     5.  VALUATION OF LIABILITIES
+
+The definition of a financial instrument is expansive, encompassing any contract leading to a
+financial asset for one entity and a financial liability or equity instrument for another. This discussion
+delves deeper into the definitions of financial liabilities, exploring the nature and detailed treatment
+of specific liabilities.
+
+As per IND AS 32, Para 11 a Financial Liability can be defined as
+
+Any liability that is:
+
+i   A contractual obligation
+
+   ¾     to deliver cash or another financial asset to another entity;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+1.426.42           VALUATION
+
+
+   ¾     or  to exchange  financial assets or financial  liabilities with another  entity under
+              conditions that are potentially unfavourable to the entity;
+
+i    a contract that will or may be settled in the entity’s own equity instruments under certain
+      circumstances.
+
+The measurement of financial liabilities under the Indian Accounting Standards (IND AS), specifically
+as per IND AS 109  - "Financial Instruments," involves several key principles. While the  initial
+recognition is done at fair value, subsequent measurement of financial liabilities depends on their
+classification, which includes - Amortized Cost, Fair Value through Profit or Loss or Fair Value
+through Other Comprehensive Income.
+
+Amortized Cost: Financial  liabilities that are measured at amortized cost are those held for
+collection of contractual cash flows where the objective is to hold the asset to collect these cash
+flows. Measurement is based on the effective interest rate method, where the carrying amount is
+adjusted for the amortization of any discount or premium and the accrual of interest income.
+
+Fair Value Through Other Comprehensive Income (FVOCI): Certain financial liabilities, primarily
+debt instruments, may be designated as measured at  fair value through other comprehensive
+income. Changes in fair value are recognized in other comprehensive income (OCI), and only
+interest revenue, impairment losses, and foreign exchange gains or losses are recognized in profit
+or loss.
+
+Fair Value Through Profit or Loss (FVTPL): Financial liabilities that are not classified as amortized
+cost or FVOCI are measured at fair value through profit or loss. Changes in fair value are recognized
+in profit or loss, and the instrument is revalued at each reporting date.
+
+Derecognition: A financial liability is derecognized when it is extinguished, i.e., when the obligation
+specified in the contract is discharged, cancelled, or expired.
+
+Non-financial liabilities typically refer to obligations that are not financial instruments and are not
+measured at fair value through profit or loss. While IND AS does not explicitly define "non-financial
+liabilities" as a separate category, liabilities that do not meet the criteria of financial liabilities under
+IND AS 32 may fall into the broader category of non-financial liabilities.
+
+Non-financial liabilities can be thought of as liabilities representing obligations that do not involve
+the transfer of financial assets but rather require some form of non-monetary settlement or
+performance. Provisions, Lease Liabilities, Employee Benefits, Warranties and Product Liabilities,
+Deferred Revenue, Contingent Liabilities are some examples of Non- Financial Liabilities.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+6.43              OTHER APPLICATIONS OF VALUATION
+
+5.1  Let us elaborate further on Provision for Doubtful Debt and why it is
+    a Non-Financial Liability.
+
+Let us first understand the nature of such provisions. The provision for doubtful debts is created by
+businesses to account for the expected loss due to the non-payment of trade receivables.  It
+represents a liability that arises from a past event (sale of goods or services on credit) and gives
+rise to a present obligation (the expectation that some customers may not pay the full amount). The
+creation of a provision for doubtful debts  is often a result of contractual obligations or legal
+requirements. For example, accounting standards (such as IND AS 109 and IND AS 37) require
+entities to recognize expected credit losses and create provisions for doubtful debts.
+
+Since the contractual obligation that is created does not  fit into the scope of the definition of a
+Financial Liability, as there is no payment to be made from the entity’s side and no exchange of
+financial assets or liabilities, it should be thought of as a Non-Financial Liability.
+
+5.2  Similarly, let us look further in Warranties and their treatment as Non-
+     Financial Liabilities
+
+In accounting and financial reporting, the terms "warranty in the nature of guarantee" and "warranty
+in the nature of assurance" refer to different types of warranty obligations, and their treatment is
+guided by the principles outlined in the Indian Accounting Standards (IND AS).
+
+Warranty Guarantee: A warranty in guarantee implies that the warranty provided by the entity is
+essentially a form of insurance or guarantee against specified risks or events. In this case, the entity
+may be obligated to compensate the customer or fulfil the warranty commitment in the event of
+certain predefined circumstances, even if those circumstances are beyond the entity's control.
+
+Warranty Assurance: A warranty in assurance, on the other hand, implies that the warranty is more
+of a commitment to stand behind the quality and performance of the product or service. It does not
+necessarily involve a financial guarantee against specific risks but rather assures the customer that
+the product or service will meet certain specified standards or expectations.
+
+If a warranty is a guarantee, the entity might recognize a provision for the expected costs
+associated with  fulfilling the warranty  obligation. The recognition and measurement  of such
+provisions are guided by IND AS 37 - "Provisions, Contingent Liabilities, and Contingent Assets."
+The provision is recognized when there is a present obligation because of a past event (sale of
+goods or services) and it is probable that an outflow of resources embodying economic benefits will
+be required to settle the obligation. If the entity provides a guarantee that involves a financial liability,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+1.446.44           VALUATION
+
+
+the accounting treatment may also be influenced by other relevant IND AS standards, such as IND
+AS 32 - "Financial Instruments: Presentation."
+
+Similarly, according to IND AS 115, if a warranty is considered a distinct service under any contract,
+it represents a separate performance obligation. Otherwise,  it can be a part  of an existing
+performance obligation. This needs to be evaluated and accounted for accordingly.
+
+If the warranty is assurance and does not involve a probable outflow of economic benefits, it may
+not result in the recognition of a provision. However, entities are required to provide adequate
+disclosures in the financial statements regarding the nature and extent of their warranty obligations.
+
+Warranties meet the criteria of non-financial liabilities as they arise from the sale of goods or services
+(a past event), result in a present obligation to customers, and involve a probable outflow of
+economic benefits (resources) to fulfil the warranty obligations. Warranties involve the provision of
+goods, services, or repairs, and they do not represent a direct contractual obligation to deliver cash
+or financial instruments. The primary focus is on meeting the performance obligation associated with
+the warranty terms, which is why warranties are generally considered non-financial liabilities.
+
+Valuing warranty provisions can be approached through various methods, each with its own set of
+assumptions and data requirements. Three common methods are the Historical Warranty Claim Rate
+Method, Predictive Modelling Method, and Adjusted Historical Method.
+
+1.     Historical Warranty Claim Rate Method
+
+       This method relies on historical data to estimate future warranty costs. It's straightforward but
+     assumes that past performance is a reliable indicator of future results. Firstly you gather
+        historical data on past sales and the corresponding warranty claims, including costs
+      associated with parts, labour, and overhead. Then Claim Rate  is to be calculated by
+      determining the warranty claim rate by dividing the total number of warranty claims by the
+        total number of units sold in the same period. Consequently, by dividing the total warranty
+       costs by the total number of claims, the Average Cost per warranty claim is calculated. Finally,
+       the Future Warranty Costs are estimated by multiplying the historical claim rate and the
+      average cost per claim by the number of units sold in the current period. This provides an
+      estimate of the total expected warranty costs for the current sales.
+
+      Example:
+
+     A company sells 10,000 units of a product in a year. From historical data, it knows that 1% of
+         all units sold typically result in a warranty claim, with an average cost of $50 per claim.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+6.45              OTHER APPLICATIONS OF VALUATION
+
+
+      Calculation:
+
+      Estimated Warranty Provision = Units Sold × Claim Rate × Average Cost per Claim
+
+      Estimated Warranty Provision=10,000×0.01×50=$5,000
+
+      So, the company should set aside $5,000 as a warranty provision for the units sold during the
+       year.
+
+2.     Predictive Modelling Method
+
+       Predictive modelling involves using statistical techniques to forecast future warranty claims
+      based on a broader set of variables, potentially offering a more accurate prediction than
+      simple historical rates.
+
+    We begin by choosing qualitative variables such as product features, manufacturing process
+      changes, and external factors (e.g., usage conditions) that are likely to influence warranty
+       claims. Then we collect historical data for both warranty claims and the selected variables.
+     Then by using statistical software to develop a model that predicts warranty claims based on
+       the variables. Common approaches include regression analysis, machine learning models,
+      and time series analysis. After testing and fine tuning the model, we apply the model to current
+      data on the variables to estimate future warranty claims and associated costs.
+
+      Example:
+
+     A company wants to forecast warranty claims based on multiple factors, including product
+      complexity and manufacturing location.  It has historical data for 5,000 units, including 50
+      warranty claims. The data includes the complexity score (on a scale from 1 to 10) and whether
+       the product was manufactured domestically (1) or internationally (0).
+
+      Variables: Product Complexity, Manufacturing Location
+
+     Outcome: Warranty Claim Cost
+
+       After running a regression  analysis, the company  finds  that product complexity and
+       international manufacturing are significant predictors of warranty cost. The model predicts
+       that for each unit increase in complexity, warranty cost increases by $10, and products
+      manufactured internationally have, on average, $20 higher warranty costs than domestically
+      manufactured ones.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+1.466.46           VALUATION
+
+
+      Calculation:
+
+     The company plans to  sell a new product with an average complexity score of 5,  all
+      manufactured domestically. The model estimates the average warranty cost per unit as
+       follows (simplified for example purposes):
+
+      Estimated Cost per Unit= (5×10) +(0×20) +Base Cost
+
+      Assuming a base cost of $30 (from historical data), the estimated cost per unit is $80.
+
+           If the company sells 10,000 units, and using a historical claim rate of 1%, the provision is
+       calculated as:
+
+      Estimated Warranty Provision=10,000×0.01×80=$8,000
+
+3.    Adjusted Historical Method
+
+     The Adjusted Historical Method modifies historical data to account for known changes or
+       trends that might affect future warranty claims, making  it more nuanced than the simple
+        historical method.
+
+       Similar to the Historical Warranty Claim Rate Method, we start by analysing past sales and
+      warranty claim data. Further, we look for factors that could influence future warranty costs
+        differently than in the past. This could include changes in product design, manufacturing
+      processes, or quality control measures. Then we modify the historical claim rates or costs
+      based on the identified changes. For example, if a new quality control process is expected to
+      reduce warranty claims by 10%, adjust the historical claim rate accordingly. Finally, we apply
+       the adjusted claim rates or costs to the current period's sales to estimate the warranty
+       provision.
+
+      Example:
+
+     A company has historically seen a 2% warranty claim rate with an average cost of $100 per
+       claim. However, after improving their manufacturing process, they expect the claim rate to
+      decrease by 25%.
+
+      Calculation:
+
+        First, adjust the historical claim rate to reflect the expected improvement:
+
+      $GMXVWHG &ODLP 5DWH     î  í
+
+      Then, calculate the estimated warranty provision:
+
+      Estimated Warranty Provision = 10,000×0.015×100=$15,000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+6.47              OTHER APPLICATIONS OF VALUATION
+
+
+      So, considering the manufacturing improvements, the company should set aside $15,000 for
+      warranty provisions, reflecting the adjusted expectation of fewer claims due to the quality
+      improvements.
+
+Selecting a Method
+
+The choice among these methods depends on the availability and quality of data, the complexity of
+the products, and the company's capacity to perform sophisticated analyses. The Historical Warranty
+Claim Rate Method is the simplest and may be sufficient for products with stable quality and usage
+patterns. Predictive Modelling is more complex but can provide more accurate estimates for products
+with variable or changing factors. The Adjusted Historical Method offers a middle ground, allowing
+for adjustments to historical data without the need for complex statistical models.
+
+IND AS 37 does not prescribe a specific method to calculate warranty provisions, however, advises
+to use sufficient judgement and assumptions for calculation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+1.486.48           VALUATION
+
+
+               TEST YOUR KNOWLEDGE
+
+
+Multiple Choice Questions
+
+1.    What is the primary objective of inventory valuation?
+
+        (a)   To maximize profits
+
+        (b)   To determine fair value for financial reporting
+
+        (c)   To minimize storage costs
+
+        (d)   To simplify the inventory counting process
+
+2.    Which method of inventory valuation assumes that the items purchased or produced first are
+       sold first?
+
+       (a)   Weighted Average Cost (WAC)
+
+       (b)    Specific Identification
+
+        (c)     First-In, First-Out (FIFO)
+
+       (d)    Last -in, First-Out (LIFO)
+
+3.   Why is the use of Last-In, First-Out (LIFO) prohibited under IND AS 2?
+
+       (a)       It reflects economic reality accurately
+
+       (b)       It may result in mismatching costs with revenues
+
+        (c)       It ensures consistent financial reporting in all environments
+
+        (d)       It allows for greater tax advantages in all jurisdictions
+
+4.    What does the Income Approach in valuation primarily consider?
+
+        (a)    Market transactions involving identical assets
+
+        (b)    Determining the present value of projected cashflows using a discount factor
+
+        (c)    Replacement cost of an asset
+
+        (d)   The original purchase price of the asset
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+6.49              OTHER APPLICATIONS OF VALUATION
+
+
+5.    Which factor is NOT considered in the Discounted Cash Flow (DCF) Method under the Income
+      Approach?
+
+        (a)    Terminal value
+
+        (b)    Reproduction cost
+
+        (c)    Discount rates
+
+        (d)    Historical cash flows
+
+6.     In the Cost Approach, what does the Reproduction Cost Method involve?
+
+        (a)    Valuing an asset based on its historical cost
+
+        (b)    Valuing an asset based on the cost to recreate a similar asset
+
+        (c)    Valuing an asset based on its market price
+
+       (d)    Valuing an asset based on its projected future value
+
+7.     Considering the inverse relationship between bond pries and interest rates, what happens to
+       te market value of a ixed-rate bond when interest rates increase?
+
+       (a)   The market value remains unchanged
+
+       (b)   The market value increases
+
+        (c)   The market value decreases
+
+       (d)   The market value increases due to Increased investor demand for fixed-income
+              securities in a rising rate environment.
+
+8.     In the context of fixed-income securities, what is the significance of the duration measure?
+
+       (a)       It indicates the total number of years until the bond’s maturity
+
+       (b)       It represents the bond’s sensitivity to changes in interest rates, measured in years
+
+        (c)       It measures the bond’s annual interest payment
+
+       (d)       It calculates the total interest earned over the bond’s lifetime, adjusted for inflation.
+
+9.    What is the primary risk associated with investing in high-yield (junk) bonds?
+
+       (a)    Interest rate risk
+
+       (b)    Credit (default) risk
+
+        (c)     Inflation risk
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+1.506.50           VALUATION
+
+
+        (d)    Market liquidity risk due to lower trading volumes compared to investment-grade
+            bonds.
+
+10.   Which method of intangible asset valuation calculates the present value of excess earnings
+      over multiple periods?
+
+        (a)    Relief from Royalty Method (RRM)
+
+        (b)    Multi-period Excess Earnings Method (MPEEM)
+
+        (c)    With and Without Method
+
+        (d)    Cost Approach Method
+
+11.   When reconciling the Weighted Average Return on Assets (WARA) with the Weighted
+      Average Cost of Capital (WACC), what does a higher WARA compared to WACC suggest
+      about a company's financial health?
+
+        (a)   The company is overleveraged
+
+        (b)   The company is undervalued
+
+        (c)   The company is generating healthy returns on its assets
+
+        (d)   The company has a low risk of default
+
+12.   Why is it important to exclude non-operating assets and liabilities when calculating WARA?
+
+       (a)   To inflate the return on assets
+
+       (b)   To reflect only normal operating levels required to sustain entity value
+
+        (c)   To include non-recurring expenses in the calculation
+
+       (d)   To simplify the financial analysis for stakeholders.
+
+13.   How are financial liabilities classified under IND AS 109 for subsequent measurement?
+
+       (a)    Fair Value through Profit or Loss (FVTPL), Fair Value Through Other Comprehensive
+           Income (FVOCI), Amortized Cost
+
+       (b)    Amortized Cost, Market Value, Fair Value through Equity
+
+        (c)    Fair Value through Profit or Loss (FVTPL), Discounted Cash Flow (DCF), Cost
+            Approach
+
+       (d)    Amortized Cost, Fair Value through Profit or Loss (FVTPL), Cost Approach.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+6.51              OTHER APPLICATIONS OF VALUATION
+
+
+14.   Why is the provision for doubtful debts considered a Non-Financial Liability?
+
+        (a)       It involves the transfer of financial assets
+
+        (b)       It results in a present obligation with a probable outflow of economic benefits
+
+        (c)       It falls under the scope of Financial Liabilities under IND AS 109
+
+        (d)       It represents a contingent liability with uncertain timing and amount.
+
+15.   How does IND AS 115 influence the accounting treatment of warranties?
+
+        (a)    Warranties are not considered distinct services under any contract
+
+        (b)    Warranties are treated as Financial Liabilities
+
+        (c)    Warranties can be recognized as separate performance obligations or part of existing
+              obligations
+
+        (d)    Warranties are recorded as intangible assets on the balance sheet.
+
+Theoretical Questions
+
+1.     Explain the Concept Cost or Realizable Value, whichever is lower with the help of an example.
+
+2.      Briefly discuss the various methods of Equity Valuation along with an example.
+
+3.      Briefly discuss the various complexities in the Comprehensive Valuation Approach of Fixed
+      Income Instruments.
+
+4.     Explain the various valuation methodologies used in Intangibles.
+
+5.     Elaborate the Predictive Valuation Method in Valuation of Liabilities with the help of an
+      example.
+
+ANSWERS/SOLUTIONS
+
+Answer to Multiple Choice Questions
+
+     1.        (b)        2.        (c)        3.        (b)       4        (b)       5       (b)
+
+     6.         (b)        7.         (c)        8.        (b)        9.        (b)       10.      (b)
+
+    11.         (c)       12.        (b)       13.        (a)       14.        (b)       15.       (c)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+1.526.52           VALUATION
+
+Answers to Theoretical Questions
+
+1.    Please refer to Paragraph 1.1.1
+
+2.    Please refer to Paragraph 2.1
+
+3.    Please refer to Paragraph 3.4
+
+4.    Please refer to Paragraph 4.2
+
+5.     Please refer to Paragraph 5
+
+
+© The Institute of Chartered Accountants of India

@@ -1,0 +1,1100 @@
+Source PDF: 07_SPOM/Set_D_03_Entrepreneurship_Startup_Ecosystem/007 - Chapter-7- Legal Considerations for a Startup - 79437bis63474-cp7.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_03_Entrepreneurship_Startup_Ecosystem\007 - Chapter-7- Legal Considerations for a Startup - 79437bis63474-cp7.pdf
+Extracted at: 2026-05-31T10:36:16+05:30
+Pages: 28
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          7
+         1
+LEGAL CONSIDERATIONS
+FOR A STARTUP
+
+
+                      LEARNING OUTCOMES
+By the end of this chapter, students will be able to:
+   Learning about Entity Types and how to choose an ideal entity type with
+    an overview of registration process.
+   Understanding the intricacies of Startup Equity Split among co-founders
+    and how does Equity Vesting works.
+  The new age needs of ESOP Planning and reading about some best
+     practices by Global and Indian Startups
+   Learning How to Draft a Co-founder Agreement.
+   Understanding Intellectual Property Rights (IPRs) available to Startups
+      (Patent, Copyright and Trademark)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+7.2          ENTREPRENEURSHIP & START-UP ECOSYSTEM
+
+ CHAPTER OVERVIEW
+
+                                 How to Select the Best
+                                                 Suited Entity Type
+                   Entity Types Available
+                                             Factors to Consider while
+                                             Opting an Entity Form
+
+
+a
+                                        The Basics of Splitfor
+                      Equity Split
+                                           Science of Equity Vesting
+      Startup                                     Importance of ESOP
+                                                    Planning Considerations             ESOP Planning
+                                                Best PracticesLegal
+              Co-Founder Agreement
+                                                Patents, Copyrights and
+                                              Trademarks
+                 Intellectual Property Rights
+                                                Registering a Patent in
+                                                            India
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+LEGAL CONSIDERATIONS FOR A STARTUP              7.3
+
+
+Startups, characterized by innovation, agility, and rapid growth, often operate in dynamic and
+competitive environments where success can hinge on various factors, including legal compliance.
+Maintaining legal compliance is crucial for startups for several compelling reasons.
+Adhering to legal requirements helps startups build credibility and trust with stakeholders. Whether
+it's investors, customers, or partners, demonstrating a commitment to compliance signals reliability
+and professionalism, enhancing the startup's reputation and attractiveness to potential collaborators
+and investors.
+Further, legal compliance mitigates the risk of costly fines, penalties, or legal disputes. Startups,
+especially those in highly regulated industries like finance, healthcare, or technology, face numerous
+legal obligations, ranging from intellectual property protection to data privacy laws. Failing to comply
+with these regulations can result in severe consequences, including lawsuits, financial losses, or
+even the closure of the business. By staying compliant, startups safeguard themselves against such
+risks, ensuring continuity and sustainability.
+Interestingly,  legal  compliance  fosters a  culture  of  accountability and  integrity  within  the
+organization.  It encourages startups to adopt robust governance practices, maintain accurate
+records, and uphold ethical standards in their operations. This not only promotes transparency and
+efficiency but also instills confidence among employees, investors and customers, fostering long-
+term relationships and loyalty.
+Most importantly, complete adherence to legal requirements facilitates access to funding and capital.
+Investors and financial institutions often conduct thorough due diligence before committing capital
+to startups. Compliance with laws and regulations instills confidence in investors, reducing perceived
+risks and making it easier for startups to secure financing, whether through venture capital, loans,
+or crowdfunding. Generally when VC s fund any start ups they do all kinds of due diligence, legal,
+asset, financial, tax, etc to cover all aspects before investing in a company.
+For startups with global aspirations, being legally compliant enables them to navigate international
+markets and expand their operations globally. In an increasingly interconnected world, startups often
+face cross-border legal complexities, including international trade laws, taxation, and regulatory
+requirements. Ensuring compliance with relevant laws not only facilitates market entry but also
+mitigates the risk of legal barriers or regulatory hurdles that could impede expansion efforts.
+By prioritizing compliance from the outset, startups can position themselves for success, resilience,
+and long-term viability in the market.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+7.4          ENTREPRENEURSHIP & START-UP ECOSYSTEM
+
+
+     7.1 CHOOSING AN IDEAL ENTITY TYPE AND OVERVIEW OF
+       REGISTRATION PROCESS
+Selecting the right entity type is of paramount importance to startups as it lays the foundation for
+their entire business structure and operations. Each entity type offers distinct advantages and
+disadvantages in terms of liability, taxation, governance, and operational flexibility. For instance,
+choosing a sole proprietorship or partnership exposes founders to unlimited personal liability, risking
+their personal assets in case of legal issues or debts. Conversely, forming a corporation or limited
+liability company (LLC) provides owners with limited liability protection, shielding their personal
+assets from business liabilities. Moreover, the entity type significantly impacts taxation, with different
+structures subject to varying tax rates, deductions, and compliance requirements.
+Additionally, the chosen entity type influences operational aspects such as ownership structure,
+fundraising options, and governance mechanisms. Therefore, startups must carefully evaluate their
+business goals, risk tolerance, growth plans, and regulatory environment to select the most suitable
+entity type that aligns with their objectives and facilitates long-term success and sustainability.
+Some of the most commonly referred entity types in India are as follows;
+
+                   Sole Proprietorship
+
+                        Partnership
+
+                   One Person Company
+
+                          Public Limited Company
+
+                        Limited Liability Partnership
+
+             MSME
+
+1.    Sole Proprietorship: Like elsewhere, a sole proprietorship in India is the simplest form of
+      business entity, owned and operated by a single individual. It requires minimal registration
+      and compliance formalities, but the owner bears unlimited personal liability for the business's
+      debts and obligations.
+2.     Partnership: Partnerships in India can be formed as either general partnerships or limited
+         liability partnerships (LLPs). General partnerships are governed by the Indian Partnership
+       Act, 1932, and involve two or more individuals sharing profits and losses according to their
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+LEGAL CONSIDERATIONS FOR A STARTUP              7.5
+
+
+      agreement. LLPs offer limited liability protection to partners while retaining the tax flexibility
+       of a traditional partnership.
+3.     Private Limited Company (Pvt Ltd): A private limited company is the most common and
+       preferred choice for startups in India. It's a separate legal entity with limited liability for its
+       shareholders. It requires a minimum of two directors and two shareholders, with a maximum
+       of 200 shareholders. Private limited companies are regulated by the Companies Act, 2013.
+4.    One Person Company (OPC): Introduced in 2013 under the Companies Act, an OPC allows
+      a single entrepreneur to operate a company with limited liability. The sole member of the
+     company acts as both the shareholder and director. This structure provides the benefits of a
+     company while allowing single-person ownership.
+5.    Public Limited Company: Public limited companies are suitable for larger businesses
+      planning to raise capital from the public through the sale of shares on a stock exchange. They
+      have stricter regulatory requirements and are governed by the Companies Act, 2013.
+6.    Limited Liability Partnership (LLP): LLPs offer the benefits of limited  liability to their
+       partners while allowing them  to  actively manage the business. They are suitable  for
+      businesses where partners want to have direct involvement in operations while limiting
+      personal liability.
+7.    Small Business Enterprise (Micro, Small, and Medium Enterprises - MSMEs): MSMEs
+      are defined based on their investment in plant and machinery or equipment. They can be
+       registered under various legal structures mentioned above, but the government provides
+       certain benefits and incentives to entities classified as MSMEs.
+Some Startup attractive entity types in foreign countries especially United States are:
+♦   C Corporation: This types  of corporations are independent legal  entities owned by
+      shareholders. They offer limited liability protection and can attract investment through the
+       sale of stock. However, they are subject to double taxation, where both the corporation's
+        profits and dividends to shareholders are taxed.
+♦   S Corporation: This types of corporations are similar to C corporations but have a special
+       tax status that allows them to pass corporate income, losses, deductions, and credits
+      through to their shareholders for federal tax purposes. They have limitations on ownership
+     and are often favored by smaller businesses.
+♦    Benefit Corporation (B Corp): This types of Corps are for-profit companies that are
+      committed to making a positive impact on society, the environment, and stakeholders while
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+7.6          ENTREPRENEURSHIP & START-UP ECOSYSTEM
+
+
+       also pursuing profit. They are legally required to consider the impact of their decisions on
+       multiple stakeholders, not just shareholders.
+7.1.1 How to Select the Right Entity Type
+When choosing an entity for a startup, several critical factors must be considered to ensure the most
+suitable choice for the business's needs and goals. By carefully considering key factors, startups
+can make an informed decision when choosing the most appropriate entity type to support their
+growth, protect their interests, and achieve their business objectives.
+Key factors that Startups may want to consider while opting the most suitable form of entity for their
+business are;
+♦    Formation Formalities
+♦      Liabilities attached to an Entity Form
+♦    Expansion Aspirations
+♦    Taxation of an Entity
+♦     Social Media and E Commerce Transactions
+♦    Closure and Exit
+
+                             Closure               Formation
+                          and Exit                 Formalities
+
+
+                    Social
+               Media and                                                   Liabilities
+               E                                           attached to
+             Commerce                                  an Entity
+                 Transactio                                  Form
+                  ns
+
+
+                             Taxation of             Expansion
+                         an Entity                Aspirations
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+LEGAL CONSIDERATIONS FOR A STARTUP              7.7
+
+
+Let us understand each of the factors and what sub-factors to be consider by entrepreneurs;
+1.    Formation Formalities : Starting a business involves different steps depending on the type
+      chosen. For a small business like a sole proprietorship, not much paperwork is needed. Just
+       the necessary licenses or permits must be obtained.  If starting with someone else, like a
+       partnership,  it's advisable to have a written agreement outlining aspects such as profit-
+       sharing and responsibilities. Limited liability companies (LLCs) and Private/Public limited
+      companies require more paperwork. For company forms of business founders must  file
+      paperwork with the government, detailing aspects such as leadership structure and business
+        activities.
+        Filing with the government is necessary, specifying details like leadership and the company's
+        activities. Nonprofit organizations also need government registration and approval for tax-
+      exempt status. Each type of business has its own paperwork and regulations to follow, so it's
+       important to understand the requirements for a proper start. Compliance with regulations
+      ensures the company's legal recognition and protection for its owners.
+2.     Liabilities attached to an Entity Form: In a sole proprietorship, the business owner is
+       personally responsible for all debts and legal obligations. This means  if the business can't
+      pay its bills or faces a lawsuit, the owner's personal assets like savings or property could be
+       at risk.
+       Partnerships have similar risks, where each partner is personally liable for the business's
+      debts and actions. This means if one partner makes a mistake or the business can't pay its
+       debts, all partners could be held responsible, putting their personal assets in jeopardy. This
+        is called principle of agency.
+       Limited liability companies (LLCs) provide a level of protection for owners. While owners
+       (called members) can lose the money they invest in the company, their personal assets are
+       usually protected from business debts and lawsuits. However, this protection can vary
+      depending on the circumstances, such as personal guarantees or negligence.
+       In corporations, shareholders' liability is typically limited to the amount they've invested in the
+      company. This means if the corporation can't pay its debts or faces legal action, shareholders
+       generally aren't personally responsible, protecting  their personal assets from business
+         liabilities.
+3.    Expansion Aspirations: When it comes to expansion plans, certain entity forms offer more
+         flexibility and scalability than others. Limited liability companies (LLCs) and corporations are
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+7.8          ENTREPRENEURSHIP & START-UP ECOSYSTEM
+
+
+       often best suited for expansion due to their ability to attract outside investment, add new
+      owners or shareholders, and operate in multiple locations.
+     LLCs offer the advantage of pass-through taxation while providing limited liability protection
+       to owners, making them an attractive option for expanding businesses. They can easily add
+     new members or investors without disrupting the existing structure, allowing for seamless
+       growth.
+     Company forms of business have the advantage of issuing different classes of stock, which
+      can  attract investors and  raise  capital  for expansion.  Additionally, they have a  well-
+       established framework for governance and can easily transfer ownership through the sale of
+       stock.
+     On the other hand, sole proprietorships and partnerships may face limitations when it comes
+       to expansion. Sole proprietors bear unlimited personal liability for business debts, which can
+      be risky when expanding operations. Partnerships may face challenges in adding new
+       partners or raising capital due to the shared liability among partners.
+      While each entity type has its advantages and disadvantages, LLCs and company forms are
+       generally better suited for expansion plans due to their flexibility, scalability, and ability to
+        attract investment.
+4.    Taxation of an Entity: In the Indian context, different forms of entities offer varying tax
+       implications, making some more favorable for tax planning than others. Limited  liability
+      companies (LLCs) and corporations tend to be more advantageous for tax planning due to
+        their flexibility in structuring and tax treatment.
+     LLCs in India are treated as pass-through entities for tax purposes, meaning profits and
+      losses are passed on to the members who report them on their personal tax returns. This can
+        offer tax advantages, especially for businesses with multiple owners, as  it avoids double
+       taxation on corporate profits.
+      Companies, particularly private limited companies, benefit from lower corporate tax rates in
+       India. Additionally, certain tax deductions and incentives are available to corporations, such
+      as deductions for business expenses and tax credits for specific activities.
+     On the other hand, sole proprietorships and partnerships may not be as favorable for tax
+      planning in India. Sole proprietors are taxed at individual income tax rates, and partnerships
+      are subject to the same pass-through taxation as LLCs but may face limitations in claiming
+       certain deductions or incentives available to corporations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+LEGAL CONSIDERATIONS FOR A STARTUP              7.9
+
+
+       Overall, LLCs and corporations are generally better suited for tax planning in India due to
+        their  flexibility  in tax structuring and potential tax benefits. However, the specific tax
+      advantages and considerations may vary depending on the individual circumstances of the
+       business. Consulting with tax professionals can help entrepreneurs navigate the complexities
+       of tax planning and choose the most tax-efficient entity forms for their needs.
+5.     Social Media and E Commerce Transactions: In the economic age of social media and
+        digital transactions, certain entity forms are better suited to handle the unique challenges and
+       opportunities presented by the online landscape. Limited  liability companies (LLCs) and
+       corporations typically fare better in this context due to their formalized structures and ability
+       to adapt to digital transactions.
+     LLCs offer a flexible management structure that can easily accommodate digital operations
+      and transactions. With the rise of e-commerce and online businesses, LLCs provide limited
+         liability protection to owners while allowing for pass-through taxation, making them an
+       attractive option for startups and small businesses operating in the digital space.
+      Companies, particularly those structured as private limited companies, are also well-suited
+        for digital transactions. They offer a formalized governance framework that instills confidence
+        in customers and investors,  facilitating online transactions and e-commerce  activities.
+       Additionally, corporations can issue stock and attract investment more easily, providing
+       capital for digital expansion and innovation.
+     On the other hand, sole proprietorships and partnerships may face challenges in the digital
+       realm. Sole proprietors bear unlimited personal liability for business debts, which can be risky
+        in the online environment where cyber threats and legal issues are prevalent. Partnerships
+     may also encounter difficulties in scaling digital operations and attracting online customers
+       without the formalized structure and credibility of corporations.
+6.    Closure and Exit: LLCs provide flexibility in terms of closure, allowing members to dissolve
+       the company through a formal process outlined in the operating agreement or as prescribed
+      by state law. Investors in LLCs have the option to sell their ownership interests or transfer
+      them to others, facilitating exit strategies while ensuring continuity for the business.
+      Companies,  especially  those  structured  as  private  limited  companies,  offer  distinct
+      advantages for investor exits. Shareholders can easily sell their shares on secondary markets
+       or through private transactions, providing liquidity and flexibility for investors looking to exit
+        their investment. Additionally, corporations have well-established procedures for dissolution
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+7.10          ENTREPRENEURSHIP & START-UP ECOSYSTEM
+
+
+      and winding up, ensuring a smooth closure process that protects the interests of shareholders
+      and creditors.
+      Sole proprietors bear personal liability for business debts, making closure more complicated
+      and potentially exposing personal assets to creditors. Partnerships may encounter difficulties
+        in reaching consensus among partners and distributing assets during dissolution. Consulting
+       with legal and financial professionals can provide valuable guidance in this regard.
+7.1.2 Registration Process for Startups
+In India, startups can register themselves as Limited Liability Partnerships (LLPs) and Private
+Limited Companies (Pvt Ltd) with the Ministry of Corporate Affairs (MCA), Government of India. Brief
+steps to register under each type of entity are as follows;
+Limited Liability Partnership (LLP)
+♦      Visit the MCA portal (www.mca.gov.in) and create an account.
+♦    Obtain a Digital Signature Certificate (DSC) for the designated partners.
+♦    Obtain a Director Identification Number (DIN) for all partners.
+♦    Reserve a name for the LLP using the 'RUN-LLP' service on the MCA portal.
+♦    Prepare and file Form LLP-1 (Incorporation Document and Subscriber's Statement) along
+       with the necessary documents such as LLP Agreement, address proof, and identity proof
+       of partners.
+♦    Pay the required registration fees online.
+♦     After approval, the LLP incorporation certificate will be issued.
+Private Limited Company (Pvt Ltd)
+♦    Obtain Digital Signature Certificates (DSC) for all proposed directors.
+♦    Apply for Director Identification Number (DIN) for all proposed directors.
+♦    Reserve a unique name for the company using the 'RUN' (Reserve Unique Name) service
+      on the MCA portal.
+♦    Prepare  and   file  Form  SPICe  (Simplified  Proforma  for  Incorporating  Company
+       Electronically) along with the necessary documents such as Memorandum of Association
+      (MoA), Articles of Association (AoA), address proof, and identity proof of directors.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+LEGAL CONSIDERATIONS FOR A STARTUP              7.11
+
+
+♦    Pay the prescribed registration fees online.
+♦     After scrutiny and approval, the Certificate of Incorporation will be issued.
+7.1.3 Good to have Registrations for Startups in India
+For startups in India, several registrations are considered beneficial to ensure legal compliance,
+access to benefits, and protection of intellectual property. Let us read about some good-to-have
+registrations.
+♦   GST  Registration: Goods and  Services Tax (GST)  registration  is mandatory  for
+      businesses with an annual turnover exceeding a certain threshold. Registering for GST
+      enables startups to avail input tax credits, claim tax refunds, and comply with indirect tax
+       laws.
+♦   MSME Registration: Registering under the Micro, Small, and Medium Enterprises (MSME)
+      Development Act can avail benefits such as priority sector lending, tax rebates, subsidies,
+      and assistance for technology upgradation. This registration is particularly beneficial for
+       startups seeking financial assistance and government contracts.
+♦    Trademark Registration: Registering trademarks for the startup's brand name, logo, or
+      product names can provide legal protection against unauthorized use and infringement. It
+      helps in building brand recognition and goodwill in the market.
+♦   PAN and TAN Registration: Permanent Account Number (PAN) and Tax Deduction and
+       Collection Account Number (TAN) registrations are essential for startups to comply with
+      income tax regulations, file tax returns, and carry out financial transactions.
+♦    FSSAI Registration:  If the startup  is involved  in food business  activities, obtaining
+       registration or a license from the Food Safety and Standards Authority of India (FSSAI) is
+      mandatory. It ensures compliance with food safety standards and regulations.
+♦    Professional Tax Registration: Depending on the state in which the startup operates,
+       registering for professional tax is mandatory for employers. It involves deducting tax from
+      employees' salaries and remitting it to the state government.
+♦    ESI and EPF Registration: Registering under the Employees' State Insurance (ESI) Act
+      and the Employees' Provident Fund (EPF) Act is necessary for startups employing a certain
+     number of employees. It provides social security benefits such as medical care, disability,
+       maternity, and retirement benefits to employees.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+7.12          ENTREPRENEURSHIP & START-UP ECOSYSTEM
+
+
+♦    Startup India Recognition: Startups meeting the eligibility criteria can register under the
+       Startup India initiative to avail various benefits, including tax exemptions, self-certification
+      compliance, and access to government schemes and funding programs.
+While these registrations are not mandatory for all startups, obtaining them can provide various
+advantages in terms of compliance, credibility, protection, and access to benefits and incentives.
+Startups should assess their specific requirements and consult with legal and financial advisors to
+determine the registrations most suitable for their business.
+
+
+                                                 Trademark         PAN and TAN   GST Registration    MSME Registration                                                          Registration              Registration
+
+
+                             Professional Tax         ESI and EPF            Startup India   FSSAI Registration                                 Registration              Registration             Recognition
+
+
+     7.2 STARTUP EQUITY SPLIT AMONG CO-FOUNDERS AND
+       EQUITY VESTING
+Startup equity split among co-founders refers to the allocation of ownership or equity in a new
+venture among its founding team members. This allocation is crucial as  it determines each co-
+founder's stake in the company and governs their rights, responsibilities, and rewards as the
+business grows.
+To execute a fair and effective equity split, founders should follow a structured process.
+♦    Assess Contributions: Begin by assessing the contributions of each co-founder, including
+        their time, expertise, skills, and financial investments. Consider factors such as the initial
+       idea, product development, market research, fundraising efforts, and operational tasks.
+♦    Value Proposition: Evaluate the unique value proposition that each co-founder brings to
+       the startup. This could include domain expertise, technical skills, industry connections,
+      leadership qualities, or business acumen. Assign weights to these contributions based on
+        their significance to the venture's success. For example value brought by an ex senior
+      banker maybe very relevant to a wallet or fintech start up
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+LEGAL CONSIDERATIONS FOR A STARTUP              7.13
+
+
+♦    Negotiation and Discussion: Engage  in open and transparent discussions with co-
+      founders to negotiate the equity split. Consider factors such as risk tolerance, long-term
+      commitment, and future contributions to the company. Encourage constructive dialogue
+      and strive for consensus to build trust and alignment among team members.
+♦     Utilize Equity Splitting Tools: Utilize equity splitting tools or methodologies such as the
+       "Slicing Pie" model, which dynamically adjusts equity allocations based on individual
+       contributions over time. These tools help founders quantify and allocate equity  fairly,
+      considering the evolving nature of startup ventures.
+♦    Formalize Agreements: Once consensus is reached, formalize the equity split through
+       legal agreements such as a founders' agreement, shareholder agreement, or operating
+      agreement. Clearly document each co-founder's ownership percentage, rights, vesting
+      schedules, and dispute resolution mechanisms to prevent misunderstandings or conflicts
+        in the future.
+7.2.1 Importance of Startup Equity Split
+
+
+                                                     Talent              Investor        Incentives           Retention                                                    Attraction         Confidence
+
+
+♦    Incentives: A well-structured equity split aligns the interests of co-founders with the long-
+      term success of the startup.  It motivates team members to work collaboratively towards
+     common goals and creates a sense of ownership and accountability.
+♦    Retention: Equity ownership incentivizes co-founders to remain committed to the venture
+      and contribute their best efforts to its growth and development. It reduces the likelihood of
+      founder turnover and fosters continuity in leadership.
+♦    Talent Attraction: A fair equity split enhances the startup's ability to attract top talent and
+      key employees by offering equity-based compensation packages. It serves as a valuable
+       recruiting tool, especially for early-stage startups with limited financial resources.
+♦    Investor Confidence: Investors scrutinize the equity structure of startups before making
+      investment decisions. A clear and equitable distribution of ownership instills confidence in
+       investors, demonstrating a cohesive founding team and mitigating concerns about internal
+       conflicts or disputes.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+7.14          ENTREPRENEURSHIP & START-UP ECOSYSTEM
+
+7.2.2 Things to Consider while deciding Equity Split
+Founders should be careful of several considerations when allocating equity.
+♦    Future Dilution: Anticipate future equity dilution from fundraising rounds, employee stock
+       options, and incentive plans. Reserve a portion of equity for future issuance to maintain
+      founder ownership levels and avoid excessive dilution.
+♦    Vesting: Implement vesting schedules and cliff periods to ensure that co-founders earn
+        their equity over time and remain committed to the startup. Vesting schedules typically span
+      over several years, with a one-year cliff period before any equity vests.
+♦     Exit Scenarios: Consider various exit scenarios such as acquisitions, IPOs, or buyouts
+     and how the equity split will impact each scenario. Define procedures for handling equity
+        in case of founder departures, disagreements, or company dissolution.
+♦    Legal and Tax Implications: Seek legal and tax advice to understand the implications of
+       the equity  split on personal  taxation,  capital gains, and compliance with regulatory
+      requirements. Ensure that equity allocations comply with applicable laws and regulations
+       to avoid legal disputes or liabilities.
+Startup equity split is a critical decision that requires careful consideration, transparency, and
+alignment among co-founders. By following a structured process, founders can create a fair and
+equitable ownership structure that incentivizes collaboration, fosters commitment, and enhances the
+startup's growth prospects.
+7.2.3 Equity Vesting
+
+               Equity
+              Vesting
+
+
+Equity vesting is a system designed to incentivize founders or employees of a startup over time. It
+ensures that everyone involved contributes to the company's success for a sustained period.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+LEGAL CONSIDERATIONS FOR A STARTUP              7.15
+
+
+In this system, individuals receive ownership in the form of shares or equity, but they don't get all of
+it right away. Instead, ownership is granted gradually over a predetermined period known as the
+vesting period.
+During this period, individuals earn their shares incrementally, often on a monthly or yearly basis.
+This gradual accumulation of ownership reflects their ongoing commitment and contribution to the
+company.
+However, if someone leaves the company before their shares are fully vested, they may forfeit some
+or all of their ownership. This provision is in place to prevent individuals from benefiting from the
+company's success without fulfilling their obligations.
+Equity vesting aligns the interests and motivations of founders and employees, encouraging long-
+term commitment and collaboration.  It also helps maintain stability in the company's ownership
+structure by ensuring that ownership is earned and retained based on ongoing contribution and
+loyalty.
+Equity vesting operates as a form of deferred compensation, offering a way for individuals to earn
+ownership in a startup gradually. This approach serves several key purposes beyond incentivizing
+long-term commitment.
+♦      Firstly, it helps mitigate the risk associated with early-stage ventures. Startups often face
+       uncertainties and challenges, and not all individuals may be willing or able to weather these
+      storms. By tying ownership to continued service, equity vesting encourages founders and
+      employees to remain dedicated and engaged, even in the face of adversity.
+♦    Second, equity vesting fosters a sense of teamwork and shared purpose. When everyone
+      has a stake in the company's success, there's a collective effort to overcome obstacles and
+      achieve common goals. This collaborative mindset can strengthen the startup's culture,
+      promote innovation, and enhance overall performance.
+♦     Equity vesting also serves as a tool for talent retention. In the competitive landscape of
+       startups, attracting and retaining skilled individuals is paramount. Offering equity with a
+       vesting schedule not only attracts top talent but also incentivizes them to stay with the
+     company for the long haul, reducing turnover and preserving institutional knowledge.
+♦     Lastly, equity vesting can facilitate smooth transitions in the event of personnel changes.
+           If a co-founder or key employee decides to leave the company, vesting ensures that their
+      departure doesn't disrupt the ownership structure or impede the company's operations.
+       Instead, unvested shares may be reallocated to remaining team members or returned to
+       the company's equity pool for future use.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+7.16          ENTREPRENEURSHIP & START-UP ECOSYSTEM
+
+
+     7.3 ESOP PLANNING AND OTHER BEST PRACTICES
+Employee Stock Ownership Plans (ESOPs) are a powerful tool for startups to attract, retain, and
+motivate talent by offering employees a stake in the company's success. ESOPs are a form of
+employee benefit plan that grants employees the right to purchase shares of the company's stock at
+a predetermined price. These shares typically vest over a specified period, incentivizing employees
+to stay with the company and contribute to its growth. ESOPs can be an effective way for startups
+to compensate employees when cash flow is limited and provide them with a sense of ownership
+and alignment with the company's goals.
+ESOPs offer 3-fold Talent benefit to founders;
+♦     Attraction
+♦    Retention
+♦     Motivation
+7.3.1 Things to Consider When Implementing ESOPs
+♦    Legal and Regulatory Compliance: Startups must ensure compliance with applicable
+      laws and regulations when establishing an ESOP. This includes consulting with legal and
+       financial advisors to navigate complex tax implications, securities laws, and regulatory
+      requirements.
+♦    Equity Allocation: Founders must carefully determine how much equity to allocate to the
+    ESOP and how it will be distributed among employees. Balancing the need to attract and
+       retain talent with preserving ownership dilution is crucial.
+♦    Vesting Schedule: Establishing a fair and transparent vesting schedule is essential to
+       incentivize employee retention and performance. Typically, ESOP shares vest over a multi-
+      year  period,  with a  portion becoming  available each year  to encourage long-term
+      commitment.
+♦    Valuation: Startups must accurately value their shares to determine the exercise price of
+    ESOP options and avoid any discrepancies or disputes down the line. This may involve
+      engaging external valuation experts to assess the company's worth.
+♦    Communication and Education: Transparent communication and education about the
+    ESOP are essential to ensure employees understand its value and how it works. Startups
+      should provide clear information about eligibility, vesting schedules, taxation, and potential
+        risks.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+LEGAL CONSIDERATIONS FOR A STARTUP              7.17
+
+7.3.2 ESOP Success Examples and Best Practices for Startups
+Some big companies have been the torch bearer of ESOPs for employees and have transformed
+the entire talent attraction industry with their ESOP success stories. Let us read about some of them;
+♦     Flipkart: The Indian e-commerce giant, Flipkart, attributed much of its early success to its
+       innovative ESOP program, which incentivized employees to work hard and contributed to
+       the company's rapid growth. Many early employees became millionaires after Flipkart's
+       acquisition by Walmart.
+♦    Google: Google's generous ESOP program played a significant role in attracting top talent
+     and fostering a culture of innovation. Many of Google's early employees became wealthy
+      through stock options, contributing to the company's success and growth into a tech
+      powerhouse.
+♦    Salesforce: Salesforce, a global leader in customer relationship management (CRM)
+       software, has a robust ESOP program that rewards employees for their hard work and
+       dedication. The company's stock has soared in value over the years, creating significant
+      wealth for employees who participated in the ESOP.
+7.3.2.1 Best Practices for Founders
+
+
+                                                                             Start Early
+
+
+                                            Celebrate                                                                                    Transparency                                        Success
+                                   Best ESOP
+                                       Practices
+
+
+                                                 Educate                     Regular
+                                              Employees                  Review
+
+
+♦     Start Early: Implementing an ESOP early in the startup's lifecycle allows founders to attract
+       top talent from the outset and foster a culture of ownership and commitment.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+7.18          ENTREPRENEURSHIP & START-UP ECOSYSTEM
+
+
+♦    Transparency: Be transparent with employees about the ESOP, including  eligibility
+        criteria, vesting schedules, and potential risks. Open communication builds trust and
+      ensures employees understand the value of their equity stake.
+♦    Regular Review: Regularly review and update the ESOP to align with the company's
+      growth trajectory, changing needs, and evolving market conditions. Flexibility is key to
+      ensuring the ESOP remains effective in achieving its objectives.
+♦    Educate Employees: Provide ongoing education and support to employees about the
+     ESOP, including its benefits, taxation, and how to exercise options. Empowering employees
+       with knowledge enables them to make informed decisions and  fully participate in the
+      program.
+♦    Celebrate Success:  Recognize and  celebrate  milestones and  achievements  with
+      employees to reinforce the value of their contributions and the impact of the ESOP on the
+      company's success.
+
+     7.4 CO-FOUNDER AND CO-FOUNDER AGREEMENT
+A co-founder is an individual who, along with one or more other people, initiates and establishes a
+new business venture or startup. Co-founders typically contribute to the creation and development
+of the startup by bringing together complementary skills, expertise, resources, and ideas.
+A co-founder is indeed important for a startup. Why? One may ask. It is so because of;
+♦    Shared Vision and Commitment: Co-founders often share a common vision and passion
+        for the startup's mission and goals. Their shared commitment and dedication are essential
+        for overcoming challenges and driving the venture forward.
+♦    Diverse Skill Sets: Co-founders bring diverse skills, experiences, and perspectives to the
+       table, enabling the startup to tackle a wide range of tasks and challenges effectively. This
+       diversity enhances innovation, problem-solving, and adaptability.
+♦    Support and Collaboration: Co-founders provide mutual support and collaboration,
+       serving as sounding boards, advisors, and partners in decision-making. Their collective
+        efforts foster a culture of teamwork, creativity, and accountability within the startup.
+♦    Risk Sharing: Sharing the responsibilities and risks of entrepreneurship with co-founders
+      can alleviate the pressures and uncertainties associated with starting a new venture. Co-
+      founders can provide emotional support and encouragement during difficult times.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+LEGAL CONSIDERATIONS FOR A STARTUP              7.19
+
+
+♦    Network and Resources: Co-founders often bring their own networks, connections, and
+      resources to the startup, including industry contacts, funding opportunities, and potential
+      customers or clients. Leveraging these networks can accelerate the startup's growth and
+      success.
+♦    Long-Term Stability: A strong co-founder team can contribute to the long-term stability
+     and  sustainability  of the startup by providing  continuity, leadership, and succession
+       planning. Co-founders can work together to navigate changes in the business environment
+     and adapt to evolving market conditions.
+♦    Lock in period: Formative years of the start-up life are essential for the success of the
+       startup. The Co-founder might decide to leave the start-up in these years, and it will cause
+      a hindrance in the initial growth period of the company. This clause functions as protection,
+      under which co-founders are restricted from selling their investments or terminating the
+      agreement.
+Checklist for Founders’ Agreements
+Questions about Roles & Responsibilities
+♦    What are the titles of each founder?
+♦   Do you have clearly defined responsibilities for each role?
+♦    Have you created limits for roles?
+♦   How will you allow for change as founders’ roles change over time?
+Questions about Rights & Rewards
+♦   Who will decide what?
+♦    What is the time limit for decision making?
+♦   How will you handle deadlock?
+♦    By what method will you reach consensus when making important decisions?
+♦    Which decisions can be made by a single person, and which need consensus by both/ all
+      founders?
+♦    Did you separate equity from decision rights?
+♦   Who will represent the company on the Board?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+7.20          ENTREPRENEURSHIP & START-UP ECOSYSTEM
+
+
+♦     Will founders who don’t have Board representation receive observer rights?
+♦   How will you allocate equity?
+Questions about Contingencies
+♦    Did you include time-based or milestone-based vesting terms?
+♦    What happens if a founder leaves or is asked to leave?
+♦        If a founder leaves, do other founders have the right to buy unvested shares or do these
+      go back to the common pool?
+♦    What happens if a founder wants to sell part of his or her shares?
+♦   How will you handle the acquisition or sale of the company?
+♦     Will you create an option pool to attract new hires or give additional grants to the existing
+     team? If so, how much of the equity will you reserve for that?
+Questions about Commitments
+♦   How much time will each founder commit to the startup and for what duration? Did you
+       specify the number of hours that comprise a full-time?
+♦    What is each founders’ obligation to the company, in light of future external opportunities
+       that could conflict with current roles and expectations?
+♦    Did you include an IP provision?
+♦    What is each founder’s financial obligation to the company?
+♦    Did you record any capital contributions by a founder, and terms of usage?
+♦     Will founders share networks and connections?
+7.4.1 Drafting of Co-founder Agreement
+Convincing a co-founder to establish an official co-founder agreement is crucial for clarifying roles,
+responsibilities, and expectations while mitigating potential conflicts. Start by emphasizing the
+importance of formalizing the partnership to protect everyone's interests and ensure a smooth
+operation of the startup. Highlight the benefits of having a written agreement, such as defining equity
+ownership, decision-making processes, and mechanisms for dispute resolution.
+Emphasize that a co-founder agreement can provide clarity, transparency, and peace of mind for
+both parties, laying the groundwork for a successful and sustainable partnership. Share examples
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+LEGAL CONSIDERATIONS FOR A STARTUP              7.21
+
+
+of successful startups that have benefited from having clear and comprehensive co-founder
+agreements in place. Assure your co-founder that the agreement is a proactive step towards building
+trust, alignment, and accountability within the team.
+Encourage open dialogue, collaboration, and mutual understanding throughout the process to reach
+consensus and draft a document that reflects the shared goals and values of the partnership.
+A co-founder agreement  is a crucial document that outlines the terms, responsibilities, and
+expectations between the founders of a startup. It serves as a blueprint for the partnership, clarifying
+roles and mitigating potential conflicts. A comprehensive  list of areas covered in a co-founder
+agreement are as under:
+1.     Introduction: The agreement should begin with an introduction identifying the parties
+       involved, the name of the startup, and the purpose of the agreement.
+2.    Roles and Responsibilities: Clearly define the roles and responsibilities of each co-founder
+       within the startup. This includes outlining specific duties, areas of expertise, and decision-
+      making authority.
+3.    Equity Ownership:  Specify  the  equity ownership  of each  co-founder,  including  the
+      percentage of shares allocated to each individual. Address any vesting schedules, restrictions
+      on transferability, and mechanisms for adjusting ownership in the event of changes in roles
+       or contributions.
+4.     Capital Contributions: Outline any initial capital contributions required from each co-founder
+      and any subsequent  financial  obligations.  Specify  the  timing, amount, and  form  of
+       contributions, as well as any consequences for failure to meet obligations.
+5.    Decision Making: Establish a framework for decision-making within the startup, including
+      procedures  for  resolving  disputes  and  making  major  strategic  decisions.  Consider
+     mechanisms such as voting rights, supermajority requirements, or the appointment of a
+       neutral arbiter.
+6.     Intellectual Property Rights: Address ownership and management of intellectual property
+      created or contributed to the startup by each co-founder. Specify any restrictions on the use,
+       transfer, or licensing of intellectual property rights.
+7.     Confidentiality and Non-Disclosure: Include provisions to protect confidential information
+      and trade secrets of the startup. Define the scope of confidential information, obligations of
+        confidentiality, and remedies for breach.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+7.22          ENTREPRENEURSHIP & START-UP ECOSYSTEM
+
+
+8.    Non-Compete and Non-Solicitation: Specify any restrictions on the ability of co-founders
+       to engage in competing activities or solicit employees, customers, or suppliers of the startup.
+      Consider the duration, geographic scope, and exceptions to these provisions.
+9.    Term and Termination: Define the term of the agreement and any provisions for termination
+       or dissolution of the partnership. Address scenarios such as voluntary withdrawal of a co-
+       founder, death or incapacity, or material breach of the agreement.
+10.   Succession Planning: Plan for the orderly succession of co-founders  in the event of
+       departure, retirement, or other changes in circumstances. Consider mechanisms such as buy-
+        sell agreements, rights of first refusal, or the appointment of successors.
+11.   Governing Law and Jurisdiction: Specify the governing law and jurisdiction that will apply
+       to the interpretation and enforcement of the agreement. This ensures clarity and consistency
+        in resolving disputes.
+12.   Miscellaneous Provisions: Include any  additional provisions relevant  to the  specific
+      circumstances of the startup, such as indemnification, insurance, or assignment of rights and
+       obligations.
+Drafting a comprehensive co-founder agreement is essential for establishing a strong foundation for
+the partnership and mitigating potential risks and conflicts. By addressing key topics such as roles
+and responsibilities, equity ownership, decision-making, and intellectual property rights, co-founders
+can clarify expectations and set the stage for success in their startup journey. Consulting with legal
+professionals experienced  in startup matters can provide valuable guidance and ensure the
+agreement reflects the unique needs and objectives of the founders and their venture.
+Apart from above points one should broadly keep in mind following laws may govern the agreement.
+In India there are different laws that governs the terms and condition of the Founder’s agreement
+are mentioned below:-
+♦     Arbitration and Conciliation Act, 1996
+♦    The Indian Contract Act,1872
+♦    Companies Act,2013
+♦    The Indian Partnership Act, 1932
+♦    LLP Act, 2008 Limited Liability Partnership Act, 2008
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+LEGAL CONSIDERATIONS FOR A STARTUP              7.23
+
+     7.5 REGISTERING  INTELLECTUAL PROPERTY  RIGHTS
+         (IPRS) (PATENT, COPYRIGHT AND TRADEMARK)
+Patents, trademarks, and copyrights are crucial for startups as they provide legal protection for their
+intellectual property assets. Patents safeguard innovative products or processes, allowing startups
+to capitalize on their inventions and secure a competitive edge. Trademarks protect brand identities,
+enabling startups to establish a unique market presence and build customer trust and loyalty.
+Copyrights  safeguard  creative  works,  such  as  software,  designs,  or  content,  preventing
+unauthorized use and ensuring startups can monetize their original creations.
+♦    Patent: A patent is a legal protection granted to inventors for their inventions, preventing
+      others from making, using, or selling the invention without permission for a limited period,
+       usually 20 years from the filing date.
+     Example 1: Thomas Edison patented the light bulb in 1880, giving him exclusive rights to
+      manufacture and sell light bulbs for 20 years, thus allowing him to profit from his invention.
+     Example 2: A pharmaceutical company may patent a new drug formulation, granting them
+       exclusive rights to produce and sell the drug, allowing them to recoup research and
+      development costs and make a profit.
+♦    Copyright: Copyright is a legal protection granted to creators of original works, such as
+        literary,  artistic,  or musical creations, giving them the exclusive  right  to reproduce,
+        distribute, and display their work for a limited period, typically the creator's lifetime plus 70
+       years.
+     Example 1: J.K. Rowling holds the copyright to the Harry Potter series, which means she
+      has the exclusive right to publish and sell books, movies, and merchandise related to the
+       franchise.
+     Example 2: A photographer retains copyright to their photographs, allowing them to control
+     how  their images are used, reproduced, or  distributed, such as  licensing them  for
+      commercial use or selling prints.
+♦    Trademark: A trademark is a recognizable sign, design, or expression that distinguishes
+      products or services of one company from those of others. It protects brand names, logos,
+      slogans, and symbols, preventing others from using similar marks in a way that could cause
+      confusion among consumers.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+7.24          ENTREPRENEURSHIP & START-UP ECOSYSTEM
+
+
+     Example 1: The Nike swoosh logo is a trademark that identifies Nike products, such as
+        athletic shoes and apparel, and distinguishes them from products of other brands.
+     Example 2: McDonald's holds trademarks for its golden arches logo, its "I'm loving  it"
+       slogan, and the name "McDonald's," protecting its brand identity and preventing others
+      from using similar marks in the fast-food industry.
+7.5.1 How to Register for Patents in India
+A patent is a legal protection granted to inventors for their novel and inventive creations, such as
+products, processes, or designs. It provides exclusive rights to the inventor, preventing others from
+making, using, selling, or importing the patented invention without permission for a specified period,
+typically 20 years from the filing date. Patents incentivize innovation by allowing inventors to profit
+from their creations, encourage disclosure of inventions to the public, and promote technological
+advancement. They play a crucial role in fostering creativity, protecting intellectual property, and
+driving economic growth by providing inventors with a competitive advantage in the marketplace.
+Step by Step Guide to Registering a Patent in India
+♦    Step 1: Determine Patent Eligibility
+      Before applying for a patent in India, it's crucial to ensure that your invention meets the
+        criteria for patentability. This includes novelty, inventive step, and industrial applicability.
+      Conduct thorough research to confirm that your invention qualifies for patent protection.
+♦    Step 2: Conduct a Patent Search
+      Perform a comprehensive search to verify that your invention is unique and not already
+      patented by someone else. This step is essential to avoid potential conflicts and ensure the
+        originality of your invention.
+♦    Step 3: Prepare Patent Application
+       Draft a detailed patent application describing your invention in clear and precise terms.
+       Include drawings, diagrams, or any other visual aids necessary to illustrate the invention
+        effectively. It's advisable to seek assistance from a patent attorney or agent experienced
+        in patent drafting to ensure the application meets the required standards.
+♦    Step 4: File the Application
+      Submit your patent application to the Indian Patent Office (IPO) through the prescribed
+      channels. You can file the application online via the IPO website or in person at one of the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+LEGAL CONSIDERATIONS FOR A STARTUP              7.25
+
+
+     IPO branches. Ensure that all required documents and fees are submitted accurately and
+      on time.
+♦    Step 5: Examination and Publication
+     Upon receipt of your application, the IPO  will conduct an examination to assess  its
+      compliance with patentability requirements. If the application meets the necessary criteria,
+            it  will be published in the Indian Patent Journal, making the details of your invention
+       available to the public.
+♦    Step 6: Request for Examination
+           If you opted for a patent application without a request for examination initially, you must
+      submit a separate request within the specified timeframe (usually within 48 months from
+       the filing date) to initiate the examination process.
+♦    Step 7: Examination Process
+      During the examination process, the IPO will review your application in detail. They may
+      issue  office actions or objections  if any discrepancies or deficiencies are  identified.
+     Respond promptly to address these concerns and ensure that your application meets the
+      necessary standards.
+♦    Step 8: Grant of Patent
+           If the IPO is satisfied with your application and all objections are resolved satisfactorily,
+      they will grant the patent and issue a patent certificate. This certificate confirms your
+       exclusive rights to the invention for a specified period, typically 20 years from the filing
+       date.
+♦    Step 9: Maintenance and Renewal
+     To maintain the validity of your patent, you must pay the prescribed maintenance fees as
+       required by the IPO. Failure to pay these fees may result in the patent lapsing and losing
+         its protective status.
+♦    Step 10: Enforcement
+     Once your patent is granted, you have the exclusive rights to prevent others from making,
+       using, selling, or importing your invention in India. You can enforce your patent rights
+       against infringers through legal action,  if necessary, thereby protecting your intellectual
+       property and preserving your competitive advantage in the market.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+7.26          ENTREPRENEURSHIP & START-UP ECOSYSTEM
+
+SUMMARY
+Choosing the right entity type and navigating the registration process is foundational for startups,
+influencing liability, taxation, and operational flexibility. Equally critical is establishing equity split
+among co-founders, ensuring fairness through vesting schedules. Employee stock ownership plans
+(ESOPs)  further  incentivize  and  retain  talent,  necessitating  clear   eligibility  criteria  and
+communication  strategies.  Crafting  a  comprehensive  co-founder  agreement  is  imperative,
+addressing equity ownership, decision-making, and dispute resolution. Additionally, registering
+intellectual  property  rights  (IPRs) such as  patents,  copyrights, and trademarks safeguards
+innovations and brand identity. This involves thorough searches, meticulous application preparation,
+and compliance with legal requirements. By prioritizing these aspects, startups lay solid groundwork,
+fostering growth, innovation, and long-term success while mitigating risks and conflicts.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+LEGAL CONSIDERATIONS FOR A STARTUP              7.27
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+
+1.     Falguni Ventures, a VC firm, was advising KalaKaar Social Media app founders on offering
+     ESOPs to its early employees. The founders were not convinced enough as they felt their
+        profits would dilute once the app explodes to virality. Which of the following talent metrics
+      would be unfavorable to the sentiment of Falguni Ventures regarding ESOPs?
+        (a)    Dilution
+        (b)    Attraction
+        (c)    Retention
+        (d)    Motivation
+2.    Sameer and Karan, the co-founders  of WahhChef, a home appliances  startup, were
+       evaluating the unique value proposition that each co-founder brings to the startup. What could
+        this evaluation be best used for?
+        (a)    Preparing the Term Sheet
+        (b)   Making the Pitch Deck
+        (c)    Deciding the Equity Split
+       (d)    Registering their Startup under Startup India
+3.     Dharti Bottles, an eco-friendly bottles startup, wanted to get its technology patented. As a
+       startup advisor to the founders, guide them as to what should be the first step in getting a
+      patent?
+       (a)   Conduct a Patent Search
+       (b)    Prepare Patent Application
+        (c)    Request for Examination
+       (d)    Determine Patent Eligibility
+4.     “This registration  is particularly beneficial for startups seeking financial assistance and
+      government contracts”, said Dharam, one of the most sort after business consultants of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+7.28          ENTREPRENEURSHIP & START-UP ECOSYSTEM
+
+
+      Hyderabad. Which registration from the following options below is he specifically talking
+      about?
+       (a)   GST Registration
+       (b)  MSME Registration
+        (c)    Trademark Registration
+       (d)   FSSAI Registration
+5.    Nashta On Wheels, a doorstep breakfast delivery startup, was thinking about which entity
+      form of business should be formed. Which of the following aspects should they consider while
+       taking this decision?
+       (a)    Asset Allocation attached to an Entity Form
+       (b)    Global Macro Economic Factors
+        (c)    Social Media and E Commerce Transactions
+       (d)   Ease of Marketing
+Answers to Multiple Choice Questions (MCQs)
+
+    1.        (a)        2.         (c)        3.        (d)        4.        (b)        5.         (c)
+
+
+© The Institute of Chartered Accountants of India

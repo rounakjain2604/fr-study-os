@@ -1,0 +1,557 @@
+Source PDF: 07_SPOM/Set_C_07_Forensic_Accounting/011 - Chapter-10- Fraud Prevention - 79419bos63471-cp10.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_07_Forensic_Accounting\011 - Chapter-10- Fraud Prevention - 79419bos63471-cp10.pdf
+Extracted at: 2026-05-31T10:32:58+05:30
+Pages: 15
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          10
+         1
+FRAUD PREVENTION
+
+
+                       LEARNING OUTCOMES
+After studying this chapter, you would be able to understand-
+
+   Fraud prevention categories.
+   Ways to prevent fraud using Fraud Risk Assessment and Management initiatives.
+   Various combinations to Response to fraud risks.
+   Provisions of The Companies Act,2013 with regard to vigil mechanism.
+   Requisite of Whistleblower policies in managing fraud risk in every company.
+   Examples of Internal controls helpful in prevention of frauds in companies.
+   Magnitude of adopting a code of conduct or ethics within the organization for fraud
+      prevention.
+   Need for awareness about the disciplinary mechanism in an organisation.
+   Concept of natural justice and its basic Principles followed in India.
+    Brief concept of punishing a guilty as per criminal case or civil case.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+10.2          FORENSIC ACCOUNTING
+
+CHAPTER OVERVIEW
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+FRAUD PREVENTION              10.3
+
+     10.1 ANTI-FRAUD POLICIES/VIGILANCE MECHANISM
+10.1.1 Fraud prevention requires a system of anti-fraud policies and procedures. Such a system or
+vigilance Mechanism is necessary to minimize the likelihood of fraud occurrence while maximizing
+the possibility of detecting any fraudulent activity. The very possibility of  fraud exposure acts as a
+deterrent to potential fraudsters. Thus, existence of a systematic and detailed control system is
+essential to fraud prevention.
+10.1.2.   It is commonly agreed by the experts that preventing fraud is much beneficial and easier
+than detecting a fraud.  Following are some of the ways to prevent fraud using Fraud Risk
+Assessment and Management initiatives.
+1.    Conduct a Fraud Risk Assessment: The effective Prevention programs should always be
+        risk Based. Such risk should take into account the specific needs of the enterprise.  It is
+       possible that  if the risk assessment does not adjust to the specific organization, the
+      important factors might be missed and futile results are produced. Such an assessment
+      might also be affected due  to geographical  location, demography and social norms
+       prevailing in the region.
+2.    Assess likelihood and significance of occurrence: Once the specific fraud risks in the
+       organization are identified, the next step would be to assess that what is the likelihood of
+      occurrence of such fraud. Such likelihood can be determined based on the historical data
+        like past occurrences, complexity of fraud, unexplained losses, management ethics in the
+       organization, manual intervention in the systems, resources available to address the risk
+       etc. The likelihood may be classified as probable, reasonably probable or remote. The
+       significance of the risk needs to be assessed specific to the organization and its people,
+      using quantitative and qualitative factors.  It may also be termed as the impact that the
+      occurrence of the fraud might have on the organization. It may be identified as Material,
+       Significant or Immaterial. The factors used to determine the significance might be value of
+       the assets associated, current financial condition of the organization, financial Loss to
+      employees, adverse remarks in media (reputation loss_), criminal and civil Legal Liabilities,
+       decline in morale of the people in the organization etc.
+3.    Assess impact of specific people and Map the Existing Controls: Before mapping the
+       specific existing controls and procedures to the fraud risks identified,  it is important to
+       specifically evaluate the people who are mostly likely to commit the fraud. This step will
+      help the organization to develop  preventive controls more effectively like rotation and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+10.4          FORENSIC ACCOUNTING
+
+      segregation of duties, approval chains, periodic checks specific to certain departments in
+       the organization.
+       After  carrying  out  all  the above  steps  relating  to  likelihood,  significance  etc.,  the
+       organization needs to identify and map appropriately the existing preventive and detective
+       controls to the relevant fraud risks.
+4.    Evaluate whether identified controls operate effectively:  Once the mapping of the
+       existing control is done with the fraud risk,  it is of utmost importance to determine that
+      whether such controls are operating effectively. The factors to be kept in mind while
+       evaluating the above are that the risk is being mitigated in the manner intended by the
+     management, and the cost saved in case the fraud occurs exceeds the cost of the
+      implementation of the control. Interviews with the management, review of previous audit
+       reports, fraud incidents, recreation of transactions etc. can be helpful for such evaluation.
+5.    Address the Residual Fraud Risk: After the consideration of the overall internal control
+       structure and the required anti-fraud controls, the residual fraud risk will be determined.
+      Then, the likelihood and significance of occurrence of such residual fraud risk to be
+      determined by the risk assessment team in the Fraud Risk Response.
+6.    Determine the Fraud Risk Response: After  determination of the residual risks and its
+        intensity, adequate  controls need  to be designed addressing these  residual  risks.
+     Response to fraud risks can be done by using one or more of the following combinations:
+       (a)    Avoid the risk (E.g. Avoid the asset or business altogether as the cost of risk is much
+           more than the benefit it will give)
+       (b)    Transfer the risk (E.g. Purchase of an Insurance policy)
+        (c)    Mitigate the risk (E.g. By implementation of Preventive and Detective controls)
+       (d)   Assume the risk (E.g. Mostly in cases where the probability of the occurrence is very
+             low)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+FRAUD PREVENTION              10.5
+
+The following table features the steps involved in the fraud risk assessment:
+
+      Identified Risks       Likelihood   Personnel    Existing    Residual   Fraud Risk
+                         and       Impacted     Fraud      Fraud    Response
+                          Significance                 Control      Risk
+                                                            Activities
+
+ Financial     Statement
+ Fraud
+  E.g.:  Wrong  reporting,
+ Masked disclosures
+
+ Misappropriation       of
+ Assets
+  E.g.: Misappropriation of
+ Cash, inventory.
+
+ Corruption
+  E.g.:   Payment   and
+ receipt of bribes
+
+ External Risks
+  E.g.:  collusion between
+ contractors,    corporate
+ espionage
+
+ Other Risk
+  E.g.: Reputational risk, IT
+ Risk
+10.1.3. The details of the preventive and detective controls are discussed in the next section.
+10.1.4.  Vigilance   /  Whistleblower mechanism: Each company  should have  a  vigilance
+mechanism commensurate to its size of business. It is considered as an effective way to include the
+stake holders in the process of managing the fraud risk in any organization.
+ Companies Act, 2013 vide section 177 (9) and (10) read with Rule 7 of Companies (Meetings of
+Board and its Powers) Rules,2014 states as follows –
+177(9) - Every listed company or such class or classes of companies, as may be prescribed, shall
+establish a vigil mechanism for directors and employees to report genuine concerns in such manner
+as may be prescribed
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+10.6          FORENSIC ACCOUNTING
+
+177(10) - The vigil mechanism under sub-section (9) shall provide for adequate safeguards against
+victimization of persons who use such mechanism and make provision for direct access to the
+chairperson of the Audit Committee in appropriate or exceptional cases:
+Provided that the details of establishment of such mechanism shall be disclosed by the company on
+its website, if any, and in the Board’s report.
+Rule 7 states that every Listed Company and companies other than listed but which accept deposits
+from the public or the Companies which have borrowed money from banks and public financial
+institutions in excess of fifty crore rupees have to establish such a vigilance mechanism for their
+directors and employees to report their genuine concerns and grievances.
+A vigilance mechanism is a broader term surrounding the entire framework of systems, processes,
+and practices established by an organization to prevent and detect wrongdoing proactively. A
+whistleblower policy, is a specific component of the vigil mechanism, which provides a structured
+framework for individuals to report specific incidents or issues within the organization and ensures
+a fair and confidential process for addressing those concerns.
+Whistleblower Policies are critical tools in managing fraud risk in any company. This policy has a set
+of  guidelines and  directions  for  all the stakeholders  of  the company  including employees,
+shareholders, vendors or any other person, for reporting any act happening  in or about the
+organization which is unethical, illegal, and detrimental to the interest of the company or society at
+large. The intention and the purpose of such policy is to encourage employees to report misconduct,
+creating awareness about the policy. This would also eventually enable prompt reporting and
+resolution of issues on a timely basis, hence promoting corporate governance by fostering culture
+of accountability and transparency.
+The whistleblower policy is a must in all organizations, whether big or small, to prevent misconduct
+and uphold the interests of all stakeholders, internally or externally. One of the important aspects of
+whistleblower policy is anonymity to encourage the whistleblowers to act when they see wrongdoing.
+If the policy is not implemented appropriately and anonymity is not maintained, the whistleblower
+may face the challenge of being laid off, or even life threat in extreme situations.
+
+     10.2 INTERNAL CONTROLS AND SYSTEMS &
+      PROCESSES
+10.2.1 In any organization, it is the job of the management to ensure that proper and documented
+internal controls and systems and processes are in place which have to be in place to prevent and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+FRAUD PREVENTION              10.7
+
+detect errors and frauds. Following are the procedures and systems which are generally specifically
+designed to prevent and detect fraud.
+(a)    Ethics Programs: The details about having an Ethics Program is discussed in the next
+       section of Compliance mechanism.
+(b)   Increasing the Awareness about existing Detection procedures: Prevention of Fraud
+        is much useful and easier than detection of fraud. Increasing the awareness amongst the
+      people in the organization that detection procedures are present in the organization might
+      be the most effective way to prevent a fraud from happening.  It is letting the managers,
+      employees and executives know that the auditors are actively and periodically carrying out
+       the procedures with regards to detection of fraud or possible theft within the organization.
+      This can be done through the following controls in place:
+            i.     Employee Anti-Fraud education
+            ii.    Mandatory leave policy for employees
+            iii.    Job rotation policies
+        iv     Proactive and Surprise audits
+        v.     Effective reporting policies
+        vi    Use of Analytical Review procedures.
+          vii    Existence of an effective Whistleblower Mechanism.
+(c)    Anti-Fraud Policy One of the most important elements of an organization’s internal control
+      systems and  processes  is  a  well-documented  Anti-Fraud  policy. Have  such  well
+     documented policy sends out a strong message to the employees regarding zero tolerance
+       of the organisation with regards to employee frauds. The Anti-Fraud policy of any company
+      should have the following components –
+            i.    The anti-fraud policy should define fraud in clear and a concise language. It should
+           have straight forward message by the management regarding its intolerance to any
+             king of fraud big or small.
+            ii.    The anti-fraud policy should clearly state that  it applies to all at all levels, staff,
+           employees or executives.
+            iii.    The ultimate responsibility of fraud prevention and detection in any organisation is
+               of the management. But the management can delegate this duty of oversight to some
+              specific committee or individuals within the organisation; for example, a particular
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+10.8          FORENSIC ACCOUNTING
+
+              Director with requisite  skills, head of the Internal audit department, etc. Such
+            delegated  duties should  also be  clearly  defined  in  the  policy. Although  the
+              responsibility is stated clearly in the policy, the message should be clearly sent that
+             the co-operation of all employees is required in reporting and investigation of any
+              fraud. Failure by any employee to report any fraud or suspicious activity which
+            he/she is aware of, or reluctance in co-operation in any investigation can result in
+              disciplinary action against the employee.
+         iv.    The Anti-Fraud policy should also mention the actions constituting fraud. This
+             section of the policy cannot be an exclusive list, but it should include examples of
+             actions constituting fraud. While defining list of frauds, the management should keep
+               in mind the frauds that have already occurred in the past in the organisation or other
+              similar organizations known. This will provide specific guidance to employees as to
+           what constitutes fraud, and that financial materiality is not important here but the
+              intention  of the person  is. This  will also provide  clear  legal grounds  to the
+          management to investigate the fraud and punish the violators.
+        v.    The reporting procedures,and who  will investigate such reports should also be
+              clearly mentioned in such policy. The responsibility and authorities available to the
+            person handling such investigations needs to be mentioned in the policy. Authorities
+              available with the investigator with regards to examining records, or conducting,
+             search, or confiscation should be clearly stated.
+         vi.    The policy should state that the investigation will not be disclosed to the outsiders
+            except on need-to-know basis and due confidentiality will be ensured.
+          vii.   The employees should be made aware through the policy document about the
+              disciplinary action that can be taken for a fraudulent behavior. The actions can
+             include suspension, termination, loss of benefits, written warnings, reporting to law
+            enforcement agencies and legal actions to make the losses good.
+        viii.  The formal communication  of the Anti-Fraud  policy  to  its employees  is very
+             important.  If proper awareness is not created amongst employees regarding the
+             existence of such a policy and its implementation, the very purpose of having such
+           a policy is defeated. Such awareness can be created through circulation of the
+           document through notices and memos, creating awareness during orientation of new
+            employees, annual Trainings, conducting frequent games and quizzes etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+FRAUD PREVENTION              10.9
+
+(d)   Maintaining adequate Insurance Coverage: Organisations should ensure that they have
+      adequate insurance coverage to protect against fraud losses. This includes cyber insurance
+       to protect against cybercrime losses and fidelity insurance to protect against employee theft
+       or embezzlement losses. Such coverage can ensure Business  continuity  in  difficult
+       situations.
+10.2.2 Common internal controls helpful in prevention of frauds
+10.2.3 There have been various frauds which have shaken the Indian  corporate world and has
+brought about a lot of changes in the laws and ways the companies in India function.
+Some of the common Internal controls that prove to be helpful in prevention of frauds may include
+
+(a)    Segregation of Duties
+(b)    Rotation of Duties
+(c)    Rotation of Auditors
+(d)    Reconciliations
+(e)    Surprise audits
+(f)    Maintaining logs
+(g)   Having physical access controls
+(h)   Having logical access controls
+(i)    Sharing Information only on need-to-know basis
+(j)     Early reporting systems
+
+     10.3 COMPLIANCE CULTURE
+10.3.1 The initial step towards preventing fraud is to adopt a culture of honesty and integrity within
+the organisation. This can be achieved by establishing a code of conduct or ethics that clearly
+outlines the company's values and expectations for employee behavior.
+In most of the social groups, most of the members share the same set of values. Their understanding
+of what is right or wrong, what is good or bad, or what is moral or immoral is generally the same.
+Although individually all the people might not agree to the same set of values, but it generally affects
+the beliefs and behaviors of all the people. The collection of person’s beliefs and morals make up a
+set of principals known as ethics. A code of conduct or ethics could emphasize ethical attitudes and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+10.10          FORENSIC ACCOUNTING
+
+staff communication policies to prevent conflict or harassment while also outlining the consequences
+for poor behavior that violates the code. Although determining these ethics and right or wrong is
+really a tedious process as these social norms are subject to change with changing times. The
+factors that generally affect the organization’s or employees’ ethical decisions are –
+♦     Social Pressures
+♦     Religious scriptures
+♦     Industry and organizational ethical code
+♦    The law and other government regulations
+♦     Stiffness between personal standards and organizational needs.
+Some examples of changing ethics with time are –
+(i)    Status of women in Society
+(ii)   Use of animal product in attire
+(iii)    Infanticide was freely practiced in earlier times
+(iv)   Slavery was freely practiced in earlier times
+10.3.2 Legal v/s Ethical – Legal standards do not establish ethical  principles. Though
+abiding by law is an ethical behavior, still legal standards do not establish ethical principles or do
+not describe how an ethical person should behave. Ethical people measure their conduct by basic
+principles rather than rules. So generally, Law is only the minimum threshold in determining a
+person’s conduct, it does not address how people should behave ethically. For example, if a person
+is employed in a particular suspicious place of work by the management and is asked to remain
+under cover and pass on the data to the management,. it may be said that lying or concealing the
+true identity is ethically or morally wrong, but in the given condition and circumstance it was justified
+as it was done to unearth a possible fraudulent behavior by an employee or department which was
+prejudicial to the interests of the company.
+10.3.3. Written Code of Conduct: The code must be communicated effectively to all
+employees and appropriate training should be provided to ensure that everyone comprehends the
+significance of adhering to these guidelines. Furthermore, businesses should encourage a culture
+of transparency and urge employees to report any suspicious activity or behavior they observe. This
+can be accomplished by creating a reporting mechanism, such as a hotline or email address, and
+ensuring that employees feel comfortable utilizing it. This can also be done through establishing a
+whistleblowing system or by implementing an open-door policy where employees can report their
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+FRAUD PREVENTION             10.11
+
+concerns to a designated person. By promoting a culture of ethics and integrity, businesses can
+reduce the likelihood of fraud occurring in the first place.
+10.3.4 Development of a Code of Conduct or Ethics Program –
+The components that are necessary to be understood to develop an Ethical Code of Conduct are-
+♦     Vision Statement of the organisation
+♦    Values Statements
+♦    Focus on ethical Leadership
+♦    Designated Ethics Personnel
+♦     Ethics Team
+♦     Ethics Communication system
+♦     Ethics Training
+♦    Reporting system
+♦    Comprehensive system to track the available data and monitor existing systems
+Recognizing key organisational characteristics and issues is a start to the development of a program.
+These elements include:
+♦    Comprehending why people commit unethical acts
+♦    Determining  if values of the organisation have been communicated appropriately to the
+      stakeholders
+♦    Determining  if the ethical values are established from the leadership and top-bottom
+      approach is followed.
+♦     Ascertaining how the key management persons and individuals in any organisation define
+      success.
+♦     Writing the Ethics policy, procedures or structures.
+10.3.5 Sample Contents of a Business Code of Ethics and Conduct:
+♦    Purpose
+♦    Compliance with laws and Regulatory orders
+♦    Competition – Fair competition policy within and outside the organisation
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+10.12          FORENSIC ACCOUNTING
+
+♦    Accepting Gifts and Favors – Independence and Conflict of Interest
+♦     Moonlighting, Business meetings with the suppliers
+♦     Confidentiality and  Privacy. –  Intentional  or  Unintentional  leakage  of  data  during
+      communication
+♦     Protection of Company’s assets
+♦     Discipline
+♦    Annual declarations from Key Personnels regarding adherence to guidelines.
+10.3.6 Ethics for Fraud Examiners – As much is the ethics and culture important to each
+member of the organisation, as is to the people investigating. The Fraud examiners are held to a
+very high ethical standard. The decisions taken by the Fraud examiners are of utmost importance to
+the organisation as well as the people who are being investigated.
+There are Code of Ethics defined by the various Professional bodies for their members. For example
+ICAI has developed code of ethics for its members which are derived from the International Ethics
+Standards Board  for Accountants (IESBA) Code of Ethics, 2018 issued by the International
+Federation of Accountants (IFAC). The Model Code of Conduct is also issued by the IBBI in The
+Companies (Registered Valuers and Valuation) Rules, 2017. The Association of Certified Fraud
+Examiners also have Professional Code of Ethics for its members who are the fraud examiners.
+The components of Code of Ethics for Professional generally include the following –
+(i)     Professional Competence and Due Diligence
+(ii)     Integrity and Competence
+(iii)   Independence
+(iv)   Court orders and testimony
+(v)    Confidentiality
+(vi)   Reporting
+
+     10.4 DISCIPLINARY MECHANISM
+10.4.1. Prevention and Detection of fraud is of utmost importance in any organisation.  Similarly,
+awareness about the disciplinary mechanism is of utmost important.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+FRAUD PREVENTION             10.13
+
+10.4.2 Principles of Natural Justice are those regulations made by the jurisdictions to facilitate the
+rule against bias and the right to a fair hearing The basic aim of these principles is to ensure equality
+in justice and to prevent harm and unfairness towards the accused and the victim with regards to
+the people in power. The following parts of the Constitution bear the idea of Natural Justice.
+♦    The Preamble of the Indian constitution reads as follows:
+      The Preamble in its present form reads:
+
+      “We, THE PEOPLE OF INDIA, having solemnly resolved  to  constitute  India  into a
+     SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its
+       citizens:
+      JUSTICE, Social, Economic and Political;
+
+     LIBERTY of thought, expression, belief, faith and worship;
+
+     EQUALITY of status and of opportunity; and to promote among them all; FRATERNITY assuring
+       the dignity of the individual and the unity and integrity of the Nation;
+
+      IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY
+     ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION”
+
+     The preamble itself mentions quality in all forms, hence guiding us to the principles of
+       natural Justice. The Article 22 of the Constitution also specifically mentions about the
+       Protection against arrest and detention in certain cases.
+♦     Kautilya’s Arthashastra also states that “A King who administers justice in accordance with
+       ‘dharma’, evidence, customs, and written law  will be able to conquer whole world”. A
+       scripture as old as Arthashastra also set out the Principles of natural justice clearly.
+♦    Hon'ble Supreme Court's judgement in Mohinder Singh Gill v. Chief Election Commissioner,
+       states: "Indeed, natural justice is a pervasive facet of secular law where a spiritual touch
+       enlivens legislation, administration, and adjudication, to make fairness a creed of life."
+♦    The basic Principles of natural justice followed in India which is majorly adapted from the
+        traditional English Law are as follows
+          (i)    Rule against Bias – No man shall be a judge in his own case
+           (ii)    Rule of Fair hearing – No man should be condemned unheard, every person has the
+               right to know the reason for the decision, copy of a written verdict to be made
+              available.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+10.14          FORENSIC ACCOUNTING
+
+10.4.3 Punishing the Guilty: A fraudster may be penalized or prosecuted either for criminal or civil
+offences or both. .
+Criminal Case: A criminal action is initiated by Government acting on behalf of the citizens against a
+person who is accused of violating a law. Normally criminal offence is done with a culpable state of
+mind. Criminal cases are punished by outcomes such as imprisonment, fines, orders or restitution,
+probation and community service.
+
+Civil Case: A civil act doesn’t result in a criminal fine. If successful, they result in civil remedies like
+make the loss happened to the party suffering good, paying the damages etc.
+
+                     Test Your Knowledge
+
+Multiple Choice Questions (MCQs)
+1.    Of the following parties, who is responsible for the oversight of the organization’s financial,
+      accounting, and audit matters?
+       (a)   The chief financial officer
+       (b)   The audit committee
+        (c)   The internal auditors
+       (d)   The external auditors
+2.    Which of the following is FALSE regarding anti-fraud policy?
+       (a)   The disciplinary actions that can be taken should be mentioned.
+       (b)   Fraud awareness  training  efforts  should be  restricted  to  formal  educational
+           mechanisms.
+        (c)       It should mention activities constituting fraud.
+       (d)   Fraud awareness training should be required for employees both at time of hiring
+           and periodically thereafter.
+3.    Which of the following is not a Preventive internal control?
+       (a)    Sharing Information on Need-to-know basis
+       (b)    Segregation of Duties
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+FRAUD PREVENTION             10.15
+
+        (c)    Periodic Audit
+       (d)   Having logical Access controls
+4.    Which is the MOST EFFECTIVE method of preventing fraud out of the following?
+       (a)   Having an open-door policy
+       (b)    Increasing awareness about detective procedures
+        (c)    Screening employees
+       (d)    Conducting covert audits
+5.     In response to a risk identified during a fraud risk assessment, management decides to
+      purchase a forward contract to help protect the company against the associated risk of loss.
+      This response is known as:
+       (a)    Mitigating the risk
+       (b)    Avoiding the risk
+        (c)    Transferring the risk
+       (d)   Assuming the risk
+Answers to Multiple Choice Questions:
+    1.        (b)        2.        (b)        3.         (c)        4.        (b)        5.         (c)
+
+
+© The Institute of Chartered Accountants of India

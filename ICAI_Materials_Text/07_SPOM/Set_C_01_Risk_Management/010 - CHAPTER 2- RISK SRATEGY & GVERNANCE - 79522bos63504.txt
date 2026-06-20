@@ -1,0 +1,1135 @@
+Source PDF: 07_SPOM/Set_C_01_Risk_Management/010 - CHAPTER 2- RISK SRATEGY & GVERNANCE - 79522bos63504.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_01_Risk_Management\010 - CHAPTER 2- RISK SRATEGY & GVERNANCE - 79522bos63504.pdf
+Extracted at: 2026-05-31T10:30:05+05:30
+Pages: 29
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          2
+
+
+RISK STRATEGY &
+GOVERNANCE
+
+
+                       LEARNING OUTCOMES
+
+After going through the chapter student shall be able to understand:
+   Risk Management Frameworks
+   Implementation of Risk Management Polices & Processes
+   Enterprise Risk and linkage to Business
+   Governance & Ethical dimensions
+   Legal, Regulatory & Compliance
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+2.22.2            RISK MANAGEMENT
+
+ CHAPTER OVERVIEW
+
+
+                        RISK STRTEGY &
+                    GOVERNANCE
+
+                      Implementati                                           Enterprise                             Legal,      Risk           on of Risk                       Governanc                                         Risk and                          Regulatory  Management      Management                     e & Ethical                                            linkage to                     &  Frameworks          Polices &                        Dimensions                                       Business                       Compliance                     Processes
+
+      1.   RISK MANAGEMENT FRAMEWORK
+In simple terms Risk Management Framework (RMF) can be defined as a structured approach used
+to oversee and manage risk for an organisation.
+                  TABLE 1. Important Deﬁnitions of RMF
+  Source                   Deﬁnition of RMF
+  ISO 31000 Guide 73: 2009     It  is  set  of  components  that  provide  the  foundations  and
+                                 organizational   arrangements   for   designing,   implementing,
+                                monitoring, reviewing and continually improving risk management
+                              throughout the organization
+  The Orange Book         An  organisation’s  risk management framework harnesses  the
+                                      activities that identify and manage the uncertainties faced and
+                                 systematically anticipate and prepare successful responses.
+   Paul Hopkins               Set of activities that support the risk management process.
+Thus, from above  it can be concluded that a risk management framework for an organization
+includes:
+•     developing mechanism for identification of risk that could impact the organization.
+•     developing mechanism for assessment of risks identified in above step.
+•     preparation to mitigate or control the risks identified.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+RISK STRATEGY & GOVERNANCE              2.32.3
+
+Popularly two Risk Management Frameworks are used by most of the organisations:
+•   COSO Enterprise Risk Management Framework
+•    ISO 31000: 2018
+1.1 COSO Enterprise Risk Management Framework
+COSO (Committee of Sponsoring Organizations of the Treadway Commission) was founded in 1985
+to fund and oversee the National Commission on Fraudulent Financial Reporting.
+Following are five organizations are part of COSO
+(i)    The American Accounting Association
+(ii)   The American Institute of Certified Public Accountants
+(iii)    Financial Executives International
+(iv)   The Institute of Internal Auditors
+(v)   The Institute of Management Accountants
+In keeping with its overall mission, the COSO Board commissioned and published in 2004 the
+Enterprise Risk Management—Integrated Framework. Over the past decade, that publication has
+gained broad acceptance by organizations in their efforts to manage risk. However, also through
+that period, the complexity of risk has changed, new risks have emerged, and both boards and
+executives have enhanced their awareness and oversight of enterprise risk management while
+asking for improved risk reporting. This update to the 2004 publication addresses the evolution of
+enterprise risk management and the need for organizations to improve their approach to managing
+risk to meet the demands of an evolving business environment. The updated document, titled
+Enterprise Risk Management—Integrating with Strategy and Performance, highlights the importance
+of considering risk in both the strategy-setting process and in driving performance.
+COSO's stated mission is offering guidance on internal controls, risk management, governance and
+fraud deterrence to help organizations improve their performance.
+Following are components of latest Framework are as follows:
+Component 1 - Risk Governance and Culture:  Effective risk oversight relies on the Board's
+comprehension of the entity's strategy and industry landscape, alongside staying abreast of factors
+impacting the organization. The board of directors holds a pivotal position in risk governance and
+exerts considerable influence on ERM practices. Board members must possess requisite skills,
+experience, and business acumen, coupled with independence, accountability, and responsibility
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+2.42.4            RISK MANAGEMENT
+
+towards stakeholders. Moreover,  it is the board's prerogative to grasp the intricacies of the entity
+and ascertain how ERM can enhance its operations, including the benefits it can yield.
+Component 2  - Risk, Strategy, and Objective-Setting: Formulating strategy and business
+objectives stand as pivotal undertakings within any organization. Integration of Enterprise Risk
+Management (ERM) at this level is imperative. This integration affords organizations a profound
+understanding of both internal and external variables and their ramifications on risk. Risk appetite is
+determined in tandem with strategy formulation. Business objectives serve as the conduit for
+translating strategy into actionable plans, thereby molding the organization's daily activities and focal
+points.
+Component 3  - Risk  in Execution: This aspect  of the Framework concentrates on ERM
+methodologies that aid the organization in decision-making and attaining strategic and business
+goals.  It resembles traditional risk management practices, with the key distinction lying in the
+incorporation of a Risk Portfolio perspective within ERM. The organization identifies and evaluates
+potential risks that could hinder its strategy and business objectives. These risks are then ranked
+based on their seriousness, taking into account the organization's risk tolerance. Subsequently, the
+organization devises risk responses and continually monitors performance for any alterations.
+Through this process,  it cultivates a comprehensive overview of the risk exposure inherent in
+pursuing its strategic and business objectives.
+Component 4 - Risk Information, Communication, and Reporting: Management utilizes pertinent
+and high-quality data sourced from both internal and external channels to bolster ERM practices.
+The organization harnesses information systems to collect, analyze, and oversee data and insights
+effectively. Through the utilization of information pertinent to all facets, the organization furnishes
+reports on risk, culture, and performance.
+Component 5  - Monitoring Enterprise Risk Management Performance: Monitoring  offers
+valuable  insights  into  the  efficacy  of ERM implementation  within  the  organization and  the
+functionality of its components over time, especially in response to significant changes.
+1.2 ISO 31000: 2018
+The International Organisation for Standardisation (ISO) is an international standardsetting body
+composed of representatives from various national standards organisations. This organisation
+promotes worldwide proprietary, industrial, and commercial standards.
+The ISO 31000:2018 Risk Management is divided into 3 major segments namely:
+•    The Principles,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+RISK STRATEGY & GOVERNANCE              2.52.5
+
+•    The Framework, and
+•    The Process.
+Now let us discuss each segment one by one.
+1.2.1 Principles
+As mentioned in the standard, the Principles are the foundation for managing risk. These principles
+should be considered  with the utmost importance when  establishing the organisation’s  risk
+management framework and processes.
+These are the guiding factors that enable the organisation to achieve  its objectives. The core
+principle around which the Risk Management standard  is established  is “Value creation and
+Protection”. All other principle is bounded together with this core principle.
+According to the principle, Risk Management not only creates value to the internal stakeholders
+namely management and shareholders who want to see their stake appreciate but also to all external
+stakeholders including the customers purchasing its products and services.
+
+1.2.2 Framework
+The Framework needs to be designed to assist the organisation to integrate Risk Management with
+all  the  activities and  functions  of  the  organisation. Framework development encompasses
+integrating, designing, implementing, evaluating, and improving Risk Management across the
+organisation. The framework should be customized as per the needs and demands  of the
+organisation.
+
+1.2.3 Process
+According to this ISO, the Risk Management process involves the following activities: namely:
+(i) Communicating and Consulting: Communication and Consultation should take place across
+the organization which includes the internal and external stakeholders.
+Further, it should also take place throughout all the stages of Risk Management. This will facilitate
+the stakeholder  to understand  the  risk and make informed  decisions. Communication and
+Consultation aim to bring different areas of expertise together at each stage of the Risk Management
+process and provide sufficient information to facilitate risk oversight and decision-making.
+(ii) Defining Scope, Context and Criteria: The organisation needs to define the scope of Risk
+Management activities. Risk Management can be applied across all the levels and functions of
+management namely  strategic,  operational,  project  activity among  others. To have a  clear
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+2.62.6            RISK MANAGEMENT
+
+understanding as to what is covered and what is not, it is required to define the scope. This will also
+support in aligning the organisation’s objective.
+The external and internal context of the Risk Management process should be established by
+understanding both the external and internal environment in which the organisation operates.
+Further,  this should also  reflect the specific environment  of the  activity  for which the Risk
+Management process is applied.
+The organisation should specify and document the amount and type of risk that it may or may not
+want to contemplate for Risk Management considering the objective of the organisation and its
+stakeholders. It should also be aligned with the Risk Management Framework and the scope of the
+Risk Management process. The Risk Criteria need to be defined after considering the positive and
+negative consequences of the inclusions and exclusions.
+The Risk Criteria need to be fixed along with the scope of the Risk Management process; however,
+it needs to be dynamic. In other words,  it needs to be reviewed and monitored periodically and
+amended on a need basis.
+(iii)  Risk Assessment: The  Risk Assessment  process  consists  of  process namely  Risk
+Identification, Risk Analysis, and Risk Evaluation.
+In Risk Identification the organisation identifies new, emerging, and changing risks which will have
+a negative impact on the achievement of its strategy and business objectives. Risk Identification
+should occur at all levels of management and across all functions. Relevant, appropriate, and up-to-
+date information is important for identifying risks. During Risk Identification factors namely tangible
+and intangible sources of risk, causes and events, threats and opportunities, vulnerabilities and
+capabilities, changes in the external and internal context need to be considered.
+In Risk Analysis the risks identified needs to be analyzed to understand the severity of each risk.
+The purpose of the Risk Analysis is to comprehend the nature of risk, its characteristics, risk sources,
+consequences, likelihood, events, scenarios, controls, and their effectiveness. The event can have
+multiple causes and consequences and can affect multiple objectives and at multiple levels of the
+organisation. Hence the Risk Analysis needs to be undertaken at a varying degree at all levels of
+the organisation. Further, depending on the complexities and circumstances, the quantitative
+techniques, qualitative techniques, or a combination of both can be used to assess/analyze the risk.
+Risk Analysis will be the basis for Risk Evaluation and Risk Treatment.
+Risk Evaluation refers to comparing the results of the Risk Analysis and determining the actions to
+be initiated considering the Risk Criteria defined in the scope. In other words, the purpose of the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+RISK STRATEGY & GOVERNANCE              2.72.7
+
+Risk Evaluation is to support the decision related to Risk Treatment. The outcome of Risk Evaluation
+should be recorded, communicated, and then validated at appropriate levels of Management.
+(iv) Risk Treatment: Risk Treatment should be deployed for all identified risks. Risk Treatment
+refers to the process of addressing the risk i.e. the process of the selection and implementation of
+the Risk Treatment options. Hence the Risk Treatment has the two sub processes namely selection
+of Risk Treatment options and preparing and implementing Risk Treatment plans.
+•     Selection of Risk Treatment Options: While  selecting Risk Treatment  options,  the
+       organisation has to perform the cost-benefit analysis. The organisation has to consider
+       potential socio economic benefits derived from the implementation of the Risk Treatment
+       option and assess the same against all the direct and indirect costs that would be incurred
+       during and after the implementation.
+•     There are various options for Risk Treatment which can be considered based on the Risk
+       Analysis.
+•     Avoiding the risk
+•     Removing the risk source
+•     Changing the likelihood
+•     Changing the consequences
+•     Sharing or Transfer the risk (like Insurance)
+•     Retaining the risk by informed decision
+     The  selection  of  Risk  Treatment  options  should be made  in accordance  with  the
+       organisation’s objectives, risk criteria, and available resources.
+•     Preparing and Implementing Risk Treatment Plans: Post selection of the Risk Treatment
+       option, the next stage is to draft the plan which specifies how the chosen treatment options
+      would be implemented. This plan should clearly identify the order in which Risk Treatment
+      should be implemented. The Treatment plans should be communicated to the appropriate
+       stakeholder and  it should be integrated into the management plans and processes of the
+       organisation.  It should also contain when actions are expected to be undertaken and
+      completed.
+(v)  Monitoring and Reviewing: Risk Treatment options, even if carefully designed and implemented
+might not produce the expected outcomes and could produce unintended consequences. Hence, we
+need to have a monitoring and review process to assure and improve the quality and effectiveness
+of process design, implementation, and outcomes. Ongoing Monitoring and review should be an
+integral part to give assurance that the different forms of treatment become and remain effective.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+2.82.8            RISK MANAGEMENT
+
+Monitoring and Review include planning, gathering and analyzing information, recording results, and
+providing feedback.
+(vi) Recording and Reporting: The Risk Management process and  its outcomes should be
+documented and reported through appropriate mechanisms. Recording and Reporting aim to
+communicate Risk Management activities and outcomes across the organisation to all stakeholders
+and to support decision making. The need for reports / information is different for a different level of
+management. Reporting is an integral part of the organisation’s governance and should enhance
+the quality of dialogue with stakeholders and support top management and oversight bodies in
+meeting their responsibilities. Each report user will require different levels of detail of risk and
+performance information to  fulfill  their responsibilities  in the organisation. Reporting supports
+personnel at all levels to understand the relationships between risk and performance and to improve
+decision-making. The Factor like frequency, timeliness, and cost associated with the same should
+be considered while determining the appropriate reporting structure.
+
+     2.  IMPLEMENTATION OF RISK MANAGEMENT POLICES &
+      PROCESSES
+Broadly Risk management policies attempt to identify key risk events impacting the business
+objective and ensure timely evaluation, reporting and monitoring of key business risks.
+More precisely the following are objectives of Risk Policies.
+(a)    Explains roles / responsibilities of Board/ Audit committee/ Chief Risk officer/Risk owners etc.
+(b)    Outlines the key aspects of risk management process and reporting requirements.
+(c)    Describe the context for risk management as a part of overall system.
+(d)    Lagging down a framework for identification, assessment and mitigation of various faced risk
+        in the organisation.
+(e)    Providing assistance and improving quality of decision making.
+       1.     Further, following are some guiding principles that make Risk Policies effective.
+       2.    Business decisions should be made with the prior information and acceptance of risk
+              involved.
+       3.    Should  provide  for  the enhancement and  protection  of  business  value  from
+              uncertainties especially Black swan events.
+       4.    Make employees aware about risks involved in their domain area about risks involved
+           and measures to manage them.
+       5.     Risk management measures should be embedded in the business process of the
+           company.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+RISK STRATEGY & GOVERNANCE              2.92.9
+
+       6.     Risk Appetite/Tolerance level should be reviewed on periodical basis and should be
+          amended depending on change in company’s strategy.
+       7.    The occurrence, progress and status of various risks involved should be reported
+              timely and proper action should be taken.
+
+      3.   ENTERPRISE RISK AND LINKAGE TO BUSINESS
+RM is a dynamic function and to consider any business without risk is next to impossible.
+Thus, RM can be defined as a coordinated or pre decided activity meant to direct and control
+challenges or threat faced by any organization to achieve its goals and objectives.
+Now question arises, what is Enterprise Risk? Enterprise Risk can be defined as enterprise -wide
+approach meant to address full spectrum of organization’s various risks contrary to silo approach.
+Hence, not only  it provides an enterprise – wide view but considers strategically aligned portfolio
+view of organizational opportunities and challenges and prioritize them to manage them in an
+effective manner.
+Since Enterprise Risk looks for enterprise spectrum,  it helps to determine the extent to which the
+corporate strategy differs from corporate objectives and extent to which  it fails to meet these
+corporate objectives. The Enterprise Risk embodies into corporate strategies the risk profile that
+arise due to various factors that arises an account of various factors.
+If an organization wants to minimize the effect of risk on earnings and growth it must implement a
+comprehensive Enterprise Risk Management Programme. A successful ERM should not only strive
+to align a firm’s organization structure, process and other factors but also develop adequate risk /
+reward benchmarks that assist in risk assessments in various operational activities.
+The linkage of Enterprise Risk to a business can be discussed under heads.
+(1)   How ERM can help an organization.
+(2)   Key components that should be considered by a firm in developing ERM that provide a
+       competitive Advantage.
+(3)    Integration of Business Continuity Plans and Enterprise Risk Management.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+2.102.10           RISK MANAGEMENT
+
+3.1 How ERM can help an organization
+Specifically, ERM can help organizations:
+(a)     Identify strategic risk opportunities that, if undertaken, can facilitate achieving organizational
+       goals.
+(b)    Introduce a common language within the organization where people recognize problems and
+      adopt a problem solving approach by developing risk treatment actions.
+(c)    Provide senior management with the most up-to-date information regarding risk that may be
+      used in the decision-making process.
+(d)    Establish linkage between the ERM initiative and adherence to capital market reporting
+       disclosures and other corporate laws and regulations.
+(e)    Align annual performance goals with risk identification and management.
+(f)    Encourage and reward upstream reporting of business-risk opportunities and challenges.
+(g)    Align other risk monitoring initiatives such as self-appraisals, internal auditing activities,
+       control assessments, continuous control monitoring, to organizational objectives.
+(h)    Imagining key Risk Scenarios that could potentially result in a stress on the financial position
+       of the company.
+(i)     Financial Risk monitoring a part of the ERM initiative can balance the financial stability
+      equation of the company.
+3.2 Key components that should be considered by a firm in developing
+ERM
+The following are some components that should be considered by an organization while developing
+an ERM programme.
+(i) Business strategy and objectives: - This is the first step in integration of ERM and business
+goals and objectives. The strategic objective of an organization can be achieving sustainable growth,
+achieve a certain Market share, shareholder’s wealth maximization, service to stakeholders, ESG
+etc.
+The objective of organization helps in assessing the level of risk it is willing to assume in execution
+of related strategies. The role of ERM in connection with strategies is to challenge those assumptions
+on which these strategies are based and which are not accurate.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+RISK STRATEGY & GOVERNANCE             2.112.11
+
+(ii) Risk Appetite: - It can be defined as the amount of risk an organization is willing to accept in
+pursuit of achieving organizational goals.
+A Risk Appetite statement not only reflects entity’s risk management philosophy but also impacts its
+culture and operation style.
+While developing Risk Appetite statement organization’s existing profile, capacity attitude, and
+tolerance toward risk must be considered. This statement should be translated into a written form.
+Though overall risk appetite can be communicated through a broad statement however to make it
+effective,  it should be expressed individually for each category of risk to which organization is
+exposed to. It should be noted that an effective risk appetite statement needs to be precise so that
+it could be communicated effectively and proved helpful in decision making. It will be very effective
+if it is broken into specific operating metrics which can be monitored.
+For example, while analysing credit risk the operating metrics can be % of Bad Debt to Net Credit
+Sales, % of outstanding payment over say 30 days. Whenever any metric deteriorates or exceeds
+the required standard there is a call for required action.
+Further it is important to note that risk appetite need to be continuously monitored and needs to be
+revised with change in strategies and objectives.
+(iii) Risk Culture: - Risk culture can be defined as a set of values, attitudes and practices followed
+in an organization in day-to-day activities.
+The culture arises from the repeated behavior of the people in the organization. For an effective
+ERM, there should be strong Risk culture that helps in resolution of conflict and top-down / bottom
+up decision making.
+(iv) Risk Data: - For an effective Enterprise Risk there should be robust Risk Data system so that
+required information could be assimilated, integrated, analyzed and converted into quality reports
+for decision making.
+(v) Internal Control: - Importance of proper Internal control cannot be ignored in an Enterprise Risk
+Management. Inherent risk is the level of risk assuming no internal controls, while residual risk is
+the level of risk after considering the impact of internal controls. For example, the risk of 'over/
+understatement of revenue' without considering any internal controls indicates inherent risk. The
+above risk when considered with internal controls in place (say, monthly reconciliation of revenue
+and follow up, correction of discrepancies, etc.) indicate residual risk.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+2.122.12           RISK MANAGEMENT
+
+The objective of internal controls is to reduce the inherent risk and keep the residual risk within the
+organization's risk appetite. The gap between the inherent risk and residual risk shows the strength
+of the control and is known as the control score.
+(vi) Measurement and Evaluation: - To rank the various risk it is very necessary that identified risk
+should be measured and evaluated. Various techniques such as value at Risk, Standard Deviation
+etc. should be used.
+(vii) Scenario Analysis & Planning: - Scenario analysis and planning helps to identify the missing
+links. Thus, same should be identified and managed as required.
+(viii) Evaluation of ERM: - Once enterprise risk is implemented; it should be evaluated on required
+intervals and should be improved if required so.
+3.3  Integration  of Business  Continuity  Plans and  Enterprise  Risk
+Management
+Business Continuity Plan (BCP) includes tasks like establishing continuity strategies, planning for
+continuity of critical operations, continuity management etc. BCP is a plan that contains the steps
+that would be taken by an entity to resume its business functions during its period of disruption.
+These plans are executed in parallel with the disaster recovery plans depending on the impact of
+the disaster. BCPs on a whole is about re-establishing existing business processes and functions,
+communications with the business contacts and resuming business processes at the primary
+business location.
+Generally, ERM and BCP share common goals directed towards achievement of strategic objectives
+•      Identification of interruption risk
+•     Assessing of interruption risk
+•     Managing of interruption risk
+Now question arises why integration of BCP and ERM is required. This is due to various synergies.
+Some of these synergies are as follows:
+(i)   ERM and BCP program owners are generally same individuals even though they are
+      supported by different administrative staff.
+(ii)    Generally same risks are reported to Risk Committee or Board of Directors by both ERM and
+     BCP owners.
+(iii)   Since both ERM and BCP are related to operational interruption risks ERM categories the
+       various  threshold  used to standardize the Business Impact Analysis (BIA) which BCP can
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+RISK STRATEGY & GOVERNANCE             2.132.13
+
+      use to draw base line from which an organisation has to initiate the action. These impacts
+      could be critical, important and routine.  It is important to note that an impact may not be
+         critical for one department, may be critical for another department.
+      Furthermore, Risk Appetite and tolerance decisions are also informed by BIA results.
+(iv)   Based on the Risk Appetite and Tolerance it is decided that how to respond to interruption
+       risks i.e. Risk Treatments / Strategies.
+       Further  after  identification  of areas  critical  to achieve strategic and operational goals
+       resilience improvements are made in these areas.
+(v)    Proper documentation  is made  for  the approved  strategies meant  for responding  to
+       interruption risks.
+(vi)    In last the result of BCP and response to actual interruption events evaluated that provide
+      feedback loop to ERM.
+
+      4.  GOVERNANCE & ETHICAL DIMENSIONS
+Corporate Governance is being considered the ruling mantra by stakeholders and managers since
+last decade. Even in third world countries where things does not seem to move very fast, corporates
+and their shareholders are doing everything in their control to implement the practices of Corporate
+Governance.
+But now a days managers all over the Globe have realised that mere Corporate Governance is not
+sufficient to safeguard the interests of enterprise and its stakeholders. Both boards and senior
+management continue to face new and increasingly complex business challenges-mergers and
+acquisitions, advances in technology and the demands of conducting business in a global economy,
+among many others. Particularly in India, the shift from a controlled economy to an open economy
+has increased the potential for risks and, also the commensurate rewards. This paradigm shift has
+put on the Board of Companies an onerous responsibility of managing with requisite skills and a
+degree of caution, the risks thrown by the internal and external environment. Consequently, the once
+impervious boardroom has become increasingly subject to shareholder activism and rigorous
+regulatory scrutiny. Today's directors and officers face rapidly evolving standards and corresponding
+new liability risks-in their pursuit of improved corporate performance. In this changing scenario,
+every professional is realizing that mere 'Conformance' (read Corporate Governance) would not help
+them in achieving their roles but it is 'Performance'(read Business Governance) which is also a major
+contributing factor.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+2.142.14           RISK MANAGEMENT
+
+Chartered Accountants can play a critical role in evolving a holistic approach, which embodies not
+only good corporate governance but also effective performance management. This explains the
+growing international shift from mere Corporate Governance to Enterprise Governance.
+Corporate governance can be complex.   It  is  the  relationship among  various  participants-
+shareholders, management and the board of directors-who work in concert to determine the direction
+and performance of corporations. The accepted governance framework is simple: management is
+accountable to the board, and the board is accountable to the shareholders. For the past 10 years,
+this framework, particularly the board's  role, has been evolving. The board does more than
+mechanically link those who manage the corporation and those who own  it. As a surrogate for
+dispersed ownership, in fact, the board is at the centre of corporate governance itself, working
+aggressively and independently on behalf of shareholders and, in some circumstances, other
+constituencies.
+Internationally  there  is now an  increasing momentum towards  constituting more laws and
+government regulations that impose obligations on companies, their directors and officers, to adopt,
+implement and comply with good corporate governance. Failure to do so may lead to legal and
+criminal sanctions being imposed on the company, its directors and officers.
+The quality of governance is of absolute importance to various stakeholders including shareholders
+as it provides them with a level of assurance that the business of the company is being conducted
+in a manner that adds shareholder value and safeguards its assets.  If a company adopts and
+implements good governance practices, shareholders are retained and new investors attracted.
+Opinion surveys have revealed that institutional investors have indicated a willingness to pay a
+premium for the shares of a well-governed company.
+Like the term ‘‘freedom’’, enterprise governance is a concept that is understood generally, there
+being no formal body charged with  its definition and promotion. Therefore, this discussion of
+enterprise governance is based solely on the interpretation of the author.
+Enterprise governance  is the  accountability framework  for  all management processes. This
+framework is designed (explicitly or implicitly) by the executive team under the auspices of the board
+of directors. Together, they strive to optimize use of resources by aligning all the activities of the
+organization in order to clarify and execute strategic and operational direction as well as attitude
+toward risk.
+Information System Audit and Control Foundation defines enterprise governance as 'The set of
+responsibilities responsibilities and practices exercised by the Board and the executive management
+with the goal of providing strategic direction, ensuring that objectives are achieved, ascertaining that
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+RISK STRATEGY & GOVERNANCE             2.152.15
+
+risks  are managed  appropriately and  verifying  that  the  organisation's  resources  are used
+responsibly.'
+In nutshell enterprise governance also addresses the performance management aspects with
+emphasis on strategy and forward direction. The whole objective behind adopting enterprise
+governance practices is to install a system and process by which entities are directed and controlled
+to enhance  performance and  sustain  shareholder  value.   It  concerns  the  effectiveness  of
+management structures (including the role of directors), the sufficiency and reliability of corporate
+reporting, and the effectiveness of risk management systems.
+A global standard of "good enterprise governance" is still developing, and includes:
+      Independent monitoring of management.➢
+      Transparency on corporate performance, ownership and control.➢
+       Participation in fundamental decisions by shareholders.➢
+     Company compliance with relevant laws and regulations.➢
+     A board of directors with the information and independence to assure compliance with these➢
+       standards.
+       Strategic Planning and alignment.➢
+       Strategic Decision Making.➢
+       Strategic Risk Management.➢
+      Scorecards.➢
+       Strategic Enterprise systems.➢
+      Continuous Improvement.➢
+During the recent past, the issue of enterprise governance has been dominated by reactions to three
+major events: the collapse of Enron and the crash of other high-profile financial restatements; new
+risk perceptions due to the tragic events of 9/11; and the economic downturn and its impact on
+financial reporting.
+Each of these events has resulted in significant shareholder interest in enterprise governance and
+how it might be improved to minimise similar risks in their companies. Boards are under increasing
+pressure to become more accountable, transparent and responsive to stakeholders.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+2.162.16           RISK MANAGEMENT
+
+4.1  G20/  OECD  GUIDELINES  (PRINCIPLES)  FOR  CORPORATE
+GOVERNANCE
+Corporate governance involves a set of relationships between a company’s management, its board,
+its shareholders and other stakeholders. Corporate governance also provides the structure through
+which the objectives of the company are set, and the means of attaining those objectives and
+monitoring performance are determined.
+The G20/OECD Principles of Corporate Governance help policy makers evaluate and improve the
+legal, regulatory, and institutional framework for corporate governance, with a view to supporting
+economic efficiency, sustainable growth and financial stability.
+The Principles are divided into six different chapters and accordingly here they have presented as
+sub-headings and then sub-principles.
+4.1.1 Ensuring the basis for an effective corporate governance framework
+The corporate governance framework should promote transparent and fair markets, and the efficient
+allocation of resources. It should be consistent with the rule of law and support effective supervision
+and enforcement.
+A.    The corporate governance framework should be developed with a view to its impact on overall
+      economic performance, market integrity and the incentives it creates for market participants
+      and the promotion of transparent and well-functioning markets.
+B.    The legal and regulatory requirements that affect corporate governance practices should be
+       consistent with the rule of law, transparent and enforceable.
+C.    The division of responsibilities among different authorities should be clearly articulated and
+      designed to serve the public interest.
+D.    Stock market regulation should support effective corporate governance.
+E.     Supervisory, regulatory and enforcement authorities should have the authority, integrity and
+      resources to fulfil their duties in a professional and objective manner. Moreover, their rulings
+      should be timely, transparent and fully explained.
+F.    Cross-border co-operation should be enhanced, including through bilateral and multilateral
+      arrangements for exchange of information.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+RISK STRATEGY & GOVERNANCE             2.172.17
+
+4.1.2 The  rights and  equitable treatment  of shareholders and key
+ownership functions
+The corporate governance framework should protect and facilitate the exercise of shareholders’
+rights and ensure the equitable treatment of  all shareholders, including minority and foreign
+shareholders. All shareholders should have the opportunity to obtain effective redress for violation
+of their rights.
+A.    Basic shareholder rights should include the right to:
+       1)    secure methods of ownership registration;
+       2)    convey or transfer shares;
+       3)     obtain relevant and material information on the corporation on a timely and regular
+              basis;
+       4)     participate and vote in general shareholder meetings;
+       5)     elect and remove members of the board; and 6) share in the profits of the corporation.
+B.    Shareholders should be  sufficiently informed about, and have the  right to approve or
+       participate in, decisions concerning fundamental corporate changes such as:
+       1)    amendments  to  the  statutes,  or  articles  of  incorporation  or  similar governing
+           documents of the company;
+       2)     the authorisation of additional shares; and
+       3)     extraordinary transactions, including the transfer of all or substantially all assets, that
+                in effect result in the sale of the company.
+C.    Shareholders should have the opportunity to participate effectively and vote in general
+      shareholder meetings and should be informed of the rules, including voting procedures, that
+      govern general shareholder meetings:
+       1.     Shareholders should be furnished with sufficient and timely information concerning the
+              date, location and agenda of general meetings, as well as full and timely information
+             regarding the issues to be decided at the meeting.
+       2.    Processes and procedures  for  general shareholder meetings should  allow  for
+              equitable treatment of  all shareholders. Company procedures should not make  it
+            unduly difficult or expensive to cast votes.
+       3.     Shareholders should have the opportunity to ask questions to the board, including
+             questions relating to the annual external audit, to place items on the agenda of general
+             meetings, and to propose resolutions, subject to reasonable limitations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+2.182.18           RISK MANAGEMENT
+
+       4.     Effective shareholder participation in key corporate governance decisions, such as the
+             nomination and election of board members, should be facilitated. Shareholders should
+           be able to make their views known, including through votes at shareholder meetings,
+           on the remuneration of board members and/or key executives, as applicable. The
+              equity component of compensation schemes for board members and employees
+            should be subject to shareholder approval.
+       5.     Shareholders should be able to vote in person or in absentia, and equal effect should
+           be given to votes whether cast in person or in absentia.
+       6.    Impediments to cross border voting should be eliminated.
+D.    Shareholders, including institutional shareholders, should be allowed to consult with each
+       other on issues concerning their basic shareholder rights as defined in the Principles, subject
+       to exceptions to prevent abuse.
+E.      All shareholders of the same series of a class should be treated equally. Capital structures
+      and arrangements that enable certain shareholders to obtain a degree of influence or control
+       disproportionate to their equity ownership should be disclosed.
+       1.     Within any series of a class, all shares should carry the same rights. All investors
+            should be able to obtain information about the rights attached to all series and classes
+               of shares before they purchase. Any changes in economic or voting rights should be
+              subject to approval by those classes of shares which are negatively affected.
+       2.    The disclosure of capital structures and control arrangements should be required.
+F.     Related-party transactions should be approved and conducted in a manner that ensures
+      proper management of conflict of interest and protects the interest of the company and its
+       shareholders.
+       1.     Conflicts of interest inherent in related-party transactions should be addressed.
+       2.    Members of the board and key executives should be required to disclose to the board
+            whether they, directly, indirectly or on behalf of third parties, have a material interest
+                in any transaction or matter directly affecting the corporation.
+G.     Minority shareholders should be protected from abusive actions by, or in the interest of,
+       controlling shareholders acting either directly or indirectly, and should have effective means
+       of redress. Abusive self-dealing should be prohibited.
+H.    Markets for corporate control should be allowed to function in an efficient and transparent
+      manner.
+       1.    The rules and procedures governing the acquisition of corporate control in the capital
+             markets, and extraordinary transactions such as mergers, and sales of substantial
+              portions of corporate assets, should be clearly articulated and disclosed so that
+              investors understand  their  rights and  recourse.  Transactions  should  occur  at
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+RISK STRATEGY & GOVERNANCE             2.192.19
+
+             transparent prices and under fair conditions that protect the rights of all shareholders
+             according to their class.
+       2.     Anti-take-over devices should not be used to shield management and the board from
+              accountability.
+4.1.3 Institutional investors, stock markets, and other intermediaries
+The corporate governance framework should provide sound incentives throughout the investment
+chain and provide for stock markets to function in a way that contributes to good corporate
+governance.
+A.     Institutional  investors  acting  in a  fiduciary  capacity  should  disclose  their  corporate
+      governance and voting policies with respect to their investments, including the procedures
+       that they have in place for deciding on the use of their voting rights.
+B.    Votes should be cast by custodians or nominees in line with the directions of the beneficial
+      owner of the shares.
+C.     Institutional investors acting in a fiduciary capacity should disclose how they manage material
+        conflicts of interest that may affect the exercise of key ownership rights regarding their
+       investments.
+D.    The corporate governance framework should require that proxy advisors, analysts, brokers,
+       rating agencies and others that provide analysis or advice relevant to decisions by investors,
+       disclose and minimise conflicts of interest that might compromise the integrity of their analysis
+       or advice.
+E.     Insider trading and market manipulation should be prohibited and the applicable rules
+       enforced.
+F.    For companies who are listed in a jurisdiction other than their jurisdiction of incorporation, the
+       applicable corporate governance laws and regulations should be clearly disclosed. In the
+      case of cross listings, the criteria and procedure for recognising the listing requirements of
+       the primary listing should be transparent and documented.
+G.    Stock markets should provide fair and efficient price discovery as a means to help promote
+       effective corporate governance.
+4.1.4 The role of stakeholders in corporate governance
+The corporate governance framework should recognise the rights of stakeholders established by
+law or through mutual agreements and encourage active co-operation between corporations and
+stakeholders in creating wealth, jobs, and the sustainability of financially sound enterprises.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+2.202.20           RISK MANAGEMENT
+
+A.    The rights of stakeholders that are established by law or through mutual agreements are to
+      be respected.
+B.    Where stakeholder interests are protected by law, stakeholders should have the opportunity
+       to obtain effective redress for violation of their rights.
+C.    Mechanisms for employee participation should be permitted to develop.
+D.    Where stakeholders participate in the corporate governance process, they should have
+      access to relevant, sufficient and reliable information on a timely and regular basis.
+E.     Stakeholders, including individual employees and their representative bodies, should be able
+       to freely communicate their concerns about illegal or unethical practices to the board and to
+       the competent public authorities and their rights should not be compromised for doing this.
+F.    The corporate governance framework should be complemented by an effective, efficient
+       insolvency framework and by effective enforcement of creditor rights.
+4.1.5 Disclosure and transparency
+The corporate governance framework should ensure that timely and accurate disclosure is made on
+all material matters regarding the corporation, including the  financial  situation, performance,
+ownership, and governance of the company.
+A.    Disclosure should include, but not be limited to, material information on:
+       1.    The financial and operating results of the company.
+       2.    Company objectives and non-financial information.
+       3.    Major share ownership, including beneficial owners, and voting rights.
+       4.    Remuneration of members of the board and key executives.
+       5.     Information about board members, including their qualifications, the selection process,
+             other company directorships and whether they are regarded as independent by the
+             board.
+       6.     Related party transactions.
+       7.    Foreseeable risk factors.
+       8.     Issues regarding employees and other stakeholders.
+B.     Information should be prepared and disclosed in accordance with high quality standards of
+      accounting and financial and non-financial reporting.
+C.   An annual audit should be conducted by an independent, competent and qualified, auditor in
+      accordance with high-quality auditing standards in order to provide an external and objective
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+RISK STRATEGY & GOVERNANCE             2.212.21
+
+      assurance to the board and shareholders that the financial statements fairly represent the
+       financial position and performance of the company in all material respects.
+D.     External auditors should be accountable to the shareholders and owe a duty to the company
+       to exercise due professional care in the conduct of the audit.
+E.    Channels for disseminating information should provide for equal, timely and cost-efficient
+      access to relevant information by users.
+4.1.6 The responsibilities of the board
+The corporate governance framework should ensure the strategic guidance of the company, the
+effective monitoring of management by the board, and the board’s accountability to the company
+and the shareholders.
+A.    Board members should act on a fully informed basis, in good faith, with due diligence and
+       care, and in the best interest of the company and the shareholders.
+B.    Where board decisions may affect different shareholder groups differently, the board should
+        treat all shareholders fairly.
+C.    The board should apply high ethical standards. It should take into account the interests of
+       stakeholders.
+D.    The board should fulfil certain key functions, including:
+       1.    Reviewing and guiding corporate strategy, major plans of action, risk management
+               policies and procedures, annual budgets and business plans; setting performance
+              objectives; monitoring implementation and corporate performance; and overseeing
+            major capital expenditures, acquisitions and divestitures.
+       2.     Monitoring the effectiveness of the company’s governance practices and making
+           changes as needed.
+       3.     Selecting, compensating, monitoring and, when necessary, replacing key executives
+           and overseeing succession planning.
+       4.     Aligning key executive and board remuneration with the longer term interests of the
+           company and its shareholders.
+       5.     Ensuring a formal and transparent board nomination and election process.
+       6.     Monitoring and managing  potential  conflicts  of  interest  of management, board
+          members and shareholders, including misuse of corporate assets and abuse in related
+              party transactions.
+       7.     Ensuring the integrity of the corporation’s accounting and financial reporting systems,
+              including the independent audit, and that appropriate systems of control are in place,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+2.222.22           RISK MANAGEMENT
+
+                in particular, systems for risk management, financial and operational control, and
+            compliance with the law and relevant standards.
+      8.   Overseeing the process of disclosure and communications.
+E.    The board should be able to exercise objective independent judgement on corporate affairs.
+       1.    Boards should consider assigning a  sufficient number  of non-executive board
+          members capable of exercising independent judgement to tasks where there is a
+               potential for conflict of interest. Examples of such key responsibilities are ensuring the
+                integrity  of  financial and  non-financial  reporting,  the  review  of  related  party
+              transactions,  nomination  of  board members  and  key  executives,  and  board
+             remuneration.
+       2.    Boards should consider setting up specialised committees to support the full board in
+             performing  its functions, particularly in respect to audit, and, depending upon the
+            company’s size and risk profile, also in respect to risk management and remuneration.
+          When committees of the board are established, their mandate, composition and
+            working procedures should be well defined and disclosed by the board.
+       3.    Board members  should  be  able  to  commit  themselves  effectively  to  their
+               responsibilities.
+       4.    Boards should regularly carry out evaluations to appraise their performance and
+            assess whether they possess the right mix of background and competences.
+F.     In order to  fulfil their responsibilities, board members should have access to accurate,
+       relevant and timely information.
+G.   When employee representation on the board is mandated, mechanisms should be developed
+       to facilitate access to information and training for employee representatives, so that this
+       representation is exercised effectively and best contributes to the enhancement of board
+         skills, information and independence.
+4.2 Ethical Dimensions in Risk Management
+Ethics plays a crucial role in risk management across various domains, including finance, business,
+healthcare, environmental management, and more. Here are some dimensions of ethics in risk
+management:
+1.   Transparency and Disclosure: Ethical  risk management practices involve transparently
+communicating risks to stakeholders, including investors, customers, employees, and the public.
+This  includes  disclosing  potential  risks associated  with  products,  services, investments,  or
+operations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+RISK STRATEGY & GOVERNANCE             2.232.23
+
+2.   Fairness and Equity: Ethical risk management requires treating all stakeholders fairly and
+equitably. This means considering the potential impact of risks on different groups, ensuring that
+risks are not disproportionately borne by vulnerable populations or marginalized communities.
+3.   Integrity and Honesty: Ethical risk management involves maintaining integrity and honesty in
+assessing and communicating risks. This includes accurately representing the probability and
+potential impact of risks, avoiding misleading statements or omissions, and refraining from deceptive
+practices.
+4.   Responsibility and Accountability: Ethical risk management entails taking responsibility for
+identifying, assessing, and mitigating risks. This includes holding individuals and organizations
+accountable for their actions and decisions related to risk management, including any failures or
+shortcomings.
+5.   Conflicts of Interest: Ethical risk management requires identifying and managing conflicts of
+interest that may arise in the decision-making process. This includes avoiding situations where
+personal interests or biases could influence risk assessments or mitigation strategies.
+6.   Sustainability and Long-Term Perspective: Ethical risk management involves considering
+the long-term implications of risks on sustainability, both environmental and social. This includes
+assessing  risks  related  to  climate change, resource  depletion,  social  inequality, and  other
+sustainability challenges, and adopting strategies that promote resilience and long-term viability.
+7.   Respect for Stakeholder Rights: Ethical risk management involves respecting the rights and
+interests of all stakeholders, including their right to safety, privacy, and informed consent. This
+includes seeking input from stakeholders in the risk management process and addressing their
+concerns and preferences.
+8.   Compliance with Laws and Regulations: Ethical risk management requires compliance with
+applicable laws, regulations, and industry standards. This includes ensuring that risk management
+practices adhere to legal requirements related to safety, environmental protection, data privacy,
+financial reporting, and other areas.
+9.   Continuous Improvement and Learning: Ethical risk management involves a commitment to
+continuous improvement and  learning.  This  includes  regularly  reviewing and  updating  risk
+assessments and mitigation strategies in light of new information, changing circumstances, and
+evolving ethical standards.
+10.  Crisis Management and Response: Ethical risk management includes preparedness for and
+response  to crises and emergencies. This involves  prioritizing the safety and well-being  of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+2.242.24           RISK MANAGEMENT
+
+stakeholders, communicating transparently and honestly about the situation, and taking appropriate
+actions to mitigate harm and restore trust.
+In summary, ethics is an integral dimension of risk management that encompasses transparency,
+fairness,  integrity,  responsibility,  sustainability,  respect  for  stakeholder  rights,  compliance,
+continuous improvement, and crisis management. By incorporating ethical considerations into risk
+management  practices,  organizations  can  enhance   trust,  accountability,  and  long-term
+sustainability.
+
+      5.   LEGAL, REGULATORY & COMPLIANCE
+5.1 Under the Companies Act, 2013
+
+5.1.1 Section 134 (5) (e) of the Companies Act 2013
+In the Directors Responsibility Statement, the directors had laid down INTERNAL FINANCIAL
+Controls to be followed by the company and that such internal financial controls are adequate and
+were operating effectively.
+
+5.1.2 Section 143 (3) of the Companies Act 2013
+Auditor’s report for all companies (listed or not) to state the adequacy and operating effectiveness
+of the Company’s internal financial controls.
+
+5.1.3 Section 143 (9) of the Companies Act 2013
+Every auditor shall comply with the auditing standards.
+
+5.1.4 Section 177 (4) of the Companies Act 2013 read along with Rule 6 and 7 of
+Companies (Meetings of Board and its Powers) Rules, 2014
+Every Audit Committee shall act in accordance with the terms of reference specified in writing by the
+Board, which shall inter alia include evaluation of internal financial controls and risk management
+systems.
+
+5.1.5 Section 177 (5) of the Companies Act 2013
+The Audit Committee may call for the comments of the auditors about internal control systems, the
+scope of audit, including observations of the auditors and review of financial statement before their
+submission to the Board and may also discuss any related issues with the internal and statutory
+auditors and the management of the company.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+RISK STRATEGY & GOVERNANCE             2.252.25
+
+5.1.6 Schedule IV of the Companies Act (2013) – II (4) (Code for Independent Director)
+The independent directors shall satisfy themselves on the integrity of  financial information and that
+financial controls and the systems of risk management are robust and defensible.
+
+5.1.7 Rule 8 (5) (viii) of Companies (Accounts) Rules, 2014
+Board of Directors to report on adequacy of internal financial controls with reference to financial
+statement.
+5.2  Auditing Standard
+One of the Audit standards is SA 315 “Identifying and Assessing the Risks of Material Misstatement
+through Understanding the Entity and its Environment”
+As per SA 315 “Identifying and Assessing the Risks of Material Misstatement through Understanding
+the Entity and its Environment”, the objective of the auditor is to identify and assess the risks of
+material misstatement, whether due to fraud or error, at the financial statement and assertion levels,
+through understanding the entity and its environment, including the entity’s internal control, thereby
+providing a basis for designing and implementing responses to the assessed risks of material
+misstatement. This will help the auditor to reduce the risk of material misstatement to an acceptably
+low level.
+The objective of the auditor as stated in SA 315 is to identify and assess the risks of material
+misstatement.
+(i)    The auditor shall identify and assess the risks of material misstatement at:
+       a)     the financial statement level
+       b)     the assertion level for classes of transactions, account balances, and disclosures to
+             provide a basis for designing and performing further audit procedures.
+(ii)    For the purpose of identifying and assessing the risks of material misstatement the auditor
+        shall: -
+       a)     Identify risks throughout the process of obtaining an understanding of the entity and
+                  its environment, including relevant controls that relate to the risks, and by considering
+             the classes  of transactions, account balances, and disclosures  in the  financial
+             statements
+       b)    Assess the identified risks, and evaluate whether they relate more pervasively to the
+               financial statements as a whole and potentially affect many assertions
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+2.262.26           RISK MANAGEMENT
+
+       c)     Relate the identified risks to what can go wrong at the assertion level, taking account
+               of relevant controls that the auditor intends to test and
+       d)    Consider  the  likelihood  of  misstatement,  including  the  possibility  of  multiple
+             misstatements, and whether the potential misstatement is of a magnitude that could
+               result in a material misstatement.
+5.3  Under SEBI  (Listing Obligations and Disclosure Requirements)
+     Regulations 2015
+As per Regulation 21 the board of directors shall constitute a Risk Management Committee.
+(i)    Composition: Composition of Risk Committee shall be as follows:
+          The Risk Management Committee shall have minimum three members with majority
+               of them being members of the board of directors, including at least one independent
+               director and in case of a listed entity having outstanding Superior Voting Rights Equity
+             shares,  at  least two  third  of the Risk Management Committee  shall comprise
+            independent directors.
+          The Chairperson of the Risk Management Committee shall be a member of the board
+               of directors and senior executives  of the  listed  entity may be members  of the
+            Committee.
+(ii)    Meeting: The risk management Committee shall meet at least twice in a year.
+(iii)   Quorum: The quorum for a meeting of the Risk Management Committee shall be either two
+     members or one third of the members of the Committee, whichever is higher, including at
+       least one member of the board of directors in attendance.
+(iv)   Meeting: The meetings of the risk management Committee shall be conducted in such a
+     manner that on a continuous basis not more than one hundred and eighty days shall elapse
+      between any two consecutive meetings.
+(v)    Role: The board of directors shall define the role and responsibility of the Risk Management
+      Committee and may delegate monitoring and reviewing of the risk management plan to the
+      Committee and such other functions as it may deem fit such function shall specifically cover
+      cyber security.
+      Provided  that the  role and  responsibilities  of the Risk Management Committee  shall
+       mandatorily include the performance of functions specified in Part D of Schedule II.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+RISK STRATEGY & GOVERNANCE             2.272.27
+
+     The provisions of this regulation shall be applicable to:
+       (a)    top 1000 listed entities, determined on the basis of market capitalization as at the end
+               of the immediately preceding financial year; and
+       (b)   a ‘high value debt listed entity’.
+     The Risk Management Committee shall have powers to seek information from any employee,
+       obtain outside legal or other professional advice and secure attendance of outsiders with
+       relevant expertise, if it considers necessary.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+2.282.28           RISK MANAGEMENT
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    As per.............the definition of Risk Management Framework is “It is set of components that
+       provide the foundations and organizational arrangements  for designing, implementing,
+       monitoring,  reviewing  and  continually  improving  risk  management  throughout  the
+       organization.”
+        (a)   ISO 31000 Guide 73: 2009
+        (b)   The Orange Book
+        (c)    Paul Hopkins
+        (d)   CIMA
+2.    As  per.............the definition of Risk Management Framework  is “An organisation’s risk
+     management framework harnesses the activities that identify and manage the uncertainties
+      faced and systematically anticipate and prepare successful responses.”
+        (a)   ISO 31000 Guide 73: 2009
+        (b)   The Orange Book
+        (c)    Paul Hopkins
+        (d)   CIMA
+3.     In keeping with its overall mission, the COSO Board commissioned and published in..........the
+       Enterprise Risk Management—Integrated Framework.
+        (a)   2000
+       (b)   2002
+        (c)   2004
+       (d)   2019
+4.    As per …………… of latest COSO Framework the Risk appetite is determined in tandem with
+       strategy formulation. Business objectives serve as the conduit for translating strategy into
+       actionable plans, thereby moulding the organization's daily activities and focal points.
+       (a)   Component – 1
+       (b)   Component – 2
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+RISK STRATEGY & GOVERNANCE             2.292.29
+
+        (c)   Component – 3
+       (d)   Component – 4
+5.    As per …………… of latest COSO Framework the organization identifies and evaluates
+       potential risks that could hinder its strategy and business objectives. These risks are then
+      ranked based on their seriousness, taking into account the organization's risk tolerance.
+       (a)   Component – 1
+       (b)   Component – 2
+        (c)   Component – 3
+       (d)   Component – 4
+Answers to Multiple Choice Questions:
+
+    1.        (a)        2.        (b)        3.        (c)        4.        (b)        5.        (c)
+
+
+© The Institute of Chartered Accountants of India

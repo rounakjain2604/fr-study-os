@@ -1,0 +1,1505 @@
+Source PDF: 07_SPOM/Set_D_04_Digital_Ecosystem_Controls/002 - Chapter-1- Governance and Management of Digital Ecosystem - 79442bos63475-cp1.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_04_Digital_Ecosystem_Controls\002 - Chapter-1- Governance and Management of Digital Ecosystem - 79442bos63475-cp1.pdf
+Extracted at: 2026-05-31T10:36:25+05:30
+Pages: 37
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+UNIT – 1
+GOVERNANCE AND MANAGEMENT OF
+       DIGITAL ECOSYSTEM
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+CHAPTER          1
+         1
+CONCEPTS OF GOVERNANCE
+AND IT STRATEGY
+
+
+                    LEARNING OUTCOMES
+After studying this chapter, you will be able to –
+    build an understanding of the concepts of governance, its framework, and
+      related terms.
+   understand the role of Information Technology (IT) in real life time, how to
+      align Information Systems (IS) strategy with business strategy and ensure
+     business value from use of it.
+    distinguish among key concepts of governance like  - IT governance,
+     enterprise governance, and corporate governance.
+   comprehend the knowledge about the COBIT framework and Information
+     Technology Infrastructure Library (ITIL).
+   get acquainted with ISO 27001 standard.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+1.2            DIGITAL ECOSYSTEM AND CONTROLS
+
+  CHAPTER OVERVIEW
+                                                        Corporate Governance
+                          Enterprise Governance
+                                                     Business Governance
+
+                              IT Governance                                 COBIT                                           Frameworks to support
+                                                             IT Governance                                                                                             ITIL  GOVERNANCE
+                       Governance of Enterprise IT                       ISO 27001
+
+                       Business and IT Strategy
+
+
+                 Illustration: Governance in an Organisation
+ Mr. Sunil had been working in the manufacturing unit of an organization for the past 18 years. On
+ an unfortunate day, he met with an accident on duty and died on the spot. His family demanded
+ compensation. However, the organization denied compensation because it was revealed in the
+ investigation that he was drunk at the time of the accident. The workers of the company went on
+ strike demanding compensation for the family of the deceased. The Chairman of the management
+ board has asked for your recommendation. What recommendation would you provide to the
+ management?  Discuss  the  merits  and  demerits  of  each  of  the  recommendations.
+    Option 1: Let the law take its own course. As the worker was drunk during duty, the
+   company cannot be held responsible for his death.This may sound right as the worker
+   was bound to follow rules at the place of work. However, the strike by the remaining
+    workers could affect the image and productivity of the company. No matter the outcome,
+    the trust between workers and the management would be lost.
+    Option 2: Recommend the company to offer compensation. But this would set a bad
+    precedent among the management as well as the workers. To offer compensation would
+   mean to let down the safety regulations of the company. The management may also not
+    appreciate the payment as they were not liable for compensation due to negligence of
+     rules showed by the worker.
+    Option 3: Recommend the management to offer alternative employment to the kin
+    of the deceased. Push  the management  to adopt  stricter  prevention and  safety
+    measures. The third option is suitable as  it would be better to bring the situation under
+     control. The workers could be placated if the kin of the deceased would be offered a job.
+   And also the company may prefer to not lose image and man-days due to the strike.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.3
+
+    1.1  INTRODUCTION
+It is needless to emphasize that enterprises, whether they are commercial or non-commercial, exist
+to deliver value to their stakeholders. Delivering value is achieved by operating within value and risk
+parameters that are acceptable and advantageous, and by using resources including IT responsibly.
+In the rapidly changing environment that most enterprises operate in, swift direction setting and
+agility to change are essential. Senior management  is responsible for ensuring that the right
+structure of decision-making accountabilities is shared among many people in the enterprise and
+when accountability is shared, governance comes into play.
+The term “Governance” is derived from the Greek verb meaning “to steer” and is a very general
+concept that can refer to all manner of organizations and can be used in different ways.
+    Governance refers to "all processes of governing, whether undertaken by a government,
+      market or network, whether over a family, tribe, formal or informal organization or territory
+     and whether through laws, norms, power or language."
+       It relates to "the processes of interaction and decision-making among the actors involved
+       in a collective problem that led to the creation, reinforcement, or reproduction of social
+     norms and institutions.”
+   A governance system typically refers to all the means and mechanisms that will enable multiple
+       stakeholders in an enterprise to have an organized mechanism for evaluating options, setting
+        direction and monitoring compliance and performance, to satisfy specific enterprise objectives.
+Three Principles for a Governance Framework
+The three principles for a governance framework are shown in the Fig. 1.1:
+1.    Based on Conceptual Model: A governance framework should be based on a conceptual
+      model, identifying the key components and relationships among components, to maximize
+      consistency and allow automation.
+2.    Open and Flexible: A governance framework should be open and flexible. It should allow
+       the addition of new content and the ability to address new issues in the most flexible way,
+       while maintaining integrity and consistency.
+3.    Aligned to major standards: A governance framework should align to relevant major related
+       standards, frameworks, and regulations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+1.4            DIGITAL ECOSYSTEM AND CONTROLS
+
+
+                                          1. Based on
+                             Conceptual Model
+
+
+                               3. Aligned to             2. Open and
+                           major                 Flexible
+                         standards
+
+                          Fig. 1.1: Governance Framework Principles
+Many people believe  that governance and management are synonymous, but they are not.
+Governance is about decision making, while management is about making sure that the enterprise’s
+governance process is executed. The perspective of IT governance is distinct in case of definition
+of new processes and creation of process that are used to produce goods and service from business.
+A governance process defines the chains of responsibility, authority, and communication to
+empower people, as well as to define the measurement and control mechanisms to enable people
+to carry out their roles and responsibilities. Thus, a governance activity is intentionally designed to
+define organizational structures, decision rights, workflow, and authorization points to create a target
+workflow that optimally uses a business entity’s resources in alignment with the goals and objectives
+of the business.
+A management process is the output of the governance process. Unlike a governance process, a
+management process implements the specific chain of responsibility, authority, and communication
+that empowers people to do their day-to-day jobs. The management process also implements
+appropriate measurement and control mechanisms that enable practitioners the freedom to carry
+out their roles and responsibilities without undue interruption by the executive team. Essentially the
+management process  is implementation of the polices and process defind in the governance
+process.
+Benefits of Governance
+Governance is a general concept that can refer to all manners of organizations and can be used in
+different ways. However, some of the major benefits of governance are summarized as follows:
+♦     Achieving enterprise objectives by ensuring that each element of the mission and strategy
+      are assigned and managed with a clearly understood and transparent decisions rights and
+       accountability framework.
+♦     Defining and encouraging desirable behavior in the use of IT and in the execution of IT
+       outsourcing arrangements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.5
+
+♦    Implementing and integrating the desired business processes into the enterprise.
+♦     Providing stability and overcoming the limitations of organizational structure.
+♦    Improving customer, business and internal relationships and satisfaction, and reducing
+       internal territorial strife by formally integrating the customers, business units, and external IT
+       providers into a holistic IT governance framework.
+♦    Enabling effective and strategically aligned decision making for the IT Principles that define
+       the role of IT, IT Architecture, IT Infrastructure, Application Portfolio and Frameworks, Service
+        Portfolio, Information and Competency Portfolios and IT Investment & Prioritization.
+
+    1.2  ENTERPRISE GOVERNANCE
+We shall here understand what is meant by the term- Enterprise Governance.
+♦        It can be defined as: “The set of responsibilities and practices exercised by the Board
+     and executive management with the goal of providing strategic direction, ensuring that
+      objectives are achieved, ascertaining that risks are managed appropriately and
+       verifying that the organization’s resources are used responsibly.”
+♦     Enterprise governance is an overarching framework into which many tools and techniques
+      and codes of best practice can  fit. Examples include codes on corporate governance and
+       financial reporting standards.
+
+                                 Enterprise Governance
+
+
+               Corporate Governance         Business Governance
+             (Conformance Processes)       (Performance Processes)
+
+
+                                               IT Governance
+          COBIT 5                          Risk Mitigation         Value Creation
+
+      Fig. 1.2: Relation between Enterprise Governance, Corporate Governance, and IT
+                                 Governance
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+1.6            DIGITAL ECOSYSTEM AND CONTROLS
+
+The enterprise governance constitutes the entire accountability framework of an organization as it
+involves establishing accountability for decision-making.
+As shown in Fig. 1.2, Enterprise Governance has two dimensions Corporate Governance or
+Conformance, and Business Governance or Performance. The key message of enterprise
+governance is that an enterprise must balance the two dimensions of conformance and performance
+to meet stakeholder requirements and ensure long-term success. To ensure success of business,
+both conformance and performance must go hand in hand Corporate governance may create
+administrative hurdles for performance of business if a practicable approach is not followed.
+Corporate Governance
+♦    The Corporate Governance provides a holistic view and focuses on regulatory requirements
+      and is defined as the system by which a company or enterprise is directed and controlled to
+      achieve the objective of increasing shareholder value by enhancing economic performance.
+♦    Corporate Governance refers to the structures and processes for the direction and control of
+      companies. Corporate governance concerns the relationships among the management,
+      Board  of  Directors, the  controlling shareholders, and other stakeholders. This covers
+       corporate governance issues such as roles of the Chairman and CEO, role and composition
+       of the Board of Directors, Board committees, Controls assurance and Risk management for
+      compliance. The conformance dimension is monitored by the audit committee.
+♦    The Regulatory requirements and standards generally address conformance dimension with
+      compliance to establish oversight mechanisms for the Board to ensure that good corporate
+      governance processes are effective. These might include committees composed mainly or
+       wholly  of independent non-executive  directors,  particularly the  audit committee or  its
+       equivalent in countries where the two-tier board system is the norm. Other committees are
+       usually the nominations committee and the remuneration committee. The Sarbanes Oxley
+      Act of US and the Clause 49 listing requirements of SEBI are examples of providing such
+      compliances from conformance perspective.
+♦    Good corporate governance exhibit following characteristics:
+           It contributes to sustainable economic development by enhancing the performance of
+           companies and increasing their access to outside capital.  It is about doing good
+            business to protect shareholders’ interest. Corporate Governance drives the corporate
+              information needs to meet business objectives.
+       Good corporate governance  requires sound  internal  control  practices such as
+             segregation of incompatible functions, elimination of conflict of interest, establishment
+               of Audit Committee, risk management and compliance with the relevant laws and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.7
+
+             standards including corporate disclosure requirements. These are intended to guide
+           companies to achieve their business objectives in a manner such that those who are
+             entrusted with the resources or power to run the companies to meet stakeholder needs
+             without compromising the shareholders’ interest. Legally, the directors of a company
+             are accountable to the shareholders for their actions in directing and controlling the
+             business, and for the actions of the company’s employees, who are in the position of
+                trust to discharge their responsibilities in the best interest of the company. Corporate
+            governance is thus necessary for the purpose of monitoring and measuring their
+            performance.
+       Good corporate governance is important, and  it is critical that any weakness in this
+            area is addressed properly. However, good corporate governance by itself cannot
+          make an organization successful. There is always a risk that inadequate attention is
+             paid to the need for enterprises to create wealth or stakeholder value. Hence,  it is
+             important to remember that strategy and performance are also very important.
+Business Governance
+♦    Business Governance is proactive in its approach.  It is business oriented and takes a
+       forward-looking view. This dimension focuses on strategy and value creation with the
+       objective of helping the board to make strategic decisions, understand its risk appetite and
+         its key performance drivers. This dimension does not lend  itself easily to a regime of
+      standards and assurance as this is specific to enterprise goals and varies based on the
+     mechanism to achieve them. It is advisable to develop appropriate best practices, tools, and
+      techniques such as balanced scorecards and strategic enterprise systems that can be applied
+        intelligently for different types of enterprises as required.
+♦    The performance dimension in terms of the overall strategy is the responsibility of the full
+      board but there is no dedicated oversight mechanism comparable to the audit committee.
+      Remuneration and financial reporting are scrutinized by a specialist board committee of
+      independent non-executive directors and referred to the full board. In contrast, the critical
+      area of strategy does not get the same dedicated attention. There is thus an oversight gap in
+       respect of strategy. One of the ways of dealing with this lacuna is to establish a strategy
+      committee of similar status to the other board committees which will report to the board.
+
+    1.3  OVERVIEW OF IT GOVERNANCE
+There is no doubt to say that IT is a key enabler of corporate business strategy. Chief Executive
+Officers (CEO), Chief Financial Officers (CFO) and Chief Information Officers (CIO) agree that
+strategic alignment between IT and business objectives  is a  critical success  factor  for the
+achievement of business objectives. IT must provide critical inputs to meet the information needs of
+all the required stakeholders or it can be said that enterprise activities require information from IT
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+1.8            DIGITAL ECOSYSTEM AND CONTROLS
+
+activities in order to meet enterprise objectives. Hence, corporate governance drives and sets IT
+governance.
+There are multiple definitions of IT Governance. However, one of the well-known definitions is: “IT
+Governance is the system by which IT activities in a company or enterprise are directed and
+controlled to achieve business objectives with the ultimate objective of meeting stakeholder
+needs”. Hence, the overall objective of IT governance is very much similar to corporate governance
+but with the focus on IT. Hence,  it can be said that there is an inseparable relationship between
+Corporate Governance and IT Governance or IT Governance is a sub-set of Corporate or Enterprise
+Governance.
+IT Governance refers to the system in which directors of the enterprise Evaluate, Direct and
+Monitor IT management to ensure effectiveness, accountability, and compliance of IT. The
+objective of IT Governance is to determine and cause the desired behavior and results to achieve
+the strategic impact of IT. The active distribution of decision-making rights and accountabilities
+among different stakeholders in an organization and the rules and procedures for making and
+monitoring those decisions are required to be well structured and defined to determine and achieve
+desired behaviors and results. It may be noticed that governance and IT governance are similar in
+their definition and approach except that in case of IT governance the focus is on IT and related
+areas. Adequate care is to be taken to ensure that IT governance benefits should give measurable
+benefits so that the importance can be emphasized to Boards.
+1.3.1 Benefits of IT Governance
+The benefits, which are achieved by implementing/improving governance or management  of
+enterprise, IT would depend on the specific and unique environment of every enterprise. At the
+highest level, these could include the following depicted in the Fig. 1.3:
+
+           Increased value              Increased user           Improved agility in
+           delivered through            satisfaction with IT         supporting business
+             enterprise IT.                   services.                   needs.
+
+        Improved compliance       Improved management      IT becoming an enabler
+          with relevant laws,         and mitigation of IT-         for change rather than
+       regulations and policies.       related business risk.          an inhibitor.
+
+                                 Improved transparency
+       Better cost performance      and understanding of     More optimal utilization
+                 of IT.                  IT’s contribution to the          of IT resources.
+                                          business.
+
+                               Fig. 1.3: Benefits of IT Governance
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.9
+
+For every defined benefit, it is critical to ensure that:
+♦    ownership is defined and agreed.
+♦         it is relevant and links to business strategy.
+♦     the timing of its realization of benefit is realistic and documented.
+♦     the risks, assumptions and dependencies associated with the realization of the benefits are
+      understood, correct and current.
+♦    an unambiguous measure has been identified.
+♦     timely and accurate data for the measure is available or is easy to obtain.
+1.3.2 Key practices to determine status of IT Governance
+Some of the key practices, which determine the status of IT Governance in the enterprise, are as
+follows:
+♦   Who makes directing, controlling, and executing decisions?
+♦   How are the decisions made?
+♦    What information is required to make the decisions?
+♦    What decision-making mechanisms are required?
+♦   How are exceptions handled?
+♦   How are the governance results monitored and improved?
+As per regulatory requirements and best practice frameworks of Governance of Enterprise IT, it is
+important for the Board of Directors and senior management to play critical roles in Evaluating;
+Directing and Monitoring IT effectiveness in an enterprise. IT governance structure and processes
+are directly dependent upon the level of involvement of the Board and senior management. Different
+levels of the framework require different tools, techniques, and standards addressing specific needs
+of an effective IT governance structure, which consists of the organizational structure, leadership,
+and processes that ensure IT support of the organization’s strategies and objectives.
+
+    1.4  GOVERNANCE OF ENTERPRISE IT (GEIT)
+Governance of Enterprise IT is a subset of Corporate Governance and facilitates implementation
+of a framework of IS controls within an enterprise as relevant and encompassing all key areas. The
+primary objectives of GEIT are to analyze and articulate the requirements for the governance of
+enterprise IT, and to put in place and maintain effective enabling structures, principles, processes,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+1.10           DIGITAL ECOSYSTEM AND CONTROLS
+
+and practices, with clarity of responsibilities and authority to achieve the enterprise's mission, goals,
+and objectives. Refer Fig. 1.4 to know about the benefits of GEIT.
+
+  Benefits of GEIT
+    •     Provides a consistent approach integrated and aligned with the enterprise governance
+           approach.
+    •     Ensures that IT-related decisions are made in line with the enterprise's strategies and
+            objectives.
+    •     Ensures that IT-related processes are overseen effectively and transparently.
+    •     Confirms compliance with legal and regulatory requirements.
+    •     Ensures that the governance requirements for Board members are met.
+                                    Fig. 1.4: Benefits of GEIT
+1.4.1 Key Governance Practices of GEIT
+The key governance practices required to implement GEIT in enterprises are highlighted here:
+♦    Evaluate the Governance System: Continually identify and engage with the enterprise's
+       stakeholders, document an understanding of the requirements, and make judgment on the
+       current and future design of governance of enterprise IT.
+♦     Direct the Governance System: Inform leadership and obtain their support, buy-in and
+      commitment. Guide the structures, processes and practices for the governance of IT in line
+       with agreed governance design principles, decision-making models and authority levels.
+      Define the information required for informed decision making.
+♦    Monitor the Governance System: Monitor the effectiveness and performance  of the
+       enterprise’s governance of IT. Assess whether the governance system and implemented
+     mechanisms (including structures, principles, and processes) are operating effectively and
+       provide appropriate oversight of IT.
+1.4.2 Role of IT in Enterprises
+In an increasingly digitized world, enterprises are using IT not merely for data processing but more
+for strategic and competitive advantage. IT deployment has progressed from data processing to MIS
+to decision support systems to online transactions/services. IT has not only automated the business
+processes but also transformed the way business processes are performed. The way in which
+business processes are performed/services rendered and how an organization is structured could
+be transformed through right deployment of IT. It is needless to emphasize that IT is used to perform
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.11
+
+business processes, activities and tasks and it is important to ensure that IT deployment is oriented
+towards achievement of business objectives.
+The extent of technology deployment also impacts the way internal controls are implemented in an
+enterprise. With the advancement of technology, control process can be checked in real time for all
+transaction instead of merely testing for samples. Further, extensive organization restructuring, or
+business process re-engineering may be facilitated through IT deployments. Implementing IT must
+consider not only the implementation of IT controls from conformance perspective but also IT could
+be a key enabler for providing strategic and competitive advantage. This requires that senior
+management considers IT not only as an information processing tool but more from a strategic
+perspective to provide better and innovative services. This makes  it imperative to develop an IT
+strategy, which is aligned with business strategy and ensures value creation and facilitates benefit
+realization from the IT investments.
+1.4.3 EGIT (Enterprise Governance of Information and Technology)
+In the light of digital transformation, Information and Technology has become crucial in the support,
+sustainability, and growth of enterprises. Previously, governing Boards (Boards of directors) and
+senior management could delegate, ignore, or avoid IT-related decisions which is not the case now.
+Enterprise governance of IT is a relatively new concept that is gaining traction in both the academic
+and practitioner worlds. Given the centrality of I&T for enterprise risk management and value
+generation, a specific focus on Enterprise Governance of Information and Technology (EGIT) has
+arisen over the last three decades.
+Going well beyond the implementation of a superior IT infrastructure, enterprise governance of IT is
+about defining and embedding processes and structures throughout the organizations that enable
+both business and IT people to execute their responsibilities, while maximizing the value created
+from their IT-enabled investments.
+EGIT is an integral part of overall enterprise governance and is focused on IT performance and the
+management of risk attributable to the enterprise’s dependencies on IT. It is exercised by the Board
+that oversees the definition and implementation of processes, structures and relational mechanisms
+in the organization that enable both business and IT people to execute their responsibilities in
+support of business/IT alignment and the creation of business value from I&T-enabled business
+investments.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+1.12           DIGITAL ECOSYSTEM AND CONTROLS
+
+    1.5  BUSINESS AND IT STRATEGY
+Management Strategy determines at the macro level the path and methodology of rendering services
+by the enterprise. Strategy outlines the approach of the enterprise and is formulated by the senior
+management. Based on the strategy adopted, relevant policies and procedures are formulated. From
+a business strategy perspective, IT is affecting the way in which enterprises are structured, managed
+and operated. One of the most dramatic developments affecting enterprises is the fusion of IT with
+business strategy. Enterprises can no longer develop business strategies separate from IT strategy
+and vice versa. Accordingly, there is a need for the integration of sound IT planning with business
+plan and the incorporation of effective financial and management controls within new systems.
+Management primarily is focused on harnessing the enterprise resources towards achievement of
+business objectives. This would involve the managerial processes of planning, organizing, staffing,
+directing, coordinating, reporting, and budgeting. The IT function will be aiding in each of this role
+to make an effective strategy of the business.
+Every enterprise regardless of  its size needs to have an internal control system built into  its
+enterprise structure. Control is defined as “Policies, procedures, practices and enterprise
+structure that are designed to provide reasonable assurance that business objectives will be
+achieved and undesired events are prevented or detected and corrected.” We are aware that
+auditors could be involved in providing assurance requiring review of Information Systems as
+implemented from  control  perspective. However,  auditors may  also be  required  to provide
+consultation before, during or after implementation of information systems strategy.  It becomes
+imperative for the auditor to understand the concepts of the enterprise strategy as relevant. Hence,
+auditors must have a good understanding of management aspects as relevant to deployment of IT
+and IT strategy. This would include understanding of the IS Strategy, policies, procedures, practices
+and enterprise structure, segregation of duties, etc. The policies and procedures along with control
+has to be embedded in the IT system for effective management.
+IT organizations should define their strategies and tactics to support the organization by ensuring
+that day-to-day IT operations are delivered efficiently and without compromise. Metrics and goals
+are established to help IT organization to perform on a tactical basis and to guide the efforts of
+personnel to improve maturity of practices. The results will enable the IT functions to execute its
+strategy and achieve its objectives established with the approval of enterprise leaders. Internal audit
+can determine whether the linkage of IT metrics and objectives aligns with the organization’s goals,
+adequately measure progress being made on approved initiatives, and express an opinion on
+whether the metrics are relevant and useful. Additionally, auditors can validate that metrics are being
+measured correctly and represent realistic views of IT operations and governance on a tactical and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.13
+
+strategic basis.  Auditors are even called upon to check the operation and effectiveness of the
+controls both as part of confirmatory function in IS assurance and risk mitigation.
+1.5.1 Objective of IT Strategy
+The primary objective of IT strategy is to provide a holistic view of the current IT environment, the
+future direction, and the initiatives required to migrate to the desired future environment. This is
+achieved by leveraging enterprise architecture building blocks and components to enable nimble,
+reliable, and efficient response to strategic objectives. Alignment of the strategic IT plans with the
+business objectives is done by clearly communicating the objectives and associated accountabilities
+so they are understood by all, and all the IT strategic options are identified, structured, and integrated
+with the business plans as required.
+1.5.2 IT Steering Committee
+Planning is essential for determining and monitoring the direction and achievement of the enterprise
+goals and objectives. As enterprises are dependent on the information generated by information
+systems,  it  is important that planning relating to information systems is undertaken by senior
+management or by the steering committee. Depending on the size and needs of the enterprise, the
+senior management may appoint a high-level committee to provide appropriate direction to IT
+deployment and information systems and to ensure that the information technology deployment is
+in tune with the enterprise business goals and objectives. This committee, called the IT Steering
+Committee, is ideally led by a member of the Board of Directors and comprises of functional heads
+from all key departments of the enterprise including the audit and IT department.
+The role and responsibility of the IT Steering Committee and its members must be documented and
+approved by senior management. As the members comprise of functional heads of departments,
+they would be responsible for taking decisions relating to their departments as required. The IT
+Steering Committee provides overall direction to deployment of IT and information systems in the
+enterprises. The key functions of the IT Steering Committee would include the following:
+♦    To ensure that long and short-range plans of the IT department are in tune with enterprise
+      goals and objectives.
+♦    To establish the size and scope of IT function and sets priorities within the scope.
+♦    To review and approve major IT deployment projects in all their stages.
+♦    To approve and monitor key projects by measuring the result of IT projects in terms of return
+      on investment, etc.
+♦    To review the status of IS plans and budgets and overall IT performance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+1.14           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦    To review and approve standards, policies and procedures.
+♦    To make decisions on all key aspects of IT deployment and implementation.
+♦    To facilitate implementation of IT security within enterprise.
+♦    To facilitate and resolve conflicts in deployment of IT and ensure availability of a viable
+      communication system exists between IT and its users.
+♦    To report to the Board of Directors on IT activities on a regular basis.
+1.5.3 IT Strategic Planning
+The strategic planning has to be dynamic in nature and IT management and business process
+owners should ensure that a process is in place to modify the IT long-range plan in a timely and
+accurate manner to accommodate changes to the enterprise's long-range plan and changes in IT
+conditions. Management should establish a policy requiring that IT long and short-range plans are
+developed and maintained. IT management and business process owners should ensure that the IT
+long-range plan is regularly translated into IT short-range plans. Such short-range plans should
+ensure that appropriate IT function resources are allocated on a basis consistent with the IT long-
+range plan. The short-range plans should be reassessed periodically and amended as necessary in
+response to changing business and IT conditions. The timely performance based on feasibility
+studies should ensure that the execution of the short-range plans is adequately initiated.
+1.5.4 Classification of Strategic Planning
+In the context of Information Systems, Strategic Planning refers to the planning undertaken by
+top management towards meeting long-term objectives of the enterprise.
+IT Strategy planning in an enterprise could be broadly classified into the following categories:
+(i)    Enterprise Strategic Plan: Business Planning determines the overall plan of the enterprise.
+     The enterprise strategic plan provides the overall charter under which  all units in the
+       enterprise, including the information systems function must operate.  It is the primary plan
+      prepared by top management of the enterprise that guides the long run development of the
+       enterprise.  It includes a statement of mission, a specification of strategic objectives, an
+      assessment of environmental and organizational factors that affect the attainment of these
+       objectives, a statement of strategies for achieving the objectives, a specification of constraints
+       that apply, and a listing of priorities. For an organization to thrive, it is important to ensure
+       that the IT plan is aligned with the enterprise plan.
+(ii)    Information Systems Strategic Plan: The IS strategic plan in an enterprise must focus on
+        striking an optimum balance of IT opportunities and IT business requirements as well as
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.15
+
+      ensuring its accomplishment. This would require the enterprise to have a strategic planning
+      process undertaken at regular intervals giving rise to long-term plans; the long-term plans
+      should periodically be translated into operational plans setting clear and concrete short-term
+       goals. Some of the enablers of the IS Strategic plan are as follows:
+       Robust enterprise business strategy,
+        Definition of how IT supports the business objectives,
+        Inventory of technological solutions and current infrastructure,
+        Monitoring the technology markets,
+       Timely feasibility studies and reality checks,
+        Existing systems assessments,
+        Enterprise position on risk, time-to-market, quality, and
+       Need for senior management buy-in, support and critical review.
+(iii)   Information Systems Requirements Plan: Every enterprise needs to have clearly defined
+       information architecture with the objective of optimizing the organization of the information
+      systems. This requires creation and continuous maintenance of a business information model
+      and ensuring that appropriate systems are defined to optimize the use of this information.
+     Based on the information architecture requirements of an enterprise, the Information Systems
+      Requirements Plan has to be drawn up. Some of the key enablers of the information
+       architecture are as follows:
+       Automated data repository and dictionary.
+       Data syntax rules.
+       Data ownership and criticality/security classification.
+       An information model representing the business.
+        Enterprise information architectural standards.
+     The information system requirements plan defines information system architecture for the
+       information systems department. The architecture specifies the major organization functions
+      needed to support planning, control and operations activities and the data classes associated
+       with each function. Business planning will determine the information needs of an enterprise.
+     The information architecture will determine information needs and flow in an enterprise.
+     Based on the information architecture, the organization structure is determined. This in turn
+         will lead to specific information systems, which include the relevant IT and related processes.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+1.16           DIGITAL ECOSYSTEM AND CONTROLS
+
+      For example, depending on the business, information architecture and organization structure,
+       the enterprise will decide whether to acquire or develop the solution and the relevant controls
+      which are required to meet the business requirements.
+(iv)   Information Systems Applications and Facilities Plan: Based on the information systems
+       architecture and its associated priorities, the information systems management can develop
+      an information systems applications and facilities plan that includes:
+        specific application systems to be developed and an associated time schedule.
+       hardware and software acquisition/development schedule.
+         facilities required.
+        organization changes required.
+Senior management is responsible for developing and implementing long and short-range plans that
+enable the achievement of the enterprise mission and goals. Senior management should ensure that
+IT issues as well as opportunities are adequately assessed and reflected in the enterprise's long-
+and short-range plans. IT long and short-range plans should be developed to help ensure that the
+use of IT is aligned with the mission and business strategies of the enterprise. The strategic plan
+period could vary from 1 year to 3 years. It is important to ensure that the IT strategic plans are
+aligned with the business strategic plans as IT is ultimately used for achieving business objectives.
+Strategic planning could be done by the top management or by the steering committee. Strategic
+planning facilitates putting organization objectives into time-bound plans and action. Comprehensive
+planning helps to ensure an effective and efficient enterprise. Strategic planning is time and project
+oriented but must also address and help determine priorities to meet business needs.
+1.5.5 Key Management Practices for aligning IT Strategy with Enterprise
+     Strategy
+The key management practices which are required for aligning IT strategy with enterprise strategy,
+are highlighted here:
+♦    Understand  enterprise  direction:  Consider  the  current  enterprise environment and
+      business processes, as well as the enterprise strategy and future objectives. Also consider
+       the external environment of the enterprise (industry drivers, relevant regulations, basis for
+       competition).
+♦    Assess the current environment, capabilities, and performance: Assess the performance
+       of current internal business and IT capabilities and external IT services and develop an
+      understanding of the enterprise architecture in relation to IT. Identify issues currently being
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.17
+
+      experienced and develop recommendations in areas that could benefit from improvement. It
+        is advisable to consider service provider differentiators and options and the financial impact
+      and potential costs and benefits of using external services.
+♦    Define the target IT capabilities: Define the target business and IT capabilities and required
+       IT services. This should be based on the understanding of the enterprise environment and
+       requirements; the assessment of the current business process and IT environment and
+       issues; and consideration of reference standards, best practices and validated emerging
+       technologies or innovation proposals.
+♦    Conduct a gap analysis: Identify the gaps between the current and target environments and
+      consider the alignment of assets (the capabilities that support services) with business
+      outcomes to optimize investment in and utilization of the internal and external asset base.
+      Consider the critical success factors to support strategy execution.
+♦    Define the strategic plan and road map: Create a strategic plan that defines, in co-
+       operation with relevant stakeholders, how IT- related goals will contribute to the enterprise’s
+       strategic goals. Include how IT  will support IT-enabled investment programs, business
+      processes, IT services and IT assets. IT should define the initiatives that will be required to
+       close the gaps, the sourcing strategy, and the measurements  to be used to monitor
+      achievement of goals, then prioritize the initiatives and combine them in a high-level road
+      map.
+♦    Communicate the IT strategy and direction: Create awareness and understanding of the
+      business and  IT  objectives and  direction, as  captured  in  the  IT  strategy,  through
+      communication to appropriate stakeholders and users throughout the enterprise.
+The success of alignment of IT and business strategy can be measured by reviewing the percentage
+of enterprise strategic goals and requirements supported by IT strategic goals, extent of stakeholder
+satisfaction with scope of the planned portfolio of programs and services and the percentage of IT
+value drivers, which are mapped to business value drivers.
+1.5.6 Business Value from Use of IT
+Business value from use of IT is achieved by ensuring optimization of the value contribution to the
+business from the business processes, IT services and IT assets resulting from IT-enabled
+investments at an acceptable cost. The benefit of implementing this process  will ensure that
+enterprise is able to secure optimal value from IT-enabled initiatives services and assets, cost-
+efficient delivery of solutions and services, and a reliable and accurate picture of costs and likely
+benefits so that business needs are supported effectively and efficiently.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+1.18           DIGITAL ECOSYSTEM AND CONTROLS
+
+The key management practices which need to be implemented for evaluating ‘Whether business
+value is derived from IT’, are highlighted as under:
+♦    Evaluate Value Optimization: Continually evaluate the portfolio of IT enabled investments,
+       services, and assets to determine the likelihood of achieving enterprise objectives and
+       delivering value at a reasonable cost. Identify and make judgment on any changes in direction
+       that need to be given to management to optimize value creation.
+♦     Direct Value Optimization: Direct value management principles and practices to enable
+       optimal value realization from IT enabled investments throughout their full economic life cycle.
+♦    Monitor Value Optimization: Monitor the key goals and metrics to determine the extent to
+      which the business is generating the expected value and benefits to the enterprise from IT-
+      enabled investments and services. Identify significant issues and consider corrective actions.
+The success of the process of ensuring business value from use of IT can be measured by evaluating
+the benefits realized from IT enabled investments and services portfolio and the how IT costs,
+benefits and risk is implemented. Some of the key metrics which can be used for such evaluation
+are as follows:
+♦    Percentage of IT enabled investments where benefit realization monitored through  full
+      economic life cycle.
+♦    Percentage of IT services where expected benefits realized.
+♦    Percentage of IT enabled investments where claimed benefits met or exceeded.
+♦    Percentage of investment business cases with clearly defined and approved expected IT
+       related costs and benefits.
+♦    Percentage of IT services with clearly defined and approved operational costs and expected
+       benefits.
+♦     Satisfaction survey of key stakeholders regarding the transparency, understanding and
+      accuracy of IT financial information.
+♦    Benchmarking the benefits realized with the industry practice and evaluation of industry
+      matrices vis a vis company.
+
+    1.6  FRAMEWORKS  TO  SUPPORT   EFFECTIVE    IT
+      GOVERNANCE
+There are several formal frameworks that are identified in any survey of IT governance frameworks.
+An organization that adopts and pursues an IT governance framework must ensure that it satisfies
+four separate audiences: Customers, Stakeholders, Regulators, and the Board Members
+themselves.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.19
+
+♦    Customers need some certainty that their supplier will be around for the long term, that their
+      personal or business details won’t be exposed, and that they will get what they are paying
+      for—whether it’s quality, services, or goods.
+♦    Stakeholders (including shareholders, employees, and suppliers) also want to be sure that
+       the organization will be around for the long term, and that their investment (of shareholder
+      cash, uncompensated labor, or as-yet unpaid invoices) is not only safe but likely to turn into
+      better—through effective leveraging of IT and intellectual assets combined with clear-sighted,
+       transparent management and  control  of  the  ICT  (Information and  Communications
+      Technology) infrastructure within the context of the business model and business strategy.
+♦    Regulators want to be convinced that their regulations are and will continue to be adhered
+        to.
+♦    The Board members want to be sure that their reputations will survive their time at the
+       organization and that a personal contribution to the settlement of a class action suit never
+     become an issue for them.
+1.6.1 COBIT  as  an  IT  (Information  and  Technology)  Governance
+    Framework
+Over the years, best-practice frameworks have been developed and promoted to assist in the
+process of understanding, designing and implementing Enterprise Governance of IT (EGIT). COBIT®
+2019 builds on and integrates more than 25 years of development in this field, not only incorporating
+new insights from science, but also operationalizing these insights as practice. From its foundation
+in the IT audit community, COBIT® has developed into a broader and more comprehensive
+Information and Technology (I&T) governance and management framework and continues to
+establish itself as a generally accepted framework for I&T governance.
+COBIT is a framework for the governance and management of information and technology, aimed
+at the whole enterprise. Enterprise I&T means all the technology and information processing the
+enterprise puts in place to achieve its goals, regardless of where this happens in the enterprise. In
+other words, enterprise I&T is not limited to the IT department of an organization but encompasses
+broader concept.
+The COBIT framework makes a clear distinction between governance and management. These two
+disciplines encompass different activities, require different organizational structures and serve
+different purposes.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+1.20           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦    Governance ensures that:
+        stakeholder needs, conditions and options are evaluated to determine balanced,
+            agreed-on enterprise objectives.
+        direction is set through prioritization and decision making.
+       performance and  compliance  are  monitored  against  agreed-on  direction  and
+              objectives.
+       In most enterprises, governance is the responsibility of the Board of directors, under the
+       leadership of the chairperson. Specific governance responsibilities may be delegated to
+       special organizational structures at an appropriate level, particularly in larger, complex
+       enterprises.
+♦    Management plans, builds, runs, and monitors activities, in alignment with the direction set
+      by the governance body, to achieve enterprise objectives.
+In most enterprises, management is the responsibility of the executive management under the
+leadership of the Chief Executive Officer (CEO). COBIT defines the components to build and sustain
+a governance system: processes, organizational structures, policies and procedures, information
+flows, culture and behaviors, skills, and infrastructure.
+
+  Misconceptions about COBIT
+      •   Its not a full description of the whole IT environment of an enterprise.
+      •    Its not a framework to organize business processes.
+      •     It is not an (IT) technical framework to manage all technology.
+      •     It does not make or prescribe any IT-related decisions.
+
+COBIT defines the design factors that should be considered by the enterprise to build a best-fit
+governance system. COBIT addresses governance issues by grouping relevant governance
+components into governance and management objectives that can be managed to the required
+capability levels.
+It will not decide what the best IT strategy is, what the best architecture is, or how much IT can or
+should cost. Rather, COBIT defines all the components that describe which decisions should be
+taken and how and by whom they should be taken.
+COBIT Principles
+COBIT® 2019 was developed based on two sets of principles:
+(i)     Principles that describe the core requirements of a governance system for enterprise
+       information and technology.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.21
+
+(ii)    Principles for a governance framework that can be used to build a governance system for
+       the enterprise.
+Six Principles for a Governance System
+The six principles for a Governance System are depicted in the Fig. 1.5:
+(i)     Provide Stakeholders value: Each enterprise needs a governance system to satisfy
+       stakeholder needs and to generate value from the use of I&T. Value reflects a balance among
+        benefits, risk and resources, and enterprises need an actionable strategy and governance
+      system to realize this value.
+(ii)     Holistic approach: A governance system for enterprise I&T is built from several components
+        that can be of different types and that work together in a holistic way.
+(iii)   Dynamic Governance System: A governance system should be dynamic. This means that
+      each time one or more of the design factors are changed (e.g., a change in strategy or
+       technology), the impact of these changes on the EGIT system must be considered. A
+      dynamic view of EGIT will lead toward a viable and future-proof EGIT system.
+(iv)    Distinct Governance from Management: A governance system should clearly distinguish
+      between governance and management activities and structures.
+(v)     Tailored to enterprise needs: A governance system should be tailored to the enterprise’s
+       needs, using a set  of design  factors as parameters  to customize and  prioritize the
+      governance system components.
+(vi)    End-to-end Governance System: A governance system should cover the enterprise end to
+       end, focusing not only on the IT function but on all technology and information processing
+       the enterprise puts in place to achieve its goals, regardless of where the processing is
+       located in the enterprise.
+
+
+                                   1. Provide                                    3. Dynamic                                                           2. Holistic                           Stakeholder                        Governance                                          Approach                               value                             System
+
+                                            4. Governance           5. Tailored to        6. End-to-End
+                                         Distinct from           Enterprise       Governance
+                              Management           Needs           System
+
+
+                           Fig. 1.5: Principles of Governance System
+Governance and Management Objectives
+For  information and technology  to  contribute  to  enterprise  goals,  several governance and
+management  objectives  should be  achieved.  Basic  concepts  relating  to  governance and
+management objectives are as follows:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+1.22           DIGITAL ECOSYSTEM AND CONTROLS
+
+1.   A governance or management objective always relates to one process (with an identical or
+       similar name) and a series of related components of other types to help achieve the objective.
+2.   A governance objective relates to a governance process, while a management objective
+       relates  to a management  process. Board and  executive management  are  typically
+      accountable for governance processes, while management processes are the domain of
+       senior and middle management.
+COBIT® 2019 includes 40 governance and management objectives organized into five domains –
+EDM, APO, BAI, DSS and MEA. The domains have names with verbs that express the key purpose
+and areas of activity of the objective contained in them. Refer Fig. 1.6:
+
+   EDM01—Ensured     EDM02—      EDM03—       EDM04—       EDM05—
+      Governance          Ensured         Ensured          Ensured          Ensured
+      Framework            Benefits            Risk           Resource         Stakeholder
+          Setting              Delivery         Optimization        Optimization      Engagement
+
+
+                                                   APO06—                                                            APO07—                      APO03—  APO01—                                          APO05—                                APO04—             APO02—                                                                            MEA01 -                                                            Managed                                                                       Managed                           Managed   Managed                                                 Managed                                      Managed               Managed                                                                                    Managed                                                                   Budget                                                                &                                                                   Human                                 Enterprise    I&T Mgt.                                                                      Portfolio                                               Innovation                   Strategy                                                                                             Performance                                                                       Costs                                                                              Resources                                 Architecture  Framework
+                                                                                    &
+                                                                                        Conformance
+                                                                                                        Monitoring
+            APO09—                     APO10—    APO11—    APO12—   APO13—   APO14—  APO08—              Managed                         Managed    Managed    Managed    Managed    Managed   Managed                  Service                            Vendors       Quality        Risk        Security      Data Relationships              Agreements
+
+                                                                      MEA02—
+                          BAI03—      BAI04—       BAI05—                       Managed              BAI02—                                                      Managed                                         Managed                            Managed  BAI01—                                                                BAI06—          System                                                                                                                                  of              Managed                                                                  Organizational                                                                    Managed                                                          Availability  Managed                                   Solutions                                                                                                                     Internal              Requirements  Programs                                    Identification &   & Capacity       Change        IT Changes           Control                   Definition                                      Build
+
+ BAI07—Managed                                 BAI09—                                      MEA03 —      IT Change                                            BAI10—Managed   BAI11—Managed         Managed                 BAI08—Managed    Managed   Acceptance &                                                            Configuration           Projects            Compliance                      Knowledge         Assets    Transitioning                                                                                       With
+                                                                                                           External
+                                                                                             Requirements
+              DSS02—
+                Managed                         DSS05—       DSS06—                         DSS03—    DSS04—   DSS01—                                                    Managed        Managed         MEA04 —                     Service                             Managed     Managed   Managed                                                                    Security         Business          Managed                  Requests                                Problems      Continuity   Operations                                                                Services      Process Controls       Assurance                and Incidents
+
+                          Fig. 1.6: COBIT Core Model
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.23
+
+(i)    Governance objectives are grouped in the Evaluate, Direct and Monitor (EDM) domain
+     (EDM01 to EDM05). In this domain, the governing body evaluates strategic options, directs
+       senior management on the chosen strategic options and monitors the achievement of the
+       strategy.
+(ii)   Management objectives are grouped in four domains:
+        Align, Plan and Organize (APO01 to APO14) addresses the overall organization,
+              strategy and supporting activities for I&T.
+        Build, Acquire and Implement (BAI01 to BAI11) treats the definition, acquisition and
+             implementation of I&T solutions and their integration in business processes.
+        Deliver, Service and Support (DSS01 to DSS06) addresses the operational delivery
+           and support of I&T services, including security.
+       Monitor,  Evaluate and Assess (MEA01  to MEA04)  addresses  performance
+             monitoring and conformance of I&T with internal performance targets, internal control
+              objectives and external requirements.
+Components of the Governance System (Refer Fig. 1.7)
+
+
+                                       Processes                          Services,
+                         Infrastructure                         Organizational
+                        and                               Structures
+                         Application
+
+                             GOVERNANCE
+                   People, Skills         SYSTEM               Principles,
+                    and                                             Policies,
+                Competencies                               Procedures
+
+                                       Culture,
+                                   Ethics and         Information
+                                 Behaviour
+
+                     Fig. 1.7: COBIT Components of a Governance System
+To satisfy governance and management objectives, each enterprise needs to establish, customise
+and sustain a governance system built from a number of components.
+♦    Components are factors that, individually and collectively, contribute to the good operations
+       of the enterprise’s governance system over Information & Technology.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+1.24           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦    Components  interact  with each  other,  resulting  in a  holistic governance system  for
+       Information & Technology.
+♦    Components can be  of  different  types. The most  familiar  are processes. However,
+      components of a governance system also include organizational structures; policies and
+      procedures; information items; culture and behavior; skills and competencies; and services,
+       infrastructure, and applications.
+       Processes describe an organized set of practices and activities to achieve certain
+              objectives and produce a set of outputs that support achievement of overall IT-related
+              goals.
+       Organizational structures are the key decision-making entities in an enterprise.
+        Principles, Policies and Frameworks translate desired behavior  into  practical
+            guidance for day-to-day management.
+       Information is pervasive throughout any organization and includes all information
+            produced and used by the enterprise. COBIT focuses on information required for the
+               effective functioning of the governance system of the enterprise.
+        Culture, Ethics and Behavior  of  individuals and  of  the  enterprise are  often
+            underestimated as factors in the success of governance and management activities.
+       People, Skills, and Competencies are required for good decisions, execution of
+              corrective action and successful completion of all activities.
+       Services, Infrastructure and Applications include the infrastructure, technology and
+              applications  that  provide  the  enterprise  with  the governance system  for I&T
+             processing.
+COBIT Implementation Approach
+Phase 1—What Are the Drivers?
+Phase 1 of the implementation approach identifies current change drivers and creates at executive
+management levels a desire to change that is then expressed in an outline of a business case. A
+change driver is an internal or external event, condition or key issue that serves as a stimulus for
+change.  Events,  trends  (industry,  market  or  technical),  performance  shortfalls,  software
+implementations and even the goals of the enterprise can all act as change drivers. Risk associated
+with implementation of the program itself is described in the business case and managed throughout
+the life cycle. Preparing, maintaining, and monitoring a business case are fundamental and important
+disciplines for justifying, supporting and then ensuring successful outcomes for any  initiative,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.25
+
+including improvement of the governance system. They ensure a continuous focus on the benefits
+of the program and their realization.
+Phase 2—Where Are We Now?
+Phase 2 aligns I&T-related objectives with enterprise strategies and risk, and prioritizes the most
+important enterprise goals, alignment goals and processes. Based on the selected enterprise and
+IT-related goals and other design factors, the enterprise must identify critical governance and
+management objectives and underlying processes  that are  of  sufficient  capability  to ensure
+successful outcomes. Management needs to know its current capability and where deficiencies may
+exist. This can be achieved by a process capability assessment of the current status of the selected
+processes.
+Phase 3—Where Do We Want to Be?
+Phase 3 sets a target for improvement followed by a gap analysis to identify potential solutions.
+Some solutions will be quick wins and others more challenging, long-term tasks. Priority should be
+given to projects that are easier to achieve and likely to give the greatest benefit. Longer-term tasks
+should be broken down into manageable pieces.
+Phase 4—What Needs to Be Done?
+Phase 4 describes how to plan feasible and practical solutions by defining projects supported by
+justifiable business cases and a change plan for implementation. A well-developed business case
+can help ensure that the project’s benefits are identified and continually monitored.
+Phase 5—How Do We Get There?
+Phase 5 provides for implementing the proposed solutions via day-to-day practices and establishing
+measures and monitoring systems to ensure that business alignment is achieved, and performance
+can be measured. Success requires engagement, awareness, communication, understanding and
+commitment of top management, and ownership by the affected business and IT process owners.
+Phase 6—Did We Get There?
+Phase 6 focuses on sustainable transition of the improved governance and management practices
+into normal business operations. It further focuses on monitoring achievement of the improvements
+using the performance metrics and expected benefits.
+Phase 7—How Do We Keep the Momentum Going?
+Phase 7 reviews the overall success of the initiative, identifies further governance or management
+requirements and  reinforces  the need  for  continual improvement.   It  also  prioritizes  further
+opportunities to improve the governance system.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+1.26           DIGITAL ECOSYSTEM AND CONTROLS
+
+Program and project management is based on good practices and provides for checkpoints at each
+of the seven phases to ensure that the program’s performance is on track, the business case and
+risk are updated, and planning for the next phase is adjusted as appropriate. It is assumed that the
+enterprise’s standard approach would be followed.
+Further guidance on program and project management can also be found in COBIT management
+objectives BAI01 Managed programs and BAI11 Managed projects. Although reporting  is not
+mentioned explicitly in any of the phases,  it is a continual thread through  all the phases and
+iterations.
+1.6.2 Information Technology Infrastructure Library (ITIL)
+The IT Infrastructure Library (ITIL) is a globally recognized framework for IT Service Management
+(ITSM) that focuses on aligning IT services with the needs of business. ITIL 4 is the latest version
+of the ITIL framework and was released back in February 2019. It is highly value-centric, primarily
+focusing on bringing different stakeholders in an organization together to co-create value for the
+end-users.  It enables businesses  to collaborate with the IT team  to  deliver IT services  to
+stakeholders.
+Some of the benefits ITIL practices allow businesses to gain include lower costs, high-quality IT
+services, increased business productivity, improved Return on Investment (RoI), greater customer
+satisfaction and improved resource utilization.
+ITIL Dimensions
+ITIL 4 is all about a holistic approach to service management. Because of this, the framework defines
+four dimensions that are critical to creating value for stakeholders, including customers. These four
+ITIL 4 dimensions are as follows:
+♦    Organizations and people – The corporate culture needs to support an organization’s
+       objectives, and the right level of staff capacity and competency.
+♦    Information and technology – Within the ITIL 4 service value system, this refers to the
+       information, knowledge, and technologies that are needed for the management of services.
+♦    Partners and suppliers – The suppliers that are involved in the design, deployment, delivery,
+       support, and continual improvement of services and their relationship to the organization.
+♦    Value streams and processes – These are the different parts of the organization working in
+      an integrated and coordinated way? This is important to ITIL for the creation of value through
+      products and services.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.27
+
+An appropriate amount of focus needs to go into each of these dimensions such that the ITIL 4
+service value system remains balanced and effective.
+ITIL Management Practices
+ITIL 4 includes 34 management practices as "sets of organizational resources designed for
+performing work or accomplishing an objective". For each practice, ITIL 4 provides various types
+of guidance, such as key terms and concepts, success factors, key activities, information objects,
+etc. These 34 ITIL 4 practices are grouped into three categories as shown in the Fig. 1.8:
+
+
+                                  General Management Practices
+                                                 Practices              Service Management Practices
+     4
+                      ITIL
+                                  Technical Management Practices
+
+
+                                     Fig. 1.8: ITIL 4 Practices
+The ITIL 4 General Management Practices
+1.     Architecture management
+This practice helps organizations manage the often-complex way in which their organizational
+architecture relates to various parts of the business. It provides the principles, standards, and tools
+to help manage changes in a structured and agile way.
+2.    Continual improvement
+Organizations must be able to align their processes and services with changing business needs.
+The continual improvement practice helps them achieve this. It ensures that organizations identify
+opportunities for improvement within services, service components, practices, or other parts of
+service management.
+3.    Information security management
+This practice relates to the way an organization protects its sensitive information from misuse.
+Specifically,  information  security management  looks  at ways  to  prevent  breaches  of  the
+confidentiality, integrity, and availability of data. In this context, confidentiality refers to information
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+1.28           DIGITAL ECOSYSTEM AND CONTROLS
+
+being viewed only by authorized parties, integrity to information being accurate, and availability to
+information being accessible when necessary.
+4.    Knowledge management
+This practice helps organizations improve the way that they use data. It focuses on the convenience,
+effectiveness and efficiency of knowledge and data use.
+5.    Measurement and reporting
+To make good decisions and continually improve systems, organizations must conduct evidence-
+based research. This practice provides a framework for doing that, recommending risk assessments
+and the collection of relevant data.
+6.    Organizational change management
+This practice helps organizations implement the changes recommended during the continual
+improvement process.  It emphasizes the human aspect of change management and the lasting
+benefits that can be had if the challenges and opportunities of individuals are accounted for.
+7.     Portfolio management
+This practice ensures that the organization has the right combination of programs, products, and
+services to achieve its goals. It also accounts for the organization’s funding and resource constraints.
+8.     Project management
+This practice helps organizations oversee their ongoing projects and ensure that they are delivered
+successfully. It addresses the way projects are planned, delegated, monitored, and maintained. It
+also addresses the relationships between stakeholders and aims to keep those involved in the
+project motivated.
+9.    Relationship management
+For projects to be successful, organizations must establish and nurture the relationships between
+stakeholders. This practice helps organizations identify, analyze, monitor and continually improve
+relationships.
+10.   Risk management
+This practice helps organizations understand and address risks. There are countless ways that
+problems could materialize, and it’s essential that they are spotted as soon as possible to prevent
+disruption, financial consequences, and sustainability issues.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.29
+
+11.   Service financial management
+This practice supports the organization’s strategies and plans by ensuring that financial resources
+and investments are used efficiently.
+12.   Strategy management
+This practice helps organizations define specific goals and ways to achieve them. It also ensures
+that necessary resources are allocated to meet those goals and clarifies the organization’s priorities.
+13.   Supplier management
+Organizations must manage their suppliers effectively if they are to ensure the smooth production
+and delivery of products and services. This practice helps foster those relationships, focusing on
+creating opportunities for collaboration and identifying ways to make improvements.
+14.   Workforce talent management
+This practice helps organizations put talented and skilled people in the right roles. It focuses on the
+planning, recruiting, onboarding, and training of employees. It also looks at the way organizations
+evaluate the performance of employees and how to develop succession planning.
+The ITIL 4 Service Management Practices
+15.    Availability management
+With this practice, organizations can ensure that the availability of products and services meets the
+customer’s needs. Those needs should have been agreed upon at the outset of the project.
+16.   Business analysis
+This practice helps organizations analyze their business processes or elements within them. It’s
+intended to help solve specific issues and improve value creation for stakeholders.
+17.   Capacity and performance management
+This  practice  helps  organizations ensure  that  their  products and  services meet expected
+performance levels. It also addresses current and future demands, helping organizations identify
+any changes that could affect their capacity.
+18.   Change enablement
+This practice ensures that organizations maximize successful IT changes. It does so by ensuring
+that risk assessments are conducted, that proper authorizations are in place for implementing
+change and that changes are managed efficiently.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+1.30           DIGITAL ECOSYSTEM AND CONTROLS
+
+19.   Incident management
+The objective of this practice is to mitigate the negative impact of disruptive incidents.  It helps
+organizations identify ways of restoring normal service operation as quickly as possible.
+20.    IT asset management
+This practice helps organizations manage the complete lifecycle of their IT assets. It’s based on
+value maximization, cost control, risk management, decision making, asset reuse management and
+retirement. It also addresses the regulatory and contractual requirements related to IT assets.
+21.   Monitoring and event management
+With this practice, organizations can systematically observe services and service components, and
+record and report selected changes. They can do this by identifying and prioritizing infrastructure,
+services, business processes and information security events. The practice also establishes the
+responses to these events.
+22.   Problem management
+This practice helps organizations mitigate the impact and likelihood of disruptive events. It does so
+by focusing on the identification of potential causes of incidents and the ways to navigate them.
+23.   Release management
+This practice focuses on the way services are deployed.  It addresses both new and changed
+services and features.
+24.   Service catalogue management
+This practice ensures that organizations have a single source of consistent information for all their
+services. It guarantees that information is available for relevant audiences whenever it is required.
+25.   Service configuration management
+This practice ensures that information about the configuration of an organization’s services remains
+available and accurate. It also addresses the configuration items that support those services.
+26.   Service continuity management
+This practice provides a framework for building organizational resilience.  It helps organizations
+protect services  in the event  of a disruptive incident and ensure  that  their  availability and
+performance remain at a sufficient level.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.31
+
+27.   Service design
+This practice helps organizations design products and services that are fit for use and in line with
+their defined purpose. It also ensures that services can be successfully delivered by the organization
+in its current ecosystem. The practice focuses on product and service planning, as well as the
+management of people, partners, suppliers, information, communication networks and technology.
+28.   Service desk
+This practice helps organizations capture demand for incident resolution and service requests. It
+should also be the contact point for the service provider and its users.
+29.   Service level management
+This practice sets business targets for the performance of services. It ensures that service delivery
+can be properly assessed, enabling the organization to identify issues and improve its practices.
+30.   Service request management
+With this practice, organizations can support the agreed quality of service by handling all pre-
+defined, user-initiated service requests in an effective and user-friendly manner.
+31.   Service validation and testing
+This practice ensures that new or changes products and services meet their defined requirements.
+Organizations should do this by measuring service value based on input from customers, business
+objectives and regulatory requirements.
+The ITIL 4 Technical Management Practices
+32.   Deployment management
+Deployment management practices help organizations move new or changed hardware, software,
+documentation, and processes from a production to a live environment. It also helps them move
+those components to other environments for testing or staging.
+33.    Infrastructure and platform management
+This practice helps organizations oversee their infrastructure and platforms, enabling them to
+monitor technologies that are deployed internally and by service providers.
+34.   Software development and management
+This practice ensures that applications meet the needs of stakeholders.  It addresses software
+functionality, reliability, maintenance, compliance, and their ability to be audited.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+1.32           DIGITAL ECOSYSTEM AND CONTROLS
+
+                            Table 1.1: COBIT vs. ITIL
+                COBIT                                         ITIL
+ COBIT    is  more  on   strategy   focusing   ITIL is mostly and operational focusing
+ governance.                               on actual working.
+ Broadly focuses on risk management that can  Keeps a narrow focus on ITSM  (IT
+ be applied to various business areas.            service management.
+ COBIT audits are conducted by ISACA Certified  Needs  a   third-party   tool   like   to
+ Information Systems Auditors (CISAs).         document compliance.
+
+1.6.3 ISO 27001
+ISO/IEC 27001  is an  independent, non-governmental  international  organization  to manage
+information security. The standard was originally published jointly by the International Organization
+for Standardization (ISO) and the International Electrotechnical Commission (IEC) in 2005, revised
+in 2013, and again most recently in 2022. Through its members, it brings together experts to share
+knowledge and develop voluntary, consensus-based, market relevant International Standards that
+support innovation and provide solutions to global challenges.
+Information  Security Management  System: ISO  27001  defines  an  information  security
+management system (ISMS) as “that part of the overall management system, based on a business
+risk approach, to establish, implement, operate, monitor, review, maintain, and improve information
+security. The management system includes organizational structure, policies, planning activities,
+responsibilities, practices, procedures, processes, and resources.” An ISMS, in other words, exists
+to preserve confidentiality, integrity, and availability.
+The ISO/IEC 27001 standard provides companies of any size and from all sectors of activity with
+guidance for establishing, implementing, maintaining, and continually improving an information
+security management system.
+Conformity with ISO/IEC 27001 means that an organization or business has put in place a system
+to manage risks related to the security of data owned or handled by the company, and that this
+system respects all the best practices and principles enshrined in this International Standard.
+Why is ISO/IEC 27001 important?
+With cyber-crime on the rise and new threats constantly emerging,  it can seem difficult or even
+impossible to manage cyber-risks. ISO/IEC 27001 helps organizations become risk-aware and
+proactively identify and address weaknesses.
+ISO/IEC 27001 promotes a holistic approach to information security in terms of vetting people,
+policies, and technology. An Information Security Management System (ISMS) implemented
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.33
+
+according to this standard is a tool for risk management, cyber-resilience, and operational
+excellence.
+Nowadays, data theft, cybercrime and liability for privacy leaks are risks that all organizations need
+to factor in. Any business needs to think strategically about its information security needs, and how
+they relate to its own objectives, processes, size, and structure. The ISO/IEC 27001 standard
+enables organizations to establish an information security management system and apply a risk
+management process that is adapted to their size and needs, and scale  it as necessary as these
+factors evolve.
+Companies that adopt the holistic approach described in ISO/IEC 27001 will make sure information
+security  is built into organizational processes, information systems and management controls.
+Benefits of this standard have convinced companies across  all economic sectors,  all kinds of
+services and manufacturing as  well as  the  primary  sector;  private,  public, and  non-profit
+organizations. They gain efficiency and often emerge as leaders within their industries.
+ISO 27001 requires that management:
+♦     systematically examines the organization's information security risks, taking account of the
+       threats, vulnerabilities, and impacts.
+♦    designs and implements a coherent and comprehensive suite of information security controls
+      and/or other forms of risk treatment (such as risk avoidance or risk transfer) to address those
+       risks that are deemed unacceptable.
+♦    adopts an overarching management process to ensure that the information security controls
+      continue to meet the organization's information security needs on an ongoing basis.
+How does ISO 27001 work?
+ISO 27001 works in a top-down, technology-neutral, risk-based approach. The specification defines
+six planning processes which include the following as referred in Fig. 1.9.
+
+        Defining a security policy.
+
+           Defining the scope of ISMS.
+
+           Conducting risk assessment.
+
+           Managing assessed risks.
+
+           Picking control objectives that are to be implemented.
+
+        Preparing the statement of applicability.
+
+                                 Fig. 1.9: Working of ISO 27001
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+1.34           DIGITAL ECOSYSTEM AND CONTROLS
+
+ISO 27001 draws coordination between all sections of an organization and enhances management
+responsibility, ensures continual improvement, conducts internal audits, and undertakes corrective
+and preventive actions.
+Benefits of ISO 27001
+The key benefits of ISO 27001 are given as follows:
+♦        It can act as the extension of the current quality system to include security.
+♦        It provides an opportunity to identify and manage risks to key information and systems assets.
+♦    Provides confidence and assurance to trading partners and clients, acts as a marketing tool.
+♦     Allows an independent review and assurance to you on information security practices.
+A company may adopt ISO 27001 for the following reasons:
+♦     Suitable for protecting critical and sensitive information.
+♦    Provides a holistic, risk-based approach to secure information and compliance.
+♦    Demonstrates  credibility,  trust, satisfaction and confidence with stakeholders, partners,
+        citizens, and customers.
+♦    Demonstrates security status according to internationally accepted criteria.
+♦    Creates a market differentiation due to prestige, image, and external goodwill.
+♦    Once certified, globally accepted.
+
+SUMMARY
+The chapter has highlighted the need for implementing the right type of IT controls as IT is all
+pervasive in enterprises today. For implementing IT controls, it is important to consider not only the
+regulatory but also the management perspective to ensure that both conformance and performance
+objectives are covered. The key concepts  of governance, enterprise governance, corporate
+governance, IT governance and Governance of Enterprise IT have been explained. This will enable
+us to identify governance practices as implemented in enterprises and confirm their adequacy. This
+chapter has also provided an overview of the critical role of IT in achieving business objectives.
+IT compliance as part of Governance, Risk and Compliance under the umbrella of corporate
+governance is also discussed. The chapter has also provided a brief overview of COBIT 5 and
+highlighted the need for using globally accepted framework for implementing GEIT. Information
+Technology increasingly impacts how electronic information and related controls are reviewed and
+accessed  for providing compliance, assurance, or consulting service  for clients. Hence,  it  is
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+CONCEPT OF GOVERNANCE AND IT STRATEGY             1.35
+
+imperative for auditors to update methodologies of how they provide services by using the relevant
+best practices and tools to ensure quality of services to clients. IT is an area which is in a constant
+state of continuous improvement. Hence, it is vital for auditors to keep on updating knowledge and
+skills sets and explore innovative ways of delivering services using IT and related best practices.
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    Which of the following domains of COBIT 5 covers areas such as operational delivery and
+      support of IT services, including security within the IT system?
+        (a)    Align, Plan and Organize
+        (b)    Build, Acquire and Implement
+        (c)    Deliver, Service and Support
+        (d)    Monitor, Evaluate and Assess
+2.    Which of the following domains of COBIT 5 addresses the overall organization, strategy and
+       supporting IT related activities within the IT system?
+        (a)    Align, Plan and Organize
+       (b)    Build, Acquire and Implement
+        (c)    Deliver, Service and Support
+       (d)    Monitor, Evaluate and Assess
+3.   A governance system typically refers to  all the means and mechanisms that will enable
+      _____________  in an enterprise  to have an organized mechanism  to  satisfy  specific
+       enterprise objectives.
+       (a)    Multiple stakeholders
+       (b)    Several processes
+        (c)     Intrinsic goals
+       (d)   Numerous products
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+1.36           DIGITAL ECOSYSTEM AND CONTROLS
+
+4.    Which of the following IT processes contained in the Deliver, Service and Support domain of
+     COBIT manages the operations?
+       (a)   DSS02
+       (b)   DSS03
+        (c)   DSS94
+       (d)   DSS01
+5.    COBIT is a framework for the _______and ________ of information and technology aimed at
+       the whole enterprise.
+       (a)    governance, management
+       (b)    support, services
+        (c)    monitoring, management
+       (d)    governance, support
+
+ANSWERS/SOLUTIONS
+     1.         (c)        2.        (a)        3.        (a)        4.        (d)        5.       (a)
+
+
+© The Institute of Chartered Accountants of India

@@ -1,0 +1,492 @@
+Source PDF: 07_SPOM/Set_C_01_Risk_Management/004 - CHAPTER 5- RISK RESPONSE - 79330bos63447-p5.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_01_Risk_Management\004 - CHAPTER 5- RISK RESPONSE - 79330bos63447-p5.pdf
+Extracted at: 2026-05-31T10:29:47+05:30
+Pages: 13
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          5
+
+
+RISK RESPONSE
+
+
+                       LEARNING OUTCOMES
+
+After going through the chapter student shall be able to understand:
+
+   Risk Appetite
+
+   Risk Treatment Techniques
+
+   Controlling Risk
+
+   Contingency Planning
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+5.22.2            RISK MANAGEMENT
+
+ CHAPTER OVERVIEW
+
+
+                                                        Risk Appetite
+
+
+                                                       Risk Treatment
+                                                     Techniques
+                    RISK RESPONSE
+
+                                                             Controlling Risk
+
+
+                                                  Contingency Planning
+
+
+     1.  RISK APPETITE
+Risk appetite refers to the level of risk an organization or individual is willing to accept or tolerate
+in pursuit of its objectives. It is an important concept in risk management and strategic decision-
+making. The risk appetite of an entity reflects its willingness to take on risk to achieve its goals and
+objectives, considering factors such as its financial capacity, business strategy, and risk tolerance.
+1.1 Risk Appetite Vs. Risk Tolerance
+Sometime terms Risk Appetite and Risk Tolerance are used interchangeably. However, both terms
+are different from each other. Let us analyze the definition by different sources as follows:
+      Source           Definition of Risk Appetite         Definition of Risk Tolerance
+ ISO Guide 73 ISO  Amount and type of risk that an   Organization’s   or   stakeholder’s
+ 31000                organization is willing to pursue or   readiness to bear the risk after risk
+                           retain.                             treatment  in  order  to achieve  its
+                                                               objectives.
+ BS 31100:2008     The amount and type of risk than  The  organization’s  readiness   to
+                   an  organization  is  prepared  to  bear the risk after risk treatments in
+                      seek, accept or tolerate.            order to achieve its objectives.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+RISK RESPONSE              5.32.3
+
+  Institute   of  Risk   Risk appetite is the total exposed   Risk  tolerance  is  the amount  of
+ Management       amount   that  an   organization   uncertainty  an   organization    is
+                     wishes to undertake on the basis  prepared to accept in total or more
+                          of risk-return trade-offs for one or   narrowly within a certain business
+                   more   desired  and   expected   unit, a particular risk category or for
+                     outcomes.                      a specific initiative.
+
+From the analysis of different definitions following are some glaring differences between these two
+terms.
+1.   The Risk Appetite is the amount of risk an organisation is ready to “live” with or retain or
+willing to accept while pursuing its objectives i.e.  basis of risk-return trade off). Risk Tolerance is
+the specific minimum and maximum level beyond which an organisation loses i.e. acceptance of
+the outcome of risk had it been occurred. In other words, communicated in terms of acceptable or
+unacceptable level of risk.
+2.   Risk Appetite is generally expressed in qualitative /quantitative terms and can be in relation
+to an individual or organisation as a whole. On the other hand, Risk tolerance is expressed in
+quantitative terms and hence can be monitoring relatively in an easy manner.  It can also be
+measured as acceptable/unacceptable range of outcomes.
+3.   While Risk appetite is related to long term strategy, The Risk Tolerance may be related to
+shorter term and can be changed due to change in different dynamics.
+1.2 Factors
+The various factors on which Risk Appetite of an organisation is dependent are as follows: -
+(i)   Nature of Industry: - It depends on the nature of industry to which organisation pertains. If
+organisation is in the banking business of course the risk appetite is quite on higher side.
+Further it also depends on the stage in which industry is because if it is new industry, it may have
+high risk appetite while the industry that has been matured may have low risk appetite.
+(ii)  Stage of Company:  - While in early stage, high potential and high risk growth start-up
+companies may have higher risk appetite vis -a-vis a company which has been matured and will be
+more focused on stable growth.
+(iii) Nature of Objective of a Company: - It also matters how aggressively company pursue its
+objectives. If it is pursuing its objective aggressively then may have high Risk Appetite vis -a vis a
+company following its objective moderately.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+5.42.4            RISK MANAGEMENT
+
+(iv)  Financial strength and capabilities of the organisation: - Company with more resources
+will be willing to accept higher risk than a company with lower resources.
+1.3 Role of Risk Appetite in Risk Management
+Risk Appetite plays a very important role in successful risk management as mentioned below:
+(i)  Foundation of Risk Culture:  - Since Risk Appetite are generally set up by the Board or
+Executive management at helms of affair of company it lays down the foundation of Risk Culture.
+(ii)  Identification of New Risks:  - To keep updated changing Risk landscapes frequent risk
+assessment is made, which helps to identify new risks.
+(iii) Focus on Risk Management and control: - Regular Quantification and aggregation helps to
+set priorities helps to focus on risk management.
+(iv)  Monitoring of Performance: - Once the limits of Risk Appetite are set  it becomes easy to
+monitor and reporting of performance of individual/division/units.
+(v)  Optimising of Cost/Benefit:  - Since framework of controls are calibrated in line with risk
+appetite it helps to optimise cost/benefit.
+(vi) Value to the company: - Close monitoring of organisation’s risk profile against risk appetite
+helps to identify the trends to identify key areas which are effective to the risk management and
+have value for the company.
+1.4 Benefits of Risk Appetite Statement
+A well-defined and developed risk appetite statement has the following benefits:
+(i)   Better Risk Management: - It helps the company to understand and manage the risk in a
+better manner as  it serves as a guide to take measured  risk  to generate value and avoid
+intolerable losses.
+(ii)  Well -informed Risk-Based Decisions:  -  It helps the management to make risk-based
+informed decisions.
+(iii)  Better Risk-Return Trade Off: -  It helps to allocate scared resources of organisation in a
+better manner to achieve a better Risk -Return Trade off.
+(iv) Improved Transparency:  -  It helps  to improve transparency  for various stakeholders
+including investors, regulators and other agencies (credit Rating Agencies) etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+RISK RESPONSE              5.52.5
+
+(v)  Alignment with stakeholders: - It also helps stakeholders (Board, shareholders, etc) to get
+aligned on same page on the quantum of and type of risk organisation is willing to take.
+1.5  Guiding Principles for Effective Risk Appetite Statement
+Following are some guiding principles that helps to draft an effective Risk Appetite Statement.
+(i)   Organization’s strategy: - First and foremost begin with overall strategic objectives. Risks
+identified  should  be  in  line  with  the  organisation’s  strategy.   It  involves  critical  thinking
+organisation’s mission, objectives, vision and value drivers. This could include type of business
+activities of organisation, products and geographical location etc. Though on initial basis appetite
+statement should be closely linked with a business strategy but going forward operating plans
+should be aligned to risk appetite.
+(ii)  Engage the right stakeholder: - At early stage of development of risk appetite statement
+engagement of right stakeholders such as Board, senior management, Business unit heads and
+head of finance department is necessary. However, being in strategic position Board should play a
+key role in proving required inputs for appetite statement and approving the same.
+(iii) Risk Capacity: - The basis of Risk appetite statement is Risk Capacity. Broadly risk capacity
+is based on financial constraints such available of Funds, cost of capital, etc. It is important to note
+that Risk Appetite should be less than the Risk Capacity to create a sufficient buffer. As much as
+possible risks likely to impact future strategic initiative strategies should be identified as on date.
+(iv) Approval of Board: - Risk Appetite statement should be approved by Board and then get
+articulated to the lower level of management .Though  it could be linked with other strategic
+objective of the organisation and then should be adequately supported by specific quantitative and
+qualitative statements against each type of risk. While qualitative statements should be observable
+the quantitative statements should have measurable thresholds.
+(v)  Regulatory Requirements: - If there are any regulatory requirement regarding the appetite
+statement it should be complied with.
+(vi) Common Language:  - The Risk Appetite statement should be expressed  in common
+language/ taxonomy  to be used throughout the organisation. This would enable  all related
+stakeholders to make decisions in an intelligent manner.
+(vii) Monitoring and Evaluation:  - After defining the Risk Appetite Statement   it should be
+reviewed and evaluated periodically -Annually or at the time interval required as per changed
+circumstances. If required, they should be updated and adjusted accordingly.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+5.62.6            RISK MANAGEMENT
+
+1.6  Conclusion
+From the above discussion following concluding points emerges:
+1.   Subjectivity: Risk appetite is a subjective concept and can vary from one organization or
+individual to another. Different entities may have different attitudes toward risk based on their
+goals, values, and risk tolerance.
+2.   Risk Tolerance: While risk appetite is the overall willingness to take on risk, risk tolerance is
+the specific level of risk that an entity is willing to accept for a particular activity or objective. It is a
+more granular measure that helps organizations set limits on risk exposure.
+3.   Alignment with Objectives: The risk appetite should align with the organization's overall
+objectives and strategic goals.  It's important to strike a balance between risk-taking and risk
+avoidance to ensure that risk is managed in a way that supports the achievement of objectives.
+4.   Communication and Governance: Establishing and communicating a clear risk appetite is
+essential  for  effective  risk management.  It helps guide decision-making  at  all  levels  of the
+organization and ensures that risk  is managed consistently. This often involves setting up a
+governance structure to oversee and enforce risk management policies.
+5.   Risk Culture: Risk appetite is closely related to an organization's risk culture—the shared
+values, attitudes, and behaviours related to risk within an organization. A strong risk culture helps
+in promoting responsible risk-taking and a proactive approach to risk management.
+6.   External Factors: External factors such as regulatory requirements, market conditions, and
+industry standards can influence an entity's risk appetite. Organizations need to be aware of these
+external factors and adjust their risk management strategies accordingly.
+7.  Dynamic Nature: Risk appetite is not static and may change over time as the business
+environment evolves, as new opportunities and challenges arise, or as the organization's risk
+tolerance adjusts.
+In summary, risk appetite is a crucial aspect of risk management that involves understanding,
+communicating, and managing an entity's willingness to take on risks to pursue its objectives.  It
+plays a key role in shaping an organization's risk culture and guiding decision-making processes.
+
+     2.  RISK TREATMENT TECHNIQUES
+Whether enterprises are small or large both need  to  identify, understand and manage the
+uncertainties of risks that are critical to achieving success.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+RISK RESPONSE              5.72.7
+
+Risk treatment involves the process of choosing and executing suitable control measures to
+address or alter the risk. It primarily encompasses risk control or mitigation but also encompasses
+broader strategies such as risk avoidance, risk transfer, and risk financing. A comprehensive risk
+treatment system should ensure the presence of efficient and effective internal controls. The
+effectiveness  of  internal controls  is measured by the extent  to which the proposed control
+measures eliminate or decrease the risk. Additionally, the cost-effectiveness of internal controls
+refers to the balance between the cost of implementing the control measures and the benefits
+gained from risk reduction.
+Various Risk Treatment techniques are as follows:
+2.1  Tolerate
+The risk may be tolerable without any further action being taken. Even if it is not tolerable, ability to
+do anything about some  risks may be  limited,  or  the  cost  of  taking any  action may be
+disproportionate to the potential benefit gained.
+In such instances, the appropriate response might involve accepting the current level of risk. This
+approach  could  be  further  reinforced  by  developing  contingency  plans  to manage  the
+consequences that may occur if the risk materializes in the future.
+2.2  Transfer
+In certain situations, the most effective course of action for dealing with risks is to transfer them.
+This can be achieved through traditional insurance mechanisms or by outsourcing the risk to a
+third party through financial arrangements.
+This option is particularly good for mitigating financial risks or risks to assets. The transfer of risks
+may be considered to either reduce the exposure of the organization or because some other
+organization is more capable of effectively managing the risk.
+It is important to note that some risks are not (fully) transferable in particular;  it is generally not
+possible to transfer reputation risk even if the delivery of a service is contracted out.
+2.3  Terminate
+Some risks can only be treatable, or containable to acceptable levels, by terminating the activity
+itself. This option can be particularly important in project management if it becomes clear that the
+projected cost-benefit relationship is in jeopardy as the cost of treating the risk does not make the
+activity viable. For example, land acquisition for a project whose  feasibility  is based on that
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+5.82.8            RISK MANAGEMENT
+
+particular land may be risky and the cost of treating it in terms of legal fees is so high, that it may
+be better to terminate the project.
+2.4  Treat
+By far, a large number of risks will be addressed in this way. The purpose of treatment is to
+continue with the activity giving rise to the risk and action (internal control) is taken to contain the
+risk to an acceptable level.
+
+      3.  CONTROLLING RISK
+Risk control involves the implementation of strategies by businesses to assess potential losses
+and  mitigate  or eradicate associated  risks. This method  utilizes  insights gleaned from  risk
+assessments, which encompass the  identification  of various  risk factors  within a company's
+operations, spanning technical and non-technical realms, financial policies, and other pertinent
+areas impacting the firm's stability.
+Moreover, risk control facilitates proactive adjustments to minimize risks across these domains,
+ultimately aiding companies in curtailing potential losses. Integral to a company's enterprise risk
+management (ERM) framework, risk control plays a pivotal role in safeguarding the organization's
+interests.
+Risk control is a crucial part of the risk management process. It is the step where an organization
+evaluates the potential losses from a risk and then takes action to reduce or eliminate that risk.
+Risk control uses findings from risk assessments, which in turn uncover various risk factors in an
+organization’s  operations  and  management   practices.  Those   factors  include   financial
+circumstances, technical and non-technical operations in the business, and other issues that could
+harm the company.
+Risk control holds significant importance for the  vitality of an organization as  it enables the
+company to achieve its objectives and financial gains by safeguarding against risks that could
+impact  its profitability. Serving as an internal control strategy,  its core focus lies in preventing
+losses.
+Risk Management vs. Risk Control
+Although risk control is part of risk management,  it is only one part; the two concepts are not the
+same.
+Risk management is the entire, end-to-end process of identifying and handling risks.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+RISK RESPONSE              5.92.9
+
+Risk control is a way for organizations to mitigate risks by implementing operational processes.
+As an  illustration, a company could manage the  risk of equipment  failure by adhering to a
+predetermined maintenance schedule. However, this specific action does not encompass the
+entirety of the risk management procedure, which includes recognizing equipment failure as a
+potential hazard, mitigating  it through regular maintenance, ensuring an adequate surplus of
+equipment  in case  of  failure, and  providing  reports on equipment maintenance  to  senior
+management.
+Controlling risk  is a critical aspect of effective risk management. The goal is not always to
+eliminate all risks, as some level of risk is inherent in any business or project, but rather to manage
+and mitigate risks to an acceptable level.
+Here are some key steps and strategies for controlling risk in the context of risk management:
+(i)   Risk Identification: Begin by identifying and understanding the risks associated with a
+particular project, process, or business. This involves brainstorming, analysing historical data, and
+consulting with stakeholders.
+(ii)  Risk Assessment: Evaluate and  prioritize  risks based on  their  potential impact and
+likelihood. This helps in focusing efforts on the most critical risks that could significantly affect
+objectives.
+(iii) Risk Mitigation Planning: Develop a risk mitigation plan for each identified risk. This plan
+should outline specific actions and strategies to reduce the likelihood or impact of the risk. This
+might  involve  implementing  preventive  measures,  transferring  risk  through  insurance,  or
+developing contingency plans.
+(iv)  Risk Monitoring: Establish a system for ongoing monitoring of identified risks. This involves
+regularly assessing the effectiveness of risk mitigation strategies and making adjustments as
+needed. Monitoring allows for early identification of new risks and changes in the level of existing
+risks.
+(v)  Risk  Communication:  Clearly  communicate  risks  and  risk  mitigation  strategies  to
+stakeholders. Effective communication ensures that everyone involved is aware of potential risks
+and understands their role in managing them.
+(vi)  Risk Transfer: Transfer  risk to  third parties when possible and appropriate. This could
+involve purchasing insurance, outsourcing certain activities, or entering into contracts that allocate
+risks to other parties.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+5.102.10           RISK MANAGEMENT
+
+(vii) Diversification:  Diversify resources, investments, or operations  to spread  risk. This  is
+especially relevant in financial management, where diversifying a portfolio of investments can help
+mitigate the impact of a poor-performing asset.
+(viii) Scenario Planning: Conduct scenario planning  to  anticipate and prepare  for  different
+possible future scenarios. By considering a range of potential outcomes, organizations can better
+position themselves to respond effectively to unforeseen events.
+(ix) Continuous Improvement: Regularly review and improve risk management processes. This
+involves learning from past experiences, conducting post-event evaluations, and updating risk
+management plans based on new information or changes in the business environment.
+(x)  Crisis Management Planning: Develop a crisis management plan that outlines how the
+organization  will respond to and recover from a major risk event. This includes having clear
+communication protocols, designated response teams, and predefined recovery strategies.
+By systematically implementing these steps, organizations can enhance their ability to control and
+manage risks effectively. Remember that risk management is an ongoing and dynamic process
+that requires constant attention and adaptation to changing circumstances.
+
+      4.  CONTINGENY PLANNING
+Contingency planning  is a  critical component  of  risk management, aimed  at preparing an
+organization for potential disruptions and ensuring that  it can respond effectively to unexpected
+events. Here are key elements and steps involved in contingency planning within the context of
+risk management:
+(i)   Risk Identification and Assessment: Begin by identifying and assessing potential risks that
+could impact your organization. These risks can include natural disasters, technology failures,
+supply chain disruptions, regulatory changes, and more.
+(ii)  Critical Asset Identification: Identify and prioritize critical assets and processes. These are
+the elements of your organization that are essential for its operations and that, if disrupted, could
+have a significant impact.
+(iii) Impact Analysis: Evaluate the potential impact of identified risks on  critical assets and
+processes. Understand the  potential consequences  in terms  of  financial losses, operational
+disruptions, reputational damage, and other relevant factors.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+RISK RESPONSE             5.112.11
+
+(iv)  Risk Mitigation Strategies: Develop and implement risk mitigation strategies to reduce the
+likelihood and impact of potential disruptions. This could involve redundancy, diversification of
+suppliers, technology upgrades, and other measures.
+(v)  Contingency Planning Team: Establish a dedicated team responsible  for contingency
+planning. This team should  include  representatives from  various departments  to ensure a
+comprehensive and well-informed approach.
+(vi) Developing Contingency Plans: Develop comprehensive contingency plans  for every
+recognized risk. These plans must detail precise steps to be executed in reaction to various
+potential scenarios. It's essential to contemplate multiple scenarios to guarantee adaptability in the
+response strategy.
+(vii) Communication Plan: Develop a communication plan that outlines how information will be
+disseminated during a crisis. Clearly define roles and responsibilities for communication, both
+internally and externally.
+(viii) Testing and Exercising: Regularly test and exercise contingency plans through simulations
+and drills. This helps identify weaknesses in the plans, ensures that personnel are familiar with
+procedures, and allows for adjustments and improvements.
+(ix) Resource Allocation: Allocate resources, including personnel, equipment, and finances, to
+support the execution of contingency plans. Ensure that there are adequate resources available to
+respond effectively to potential disruptions.
+(x)  Training and Awareness:  Provide  training  to  relevant  personnel on  their  roles and
+responsibilities during a crisis. Ensure that employees are aware of the contingency plans and
+understand how to implement them.
+(xi) Continuous Improvement: Continuously review and update contingency plans to reflect
+changes in the organization's operations, structure, and external environment. Learn from past
+experiences and incorporate lessons learned into future planning.
+(xii)  Coordination  with  External  Partners:  Establish  communication  and  coordination
+mechanisms with external partners, such as suppliers, regulatory agencies, and emergency
+services. Collaborate with these entities to enhance the overall resilience of the organization.
+(xiii)  Legal and Regulatory Compliance: Ensure that contingency plans comply with relevant
+legal and regulatory requirements. This may include data protection laws, safety standards, and
+industry-specific regulations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+5.122.12           RISK MANAGEMENT
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    As per…………….. Risk Appetite means the amount and type of risk that an organization is
+        willing to pursue or retain.
+        (a)   ISO Guide 73 ISO 31000
+        (b)   BS 31100:2008
+        (c)     Institute of Risk Management
+        (d)    ICAI
+2.    As per…………….. Risk Appetite means the amount and type of risk than an organization is
+      prepared to seek, accept or tolerate.
+        (a)   ISO Guide 73 ISO 31000
+        (b)   BS 31100:2008
+        (c)     Institute of Risk Management
+        (d)    ICAI
+3.    As per…………….. Risk Tolerance means the amount of uncertainty an organization  is
+      prepared to accept in total or more narrowly within a certain business unit, a particular risk
+      category or for a specific initiative.
+       (a)   ISO Guide 73 ISO 31000
+       (b)   BS 31100:2008
+        (c)     Institute of Risk Management
+       (d)    ICAI
+4.    Which of the following is not the feature of Risk Tolerance?
+       (a)    Generally expressed in qualitative /quantitative terms and can be in relation to an
+               individual or organisation as a whole.
+       (b)   Can be expressed in quantitative terms.
+        (c)   Can be monitoring relatively in an easy manner.
+        (d)   Can also be measured as acceptable/unacceptable range of outcomes.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+RISK RESPONSE             5.132.13
+
+5.        If it is new industry, it may have ……. risk appetite while the industry that has been matured
+     may have ……….. risk appetite.
+       (a)    low; high
+       (b)    high; low
+        (c)     low; low
+       (d)    high; high
+Answers to Multiple Choice Questions:
+
+    1.        (a)        2.        (b)        3.        (c)        4.        (a)        5.        (b)
+
+
+© The Institute of Chartered Accountants of India

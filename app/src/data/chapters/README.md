@@ -322,7 +322,7 @@ npm run deploy            # builds and force-pushes dist/ to the gh-pages branch
 ```
 
 Bump the service-worker cache version in
-[`../../../public/sw.js`](../../public/sw.js) (`CACHE_NAME = "fr-study-os-vN"` →
+[`../../../public/sw.js`](../../public/sw.js) (`CACHE_NAME = "trinsic-vN"` →
 `vN+1`) **every deploy**, or installed devices won't pick up the new content.
 Then commit the source on `main` and push.
 

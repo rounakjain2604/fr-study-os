@@ -1,0 +1,116 @@
+Source PDF: 06_IBS_Integrated_Business_Solutions/034 - Case Study 1 (23 May, 2025) - 86007bos-aps452-case-study-1-23may.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\06_IBS_Integrated_Business_Solutions\034 - Case Study 1 (23 May, 2025) - 86007bos-aps452-case-study-1-23may.pdf
+Extracted at: 2026-05-31T10:26:57+05:30
+Pages: 2
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+Case Study 1
+
+Vada Pav Waale – Revolutionizing Food Retail Through Automation
+
+Introduction: The Rise of a Disruptive Force
+
+                          In 2021, the Indian Quick-Service Restaurant (QSR) sector was disrupted
+                     by an innovative startup—Vada Pav Waale (VPW). Unlike traditional food
+                       vendors, VPW combined AI-driven automation with India’s iconic street
+                         food, the vada pav, to create a scalable and efficient business model. The
+                   company introduced automated vending kiosks capable of preparing
+                    and dispensing freshly made vada pavs in under two minutes, targeting
+                             high-traffic areas such as metro stations, IT parks, and universities.
+
+VPW’s success was driven by strategic financial planning, cost optimization, and regulatory
+compliance, allowing  it to scale rapidly. This case study explores the company’s journey across
+three key phases: Innovation & Financial Strategy (2021–2022), Scaling Up (2022–2023), and
+Sustainable Growth (2024 onwards).
+
+
+Phase 1: Innovation and Financial Strategy (2021–2022)
+
+VPW’s journey began with a bold vision—to automate the production and sale of vada pav while
+maintaining affordability and quality. The company invested in AI-powered vending machines,
+each costing ₹5 lakh, and conducted a Net Present Value (NPV) analysis to assess financial
+viability. The projections revealed a break-even period of just eight months, making the
+investment highly attractive.
+
+To minimize upfront capital expenditure, VPW adopted an operating lease model rather than
+purchasing machines outright. This decision preserved liquidity and allowed for rapid expansion.
+The startup secured ₹2 crore in seed funding by demonstrating a 60% gross margin, attracting
+investors with its scalable and high-margin business model. Additionally, a ₹50 lakh working capital
+loan at 12% interest was obtained from an NBFC to support initial operations.
+
+Cost control was a critical focus. VPW implemented standard costing, fixing the cost per vada pav
+at ₹18,  and  closely  monitored  variances.  Fluctuations  in  spice  prices  were  managed
+through forward contracts, while IoT-enabled monitoring minimized machine downtime, ensuring
+consistent output. A break-even analysis revealed that with monthly fixed costs of ₹4,25,000 and
+a contribution margin of ₹30 per serving, VPW needed to sell 14,167 vada pavs per month to
+break even. Given that each machine averaged 500 servings per day, the company achieved
+profitability within three months.
+
+
+Phase 2: Scaling Up – Overcoming Operational and Regulatory Challenges (2022–2023)
+
+As VPW expanded its footprint,  it encountered several operational and compliance hurdles. One
+major challenge was Food Safety and Standards Authority of India (FSSAI) compliance. Initially,
+the lack of batch traceability led to regulatory concerns. VPW addressed this by introducing QR-
+coded receipts, enabling customers to track ingredient origins and preparation times, thereby
+ensuring transparency and compliance.
+
+
+====================== PAGE 2 ======================
+
+
+Another regulatory obstacle was GST classification. There was ambiguity over whether VPW’s
+vada pavs should be taxed at 5% (pre-packaged) or 0% (freshly prepared). The company
+resolved this by leveraging IoT timestamps to prove that each vada pav was made fresh, securing
+the 0% GST classification and reducing costs.
+
+Setting up kiosks in high-footfall zones like metro stations required No-Objection Certificates
+(NOCs) from municipal authorities. VPW overcame this by forming strategic partnerships with mall
+operators and metro rail corporations, streamlining the approval process.
+
+To optimize working  capital, VPW implemented Just-in-Time (JIT) inventory management,
+where sensors triggered restocking alerts at 10% stock levels, reducing waste and ensuring
+uninterrupted supply. Additionally, the company introduced dynamic pricing, increasing vada pav
+prices by ₹10 during peak hours (8–10 AM) to maximize revenue while managing demand
+efficiently.
+
+
+Phase 3: Sustainable Growth and Future Expansion (2024 Onwards)
+
+By 2024, VPW had established itself as a leader in automated food retail and began focusing
+on long-term sustainability and expansion. The company adopted a franchise model, selling
+vending machines to entrepreneurs at ₹4 lakh each while retaining a 20% margin. This strategy
+facilitated rapid geographic expansion into Bangalore and Mumbai, further solidifying VPW’s
+market presence.
+
+Revenue  diversification became a key  priority. VPW projected  that 50% of  its ₹100 crore
+revenue would come from advertisements displayed on kiosk screens, creating an additional
+income stream beyond food sales.
+
+To enhance cost efficiency, VPW implemented Activity-Based Costing (ABC), identifying machine
+maintenance as 30% of total costs. By outsourcing maintenance operations, the company
+saved ₹10,000 per machine per month. Sustainability initiatives were also prioritized, with a shift
+to solar-powered machines reducing energy costs by 40%.
+
+For valuation purposes, VPW used a Discounted Cash Flow (DCF) model with a 15% discount
+rate, providing investors with a clear picture of the company’s growth potential and fair market value.
+
+
+Conclusion: Redefining Food Retail Through Innovation
+
+Vada Pav Waale’s success  story demonstrates how technology,  financial prudence, and
+regulatory adaptability can transform a traditional street food business into a scalable enterprise.
+Key takeaways include:
+
+    1. Financial Discipline: Strategic leasing, NPV analysis, and cost control ensured profitability.
+
+    2. Regulatory Agility: Proactive compliance measures prevented legal bottlenecks.
+
+    3.  Scalability: Franchising and dynamic pricing enabled rapid growth.
+
+    4. Sustainability: Solar adoption and ABC costing improved long-term efficiency.
+
+VPW’s journey serves as a blueprint for startups in the food-tech and QSR sectors, proving
+that innovation, when combined with sound financial strategy, can revolutionize an industry.

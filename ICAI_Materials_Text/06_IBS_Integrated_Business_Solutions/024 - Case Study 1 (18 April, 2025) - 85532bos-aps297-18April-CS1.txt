@@ -1,0 +1,292 @@
+Source PDF: 06_IBS_Integrated_Business_Solutions/024 - Case Study 1 (18 April, 2025) - 85532bos-aps297-18April-CS1.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\06_IBS_Integrated_Business_Solutions\024 - Case Study 1 (18 April, 2025) - 85532bos-aps297-18April-CS1.pdf
+Extracted at: 2026-05-31T10:26:51+05:30
+Pages: 7
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CASE STUDY - 1
+
+INTRODUCTION
+PC Products is a leading Indian FMCG company specializing in the production and
+distribution of high-volume personal care products. The company operates through an
+extensive supply chain network that includes Clearing & Forwarding (C&F) agents,
+distributors, and last-mile delivery partners to ensure seamless product availability
+across urban and rural markets. Efficient logistics and cost-effective secondary freight
+movement are central to PC Products’ ability to meet consumer demand and maintain
+competitive pricing in a fast-moving marketplace.
+To support its expanding retail footprint, PC Products utilizes regional warehouse hubs
+operated  by  third-party C&F  agents. These hubs  are  responsible  for  stock
+maintenance, loading, and dispatch to stockiest spread across various districts.
+This Case Study covers the review of the C&F centers at Pollachi (Tamil Nadu) and
+Vijayawada (Andhra Pradesh). These centers form the backbone of the southern
+distribution operations, serving a high-density network of retailers.
+Given the scale of daily operations and the diversity of geographic terrains served,
+optimizing route planning, fuel costs, vehicle usage, and regulatory compliance is
+crucial. This case study evaluates the operational efficiency of these two C&F centers,
+highlights key  issues, and provides recommendations  to improve cost  control,
+distribution strategy, and compliance post the Andhra–Telangana state bifurcation.
+BUSINESS MODEL AND CORE OPERATIONS
+PC Products follows a decentralized warehousing model, supported by a network
+of Contract & Forwarding (C&F) agents. These agents function as key distribution
+hubs, responsible for storing finished goods, managing dispatch schedules, and
+coordinating transportation to retail stockists across various districts. The company
+strategically positions its C&F centers close to high-volume consumption zones to
+ensure faster turnaround time and lower freight costs.
+The Pollachi and Vijayawada centers are critical components of this distribution
+ecosystem, each catering to distinct geographical clusters within the southern region.
+The operations involve handling large volumes  of packed goods,  daily vehicle
+dispatches, coordination with local dealers, and managing route-level freight planning.
+Each center is expected to function independently with strong coordination between
+warehouse teams, logistics vendors, and area sales managers.
+PC Products adopts a hybrid transport approach, leveraging a mix of owned
+vehicles by the C&F Agents (in some cases), hired trucks, and third-party parcel
+services to meet varying delivery needs. While this offers flexibility,  it also requires
+robust cost management, route optimization, and compliance  with  logistics
+regulations. Effective operations at the C&F level are central to maintaining the
+company’s supply chain responsiveness, inventory accuracy, and overall profitability.
+COMPANY BACKGROUND
+PC Products has built its distribution strength over the years by investing in a well-
+structured warehouse and logistics network. The company’s warehousing model
+evolved from centrally located depots to a region-wise C&F-based system, designed
+to improve product accessibility and minimize lead time to market. Each C&F location
+
+
+====================== PAGE 2 ======================
+
+
+is strategically chosen based on proximity to key consumption centers and major
+transportation corridors.
+The company’s southern region operations are anchored by two major C&F hubs:
+Pollachi (serving parts of Tamil Nadu and Kerala) and Vijayawada (serving Andhra
+Pradesh, Telengana and adjacent markets). These warehouses manage high-volume
+movement of fast-selling products and play a pivotal role in servicing Tier 2, Tier 3
+towns and rural retailers.
+The introduction of the Goods and Services Tax (GST) in 2017 was a transformative
+moment. Previously, warehouse locations were often chosen to optimize state-level
+tax benefits. Post-GST, the focus shifted to logistics efficiency, supply chain
+consolidation, and interstate compliance. Additionally, following the bifurcation of
+Andhra Pradesh and Telangana, companies like PC Products had to revisit their
+compliance frameworks. Operations from Vijayawada, which earlier covered the
+combined  state, now  required  to deal  with two  states and  the consequential
+compliance requirements related to such change.
+STRATEGIC DECISION-MAKING
+The selection of C&F locations such as Pollachi and Vijayawada was originally based
+on a combination of legacy dealer presence, accessibility to regional demand
+clusters, and existing infrastructure availability. At the time of establishment, these
+hubs were seen as optimal for covering wide delivery zones with limited operational
+disruption. However, over time, as retail footprints expanded and fuel costs surged,
+the need for data-driven distribution decisions became more apparent.
+Trip planning at these locations largely relied on manual scheduling and experience-
+based routing, which, while operationally feasible, lacked efficiency. For instance,
+vehicles were often dispatched for partial loads, servicing small dealers individually
+instead of consolidating orders for route-based optimization. This approach led to
+redundant trips, higher diesel consumption, and unnecessary wear and tear on
+aging fleets.
+PC Products’ strategy to outsource its logistics operations offered flexibility and
+reduced asset ownership costs. While outsourcing brought  initial benefits,  it also
+introduced challenges such as lack of trip-level visibility, inconsistent route costing,
+and limited accountability on fuel efficiency. The absence of automated route planning
+and data-led vendor management meant that cost leakages went unnoticed for long.
+The case reveals how strategic decisions must evolve with scale, and how early
+choices require periodic reevaluation through a cost-benefit lens.
+CHALLENGES AND RESPONSES
+PC Products faced critical operational challenges at its C&F hubs in Pollachi and
+Vijayawada,  largely stemming from outdated  practices and  lack  of  route-level
+analytics. In Pollachi, the locations proximity to less than 20% of its serviced towns
+raised concerns. Major towns like Trichy, Dindigul, and Thanjavur — better serviced
+from alternate hubs — continued to be dispatched from Pollachi, resulting in longer
+trip distances, higher turnaround times, and avoidable diesel consumption.
+Compounding the problem was the use of older, fuel-inefficient trucks (4–6 km/litre),
+which significantly increased per-trip operating costs. Drivers often undertook multiple
+
+
+====================== PAGE 3 ======================
+
+
+trips to the same town within short intervals, owing to poor trip consolidation and
+lack of dispatch visibility.
+In Vijayawada, although the hub was centrally located, there was a disproportionate
+reliance on parcel services, even when full-truckloads could have been planned
+more economically. This model added ₹60,000–₹70,000 per month  in avoidable
+logistics costs. Additionally, there were issues with underutilized lorry trips, lack of
+shipment clustering, and inefficient stockist servicing.
+Also, Vijayawada’s operations needed  to be reevaluated from  the compliance
+perspective to serve the state of Andhra Pradesh and Telengana post the bifurcation
+of these states.
+Recognizing these issues, the company  initiated cost optimization review to re-
+evaluate  route  economics,  fuel  cost  control mechanisms, and  overall  freight
+optimization strategies at both hubs, marking the beginning of its turnaround roadmap.
+CURRENT OPERATIONAL POSITION
+The Pollachi and Vijayawada C&F hubs currently handle substantial monthly dispatch
+volumes, catering to a wide spread of urban and rural stockists. Despite maintaining
+healthy outbound volumes, both hubs  reveal  significant  disparities  in delivery
+efficiency and cost control.
+In Pollachi, over 80% of the total stock movement is routed to locations that are
+geographically closer to Trichy, making the existing warehouse location sub-
+optimal. High-volume towns such as Thanjavur, Karaikudi, and Pudukkottai require
+longer trips, inflating diesel costs and driver hours. The fleet primarily comprises older
+trucks, which are fuel-inefficient and operate on non-clubbed routes, leading to
+multiple runs to the same region within short time spans. Estimated avoidable fuel
+costs alone exceed ₹60,000 per month.
+
+
+====================== PAGE 4 ======================
+
+
+In Vijayawada, while stock movement is more centralized, the dependency on parcel
+services for secondary freight movement—even for routes that could have been
+clubbed into lorry loads—has driven costs disproportionately high. The hub services
+diverse districts, but lack of dynamic route planning has led to scattered deliveries.
+A more structured clustering of dealers could bring in better economies of scale.
+Both hubs currently suffer from under-optimized delivery models, with missed
+opportunities  in shipment  consolidation,  stockist  clustering, and  trip frequency
+rationalization.
+Also, in respect of Vijayawada, there is a need to review the compliance with respect
+to GST which has been introduced in 2017 and the earlier bifurcation into two states
+in 2014.
+COST & ROUTE ANALYSIS SUMMARY TABLE
+A comparative review of the route economics and fuel efficiency of Pollachi and
+Vijayawada hubs reveals considerable disparities in operating costs and trip planning
+effectiveness. In Pollachi, routes such as those to Trichy belt, Mayiladuthurai region,
+and Thanjavur region are serviced from a less-than-ideal location, increasing the
+average  kilometers  traveled  per  metric  tonne  dispatched. Compounding  this
+inefficiency is the use of aging trucks, yielding just 4–6 km/litre, which significantly
+raises per-trip diesel consumption.
+In contrast, Vijayawada’s centrally located depot services districts like Guntur, Nellore,
+and Rajahmundry with better proximity. However, due to over-reliance on parcel
+services, even routes under 150 km incur higher cost per MT delivered compared to
+a structured full-truckload dispatch.
+
+
+====================== PAGE 5 ======================
+
+
+Distance
+                                          Round trip Distance for
+                                                     from  Round trip   Difference  Number of   Savings in
+Routes  Locations covered in route                       Pollachi  from Trichy       in Kms   trips in Oct kms for Oct
+        Papanasam, Kumbakonam,
+Route 4  Aduthurai,Thiruvarur                              695        274        421          3       1263
+Route 3  Salem, Omalur, Valapadi, Attur, Sankagiri             517        462         55          5        275
+          Mayiladuthurai, Sirkali, Sembanarkoil,
+Route 1  Poraiyar, Karaikal, Peralam, Tirumarugal             805        384        421          6       2526
+         Orathanad, Pattukottai, Peravoorani,
+          Muthupet, Thiruthuraipoondi,
+Route 6  Vedharanyam,Thirupoondi, Nagai, Kivaloor            873        428        445          3       1335
+         Udumalpet, Madathukulam, Manaparai, Trichy,
+Route 8  Lalgudi                                        472        445         27          4        108
+
+            Tirukattupalli, Thiruvaiyaru, Tanjore,
+Route 2  Kodaivasal, Koothanullur, Manargudi, Tiruvarur         726        304        422          5       2110
+          Mettur, Dharmapuri, Pennagaram , Palacode,
+          Kaveripatinam, Krishnagiri, Hosur.
+Route 9  Dhenkanikottai, Harur                             764        726         38          2         76
+Route 5  Pollachi , Coimbatore, Sulur, Mettupalayam            200        526         -326          1         -326
+           Tirupur, Perundurai, Erode,
+          Bhavani,Idapadi,Elampillai,Anthiyur,Gobi,
+Route 7  Sathy.                                         421        622         -201          2         -402
+          Dharapuram,Vellakoil, Pallapatty, Karur,
+            Kulithalai, Musiri, Thuraiur, Perambalur,
+Route 11 Ariyalur,Andimadam                              689        606         83          2        166
+        Kangeyam, Trichengode, Taramangalam,
+         Vennathur,Rasipuram,
+Route 10 Sendamangalam,Namakkal, Mohanur.               461        444         17          2         34
+          Total savings in kms travelled                                                                   7165
+        Cost savings at Rs. 14 per km                                                               100310
+
+When we look at the benefit of moving the hub, one needs to also consider the
+implication of primary freight costs from the manufacturing location to the C&F agent
+warehouse location. In this also, interestingly, with the significant development of
+certain arterial roads etc., the following emerged:
+
+ From            To   C&F   Hub  Freight Rate       Distance in KM
+ Manufacturing     location
+ Location
+
+ Indore               Pollachi         X                1637
+
+ Indore               Trichy               0.9 X             1690
+
+Though both locations are equidistant, due to the arterial road network and too and
+fro freight movement position, the costs of transportation from the factory location to
+Trichy is lower than to Pollachi.
+POST-SPLIT GST COMPLIANCE ISSUES (VIJAYAWADA)
+Following the bifurcation of Andhra Pradesh and Telangana in 2014, PC Products
+faced critical changes in its compliance environment, especially in its Vijayawada
+warehouse operations. Prior to the split, the Vijayawada C&F hub catered to dealers
+spread across both undivided Andhra Pradesh and Telangana, with a single central
+tax registration and uniform reporting.
+
+
+====================== PAGE 6 ======================
+
+
+However, with the advent of GST in 2017, and the political division of the two states
+in 2014, supplies from Vijayawada to Andhra Pradesh and Telengana were to be
+treated  differently even under GST. This  shift meant that PC Products had  to
+restructure its invoicing, tax filings, and compliance controls to ensure  full
+adherence to meet this requirement of supplies to two states.
+This highlights the importance of dynamic compliance management in a post-
+bifurcation GST regime and underscores how  tax  structure  directly  influences
+distribution strategy and legal risk exposure.
+GST INPUT TAX UTILIZATION MATRIX
+
+   Input Credit -         IGST          CGST          SGST
+   Adjustable in
+   priority against
+
+ IGST ITC                 1                 2                 3
+
+ CGST ITC                2                 1
+
+ SGST ITC                2                                  1
+
+STRATEGIC FINANCIAL & COST MANAGEMENT ANALYSIS
+Some of the C&F Agents of PC Products historically followed an asset-light logistics
+model, outsourcing  freight operations to third-party vendors and parcel service
+providers.  This  approach  offered  operational  flexibility and  minimized  capital
+investment in fleet maintenance, driver payroll, and fuel management. However,
+review  findings from the Vijayawada hub revealed  that complete reliance on
+outsourcing led to cost inefficiencies, particularly where shipment volumes were
+consistent enough to justify owning delivery vehicles.
+In Vijayawada, the heavy use of parcel services for medium-to-large loads was found
+to be 30–40% costlier than deploying full-truck loads via owned or dedicated leased
+lorries. Route-wise costing suggested that a switch to semi-owned or contract-based
+dedicated trucks could save up to ₹70,000 monthly without compromising delivery
+timelines.
+Similarly,  in  Pollachi,  while  outsourcing  eliminated  asset  depreciation  and
+maintenance overheads, it also resulted in poor oversight of fuel usage, inefficient
+trip scheduling, and excess kilometers driven per dispatch.
+From a strategic cost management lens, a hybrid model—where high-frequency
+routes are served by dedicated vehicles, and low-frequency dispatches are
+outsourced—can offer optimal balance. The ability to track, measure, and control
+transport costs in real-time is now a critical component of PC Products logistics
+efficiency roadmap.
+GOVERNANCE & COMPLIANCE REVIEW
+The cost optimization process review of PC Products’ C&F operations at Pollachi and
+Vijayawada revealed several gaps in governance, controls, and documentation
+that could expose the company to financial and compliance risks. One key area of
+concern was the parcel service billing mechanism, especially in Vijayawada. Since
+parcel services were widely used without standardized rate agreements, there were
+
+
+====================== PAGE 7 ======================
+
+
+inconsistencies in freight billing, leading to inflated logistics costs and lack of
+visibility over per-trip profitability.
+Additionally, manual trip records, absence of driver-wise logbooks, and lack of GPS-
+based tracking resulted in weak control over mileage claims and trip validations. There
+were no formal SOPs or system-generated checks to match fuel consumption with
+route distance and payload.
+Documentation lapses were also identified in e-way bill generation, GST invoicing,
+and interstate stock transfers—particularly relevant in the post-AP/Telangana split
+scenario. Some C&F agents lacked proper segregation of invoicing by state to dealers
+who had operations in multiple towns across AP and Telengana, increasing the risk of
+tax mismatches and non-compliance.
+Moreover, security and insurance coverage at the warehouse premises were found to
+be inadequate. These governance concerns point to the urgent need for automated
+controls, periodic reconciliation, and standardized documentation processes across
+all dispatch hubs.

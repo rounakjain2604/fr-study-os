@@ -1,0 +1,1552 @@
+Source PDF: 07_SPOM/Set_D_04_Digital_Ecosystem_Controls/003 - Chapter-2- Governance, Risk and Compliance (GRC) Framework - 79443bos63475-cp2.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_04_Digital_Ecosystem_Controls\003 - Chapter-2- Governance, Risk and Compliance (GRC) Framework - 79443bos63475-cp2.pdf
+Extracted at: 2026-05-31T10:36:26+05:30
+Pages: 37
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          2
+         1
+GOVERNANCE, RISK, AND
+COMPLIANCE (GRC)
+FRAMEWORK
+
+
+                   LEARNING OUTCOMES
+
+After studying this chapter, you will be able to –
+   understand the concept of Governance, Risk, and Compliance (GRC).
+   comprehend the concepts of risk, its related terms, and risk classification
+     systems.
+    distinguish  between  different  types  of  risks  and  their  mitigation
+      strategies.
+    identify different types of malicious attacks, malicious software and the
+     counter measures to prevent or reduce possible threats.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+2.2            DIGITAL ECOSYSTEM AND CONTROLS
+
+  CHAPTER OVERVIEW
+                                                                 Assets
+            (GRC)                            Fundamentals            Vulnerability
+
+                                       Sources of Risk             Threat
+                   Governance                         COMPLIANCE                               Levels of Risk
+       AND             Risk
+                                      Types of Risk          RISK                   Compliance
+                                                Classification
+                                        System
+                                     Management
+                                                Strategies                           GOVERNANCE,
+
+                              Illustration: ABC Bank of India
+The ABC Bank of India is governed by Board of Directors headed by its Governor and assisted
+by three deputy governors in Administration, Economic and Financial policies, and Financial
+stability.
+The Challenges Bank Faced
+
+♦    Risk Management: The bank  followed a  manual,  siloed,  document,  email, and
+      spreadsheet-based risk management program with no real-time risk intelligence. Most
+        risk and control assessments were performed  in silos where users would leverage
+        different risk scoring methodologies and calculations thereby leading to inconsistencies
+        in risk data which, in turn, made it difficult to analyze risks at the enterprise level.
+♦     Internal audit: The bank followed varying and non-standard auditing practices. The
+       biggest challenge was consolidating vast amounts of data from multiple audit programs
+      across the organization without a single system for monitoring and controlling audit
+        activities at the corporate level.
+♦    Compliance management: The  bank was  managing  their  compliance  initiatives
+      manually with the compliance data scattered across multiple spreadsheets. They were
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)             2.3
+
+       finding  it increasingly difficult to keep track of compliance across their operations and  it
+     was taking considerable time and effort to aggregate and sort the data into meaningful
+      compliance reports.
+♦     Policy and document management: The bank had multiple internal business groups
+      across the enterprise developing documents in different templates at different places. Lack
+        of standardization often resulted  in duplication of  effort, costs, and content. Different
+       policies were stored in different repositories, and  it was challenging for stakeholders to
+       quickly search for and locate the policy they needed when they needed it.
+To stay relevant  in a highly dynamic banking environment, the bank decided  to adopt a
+federated approach to manage their GRC operations to automate manual GRC activities across
+the bank in a more efficient, streamlined, and integrated manner and to ensure that the bank
+would adopt a paperless approach to execute all its GRC activities.
+After evaluating several GRC solutions, they decided to go with XYZ enterprise GRC platform to
+build a strong risk culture and enhance their brand and reputation. The XYZ solution provided
+the following benefits to the bank:
+♦    Enterprise Risk Management managed,  monitored, and assessed  enterprise and
+       operational risks of the bank. It enabled the bank to deliver dynamic reports, charts, and
+      heat maps for senior management, enabling better decision-making.
+♦    Compliance Management provided a comprehensive system to manage a range of
+       regulatory and corporate compliance requirements  for the bank. The XYZ  solution
+       integrated and mapped compliance mandates and controls  in a central framework,
+      thereby  simplifying compliance management and  monitoring. The bank could now
+       streamline and standardize compliance and control processes, minimizing deviations and
+      redundancies. Graphical dashboards provided in-depth visibility across the compliance
+      program, enabling the bank to proactively identify and address areas of concern.
+♦     Internal Audit Management managed the complete audit process from audit planning
+      through audit execution and reporting. It enabled the bank to initiate and follow-up with
+       audit related issues till closure through the issue management functionality.
+♦    Policy and Document Management enabled the bank to manage all documents (across
+       various departments of the bank) such as contracts, notices, policies, and procedures
+      throughout their lifecycle from creation, to publishing, to retirement, and finally archiving.
+     The solution reduced the usage of the paper-based processes at the bank and adds
+      value  in  terms  of deployment  of  physical  resources,  time  savings, and  process
+      improvements in terms of automated ownership and change management of documents.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+2.4            DIGITAL ECOSYSTEM AND CONTROLS
+
+     2.1 INTRODUCTION
+GRC  (Governance,  Risk, and  Compliance)  is  an  organizational  strategy  for managing
+governance, risk management, and compliance with industry and government regulations. GRC
+also refers to an integrated suite of software capabilities for implementing and managing an
+enterprise GRC program. GRC’s set of practices and processes provides a structured approach to
+aligning IT with business objectives. GRC helps companies effectively manage IT and security
+risks, reduce costs, and meet compliance requirements. It also helps improve decision-making and
+performance through an integrated view of how well an organization manages its risks.
+
+
+                               Governance is to set direction (through
+                                         strategy and policy), monitoring
+                                 performance & controls and evaluating
+                                             outcomes.
+
+
+                           Risk is an event that could possibly cause harm
+                         and make the entrerprises' objectives hard to
+                                                achieve.
+
+
+                                   Compliance is to ensure that
+                                   appropriate guidelines and consistent
+                                  accounting practices are followed.
+
+
+                                    Fig. 2.1: GRC Overview
+The GRC overview and processes are depicted in Fig. 2.1 and Fig. 2.2 respectively.
+GRC tools are software applications that businesses can use to manage policies, assess risk,
+control user access, and streamline compliance. GRC tools are a way to manage operations
+and ensure a company  is meeting compliance and  risk standards. Tools can also help
+determine and  mitigate  risks  associated  with  use,  ownership,  operation,  involvement,
+influence, and adoption of IT within a company.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)             2.5
+
+                    Governance                            Risk Management
+     •  Document processes and risks                                   •  Identify and categorize risk
+     •  Define and document controls                                    •  Assess risk
+     •  Assess effectiveness of controls                                  •  Mitigate risk
+     •  Disclosure and certfication of compliance processes         •  Report on containment of risk
+     •  Remediate issues
+
+                                    Compliance
+                      •  Document processes and risks
+                      •  Define and document controls
+                      •  Assess effectiveness of controls
+                      •  Disclosure and certification of compliance processes
+                      •  Remediate issues
+
+                                   Fig. 2.2: GRC Processes
+
+GRC tools should encompass operational risk, policy and compliance, IT governance, and internal
+auditing. Most GRC tools have some of the following features:
+
+♦    Content and document management that helps businesses create, track, and store digitized
+       content.
+
+♦     Risk data management and analytics that help to measure, quantify, and predict risk—and
+      determine steps to reduce it.
+
+♦    Workflow management to help companies establish, execute, and monitor GRC-related
+       workflows.
+
+♦     Audit management to organize information and simplify processes for conducting internal
+       audits.
+
+♦   A dashboard that provides a central interface where key performance indicators relevant to
+      business processes and objectives can be monitored in real-time.
+
+Effective GRC tools create and distribute policies and controls and map them to regulations and
+compliance  requirements. They  help  assess,  whether  controls  have  been  deployed,  are
+functioning correctly, and are improving risk assessment and mitigation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+2.6            DIGITAL ECOSYSTEM AND CONTROLS
+
+     2.2 RISK FUNDAMENTALS
+Some risk related terms are described below. The relationship and different activities among these
+terms may be understood by Fig. 2.3.
+                                                                                   value
+    Owners
+                                  wish to minimize                                                                                    to reduce      impose
+                      Counter Measures
+                                                               that may possess                                             that may be
+                                     reduced by              may be aware of
+                                              Vulnerabilities
+          Threat Agents
+                                                      that                        Risk                                                                    leading to
+                          give                   exploit                                                                                                    to                            rise to                                                                     that increase
+                                  Threats                        Assets                                                                                  to
+                                 wish to abuse and/or may damage
+
+                                   Fig. 2.3: Risk Related Terms
+2.2.1 Asset
+Asset can be defined as something of value to the organization, for example  - information in
+electronic or physical form, software systems, employees. Irrespective the nature of the assets
+themselves, they all have one or more of the following characteristics:
+♦    They are recognized to be of value to the organization.
+♦    They are not easily replaceable without cost, skill, time, resources, or a combination of all.
+♦    They form a part of the organization’s corporate identity, without which, the organization
+     may be threatened.
+♦     Their data classification would normally be proprietary, highly confidential, or even top
+       secret.
+Although all items in an organization have some value, the term asset generally applies to those
+items that have substantial value. An organization’s assets can include the following:
+♦    Customer data: Name, address, phone, Aadhaar Number, date of birth, cardholder data,
+      and protected health care information.
+♦     IT assets and network infrastructure: Hardware, software, and services.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)             2.7
+
+♦     Intellectual  property:  Sensitive  data  such  as  patents,  source  code,  formulas,  or
+      engineering plans.
+♦    Finances and financial data: Bank accounts, credit card data, and financial transaction
+       data.
+♦    Service availability and productivity: The ability of computing services and software to
+      support productivity for humans and machinery.
+♦    Reputation: Corporate compliance and brand image.
+It is the responsibility of Information Security Personnel to identify the threats against the risks and
+the associated potential damage  to, and the safeguarding  of Information Assets. To secure
+information, we must protect its Confidentiality, Integrity, and Availability (CIA) as discussed in
+Table 2.1.
+                        Table 2.1: Tenets of Secure Information
+•     Confidentiality refers to the prevention of the unauthorized disclosure of information, i.e.
+       only authorized users can view information. Confidentiality is a common term which means
+      guarding information from everyone except those with rights to  it. information includes
+       private data of individuals, intellectual property of businesses and national security for
+       countries and governments.
+•      Integrity deals with the validity and accuracy of the data. This means prevention of the
+      unauthorized  modification  of  information  i.e.  only  authorized  users can change  the
+       information. Data lacking integrity, i.e. data that is not accurate is not valid, are of no use.
+      For some organizations, data and information are intellectual property assets. Examples
+       include copyrights, patents, secret formulas, and customer databases.
+•      Availability in terms of information security is generally expressed as the amount of time
+      users can use a system,  application, and  data.  In  refers  to  the  prevention  of  the
+      unauthorized withholding of information i.e. information is accessible by authorized users
+      whenever they request the information.
+
+2.2.2 Vulnerability
+Vulnerability is the weakness in the system safeguards that exposes the system to threats. It may
+be a weakness  in  information system/s, cryptographic system  (security systems),  or  other
+components (for example- system security procedures, hardware design, internal controls) that
+could be exploited by a threat. Vulnerabilities potentially “allow” a threat to harm or exploit the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+2.8            DIGITAL ECOSYSTEM AND CONTROLS
+
+system. For example, vulnerability could be a poor access control method allowing dishonest
+employees (the threat) to exploit the system to adjust their own records.
+Missing safeguards often determine the level of vulnerability. Determining vulnerabilities involves a
+security evaluation of the system including inspection of safeguards, analysis, and penetration
+testing.
+Some examples of vulnerabilities are given as follows:
+♦    Leaving the front door unlocked makes the house vulnerable to unwanted visitors.
+♦     Short passwords  (less  than 6  characters) make  the automated  information system
+       vulnerable to password cracking or guessing routines.
+Simply, Vulnerability can be referred to as the weakness of the software, which can be exploited
+by the attackers. Vulnerabilities can originate from flaws in the software’s design, defects in its
+implementation, or problems in its operation. Some experts also define ‘vulnerability’ as opening
+doors for attackers. Normally, vulnerability is a state in a computing system (or set of systems),
+which must have at least one condition, out of the following:
+♦     Allows an attacker to execute commands as another user.
+♦     Allows an attacker to access data that is contrary to the specified access restrictions for
+       that data.
+♦     Allows an attacker to pose as another entity.
+♦     Allows an attacker to conduct a denial of service.
+2.2.3 Threat
+Any entity, circumstance, or event with the potential to harm the software system or component
+through  its unauthorized access, destruction, modification, and/or denial of service is called a
+Threat. It has the capability to attack a system with intent to harm. It is often used to start threat
+modeling with a list of known threats and vulnerabilities found in similar systems. Every system
+has data, which is considered as a fuel to drive a system, data is nothing but assets. Assets and
+threats are closely correlated. A threat cannot exist without a target asset. Threats are typically
+prevented by applying some sort of protection to assets.
+Threat Types: Majorly there are three threat types that directly threaten each of the CIA tenets,
+which are as follows:
+♦    Disclosure Threats: Disclosure occurs any time unauthorized users access private or
+       confidential information that is stored on a network resource or while it is in transit between
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)             2.9
+
+      network resources. Disclosure can also occur when a computer or device containing private
+       or confidential data such as database related to medical, banking or tax records is lost or
+       stolen. Two techniques that attackers employ to  illegally obtain or modify data are as
+       follows:
+    o    Sabotage:  It  is the deliberate destruction  of property or obstruction  of normal
+             operations i.e. attack on the availability of information security. A data breach is the
+             release of confidential, private, or otherwise sensitive information into an unsecured
+             environment. A data breach can occur accidentally, or as the result of a deliberate
+              attack. A data breach can easily result in identity theft when sensitive information is
+           exposed to unauthorised individuals. Hackers can use this information to steal a
+             person's identity and commit fraudulent activities, such as opening new accounts or
+           making unauthorised purchases. A privacy breach occurs when someone accesses
+              information without permission.
+    o    Espionage: It is the act of spying to obtain secret information typically to aid another
+             nation state. Terrorists and enemy might well be involved in activities to obtain
+              sensitive government information that they can use to perpetuate future attacks.
+♦     Alteration Threats: This type of attack compromises a system by making unauthorized
+      changes  to data on a system, either  intentionally or unintentionally; thereby  violating
+       information  integrity. This change might occur while the data  is stored on a network
+      resource or while they are moving between two resources. Data corruption is when errors in
+      computer data occur and introduce unintended changes to the original data, changing its
+      form  and  making    it  unreadable.  Intentional  changes  are  usually  malicious  while
+       unintentional changes are usually accidental. For example - a user might modify database
+         files, operating systems, application software, and even hardware devices. Modifications
+      might include creating, changing, deleting, and writing information to a network resource.
+         It’s a good idea to put techniques in place that enable you to track or audit these changes
+      as they happen. That way, you can have a record of who, what, when, where, and how
+       modifications were made. In addition, change management systems limit who can make
+      changes, how they make changes, and how they document changes.  It is very important
+       that only authorized parties change assets, and only in authorized ways.
+♦    Denial of Service/Destruction Threats: In these threats, a malicious actor aims to render
+      a computer or other device unavailable to its intended users by interrupting the devices
+       ‘normal functioning thereby making the assets or resources unavailable or unusable. These
+        typically function by overwhelming or flooding a targeted machine with requests until normal
+         traffic is unable to be processed, resulting in denial-of-service to addition users. Any threat
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+2.10           DIGITAL ECOSYSTEM AND CONTROLS
+
+       that destroys information or makes it unavailable violates the availability tenet of information
+       security. A denial or destruction attack is successful when  it prevents an authorized user
+      from accessing a resource either temporarily or permanently. A DoS attack is an example
+       of a denial or destruction  threat. A DoS attack, which  is usually malicious, prevents
+       authorized users from accessing computer and network resources. Many organizations are
+       potential victims of DoS attacks. In fact, any computer connected to the Internet is a DoS
+       threat candidate. This type of attack can represent a minor problem or a great danger,
+      depending on the importance of the blocked asset or resource. For example, suppose an
+       attacker floods a specific port on a server. If the port is not for a critical resource, the impact
+     may be minimal. However,  if the port supports authorized user access to your company’s
+       website, it could prevent customers from accessing it for minutes or hours. In that case, the
+      impact could be severe.
+
+     2.3 RISK
+Risk can be defined as the potential harm caused  if a particular threat exploits a particular
+vulnerability to cause damage to an asset.
+
+
+                Threat                                      Vulnerability
+                           A    threat     is   an
+                                     opportunity to exploit a                      An unexploited
+                                         vulnerability.                                          vulnerability
+                                                                                             results   in  an
+                                                                                      impact.
+
+            Risk = Threat x Vulnerability
+
+                                                     Impact (Cost)
+
+                           Fig. 2.4: Risks, Threats, and Vulnerabilities
+Risks, threats, and vulnerabilities go together as depicted in Fig. 2.4. Risk is the probability that
+something bad can happen. A threat is any action that can damage or compromise an asset. A
+vulnerability  is a weakness in the design or software code  itself. A vulnerability that can be
+exploited is a threat.
+If a vulnerability exists in a system, there is always a possibility of threat. Any threat against a
+vulnerability creates a risk that a negative event may occur. You can’t eliminate threats, but you
+can protect against vulnerabilities. That way, even though a threat still exists, it cannot exploit the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)            2.11
+
+vulnerability. The key to protecting assets from the risk of attack is to eliminate or address as
+many vulnerabilities as possible.
+For example- Consider the case  of the real-world example  of a hurricane. The threat of a
+hurricane  is outside one’s control. However, knowing that a hurricane could strike can help
+business owners assess weakness and develop an action plan to minimize the impact. In this
+scenario, a vulnerability would be not having a data recovery plan in place in the event that your
+physical assets are damaged as a result of the hurricane. The risk to your business would be the
+loss of information or a disruption in business as a result of not addressing your vulnerabilities.
+Accurately understanding the definitions of these security components will help you to be more
+effective  in designing a framework  to  identify  potential  threats, uncover and address your
+vulnerabilities to mitigate risk.
+Information systems can generate many direct and indirect risks that lead to a gap between the
+need to protect systems and the degree of protection applied. The gap is caused by following
+factors:
+♦    Widespread use of technology.
+♦     Interconnectivity of systems.
+♦     Elimination of distance, time, and space as constraints.
+♦    Unevenness of technological changes.
+♦     Devolution of management and control.
+♦     Attractiveness of conducting unconventional electronic attacks against organizations.
+♦     External factors such as legislative, legal, and regulatory requirements or technological
+      developments.
+It means there are new  risk areas that could have a significant impact on  critical business
+operations, such as:
+♦     External dangers from hackers, leading to denial of service and virus attacks, extortion, and
+      leakage of corporate information.
+♦    Growing potential for misuse and abuse of information system affecting privacy and ethical
+       values.
+♦     Increasing requirements for availability and robustness.
+New technology provides the potential for dramatically enhanced business performance, improved,
+and demonstrated information risk reduction and security measures. Technology can also add real
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+2.12           DIGITAL ECOSYSTEM AND CONTROLS
+
+value to the organization by contributing to interactions with the trading partners, closer customer
+relations, improved competitive advantage and protected reputation.
+Inherent Risk  is the  susceptibility  of information resources  or resources  controlled by the
+information system to material theft, destruction, disclosure, unauthorized modification, or other
+impairment, assuming that there are no related internal controls. For example, inherent risk would
+be high in case of auditing internet banking in comparison to branch banking or inherent risk would
+be high if the audit subject is off-site. ATM is an example of the same. Internal controls are ignored
+in setting inherent risk because they are considered separately in the audit risk model as control
+risk. It is often an area of professional judgment on the part of an auditor.
+Any risk remaining still after the counter measures are analyzed and implemented is called Residual
+Risk. An organization’s management of  risk should consider these two areas: Acceptance of
+residual risk and Selection of safeguards. Even when safeguards are applied, there is probably
+going to be some residual risk. The risk can be minimized, but it can seldom be eliminated. Residual
+risk must be kept at a minimal, acceptable level. If it is kept at an acceptable level, (i.e. the likelihood
+of the event occurring, or the severity of the consequence is sufficiently reduced) the risk can be
+managed. The likelihood of the threat occurring is the estimation of the probability that the threat will
+succeed in achieving an undesirable event. The presence, tenacity, and strength of threats, as well
+as the effectiveness of safeguards must be considered while assessing the likelihood of the threat
+occurring.
+2.3.1 Sources of Risk
+The most important step in the risk management process is to identify the sources of risk, the
+areas  from where  risks can  occur.  This  will  give  information about  the  possible  threats,
+vulnerabilities and accordingly appropriate risk mitigation strategies can be adopted. Some of the
+common sources of risk are commercial and legal relationships, economic circumstances, human
+behavior, natural events, political circumstances, technology and technical issues, management
+activities and controls, and individual activities.
+Broadly, risk has the following characteristics:
+♦     Potential loss that exists as the result of threat/vulnerability process.
+♦     Uncertainty of loss expressed in terms of probability of such loss.
+♦    The probability/likelihood that a threat agent mounting a specific attack against a particular
+      system.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)            2.13
+
+2.3.2 Levels of Risk
+Refer Table 2.2 to understand the level of risks that have been identified if no controls are in place.
+                               Table 2.2: Levels of Risk
+   Level of Risk        Description
+   Inherent           The level of risk before any actions have been taken to change the
+                           likelihood or magnitude of the risk.
+   Current/Residual    The level of risk after initial control measures have been put in place.
+   Target            The level of risk that is desired or will be obtained with the application
+                            of further control measures.
+
+2.3.3 Types of Risks
+The types of risks that impact companies vary depending on the home country location, industry,
+level of globalization, and many other factors. Risk is now defined as the “effect of uncertainty on
+objectives”, which focuses on the effect of incomplete knowledge of events or circumstances.
+Every risk has  its own characteristics that require management or analysis. The risks can be
+broadly categorized as follows:
+♦    Compliance (Or Mandatory Risk): This includes risks that could expose the organization
+       to fines and penalties from a regulatory agency due to non-compliance with laws and
+       regulations. They are associated with adherence  to the law  of the country and the
+       regulations that apply  to the sector  in which the company operates. Compliance  risk
+      captures the legal and financial penalties for failing to act or acting inappropriately and is
+       especially significant for those business sectors that are heavily regulated.
+    o    Compliance mandatory requirements represents a ‘license to operate’ and failure to
+            achieve the level of compliance required by the relevant regulator will impact routine
+            business activities.
+    o     Penalties may be financial but increasingly they are personal to the management
+              involved. Examples include violation of laws or regulations governing areas such as
+             environmental, employee health and safety, lack of due diligence, protection of
+             personal data in accordance with global data protection requirements and local tax
+              or statutory laws. New and emerging regulations can have a wide-ranging impact on
+           management’s strategic direction, business model and compliance system.  It  is,
+              therefore, important to consider regulatory requirements while evaluating business
+                risks. Examples include violation of laws or regulations governing areas such as
+             environmental, employee health and safety, lack of due diligence, protection of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+2.14           DIGITAL ECOSYSTEM AND CONTROLS
+
+             personal data in accordance with global data protection requirements and local tax
+              or statutory laws. New and emerging regulations can have a wide-ranging impact on
+           management’s strategic direction, business model and compliance system.  It  is,
+              therefore, important to consider regulatory requirements while evaluating business
+                risks.
+♦    Hazard (Or Pure) Risks: These are associated with a source of potential harm or a
+       situation with the potential to undermine objectives in a negative way. Hazard risks are the
+      most common risks associated with operational risk management including occupational
+       health and safety programmes, natural disasters; various insurable liabilities; impairment of
+       physical assets; terrorism, theft, etc.
+♦    Control (Or uncertainty) Risks: These are associated with unknown and unexpected
+      events and can be extremely difficult to quantify. Control risks are frequently associated
+       with new projects where it is known that events will occur, but the precise consequences of
+      those events are  difficult to predict and control. Therefore, the approach  is based on
+      managing the uncertainties around the timing, eventual cost, or delivery of the project.
+♦    Opportunity (Or Speculative) Risks: These fall into two categories – the risks associated
+       with taking the opportunity, and the risks of not acting. Although opportunity risks are taken
+       with the intention of obtaining a positive outcome, this is not guaranteed. In the rapidly
+      changing environment caused by the global pandemic, organizations have deliberately
+      taken risks in order to survive.
+                        illustration: Start-up in the financial sector of India
+  ♦    The company will need to be authorized by the relevant authorities and the company
+              will need to nominate senior managers to be responsible for its compliance risks.
+  ♦     Theft or fraud caused by an employee is an operational or hazard risk.
+  ♦   When they design their new software package, control risks will be associated with
+             this project.
+  ♦   When released, the software may have the potential to be used by clints in a sector
+           they had  not  specifically  targeted,  thereby  creating an opportunity  risk;  the
+            intention is to achieve results by attracting customers, but  it is possible that the
+            project will fail to deliver the functionality that was intended. In fact, the failure of the
+            functionality of the new software may  critically undermine the operations of the
+           organization.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)            2.15
+
+There are several classification systems available that sort the risks according to the timescale of
+their impact or according to the nature of the risk, the source of the risk and/or the nature of the
+impact or size and nature of the consequences.
+Advantages of Risk Classification System (Refer Fig. 2.5)
+♦    Accumulations of risk that could undermine a key dependency or business objective and
+     make it vulnerable can be more easily identified.
+♦     Responsibility for improved management of each different type of risk can be more easily
+       identified/allocated if risks are classified.
+♦     Decisions and knowledge about the type of control(s) that will be implemented can be taken
+      on a more structured and informed basis.
+♦    Circumstances where the risk appetite of the organization is being executed (or the risk
+        criteria not being implemented) can be more readily identified.
+♦     Categorizing risks according to a single risk classification system may not be sufficient to
+       reveal all risks. Therefore, a combination of systems can be used to provide a complete
+       picture.
+                   RISK CLASSICIATION SYSTEMS
+
+
+                                                        THE ORANGE       FIRM        COSO ERM CUBE         PESTLE                                                    BOOK
+  •Financial                 •Strategic                   •Political                   •Strategy
+  •Infrastructure            •Operational            •Economic               •Governance
+  •Reputational            •Reporting                •Sociological               •Operations
+ •Marketplace            •Compliance             •Technological             •Legal
+                                                  •Legal                     •Property
+                                                      •Ethical/Environmental      •Financial
+                                                                       •Commercial
+                                                                                   •Security
+                                                                         •People
+                                                                           •Project/Programme
+                                                                               •Technological
+                                                                                •Reputational
+                                                                                  •Information
+
+                            Fig. 2.5: Risk Classification Systems
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+2.16           DIGITAL ECOSYSTEM AND CONTROLS
+
+These terminologies are defined below collectively:
+♦     Financial Risks: Financial risks are those risks that could result in a negative financial
+      impact to the organization (waste or loss of assets). Examples include risks from volatility in
+       foreign currencies, interest rates, and commodities, credit risk, liquidity risk, and market
+        risk.
+♦     Infrastructure Risks: Risks that will impact the level of efficiency and cause dysfunction
+       within  the  core processes  that may  include  under-provisioning  or  over-provisioning,
+      hardware incompatibility, software incompatibility, network issues and outages, migration
+       issues, downtime, disaster recovery, vendor reliability, and unexpected costs.
+♦    Reputational Risks: Reputational risk is the damage that can occur to a business when  it
+         fails to meet the expectations of its stakeholders and is thus negatively perceived. Risks
+       arising from adverse events, including ethical violations, lack of sustainability, systemic or
+      repeated failures or poor quality or a lack of innovation, may lead to damage to reputation
+      and/or destruction of trust and relations.  It can affect any business, regardless of size or
+       industry and hugely impact the desire of customers to deal or trade, and the level of
+      customer retention.
+♦    Marketplace Risks: These are the risks that will impact on the level of customer trade or
+      expenditure that may include changes in equity prices or commodity prices, interest rate
+     movements or foreign exchange fluctuations.
+♦     Strategic  Risks:  These  are  the  risks  that  would  prevent  an  organization  from
+      accomplishing its objectives (meeting its goals). Examples include risks related to strategy,
+        political, economic relationship issues with suppliers and global market conditions; also,
+      could include reputation risk, leadership risk, brand risk, and changing customer needs. It is
+       to be remembered that the strategic  risk are higher level  risk and stem from macro-
+      economic or political relationships.
+♦    Operational Risks: Operational risks include those risks that could prevent an organization
+      from operating  in the most  effective and  efficient manner  or be  disruptive  to other
+       operations due to inefficiencies or breakdown in internal processes, people, and systems.
+      Examples include risk of loss resulting from inadequate or failed internal processes, fraud
+       or any  criminal  activity by an employee, business  continuity, channel  effectiveness,
+      customer  satisfaction  and  product/service  failure,  efficiency,  capacity,  and  change
+       integration.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)            2.17
+
+♦    Reporting Risks: These are the risks that are associated with lapses in identifying and
+       reporting risks to the management that are tied to or have an immense potential to impact
+      an organization's business processes.
+♦    Compliance Risks: This includes risks that could expose the organization to fines and
+       penalties from a regulatory agency due  to non-compliance with laws and regulations.
+      Examples include violation of laws or regulations governing areas such as environmental,
+      employee  health and  safety,  lack  of due  diligence,  protection  of  personal  data  in
+      accordance with global data protection requirements and local tax or statutory laws. New
+      and emerging regulations can have a wide-ranging impact on management’s strategic
+       direction, business model and compliance system.  It  is, therefore, important to consider
+       regulatory requirements while evaluating business risks.
+♦     Political Risks: Political risks are the risk an investment's returns could suffer as a result of
+        political changes or instability in a country. This includes tax policy, employment laws,
+      environmental regulations, trade restrictions and reform, tariffs and political stability.
+♦    Economic  Risks: Economic  risks  are the  risk  involved  in  investing  in a  business
+       opportunity in an international market that arises from changes in sovereign policies, market
+       fluctuations, and counterparty credit risk.
+♦    Sociological Risks: These risks can be defined as the exposure to adverse consequences
+      stemming from population-based activities and negative public perception. For example -
+        cultural norms and  expectations,  health consciousness,  population growth  rate, age
+        distribution, career attitudes, emphasis in safety, global warming, etc.
+♦     Ethical or Environmental Risks: These are the risks that have ethical and environmental
+       aspects, although many of these factors will be economic or social in nature.
+♦    Governance Risks: These  risks  arise from unclear plans,  priorities,  authorities, and
+       accountabilities, and/or ineffective or disproportionate oversight of decision-making and/or
+      performance.
+♦    Legal Risks: Risks arising from a defective transaction, a claim being made or some other
+       that results in liability or other loss, or a failure to take appropriate measures to meet legal
+       or regulatory requirements or to protect assets. For example - intellectual property.
+♦    Property  Risks:  Risks  arising  from  property  deficiencies  or  poorly  designed  or
+        ineffective/inefficient safety management  resulting  in non-compliance and/or harm and
+       suffering to employees, contractors, service users or the public.
+♦    Commercial Risks: Risks arising from weaknesses on the management of commercial
+       partnerships, supply chains and contractual requirements, resulting in poor performance,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+2.18           DIGITAL ECOSYSTEM AND CONTROLS
+
+        inefficiency,  poor  value   for  money,   fraud,   and/or   failure   to  meet  business
+       requirements/objectives.
+♦    People Risks: Risks  arising from  ineffective leadership and engagement suboptimal
+       culture, inappropriate behaviors, the unavailability  of  sufficient capacity and capability,
+        industrial action and/or non-compliance with relevant employment legislation/HR policies
+       resulting in negative impact on performance.
+♦    Technological Risks: Risks arising from technology not delivering the expected services
+      due to inadequate or deficient system/process development and performance or inadequate
+       resilience.
+♦    Information Risks: Risks arising from a failure to produce robust, suitable, and appropriate
+       data/information and to exploit data/information to its full potential.
+♦    Security Risks: Risks arising from a failure to prevent unauthorized and/or inappropriate
+      access to the estate and information, including cybersecurity and noncompliance with
+      general data protection requirements.
+♦    Project/Programme Risks: Risks that change programs and projects are not aligned with
+       strategic priorities and do not successfully and safely deliver requirements and intended
+       benefits in time, cost, and quality.
+2.3.4 Risk Management/Mitigation Strategies
+With the recent jump in regulatory mandates and changing market dynamics- both locally and
+globally, many organizations have started to identify and manage areas of risk in their business:
+whether  it is financial, operational, IT, brand, or reputation related risk. These risks are no longer
+considered the sole responsibility of specialists – executives and the boards demand visibility into
+exposure and status so they can effectively implement the organization’s long-term strategies. As
+a result, companies are looking to systemically identify, measure, prioritize, and respond to all
+types of risk in the business, and then manage any exposure accordingly. A risk management
+process provides a strategic orientation for companies of all sizes in all geographies with a formal
+process to identify, measure, and manage risk. Risk insights can help organizations take strategic
+advantage of any market conditions.
+When risks are identified and analyzed,  it  is not always appropriate to implement controls to
+counter them. Some risks may be minor, and it may not be cost effective to implement expensive
+control processes for them. While determining the control for risk, it’s to be remembered that the
+cost of control should not outweigh the risk otherwise, there is no point of control or mitigation of
+such risk.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)            2.19
+
+Risk Management enables an organization to evaluate all risks at enterprise level and relevant
+controls and monitor mitigation actions in a structured manner. After defining risk appetite and
+identified risk exposure, strategies for managing risk can be set and responsibilities clarified.
+Based on the type  of  risk,  project, and  its significance  to the business, Board and Senior
+Management may choose to take up any of the following risk management strategies in isolation or
+combination as required.
+Various Risk management strategies can be described as the 4T’s which are explained below:
+♦    Transfer/Share the risk: Risk mitigation approaches can be shared with trading partners
+      and suppliers. Risk transference involves handing the risk off to a willing third party. Many
+      companies outsource certain operations as part of risk management so that they can focus
+      on their core competencies. This might be done by conventional insurance, or  it might be
+      done by paying a third-party to take the risk in another way. This option is particularly good
+        for mitigating financial risks or risks to assets. Some of its examples are as follows:
+    o    Outsourcing infrastructure management: In such a case, the supplier mitigates
+             the risks associated with managing the IT infrastructure by being more capable and
+            having access to more highly skilled staff than the primary organization. Risk also
+          may be mitigated by transferring the cost of realized risk to an insurance provider.
+    o    Purchasing insurance or other insurance types of services: To transfer risk, an
+             organization may agree  to pay some other company  for  its services such as
+           managing and securing its data or an insurance company that will pay for losses in
+             the event of a business disruption.
+♦    Tolerate/Accept/Retain the risk: One of the primary functions of management is managing
+        risk. Some  risks may be considered minor because  their impact and  probability  of
+      occurrence is low. This means that exposure may be tolerable without any further action
+      being taken. Even  if  it is not tolerable, the ability to do anything about some risks may be
+        limited, or the cost of taking any action may be disproportionate to the potential benefit
+       gained.  In  this case, consciously accepting the  risk as a cost  of doing business  is
+       appropriate. The risks should be reviewed periodically to ensure that their impact remains
+       low. A common example of risk acceptance  is planning for potential production delays
+       (within a reasonable time range) since  it’s often  difficult  to predict a precise delivery
+      schedule in advance.
+    o     Small businesses often take the stance that they cannot afford to avoid, limit, or
+              transfer risk and therefore, they accept risk by default. This is a mistaken and limited
+            view and should not be the default position going into this planning. Risk acceptance
+            should be evaluated along with the other options to determine the implications,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+2.20           DIGITAL ECOSYSTEM AND CONTROLS
+
+             appropriate actions, and costs of various mitigation strategies. Risk acceptance is
+             the least expensive option in the near-term and the most expensive option in the
+             long-term should an event occur.
+    o     For example - Mr. Babu owns a store and wants his store to get renovated. For the
+               flooring purpose, he must purchase white marble worth ` 25 Lakhs including the
+              transportation cost. He can get the same quality of the product from a nearby city but
+                  will cost him almost double amount of what he can get from a far-off place. He
+            understands that there are chances that the marble sheets may get broken during
+             the transit from far off place, still he decides not to purchase it from the nearby city.
+          He accepts that transportation involves the risk of losing money, but it is acceptable
+            as the cost of avoiding this risk would have been double.
+♦    Terminate/Eliminate/Avoid the risk: Risk avoidance is the opposite of risk acceptance
+      because it’s an all-or-nothing kind of stance. Especially in the case of risks that have high
+       probability and impact values,  it may be best to modify any project strategy to avoid them
+       altogether. In other words, these risks will only be treatable, or containable to acceptable
+       levels by terminating the activity. For example – the risks associated with the use of a
+       technology, supplier, or vendor can be eliminated by replacing the technology with more
+       robust products and by seeking more capable suppliers and vendors.
+    o     Risk avoidance is usually the most expensive of all risk mitigation strategies, but  it
+            has the  result  of reducing the cost  of downtime and recovery  significantly.  In
+            business continuity and disaster recovery plans, risk avoidance is the action that
+             avoids any exposure to the risk whatsoever. If data loss is to be avoided, you have
+                 fully redundant data systems or you manually shut down systems and move them in
+           advance of an oncoming hurricane.
+    o     Shutting down systems is costly in advance of a hurricane, but  if they are packed
+           and shipped to another location and fired up, the cost to recover from the business
+              disruption is minimal. This option is not feasible for many types of risks or for many
+             types of companies. However,  it is a viable option to consider as you develop your
+                risk mitigation strategies.
+♦    Treat/Mitigate/Control/Reduce the risk: By far the large number of risks will be addressed
+        in this way. The purpose of the treatment is that, whilst continuing within the organization
+       with the activity giving rise to the risk, action (control) is taken to constrain the risk to an
+      acceptable level. Suitable controls must be devised and implemented to prevent the risk
+      from manifesting itself or to minimize its effects. This risk limitation strategy falls between
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)            2.21
+
+      acceptance and avoidance both  in terms of early costs and costs after the business
+       disruption.
+    o    The strategy may include installing firewalls to keep networks safe, creating backups
+               to keep data safe, practicing fire drills to keep employees safe, and more. The cost
+               of that implementation is finite and known and usually ends at some point in time.
+            Thus, while the near-term costs of risk control and risk transference may appear to
+           be  similar,  it’s  important  to understand  the  duration  of  the  cost about these
+               strategies.
+    o    A good example of risk mitigation is planning for the eventuality in case an enterprise
+                 will not have sufficient capacity or supplies to deal with a very high demand. In that
+             case, the enterprise shall have a mitigation strategy in place that allows them to
+               rapidly scale their capacity, or to subcontract some of the work to other parties to
+           meet the high demand. Another example can be performing daily backups of critical
+             business. It doesn’t stop a disk drive from crashing, it doesn’t ignore the potential for
+              disk failure,  it accepts that drives fail and when they do, having backups helps you
+             recover in a timely manner.
+Fig. 2.6 suggests that in each of the four quadrants of the risk matrix, one of the 4T’s will be dominant.
+♦    Transfer will be the dominant response for the high-impact/low-likelihood risks.
+♦    Terminate will be the dominant response for the high-impact/high-likelihood risks.
+♦    Tolerate will be the dominant response for the low-impact/low-likelihood risks.
+♦    Treat will be the dominant response for the low-impact/high-likelihood risks.
+
+            (Low likelihood, High impact)          (High likelihood, High impact)
+                      Transfer                         Terminate
+                the risk to another party            the activity generating the risk
+
+            (Low likelihood, Low impact)          (High likelihood, Low impact)
+                      Tolerate                              Treat   Impact        the risk and its likely impact       the risk to reduce the likely impact or
+                                                        exposure
+                    Likelihood
+                     Fig. 2.6: Risk Matrix and 4T’s of Risk Management Strategies
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+2.22           DIGITAL ECOSYSTEM AND CONTROLS
+
+     2.4 MALICIOUS ATTACKS
+Security threats can be active or passive which can have negative repercussions  for an IT
+infrastructure.
+♦    An active attack is a physical intrusion that involves modification of the data stream or
+      attempts to gain unauthorized access to computer and networking systems.
+♦     In a passive attack, the attacker does not make changes to the system. This type of attack
+      simply eavesdrops and monitors transmissions.
+Active threats include the following as discussed in the Table 2.3:
+                             Table 2.3: Active Threats
+ Brute-force Password Attacks
+ In  this attack, the attacker  tries  different passwords on a system  until one  of them  is
+ successful. Usually, the attacker employs a software program to try all possible combinations
+ of a likely password, user ID, or security code until it locates a match. It is called as a Brute-
+ Force Attack because the attacker simply hammers away at the code.
+ Dictionary Password Attacks
+ A simple attack that relies on users making poor password choices. A simple password-
+ cracker program takes all the words from a dictionary file and attempts to log on by entering
+ each dictionary entry as a password.
+ Users often engage  in the poor practice  of selecting common words as passwords. A
+ password policy that enforces complex passwords is the best defense against a dictionary
+ password attack. Users should create passwords composed of a combination of letters and
+ numbers both in capital and small letters, and the passwords should not include any personal
+ information about the user.
+ IP Address Spoofing
+  It is a type of attack in which one person, program, or computer disguises itself as another
+ person, program, or computer to gain access to some resource. A common spoofing attack
+ involves presenting a false network address to pretend to be a different computer. An attacker
+ may change a computer’s network address to appear as an authorized computer in the
+ target’s network. If the administrator of the target’s local router has not configured  it to filter
+ out external traffic with internal addresses, the attack may be successful. IP address spoofing
+ can enable an attacker to access protected internal resources. Address Resolution Protocol
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)            2.23
+
+ (ARP) poisoning is an example of a spoofing attack. In this attack, the attacker spoofs the
+ MAC address of a targeted device, such as a server, by sending false ARP resolution
+ responses with a different MAC address. This causes duplicate network traffic to be sent from
+ the server. Another type of network-based attack is the Christmas (Xmas) attack. This type of
+ attack sends advanced TCP packets with flags set to confuse IP routers and network border
+ routers with TCP header bits set to 1, thus lighting up the IP router like a Christmas tree.
+ Masquerading
+ In a masquerade attack, one user or computer pretends to be another user or computer.
+ Masquerade attacks usually include one of the other forms of active attacks, such as IP
+ address spoofing or replaying. Attackers can capture authentication sequences and then
+ replay them later to log on again to an application or operating system. For example, an
+ attacker might monitor usernames and passwords sent to a weak web application. The
+ attacker could then use the intercepted credentials to log on to the web application and
+ impersonate the user.
+ Phishing
+  It is a type of fraud in which an attacker attempts to trick the victim into providing private
+ information such as credit card numbers, passwords, dates of birth, bank account numbers,
+ Automated Teller Machine (ATM) PINs, and Aadhar number or PAN numbers or other
+ Social Security Number. A phishing scam is an attempt to commit identity theft via email or
+ instant message. The message appears to come from a legitimate source, such as a trusted
+ business or financial institution, and includes an urgent request for personal information.
+ Phishing messages usually indicate a critical need to update an account (banking, credit card,
+ etc.)  immediately. The message  instructs  the  victim  to  either  provide  the  requested
+ information or click on a link provided in the message. Clicking the link leads the victim to a
+ spoofed website. This website looks identical to the official site but in fact belongs to the
+ scammer. Personal information entered into this web page goes directly to the scammer, not
+ to the legitimate organization.
+ ♦   A  variation  of the phishing attack  is Spear phishing that uses email or instant
+      messages  to  target  a  specific  organization,  seeking  unauthorized  access  to
+        confidential data. As with the messages used in regular phishing attempts, spear-
+        phishing messages appear to come from a trusted source.
+ ♦    The best way to protect against phishing of any kind is to avoid clicking on a link
+         directly provided by a suspect email.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+2.24           DIGITAL ECOSYSTEM AND CONTROLS
+
+ Hijacking
+  It is a type of attack in which the attacker takes control of a session between two machines
+ and masquerades as one of them. There are a few types of hijacking:
+ ♦    Browser or URL hijacking—In a browser or URL hijacking attack, the user  is
+        directed to a different website than what he or she requested, usually to a fake page
+        that the attacker has created. This gives the user the impression that the attacker has
+      compromised the website when in fact the attacker simply diverted the user’s browser
+       from the actual site. This type of attack is also known as Typo Squatting. Attackers
+       can use this attack with phishing to trick a user into providing private information such
+       as a password.
+ ♦    Session hijacking—In Session hijacking, the attacker attempts to take over an exist-
+        ing connection between two network computers. The first step in this attack is for the
+        attacker to take control of a network device on the LAN, such as a firewall or another
+       computer, in order to monitor the connection. This enables the attacker to determine
+        the sequence numbers used by  the sender and  receiver.  After determining the
+       sequence numbering, the attacker generates traffic that appears to come from one of
+        the communicating parties. This steals the session from one of the legitimate users. To
+        get rid of the legitimate user who initiated the hijacked session, the attacker overloads
+      one of the communicating devices with excess packets so that  it drops out of the
+        session.
+ Replay Attacks
+ These involve capturing data packets from a network and retransmitting them to produce an
+ unauthorized effect. The receipt of duplicate, authenticated IP packets may disrupt service or
+ have some other undesired consequence. Systems can be broken through replay attacks
+ when attackers reuse old messages or parts of old messages to deceive system users. This
+ helps intruders to gain information that allows unauthorized access into a system.
+ Man-in-the-Middle Attack
+ In  this type  of  attack, an attacker intercepts messages between two parties before
+ transferring them on to their intended destination. Web spoofing is a type of man-in-the-
+ middle attack in which the user believes a secure session exists with a particular web
+ server. In reality, the secure connection exists only with the attacker, not the web server.
+ The attacker then establishes a secure connection with the web server, acting as an
+ invisible go-between. The attacker passes traffic between the user and the web server. In
+ this way, the attacker can trick the user into supplying passwords, credit card information,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)            2.25
+
+ and other private data. Attackers use man-in-the-middle attacks to steal information, to
+ execute DoS attacks, to corrupt transmitted data, to gain access to an organization’s
+ internal computer and network resources, and to introduce new information into network
+ sessions.
+ For example,  if Neena and Smita want to communicate, the attacker pretends to be
+ Neena when talking with Smita and pretends to be Smita when talking to Neena. Neither
+ Neena  nor Smita know  they  are  talking  to  the  attacker. The  attacker can  collect
+ substantial information and can even alter data as they flow between Neena and Smita.
+ This attack enables the attacker to either gain access to the messages or modify them
+ before retransmitting. A man-in-the-middle attack can occur from an insider threat. An
+ insider threat can occur from an employee, contractor, or trusted person within the
+ organization.
+ Eavesdropping
+ Eavesdropping or sniffing, occurs when a host sets its network interface to promiscuous
+ mode and copies packets that pass by for later analysis. Promiscuous mode enables a
+ network device to intercept and read each network packet, even  if the packet’s address
+ doesn’t match the network device.  It is possible to attach hardware and software to monitor
+ and analyze all packets on that segment of the transmission media without alerting any other
+ users.  Candidates  for  eavesdropping  include   satellite,  wireless,  mobile,  and  other
+ transmission methods.
+ Social Engineering
+ Attackers often use a deception technique called Social Engineering to gain access to re-
+ sources  in an IT  infrastructure.  In nearly  all cases, social engineering involves  tricking
+ authorized users into carrying out actions for unauthorized users. The success of social en-
+ gineering attacks depends on the basic tendency of people to want to be helpful.
+ Social engineering places the human element in the security breach loop and uses  it as a
+ weapon. A forged or stolen vendor or employee ID could provide entry to a secure location.
+ The intruder could then obtain access to important assets. By appealing to employees’ natural
+ instinct to help a technician or contractor, an attacker can easily breach the perimeter of an
+ organization and gain access.
+ Personnel who serve as  initial contacts within an organization, such as receptionists and
+ administrative assistants, are often targets of social engineering attacks. Attackers with some
+ knowledge of an organization’s structure will often also target new, untrained employees as
+ well as those who do not seem to understand security policies.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+2.26           DIGITAL ECOSYSTEM AND CONTROLS
+
+ Eliminating social engineering attacks can be difficult, but here are some techniques to reduce
+ their impact which are as follows:
+ ♦    Ensure that employees are educated on the basics of a secure environment.
+ ♦    Develop a security policy and computer use policy.
+ ♦    Enforce a strict policy for internal and external technical support procedures.
+ Phreaking
+ Phone phreaking, or simply phreaking, is a slang term that describes the activity of a subcul-
+ ture of people who study, experiment with, or explore telephone systems, telephone company
+ equipment, and systems connected to public telephone networks. Phreaking is the art of
+ exploiting bugs and glitches that exist in the telephone system.
+ Pharming
+  It  is another type of attack that seeks to obtain personal or private financial information
+ through domain spoofing. A pharming attack doesn’t use messages to  trick victims into
+ visiting spoofed websites that appear legitimate, however. Instead, pharming “poisons” a
+ domain name on the Domain Name Server (DNS), a process known as DNS poisoning. The
+ result is that when a user enters the poisoned server’s web address into his or her address
+ bar, that user navigates to the attacker’s site. The user’s browser  still shows the correct
+ website, which makes pharming  difficult  to detect—and therefore more  serious. Where
+ phishing attempts to scam people one at a time with an email or instant message, pharming
+ enables scammers to target large groups of people at one time through domain spoofing.
+
+    2.5  MALICIOUS SOFTWARE
+Some software infiltrates one or more target computers and follows an attacker’s instructions
+causing damage, escalating security  privileges, divulging private data, or even modifying or
+deleting data. The purpose of malware is to damage or disrupt a system, the effects of which can
+range from slowing down a PC to causing  it to crash, enabling the theft of credit card numbers,
+and worse. Simply surfing the Internet, reading email, or downloading music or other files can
+infect a personal computer with malware—usually without the user’s knowledge. Refer Fig. 2.7.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)            2.27
+
+
+                                 Malware
+
+
+            Infecting Programs                         Hiding Programs
+
+
+                                          Trojan       Viruses        Worms                           Rootkits        Spyware                                      Horse
+
+                                 Fig. 2.7: Categories of Malware
+Malware exists in two main categories: Infecting programs and Hiding programs. Infecting
+programs actively attempt to copy themselves to other computers with the main purpose is to carry
+out an attacker’s instructions on new targets, whereas hiding programs hide in the computer,
+carrying out the attacker’s instructions while avoiding detection. Refer Table 2.4.
+
+                          Table 2.4: Categories of Malware
+
+Virus        A computer virus is a software program that attaches itself to or copies itself
+                   into another program on a computer. The purpose of the virus is to trick the
+               computer  into following instructions not intended by the  original program
+                 developer. Users copy infected files from another computer on a network, from
+               a flash drive, or from an online service. Alternatively, users can transport
+                 viruses from home and work on their portable computers, which have access
+                   to the Internet and other network services.
+            A computer virus acts in a similar fashion to a biological virus.  It “infects” a
+                host program and may cause that host program to replicate  itself to other
+                computers. The virus cannot exist without a host, and it can spread from host
+                   to host in an infectious manner.
+
+Worm        A worm is a self-contained program that replicates and sends copies of itself
+                   to other computers, generally across a network, without any user input or
+                  action. The worm’s purpose may be simply to reduce network availability by
+                using up bandwidth,  or   it may  take  other  nefarious  actions. The main
+                  difference between a virus and a worm is that a worm does not need a host
+               program to infect. The worm is a standalone program.
+
+Trojan Horse      It  is a malware  that masquerades as a  useful program. They look  like
+               programs that perform useful tasks, but they hide malicious code that uses
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+2.28           DIGITAL ECOSYSTEM AND CONTROLS
+
+                    their outward appearance to trick users into running them. Once the program
+                     is running, the attack instructions are executed with the user’s permission and
+                   authority. Trojans can hide programs that collect sensitive information, open
+               backdoors into computers, or actively upload and download files.
+
+Rootkit       A rootkit modifies or replaces one or more existing programs to hide traces of
+                  attacks. Although rootkits commonly modify parts of the operating system to
+                conceal  traces  of  their  presence,  they can  exist  at any level—from a
+                computer’s boot instructions up to the applications that run in the operating
+                system. Once  installed,  rootkits  provide  attackers  with easy access  to
+              compromised computers to launch additional attacks. Rootkits  exist  for a
+                  variety of operating systems, including Linux, UNIX, and Microsoft Windows.
+              Because there are so many   different types of rootkits, and because they
+                   effectively conceal their existence once installed on a machine, they can be
+                      difficult to detect and remove.
+
+Spyware       Spyware is a type of malware that specifically threatens the confidentiality of
+                  information.   It  gathers  information  about  a  user  through  an  Internet
+                 connection, without his or her knowledge. Spyware is sometimes bundled as a
+                hidden component of freeware or shareware programs that users download
+                from the Internet, similar to a Trojan horse. Spyware can also spread via peer-
+                 to-peer file swapping. Once installed, spyware monitors user activity on the
+                   Internet. Spyware can also gather information such as email addresses and
+              even passwords and credit card numbers. The spyware can relay these data
+                   to the author of the spyware. The author might use the data simply  for
+                  advertising or marketing purposes but could employ it to facilitate identity theft.
+              Because spyware exists as independent executable programs,  it can perform
+               a few operations, including the following:
+         ♦     Monitoring keystrokes.
+         ♦    Scanning files on the hard drive.
+         ♦    Snooping  other  applications,  such  as  chat  programs  or  word
+                       processors.
+         ♦     Installing other spyware programs.
+         ♦    Reading cookies.
+         ♦    Changing the default homepage on the web browser.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)            2.29
+
+    2.6  COUNTER MEASURES
+A countermeasure is an action, device, procedure, technique, or other measure that is applied to
+prevent, avert, or reduce potential threats to computers, servers, networks, Operating Systems
+(OS) or Information Systems (IS). Countermeasure tools include anti-virus software and firewalls.
+Countering Malware
+Malware provides a platform for attacks on both personal and business networks. Anti-malware
+measures are the first line of defense against these attacks. You must take steps to prevent the
+introduction of malware into your environment. It’s always better to prevent malware than to have
+to fix damage caused by malware. You must develop a security program for preventing malware.
+Following are six general steps for preventing malware:
+♦    Create an education (information security awareness) program to keep your users from
+        installing malware on your system.
+♦    Post regular bulletins about malware problems.
+♦    Never transfer files from an unknown or untrusted source unless the computer has an anti-
+      malware utility installed.
+♦    Test new programs or open suspect  files on a quarantine computer, one that  is not
+      connected  to any  part  of  your  network,  before  introducing them  to  the  production
+      environment.
+♦      Install anti-malware software, make sure that software and data are current, and schedule
+       regular malware scans to prevent malicious users from introducing malware and to detect
+      any existing malware.
+♦    Use a secure log on and authentication process.
+Another important tactic for countering malware is staying abreast of developments in malware. In
+addition, you should use anti-malware software on your system to scan  all files introduced to
+workstations and on mail servers.
+Protecting Your System with Firewalls
+A firewall is a program or dedicated hardware device that inspects network traffic passing through
+it and denies or permits traffic based on a set of rules you determine at configuration. A firewall’s
+basic task is to regulate the flow of traffic between computer networks of different trust levels, for
+example, between the LAN-to-WAN domain and the WAN domain, where the private network
+meets the public Internet.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+2.30           DIGITAL ECOSYSTEM AND CONTROLS
+
+    2.7  INTERNAL CONTROLS
+Just as risk and opportunity go hand in hand, risk, compliance, and internal controls go hand in
+hand. Compliance and internal controls are needed to meet an increasing number of laws and
+regulations and internationally accepted standards.
+The process an organization, its internal and external auditors, and its regulators would typically
+follow to validate the effectiveness of internal controls in controlling risk would include these
+elements:
+♦     Identify business processes, especially those impacting financial reporting.
+♦     Identify the risks associated with each process.
+♦     Identify the internal controls used to mitigate the risks for each process.
+♦    Create a hierarchy of business processes, risks, and controls.
+♦     Identify the tests to be used in determining the effectiveness of the internal controls.
+♦    Test the internal controls and publish findings.
+♦    Provide an opinion as to the effectiveness of the controls.
+♦        If the controls are found to be ineffective, recommend changes (remediations) and retest
+       the controls.
+♦    Create and maintain a documentation  library  of the processes,  risks,  controls,  tests,
+       findings, remediations, and so on involved in the risk/control process. This would include a
+        risk/control matrix, process narratives, process flow charts, test procedures, and so forth.
+♦        If the internal controls are found to be effective, business owners and external auditors sign
+        off as part of a certification process.
+2.7.1 Internal Control Framework as per Standards on Auditing
+A company's management team is responsible for the development of internal control policies and
+procedures. SA315 defines the system of Internal Control as “the process designed, implemented
+and maintained by those charged with governance, management and other personnel to provide
+reasonable assurance about the achievement of an entity’s objectives regarding  reliability of
+financial  reporting,  effectiveness and  efficiency  of  operations, safeguarding  of  assets, and
+compliance with applicable laws and regulations”.
+An Internal Control System -
+♦      facilitates the effectiveness and efficiency of operations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)            2.31
+
+♦     helps ensure the reliability of internal and external financial reporting.
+♦     assists compliance with applicable laws and regulations.
+♦     helps safeguarding the assets of the entity.
+As per SA315, the five components of any internal control as they relate to a financial statement
+audit are explained below. All these components must be present to conclude that internal control
+is effective. Refer Fig. 2.8.
+
+
+                                        Operations - effective and efficient use of
+          MANAGEMENT OBJECTIVES                                                              its response               1. Operations   2. Reporting
+               3. Compliance                       Reporting - reliability of reporting
+                                     Compliance  - compliance with applicable
+        ERM COMPONENTS                     laws and regulations
+  1. Control Environment
+  2. Risk Assessment
+  3. Control Activities
+  4. Information & Communication
+  5. Monitoring Activities
+
+
+                                    Fig. 2.8: Internal Controls
+
+
+I.     Control Environment
+The Control Environment is the set of standards, processes, and structures that provide the
+basis for carrying out internal control across the organization. The Board of Directors and Senior
+Management establish the tone at the top regarding the importance of internal control, including
+expected standards of conduct. Management reinforces expectations at the various levels of the
+organization. The  control  environment  comprises  the  integrity and  ethical  values  of  the
+organization;  the parameters  enabling  the board  of  directors  to  carry  out  its governance
+responsibilities; the organizational structure and assignment of authority and responsibility; the
+process  for attracting, developing, and retaining competent individuals; and the rigor around
+performance measures, incentives, and rewards to drive accountability  for performance. The
+resulting control environment has a pervasive impact on the overall system of internal control.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+2.32           DIGITAL ECOSYSTEM AND CONTROLS
+
+II.    Risk Assessment
+Every entity faces a variety of risks from external and internal resources. Risk may be defined as
+the possibility that an event will occur and adversely affect the achievement of objectives. Risk
+Assessment involves a dynamic and iterative process for identifying and assessing risks to the
+achievement of objectives. Risks to the achievement of these objectives from across the entity are
+considered relative to established risk tolerances.
+Thus, Risk Assessment forms the basis for determining how risks will be managed. A precondition
+to  risk assessment  is the establishment of objectives linked at different levels of the  entity.
+Management specifies objectives within categories of operations, reporting, and compliance with
+sufficient clarity to be able to identify and assess risks to those objectives. Because economic,
+industry, regulatory and operating conditions  will continue  to change;  risk assessment also
+requires management to consider the impact of possible changes in the external environment and
+within its own business model that may render internal control ineffective.
+Risk assessment includes the following:
+♦     Identification of threats and vulnerabilities in the system.
+♦    The potential impact or magnitude of harm that a loss of CIA, would have on enterprise
+       operations or enterprise assets, should an identified vulnerability be exploited by a threat.
+♦    The identification and analysis of security controls for the information system.
+New technology provides the potential for dramatically enhanced business performance, improved
+and demonstrated information risk reduction and security measures. Technology can also add real
+value to the organization by contributing to interactions with the trading partners, closer customer
+relations, improved competitive advantage and protected reputation.
+III.    Control Activities
+Control Activities are the actions established through policies and procedures that help ensure
+that management’s directives to mitigate risks to the achievement of objectives are carried out.
+Control  activities are performed at  all levels of the entity, at various stages within business
+processes, and over the technology environment. They may be preventive or detective in nature
+and may encompass a range of manual and automated activities such as authorizations and
+approvals, verifications, reconciliations, and business performance reviews.
+Broadly,  the  control  activities  include  the elements  that operate  to ensure  transactions  are
+authorized, duties are segregated, adequate documents and records are maintained, assets and
+records are safeguarded, and independent checks on performance and valuation of records. Internal
+auditors are also concerned with administrative controls to achieve effectiveness and efficiency
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)            2.33
+
+objectives. Control activities must be developed to manage, mitigate, and reduce the risks associated
+with each business process. It is unrealistic to expect to eliminate risks completely.
+IV.    Information and Communication
+Information is necessary for the entity to carry out internal control responsibilities in support of the
+achievement of its objectives. Management obtains or generates and uses relevant and quality
+information from both internal and external sources to support the functioning of other components
+of internal control. Pertinent information must be identified, captured, and communicated in a form
+and time frame that enables people to carry out their responsibilities.
+Communication is the continual, iterative process of providing, sharing, and obtaining necessary
+information. Internal communication is how information is disseminated throughout the enterprise,
+flowing up, down, and across the entity.  It enables personnel to receive a clear message from
+senior management that control responsibilities should be taken seriously. External communication
+is two-fold:   it enables inbound communication  of relevant external information and provides
+information to external parties in response to requirements and expectations.
+V.    Monitoring of Controls
+Monitoring of Controls is an ongoing cyclical process. Ongoing evaluations, separate evaluations,
+or some combination of the two are used to ascertain whether each of the five components of
+internal control, including controls to affect the principles within each component is present and
+functioning. Ongoing evaluations built into business processes at different levels of the entity
+provide timely information. Separate evaluations conducted periodically  will vary in scope and
+frequency depending on assessment of risks, effectiveness of ongoing evaluations, and other
+management considerations. Findings are evaluated against management’s criteria and deficiencies
+are communicated to management and the Board of Directors as appropriate.
+2.7.2 Limitations of Internal Control System
+Internal control, no matter how effective, can provide an entity with only reasonable assurance and
+not absolute assurance about achieving the entity’s operational, financial reporting and compliance
+objectives. Internal control systems are subject to certain inherent limitations, such as:
+♦    Management’s consideration that the cost  of an internal control does not exceed the
+      expected benefits to be derived.
+♦    The fact that most internal controls do not tend to be directed at transactions of an unusual
+       nature, the reasonable potential for human error such as – due to carelessness, distraction,
+      mistakes of judgment and misunderstanding of instructions.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+2.34           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦    The possibility of circumvention of internal controls through collusion with employees or with
+       parties outside the entity.
+♦    The possibility that a person responsible for exercising an internal control could abuse that
+        responsibility, for example, a member of management overriding an internal control.
+♦     Manipulations by management with respect to transactions or estimates and judgments
+       required in the preparation of financial statements.
+
+     2.8 COMPLIANCE
+Compliance ensures that an organization has the processes and internal controls to meet the
+requirements imposed by governmental bodies, regulators, industry mandates or internal policies.
+However, it can also be -
+♦    a voluntary response to a trade association or vertical industry body, to adopt common
+       practices that make  it easier for customers to work with the industry as opposed to a
+       substitute industry.
+♦    a response to a mandated industry standard, such as PCI DSS (Payment Card Industry
+      Data Security Standard) for the handling of information such as that related to credit card
+       transactions.
+♦    an intentional response to protect an enterprise against lawsuits.
+♦    a voluntary response to follow good practices to protect intellectual assets (e.g., patents or
+       trade secrets).
+Organizations  are  tasked  with  providing  proper  risk  prevention,  risk  assessment,  and
+effective internal controls for operations, finance, HR, strategy, Board of Directors, and legal to
+ensure that all corporate compliance obligations are met. To greatly improve organizational control
+and compliance from the frontline to the executive ranks, controls should be standardized and
+automated with workflow management systems.
+GRC compliance involves aligning organizational activities with the laws and regulations that
+impact them. These regulations could be legal mandates, like privacy or environmental laws, or
+voluntarily established company policies and procedures.
+For example, a compliance officer at a software company might work to ensure that their systems
+abide by regulations whereas an environmental inspector might search a construction site for
+environmental code violations and take the necessary steps to address them.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)            2.35
+
+Compliance involves adhering to rules, policies, standards, and laws set forth by industries and/or
+government  agencies. GRC  frameworks  encourage  organizations  to  centralize compliance
+monitoring and stay on top of any laws or regulations that could affect their processes. Breaking
+compliance could result in devastating financial, legal, and reputational consequences. These
+could include fines, time and money spent in court, and a tarnished reputation.
+
+SUMMARY
+We see that Governance is broader than Compliance as Governance is concerned with the overall
+conduct of an organization, whereas compliance only results in constraints on that governance.
+Failing to comply could cost an organization in terms of poor performance, costly mistakes, fines,
+penalties, and lawsuits.
+Regulatory compliance covers external laws, regulations, and industry standards that apply to the
+company. Corporate or internal compliance deals with rules, regulations, and internal controls set
+by an individual company. It is important for the internal compliance management program to be
+integrated with external compliance requirements. The integrated compliance program should be
+based on a process of creating, updating, distributing, and tracking compliance policies and
+training employees on those policies.
+An initiative to comply with a regulation typically begins as a project as companies race to meet
+deadlines to comply with that regulation. These projects consume significant resources as meeting
+the deadline becomes the most important objective. However, compliance is not a one-time event -
+organizations realize that they need to make it into a repeatable process, so that they can continue
+to sustain compliance with that regulation at a lower cost than for the first deadline and effectively
+manage new, updated, and changed compliance requirements. When an organization is dealing
+with multiple regulations at the same time, a streamlined process of managing compliance with
+each of these initiatives is critical, or else, costs can spiral out of control and the risk of non-
+compliance  increases. The compliance process enables  organizations  to make compliance
+repeatable and hence enables them to sustain it on an ongoing basis at a lower cost.
+To create an effective compliance program, organizations need to identify the areas prone to the
+greatest risk and then develop, implement, and communicate to employees the policies to address
+those areas of risk. Guidance should be developed to make it easier for employees and vendors to
+follow compliance policies.
+We can now conclude that although Governance,  risk management, and compliance can be
+described separately, individually, and distinctly; they are interrelated and overlap. Therefore,
+integration of a GRC framework in which all three are considered simultaneously is important so
+that the focus can be on what needs to be done rather than on how to divide responsibilities
+among each of the three GRC pillars.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+2.36           DIGITAL ECOSYSTEM AND CONTROLS
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    The objective of Internal Control is to enable an organization to manage its challenges or
+       disruptions seamlessly. Identify which of the following is not an objective of Internal Control.
+        (a)   Compliance with applicable laws and regulations
+       (b)    Meeting sales targets
+        (c)     Reliability of internal and external financial reporting
+       (d)    Effectiveness and efficiency of operations
+2.   When DXN Ltd. decided to adopt automation to support its critical business processes,  it
+      exposed  itself to number of  risks. One risk that the automated process could lead to
+      breakdown in internal processes, people and systems is a type of _____.
+       (a)    Operational Risk
+       (b)    Financial Risk
+        (c)    Strategic Risk
+       (d)   Compliance Risk
+3.   A huge oil spilled from an oil well run by ABC Petroleum, one of largest oil companies in
+       world, and resulted in an assessed environmental damage of about USD 20 Billion. The
+     company expanded an amount of USD 2 Billion on promotional ads informing the world that
+            it  is an environment  friendly company. The promotional advertisements were done  to
+      prevent the company from _________________ damage.
+        (a)    Strategic
+       (b)    Operational
+        (c)    Financial
+       (d)    Reputational
+4.     Risk Management enables an organization in various manner except one. Choose the
+       correct answer.
+        (a)    to evaluate all risks at enterprise level
+        (b)    monitor mitigation actions
+        (c)   measure and manage the risk
+        (d)    organizing the risk
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+GOVERNANCE, RISK AND COMPLIANCE (GRC)            2.37
+
+5.     Mr. X has setup his new business of manufacturing color pens. He is well known about
+       various kinds of risks involved in his business; however, he unintentionally violated some
+       industry regulations while setting up his business. Which category of the risk does this refer
+       to?
+       (a)    Strategic
+       (b)    Financial
+        (c)    Compliance
+       (d)    Operational
+
+ANSWERS/SOLUTIONS
+     1.        (b)        2.        (a)        3.        (d)        4.        (d)        5.       (c)
+
+
+© The Institute of Chartered Accountants of India

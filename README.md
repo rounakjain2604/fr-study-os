@@ -1,8 +1,8 @@
-# FR Study OS
+# Trinsic
 
-A personal CA Final **Financial Reporting** study environment: native chapter workspaces with drills, quizzes and calculators, spaced-repetition recall cards, a 45-day study ledger with analytics, and an AI tutor — packaged as an installable, offline-capable PWA.
+Trinsic is a personal CA Final study environment: native chapter workspaces with drills, quizzes and calculators, spaced-repetition recall cards, a sprint ledger with analytics, and an AI tutor — packaged as an installable, offline-capable PWA.
 
-**Live app:** https://rounakjain2604.github.io/fr-study-os/
+**Current live app:** https://rounakjain2604.github.io/fr-study-os/
 
 ## Use it on your phone
 
@@ -25,7 +25,7 @@ npx wrangler login                          # opens browser approval
 npx wrangler kv namespace create SYNC_KV    # paste the returned id into wrangler.toml
 npx wrangler secret put GEMINI_API_KEY      # repeat for GROQ_API_KEY, MISTRAL_API_KEY,
 npx wrangler secret put SYNC_SECRET         # OPENROUTER_API_KEY; SYNC_SECRET = passphrase you invent
-npm run deploy                              # → https://fr-study-os-api.<you>.workers.dev
+npm run deploy                              # → https://trinsic-api.<you>.workers.dev if you deploy under that worker name
 ```
 
 Then on **each device**: open the app → **Vault → Cloud connection** → paste the Worker URL + your sync passphrase → Save. From then on the device pulls the latest state on open, pushes edits in the background, and shows a "Cloud synced" indicator in the rail. AI questions route through the same Worker.
@@ -50,7 +50,7 @@ In local dev the app talks to the local AI server automatically; no configuratio
 
 | Path | What it is |
 |---|---|
-| `app/` | The PWA (Vite + React + TypeScript). Chapter content lives in `app/src/data/chapters/`. |
+| `app/` | The Trinsic PWA (Vite + React + TypeScript). Chapter content lives in `app/src/data/chapters/`. |
 | `ai-server/` | Express server with a multi-provider AI cascade (Gemini → Groq → Mistral → OpenRouter). |
 | `render.yaml` | One-click Render blueprint for hosting `ai-server`. |
 | `.github/workflows/deploy.yml` | Builds `app/` and deploys it to GitHub Pages on every push to `main`. |

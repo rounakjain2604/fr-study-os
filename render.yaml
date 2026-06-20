@@ -3,7 +3,7 @@
 # creates the service, and prompts you for the API keys (never committed).
 services:
   - type: web
-    name: fr-study-os-ai
+    name: trinsic-ai
     runtime: node
     rootDir: ai-server
     plan: free

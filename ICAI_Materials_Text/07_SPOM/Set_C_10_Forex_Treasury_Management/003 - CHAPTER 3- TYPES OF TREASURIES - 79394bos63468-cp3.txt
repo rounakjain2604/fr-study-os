@@ -1,0 +1,1731 @@
+Source PDF: 07_SPOM/Set_C_10_Forex_Treasury_Management/003 - CHAPTER 3- TYPES OF TREASURIES - 79394bos63468-cp3.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_10_Forex_Treasury_Management\003 - CHAPTER 3- TYPES OF TREASURIES - 79394bos63468-cp3.pdf
+Extracted at: 2026-05-31T10:35:07+05:30
+Pages: 43
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          3
+         1
+TYPES OF TREASURIES
+
+
+                      LEARNING OUTCOMES
+
+After going through the chapter, students shall be able to understand:
+   Treasury - Manufacturing and Service Corporates
+   Background
+        Liquidity Management
+       Foreign Exchange Exposures
+       Commodity Exposures
+        Credit Exposures
+       Debt Restructurings
+    Treasury – Banking
+    Treasury - Special Reference to
+       Insurance Companies (Life & General)
+       Mutual Fund Organizations
+        Chit Fund Organizations
+       Housing Finance Companies
+       Non-banking Financial Companies
+       Government (Either State or Central)
+       Reserve Bank of India
+        Profit Centre Vs. Non-Profit Treasury
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+3.2          FOREX AND TREASURY MANAGEMENT
+
+ CHAPTER OVERVIEW
+
+
+                                                  Liquidity Management
+                                       Foreign Exchange Exposures
+    Background                     Commodity Exposures
+                                                Credit Exposures
+                                        Debt Restructurings
+
+                                  Insurance Companies (Life & General)
+     Treasury -
+     Banking                        Mutual Fund Organizations
+                                             Chit Fund Organizations
+                                    Housing Finance Companies
+                                  Non-banking Financial Companies     Treasury -
+      Special                      Housing Finance Companies
+    Reference to                                  Non-banking Financial Companies
+                               Government (Either State or Central)
+                                      Reserve Bank of India
+                                            Profit Centre Vs. Non-Profit Treasury
+
+
+     1.  TREASURY —  MANUFACTURING  AND  SERVICE
+      CORPORATES
+Generally, the corporates are divided into two parts Manufacturing and Service. The Treasury plays
+a very vital role in both types of Corporates. For most firms, corporate treasury now serves as a
+genuinely strategic function. Corporate treasury has transformed from being a financial risk and
+liquidity manager to a strategic business partner. Different organizations are at different stages of
+the evolution of corporate treasury into a strategic function. To  fulfill the elevated expectations,
+organizations are also attempting to construct the proper treasury function.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+TYPES OF TREASURIES             3.3
+
+     2.  BACKGROUND
+A key position in the modern corporation's finance is held by the treasury department. Treasury
+management is very dynamic and includes Cash, Risk, Investment and Debt management besides
+day-to-day procedural parts. Further rules and regulations of various statutory bodies like SEBI, RBI,
+FEMA etc. are also to be complied with by the treasury department.
+It assumes accountability for the company's  liquidity and guarantees that there  is always an
+adequate amount of cash on hand to cover the demands of the company's main business operations.
+It seems simple. Correct? Is it, though? It's not.
+To really meet the goal, a treasury department would need to do the following roles over time:
+2.1.  Liquidity Management
+The ability of a security or asset to be swiftly purchased or sold on the market without depressing
+the asset's price is known as liquidity.
+The degree to which assets can be purchased and sold at steady prices in a market—like the stock
+market of a nation or the real estate market of a city—is referred to as market liquidity. The most
+liquid asset is cash; collectibles, fine art, and real estate are all comparatively illiquid. Accounting
+liquidity gauges how easily a person or business can use their liquid assets to satisfy their financial
+obligations. Accounting liquidity is expressed by multiple ratios.
+Because it can be changed into other assets the quickest and easiest, cash is regarded as the gold
+standard for liquidity. Cash is the asset that can be used to buy a $1,000 refrigerator, the easiest for
+an individual to desire. That person is unlikely to find someone who is willing to trade the refrigerator
+for their $1,000 rare book collection if they have no cash, but the collection is valuable. Rather, they
+will have to sell the collection and pay for the refrigerator with the proceeds. That might not be an
+issue  if the buyer has several days to make the purchase, but  it might be  if they cannot wait for
+months or years.
+2.1.1 Types of Liquidity
+(i)    Market Liquidity
+Refers to the ease with which an asset can be bought or sold in the market without having a
+significant impact on its price. In the aforementioned example, the market for refrigerators in return
+for rare books is so illiquid as to be considered non-existent. Higher market liquidity, however, is
+what distinguishes the stock market. The price a buyer offers per share (the bid price) and the price
+a seller is willing to accept (the ask price) will be relatively close to each other if an exchange has a
+high volume of trade that is not dominated by selling. Consequently, investors won't have to forfeit
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+3.4          FOREX AND TREASURY MANAGEMENT
+
+unrealized gains in exchange for a speedy sale. The market gets less liquid as the difference
+between the ask and bid prices widens. Compared to stock markets, real estate markets are
+generally less liquid by nature. However, even by real estate market standards, a buyer's market is
+relatively illiquid because buyers have the power to demand steep discounts from sellers looking to
+move quickly.
+(ii)   Accounting Liquidity
+Accounting liquidity is a measure of an entity's capacity to make payments on debts as they become
+due, or to access funds when needed. This can apply to both individuals and businesses. The rare
+book collector in the aforementioned example has relatively illiquid assets, so in an emergency, they
+probably wouldn't be worth their full $1,000. Comparing liquid assets to current liabilities, or debts
+that are due within a year, is the practical method of evaluating accounting liquidity. Accounting
+liquidity is measured by several ratios, which vary in how narrowly they define "liquid assets."
+Ratios to measure Accounting Liquidity
+(a)    Current Ratio
+The current ratio is the simplest and least strict ratio. Current assets are those that can reasonably
+be converted to cash in one year.
+Current Ratio = Current Assets / Current Liabilities
+(b)    Acid-Test or Quick Ratio
+The acid-test or quick ratio is slightly stricter. It excludes inventories and other current assets, which
+are not as liquid as cash and cash equivalents, accounts receivable and short-term investments.
+Acid-Test Ratio = (Cash and Cash Equivalents + Short-Term Investments + Accounts
+Receivable) / Current Liabilities
+A variation of the acid-test ratio simply subtracts inventory from current assets, making it a bit more
+generous than the version listed above:
+Acid-Test Ratio = (Current Assets - Inventories) / Current Liabilities
+(c)   Cash Ratio
+Except for inventories and other current assets, the cash ratio is the most precise of the liquidity
+ratios. It evaluates an organization's capacity to maintain solvent status in an emergency more so
+than the current ratio or acid-test ratio. If they lack the liquidity to respond to unanticipated events,
+even extremely profitable businesses may experience difficulties.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+TYPES OF TREASURIES             3.5
+
+Cash Ratio = (Cash and Cash Equivalents + Short-Term Investments) / Current Liabilities
+Depending on how one defines liquidity, there are two approaches to managing it in finance. Liquidity
+can be defined as the capacity to exchange an asset at its current price, like a stock or bond. Large
+organizations, like financial institutions, fall under the second definition of liquidity. The ability of
+banks to meet their cash and collateral obligations without suffering significant losses is a key
+criterion for evaluating them. Liquidity management pertains to the measures taken by investors or
+managers to minimize their exposure to liquidity risk.
+2.1.2 Liquidity Management in Business
+Liquidity risk is assessed by managers, lenders, and investors utilizing liquidity measurement ratios
+found in a company's financial statements. Comparing liquid assets and short-term liabilities is
+typically how this is accomplished. Overleveraged companies need to take action to close the
+difference between their cash on hand and their debt commitments.
+Liquidity risk affects all governments and businesses with debt commitments, but major banks'
+liquidity is particularly closely watched. Since these companies are deemed economically vital, they
+are exposed to stringent regulations and stress tests to evaluate their liquidity management. In this
+case, liquidity risk management evaluates the requirement for cash or collateral to satisfy financial
+commitments using accounting methods.
+2.1.3. Liquidity Management in Investing
+Investors are concerned with a different kind of liquidity management, but they still use liquidity ratios
+to assess a company's stocks or bonds. Stock market traders are not able to purchase or sell any
+asset at any time; buyers and sellers are mutually dependent.
+In most cases, a buyer must increase their bid to persuade a seller to part with the asset if they are
+unable to find one at the asking price. On the other hand, sellers need to lower their asking prices
+to attract buyers. Illiquid assets are those that cannot be traded at their current value.
+Liquidity risk is mitigated by traders and investors by limiting the percentage of their portfolios held
+in illiquid markets. Furthermore, liquid markets like the forex currency market are preferred by high
+volume traders.
+2.2  Foreign Exchange Exposures
+Many firms are exposed to foreign exchange risk - i.e., their wealth is affected by movements in
+exchange rates - and will seek to manage their risk exposures. The details of different types of
+foreign exchange risks and the methods for hedging that risk are detailed below.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+3.6          FOREX AND TREASURY MANAGEMENT
+
+2.2.1 Types of Foreign Exchange Risks
+(i)    Transaction risk
+This is the gain or loss that results from a conversion and is associated with the possibility that the
+exchange rate will fluctuate between the transaction date and the subsequent settlement date.
+The main factors connected to this kind of risk are imports and exports. When a business exports
+goods on credit,  it records a debtor figure in its accounting. The final amount  it will receive is
+determined by the movement of foreign exchange between the transaction and settlement dates.
+Most businesses decide to hedge against transaction risk since  it may influence their cash flow.
+Typically, one of the most crucial aspects of treasury risk management is measuring and tracking
+transaction risk.
+The size of the transaction and the hedge period—the amount of time before the anticipated cash
+flows occur—determine the extent of exposure. The expected fluctuations in exchange rates over
+the course of the hedge period.
+What level of exposure is acceptable should be specified in the corporate risk management policy.
+Whether the Treasury Department has been set up as a cost center or a profit center will likely
+determine this.
+(ii)   Economic risk
+While economic exposure includes both the longer-term effects of exchange rate fluctuations on a
+company's market value, transaction exposure concentrates on the relatively short-term cash flow
+effects. This essentially indicates that fluctuations in exchange rates will affect the present value of
+future after-tax cash flows.
+An organization can be exposed to economic risk in two different ways:
+(a)    Directly:  If the value of your company's domestic currency increases, foreign rivals may
+acquire market share at your expense by reducing the price of their products or lowering your profit
+margins in the eyes of domestic and international consumers.
+(b)    Indirectly: You might become less competitive even if the value of your home currency does
+not change in relation to the currency of your customers. Let's take an example where a South
+African company is selling to Hong Kong and its primary rival is a company based in New Zealand.
+A decline in the New Zealand dollar's value relative to the Hong Kong dollar would mean a reduction
+in the South African company's competitive edge.
+Economic risk is hard to measure, but diversifying globally in terms of sales, where to locate
+production facilities, where to get raw materials, and how to finance  it is a preferred method of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+TYPES OF TREASURIES             3.7
+
+managing   it. When compared  to a company  that operates  only  domestically,  this  kind  of
+diversification is likely to greatly lessen the impact of economic exposure and offer far more flexibility
+in responding to actual fluctuations in exchange rates.
+(iii)   Translation risk
+To be combined into the financial statements of the group, the financial statements of foreign
+subsidiaries are typically translated into the local currency. Keep in mind that this is only a paper-
+based exercise; actual money is not being converted from one currency to another; rather, this is
+translation.
+A large foreign exchange movement can seriously distort the reported performance of an overseas
+subsidiary measured in domestic currency.
+The UK parent company will expect a balance sheet value of £500,000 for the American subsidiary
+if the initial exchange rate is $/£1.00 and the subsidiary has a $500,000 value. The translation would
+only amount to £250,000 if the US dollar declined to $/£2.00.
+Translation exposure is typically not hedged unless managers feel that a loss on the company's
+translation exposure will cause the share price to drop. In an efficient market, the share price of the
+company should only respond to exposure that is likely to affect cash flows.
+
+2.2.2 Hedging transaction risk – the internal techniques
+For financial reasons, internal strategies for managing or minimizing foreign exchange risk should
+always take precedence over external ones.
+Among the internal methods are the following:
+(i)    Invoice in local currency
+One simple method is to require that your business pays for all imports in your home currency and
+that all foreign customers pay in your home currency.
+But the exchange-rate risk has simply been transferred to the customer rather than disappearing.
+While this is feasible in a monopoly situation,  it is an impractical strategy in a market where
+competition is fierce.
+(ii)   Leading and lagging
+An importer (payment) may try to postpone payment if it anticipates a decline in the currency it is
+expected to pay. This can be done through reaching a consensus or by going over credit limits.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+3.8          FOREX AND TREASURY MANAGEMENT
+
+An exporter (receipt) may attempt to receive payment right away if it anticipates that the currency it
+is expected to receive will weaken over the course of the next three months. One way to do this
+would be to provide an instant payment discount.
+Predicting the direction of the exchange rate's movement is the challenge.
+(iii)   Matching
+A business can easily compare receipts and payments in the same foreign currency that are due at
+the same time. The unmatched portion of all transactions can then be dealt with on the forex markets.
+Establishing a bank account in a foreign currency is an extension of the matching concept.
+Hedging through Forward, Future and Options
+A business can manage their exposure to foreign currency through Forward or Future and options.
+There are different combinations and structure of these products which a business house uses after
+assessing their risk taking capabilities.
+Decide to do nothing?
+"Win some, lose some" would apply to the company. According to theory, gains and losses
+eventually balance out to produce a result that is comparable to what would occur with hedges.
+However, short-term losses could be substantial. The reduction of transaction costs is another
+benefit of this policy.
+2.3  Credit Exposures
+It is the total amount of credit that a lender has given to a borrower. The amount of risk that the
+lender bears if the borrower defaults is indicated by the credit exposure magnitude. By investing in
+credit default swaps or other financial instruments, credit exposure can be reduced.
+A bank will typically aim to have less exposure to clients with a lower credit rating and more exposure
+to those with the highest credit rating. To lessen the risk of loss from a potential default, the bank
+may try to decrease its credit exposure if a customer experience unforeseen financial difficulty.
+Treasury faces less credit risk than market risk because most of its counterparties are banks, which
+have credit ratings that are unquestionably higher than those of individuals and corporations.
+Nonetheless, the treasuries will be equipped with procedures to take on credit risks while carrying
+out their operations.
+•     Credit Risk and Quantitative Controls: The dealing room can reduce credit risk and
+       concentration risk by using quantitative limits. Quantitative exposure limits may take the form
+       of counter party limits, which are established after the identification of the counter parties and
+       the completion of credit evaluations to determine their net worth. Usually, the bank's net worth
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+TYPES OF TREASURIES             3.9
+
+       or the net worth of the other banks is used to calculate these limitations. The limits are
+      adjusted considering the developments after careful observation of the market developments
+      and reports pertaining to the counterparty.
+     As a  result,  the  limit  fixing process  is dynamic and considers any changes  in  the
+       counterparty's creditworthiness automatically. Among these restrictions are per-party and
+       per-deal limits, which serve as restraints on the dealers.
+       Additional  distinct  limitations are set aside  for foreign exchange dealing and lending
+       operations. There might be different restrictions under each of the two headings for forwards
+      and long-term placements, as well as spot and overnight placements, which are short-term
+      exposures. The same policy will also include any exposure limitations for foreign branches...
+     As a result, the limits signify the banks' worldwide restrictions on other banks.
+     The Reserve Bank of India mandates that banks keep an eye on their counterparty exposures
+        in real time and throughout the world. As a result, the exposures are recorded online every
+      day and are tracked globally. To facilitate efficient and seamless operation, authority is also
+      assigned to various functionaries. Regular monitoring of the exceptions is conducted to
+      guarantee that the global exposure stays within the authorized limit, which is linked to the
+      bank's or the counterparty's net worth.
+•     Credit Risk- Qualitative Controls: Qualitative limits represent the control of quality of the
+        portfolio that helps prevent deterioration in the quality of assets. Examples are, limits on tenor
+       instruments, exposure to an entity rates ‘AAA’, exposure to instruments rates ‘AAA’, etc.
+       Prescribing exit routes when there is impairment of quality of an exposure is also a qualitative
+       control measure. In areas where credit rating is not available, the banks may identify counter
+       parties based on net worth.
+       Fixing the progressively reducing limits of exposure is a technique designed to control the
+       quality of exposure. The qualitative controls  / limits provide the desired direction to the
+       dealers.
+2.4  Debt Restructurings
+Corporate Debt Restructuring (“CDR”) mechanism is a voluntary non-statutory mechanism under
+which financial institutions and banks come together to restructure the debt of companies facing
+financial difficulties due to internal or external factors, to provide timely support to such companies.
+The intention behind the mechanism is to revive such companies and safeguard the interests of the
+lending institutions and other stakeholders. The CDR mechanism is available to companies which
+enjoy credit facilities from more than one lending institution. The mechanism allows such institutions
+to restructure the debt in a speedy and transparent manner for the benefit of all.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+3.10         FOREX AND TREASURY MANAGEMENT
+
+The objects of the CDR mechanism, as enunciated by the Reserve Bank of India, the central
+bank of the country, are-
+•     “To aim at preserving viable corporates that are affected by certain internal and external
+       factors”
+•     “To minimize the losses to creditors and other stakeholders through an orderly and co-
+      ordinated restructuring programme”
+•     “To ensure timely and transparent mechanism for restructuring of corporate debts of viable
+       entities facing problems, for the benefit of all concerned.”
+The CDR mechanism has a three-tier structure.
+CDR standing Forum: The representative general body  of banks and  financial  institutions
+participating in the CDR system.  It is a self-empowered body which lays down the policies and
+guidelines, such as the time frame within which a unit shall become viable and the minimum level of
+promoter contribution. It also monitors the progress of corporate debt restructuring. The Forum also
+provides a platform for borrowers and creditors to amicably evolve policies for working out debt
+restructuring plans in the interest of everyone.
+The CDR Standing Forum comprises of Chairman and Managing Director, Industrial Development
+Bank of India Ltd; Chairman, State Bank of India; Managing Director and CEO, ICICI Bank Limited;
+Chairman, Indian Banks’ Association as well as Chairmen and Managing Directors of all banks and
+financial institutions participating as permanent members in the system. Most of the big financial
+institutions in India that lend money to companies are permanent participating members of the
+standing forum.
+CDR Core Group: A CDR Core Group is carved out of the CDR Standing Forum to assist the
+Standing Forum in convening the meetings and taking decisions relating to policy, on behalf of the
+Standing Forum. The Core Group consists of Chief Executives of Industrial Development Bank of
+India Ltd., State Bank of India, ICICI Bank Ltd, Bank of Baroda, Bank of India, Punjab National Bank,
+Indian Banks’ Association and Deputy Chairman of Indian Banks’ Association representing foreign
+banks in India. It lays down policies and guidelines to be followed by the CDR Empowered Group
+and CDR Cell for debt restructuring, including policies regarding the operational difficulties faced by
+the CDR Empowered Group. It also prescribes time- frame, and modalities for the enforcement of
+time frame for cases that are referred for the CDR mechanism.
+CDR Empowered Group: The individual cases of corporate debt restructuring are decided by the
+CDR Empowered Group. This group consists of Executive director level representatives of Industrial
+Development Bank of India Ltd., ICICI Bank Ltd. and State Bank of India as standing members, in
+addition to ED level representatives of financial institutions and banks who have an exposure to the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+TYPES OF TREASURIES            3.11
+
+concerned company. While standing members facilitate the conduct of the group’s meetings, voting
+is in proportion to the exposure of the creditors only. The CDR Empowered Group considers the
+preliminary report of all cases of requests of restructuring, submitted to it by the CDR Cell.
+After the Empowered Group decides that restructuring of the company is prima facie feasible and
+the enterprise is potentially viable in terms of the policies and guidelines evolved by the Standing
+Forum, the detailed restructuring package is worked out by the CDR Cell in conjunction with the
+Lead Institution, which is the institution which has the highest exposure in the concerned company.
+The CDR Empowered Group examines the viability and rehabilitation potential of the company and
+approves the restructuring package within a specified time frame of 90 days, or at best within 180
+days from the date on which it received the reference.
+The decision of the CDR Empowered Group is final and if it finds the restructuring package feasible
+and approves the scheme then the company is put in restructuring mode. If restructuring is not found
+viable, the creditors are free to take necessary steps for immediate recovery of dues and  / or
+liquidation or winding up of the company, collectively or individually.
+CDR Cell: The CDR Cell makes the initial scrutiny about the health of the company and the role of
+corporate governance and scrutinizes the details of the proposals received from borrowers  /
+creditors, by calling for proposed rehabilitation plan and other information and puts up the matter
+before the CDR Empowered Group within one month to decide if rehabilitation is prima facie feasible.
+If found feasible, the CDR Cell will proceed to prepare a detailed Rehabilitation Plan with the help
+of creditors and, if necessary, with experts to be engaged from outside.
+Restructuring is a procedure in which a business changes the strategy or direction of its organization.
+Many cases of restructuring involve downsizing. The business may reduce the staff, eliminate
+departments, or close some of its retail locations. Businesses attempting to downsize may also
+outsource some of their operations to save money. In other cases, restructuring may involve the
+reassignment or alteration of duties within the organization to improve performance or incorporate
+new technologies.
+Advantages
+If a business downsizes during restructuring, its operational costs may decrease. For example,
+payroll expenses will be lower if the business reduced its staff. Likewise, outsourced operations are
+usually less expensive than in-house labor. When a business eliminates layers of management
+during its restructuring, communication and decision making often improve. Finally, businesses
+restructuring  to introduce new technologies may enjoy increased operational  efficiency. For
+instance, records become more accurate and easier  to access   if a business implements a
+computerized filing system.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+3.12         FOREX AND TREASURY MANAGEMENT
+
+Disadvantages
+If a business downsizes during restructuring,  it may lose highly skilled workers. Reassigning the
+duties of these workers to remaining employees often involves added training expenses. Workers
+remaining after downsizing often feel insecure about their jobs, which may lead to low worker morale
+and poor customer service.
+If a company's restructuring involves new technology or changes in employee responsibilities,
+productivity may suffer while employees learn their new roles.
+Other Considerations
+If a business restructures, investors may question the company's future. Small businesses supported
+by only a few investors may lose necessary funding if they are unable to provide reassurance. Small
+businesses already operating with a limited number of employees may be unable to dismiss enough
+personnel to make a significant difference in payroll expenses. Furthermore, a small business that
+decreases its workforce too dramatically may spend more in overtime pay for the remaining workers
+than it saved through downsizing.
+
+     3.  TREASURY - BANKING
+Significant policies have been put in place by the Reserve Bank of India and other regulatory bodies
+to improve the efficiency and vibrancy of different financial market segments. The creation of new
+financial instruments, the number of participants, the volume of business, and other aspects of
+financial markets has all increased dramatically because of these policy measures, particularly in
+the money and securities markets. In addition, the foreign exchange market has expanded and
+merged with the securities and money markets.
+As a result, banks and other financial institutions now have an integrated treasury function that is
+too complicated to manage and organize. Furthermore, banks and other financial institutions are
+under pressure to enhance their bottom-line performance due to growing business competition and
+shareholder expectations. In this regard, effective treasury operations management is essential for
+treasury managers to play a major part in enhancing the overall financial performance of their
+companies.
+In light of this, financial institutions and banks have realized the value of the treasury function and
+have taken several steps to integrate their forex and rupee treasury operations. The money,
+securities, and forex markets have seen an increase in the participation of banks and other financial
+institutions. Integrated treasury provides investment banking products to its clients and manages
+risk using derivative products.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+TYPES OF TREASURIES            3.13
+
+3.1  Background
+Treasury operations have changed significantly because of increased globalization and market
+integration on a worldwide scale. India has been experiencing this shift, which has increased the
+significance of treasury operations integration for Indian banks. The primary goals of this integration
+are to reduce risks and increase bank profitability. To optimize their profits from these activities,
+banks are modifying their organizational designs and operational procedures. Nonetheless, there
+are some issues that must be resolved.
+Treasury, as used in the context of commercial banking, generally refers to the funds and revenue
+that the bank owns and manages daily. Since idle money is typically a source of loss—whether
+actual or anticipated—it must be managed, invested in, and used with the goal of increasing
+profitability. Without associated risk, there can be neither profit nor reward. Treasury operations,
+then, aim to invest available funds at a reasonable degree of risk to maximize profit and earnings.
+Risks and returns must both be controlled.
+In this context, the importance of treasury operations to banks is growing, and corporates are starting
+to recognize the need for both horizontal and vertical integration. Enhancing portfolio profitability,
+risk mitigation, and maximizing the synergy between banking and trading assets are the main goals
+of integration. While all current and diverse trading and arbitrage activities are brought under one
+control with one common pool of funding and contributions in vertical integration, dealing/trading
+rooms engaged  in the same trading  activity are brought under the same  policy, hierarchy,
+technological, and accounting platform in horizontal integration.
+3.2  Capital Adequacy
+The Basel Accords, or capital requirements rules, were published by the Basel Committee on
+Banking Supervision (BCBS), a committee of banking supervisory authorities. A comprehensive set
+of  reform  initiatives, BCBS aims  to improve banking  industry  oversight,  control, and  risk
+management. The Basel I capital measurement system was first introduced by BCBS in 1988. The
+updated, revised, and more complicated Basel II guidelines were released by BCBS in 2004. Basel
+II takes operational and market risks into account in addition to credit risk, whereas Basel  I only
+address credit risk.
+With the release of Basel  III in December 2010, the capital base's quality, consistency, and
+transparency came under increased scrutiny. Basel I guidelines were adopted by India in 1999, and
+by 2009, Basel  II guidelines had been phased in. India began implementing the Basel  III capital
+regulation on April 1, 2013, and by March 31, 2018, it was completely established.
+The minimum capital requirement is the amount of capital that banks must maintain on their own as
+mandated by financial regulators. When giving loans and advances to different sectors, banks take
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+3.14         FOREX AND TREASURY MANAGEMENT
+
+on a variety of risks. There must be enough capital in banks for them to absorb any losses they incur
+while doing business. Banks can safeguard assets if they possess sufficient capital protecting their
+depositors from unanticipated events and fostering the effectiveness and  stability of financial
+systems.
+3.2.1 Components of Capital
+Tier I Capital: The components of Tier I capital comprise paid-up capital (ordinary shares), capital
+reserves representing excess proceeds from asset  sales,  statutory reserves, disclosed  free
+reserves, Perpetual Non-cumulative Preference Shares (PNCPS) subject to laws in effect from time
+to time, and Innovative Perpetual Debt Instruments (IPDI). It is commonly known as the core capital
+because it can absorb losses without forcing a bank to shut down operations, giving its depositors
+greater security.
+Tier  II Capital: This category consists of subordinated debt, hybrid capital instruments, general
+provisions and loss reserves, revaluation reserves, undisclosed reserves, and investment reserve
+accounts. In the event of winding up, the additional capital is what absorbs losses, giving  its
+depositors less  protection. To the extent  that they absorb losses  resulting from the bank's
+operations, Tier II items are considered regulatory capital.
+Tier III Capital: This is set up to offset some of the market risk, such as fluctuations in interest rates,
+currency rates, stock prices, commodity prices, etc. Assets must be unsecured, subordinated, and
+have a minimum maturity of two years in order to qualify as Tier III capital, which is limited to 250%
+of a bank's Tier I capital.
+The capital adequacy ratio keeps banks out of trouble and guards against excessive leverage and
+insolvency. Its definition is the proportion of a bank's capital to its risk-weighted assets and current
+liabilities. Assets held by the bank that have been weighted according to risk are called risk-weighted
+assets. A suitable level of capital adequacy guarantees that the bank has enough capital to grow
+both its net worth and its business. is sufficient to withstand any economic downturns without going
+bankrupt.
+The bank's ability to meet time obligations and other risks, like credit risk, market risk, operational
+risk, etc., is determined by this ratio. RBI guidelines state that Indian SCBs should have a CAR of
+9%, or 1% higher than the Basel minimum requirements, while public sector banks are advised to
+maintain this ratio at 12%. Capital adequacy ratio is defined as:
+CAR= Tier I + Tier II + Tier III capital (capital funds) / Risk Weighted Assets (RWA)
+The popular wisdom holds that the yield curve and banks' net interest margins are logically related.
+Banks use short-term interest rates to pay interest on deposits while using long-term interest rates
+to make loans. Therefore, the difference between interest paid and received, or net interest margin,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+TYPES OF TREASURIES            3.15
+
+should be influenced by the yield curve's slope, which is the spread between short- and long-term
+interest rates.
+The historical evidence supporting the international discourse on this issue dates back to 1984 and
+1994, when a two-quarter lag was found to correlate changes in the yield curve spread with seventy
+percent of banks' net interest margins. From a macroeconomic perspective, the relationship between
+the yield curve and net interest margin is significant since a flattening yield curve is a sign of slowing
+economic growth and, as a result, greater pressure on banks' earnings.
+For a variety of reasons, banks have recently grown less susceptible to changes in the yield curve.
+One possible explanation for this is that banks have been able to expand into non-traditional
+operations thanks to evolving banking laws and product diversity.
+Two, the creation of new financial products like interest rate swaps, securitization, and adjustable-
+rate loans has reduced exposure to changes in interest rates.
+Three, by supporting a larger portion of their assets with non-interest-bearing liabilities like equities
+and demand deposits, banks have been able to counteract the negative effect of falling rates on
+their net interest margins.
+Another noteworthy finding is that small banks have shown indications of decoupling from the yield
+curve's mandated trend, while the net interest margins of major banks have moved in tandem with
+the curve's changes. The disparity in funding costs and asset composition between big and small
+banks could be the cause of this.
+3.3  Credit Risks
+Credit risk, also known as counterparty risk,  is the oldest and biggest risk in banking and  is
+something that banks are dealing with more and more in all their product offerings, not just lending.
+The "know your client principle" is crucial in bank relationships since it helps you get to know the
+borrower and/or  credit base. Dealing with customers who have a good reputation and are
+creditworthy is crucial for banks. As a result, banks must control the credit risk associated with each
+individual credit transaction as well as the credit risk in their credit portfolio. Banks should also take
+the correlation between credit risk and other hazards into account.
+A thorough approach to risk management must include excellent credit risk management as  it is
+essential to the long-term viability of any banking institution. One technique to manage a portfolio of
+credit facilities is through an efficient credit risk management approach. Identification, measurement,
+monitoring, and control of credit risk exposures are all included in credit risk management. For a
+financial organization to be successful in the long run, credit risk management must be handled well.
+It is a crucial part of overall risk management.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+3.16         FOREX AND TREASURY MANAGEMENT
+
+Credit risk is mostly composed of two elements: quantity, or the total amount owed as of the default
+date, and quality, or the degree of loss determined by the combined effect of the probability of default
+and recoveries that may be possible in the event of default. As a result, exposure risk and default
+risk work together to produce credit risk.
+The goals are to:
+•    Develop an integrated framework for classifying and charting different kinds of advances and
+      loans and to ascertain the effects on risk and credit quality.
+•     Create appropriate corporate plans to achieve the required exposure levels and quality and
+      provide Strategic Business Units (SBUs) with recommendations. Benchmarks could be
+      expressed as volume of exposure, NPA levels, recovery percentages, etc.
+•     Periodically assess the performance and exposures.
+•     Create appropriate monitoring and control systems.
+•    Develop and improve analytical techniques to evaluate risk profiles to maintain wholesome
+       portfolios and prevent illness.
+The Credit Risk Strategy is determined by the bank's Credit Risk Management Policy. Target
+markets, risk acceptance/avoidance thresholds, risk tolerance upper bounds, preferred degrees of
+concentration and diversity, and credit risk measurement, monitoring, and management techniques
+are all outlined in these policies. The Bank will get stronger because of its constantly improving risk
+management procedures, giving it a competitive edge in the market.
+3.4  Foreign Exchange Risk
+Transaction risk, pre-transaction risk, translation risk, and economic risk are frequently used to
+examine foreign exchange risk.
+(i)    Transaction Risk
+This is the risk where changes in foreign exchange markets because of transactions the company
+enters could have an impact on realized profits and cash flows. Foreign exchange transaction risk
+is typically created:
+•    When there is a promise to pay or receive in a foreign currency.
+•         It can also be short-term (although some organizations may have long-term transaction
+      exposure).
+•      Finally, it is revenue related.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+TYPES OF TREASURIES            3.17
+
+When there is an obvious duty to make a payment or right to receive a payment, transaction risk is
+represented by specific foreign currency receipts or payments. Transaction risk might include, but is
+not limited to, receiving dividends from overseas sources, paying royalties and franchise fees, and
+having to pay for deliveries made by international suppliers in foreign currencies.
+(ii)    Pre-transaction risks
+These are potential foreign exchange risks that would become transactional exposures if they were
+to arise prior to signing a commercial contract. Pre-transaction risks include, but are not limited to,
+the release of a price list, the company's forecasted receipt of foreign dividends that have not yet
+been reported, or sales that have not yet occurred overseas.
+(iii)   Translation risk
+Exchange rate fluctuations can cause businesses with overseas subsidiaries to observe variations
+in the domestic value of their subsidiaries' liabilities and assets. Changes in exchange rates will also
+affect the domestic equivalent of the foreign currency earnings of these subsidiaries.
+(iv)   Economic risk
+Companies may be subject to fluctuations in foreign exchange due to their competitive position as
+well as  transactional and  pre-transactional  vulnerability. Imagine an  engineering  firm  with
+headquarters in India that exports to the US market. Its main rival is a Japanese producer. Such a
+corporation can be influenced by movements in the US$/JPY exchange rate in addition to the
+Rupee/US$ exchange rate on its transactional and pre-transactional exposures. It will be evident
+that the company's competitive position against its Japanese rival will be weakened  if the JPY
+declines vs the US dollar while the Rupee appreciates against the US dollar.
+3.5  Interest Rate Risks
+Interest rate fluctuations  will have an impact on the borrowing costs and deposit returns of
+organizations that have significant borrowing or deposits. Interest rate hikes will affect businesses
+whose borrowing costs are variable, whereas interest rate decreases will affect businesses whose
+borrowing costs are fixed, either fully or partially.  It is evident that for firms that have term cash
+deposits, the opposite is true.
+Furthermore, when the MBS is being issued, the issuer typically decides to split the mortgage pool
+into several sections, referred to as tranches. The issuer can virtually structure these tranches
+anyway they see fit, allowing them to tailor a single MBS to a variety of risk tolerances. While hedge
+funds tend to invest in assets with lower credit ratings to make bigger gains, pension funds seek to
+purchase mortgage-backed securities with high credit ratings.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+3.18         FOREX AND TREASURY MANAGEMENT
+
+3.6  Securitization
+
+
+                                                         (Source: marketbusiness.com)
+From the above diagrams, it can be understood that securitization is the process of taking an illiquid
+asset, or group of assets, and through financial engineering, transforming them into a security.
+A typical example of securitization is a mortgage-backed security (MBS), which is a type of asset-
+backed security that is secured by a collection of mortgages. The process works as follows:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+TYPES OF TREASURIES            3.19
+
+First, a regulated and authorized financial institution originates numerous mortgages, which are
+secured by claims against the various properties the mortgagor’s purchase. Then, all the individual
+mortgages are bundled together into a mortgage pool, which is held in trust as the collateral for an
+MBS. The MBS can be issued by a third-party financial company, such as a large investment banking
+firm, or by the same bank that originated the mortgages in the first place. Mortgage-backed securities
+are also issued by aggregators such as Fannie Mae or Freddie Mac.
+In all such cases, the result is the same: a new security is created, backed up by the claims against
+the mortgagors' assets. This security can be sold to participants in the secondary mortgage market.
+This market is extremely large, providing a significant amount of liquidity to the group of mortgages,
+which otherwise would have been quite illiquid on their own.
+Furthermore, at the time the MBS is being created, the issuer will often choose to break the mortgage
+pool into several different parts, referred to as tranches. These tranches can be structured in virtually
+any way the issuer sees fit, allowing the issuer to tailor a single MBS for a variety of risk tolerances.
+Pension funds will typically invest in high-credit rated mortgage-backed securities, while hedge funds
+will seek higher returns by investing in those with low credit ratings.
+3.7  Asset Liability Management
+In India's commercial banks, one of the key instruments for risk management is asset-liability
+management, or ALM. The Indian banking sector is subject to several market hazards, including
+interest rate risk, financial risk, and market risk. These variables or risks have a significant impact
+on the banks' net income. The Reserve Bank of India (RBI), which oversees the Indian banking
+sector, developed the ALM tool with this goal in mind.
+The treasury department must adhere to the ALM policy of the Bank as defined internally as well as
+statutory rules regarding the same. ALM is a thorough and flexible framework for calculating,
+tracking, and controlling a bank's market risk. It is the structure of the balance sheet (liabilities and
+assets) managed to optimize net interest profits within the institutions' overall risk-preference (future
+and present). Liquidity risk management, market risk management, trading risk management,
+finance and capital planning, profit planning, and growth projection are all included in the ALM
+functions.
+The first stage of long-term strategic planning is asset-liability management. As a result, it qualifies
+as a planning function for a term in between. The different facets of managing the balance sheet in
+a sense  all have to do with planning, controlling, and directing the amounts, movements, and
+combinations of capital, liabilities, and assets.
+Commercial banks must allocate the inflows and withdrawals among several residual maturity
+periods, or "time buckets," in accordance with RBI norms. Based on the amount of time left before
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+3.20         FOREX AND TREASURY MANAGEMENT
+
+their maturity (also known as maturity/residual maturity), the assets and liabilities were previously
+split into 8 maturity buckets: 1–14 days, 15–28 days, 29–90 days, 91–180 days, 181-365 days, 1-3
+years, and 3-5 years and above 5 years. While the asset figures represent inflows, all the liabilities
+data represent withdrawals.
+All financial organizations now consider asset-liability management to be essential, and to some
+extent, other businesses do too. In the financial sector,  it has taken center stage, with all banks
+attempting to minimize risk and increase yield. To preserve the stability of the financial system, the
+Reserve Bank of India has released guidelines to banks doing business in India. These rules address
+how banks should manage their asset-liability situations.
+The application of maturity-gap analysis is broad;  it can be used for both planning and situation
+analysis. To minimize liquidity risk, banks must keep the maturity gap small and feasible. Maturity
+gaps means the difference between inflows into one maturity bucket and the funds withdrawals that
+occur in other maturity buckets. According to the RBI's rules, to preserve the stability and integrity
+of the nation's banking system, banks must maintain a steady liquidity position over the short term,
+including both buckets of 1–14 days and buckets of 15–28 days.
+From the foregoing it may be concluded that asset-liability management is one of the vital tools for
+risk management in banks and banks must take great care for that. All banks must work properly
+regarding the ALM to increase their performance.
+
+     4.  TREASURY - SPECIAL REFERENCE TO:
+4.1  Insurance Companies (Life & General)
+The Insurance Industry in India is subject to a complicated set of rules and regulations. Companies
+are required to invest minimum amounts in government securities; and restrictions are put on the
+amount to be invested in approved investments and other investments, as per a detailed list that
+includes specific equities and corporate bonds as well as bank deposits. Approved investments are
+in companies that have a strong, multi-year dividend payment record. Investments that do not meet
+these criteria are called ―Other Investments.
+The Insurance Act of 1938 required that the  life insurers should hold 55% of their assets in
+government securities or other approved securities (Section 27A). In the 1940s, many insurers were
+part of financial conglomerates. With a 45% balance to play with, some insurers used these funds
+for financing their other enterprises or even for speculation. Based on the reading of Section 27A of
+the Insurance Act, 1938, together with the exposure norms issued by IRDA from time to time, the
+following can be the summary of the currently prevailing rules and regulations pertaining to
+investment norms for insurance companies.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+TYPES OF TREASURIES            3.21
+
+Life insurance: A minimum of 25% is to be invested in Central Government securities. A minimum
+of 50% is to be invested in Central Government and state government securities (and in securities
+guaranteed by those entities), and equity investments cannot exceed 35%. Investment in Housing
+and infrastructure requires a minimum of 15% investment.
+General insurance: A minimum of 20% is to be invested in Central Government securities. A
+minimum of 30% is to be invested in Central Government and State government securities (and in
+securities guaranteed by those governments), and equity investments cannot exceed 55%. Housing
+and loans to State Governments for housing and fire-fighting equipment require a minimum of 5%
+investment and infrastructure requires a minimum of 10% investment.
+Total Investments of the Insurance sector: As on March 31, 2013, the accumulated  total
+investments of the insurance sector stood at ` 18,60,500 crore, showing a 10.70% increase over
+the ` 16,80,527 crore AUM recorded during 2011-12. Life insurers continue to contribute a major
+share of total investments held by the industry with a share of 93.58% (previous year 94%). Similarly,
+public sector companies continue to contribute a major share (79.74%) in total investments, although
+the share of AUM held by private sector insurers has also been growing fairly in recent years).
+So, the treasury department plays an important role in insurance companies and must manage the
+funds properly while complying with all rules and regulations.
+4.2  Mutual Fund Organizations
+A Mutual Fund is a pool of investment funds of several investors who have a common investment
+objective. The asset management company that manages the day-to-day running of the fund
+invests the money collected in securities like stocks, bonds etc. The investors, called unit
+holders as they hold units  in the pool proportionate  to  their investment, earn from the
+appreciation in the investments and dividend / coupon received in the fund. Thus, a Mutual Fund
+is the most suitable investment for the common man as well as HNIs since  it offers an
+opportunity to invest in a diversified, professionally managed basket of securities at a relatively
+low cost.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+3.22         FOREX AND TREASURY MANAGEMENT
+
+
+Organization of Mutual Funds
+
+
+There are various entities involved in the overall structure. They are explained as below:
+Sponsor
+Sponsor is the entity that creates a mutual fund. The rules are set by the Securities and Exchange
+Board of India, in the Mutual Fund Regulations of 1996. Sponsor  is defined under the SEBI
+regulations as any person who, acting alone or in combination with another body corporate,
+establishes a mutual fund. Sponsor is the promoter of the fund. A Sponsor could be a bank, a
+corporate or a financial institution. Sponsors then form a Trust and appoint a Board of Trustees. The
+sponsor also appoints Custodian.
+As per SEBI regulations, a sponsor must contribute at least 40% of the net worth of the Asset
+Management Committee (AMC) and possess a sound financial track record over five years prior to
+registration. Sponsor signs the trust deed with the trustees. Sponsor creates the AMC and the trustee
+company and appoints the board of directors of companies, with SEBI approval. Sponsor should
+have at least a 5-year track record in the financial services business and should have made a profit
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+TYPES OF TREASURIES            3.23
+
+in at least 3 out of the 5 years. The AMC’s capital is contributed by the sponsor. Sponsor should
+contribute at least 40% of the capital of the AMC.
+Trust
+The Mutual Fund is a trust under the Indian Trusts Act, 1882. The trust deed is registered under the
+Indian Registration Act, 1908. The Trust oversees the safekeeping of the unit holders’ investments.
+Trustee
+The Board of Trustees i.e., the body of individuals, looks after safeguarding the interest of the unit
+holders. At least 2/3rd of the Trustees is independent i.e. not associated with the Sponsor. A mutual
+fund in India is form as Trust under Indian Trust Act, 1882. The trust-mf is managed by the Board of
+Trustees. The Board of Directors i.e. Trustees do not manage the portfolio of securities directly
+rather they supervise the work of AMC (Asset Management Company) and ensure that the fund is
+managed by stated objectives and as per SEBI regulations.
+Trusts always work for the interest of unit holders, and it is created through a document called Trust
+Deed that is executed by sponsors in favor of Trustees. The Trustees being the primary guardians
+of unit holder’s funds and assets, they must ensure that the investor’s interests are safeguarded and
+that the AMC operations are as per regulation laid down by SEBI. SEBI mandates a minimum of
+2/3rd independent directors on the board of the trustee company. Trustees are appointed by the
+sponsor with SEBI approval. The trustees make sure that the funds are managed according to the
+investor’s mandate.
+Asset Management Company (AMC)
+The AMC is that part of the mutual fund system that looks after the operations and investments of
+the MF. Formation of the AMC requires approval by SEBI. The AMC needs to have a net worth of `
+50 crore. The role of AMC is to act as investment manager of trust. The AMC (as appointed by
+trust/sponsor) requires approval by SEBI.
+The AMC is under the supervision of its own board of directors and the directors of trustees and
+SEBI. The trustees are empowered to terminate the appointment of AMC and appoint a new AMC
+with prior approval of SEBI and unit holders. The AMC, in the name of the Trust, manages different
+investment schemes as per the investment management agreement with the trustees. A Director of
+AMC should have complete professional experience in finance.
+The AMC cannot act as a trustee of any other MF. The AMC always acts in the interest of unit
+holders (investor). The AMC gets a fee for managing the funds, according to the mandate of the
+investors. At least ½ of the AMC’s Board should be of independent members. An AMC cannot
+engage in any business other than portfolio advisory and management. An AMC of one fund cannot
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+3.24         FOREX AND TREASURY MANAGEMENT
+
+be Trustee of another fund. AMC should be registered with SEBI. Also, AMC signs an investment
+management agreement with the trustees.
+4.3  Chit Funds Organizations
+"Chit" refers to a transaction (also known as a chit fund, chit, kuri, or by any other name) in which
+the foreman makes a contract with multiple subscribers stating that each subscriber will pay a
+specific amount for a predetermined amount of time, and each subscriber will be entitled to a prize
+amount in turn, as decided by lot or auction.
+Example: Each subscriber will receive their chit amount in turn, as decided by lot draw or auction,
+with a total chit value of Rs. 1,00,000/ or, say, 25 subscribers agree to subscribe for a total of Rs.
+4,000/ for 25 months. Every non-prized subscriber bid during the auction by agreeing to forfeit a
+portion of their subscription. The chit amount is awarded to the top bidder, or the one who permits
+the biggest percentage of subscribers.
+Less a 5% commission or payment that needs to be given to the company's foreman, the amount
+that each subscriber forfeits in a draw is distributed as a dividend among all of the subscribers. The
+maximum bid usually falls between 20% and 40%, while the chit's tenure normally runs between 12
+and 50 months. In an auction with many highest bidders, the winning subscriber gets the amount
+determined by a lottery.
+These 25 can be divided into various groups, each of which the chit fund business might oversee as
+a "Chit Group." Any chit group must have prior approval, a chit agreement registered, and a starting
+certificate from the Registrar's office, Chit Funds. The share of a subscriber in a chit is also known
+as ticket.
+4.4  Housing Finance Companies
+Due to the asset-liability shift, Housing Finance Companies (HFCs) are normally subject to credit
+and market risks. The risks connected to an HFC's operations have grown in complexity and size
+over the last few years due to the liberalization of the Indian financial markets and the increasing
+integration of those markets with external markets. As a result, strategic management is now
+necessary. HFCs are required to set their own interest rates on advances and deposits, subject to
+a maximum interest rate on deposits that they are permitted to offer, in a deregulated market.
+These days, the market affects the interest rates that HFCs invest in government and other assets.
+Pressure to maintain a healthy balance between spreads, profitability, and long-term survival has
+been placed on HFC management by intense competition for business involving both assets and
+liabilities. These demands demand more than merely ad hoc  action—rather,  they demand
+systematic, all-encompassing solutions.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+TYPES OF TREASURIES            3.25
+
+The managements of HFCs are required to base their business decisions on a corporate strategy-
+driven, dynamic, and integrated risk-management system and process. Throughout their commercial
+operations, HFCs are subject to several significant risks, including credit risk, interest rate risk,
+liquidity risk, equity/commodity price risk, and operational risk. Thus, it's critical that HFCs implement
+efficient risk management programs that deal with interest rate-related concerns.
+By improving their risk management and implementing more thorough Asset-Liability Management
+(ALM) procedures than have been used previously, HFCs must address these risks in an organized
+way. ALM handles a variety of tasks, including risk management. It offers a dynamic and all-inclusive
+framework for assessing, tracking, and controlling HFC’s interest rate and liquidity risks, which must
+be tightly coordinated with the HFC's overall business plan. It entails evaluating different kinds of
+risks and dynamically adjusting the asset-liability portfolio to control hazards.
+4.5  Non-banking Financial Companies
+All actions connected to the buying, selling, borrowing, and lending of financial instruments such as
+securities, money market instruments, or derivative instruments are collectively referred to as NBFC
+Treasury Operations. Investment firms and non-bank financial businesses (NBFCs) typically engage
+in these kinds of transactions to satisfy client demands or hedge risk exposures. They occasionally
+engage in the trading of financial instruments, including derivatives, with the goal of profiting from
+changes in market pricing parameters over time, such as interest rates, equities prices, and foreign
+exchange rates. NBFCs oversee and regulate their treasury operations based more on the different
+risks involved than on the specific kind of financial instrument they deal with.
+4.6  Government (Either State or Central)
+The central repository and fundamental unit for the principal ledger of a State Government's financial
+dealings within its districts is the treasury. This is where the government conducts all its cash
+transactions, and  it was developed more than a century ago. Treasuries are used to gather,
+distribute, and account for state resources.
+Every district typically has a single District Treasury, to which one or more sub-treasures may be
+annexed. Certain States, like West Bengal and Kerala, have more than one treasury for each district.
+There are no sub-treasuries in West Bengal.
+Treasuries and Sub-Treasuries are of two types:
+•    Banking Treasuries, where RBI, or its branches or organizations authorized to transact
+     government business, handles the actual receipt or payment of funds.
+•    Non-Banking Treasuries  - these are  treasuries  in which  the Treasury handles  the
+      accounting, as well as the receiving and distribution of funds. In non-banking treasuries, the
+       division of labor between cash handling and accounting is crucial.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+3.26         FOREX AND TREASURY MANAGEMENT
+
+4.6.1 Functions of a Treasury
+Functions of a Treasury can be broadly categorized as under:
+•     Paying claims made against the government on invoices, cheques, or other documents that
+      are presented by departmental Drawing and Disbursing Officers, pensioners, or other
+       individuals with the proper authority.
+•     Receiving funds from citizens and department heads and crediting them to the government.
+•     Maintaining primary and secondary records of  all receipts and payments made to the
+      Treasury and supplying the Accountant General's Office with a comprehensive compilation
+      and consolidation of these statements; acting as a banker for Panchayat institutions, Zilla
+      Parishads, and local government organizations whose funds are kept in the Treasury.
+•     Keeping track of the encashment of cheques against letters of credit (LOC) received by
+       Divisional Officers and Divisional Forest Officers, maintaining accounts of the remittances
+     made by these officers, and providing certificates of Treasury Issues and Consolidated
+      Treasury Receipts to each Division at the end of each month.
+•    Opium and other valuables under custody
+•         If the Treasury is not a bank, custody of the remaining funds.
+4.6.2 Importance of a Treasury
+As a result, the treasury is essential to the execution of government programs and initiatives. The
+State Government and the Accountant General have developed codes, manuals, and administrative
+procedures to ensure their seamless operation. Any deviation by the treasuries from the policies and
+guidelines has a negative impact on the financial accountability process. Furthermore, financial
+administration is carried out by the State Government's treasury, which serves as its foundation.
+It should be underlined that the Treasury must promptly either accept or reject any claim for payment
+or revenue deposit; it is not within its power to hold such claims pending.
+4.7  Reserve Bank of India
+The various departments of RBI are involved in controlling the money in the economy in order the
+keep the Value of the Money and control Inflation in the Economy.
+4.7.1 Internal Debt Management Department
+The main activities of the Internal Debt Management Department include:
+•    Managing the Government’s debt in a risk efficient and cost effective manner;
+•     Providing innovative and practical solutions for government’s debt management;
+•     Building a robust institutional framework of primary dealers (PDs).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+TYPES OF TREASURIES            3.27
+
+Specific functions of the Department include:
+(i)   Government Borrowing: To manage market borrowing programmes of the Government of
+       India (including preparing an issuance calendar in consultation with the Government of India),
+         all State Governments and the Union Territory of Puducherry. The function involves choosing
+      the instrument and tenor, manage the auctioning process and monitoring State and Central
+     cash balances.
+(ii)   Dealing Operations: To interface with the Government securities market for purchasing
+       securities from the secondary market for investment purposes by State Governments under
+     schemes like CSF & GRF and on behalf of foreign central banks. It also monitors movement
+       of yields of Government securities, among other things, and provides necessary feedback to
+     Top Management. It carries out monthly and quarterly analysis of the Government Securities
+         - Secondary market.
+(iii)   Primary Dealers: To enter into agreements with PDs, monitor and review their performance
+      about underwriting and bidding commitments  in primary markets, conduct underwriting
+      auctions and supervise standalone PDs.
+(iv)   Research: To provide policy, analytical and technical input for various committees and
+      conferences including the State Finance Secretaries conference. To also act as the focal point
+       for answering parliamentary questions, queries of the Central Board and Committee of Central
+     Board of the Reserve Bank, research contributions to the Reserve Bank’s, Government of
+       India’s, and other publications.
+(v)   Management Information Systems (MIS): To monitor the data pertaining to Government
+     cash balances, maintain the MIS for the Top Management, provide data for various statutory
+     and internal publications, oversee the technology platform for Government securities auction
+       activities and undertake  analysis.  Also  to undertake  the assessment and  short-term
+       projections of Government cash balances primarily for liquidity management purposes of the
+     Reserve Bank.
+(vi)   Central Debt: To maintain accounting/reporting of public debt management functions. These
+      include formulation of policy and monitoring of Public Debt Offices, which act as depositories
+       of Government securities, as also to maintain and service public debt, administration of
+     Government Securities Act, 2006/Rules 2007 and Public Debt Act, 1944/ Rules 1947
+      wherever applicable.
+4.7.2 Foreign Exchange Department
+The Foreign Exchange Regulation Act, 1973 (FERA) was repealed and a new Act called the Foreign
+Exchange Management Act, 1999 (FEMA) came into force with effect from June 1, 2000. The
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+3.28         FOREX AND TREASURY MANAGEMENT
+
+objective of the new dispensation is to facilitate external trade and payments and promote orderly
+development and smooth conduct of foreign exchange market in India.
+Facilitator of Forex Transactions
+Since the procedures have been simplified and powers have been delegated to the Authorised
+Persons under the FEMA, 1999, the role of the Foreign Exchange Department is minimal so far as
+individual citizens are concerned. Person’s resident in India must simply approach the Authorised
+Persons for their foreign exchange needs.
+Guided by the Current Account Rules notified from time to time by the Government of India and
+Capital Account Regulations notified by the Reserve Bank, the Authorised Persons will facilitate
+foreign exchange transactions of individuals. The Reserve Bank processes only those applications
+which require  its  prior approval under the Foreign Exchange Management (Current Account
+Transactions) Rules and (Capital Account Transactions) Regulations.
+4.7.3 Financial Stability Unit
+Keeping  in view both international and domestic  initiatives  for resolving  financial  crisis and
+strengthening international financial architecture, the Financial Stability Unit (FSU) was set up in
+July 2009. The main functions of FSU are:
+•    Conduct of macro-prudential surveillance of the financial system on an ongoing basis
+•     Preparation of financial stability reports
+•    Development of a database of key variables which could impact financial stability, in co-
+       ordination with the supervisory wings of the Reserve Bank
+•    Development of a time series of a core set of financial indicators
+•    Conduct of systemic stress tests to assess resilience and
+•    Development of models for assessing financial stability
+Following the formation of the Financial Stability and Development Council (FSDC), FSU provides
+the Secretariat to the Sub-Committee of the FSDC which is headed by the Governor. Executive
+Director (in charge of FSU) acts as the Member-Secretary of the FSDC Sub-Committee.
+4.7.4 Financial Markets Regulation Department
+The Financial Markets Regulation Department (FMRD) was set up on November 3, 2014, with a mandate
+to regulate, develop and oversee financial markets. The primary activities of the department include:
+•     Regulation and development of the money, government securities, foreign exchange markets
+     and related derivative markets;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+TYPES OF TREASURIES            3.29
+
+•     Regulation and supervision of financial benchmarks for interest rates and foreign exchange
+      markets;
+•    Development work related to financial market infrastructure for the money, government
+       securities,  foreign exchange markets and  related  derivative  markets,  including  trade
+       repository for over-the-counter(OTC) derivative transactions;
+•     Oversight / surveillance of the money, government securities, foreign exchange markets and
+       related derivative markets; and
+•     Secretarial support to the Technical Advisory Committee on Money, Government Securities
+     and Foreign Exchange Markets and RBI-SEBI Technical Committee on Interest Rate and
+      Currency Futures.
+In addition, a Market Intelligence Cell is proposed to be set up as part of FMRD.
+4.7.5 Financial Markets Operation Department
+Carved out of the Financial Markets Department in November 2014, the Financial Markets Operation
+Department (FMOD) has been entrusted with the responsibility of carrying out market operations
+towards implementing the Reserve Bank’s monetary policy objectives. The Department, on behalf
+of the Reserve Bank, conducts operations in the money, government securities and forex markets.
+As a part of this responsibility, the FMOD also undertakes analysis of various market segments and
+provides inputs to the top management for informed decision-making.
+The specific functions of FMOD include:
+•    Domestic forex market operations (Spot, Forwards and Swaps)
+•      Liquidity Adjustment  Facility (LAF) operations (Repo, Reverse repo, Marginal Standing
+       Facility) including Open Market Operations (Outright sale/purchase of gilts) under liquidity
+     management framework revised in August 2014
+•     Special Market Operations (SMO) for specific purposes
+•     Computation and dissemination of the Reserve Bank's Rupee Reference Rate
+•     Computation of Nominal Effective Exchange Rate (NEER) and Real Effective Exchange Rate
+     (REER)
+•     Issuance and buyback of dated securities under Market Stabilization Scheme (MSS)
+•     Analysis of market developments
+•     Carrying out market-oriented research and analysis
+•     Estimation of liquidity requirement in the banking system
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+3.30         FOREX AND TREASURY MANAGEMENT
+
+•     Providing secretarial assistance to the Financial Markets Committee (FMC) of the Reserve
+     Bank
+•     Coordinating meetings of Early Warning Group (EWG) comprising financial sector regulators
+     and Ministry of Finance
+In addition, the FMOD also attends to policy issues relating to various segments of financial markets,
+fixation of Intra-Day Limits (IDL) limits for operation of Real Time Gross Settlement Accounts and
+attending to references received from other departments of the Reserve Bank, international and
+other regulatory organizations.
+4.7.6 Department of Payment and Settlement Systems
+The Department of Payment and Settlement Systems (DPSS), as a separate department of the
+Reserve Bank, came into existence in March 2005.
+The functions of the Department include:
+•     Policy formulation in respect of payment and settlement systems
+•     Authorization of payment and settlement systems/operators
+•     Regulation of payment and settlement systems
+•     Supervision and monitoring of payment and settlement systems
+•     Laying down standards for payment and settlement systems
+•     Designing, developing, and integrating payment system projects of national importance and /
+       or facilitating such implementation
+•     Implementation of the international principles relating to payment systems as enunciated by
+      the Bank for International Settlements
+The department has four Regional Offices at Chennai, Kolkata, Mumbai, and New Delhi.
+Board for Regulation and Supervision of Payment and Settlement Systems
+The Board for Regulation and Supervision of Payment and Settlement Systems (BPSS) prescribes
+policies relating to the regulation and supervision of all types of payment and settlement systems.
+The BPSS also provides guidance on setting standards for existing as well as future payment
+systems,  authorizing  the payment and  settlement  systems/operators, determine  criteria  for
+membership to these systems, including continuation, termination and rejection of membership.
+BPSS meets once every quarter.
+•    The payment and settlement systems  in India are regulated under the Payment and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+TYPES OF TREASURIES            3.31
+
+      Settlement Systems Act, 2007 (PSS Act). The PSS Act as well as the Payment and Settlement
+     System Regulations, 2008 framed under the Act came into effect from August 12, 2008. In
+      terms of the PSS Act, no person other than the Reserve Bank of India (RBI) can commence
+       or operate a payment system in India unless authorised by the Reserve Bank.
+•    Payment and settlement systems in India includes cheque-based clearing systems, Electronic
+      Clearing Service (ECS) suite, National Electronic Funds Transfer (NEFT) System, electronic
+     payments using debit and credit cards, prepaid payment instruments, mobile banking, internet
+      banking, etc. While Real Time Gross Settlement Systems (RTGS) and Clearing Corporation
+       of India Ltd. (CCIL) constitute financial market infrastructure, National Payments Corporation
+       of India (NPCI) is the umbrella organization for retail payments.
+4.7.7 Department of Government and Bank Accounts
+The Department of Government and Bank Accounts (DGBA) discharges the core central banking
+function of acting as banker to the government and banker to banks.
+More specifically, it,
+•     maintains principal deposit accounts of Central and State Governments at Central Accounts
+      Section of the Reserve Bank of India, Nagpur
+•     grants ways and means advances to Central and State Governments
+•     carries out day-to-day operations by agency bank branches (authorized for this purpose) and
+      Banking Departments at Regional Offices
+•     frames the accounting policy of the Reserve Bank
+•      finalizes the weekly statement of accounts of the Issue and Banking Departments and the
+      annual balance sheet of the Reserve Bank
+•     Attends matters relating to government business, such as appointment of agency banks,
+      paying them commission and overseeing their conducting of government business. Much of
+       this is done in consultation with the government
+•      In its capacity as banker to banks, the Reserve Bank:
+•    opens current accounts of banks with itself, enabling them to maintain statutorily prescribed
+     cash reserves as well as to carry out inter-bank transactions.
+•      effects interbank clearing settlements through these current accounts
+The Department of Government and Bank Accounts (DGBA) also functions as the central office of
+the Banking Departments at Regional Offices.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+3.32         FOREX AND TREASURY MANAGEMENT
+
+4.7.8 Department of External Investments and Operations
+Functions
+•     Investment and management of the foreign currency and gold assets of the Reserve Bank of
+       India;
+•     Handling external transactions on behalf of Government of India (GOI) including transactions
+       relating to International Monetary Fund (IMF);
+•      All policy matters incidental to India's membership of the Asian Clearing Union; and
+Other matters relating to gold policy, membership of the Bank for International Settlements (BIS)
+and bilateral banking arrangements between India and other countries like Russia, bilateral and
+South Asian Association for Regional Cooperation (SAARC) currency swap arrangements.
+4.8 Profit Centre Vs. Non-Profit Treasury
+If the treasury function is set up as a cost center, the department's costs can be attributed to the
+different departments and subsidiaries in a way that is thought to fairly reflect the advantages those
+departments and subsidiaries receive from the treasury department and the use of treasury
+services.
+•        If this isn't feasible, the costs can be treated as head office expenses.
+•      Alternatively,  if income from treasury can be discovered, the treasury function could be
+      created as a profit center.
+Revenues could be recognized as follows:
+(a)   A price for the Treasury’s services based on current market rates could be paid to all other
+       departments/subsidiaries and other head office departments (the total value charged to the
+      group should exceed the Treasury's costs enabling it to show a profit).
+(b)    Treasury may also profit from managing the group's exposure to foreign exchange and
+       interest rate risk. In some cases, treasury department specialists may choose not to hedge
+      group exposure to these risks. The treasury department may benefit  if interest rates, or
+      currency rates move in the company's favor later. However, the treasury would bear the
+       financial burden if these choices led to losses along the road.
+(c)    Deciding not to insure against all interest rate and currency risks. Treasury specialists could
+      choose which risks leaving unhedged in the hopes of profiting from favorable changes in
+       interest rates and currency rates.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+TYPES OF TREASURIES            3.33
+
+(d)   The profits or losses from these transactions may be credited or debited to the treasury
+       function if the treasury department chose to take on extra exchange rate or other risks solely
+      as a speculative activity (for example, writing options on currencies or on shares held). Strict
+      procedures would need to be in place to guarantee that these criteria are followed, and the
+      board must clarify the policy framework under which such speculative trades are carried out.
+Advantages of profit centre
+The following advantages may result from establishing the treasury function as a profit centre:
+(a)   The treasury department could potentially contribute significantly to the overall profit of the
+     company by using the aforementioned measures.
+(b)    Since treasury specialists will now be evaluated based on how they contribute to group profit
+       rather than how much they cost the company, their motivation may increase. This is because
+       the treasury is no longer seen as a cost center.
+Disadvantages of profit centre
+The following are the drawbacks of having a distinct treasury department within a profit center:
+(a)    Should the group be required to gather information on the treasury function's expenses as
+       well as its revenues, this will result in extra administrative costs.
+(a)    Finding a fair price for treasury's services to other departments and subsidiaries is probably
+      going to be difficult.
+(c)   The dangers of conjecture: In actuality, a  lot of treasury functions have encountered
+      problems when speculating in derivatives and have attempted to resolve the issue through
+       trading. There have been some terrible and widely reported losses as a result. The group
+       treasury function must be rigorously overseen by experienced management to guarantee that
+        risk exposure restrictions are met  if  it is to be permitted to engage in such speculative
+        activities.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+3.34         FOREX AND TREASURY MANAGEMENT
+
+         A BRIEF ON ROLE OF ‘TREASURY FUNCTION’ IN CORPORATES
+  The position of the treasurer has come under scrutiny as corporate treasury has emerged as
+   a significant growth engine in worldwide operations. Given the rapid changes in the global
+   business scene, the new age treasurer, as the leader of this crucial and strategic operation
+   within the organization, must exhibit more sophisticated treasury  abilities  in areas  like
+   funding, strategic cash management, and risk management.
+     It is important to recognize the treasury's contribution to the management of the company's
+   short-term assets, including cash, to control its liabilities. The cash management function of
+   the most successful companies and financial service providers in the world uses a lot of
+   resources and treasury intelligence, despite the function being simple.
+   For a business to be healthy, it must be able to convert longer-term assets into short-term,
+   manageable, and convertible assets like cash. If the corporation transfers too much, it could
+   miss out on lucrative investments made in direct commercial ventures, bonds, or savings
+   returns. On the other hand, if the business lacks sufficient cash on hand, it may be penalized
+   for failing to pay short-term obligations.
+  The treasury function oversees the flow of funds across jurisdictions and across the system
+   for multinational corporations. This calls for a high degree of treasury intelligence in order to
+   allocate the appropriate amounts across the various divisions while accounting for the
+   requirement to hold cash  in a centralized system  in order to account  for unforeseen
+   circumstances. To ensure that the business is stable and able to maintain its network, the
+   corporate treasury will collaborate closely with the finance and accounting divisions about the
+   cash management function.
+   Corporate treasury's function has been changing recently, moving from managing financial
+   risk and  liquidity  to taking on a more strategic  role.  Historically, large and mid-sized
+   corporations' corporate treasury has grown dramatically as a result of cost-cutting efforts.
+  You may think of a corporate treasury department as an internal solution for handling an
+   organization's finances. Traditionally, the corporate treasury handles tasks including cash
+  management, planning for liquidity, obtaining funding, and risk management for the company.
+   In addition to the conventional roles of funding long-term growth and financing working
+   capital, which are unlikely to change anytime soon, the treasury is expanding globally into
+   novel areas, such as offering advice to business units and managing credit relations.
+   Investments and funding
+  The corporate treasury department's capacity to effectively invest available cash while
+   ensuring that short-term liabilities are considered is one of the most important performance
+   indicators.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+TYPES OF TREASURIES            3.35
+
+  The treasury will collaborate closely with the finance department of the company to evaluate
+   the investment proposal and the opportunity costs associated with providing funding for the
+   project to determine the expected returns on investment. The treasury may determine after
+   considering alternative options that money would be better spent somewhere else, even if it
+   could be necessary for the day-to-day operations of the business. In this case, a corporate
+   treasury will evaluate all known opportunities and compare them to take advantage of the
+   best profits possible. The company's ability to expand and thrive will depend heavily on having
+   reliable treasury intelligence and evaluating the treasury risk of the proposals.
+  Any organization will conduct rounds of treasury talks with its finance department and other
+   corporate levels to determine which tactics would yield the best values for the company. In
+   this case, the treasury department will compute and determine the best course of action using
+    its understanding of various financial approaches and market intelligence.
+   Corporate treasuries have gradually moved from debt management to capital structure
+  management in response to a complex and rapidly evolving business environment. They have
+   also increased their focus on improving ROE (return on equity) by managing investor relations
+  and maximizing leverage to support long-term growth, in addition to raising long-term equity
+   capital and coordinating cash flows with debt servicing obligations.
+   Risk management
+   Choosing the path to take a company in requires careful consideration of its risk profile. The
+   treasury  is responsible  for making sure that the  risk thresholds  that the C-suite has
+   determined are met by the rest of the company when it comes to exposure levels.
+   Furthermore, based on such risk profiles, the Treasury will make decisions about things like
+   cash levels and exposure to certain investments. The firm's treasurers will evaluate which
+   press exposures need to be increased and which should be decreased in light of that risk
+    profile.
+   Choosing the path to take a company in requires careful consideration of its risk profile. The
+   treasury  is responsible  for making sure that the  risk thresholds  that the C-suite has
+   determined are met by the rest of the company when it comes to exposure levels.
+   Furthermore, based on such risk profiles, the Treasury will make decisions about things like
+   cash levels and exposure to certain investments. The firm's treasurers will evaluate which
+   press exposures need to be increased and which should be decreased in light of that risk
+    profile.
+   Following the global financial crisis, corporations' top priority has also shifted to financial risk
+  management. With the focus of hedging programs changing towards business centricity and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+3.36         FOREX AND TREASURY MANAGEMENT
+
+   internal optimization, the necessity for structured hedging programmes overseen by the
+   boards has multiplied. In the future, corporate treasurers should concentrate on interacting
+   with businesses to offer risk management solutions, maximizing hedging costs, efficiently
+   netting foreign exchange flows, recording hedging transactions, and drafting contracts that
+   transfer FX risk.
+  The treasury function has demonstrated a greater level of involvement in recognizing the
+   inherent risks  in the business model by interacting with the business to develop  risk
+  management solutions and by designating this area as one of the most critical internal priority
+   areas. Most multinational corporations think that having a global treasury setup is essential
+  due to their varied risk exposure across geographies. Establishing a global treasury center
+   offers several advantages, including a wider selection of hedging instruments, access to
+   deeper financial markets, lower working capital financing costs, and fewer regulatory and
+   documentation requirements.
+   Invest their excess cash for a duration of less than six months. The primary factor for short-
+   term investments is liquidity risk, which is followed by credit and market risk. The focus of
+   these investments is on relatively low returns.
+   Financial risk management is still mostly focused on India, though, and Indian businesses do
+   not now envision a central setup. Corporate treasury now plays a bigger part in cross-border
+   operations due to the quickening pace of globalization and the growing internationalization of
+   organizations. Additionally, seamless information exchange between various business units
+    will aid in the management of global cash flows.
+   Foreign exchange
+  Even though it is apparent from the perspective of the multinational organization, the treasury
+  management system is essential to operations. It has become more and more important to
+  be able to control the flow of funds across borders to various business sectors while
+   accounting for currency variations because of recent worldwide business expansion. It's also
+    critical to monitor any potential future fluctuations in foreign exchange values due to a range
+   of variables, including interest rates in other countries.  If cash loses value when crossing
+   borders, it could be costly to perform the foreign exchange function wrongly.
+  The treasury's ability to make appropriate use of foreign exchange functionality is crucial for
+   smaller businesses. In today's global markets, most businesses import and export products
+  and services, so money naturally comes in and goes out in multiple currencies. In this case,
+   the treasury department must not only supply the necessary funds to enable transactions to
+  be completed, but a forward-thinking treasury manager will also understand that opportunities
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+TYPES OF TREASURIES            3.37
+
+   for arbitrage arise when currencies are converted at different rates at different times, rather
+   than always in the company's home currency.
+  One of the main obstacles to effective cash flow management is the volatility of commodity
+  and FX exchange rates. While volatility makes forecasting and managing working capital
+   requirements more challenging, it's essential to be able to continuously assess the impact of
+    volatility by using forecasting and decision support tools. Corporate treasurers are focusing
+  more and more on managing  liquidity  risk brought on by market  volatility. Corporate
+   treasurers should concentrate on maximizing return on  idle excess through improved
+   oversight of idle cash, diversification of the current short-term instrument mix, and pooling of
+   capital across companies and locations.
+  The globalization  of business has brought about a notable transformation  in treasury
+  management,  necessitating  a  decision  on  the  department's  structure:  central  or
+   decentralized. In a centralized setup, one team makes all the major decisions and performs
+    all the group firms' functions on behalf of many locations. In these situations, the organization
+   has a single point of contact for managing things like funds and risk. On the other hand, a
+   decentralized organization delegated decision-making authority to smaller, geographically
+   dispersed groups, with local cash management. Companies gain from decentralized control
+  when  it comes  to  their treasury operations because local management offers several
+   advantages, such as expertise with business, customs, language, and culture.
+   Businesses that expand internationally have seen a notable evolution of the advantages of
+   centralized operations, however, exceed the benefits of dispersed operations. Increased
+   professional treasury knowledge and lower service costs are two benefits of centralized
+   treasury operations. While  it might seem that a totally centralized environment is the best
+   organizational structure for global enterprises, few businesses, particularly in India, choose
+   this path. Many businesses ultimately settle on a hybrid or decentralized structure for
+   pragmatic reasons.
+   Corporate treasurers must overcome several  internal and external obstacles as  their
+   responsibilities grow to live up to rising standards. The primary internal challenges faced by
+   corporate treasurers are a lack of clarity regarding exposures and insufficient control over
+   working capital utilization. Additionally, they face a shortage of qualified talent in the market,
+   laws pertaining to cash pooling, and excessive volatility in the financial markets. In addition,
+   covenant management, matching cash  flows, and  servicing  obligations are important
+   operational problems, as price discovery remains a major worry for corporate treasurers.
+  How then may these issues be resolved?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+3.38         FOREX AND TREASURY MANAGEMENT
+
+   Financial technology
+  The treasury function has been greatly aided by the numerous software products that have
+   entered the market in recent years and promise to assist businesses in making better use of
+   their financial supply chains and treasury systems. Numerous of these systems have
+   improved the treasury capacities of individual companies, but they have also made  it
+   necessary for the department to continuously evaluate the software market in case a new
+   product becomes available that could provide notable competitive benefits.
+   Technology is the solution. Investments in risk modeling, decision support tools, and the
+   automation of treasury processes, as well as the implementation of treasury performance
+  management systems,  will  greatly  contribute  to  the development  of  strong  treasury
+   frameworks, which are essential to preparing corporate treasurers for their new roles. Meeting
+   the expectations can also be achieved by implementing explicit and quantifiable treasury
+   performance measurements at every level of the treasury structure and keeping an eye on
+   the metrics.
+   Future developments in artificial intelligence (AI), robotic analysis, and block chain technology
+    will enhance treasury management systems and propel treasury as a profit center. Although
+   there are still several technological and practical issues to be worked out, block chain has
+   the potential to be the most revolutionary. There will inevitably be more ideas that show
+   promise but don't catch on. It is probable that artificial intelligence (AI) will mostly assist in
+   automating monotonous and repetitive operations, identifying irregularities  in trade and
+   payments, and identifying behavioral patterns that enhance the accuracy of future forecasting
+   assumptions. The ability of AI to self-correct by drawing on the relative successes and failures
+   of previous decisions is another benefit.
+   Technology has shown itself to be the enabler in the modern era for changing the treasury
+   department's economics. For a long time, the main concern with any strategy to turn treasury
+   from a cost center to a profit center was whether it was realistic. The challenge became less
+   intimidating with the introduction of the Treasury Management System, providing an answer
+   to the query. Treasury has successfully merged with other organizational divisions, and
+   thanks to ever-improving technology, the question now becomes "how" rather than "if" it can
+  be achieved profitably.
+   Financial supply chain
+  The company's corporate treasury, which  it depends on for the seamless transfer of those
+  money via  its network,  will inevitably make decisions regarding how to handle  its cash
+   throughout its supply chain.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+TYPES OF TREASURIES            3.39
+
+  A substantial body of scholarly literature has been produced on supply chain management,
+  and the literature on money transfers has grown in importance as well.  It is commonly
+   believed that a treasury department's ability to transfer money easily, quickly, and at the C-
+   suite's discretion when business models and economic conditions shift is essential to the
+   success of the company. The treasury department can move money around with the help of
+  numerous computerized programs, but a subjective assessment of the company's short- and
+   long-term financial needs still heavily relies on human contact.
+  The future of corporate treasury management is set to transform into more of a strategic role
+   for organizations, in addition to managing financial risk management and maintenance of
+    liquidity.  Future  corporate  treasury   is  expected  to  function  under  a  three-tiered
+   structure:  First, the strategic role where the key focus will be enhancement of shareholder
+   value by long-term funding and strategic investments in surpluses increase the overall ROE,
+   maintaining relationships with different stakeholders like investors and institutions; second
+   the management role which  is further divided into financial risk management including
+   currency, interest rate, credit, counter-party risk management; and  financial supply chain
+  management which comprises of cash and liquidity management and finally the operational
+   role which includes the treasury operations.
+   In their new strategic role, corporate treasurers must brace themselves to transform their
+   roles to become advisors to business on the potential economic risks, which, in turn, can
+   impact the business value chain. In India, organizations are regrouping themselves to meet
+   the global best practices by making decision-making more central and using more complex
+   ecosystems  like technology  platforms and using a seamless  interface  for managing
+   transactions and reporting requirements.
+   Regulation
+   Ensuring that the company is in line with regulations is a key function for the corporate
+   treasury, given how active  it needs to be in various markets and  its responsibilities for
+   corporate finances.
+   With the avalanche of regulations that have hit financial markets since the global recession
+  and subsequent attempt by regulators to tighten those markets, the task of the treasurer to
+   keep abreast of regulatory developments has become burdensome. With Europe’s second
+   Markets in Financial Instruments Directive (MiFID  II) for instance, and more recently the
+   General Data Protection Regulation (GDPR), both of which have ramifications for firms across
+   the globe, treasurers have much to keep up with.    (Source: global.treasurer.com)
+   Treasury management systems haven't been the only enabler. Regulatory  authorities'
+   growing scrutiny of tax havens and the practice of global transfer pricing is also a driver in
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+3.40         FOREX AND TREASURY MANAGEMENT
+
+   helping treasury cast off its reputation as a cost center. The in-house bank becomes an
+   attractive proposition when it can provide services for the company and be compensated for
+   them. Transfer pricing's arm's length policies limit the charges to somewhat below market
+   rates, but a central treasury platform also offers benefits  for treasury  in terms of tax
+   optimization, helping profit and loss and assisting intercompany transfers to reduce exposure
+   to tax.
+   Looking to the future, expect solid analytics to firmly be a major part of the treasury’s toolkit
+    in taking control of banking fees, pricing and spreads, as well as identifying areas where they
+   can demand improvement. Investment is needed in bank fee analysis  if fees are to be
+   controlled. System providers are already working on using analytics to provide traders with
+   the lowest-cost method  of trade execution through scenarios  that assess the optimal
+   combination of broker, exchange and clearing house. This is arrived at by assessing physical
+   costs and the impact of the trade on initial margin calculations.
+  CHECK LIST OF TREASURY FUNCTION:
+  The main objective of the treasury department is to manage an organization's LIQUIDITY. It
+    is vital to closely monitor both present and anticipated cash inflows and outflows to ensure
+   that there is sufficient funds to sustain business operations and that any excess cash is
+   invested sensibly. The TREASURER is required to use great caution in order to ensure that
+   the assets that are currently in place are safeguarded through the use of safe investment and
+  hedge techniques.
+  To accomplish its mission, the treasury department must engage in the following activities:
+   •    Cash forecasting- Gather data from many areas of the business to generate a
+         continuous cash forecast. The accounting records, the budget, the capital budget, the
+         board minutes (about dividend payments), and even the CEO (about costs associated
+          with acquisitions and divestitures) may have this information.
+   •    Working capital monitoring- Examine the company's working capital policies and
+          simulate how they will affect cash flows. For instance, looser credit leads to a higher
+         cash-consuming investment in ACCOUNTS RECEIVABLE.
+   •    Cash Concentration: Establish a mechanism to direct funds into a single investment
+         account so they can be used there for the best possible returns. Using CASH SWEEPS
+          or NOTIONAL POOLING may be necessary in this situation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+TYPES OF TREASURIES            3.41
+
+   •     Investments: Apply the company's investment policy to allocate surplus funds to
+           different kinds of investments based on the investments' rates of return and the speed
+           at which proceeds can be cashed out.
+   •     Grant  credit: Granting  credit  to  clients  entails overseeing  the  guidelines  that
+         determine whether CREDIT TERMS are authorized.
+   •    Fund raising: Ascertain when more money is needed, and raise money by selling
+          stock, acquiring debt, or making policy changes that affect how much working capital
+            is needed to operate the company.
+   •     Risk management: To lower risk associated with changes in asset values, interest
+           rates, and foreign currency holdings, use a variety of hedging and netting techniques.
+   •     Relationships with credit rating agencies:  If any  credit  rating agencies are
+         assigning ratings to the company for  its marketable debt issuances, keep them
+         updated on the company's financial performance and state.
+   •    Bank relations: Ensure that the company's lenders are informed of  its financial
+           situation, projections, and any upcoming changes to its borrowing requirements. The
+         conversation might also cover the several services the banks offer the business, such
+          wire transfers, payments, LOCKBOXES, and so on.
+   •      IT systems: To obtain data on cash holdings, forecasts, market circumstances, and
+          other topics, the department keeps TREASURY WORKSTATIONS up to date.
+   •     Reporting: The treasurer reports to the senior management team on a variety of
+           topics, including funding concerns, investment returns, risks associated with cash, and
+         market circumstances.
+   •     Mergers and acquisitions: The department might be asked to integrate the treasury
+         operations of an acquiree and offer advice on the company's acquisition activities.
+  As a result, Treasury is moving from being a Cost Center to a Center for Value Creation for
+   the Corporate.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+3.42         FOREX AND TREASURY MANAGEMENT
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    The Bank’s balance sheet is funded not only by deposits, but also by,
+       (a)   Assistance from Head Office
+       (b)   Help from RBI
+       (c)   Market borrowings
+       (d)    Contributions from pee banks
+2.     Inter-day limit will generally be bigger than overnight limit because,
+       (a)   The systems are shut down during night times
+       (b)   Dealers will be absent during night times
+       (c)    Volatility is more during night times
+       (d)   The dealers can cover the deals in active day-time markets
+3.    The accreditation of forex brokers is done by,
+       (a)   Banks’ Head offices
+       (b)    International Divisions
+       (c)    Brokers’ Associations
+       (d)   FEDAI
+Theoretical Questions
+1.   How does securitization increase liquidity?
+2.    Explain the objects of CDR mechanism. Also, discuss briefly the three tier structure of CDR
+     mechanism.
+3.   Why is Asset Liability Management the key to the success of a bank?
+4.    What are the various ways to manage foreign exchange risk?
+5.    What are the advantages of creating a treasury as a profit centre?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+TYPES OF TREASURIES            3.43
+
+ANSWERS/SOLUTIONS
+Answer to Multiple Choice Questions
+    1.        (c)        2.        (d)        3.        (d)
+
+Answers to Theoretical Questions
+1.    Please refer to paragraph 3.6
+2.    Please refer to paragraph 2.4
+3.    Please refer to paragraph 3.7
+4.    Please refer to paragraph 2.2.2
+5.    Please refer to paragraph 4.8
+
+
+© The Institute of Chartered Accountants of India

@@ -1,0 +1,931 @@
+Source PDF: 05_Indirect_Tax_Laws/013 - Chapter 7- Refund - 76078bos61477-m4-cp7.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\05_Indirect_Tax_Laws\013 - Chapter 7- Refund - 76078bos61477-m4-cp7.pdf
+Extracted at: 2026-05-31T10:25:17+05:30
+Pages: 24
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER         7
+
+
+REFUND
+
+
+                   LEARNING OUTCOMES
+
+After studying this chapter, you would be able to:
+
+    understand and analyze the manner in which application for
+    refund of import duty or interest is to be made.
+
+    comprehend the manner of processing of refund claim.
+
+    compute the amount of interest payable on delayed refund.
+
+     identify the cases in which refund of import duty/ export duty
+      is made.
+
+    analyse and  apply  the  principle  of  doctrine  of  unjust
+    enrichment with respect to refund of duty.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+1.2      7.2        CUSTOMS & FTP
+
+
+                             Doctrine  of  Applicatio                                       Refund     Refund                              unjust          Interest n       for   Processing                              of export   of import                           enrichment   on  refund  of   of  refund                            duty    in   duty    in                            with respect   delayed  duty    or   claim                                      certain      certain                             to refund of   refund  interest                                                cases       cases                           duty
+
+
+    1.  INTRODUCTION
+Sometimes customs duty is found to have been paid in excess of what was
+actually leviable on the goods. This may happen for various reasons, like error
+or lack of information. In such cases, refund of excess amount of duty paid can
+be claimed. Refund of any excess interest paid by the importer/exporter can also
+be claimed.
+Refund of IGST paid on goods exported – If goods are exported on payment
+of IGST, refund of IGST paid on such goods exported  is given by Customs
+department. However, if goods are exported without payment of IGST, refund
+of corresponding input tax credit is granted by GST Officers.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+REFUND    1.31        7.3
+
+    2. APPLICATION FOR REFUND OF DUTY OR
+      INTEREST [SECTION 27]
+Person who can claim refund of duty / interest: The claim for refund of duty
+or interest can be made by
+(i)    the person who paid the duty or interest in excess; or
+(ii)   the person who bore the incidence of such duty or interest.
+Application for refund to be made in proper form and manner: The claim for
+refund of any duty or interest paid or borne by the claimant must be made in
+such form or manner as may be prescribed.
+Application for refund to be filed within one year: A claim by the importer /
+exporter for refund of duty / interest, must be made before the
+expiry of one year from the date of payment of such duty or
+interest [Section 27(1)].
+A claim by another person, from whom duty was collected, must be made before
+expiry of one year from the date of purchase of the goods [Explanation to
+Section 27(1)].
+Other situations require computation of one year as follows:
+ Event                                 Limitation of one year to be
+                                 computed from the
+ Exemption of duty by a special order  Date  of  issue  of  such  order
+ issued under section 25(2)                [Section 27(1B)(a)]
+ Refund of duty arising as a consequence  Date of such judgment, decree,
+ of  any  judgment,  decree,  order  or  order   or   direction   [Section
+ direction  of  the  appellate  authority,  27(1B)(b)]
+ Appellate Tribunal or any court
+ Provisional  payment  of  duty  under  Date of adjustment of duty after
+ section 18                              the final assessment, or in case of
+                                         re-assessment, from the date of
+                                       such   re-assessment    [Section
+                                                27(1B)(c)].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+1.4      7.4        CUSTOMS & FTP
+
+No limitation in case of duty paid under protest: The limitation of one year
+shall not apply where any duty or interest has been paid
+under protest. Hence, in case of duty/interest paid under
+protest, refund claim may be filed without any time-limit
+[Section 27(1) second proviso].
+Minimum amount of refund: Where the amount
+claimed is less than ` 100, it will not be refunded.  Minimum Refund
+                                           `In other words, refund will be granted only when    –                                       100 or more
+the duty amount involved  is R`s 100 or more
+[Section 27(1) third proviso)].
+Documentary evidence to be furnished to prove that incidence of the
+duty/interest for which refund claim has been filed is not passed on to any
+other person
+Refund application must be accompanied by documentary or other evidence
+(including  the  documents,  like  invoice,
+referred to in section 28C to establish that
+the amount of duty or interest, in relation to
+which such refund is claimed, was collected
+from or paid by him, and that the incidence of such duty or interest has not
+been passed on by him to any other person [Section 27(1A)].
+(It must be noted that Section 28D creates a statutory presumption that the
+incidence of duty has been passed on to the buyer, unless the contrary is proved.
+The documents enclosed to the refund claim must refute this presumption.
+Please see the section on unjust enrichment, later in this chapter.)
+
+    3.  PROCESSING OF REFUND CLAIM [SECTION 27(2)]
+The application of refund, if found to be complete in all respects by Customs, is
+processed to see if the whole or any part of the duty and interest paid by the
+applicant is refundable. In case the whole or any part of the duty and interest is
+found to be refundable, an order for refund is passed.
+However, in view of the provisions of unjust enrichment (see below) enshrined
+in the Customs Act, the amount found refundable has to be transferred/credited
+to the Consumer Welfare Fund.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+REFUND    1.51        7.5
+
+Only in following situations, the amount of duty and interest found refundable,
+instead of being credited to the Consumer Welfare Fund, is to be paid to the
+applicant:
+(a)     if the importer or the exporter, as the case
+    may be, has not passed on the incidence of
+     such duty and interest to any other person;
+(b)     if imports were made by an individual for his
+     personal use;
+(c)     if the buyer who has borne the duty and interest, has not passed on the
+     incidence of such duty and interest to any other person;
+(d)     if amount found refundable relates to export duty paid on goods which has
+     returned to exporter as specified in section 26;
+(e)     if amount relates to drawback of duty payable under section 74 and 75;
+(f)      if the duty or interest was borne by a class of applicants which has been
+      notified for such purpose in the Official Gazette by the Central Government.
+(g)     if the duty paid  in excess by the importer before an order permitting
+     clearance of goods for home consumption is made where—
+         (i)   such excess payment of duty is evident from the bill of entry in the case
+           of self-assessed bill of entry; or
+         (ii)   the duty actually payable is reflected in the reassessed bill of entry in
+           the case of reassessment.
+
+    4. DOCTRINE OF UNJUST ENRICHMENT WITH
+      RESPECT TO REFUND OF DUTY
+Meaning of unjust enrichment
+When an importer imports goods, he has to pay the customs duty on such
+goods. Similarly, in case of export goods, if the same are leviable to export duty,
+the exporter pays the export duty. This duty is
+recovered  from  the  purchasers when  the
+goods are sold by the importer or exporter, as
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+1.6      7.6        CUSTOMS & FTP
+
+the case may be. In other words, the incidence
+or burden of duty is passed on to the purchaser,
+from whom the importer or exporter collects the
+customs duty. Subsequently,  if the importer or
+exporter makes a claim for refund of duty (due
+to excess payment) and receives the refund from
+the government, he would be called to have
+enriched himself as he collected the duty from
+his customer also and also as refund from the government. Such enrichment is
+referred to as ‘unjust enrichment’.
+Accordingly, the doctrine of ‘unjust enrichment’ implies that no person should
+enrich himself at the cost of others.
+Therefore, wherever there is excess collection of duty, the refund is to be given
+only to the person who has borne the burden of duty and interest, if any. When
+the person who applies for refund is not the person who has borne the burden
+of duty, the refund is paid into a fund called 'Consumer Welfare Fund'. Therefore,
+it is noteworthy that even the customs authorities are not entitled to retain the
+excess payments of duty merely because the refund cannot be given to the
+applicant as he has passed on the incidence.
+In terms of Section 27, the importer or his agent, or the buyer who has been
+charged the duty by the importer, has to prove that he has not passed the
+                            burden of duty to another person, in order to
+                           be given refund of duty. Section 28D creates a
+                                 statutory presumption that he did pass on the
+burden of duty; this presumption has to be refuted by proving the contrary. If
+he succeeds in this, the claimant is given the refund in terms of Section 27(2),
+clause (a) for the importer and clause (c) for the buyer.
+          (1) The importer has imported an  article, which has been valued at
+     `1,000. The customs duty on this article comes to `250. Now the importer
+         adds  his  profit  margin  of  say ` 250  and  sells  the  article  for
+` 1,500. Now the price charged by the importer consists of the duty element which
+has been passed on to the buyer.
+If later on it is found that there was an error resulting in excess payment of duty, such
+excess duty is liable to be refunded. But as may be seen above, the importer has
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+REFUND    1.71        7.7
+
+already collected the duty from the purchaser and if any refund is granted to him, it
+would confer on him a double benefit to which he does not have a valid right.
+Therefore, in such cases the refund is credited to the “Consumer Welfare Fund”.
+The landmark judgment on refund is by a Nine Member Bench of the Supreme
+Court in Mafatlal Industries Ltd. v. U.O.I.-[1997 (89) E.L.T. 247]. Though the
+judgment is from the erstwhile Central Excise laws, the principles laid down in
+this judgement are applicable to all indirect tax laws. The principles laid down
+in this judgment can be summarised as under:
+a.   The theory of unjust enrichment is valid and constitutional. However, the
+     theory that, conversely, the manufacturer would be unjustly impoverished in
+     case of demands has not been agreed to.
+b.    Section 27 (Customs Act) is self contained code for refunds; resort to civil
+      suits or writs is not permissible unless the taxing provision is struck down as
+      unconstitutional. The general theory laid down in certain judgments of both
+     the Supreme Court and High Courts that refund could be claimed within three
+      years of discovery of mistake has been disapproved.
+c.    Unless the levy is struck down as unconstitutional, all Courts must exercise
+      jurisdiction in terms of section 11B of the Central Excise Act, 1944 and refuse
+      to grant relief if the incidence of tax has been passed on.
+d.   Whatever amount is collected as duty will have to paid to the Government. If
+     excess is collected than that payable, it would be credited to the Consumer
+     Welfare Fund or given as refund to the person who has borne the incidence
+      of duty.
+Further, the Supreme Court in the case of CCE v. Allied Photographics 2004 (166)
+ELT 3 has held that doctrine of unjust enrichment applies even when duty is paid
+under protest.  It has been held that even if there is no change in price before
+and after assessment (i.e. before and after imposition of duty), it does not lead
+to the inevitable conclusion that incidence of duty has been passed on to the
+buyer, as such uniformity may be due to various factors.
+Exceptions to the Doctrine of Unjust Enrichment
+As seen above, clauses (a) and (c) of sub-section (2) of section 27 provide that
+a refund may be paid to the applicant if the said applicant proves that he did
+not pass on the incidence of duty to another person. Sub-section (2) also
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+1.8      7.8        CUSTOMS & FTP
+
+provides for certain exceptions to the doctrine of unjust enrichment. In these
+exceptions refund of duty and interest may be paid to the applicant  if such
+amount is relatable to:
+♦   drawback of duty payable under sections 74 and 75;
+♦    export duty as specified in section 26;
+♦    the duty and interest on imports made by an individual for his personal use;
+♦    the duty and interest borne by any other such class of applicants as the
+      Central Government may, by notification in the Official Gazette, specify.
+     However, no notification shall be issued unless in the opinion of the Central
+     Government the incidence of duty and interest has not been passed on by
+     the persons concerned to any other person.
+♦    the duty paid in excess by the importer before an order permitting clearance
+      of goods for home consumption is made where
+         (i)   such excess payment of duty is evident from the bill of entry in the case
+           of self-assessed bill of entry; or
+         (ii)   the duty actually payable is reflected in the reassessed bill of entry in
+           the case of reassessment.
+Illustration 1
+State briefly with reference to the provisions of section 27 of the Customs Act, 1962
+whether the principle of “unjust enrichment” will apply in case of refund of excess
+duty paid on car imported for personal use?
+Answer
+The bar of unjust enrichment applies in case of refund of customs duty under
+section 27(2) of the Customs Act, 1962.
+The principle of unjust enrichment will not apply to refund of duty on car
+imported for personal use, as clause (b) of the proviso to sub-section (2) of
+section 27 of the Customs Act, 1962 stipulates that in case of imports made by
+an individual for his personal use, the refund should not be credited to consumer
+welfare fund, but shall be paid to the applicant.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+REFUND    1.91        7.9
+
+    5.  INTEREST ON DELAYED REFUND [SECTION 27A]
+The Customs has to finalize refund claims without delay upon
+receipt of the refund application in proper form along-with all
+the documents. In case any duty ordered to be refunded to
+an applicant  is not refunded within 3 months from the date of receipt of
+application for refund, interest is to be paid to the applicant. The government is
+permitted to fix such interest between 5% and 30%.
+Currently, the rate of interest is 6% vide Notification No. 75/2003-Cus (NT)
+dated 12.09.2003.
+The interest is to be paid for the period beginning from the date immediately
+after the expiry of 3 months from the date of receipt of such application, till the
+date of refund of such duty. For the purpose of payment of interest, the
+application is deemed to have been received on the date on which a complete
+application, as acknowledged by the proper officer of Customs, has been made.
+Where any order of refund is made by the Commissioner (Appeals), Appellate
+Tribunal, National Tax Tribunal or any Court against an order of the Assistant
+Commissioner/Deputy Commissioner of Customs, the order passed by the
+Commissioner (Appeals), Appellate Tribunal, National Tax Tribunal or by the
+Court, as the case may be is deemed to be an order for the purpose of payment
+of interest on delayed refund. In other words, in cases where no refund claim
+has been made,  if a refund results from an order passed by the appellate
+authorities mentioned above or by a court of law, refund is to be paid within 3
+months of the order, and interest will be payable after that.
+The interest on delayed refund is payable only in respect of delayed refunds of
+Customs duty and no interest is payable in respect of deposits such as deposits
+for project imports, security for provisional release of goods etc.
+
+    6. REFUND OF EXPORT DUTY IN CERTAIN
+      CASES [SECTION 26]
+Where export duty has been paid on the exportation of any goods, such duty
+shall be refunded to the person by whom or on whose behalf it was paid, if -
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+1.10    7.10        CUSTOMS & FTP
+
+(a)   the goods are returned to such person otherwise than by way of re-sale;
+(b)   the goods are re-imported within one year from the date of exportation; and
+(c)   an application for refund of such duty is made before the expiry of six months
+     from the date on which the proper officer makes an order for the clearance
+      of the goods.
+This provision compensates the export duty in a situation where the goods
+which are exported are rejected and returned by the buyer.
+
+    7. REFUND OF IMPORT DUTY IN CERTAIN
+      CASES [SECTION 26A]
+Section 26A provides that the import duty paid on clearance of imported goods
+for home consumption shall be refunded to the person who has paid such duty
+subject to the fulfillment of the following conditions:
+(a)  Goods are defective/not as per specifications: The goods are found to be
+      defective or otherwise not in conformity with the specifications agreed upon
+     between the importer and the supplier of goods. However, the goods should
+     not have been worked upon, repaired or used after importation except where
+     such use was indispensable to discover the defects or non-conformity with
+     the specifications;
+(b)  Goods identified as imported goods: The goods are identified to the
+      satisfaction  of  the  Assistant  Commissioner  of  Customs  or  Deputy
+     Commissioner of Customs as the goods which were imported;
+(c)  No drawback claimed: The importer does not claim drawback under any
+     other provisions of this Act; and
+(d)  Importer exports the goods/relinquishes  title to goods/destroys or
+     renders them commercially valueless
+         (i)    the goods are exported; or
+         (ii)   the importer relinquishes his title to the goods and abandons them to
+          customs; or
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+REFUND    1.111        7.11
+
+         (iii)  such goods are destroyed or rendered commercially valueless in the
+          presence of the proper officer
+      in the prescribed manner within 30 days from the date on which the proper
+      officer makes an order for the clearance of imported goods for home
+     consumption under section 47.  However, the period of 30 days may, on
+      sufficient   cause   being   shown,  be   extended  by   the   Principal
+     Commissioner/Commissioner of Customs  for a period not exceeding 3
+     months.
+    Goods in respect of which offence has been committed: It may be noted
+      that the provisions of this section do not apply to the goods regarding which
+     an offence appears to have been committed under this Act or any other law
+      for the time being in force.
+     Application for refund of import duty: An application for refund of duty
+      shall be made before the expiry of 6 months from the relevant date in such
+     form and in such manner as may be prescribed [sub-section 2].
+    Meaning of relevant date: Explanation to sub-section (2) provides the relevant
+     dates in various circumstances as under:-
+      S.No.  Case                    Relevant date
+        1.       In  case  the  goods  are  Date on which the proper officer
+             exported out of India      makes   an   order   permitting
+                                         clearance and loading of goods for
+                                         exportation under section 51
+        2.       In case of relinquishment  Date of such relinquishment
+               of title to the goods
+        3.       In case  of goods being  Date   of  such   destruction   or
+             destroyed  or  rendered  rendering of goods commercially
+             commercially valueless     valueless
+    No refund in case of perishable goods: In respect of perishable goods and
+     goods which have exceeded their shelf life or their recommended storage-
+     before-use period, the refund shall not be allowed [Sub-section (3)].
+     The Board may, by notification in the Official Gazette, specify any other
+     condition subject to which the refund may be allowed [Sub-section (4)].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+1.12    7.12        CUSTOMS & FTP
+
+    8. REFUND CLAIM CANNOT BE A SUBSTITUTE
+     FOR APPEAL
+The Customs Act, 1962 has separate provisions and timelines for filing appeal
+against an order passed by a customs officer. Appeal to the Commissioner
+(Appeals) is to be made within 60 days of receipt of the order against which the
+person is aggrieved. On the other hand, a refund claim can be filed within one
+year from the date of payment of duty or clearance of goods or such other event
+as specified in section 27. However, a refund claim cannot be a substitute for an
+appeal.
+In the case of Priya Blue Industries Limited, 2004 (172) ELT 145 (SC), duty was
+assessed on the imported item and the importer paid the duty under protest.
+Thereafter, the importer filed a claim for refund of the duty. In this matter the
+Supreme Court ruled that, “Once an Order of Assessment is passed the duty
+would be payable as per that order. Unless that order of assessment has been
+reviewed under Section 28 and/or modified in an Appeal that Order stands. So
+long as the Order of Assessment stands the duty would be payable as per that
+Order of Assessment. A refund claim is not an Appeal proceeding. The Officer
+considering a refund claim cannot sit in Appeal over an assessment made by a
+competent Officer. The Officer considering the refund claim cannot also review
+an assessment order.”
+In view of the above ruling of the Supreme Court, refund claims based on
+challenge to an order of assessment are liable to be rejected.
+Important Judgments on Refund
+ Refund claim cannot be a substitute for  Priya Blue Industries Limited v CCus,
+ appeal                              2004 (172) ELT 145(SC)
+ Refund claim cannot be filed by the CH  Jaswant  b. Shah  v. CC 1996 (81)
+ agent in his own name, without power of   E.L.T. 669 (Tribunal)
+ attorney
+ Burden of proof that incidence of duty  Banmore Foam v. CCE 2006 (193)
+ has not been passed on to consumers is  ELT 112 (Tribunal-Delhi)
+ on assessee.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+REFUND    1.131        7.13
+
+  Interest on delayed refund is payable at  CCus. v Consolidated Solvents and
+ the rates as applicable time to time and  Chemical Corporation (2009) 243
+ not at the rate applicable on day when  ELT 625 (Tri.)
+ refund was due.
+  It has been held that appeal is required  ITC Limited v CCE, 2019 (368) ELT
+ to be filed and not refund claim, even in  216 (SC)
+ respect of self assessment.
+
+       LET US RECAPITULATE
+
+Eligible person to claim refund of duty/interest
+
+                         Eligible person for claiming refund
+                              of duty/interest
+
+              Person who has paid in       Person who bore the
+                     excess                   incidence
+Time limit for filing refund
+
+        Normal case
+                                •1 year
+
+
+   Duty paid under protest
+                          •No time limit
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+1.14    7.14        CUSTOMS & FTP
+
+Minimum amount of Refund
+
+                              •` 100 Minimum amount of refund
+
+
+  Amount claimed less than   •No refund
+            ` 100
+
+
+Doctrine of unjust enrichment
+
+
+                        Amount refundable to be credited to Consumer
+                                             Welfare Fund
+
+
+                                            Statutory presumption
+
+
+                              Only in specified situations-amount paid to
+                                                  applicant
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+REFUND    1.151        7.15
+
+Situations where refundable amount is paid to the applicant instead of
+being credited to Consumer Welfare Fund
+           •If importer/exporter has not passed on incidence of duty/interest to other
+  1     person
+        •Buyer who has borne the duty has not passed on incidence of duty/interest
+  2     to other person
+
+        •Imports for personal use  3
+
+        •Export duty paid on goods returned to exporter  4
+
+       •Drawback of duty  5
+
+         •Duty/interest borne by notified applicant  6
+
+        •Duty paid  in excess by importer before order  for clearance  of home
+  7    consumption evident from bill of entry/reassessed bill of entry.
+
+Interest on delayed refund
+
+
+       Rate of interest                         •6%
+
+
+                              •Beginning from the date immediately
+                                     after the expiry of 3 months from the
+        Time Period          date of receipt of refund application, till
+                                the date of refund
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+1.16    7.16        CUSTOMS & FTP
+
+Refund of export duty in certain cases [Section 26]
+
+
+           Goods returned otherwise by re sale
+
+
+             Goods re-imported within 1 year from date of export
+
+
+              Application made before expiry of 6 months from date on which
+             proper officer makes an order for clearance of goods
+
+Refund of import duty in certain cases [Section 26A]
+
+                               Application for
+         Conditions              refund of        No Refund
+                              import duty
+
+           Goods                  before the                                                             Perishable             defective/not  as        expiry of 6                                                    goods            per specifications      months from
+                                    the relevant
+                                      date           Goods  identified
+             as      imported
+           goods
+
+         No    drawback
+            claimed
+
+             Importer exports the goods/relinquishes title to
+            goods/destroys or renders them commercially
+              valueless
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+REFUND    1.171        7.17
+
+Meaning of relevant date
+
+ S.No.  Case                    Relevant date
+ 1.     Goods  exported  out  of  Date on which proper officer makes
+         India                    an  order  for  exportation  under
+                                    section 51
+ 2.     Relinquishment of title to  Date of such relinquishment
+       goods
+ 3.     Goods being destroyed or  Date of such destruction/rendering
+        rendered   commercially  of goods commercially valueless
+         valueless
+
+     TEST YOUR KNOWLEDGE
+1.    Explain the provisions  of Customs  Act, 1962 relating to computation  of
+      limitation for submission of refund application.
+2.    M/s. HIL imports copper concentrate from different suppliers.  At the time of
+      import, the seller issues a provisional invoice and the goods are provisionally
+      assessed under section 18 of the Customs Act, 1962 based on the invoice. When
+      the final invoice is raised, based on the price prevalent in the London Metal
+     Exchange on a predetermined date as agreed in the contract between the buyer
+     and seller, the assessments are finalized on the basis of the price in such
+      invoices.
+     M/s HIL has filed a refund claim arising out of the finalization of the bill of
+      entry by the authorities. The Department, however, has rejected the refund
+     claim on the grounds of unjust enrichment. Discuss whether the action of the
+     department is correct in law?
+3.   XYZ Ltd imported capital goods and used them in its factory to produce goods
+      for sale. Upon discovery of an error by which excess import duty had been paid
+     on the said capital goods,  it  filed a claim for refund. As regards unjust
+     enrichment, it contended -
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+1.18    7.18        CUSTOMS & FTP
+
+      •     that the capital goods were not sold and hence the principle of unjust
+          enrichment will not apply to the refund of import duty paid on capital
+           goods; and
+      •     that in any case the price of the finished goods manufactured in the
+            factory remained the same before and after the import and installation
+            of the capital goods, which is sufficient proof to establish that duty burden
+          has not been passed on.
+     Examine the merits of these contentions, with the support of case law, if any.
+4.    Section 26A of Customs Act, 1962 provides for refund of import duty paid if
+     goods are found defective or not as per specifications. Discuss the conditions
+     governing such refund in brief.
+5.   What is the minimum monetary limit prescribed in the Customs law below
+     which no refund shall be granted?
+6.    Explain the doctrine of unjust enrichment with respect to refund of duty.
+7.   Acme Sales’ imports were being provisionally assessed pending a verification
+      that the department was carrying out. Upon completion of the verification, the
+     assessments were finalized, and Acme Sales was asked to pay `12 lakh, which
+         it paid. After six months, upon detailed scrutiny of the verification report and
+      taking  legal  opinion  on   it, Acme  Sales  filed  a  claim  for  refund  of
+   `8 lakh on the ground that the differential amount should be `4 lakh only and
+      that there were factual errors in the verification report. Was this the correct
+    mode of redressal for Acme Sales? What will be likely outcome of the claim?
+      Discuss on the basis of case law on the subject.
+8.    Mr. N has, over three consignments of 200, 400 and 400 units, imported a total
+      of 1000 units of an article "ZEP", which has been valued at ` 1,150 per unit.
+     The customs duty on this article has been assessed ` 250 per unit. He adds his
+       profit margin ` 350 per unit and sells the article for ` 1,750 per unit.
+      After one month of selling the entire consignment of article "ZEP", Mr. N found
+      that there had been an error in payment of amount of duty, in which duty for
+      the consignment of 200 units was paid as if it was 400 units, resulting in excess
+     payment   of   duty.   Mr.  N    files  an   application   for   refund   for
+   ` 50,000 (200 X 250). Is the bar of unjust enrichment attracted?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+REFUND    1.191        7.19
+
+9.    Explain the relevant dates as provided in section 26A(2) of the Customs Act,
+     1962 for purpose of refund of duty under specified circumstances, namely:
+         (i)   goods exported out of India
+         (ii)   relinquishment of title to goods
+         (iii)  goods destroyed or rendered valueless.
+10.   Explain whether refund of import duty is allowed in case of perishable goods?
+11.   Briefly explain whether interest is paid to the applicant in case of delayed
+     refund by Customs Authorities? If yes, also explain the period for computation
+      of interest?
+
+    ANSWERS/HINTS
+
+1.   According to section 27(1) of the Customs Act, 1962, a refund claim should
+     be lodged before the expiry of one year from the date of payment of such
+     duty or interest. The period of limitation of one year should be computed in
+     the following manner:
+       (a)     If the refund claim is lodged by the importer, the time limit should be
+           calculated from the date of payment of duty.
+      (b)     If the refund claim is lodged by the buyer of imported goods, the time
+             limit should be calculated from the date of purchase of goods.
+       (c)   In case of goods which are exempt from payment of duty by an ad-hoc
+          exemption, the limitation of one year should be computed from the
+          date of issue of such exemption order.
+      (d)  Where any duty is paid provisionally, the time limit should be computed
+          from the date of adjustment of duty after the final assessment thereof
+           or in case of re-assessment, from the date of such re-assessment.
+       (e)  Where the refund arises as a result of any judgement/ decree/ order/
+            direction of the Appellate Authority/ Appellate Tribunal/Court, the time
+             limit   should   be   calculated   from   the   date    of   such
+           judgement/decree/order/direction.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+1.20    7.20        CUSTOMS & FTP
+
+     The time limit of one year is not applicable  if duty is paid under protest.
+       Finally, it is worth mentioning that above provisions regarding time limit are
+     mandatory and customs authorities cannot grant a refund which  is filed
+     beyond the maximum permissible period.
+2.    Section 18 (dealing with provisional assessment) incorporates the principle of
+      unjust enrichment in case of refund arising out of finalization of provisional
+     assessment. Sub-section (5) of section 18 of Customs Act, 1962 provides that
+         if any amount  is found to be refundable after finalisation of provisional
+     assessment, such refund will be subject to doctrine of unjust enrichment.
+      Further, section 28D places the onus on the person who has paid duty to
+     prove that he has not passed on the incidence of such duty. In the absence
+      of any proof from such person, section 28D deems that the burden of duty
+     has been passed on to the buyer.
+      Therefore, in the given case, the Department’s action will be correct if M/s
+     HIL does not produce any evidence of bearing the burden of duty.
+3.   The incidence of duty can be passed directly or indirectly. Where the capital
+     goods are used for manufacture, the duty paid on their import will go into
+     the costing of the goods manufactured and sold, and can thus be passed on
+      to the buyers. The Large Bench of the Tribunal in the case of SRF Ltd. v. CCus.
+     Chennai 2006 (193) ELT 186 (Tri. - LB) has held that the doctrine of unjust
+     enrichment would be applicable in case of imported capital goods used
+      captively for manufacture of excisable goods. As regards the relevance of the
+      fact that price remained the same before and after the capital goods were
+     imported, the Larger Bench also clarified that uniformity in price before and
+      after assessment does not lead to inevitable conclusion that duty burden has
+     not been passed, as such uniformity may be due to various reasons. In view
+      of this, the contentions of XYZ Ltd are liable to be rejected.
+4.    Often, goods imported are found to be defective or not according to
+      specifications.  In such cases, earlier, the refund of customs duty paid at the
+     time of import could be obtained only if the imported goods were physically
+     returned to foreign supplier. Generally, cost of return of the rejected goods
+        is heavy and it is economical to dispose of the goods in India itself. Realising
+      this practical difficulty, section 26A of Customs Act makes provision for refund
+      of import duty paid if goods are found defective or not as per specifications.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+REFUND    1.211        7.21
+
+     The refund  is admissible  if goods are re-exported or relinquished and
+     abandoned to the customs authorities or destroyed. Thus, refund is possible
+     even if goods are destroyed or relinquished in India without re-exporting the
+     same.
+     The section stipulates the following conditions for the refund:
+         (i)    the goods are found to be defective or otherwise not in conformity with
+           the specification agreed upon between the importer and the supplier
+           of goods;
+         (ii)   the goods have not been worked, repaired or used after importation
+           except where such use was indispensable to discover the defects or
+          non-conformity with the specifications;
+         (iii)  the goods  are  identified  to  the  satisfaction  of  Assistant/Deputy
+          Commissioner of Customs as the goods which were imported;
+        (iv)   the importer does not claim drawback under any other provision of this
+            Act; and
+       (v)   the goods are exported or the importer relinquishes his title to the
+         goods  and  abandons  them  to  customs  or  such  goods  are
+          destroyed/rendered commercially valueless in the presence of proper
+             officer in prescribed manner within 30 days from the date on which the
+           order of clearance of imported goods for home consumption is made
+          by the proper officer. This period of 30 days can be extended up to 3
+          months.
+        (vi)  An application for refund of duty shall be made before the expiry of 6
+         months from the relevant date in prescribed form and manner.
+        (vii)  Imported goods should not be such regarding which an offence
+          appears to have been committed under this Act or any other law.
+        (viii) Imported goods should not be perishable goods and goods which have
+          exceeded their shelf  life or their recommended storage before use
+           period.
+5.   As per third proviso to section 27(1) of the Customs Act, 1962, the minimum
+     monetary limit below which refund cannot be granted is ` 100.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+1.22    7.22        CUSTOMS & FTP
+
+6.   Customs duty  is a levy under Indirect taxation, which implies that the
+     incidence of the customs duty paid is generally passed on to the buyer of the
+     goods.
+    When an importer imports goods, he has to pay the customs duty on such
+     goods. Similarly, an exporter in case of export goods, if the same are subject
+      to export duty, the exporter pays the export duty. This duty is recovered from
+     the buyer when the goods are sold by the importer or exporter, as the case
+    may be. In other words, the incidence or burden of duty is passed on to the
+      buyer, from whom the importer or exporter collects the customs duty paid.
+     Subsequently, if the importer or exporter makes a claim for refund of duty
+     paid (due to excess payment) and receives the refund from the Government,
+     he would be called to have enriched himself as he collected the duty from his
+     customer also and also as refund from the Government. Such enrichment is
+      referred to as ‘unjust enrichment’.
+      Accordingly, the doctrine of ‘unjust enrichment’ implies that no person
+     should enrich himself at the cost of others.
+      Therefore, wherever there is excess payment of duty, the refund is to be given
+     only to the person who has borne the burden of such duty along with interest,
+         if any. When the person who applies for refund is not the person who has
+     borne the burden of duty, the refund is paid into a fund called 'Consumer
+     Welfare Fund'.
+     Section 28D provides that every person who has paid duty under the Customs
+      Act, unless the contrary is proved by him, shall be deemed to have passed the
+       full incidence of such duty to the buyer; hence the applicant for refund has
+      to refute the presumption of passing on the incidence of duty.
+7.   Acme Sales received an order finalizing provisional assessment on the basis
+      of a verification report, and requiring payment of ` 12 lakh. They did not
+     contest this order, but made the payment, and allowed the appeal period of
+      sixty days to lapse. After appeal became time-barred they filed a claim for
+     refund in which they challenged the order. This was a backdoor method of
+     seeking relief against the order; it also asked an officer of the same rank to
+     review the order passed; and it sought to bypass the time limitation for appeal
+     by presenting the appeal as a claim for refund. The Supreme Court has held,
+      in the case of Priya Blue Industries Limited, 2004 (172) ELT 145 (SC), that such
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+REFUND    1.231        7.23
+
+     a refund claim  is not permissible for  all these reasons. A person who  is
+     aggrieved with an assessment order cannot seek refund without filing an
+     appeal against the assessment order.
+8.   Mr. N’s invoices show that he collected duty of ` 250 per unit on 1,000 items.
+     However, he paid duty on 200 items more. This payment, in the normal
+      course, was made before the order permitting the clearance of the goods. It
+     would be evident from the bill of entry that the amount paid was more than
+     the amount of duty assessed. Thus Mr. N’s case falls within the exception to
+      unjust enrichment listed at clause (g) of the first proviso to section 27(2). He
+       will be able to refute the charge of unjust enrichment. Furthermore, clause (a)
+      of the same sub-section provides that the doctrine of unjust enrichment will
+     not apply to the refund of duty and interest, if any, paid on such duty if such
+    amount is relatable to the duty and interest paid by the importer/exporter, if
+     he had not passed on the incidence of such duty and interest to any other
+     person. Mr. N’s invoices will show how much duty he collected from his
+     customers, hence he may be covered by this clause also to escape the bar of
+      unjust enrichment.
+9.   The relevant dates provided under Explanation to section 26A(2) of the
+     Customs  Act,  1962  for  purpose  of  refund  of  duty  under  specified
+     circumstances are as follows:-
+           Case                     Relevant date
+           (i)   Goods exported out of      Date on which the proper  officer
+             India                   makes an order permitting clearance
+                                  and loading of goods for exportation
+           (ii)   Relinquishment of  title to  Date of such relinquishment
+            the goods
+           (iii)  Goods being destroyed or  Date   of   such   destruction   or
+           rendered valueless         rendering  of goods commercially
+                                         valueless
+10.  Refund is not allowed in case of perishable goods and goods which have
+     exceeded their shelf life or their recommended storage-before-use period in
+     terms of section 26A(3) of the Customs Act, 1962.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+1.24    7.24        CUSTOMS & FTP
+
+     However, the Board may, by notification in the Official Gazette, specify any
+     other condition subject to which the refund may be allowed under section
+     26A(4) of the Customs Act, 1962
+11.   Yes, interest is to be paid to the applicant in case any duty ordered to be
+     refunded to an applicant is not refunded within 3 months from the date of
+      receipt of application for refund. The government is permitted to fix such
+      interest between 5% and 30%.
+      Currently, the rate of interest is 6% vide Notification No. 75/2003-Cus (NT)
+     dated 12.09.2003.
+     The interest is to be paid for the period beginning from the date immediately
+      after the expiry of 3 months from the date of receipt of such application, till
+     the date of refund of such duty. For the purpose of payment of interest, the
+      application is deemed to have been received on the date on which a complete
+      application, as acknowledged by the proper officer of Customs, has been
+     made.
+
+
+© The Institute of Chartered Accountants of India

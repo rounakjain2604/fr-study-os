@@ -1,0 +1,630 @@
+Source PDF: 07_SPOM/Set_D_04_Digital_Ecosystem_Controls/012 - Chapter-11- Business Intelligence - 79452bos63475-cp11.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_04_Digital_Ecosystem_Controls\012 - Chapter-11- Business Intelligence - 79452bos63475-cp11.pdf
+Extracted at: 2026-05-31T10:36:45+05:30
+Pages: 17
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          11
+         1
+BUSINESS INTELLIGENCE
+
+
+                   LEARNING OUTCOMES
+After studying this chapter, you will be able to –
+   establish an understanding about the concept of Business Intelligence
+      (BI) and its functionalities.
+   appreciate the usage of BI tools in organizations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+11.2           DIGITAL ECOSYSTEM AND CONTROLS
+
+  CHAPTER OVERVIEW
+
+
+                                                                  Business
+                                                                               Intelligence
+   Business                         BI Tools &                        vs Data
+   Intelligence                     Techniques                         Analytics
+
+
+                    BI Life Cycle                      Chart Types
+                                                              in Power BI
+
+
+                                   Illustration : Heathrow Airport
+ The challenge: Heathrow airport is an international airport in London. It is the second busiest
+ international airport in the world after Dubai international airport and the seventh largest in terms
+ of total passenger traffic managing 2,00,000 passengers every day.
+ Every department needs to be in absolute coordination and sync to be able to manage the
+ passenger traffic and give them a smooth experience at the airport. At such busy airports, every
+ day brings new challenges and uncertainties with  it. Unexpected disruptions in the smooth
+ workflow of operations at the airport disturb the entire functioning. Issues can arise due to stormy
+ weather, delayed flights, canceled flights, shifts in jet streams, etc. disturbing the airport’s smooth
+ functioning. Such problems send the passengers as well as airport employees into turmoil.
+ The airport needed a Central Digitized Management System as a solution to this problem. Such
+ a system would use the large amounts of data being produced by operational systems at the
+ airport and transform it into useful visual insights. The interpretations produced by the BI tool can
+ be used by airport staff for better functioning and passenger management.
+ The Change: Heathrow group went with Microsoft Power BI as their BI software and Microsoft
+ Azure for cloud services. The airport deployed Microsoft Azure technology to collect data from
+ back-end operational systems at the airport. These systems are check-in counters, baggage
+ tracking systems, flight schedules, weather tracking systems, cargo tracking and many more. The
+ operational data from these systems are forwarded to business intelligence platforms like Power
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+BUSINESS INTELLIGENCE             11.3
+
+ BI. In Power BI, users shape this data into useful information that the airport staff can use. Power
+ BI transforms crude information into informative visuals showing different statuses and statistics
+ of the airport systems. Then, the ground staff like baggage handlers, gate agents, air traffic
+ controllers, etc. uses this information to properly operate and manage passengers.
+ Services such as Azure Stream Analytics, Azure Data Lake Analytics, and Azure SQL Database
+ are used to extract, clean and prepare operational data in real-time. This data is about flight
+ movements, security queues, passenger transfers, and immigration queues. Ultimately, Power BI
+ uses data from these Azure services for analysis and interpretation. Operational data from
+ different data sources come into Power BI that transforms data into meaningful insights with the
+ help  of  visual  reports,  graphics, and dashboards. About 75,000  airport employees have
+ information on their fingertips by virtue of Power BI.
+ With the presence of smart BI solutions like Power BI, airport staff is notified in advance about
+ the probable delays and the sudden rush of passengers at the airport. This helps management
+ groups and other employees to take suitable actions in advance like increasing the food stock,
+ adding extra passenger buses, increasing the ground staff, directing the passengers to the waiting
+ area, etc. to avoid any last-minute hustle. Thus, with the help of a powerful BI tool like Power BI,
+ Heathrow has benefited in more than one way. They are extremely happy and satisfied with the
+ capabilities of Power BI helping them give a hassle-free airport experience to their passengers.
+ Heathrow also is extending Power BI applications by trying to anticipate passenger flow at the
+ airport to avoid any unexpected disruptions for the passengers.
+
+    11.1 INTRODUCTION
+Business Intelligence (BI) is all about turning an organization’s data into insights that can be used
+to inform business decisions. In other words, Business Intelligence is the process of analyzing
+unprocessed data and turning  it into knowledge that the company can use to make decisions. BI
+analysts will use BI tools, software, or services to access and analyze datasets and translate their
+findings into reports, summaries, dashboards, graphs, charts, or maps. In recent years, the advent
+of modern data visualization and reporting tools has transformed the discipline, empowering
+businesses to use big data insights to identify, develop and create new business opportunities.
+Business intelligence enables organizations to gain a deeper understanding of their marketing
+strategies, financial performance, effective development, and management, as well as market trends
+and consumer behavior.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+11.4           DIGITAL ECOSYSTEM AND CONTROLS
+
+Functionalities of Business Intelligence
+♦     Analytics: This refers to a BI technique that explores data to extract trends and insights from
+        historical and current findings, facilitating valuable data-driven decisions. The BI solution
+      analyzes raw data through techniques such as seasonal and trend analysis, 'what   if'
+       scenarios, and modeling using various data modeling techniques and similar functionalities.
+♦    Dashboards: The solution provides dashboards which help the business to monitor, measure
+      and manage business performance in a very quick manageable way. Interactive collections
+       of role-relevant data are typically stocked with intuitive data visualizations, KPIs, analytics
+       metrics and other data points that play a role in decision-making.
+♦    Data mining: This practice uses statistics, database systems and machine learning to
+      uncover patterns in large datasets. Data mining also requires pre-processing of data. End-
+      users use data mining to create models that reveal patterns.
+♦     Extract Transfer Load (ETL): This tool extracts data from data-sources, transforms it, cleans
+            it in preparation for reports and analysis, and loads it into a data warehouse.
+♦    Model Visualization: Some of the BI solutions provide advanced analytics and visualization
+       capabilities enabling real time visualization in different forms and methods and to augment
+       additional functionalities. The model visualization technique transforms facts into charts,
+       histograms, and other visuals to support correct insight interpretation.
+♦    Online Analytical Processing (OLAP): OLAP is a technique for solving analytical problems
+       with multiple dimensions from various perspectives. OLAP is useful for completing tasks such
+      as performing CRM data analysis, financial forecasting, and budgets.
+♦     Predictive modeling:  It  is a BI technique that utilizes  statistical methods to generate
+       probabilities and trend models. With this technique, predicting a value for specific data sets
+      and attributes using many statistical models is possible.
+♦    Reporting: The solution provides very comprehensive functionalities for creating reports for
+       better understanding of the business data. Business users can create, view, modify reports
+      and visualizations online and offline and with other office products. Reporting involves
+       gathering data using various tools and software to mine insights and provides observations
+      and suggestions about trends to simplify decision-making.
+♦    Scorecards: Business Intelligence solutions provide industry standard scorecards to enable
+       the business to measure the Key Performance Indicators (KPIs). Visual tools such as BI
+      dashboards and scorecards provide a quick and concise way to measure KPIs and indicate
+     how a company is progressing to meet its goals.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+BUSINESS INTELLIGENCE             11.5
+
+♦    Real time monitoring: The BI solution offers tools to analyze operational data in real-time,
+      up to the the limit to seconds, thereby enabling businesses to make quick and informed
+       decisions.
+♦    Collaborative Business Intelligence: BI solution provides capabilities to collaboratively
+      share information with different stakeholders within the organization and outside.
+♦    Mobile Business Intelligence: The BI solution offers functionalities to make information,
+      such as reports, dashboards, and monitoring, accessible on mobile devices.
+
+    11.2 BUSINESS INTELLIGENCE LIFE CYCLE
+Business Intelligence provides the proper approach for the data analysis and decision-making
+process.  It helps the business to achieve goals and gain profits. The overall phases of business
+intelligence make the further development and maintenance process easy.
+To gather, integrate, analyze, and present data in a way that helps corporate decision-making, BI
+entails the use of technology, tools, and methodologies. Data warehouses or data marts are
+frequently used to store and manage the data in BI, which includes a variety of activities like data
+mining, reporting, dashboards, and visualizations. By offering insights into operations, clients, and
+markets, BI ultimately aims to assist organizations in making more educated and data-driven
+decisions. Businesses can use BI to find growth possibilities, streamline processes, and enhance
+overall performance.
+
+                                              1. Analyze Business
+                                     Requirements
+
+                         7. Administer                                2. Design Data
+                  and Maintain                           Model
+                   BI Life
+                                                                               3. Design                         6. Develop BI                  Cycle                                                             Physical Schema                      Objects
+
+                                     5. Create BI                     4. Build the Data
+                             Project Structure              Warehouse
+
+
+                           Fig. 11.1: Business Intelligence Life Cycle
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+11.6           DIGITAL ECOSYSTEM AND CONTROLS
+
+Phase 1: Analyze Business Requirements
+The first step in the Business Intelligence life cycle is to analyze the business requirements. The
+user identifies the business requirements to determine the type of analysis that the user then needs
+to perform. Identifying the requirements let the users decide the further action to be performed. For
+example - any retail company can analyze the sales data to figure out the products that are top-
+selling and the products that least sell.
+Phase 2: Design Data Model
+Once the requirements are identified, the user needs to design the logical model according to the
+requirements. This logical model helps the user to analyze the relationships that exist within the data
+entities. For example - for any retail company, the data model consists of products, their customers,
+and the sales data.
+Phase 3: Design the Physical Schema
+Once the logical model is prepared, the next step is to design the physical schema using the data
+model that describes the structure and the content of the data warehouse. For example - in any retail
+company, physical schema consists of sales-related facts, product-customer relationships, and the
+sales transactions.
+Phase 4: Build the Data Warehouse
+Once the logical and physical schema is designed, the next step is to build the data warehouse. The
+design of a data warehouse depends on the physical and logical schema. After the design of the
+data warehouse, the data and the content from the source system are loaded into the data
+warehouse for further steps. For example - for the retail system, designing the data warehouse
+consists of developing a database that would store the details of customers, products, and other
+requirements for the business.
+Phase 5: Create BI Project Structure (Metadata)
+The next step after designing the data warehouse is to create a project structure also known as
+metadata. With the help of this created project structure, the mapping of the tables and data in the
+data warehouse is easier. Creating the project structure describes the further steps and types that
+need to be implemented. For example - the project structure of the retail company consists of the
+attributes of the data, the design, and the working flow of the system. This project structure or
+metadata gives a brief idea about the working of the system.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+BUSINESS INTELLIGENCE             11.7
+
+Phase 6: Develop the BI Objects
+The next step is to develop the BI objects such as metrics, attributes, dashboards, reports, and facts.
+This step consists of developing the reports and dashboards that can be used to analyze the data
+in the data warehouse. For example - the retail company can develop reports and statistics charts
+that can describe the profit and loss margins.
+Phase 7: Administer and Maintain the Project
+The last step is to administer and maintain the project continuously as it undergoes changes. The
+project needs to be monitored to maintain the changes, security, and performance of the system. For
+example - the retail company needs to monitor the reports and statistics accordingly to increase the
+profit from the sales.
+
+    11.3 BUSINESS INTELLIGENCE TOOLS
+BI tool is an application software that collects, processes, and analyzes large amounts of structured
+and unstructured data from both internal and external systems. These tools pool this data together
+which is collected from numerous databases, portals, Customer Relationship Management (CRM)
+systems, Enterprise Resource Planning (ERP) systems, and more. Data sources might include
+documents, images, email, videos, journals, books, social media posts, files and more. BI tools find
+this information through queries which can present the data in user-friendly formats such as reports,
+dashboards, charts, and graphs. This leads to an outcome that offers all the employees of an
+organization the power to make improved decisions, pinpoint upcoming potentials for revenue,
+identify the latest opportunities for growth, increase business efficiency, interpret market trends, and
+more.
+Why do we use BI Tools?
+♦    Centralized data: BI tools can perform functions such as data mining, data visualization,
+      performance management, analytics, reporting, text mining, predictive analytics, and much
+      more. BI tool brings the entire data in one place and delivers certain types of views (issues,
+       trends, analytics) based on users’ queries or what s/he wants to know. As a result, employees
+      can harness this information to make better decisions based on predictions, market trends,
+      and Key Performance Indicators (KPIs).
+♦    Agile decision making: BI tools can help organizations in understanding and analyzing their
+       operations efficiently and effectively, thereby leading to smart, agile decision making to
+      achieve toward accomplishing organizations  objectives. These  tools enable seamless
+        scalability of users across various business enterprises - from single users to hundreds of
+      users without significant shift in costs.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+11.8           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦    Automatic reports: Instead of inputting data manually into Excel spreadsheets or toggling
+      between different tools, many BI tools are automated. BI tools allow the integration of
+      powerful reporting software like crystal reports which can be customized for usage by
+      customers, board directors, managers, and personnel. Availability of the BI tools on cloud
+      enables fast and real-time access to crucial data despite location. Data can be integrated and
+       formatted from different sources, and this enables managers to run various ad-hoc reports.
+      Improved business processes lead to enhanced efficiency and productivity.
+♦    Easy to be exported: Insights are provided for both historical and real-time data. Resulting
+       reports can be exported in various user-defined formats like Excel, PDF, or PowerPoint
+       presentations. Users monitor various analytical metrics from a user-friendly dashboard that
+      can be customized to suit user-preferences. This real-time access to crucial data enables
+      decision-makers to act as  it arises. In the end, BI tools are great for mitigating risk and
+      enhancing efficiency.
+♦    Compatible  and  Integrated:  Centralization  of  the  company’s  database  promotes
+       collaboration between different departments while eliminating the duplication of resources.
+     Some BI tools are open source that allows for customization and integration with other
+       applications. Data is arranged in columns with users having access to various analytical
+         filters. Analysis reports produced can be shared to colleagues through email at scheduled
+        intervals. BI generated charts, graphs and visualization can be integrated with existing
+      customized applications.
+♦    Reduces business costs: BI tools can do so much from analyzing consumer behavior and
+       sales forecasting to real-time process monitoring, that analyzing, planning, and reporting
+      processes are way more efficient and accurate than ever before.
+♦    Make predictions: With access to so much data from the past and present, employees can
+     make evidence-based decisions.  Predictive  analytics and forecasting enable users  to
+      generate insights based on a product or service’s performance history. If a business condition
+      changes, the intelligent tools can automatically figure out the anomalies and users will be
+      able to react to disruptions as they arise.
+                               Table 11.1: Popular BI Tools
+       Microsoft Power BI: Power BI is one of the most popular and widely used BI tools,
+       developed by the leading software giant Microsoft. This interactive tool provides an
+       environment for the analysis, integration, and visualization of data and can easily sync with
+       sources such as Facebook, Oracle, and more, generate reports and dashboards  in
+        minutes. It comes with built-in AI capabilities, Excel integration, and data connectors, and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+BUSINESS INTELLIGENCE             11.9
+
+         offers end-to-end data encryption and real-time access monitoring and is efficient and
+         effective in assisting organizations to make informed business decisions.
+       For example - ABB Italy needed an innovative system that would provide greater market
+       analyses and visual reporting for its manufacturing branch. Initially, it built its own solution,
+        but their system meant reports were generated through a third-party IT supplier. Reports
+        took up to four weeks to come through, which was frustrating and inefficient. As a result,
+      ABB Italy adopted a Power BI system that can generate customized reports in just a few
+        hours. This reduces reliance on external suppliers and allows stakeholders to develop
+      more insightful reporting.
+       Tableau: Tableau is an excellent data visualization and BI tool, widely used for reporting
+       and analyzing vast volumes of data. It helps users create different charts, graphs, maps,
+       dashboards, and stories for visualizing and analyzing data, to help in making business
+        decisions. Tableau is known for its user-friendly data visualization capabilities, but it can
+       do more than make pretty charts. Their offering includes live visual analytics, an interface
+         that allows users to drag and drop buttons to spot trends in data quickly. The tool supports
+        data sources such as Microsoft Excel, Box, PDF files, Google Analytics, and more. Its
+         versatility extends to being able to connect with most databases.
+
+       QlikSense: QlikSense is a BI tool that emphasizes a self-service approach, meaning that
+              it supports a wide range of analytics use cases, from guided apps and dashboards to
+       custom and embedded  analytics.   It  offers a  user-friendly  interface  optimized  for
+        touchscreens, sophisticated AI, and high-performance cloud platforms.  Its associative
+        exploration capability, Search and conversational Analytics allows users to ask questions
+       and uncover actionable insights, which helps increase data literacy for those new to using
+        BI tools.
+
+      Dundas BI: Dundas BI is a browser-based BI tool that features a drag-and-drop function
+        allowing users to analyze data on their own, without involving their IT team. The tool is
+      known for its simplicity and flexibility through interactive dashboards, reports, and visual
+         analytics. Since its inception as a data visualization tool, it has evolved into an end-to-end
+        analytics platform that is able to compete with the new BI tools available today.
+       Sisense: Sisense  is a  user-friendly BI  tool  that focuses on being  simplified and
+        streamlined. With this tool, users can export data from sources like Google Analytics,
+        Salesforce, and more. Its in-chip technology allows for faster data processing compared to
+        other tools. Key features include the ability to embed white-label analytics, meaning a
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+11.10           DIGITAL ECOSYSTEM AND CONTROLS
+
+      company can fully customize the services to its needs. Like others, it also has a drag-and-
+       drop features and allows users to share reports and dashboards with their team members
+       as well as externally.
+Other popular BI tools include Zoho Analytics, Oracle BI, SAS Visual Analytics, Domo, Datapine,
+Yellowfin BI, Looker, SAP Business Objects, Clear Analytics, Board, MicroStrategy, IBM Cognos
+Analytics, Tibco Spotfire, BIRT, Intercom, Google Data Studio, and HubSpot.
+
+    11.4 CHART TYPES IN POWER BI
+Following are popular chart types available in Power BI:
+1.    Line Charts: Line charts are mostly used charts to
+       represent the data and are characterized by a series
+       of data points connected by a straight line. Each
+       point in the line corresponds to a data value in the
+      given category.  It shows the exact value of the
+       plotted data. Line charts should only be used to
+      measure  the  trends  over a  period,  e.g.  dates,
+      months, and years.                                              Fig. 11.2: Line Chart
+      Refer Fig. 11.2 which displays an example of a line chart representing total units sold month
+      and region wise.
+2.    Bar Charts: Bar charts mostly use graphs because
+      they are simple to create and easy to understand. Bar
+       charts are also called horizontal charts that represent
+       the absolute data. They are useful to display data
+       that include negative values because it is possible to
+       position the bars above and below the x-axis. Fig.
+      11.3  is an example  of a Bar chart representing
+       outstanding control tests moth wise.                            Fig. 11.3: Bar Chart
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+BUSINESS INTELLIGENCE             11.11
+
+3.    Pie Charts: A pie chart is a circular statistical chart, and  it shows the whole data in parts.
+     Each portion of a pie chart represents the percentages, and the sum of all parts should be
+      equal to 100%. The whole data can be divided into
+       slices to show the numerical propositions of each
+       part of the data. Pie charts are mostly used to
+       represent the same category of data. It helps users
+       to understand the data quickly. They are widely
+      used  in  education,  the  business  world,  and
+      communication media. Fig. 11.4 is an example of a
+       pie   chart   representing   product-wise   data
+       highlighting percentage distribution.                          Fig. 11.4: Pie Chart
+4.    Doughnut Charts: Doughnuts are like pie charts,
+      and it is named doughnut chart because it looks like
+      a doughnut. You can easily understand the data
+      because doughnut charts show the whole data into
+       the proposition. It is the most useful chart when you
+      need to display various propositions that make up
+       the final value. Fig. 11.5 is an example of a doughnut
+       chart representing cost price, profit, margin, and tax
+        distribution for a product.                                    Fig. 11.5: Doughnut Chart
+5.    Funnel Charts: The funnel chart is a type of chart
+      which is used to visualize the data that flows from
+      one phase to another phase. In the funnel chart, the
+      whole data  is considered as 100%, and  in each
+      phase, it is represented as numerical propositions of
+       the data. Fig. 11.6 is an example of a funnel chart
+       presenting various stages of the recruitment process
+        in respect to the total number of applications.                    Fig. 11.6: Funnel Chart
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+11.12           DIGITAL ECOSYSTEM AND CONTROLS
+
+    11.5 BUSINESS INTELLIGENCE VS DATA ANALYTICS
+Refer Table 11.2 for Business Intelligence vs Data Analytics.
+
+                   Table 11.2: Business Intelligence vs Data Analytics
+
+ Business Intelligence                    Data Analytics
+
+ Refers  to  the  information  required  to  Refers  to modifying  the raw  data  into  a
+ enhance    business    decision-making  meaningful format.
+ activities.
+
+ The prime purpose is to provide support in  The prime purpose is to model, cleanse, predict,
+ decision-making using actionable insights  and transform  the raw data  into actionable
+ obtained through data  analytics and help  insights as per the business needs.
+ organizations grow their business.
+
+ Primarily concerned with looking back to see  While data analytics also identifies past patterns,
+ what  has  already  occurred,  using   this     it often uses these data to forecast what might
+ information to inform future strategy.          occur in the future.
+
+ Utilizes structured data,  i.e. data stored in  Also uses structured data, but usually begins
+ warehouses, tabulated databases, or other   with unstructured, real-time data. One task of
+ systems. These data are used to produce  data analysts is to clean and order these data,
+ dashboards and reports.                      before storing them for future analysis.
+
+ Is primarily used by leadership teams and   Is  usually  the  preserve  of  analysts,  data
+ non-technical personnel, such as  chief   scientists, and computer programmers who
+ executives,  financial  directors, or chief  have a more technical focus?
+ information officers.
+
+ Usually  thinks  in  ‘blue sky’ terms, asking  Tends to focus on a single issue or question,
+ high-level  strategic questions about an   e.g. ‘Why are sales on product A dropping,
+ organization’s overall direction.                despite positive reviews?’
+
+ Relies on clear dashboards, reporting, and  To obtain insights, data analytics gets ‘under the
+ other monitoring techniques to relay insights  hood’ with data, carrying out tasks  like data
+ in a clear, easily consumable way.             mining,  algorithm  development,  modeling, &
+                                                 simulations.
+
+ Can be implemented using various BI tools  Can be implemented using various data storage
+ available in the market.                       tools available in the market.
+
+ Is implemented  only on  historical data  Can also be implemented using BI tools, but it
+ stored in data warehouses or data marts.     depends on the approach or strategy designed by
+                                        an organization.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+BUSINESS INTELLIGENCE             11.13
+
+ Can be debugged only through historical  Can be debugged via the proposed model to
+ data provided and the end user requirements.  convert the data into a meaningful format.
+
+
+                           Illustration : SkullCandy – a leading supplier
+ For SkullCandy, a leading supplier of headphones, earbuds, and other audio devices, tracking all
+ of this meant their data covered more than 100-million rows in multiple source locations – a
+  logistical nightmare, as one can imagine. To get all this information in one unified place, they
+ turned to a BI solution.
+ With the system they had in place before, they often found they were missing certain bits of data,
+ and the results regularly were not accurate – not a good thing for a retail company trying to stay
+ on top of things.
+ BI is a benefit Behind-the-Scenes.
+ ♦    SkullCandy implemented Sisense across the board – from their IT department to their HR
+       department and everything in between. It became the go-to data software for the entire
+       company.
+ ♦    Each department can now easily add new data, access automated reports, and send
+         results from one sector to another without having to wade through hundreds of different
+       documents.
+ ♦    Data is refreshed immediately, meaning there are less inaccuracies, and the whole team
+       can get their hands on fast data as and when they need it.
+ BI as a benefit to Retailers in General.
+ ♦    As the retail industry is huge, keeping up with the crowds and constantly implementing
+       systems and strategies to increase sales and stay ahead of the game is no easy task. But
+        with a BI solution, a user can start collecting and tracking the data that matters.
+ ♦    Gathering data from all departments – not just sales – is a logistical nightmare, especially
+              if that data is being delivered in multiple different formats from multiple different sources.
+ ♦    With a simple BI solution, we can put all that data in one place and easily track trends,
+        sales, and important information on the fly.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+11.14           DIGITAL ECOSYSTEM AND CONTROLS
+
+ Key Advantages of BI for Retail
+ ♦    Improved customer experience: Customer expectations are higher than ever now that
+         there’s more competition in the retail world, and brands to ensure that customers are
+        retained and kept happy at every stage of the shopping process.
+ ♦     Predictive modeling: With a retail predictive analytics tool, companies can combine
+        current data with other relevant stats  to seek out new sales opportunities,  identify
+       upcoming trends, and create models for the items customers are most likely to buy.
+ ♦    Optimize price: Having access to relevant big data means brands can update their prices
+         in real-time to coincide with current supply, demand, and upcoming trends.
+
+SUMMARY
+Businesses are moving at neck-breaking speeds and so is their competition. For these businesses
+to have an edge in the market, every decision they make must be informed. Irrespective of the
+industry, every business has access to a lot of data that they can leverage to their advantage. But
+unfortunately, very few do. This chapter deals with the concepts related to Business intelligence (BI)
+that uncovers insights for making strategic decisions. BI helps these businesses to use their data to
+their advantage by presenting the otherwise unusable pile of data into an understandable and
+interpretable form. Business Intelligence (BI) empowers us to synergize the power of technology
+with business expertise, facilitating fully informed decisions and ensuring a competitive advantage.
+BI tools analyze both historical and current data, presenting their findings in intuitive visual formats.
+These tools play a crucial role in organizing unstructured data, visually representing  it through
+graphs, charts, maps, and more, thereby enhancing productivity and ensuring effective decision-
+making.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+BUSINESS INTELLIGENCE             11.15
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    Which of the following chart shows the whole data into the propositions and is used to display
+       various propositions that make up the final value?
+        (a)    Pie chart
+        (b)   Doughnut chart
+        (c)    Bar Chart
+        (d)    Line Chart
+2.    _____ refers to the information required to enhance business decision-making activities.
+        (a)    Data Analysis
+        (b)    Charts
+        (c)    Business Intelligence
+       (d)   Machine Learning
+3.    Which of the following is not the usage of Business Intelligence tools?
+       (a)   Reduce business costs
+       (b)    Generation of automatic reports
+        (c)    Compatibility
+       (d)    Distributed data
+4.     Following are the various phases involved in Business Intelligence Life Cycle.
+       (a)    Create BI Project Structure
+       (b)    Analyze Business Requirements
+        (c)    Design Data Model
+       (d)    Design the Physical Schema
+       (e)    Build the Data warehouse
+      Pick the correct sequence.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+11.16           DIGITAL ECOSYSTEM AND CONTROLS
+
+       (a)      (i), (ii), (iii), (iv), (v)
+       (b)     (iv), (iii), (ii), (i), (v)
+        (c)       (ii), (iii), (iv), (v), (i)
+       (d)     (v), (iii), (ii), (i), (iv)
+5.     In which phase of Business Intelligence Life Cycle, metadata is created?
+       (a)    Design Data Model
+       (b)    Building of data warehouse
+        (c)    Creation of BI Project structure
+       (d)   Development of BI Objects
+
+ANSWERS/SOLUTIONS
+     1.        (b)        2.        (c)        3.        (d)        4.        (c)        5.       (c)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+© The Institute of Chartered Accountants of India

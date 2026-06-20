@@ -1,0 +1,1663 @@
+Source PDF: 07_SPOM/Set_C_09_Financial_Services_Capital_Markets/008 - CHAPTER 7- DERIVATIVE MARKET - 79359bos63450-cp7.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_09_Financial_Services_Capital_Markets\008 - CHAPTER 7- DERIVATIVE MARKET - 79359bos63450-cp7.pdf
+Extracted at: 2026-05-31T10:34:30+05:30
+Pages: 45
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          7
+         1
+DERIVATIVE MARKET
+
+
+                          LEARNING OUTCOMES
+By the end of this chapter, students shall be able to understand:
+    Introduction to Derivatives
+    Explanation of important terms used In Derivatives
+    Difference between Forward and Futures
+    Difference between Equity and Futures contracts
+   Types of Derivatives
+      •     Forwards
+      •     Futures
+      •     Options
+      •    Swaps
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+7.2           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+CHAPTER OVERVIEW
+                                         Derivative Market
+
+
+                                         Characteristics
+
+
+                                     Elements                                                      Derivative
+           to
+
+                                 Factors driving growth in
+                                            derivatives                                                                 Introduction
+
+                                           Benefits
+
+
+                                        Risks in Derivative
+
+
+       Credit Risk             Market Risk            Operational Risk            Strategic Risk
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+DERIVATIVE MARKET             7.3
+
+
+                              Uses of Derivatives
+
+
+        Hedging                      Speculation                        Arbitrage
+
+
+       Explanation of Important Terms used in Derivatives
+
+
+              Difference between Forward and Futures
+
+
+                Difference between Equity and Futures
+
+
+                                    Types of
+                                         Derivatives
+
+
+    Forward              Futures                Options               Swaps
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+7.4           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+     1.  INTRODUCTION
+A derivative is an instrument which derives its value from an underlying instrument. The underlying
+instrument can be anything be it any asset, index, commodity, interest rate bond, debenture etc. An
+important  thing  to understand here  is  that  the  price  of  the  derivative  is decided by  the
+movement/happening/value of some other instrument which is called “underlying”.
+
+                  Futures         Options
+                                         Swaption
+ Forwards
+
+              Derivatives
+                                     LEAPS Baskets
+              Swaps         Warrants
+
+1.1  Characteristics of Derivatives:
+           It is a contract which derives  its value from an underlying asset  i.e., their value
+           depends on the movement in the prices of their underlying.
+           It is a price discovery mechanism. Prices of derivative instruments such as futures and
+             forwards can be used to determine what the market expects future spot prices to be.
+           It is a vehicle for transferring risk.
+           It is used as a hedging instrument.
+           It is a mechanism for speculation and arbitrage.
+           It is a leveraged Instrument which increases its potential risks and rewards.
+       Settlement of obligations takes place at a future date (expiry date/maturity period).
+           It can be cash / delivery settled, depending upon the derivative – forward or future.
+1.2  Elements of Derivatives contract
+      A legally binding contract
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+DERIVATIVE MARKET             7.5
+
+       There are two parties: buyer & seller
+       There is an underlying asset
+       The contract is to be executed at a future date
+       Future price (decided at the time of contract)
+        Transfer of risk
+1.3  Factors which drive growth in derivatives:
+       High volatility of assets prices in financial markets
+       Increased integration of national markets with international markets
+       Increased advancement in communication facilities
+       Development of more sophisticated risk management tools
+        Innovations in the derivative markets
+1.4  Benefits of Derivatives:
+        Price Risk Management – buying, selling of risk.
+        Price Discovery
+       High Financial Leverage
+        Beneficial to Banks & Financial Institutions
+       Lower Transaction Cost
+        Operational advantages
+       Market efficiency
+       Ease of speculation
+1.5  Risks in Derivatives:
+       Derivatives, being leveraged instruments, have risks  like counterparty  risk (default by
+       counterparty), price risk (loss on position because of price move), liquidity risk (inability to
+        exit from a position), legal or regulatory risk (enforceability of contracts), operational risk
+       (fraud, inadequate documentation, improper execution,  etc.) and may not be an apt
+       instrument for a person with limited resources, limited trading experience and low risk
+       appetite. One should carefully read the Model Risk Disclosure Document, given by the broker
+       to his clients at the time of signing the agreement. The Model Risk Disclosure Document is
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+7.6           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+      issued by the members of Exchanges and contains important information on trading in
+       Equities and F&O Segments of exchanges. Some other risks associated with Derivatives are:
+        Credit risk (only OTC contracts)
+       Market risk
+        Operational risk
+                Settlement risk
+                Legal risk
+                Risk of error
+        Strategic risk
+1.6  Uses of Derivatives:
+       1.    Hedging
+            Hedging is a tool to minimize risk. Risk means adverse deviation from the expectations
+            which can occur due to “N” numbers of factors. Normally it is done to reduce the price
+                 risk, therefore hedging is taking a position in an instrument to protect against adverse
+              price movement of another asset class. Normally, a hedge consists of taking the
+             opposite position in a related security or in a derivative security based on the asset to be
+            hedged.
+             For example, If you have long position in Reliance @ 2350 (Qty 250) and you are worried
+               that the price may come down due to an upcoming event say election results, important
+        AGM of company, big policy announcement by the company, important RBI policy or any
+              other event which may have adverse impact on the market and specially on Reliance.
+           Now, you would like to protect yourself and would like to buy some protection with a wish
+               that  if price goes up you enjoy the up move and  if price comes down that protection
+              protects you from the fall in price. Taking that protection in the shape of buying “PUT” of
+             Reliance  is known as Hedging  i.e.  protection  against unexpected  future  risk  of
+             unfavorable movement.
+       2.    Speculation:
+             Speculation is a transaction which is settled without delivery. Speculation is buying
+           and selling of any assets with a view to making profits through the price movement of
+             the asset class without the intention of taking delivery of the same. Thus, intraday
+              transactions are speculative transactions, because they are settled without delivery
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+DERIVATIVE MARKET             7.7
+
+                  i.e. only the difference in amounts are settled. For understanding only the intraday
+              transactions of SPOT markets are known as speculative transactions.
+       3.     Arbitrage
+              Arbitrage is the simultaneous purchase and sale of the same or similar asset in
+               different markets or instruments to profit from difference in prices. It tries to capture
+              price variations in identical instruments in different exchanges or similar financial
+             instruments in different markets or in different forms. It can be possible in any asset
+              class. Normally computer programs known as Algo’s are used to exploit the price
+              differences or inefficiencies wherever they exist.
+           Example: 1 If price of a Stock in National Stock Exchange (NSE) is at 101 and at the
+          same time price of the same stock in Bombay Stock Exchange (BSE) is say 102, now,
+                        if one buys the stock in NSE and sells at BSE at the same time to lock the profit of
+          ` 1 per share is known as arbitrage. The benefit of arbitrage is that the person doing
+                        it gets fixed (locked) profit and for the market as a whole the discrepancy of price
+            evaporates because of more demand in NSE (i.e. the exchange where the price is low)
+           and more supply in BSE (i.e. where the price is high).
+           Example 2: If the spot price of Axis Bank is ` 1019 and the price of Axis Bank current
+           month future is trading at ` 1038, there is an arbitrage opportunity available  if one
+            buys spot of Axis Bank (Qty. equal to lot size of future) @ ` 1019 and simultaneously
+               sells 1 lot of Future of Axis Bank @ ` 1038. Because on expiry both spot and future
+                 will be at one price (i.e. future expires at spot rate on the date and time of expiry),
+              thus, profit of ` 19 per share is locked by the person doing arbitrage, if, he/she closes
+                  its both, spot and future positions on the date and time of expiry.
+
+    2.   EXPLANATION OF IMPORTANT TERMS USED  IN
+       DERIVATIVES:
+               1.     Basis: In the context of financial futures, basis is defined as the difference
+                 between the Spot price and Futures price. If the Futures price is higher than
+                  Spot price  it is termed as Premium and  if the Spot price is higher than the
+                   Futures price it is termed as Discount.
+               2.    Cost of carry: The relationship between futures prices and spot prices can be
+                 summarized in terms of what is known as the cost of carry. This measures the
+                   storage cost plus the interest that is paid to finance the asset less the income
+                  earned on the asset. For example
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+7.8           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+                         Particulars             Spot                Future
+                     Price                        500                 504
+                   Today’s date              Sept 08, 2023                         -
+                    Lot Size                                       -                  1000
+                    Expiry date                                   -               Sept 28, 2023
+
+                                 If risk free rate of interest prevailing in the market is @7% p.a. then, the interest
+                 amount on `  5,00,000  (i.e. 500*1000  lot  size)  for 21 days  shall be
+                   (5,00,000*7/100)*21/365 = ` 2014 (approx.). Thus, the future shall trade with a
+                 premium of ` 4 (i.e. 2014/500). As the time approaches expiry, the premium
+                          will gradually come down and, on the date and time of expiry, the premium will
+                become zero (i.e. the futures instrument will expire at spot price)
+               3.      Initial margin: The amount that must be deposited at the time of entering a
+                     futures contract as security for the buy or sell position is known as the initial
+                   margin. It is refundable in nature.
+               4.    Spot price: the price at which an asset trades in the spot market.
+               5.    Futures price: the price at which the futures contract trades in the futures
+                   market.
+               6.    Contract cycle: the period over which a contract trades.
+               7.    Expiry date: this is the last day on which the contract will be traded, at the end
+                      of which it will cease to exist.
+               8.    Contract size: the amount of assets that must be delivered under one contract.
+                   Also called as lot size.
+               9.    Mark to Market Margin: It is calculated on a daily basis. The logic behind it is
+                      that both buy and sell position holder has same probability of risk for their
+                     positions say they entered a position to buy and sell an instrument at a price of
+                ` 500 and Lot size 1000 with a 20% margin. They both will pay the margin of
+                ` 1,00,000 (i.e., 20% of 500*1000). Now, if at the end of the day the price closed
+                      at 490 then the buyer is at a loss of ` 10 per share i.e., 10*1000 = ` 10,000
+                        total losses. Mark to Market is bringing all positions at the closing price of the
+                 day and give the loss  if any and take away the profit  if any. In this case,
+                 Exchanges want a margin of 20% @490 i.e., closing price. Thus, Exchange
+                 does two things:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+DERIVATIVE MARKET             7.9
+
+                      (a)    Buyer shall bear the Loss of ` 10,000 and Seller will gain the profit of
+                     ` 10,000.
+                      (b)   Exchange will pay back/release the margin collected earlier on ` 500
+                      and now will calculate fresh margin @ 490 (closing price) and will collect
+                          the same i.e., 490*1000*20% = 98,000. The details are as below:
+                                 Particulars           Buyer              Seller
+                       Pay Loss                 (10,000)        NA
+                         Receive Profit         NA               10,000
+                         Margin Release          1,00,000          1,00,000
+                         Fresh Margin             (98,000)           (98,000)
+                         All the positions are marked to market price. So, now the buy and sell positions
+                   are created at a closing price of 490. Therefore, if on next day the price closes
+                      at 494 then:
+                       Particulars           Buyer                     Seller
+                  Pay Loss              NA                 4,000 (4*1000)
+                   Receive Profit         4,000 (4*1000)            NA
+                   Margin Release           98,000                  98,000
+                   Fresh Margin              (98,800)                  (98,800)
+              Now again the positions are brought at closing price i.e., ` 494. As if they have
+                   created the position at ` 494. Thus, in Mark to Market, the prices are marked
+                      to  closing  price  and   all  the  profits  and  losses  are  realized  through
+                     transactions/entries in ledger account and margin is also calculated daily at
+                       latest closing price.
+             10.   Maintenance margin: This is somewhat lower than the initial margin. This is
+                     set to ensure that the balance in the margin account never becomes negative.
+                                 If the balance in the margin account falls below the maintenance margin, the
+                     investor receives a margin call and is expected to top up the margin account to
+                    the initial margin level before trading commences on the next day.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+7.10           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+     3.  DIFFERENCE BETWEEN FORWARD AND FUTURES:
+                            Forward                   Futures
+           Meaning         A customised agreement to  Standardised agreement to
+                              buy or  sell an asset  at a  buy or  sell an asset  at a
+                                     future date.                    future  date  through  an
+                                                          exchange.
+             Trading           Over the counter           Exchange Traded
+           Mechanism
+            Market Place       Traded on phone             Centralized exchange floor
+                                                                      electronically networked.
+             Contract Size       Non-standardized,      tailor  Standardized sizes decided
+                          made sizes                 by derivative exchange
+             Contract maturity /  Mutually  decided  by  the  Fixed    by     derivatives
+           Payment date        parties to the contract       exchange
+         Who can buy  or  Between 2 parties who know  Anyone, buyer & seller need
+               Sell               each other                    not know each other
+             Regulation           Usually, self-regulatory       Regulated  by  derivatives
+                                                       exchange
+              Delivery       &  On   any   day   mutually  On the date  fixed by the
+             settlement date     decided by the parties         derivative exchange
+             Extent of Hedge     Being non-standardized and  Being standardized contract
+                                  tailor-made  contract,  they   with specified lot size they
+                                  provide exact hedge          are either over the hedge,
+                                                          under  hedge   or   exact
+                                                          hedge.
+            Counter party       Buyer and seller              Clearing house of derivative
+                                                       exchange
+            Counter party risk   High                   No  Counterparty  risk  as
+                                                       exchange clearing house is
+                                                                 the counter party
+               Liquidity                Illiquid.   Not    listed   on   Liquid. They  are  tradable
+                               exchange, so they are not   since  they  are  listed  on
+                                   tradable                   exchange
+             Valuation          They  are  not  traded,  no  Marked  to  market,  since
+                                standard valuation            they  are  traded  on  daily
+                                                               basis
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+DERIVATIVE MARKET             7.11
+
+            Margin           No such requirement         Margin is required
+             requirement
+             Settlement           Settled by actual delivery of  Cash  Settled  or  Physical
+           method              underlying.   Some    are  Settlement by and through
+                                 cancelled at cost.              derivative exchange.
+
+    4.   DIFFERENCE  BETWEEN  EQUITY  AND  FUTURES
+      CONTRACTS
+                               Equity                     Futures
+            Purpose          The   main   purpose    of  Futures  markets  exist  to
+                                    equities markets is to create   facilitate  risk  shifting and
+                                       capital.                        price discovery.
+             Short positions      Short positions can only be  There  is a short for every
+                                taken on intraday Basis.      long position.
+            Margin            The buyer pays the full price  Involves  paying   different
+                                         for the purchase.            margins like initial + mark to
+                                                          market margins
+             Right  to  Vote  in  Provide right to attend and  Does not provide any such
+          Company           vote  in  Meetings  of  the   right
+                           company
+              Maturity           They are issued without a  Have pre specified  expiry
+                                   termination date             date
+               Circuits           Have circuits             Do not have circuits
+            Ownership         Buyer becomes owner of the  Does not provide ownership
+                                 percent of shares bought
+             Dividend            Right to receive Dividend    No such Right exists as no
+                                                          ownership right.
+
+    5.   TYPES OF DERIVATIVES
+5.1  Forward:
+Forward contracts have been there for a long time but were not referred to by their name. They are
+present in every field of our life. For example:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+7.12           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+1.   When you go to book a new car, you negotiate and fix the price today & agree to take the
+       delivery on some other day in future. It is a forward contract because irrespective of the price
+       at future date your will buy at a predetermined rate.
+2.    You go to a Gold Smith and select the ornament design and ask him to make the same as
+      per your size. Further, you decide the price of Gold today and agree to take delivery at some
+       other day in future. It is a forward contract because irrespective of the price at the future date
+      you will buy at a predetermined rate.
+     Now, what  if on the date of delivery of the Car and Gold as mentioned above the price
+      increased drastically?  You will insist that the price was decided in advance on the date of
+       the contract and will make sure that the item is delivered to you at the agreed price, because
+            it is your right to receive the same at the agreed price. This is what is called Forward contract.
+3.    Another example is that you have bought a Plant and machinery from USA at ` 1,00,000
+    USD and the billing is in USD. The current rate of USD/INR is 82 (i.e., 82 Rupees per US
+        Dollar). You agree to make the payment in 3 months from now. This is a Forward contract.
+     Now, you are worried about the rise in USD in those 3 months, because in that scenario you
+         will end up paying higher INR. So, you want to lock the price of USD you ultimately pay, so
+        that, you sleep happily, and any adverse movement of USD will not affect you.
+      For this, you decide to go to a Bank doing forward transactions and enter into an agreement
+       to buy USD 1,00,000 after 3 months from now at USD/INR 82. (This is called hedging). After
+      3 months if the USD/INR rate is say 85 then you would not be affected as you are making
+     ` 3 per Dollar in forward transaction from Bank.
+     Now, there are two options before you:
+       (a)    Either buy USD from Bank at ` 82 per US Dollar and pay to the Vendor.
+       (b)   Or agree to get the difference from the Bank i.e., ` 3 per US Dollar i.e., ` 3,00,000
+            from Bank and bring your 82,00,000 you agreed to while purchasing Plant & machinery
+           and go and buy USD 1,00,000from Market at current price i.e., 85 per US Dollar and
+            pay to the Vendor.
+          If the USD/INR rate fall to say 80. Now again you can:
+       (a)    Either buy USD from Bank at ` 82 per US Dollar and pay to the Vendor.
+       (b)   Or Pay ` 2 per US Dollar i.e., ` 2,00,000 to bank and go and buy USD 1,00,000 from
+            Market which now will be available at ` 80 per US Dollar and pay to the Vendor. Here
+             also the effective cost of USD/INR is 82 for you i.e., ` 2,00,000 plus ` 80,00,000.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+DERIVATIVE MARKET             7.13
+
+      Forwards are also known as “OTC” contracts i.e., Over the Counter contracts. A forward
+       contract is a customized contract between two parties, where settlement takes place on a
+       specific future date, but price is agreed today. In a forward contract, there is always a risk
+       that any party may back out from the contract at any time.
+      Forwards are private contracts, and their terms are determined by the parties involved.
+      For example:  Mr. A entered a contract with Mr. B to buy Gold at say ` 52000 per 10gm
+       (Tola) after 3 months (here the price is decided now and the settlement shall be done after 3
+      months. But, if in between the price moves up or down then one person might think of backing
+       out from the contract. Hence, these forward contracts have settlement risk.
+5.1.1 Long and Short positions:
+One who buys the asset is referred to as a ‘long’ investor and is said to have taken a ‘long position’.
+One who sells the asset is referred to as a ‘short’ investor and is said to have taken a ‘short position’.
+5.1.2 Physical settlement in forward contract
+A forward contract is settled by the physical delivery of the underlying asset by a short seller investor
+(i.e., the seller) to the buy position holder/investor (i.e., the buyer) against the payment of pre agreed
+price. There is some transaction cost involved in the physical settlement. Futures and options
+contract are settled on the date of expiry as decided in advance on the date of contract. But forwards
+contracts can be settled early as per mutual consent between the parties.
+5.1.3 Cash Settlement in forward contract:
+♦    Cash settlement does not involve actual delivery or receipt.
+♦    Each party pays (receives) cash equal to the net loss (profit) arising out of their respective
+       position in the contract.
+In Cash settlement if:
+(a)    Spot Price (SP) on the date of expiry of contract > Forward Price (FP) agreed in advance at
+       the time of the contract then person with short position shall pay to the buyer who has taken
+      a long position.
+(b)    Spot Price (SP) < Forward Price (FP) then person with long position shall pay to the seller.
+(c)    Spot Price (SP) = Forward Price (FP), then there is no obligation to pay any anything.
+Note: Profit and loss position in case of physical settlement and cash settlement is the same except
+for the additional transaction costs which are there in the physical settlement.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+7.14           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+5.1.4 Pitfalls of “OTC” contracts:
+♦    Forward contracts are subject to default risk i.e., not honouring the contract by any of the
+       parties.
+♦    The risk of incurring losses due to any of the parties defaulting is known as counter party risk.
+♦      Illiquidity because it is not traded on any exchange.
+♦   No centralized trading.
+♦    Absence of any middleman between the parties, who could have ensured that the contract is
+      honoured.
+5.2  Futures:
+Any forward contract which is traded on the recognized exchange is known as a Futures contract.
+In futures contract, the Exchange act as counterparty and  it guarantees the settlement of trades
+done on its platform and for that it collects the initial margin from the parties involved in the contract
+and charge the Mark to Market margin on daily basis to ensure that both the parties always have
+equal margin available against their positions. It is because the risk of different prices in future is
+similar for both the parties i.e. (buyer and seller)
+In Indian equity markets, the expiry date of the futures contract is last Thursday of every month and
+for Index i.e., Nifty and Bank Nifty the expiry is on weekly basis i.e., every Thursday in a month.
+Thus, the last Thursday of every month is monthly expiry of all derivatives contract as well as weekly
+expiry of Nifty and Bank Nifty contract too. However, now the weekly expiry of Bank Nifty is
+Wednesday. At any point of time, 3 months futures contracts trade simultaneously. For Example, if
+we are in January 2023, then 3 monthly contracts shall be:
+ January 2023 Contract                       Near Month
+ February 2023 Contract                       Next Month
+ March 2023 Contract                           Far Month
+
+                                                  Nifty Spot Price 17992.15 Date 05/01/2023
+ INSTRUMENT TYPE            SYMBOL    EXPIRY DATE     LAST
+ Index Futures                    NIFTY        25-Jan-23           18,070.05
+ Index Futures                    NIFTY       23-Feb-23           18,135.00
+ Index Futures                    NIFTY       29-Mar-23           18,209.00
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+DERIVATIVE MARKET             7.15
+
+Thus, Futures contract is a contract which is:
+(a)   Traded on the recognized exchange.
+(b)   Can be for buy or sell positions.
+(c)    Standardized contract (like lot Size, Expiry date and other rules and regulations are decided
+      by the exchanges)
+(d)    Predefined expiry date for settlement
+(e)    For a price decided today.
+(f)    The counter party is Derivatives exchange.
+Features of Futures Contract:
+♦     Highly standardised –
+       Predefined underlying asset
+       Predefined Fixed expiry
+       Predefined Fixed lot size
+♦    Payment of Initial Margin
+♦     Daily Settlement mechanism – Mark to Market
+♦     Final Settlement mechanism on the date of expiry
+♦    Hedging of price risk
+♦     Unlimited Profit and Loss potential
+♦    Traded on Secondary Market
+♦    Used for hedging
+♦    Used for speculation
+♦    Used for arbitrage
+5.2.1 Long Future Payoff Chart:
+If you have bought Futures Contract of Nifty lot Size 50 on Jan 17, 2023, at ` 18,088.80 and the
+Nifty goes up to 18120 then the profit shall be 18120-18088.80 =31.2*50 = ` 1560.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+7.16           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+5.2.2 Short Futures Payoff Chart:
+The below is Short Futures scenario, When Nifty spot is at 18053, and you have shorted Futures
+Contract of Nifty lot Size 50 on Jan 17, 2023, at ` 18,088.80 and the Nifty goes up to 18106 then
+there is a loss of ` 860 i.e., 18088.80 - 18106=17.2*50=860.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+DERIVATIVE MARKET             7.17
+
+5.2.3 Contango
+Contango means seedha badla. It happens in normal conditions when future prices are greater than
+spot prices. Usually, the future prices are greater than spot prices as futures trades at Premium (as
+it contains interest cost, storage cost minus any income by way of dividend).
+At the time of expiration, the future prices and spot price converge slowly and become
+equal.
+
+
+5.2.4 Backwardation
+Backwardation means Ulta Badla. It happens when future prices are lower than spot prices.
+At the time of expiration, the future prices and spot price converge slowly and become equal.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+7.18           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+5.2.5 Further explanation of the concepts learned
+♦    When you want to lock your price and get yourself immune from future price movement of
+       the underlying, you call it Hedging. So, when we say the price movement of the underlying
+       then, does it mean that you have locked your price in some other instrument? The Answer is
+      Yes. You have used some other instrument to protect you. But that instrument is such which
+      moves/behaves/derives its value from the movement of the underlying. Thus, that instrument
+         will make sure that you stay protected.
+     To further explain it you might assume that Derivative is taking a position in say mirror image
+       of the underlying to make sure that the movement of underlying can be fully obtained.
+      Example: When you want to have a long position in some stock or index then the choices
+       available to you are:
+       (a)   Buy that Share i.e., Buy Spot (But the point is that if you buy the spot then you must
+             take delivery of the same as per the settlement process within a few days. i.e., in
+             Indian equity Markets as on January 01, 2023, it is T+2 delivery settlement, thus pay
+             the money with 2 days and take the delivery of the stock. From Jan. 2023, the
+             settlement cycle has changed to T+1.
+       (b)       If due to any reason you do not want to take the delivery of the stock immediately and
+            you still want to take long position exposure in the stock, then can you, do it? The
+           answer is yes. Buy any such instrument which moves or derives its value from the
+             underlying asset. Now the instrument you are taking an exposure is called Derivatives.
+           Here you can buy forward Contract, futures contract, options contract.
+        (c)       If you want to take only one leg position i.e., say only buy position in an instrument,
+            say future then it means that you have taken a naked long position and if the price of
+             the underlying comes down your instrument will also come down and you will incur
+               loss.
+       (d)       If you have taken 2 leg positions, the 2nd being reverse position from the first one,
+             then it is called hedging. Say you already hold a long position in spot (say, purchased
+            shares in the stock market) and you are worried that the price of spot will come down
+                   (first leg) and now you take a reverse position by selling the futures contract then it is
+              called hedging. Because if the price goes up, the spot will give you profit, and future
+                 will give loss offsetting each other and vice versa.
+            Note: The extent of offsetting shows how much hedging you have done.  If the
+               offsetting of loss is 100% then it is called fully hedged and so on and so forth.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+DERIVATIVE MARKET             7.19
+
+       (e)   Now, since the instrument possesses such type of characteristics, people started using
+             the instrument for speculation purposes by taking only one leg of the position. Based
+           on their view they enter the derivatives contract with the idea to make money out of it.
+          (f)     Similarly, if, you want to take conditional exposure that if the situation is profitable i.e.,
+             the movement of underlying is profitable to you then you will use the option/choice to
+             take the decision and take benefit and if the movement of underlying is not favorable
+               to you then you will not be liable to pay anything. This type of product is known as upto
+             options (explained later in this chapter).
+5.3  Options
+Imagine a scenario that you enter such a kind of contract that  if the outcome is favorable for you
+then you will come out and exercise your rights and if the outcome is not favorable for you nobody
+will come to find you.
+Sounds Good!!! Let’s take an example.
+If a promoter of a company enters a contract with the company to buy more shares of the company
+at say ` 50 per share after 5 years and pays ` 6 per share upfront as token/advance money for the
+contract. The current market price of the shares is, say, ` 65.
+If after 5 years the current market price of the share of the company is ` 350 then the promoter will
+come out and pay the balance ` 44 and buy the shares and enforce the company to issue shares to
+him. But  if the price of the share of the company after 5 years is say ` 40 then promoter will not
+come out and will not be under obligation to buy shares of the company. The name given to the
+instrument is Call option i.e., right to buy but not the obligation to buy.
+An Option is a contract that gives the right to the buyer, but not an obligation, to buy or sell the
+underlying asset on or before expiry day, at a predefined price. The person buying the option i.e.,
+taking a long position is called buyer/ holder of the option and the person selling the option i.e.,
+taking a short position is called the seller/ writer of the option.
+Further, when we say right to buy/sell but not the obligation then we are talking from the buyer’s
+perspective.
+Therefore, to elaborate further -
+(a)   The view of buyer and seller is opposite.
+(b)   When we talk about the buyer’s perspective then the view of the seller is not taken into
+       consideration.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+7.20           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+(c)    Option buyer has right but no obligation as discussed in the above example. So, the buyer
+      has the right to come out and exercise his right.
+(d)    Option seller (writer) has only obligation but no right as explained in the above example. The
+     company i.e., seller of contract has only obligation in the sense that if the buyer comes out to
+       exercise his right, the company is under obligation to sell it.
+An important point to note is here is that the buyer can exercise the right only on the day of the
+expiry of the contract and not any time before the expiry.
+Therefore, in view of the above, the option buyer/ holder will exercise his option only when the
+situation is favorable to him, but, when he decides to exercise, option writer i.e., seller would be
+legally bound to honour the contract.
+Furthermore, there are two parties to the option contract – option buyer and option seller.
+♦    Buyer of an option: The buyer of an option is the person who gets the right but not the
+       obligation in the contract. For getting this right, a price called “Premium” must be paid to the
+        seller of the option. A buyer can be a Buyer of Call option or a Buyer of Put Option.
+      Furthermore, maximum profit of the buyer of the option can be unlimited but the loss is limited
+       to the extent of the premium paid.
+♦     Seller (Writer) of an option: The writer of an option is the person who has the obligation but
+       not the right. Writer (Seller) of the option receives the premium and is therefore obliged to
+       sell/buy the asset,  if, the buyer of option exercises his right.  The maximum profit of the
+        seller/writer of the option is limited to the extent of the premium received but the loss can be
+       unlimited.
+5.3.1 Difference between Buyer and Seller of the option:
+     Basis of Difference        Buyer of the Option         Seller/   Writer   of   the
+                                                        Option
+     Right                      Buyer of the option has the   Seller  of the option does
+                                          right    to    buy/sell   the   not have any such right.
+                                   underlying asset.
+     Obligation                  Buyer  of the option does   Seller  of  the  option  has
+                                    not have any obligation.      obligation  to  buy/sell  the
+                                                                underlying  asset    if  the
+                                                            buyer exercises his right.
+    Premium                   Buyer  of the option pays   Seller    of   the   option
+                                    the premium.                receives the premium.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+DERIVATIVE MARKET             7.21
+
+    Maximum profit                  Profit of the buyer of the   Profit of the  seller  of the
+                                    option can be unlimited.      option   is  limited  to  the
+                                                                 extent of the premium paid.
+    Maximum Loss              Loss of the buyer is limited  Loss  of the  seller  of the
+                                        to   the   extent   of   the   option can be unlimited.
+                              premium paid.
+5.3.2 Explanation of some important terms used in options:
+       1.    Stock option: These are the options in which the underlying asset is individual stocks,
+            For example, options on Reliance, HDFC Bank etc.
+       2.    Index option: These are the options in which the underlying asset is index. For
+            example, options on Nifty, Sensex, etc. In India, the indexes like Nifty and Bank Nifty’s
+             options have both monthly and weekly expiry.
+       3.    American option: The owner of such option can exercise his right at any time on or
+             before the expiry date/day of the contract.
+       4.    European option: The owner of such option can exercise his right only on the expiry
+             date/day of the contract. In India, Index options are European.
+       5.    Option price/Premium: It is the price which the option buyer pays to the option seller.
+            For example, in the case of Nifty, the option price for call option is ` 221.20 and for
+             put option, it is ` 88.75. These premiums are for single unit of Nifty and to arrive at the
+                total premium in a contract, we need to multiply this premium with the lot size.
+       6.    Lot size: Lot size is the number of units of underlying assets in a contract, say, in case
+               of shares, the number of shares one must buy to enter into a futures contract. Lot size
+               of Nifty option contracts is 50. Accordingly, total premium for all call options of a
+              contract would be ` 221.20*50= 11060 and total premium for put option of a contract
+            would be ` 88.75*50 = 4437.5.
+       7.     Expiration Day: The day on which a derivative contract ceases to exist. It is the last
+              trading date/day of the contract.
+       8.    Spot Market : It is the market where any instrument trades and buyer buys and takes
+              delivery and seller sells and give delivery of the share/instrument/commodity etc. as
+             per  the normal market  parlance/process. We can  also  call   it  “mandi” where
+            commodities or instrument trades.
+          Example Gold futures trades in derivatives (F&O) market. Now, the question arises
+            what is spot market of Gold and how it relates Gold Future. Physical gold trading in
+            any market in any city is spot market and spot price of one city may vary from the spot
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+7.22           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+              price of any other city. Thus, for F&O one city has to be marked and treated as
+             underlying of gold future. In India, Ahmedabad spot market is treated as underlying
+                  i.e. spot for gold futures.
+               Similarly stocks trading in NSE and BSE are treated as spot for their respective futures
+           and options in the respective exchanges.
+       9.    Spot price (S): It is the price at which the underlying asset trades in the spot market,
+                        it  is the value  of the underlying instrument. The spot market  is where financial
+              instruments, such as commodities, currencies, and securities, are traded for immediate
+               delivery. Delivery is the exchange of cash for a financial instrument. A futures contract,
+           on the other hand, is based on the delivery of the underlying asset at a future date.
+       10.    Strike price or Exercise price (X): Strike price is the price at which the underlying
+              security can be purchased or sold by the option holder, or it is the price at which the
+            two parties (the buyer and the seller) agree to enter into an options agreement.
+       11.    In the money (ITM) option: This option would give the holder a positive cash flow if it
+           were exercised immediately. A call option is said to be ITM when spot price is higher
+             than strike price. And a put option is said to be ITM when spot price is lower than strike
+               price.
+       12.   At the money (ATM) option: At the money option would lead to zero cash flow if it
+           were exercised immediately. Therefore, for both call and put ATM options, strike price
+                 is equal to spot price.
+       13.   Out of the money (OTM) option: Out of the money option is one with a strike price
+            worse than the spot price for the holder of the option. In other words, this option would
+             give the holder a negative cash flow if it were exercised immediately. A call option is
+             said to be OTM, when spot price is lower than strike price. And a put option is said to
+           be OTM when spot price is higher than strike price.
+       14.    Intrinsic value: Option premium, defined above, consists of two components - intrinsic
+             value and time value. In case of an option, intrinsic value refers to the amount by which
+             option is in the money i.e., the amount an option buyer will realize, without adjusting
+                for premium paid, if he exercises the option instantly.
+             Therefore, only in-the-money options have intrinsic value whereas at-the-money and
+             out-of-the-money options have zero intrinsic value. The intrinsic value of an option can
+            never be negative. Thus, for call option which is in-the-money, intrinsic value is the
+            excess of spot price (S) over the exercise (strike) price (X), Similarly, for put option
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+DERIVATIVE MARKET             7.23
+
+            which is in-the-money, intrinsic value is the excess of strike price (X) over the spot
+              price (S).
+       15.   Time value:  It is the difference between premium and intrinsic value,  if any, of an
+              option.
+       16.   Open Interest: Open interest is the total number of option contracts outstanding for
+           an underlying asset.
+       17.   Exercise of Options: In case of American option, buyers can exercise their option
+            any time before the maturity of contract. All these options are exercised with respect
+               to the settlement value/ closing price of the stock on the day of exercise of option.
+       18.   Assignment of Options: Assignment of options means the allocation of exercised
+             options to one or more option sellers. The issue of assignment of options arises only
+                in case of American options because a buyer can exercise his options at any point of
+              time.
+     Example
+       Let us understand the above terms with the help of the following example in which the
+        different terms are used in the options market:
+      Trade Information: Quote for Nifty 17900 Call option as on January 06, 2023:
+       1.     Instrument type: Option Index
+       2.     Underlying asset: Nifty
+       3.     Expiry date: January 12, 2023
+       4.     Option type: Call European
+       5.     Strike Price:                                    17900
+       6.    Open price:                                       196
+       7.    High price:                                        226
+       8.    Low price:                                           80.75
+       9.    Close price:                                       102.75
+       10.   Underlying value:                                17859.45
+       11.   Traded Volume (Contracts)                        19,75,975
+       12.   Traded Value (` Lakhs)                          1,16,137.93
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+7.24           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+       13.   Traded Value - Notional (` Lakhs)              1,78,01,114.18
+       14.   Volume Weighted Average Price (VWAP)              117.55
+       15.   Market Lot                                         50
+       16.   Open Interest (Contracts)                           96,398
+       17.   Change in Open Interest (Contracts)                  83,366
+       18.  % Change in Open Interest                          639.70
+      Trade Information: Quote for Nifty 17900 Put option as on January 06, 2023:
+       1.     Instrument Type: Option Index
+       2.     Underlying asset: Nifty
+       3.     Expiry date: January 12, 2023
+       4.     Option type: Put European
+       5.     Strike Price:                                    17900
+       6.    Open price:                                          72.05
+       7.    High price:                                        164.80
+       8.    Low price:                                           49.35
+       9.    Close price:                                       115.65
+       10.   Underlying value:                                17859.45
+       11.   Traded Volume (Contracts)                        29,70,031
+       12.   Traded Value (` Lakhs)                          1,48,798.55
+       13.   Traded Value - Notional (` Lakhs)              2,67,30,576.00
+       14.  VWAP                                            100.20
+       15.   Market Lot                                         50
+       16.   Open Interest (Contracts)                           66,773
+       17.   Change in Open Interest                            30,153
+       18.  % Change in Open Interest                            82.34
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+DERIVATIVE MARKET             7.25
+
+5.3.3. Types of Options
+Options are generally of two types: -
+5.3.3.1 Call Options:
+(i)     Call option Buyer: Buyer has a right to buy the underlying asset and the seller has the
+       obligation to sell the underlying asset at predefined price. However, it is the wish of the buyer
+       of call option buyer whether to exercise his right or not. If he/she exercises the right, then the
+        seller of the option shall be bound to sell the underlying asset at a predefined price i.e. strike
+       price. Another thing to ponder upon here is that the buyer of the call option shall only exercise
+       his right if he/she feels that it is better or profitable to exercise the option. The maximum loss
+       of the buyer is restricted to the amount of premium paid. But, his profit is unlimited. Breakeven
+       point of Call option buyer = strike price + premium amount.
+
+
+     The above picture shows the payoff graph of call option buyer
+         Stock Name                                                   SBI
+         Expiry                                                Jan 25, 2023
+         Current Date                                              19/01/2023
+      CMP (Current Mkt Price of Spot)                                589.70
+          Strike Price                                                  600
+        Premium on 19/01/2023                                    ` 3.30
+         At the time of taking buy position
+         Lot Size                                                   1500
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+7.26           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+Now the buyer has three possibilities i.e. price expires below 600, at 600 or above 600.
+Case 1: Expires below 600 then the call option will be worthless and become zero because the view
+of the buyer of the option that the price will expire above 600 proved wrong. Thus, he cannot force
+seller his right. Right can only be exercised once it accrues. Option premium will gradually reduce
+to zero as the time passes by and on the date and time of expiry it will be zero. This is also known
+as time decay.
+Case 2: Expires at 600, the call option buyer’s view was that the price will expire above 600. Thus
+in this case also the call option will be worthless and become zero. It will gradually reduce to zero
+as the time passes by and on the date and time of expiry becomes zero. This is also known as time
+decay.
+Case 3: If the price expires above 600. Now, the view of Call option buyer is happening to be right.
+The more it goes above 600 the more beneficial it will be for buyer. Anything above 600 will belong
+to buyer and buyer will have the right to get that benefit. Consider the following charts:
+ Expiry Rate       Buyer will have the right to get   Profit
+ 601                   1*lot size                         1-3.3= Loss of 2.3*lot size
+ 603                   3*lot size                        3-3.3=Loss of 0.30*lot size
+ 605                   5*lot size                           5-3.3 = Profit of 1.7*lot size
+ 609                   9*lot size                         9-3.3= Profit of 5.7*lot size
+ 618                  18*lot size                        18-3.3 = Profit of 14.7*lot size
+ 655                  55*lot size                       55-3= Profit of 51.7*lot size
+ 722                 122*lot size                      122-3.3= Profit of 118.7*lot size
+
+Buyer can exercise his right in two manners:
+(a)   Cash Settlement: In the event of cash settlement, the buyer of the option does not get the
+delivery of the underlying asset but rather gets the cash amount i.e. money equal to his right.
+By continuing the above example, in the case of cash settlement, the buyer will be entitled to get
+` 1 i.e., if the underlying asset expires at 601 or anything above ` 600, that belongs to buyer of
+the option multiply with lot size. For instance, if lot size is 1500 then he will get ` 1500. Please note
+that  if buyer is getting something due to his right then seller is under obligation to pay the same
+amount. Thus the right of buyer is automatically the obligation for the seller.
+As far as the profit is concerned, in the above example the buyer has the right to get ` 1 per share
+i.e., ` 1500 but he has already paid ` 4950 (3.3*1500) at the time of entering the contract as option
+premium. On expiry at 601 he will get ` 1500, so, effectively giving a loss of ` 4950-1500 = 3450.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+DERIVATIVE MARKET             7.27
+
+However, what would be the scenario if the price had gone up to ` 603. Buyer would have the right
+to get ` 3 per share i.e., 3*1500=4500, but already paid ` 4950 to enter the contract. So, again a
+loss of ` 450. Thus, the price of the stock of SBI must close at `603.30 to give the buyer the right
+to get ` 3.30 per share i.e., ` 3.30*1500=4950 the same amount which he paid at the time of entering
+the contract and thus reaches the breakeven level.
+And now any close above ` 603.30 of SBI spot will bring the buyer in profit. i.e., if the prices close
+at 608 then he will be entitled to get ` 8 per share (Right to get ` 8 per share) i.e., 8*1500 =` 12,000
+and has paid ` 4950 (3.3*1500) premium at the time of entering the contract and thus making a
+profit of ` 7050 (i.e.,12000-4950).
+Note: Since what the buyer will get is dependent upon the price movement of the spot (underlying)
+of SBI that is why  it is called the derivatives. An option itself cannot decide who will get what, but
+derives its value from the underlying instrument i.e., SBI Spot price.
+
+
+As we can see from the diagram, there are different strike prices available, and each strike price is
+independent of the other. One can enter into an options agreement, at a specific strike price, by
+paying the required premium. For example, one can enter a call option at a strike price of ` 600 by
+paying a premium of ` 3.3 or strike price of ` 605 by paying a premium of ` 2.15
+(b)    Physical Settlement: The buyer of the call option shall have the right to buy the underlying
+asset/stock at strike price i.e. in other words at discounted price and the discount will be his benefit.
+This is also known as right of the buyer to get the underlying asset at predetermined price i.e. strike
+price. This automatically will become the obligation of seller to sell the underlying asset/stock at
+strike price, irrespective of current market price. Buyer will exercise his right if it is beneficial for him
+to do so.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+7.28           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+In the above example, the buyer of the option will only exercise his right if SBI stock expires above
+600. As the call option holder has the right to buy the share i.e., underlying at ` 600, the seller will
+be forced to sell the same at ` 600. Further, if the share expires at ` 601 and the buyer exercises
+his right then he will save ` 1. But don’t forget that ` 3.30 already paid by him as premium while
+buying the Call option will lapse and even after exercising his right, he will still lose ` 2.3 i.e. (3.3-
+1). But if the share expires at 608 then he will save ` 8. And he will earn ` 4.7 i.e. (8-3.3).
+(ii)    Call option Seller (Writer): Seller of the options has the obligation and not the right to sell
+the underlying asset to the buyer at the predetermined price i.e., strike price. So, he has an obligation
+which he must fulfill if the future outcome is against him because in that case the buyer will exercise
+his right.
+Again, by referring to the Figure in previous page, if, Mr. A would have sold the Call option at a Strike
+price of 605 at ` 2.15 premium and the price go up and expires at ` 620, then, he is under obligation
+to sell the shares (equal to lot size) of SBI @ ` 605 to the call option buyer in case of physical
+settlement. In the case of cash settlement, he must pay the difference i.e., closing price – strike
+price (620-605=15) i.e., ` 15 to the buyer of the call option obviously multiplied by lot size. Profit/loss
+of the call option seller is as follows:
+= Premium – (Spot Price – Strike Price)
+= 2.15 – (620 – 615)
+= 2.15 – 15 = - 12.85
+5.3.3.2 Put Options
+Put option buyer: Buyer has the right to sell the underlying asset and the seller of the put option
+has the obligation to buy the underlying asset at predefined price. Obviously,  it is the wish of the
+buyer of put option whether to exercise his right or not. If he/she exercises the right, then the seller
+of the put option shall be bound to buy the underlying asset at a predefined price. Another thing to
+ponder upon here is that the buyer of the put option shall only exercise his right if he/she feels that
+it is better or profitable to exercise the option.
+In the figure of SBI, in case of physical settlement, if Mr. Tarun buys a put option of strike price 590
+@ ` 6.15 and the price comes down on the date of expiry to ` 570 then he will have the right to sell
+the shares to the seller of the put option @ ` 590, i.e., the strike price and the seller of the put option
+must buy the shares from Mr. Tarun. But, in the event of a cash settlement, the seller of the put
+option shall be under obligation to pay the difference between the strike price and expiry price i.e.,
+` 20 (590-570).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+DERIVATIVE MARKET             7.29
+
+But if the price goes above 590 then the buyer of the put option shall not have any obligation to sell
+at a cheaper rate as the buyer of options has only the right but not the obligation.
+
+
+Put option Seller:
+The seller of the options has the obligation to buy the underlying asset from the buyer at the
+predetermined price i.e., strike price. The seller does not have any right even if his view becomes
+right, but he has obligation if the future outcome is against him because in that case the buyer will
+exercise his right.
+In the figure of SBI, in case of physical settlement, we have seen that the seller of the put option of
+strike price 590@ ` 6.15 will be under obligation to buy the underlying shares of SBI equal to lot
+size from Mr. Tarun @ ` 590 if the share expires below 590 on the date of expiry.
+The premium he has received from Mr. Tarun of ` 6.15 will remain with the seller and he is not
+required to pay  it back. Note the premium received by seller belongs to him and is not to be paid
+back in any case.
+But  if the price expires above 590 say at 600 then what would have happened? The seller of the
+options does not have any right, he has only obligation, he cannot force buyer of the put option to
+sell the shares @ ` 590. Thus the premium he received will become his profit, as the buyer will not
+exercise his right because it will not be profitable for buyer of put option to exercise his right to sell
+the shares @ ` 590 when the market price is ` 600.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+7.30           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+5.3.4 Further explanation of the Concept of Intrinsic value and Time value:
+The premium of the option consists of Intrinsic Value and time value. i.e., Premium = Intrinsic Value
++ Time Value.
+Now, what is Intrinsic Value? It is the value you are entitled to get as an option buyer if the share
+expires at CMP i.e., if you have bought a Call option at ` 19 of Strike price at ` 540 when the CMP
+of the stock is 555. Now, if the stock expires at CMP i.e., at ` 555 then as a call holder do you have
+any right to get anything?
+The answer is yes, because the strike price of 540 call means that anything above 540 you have the
+right to get. Here, since the price has closed above 540 then you have the right to get ` 15 (555-
+540). This is called Intrinsic Value. Then what about the balance ` 4 you paid out of ` 19. This is
+time value.
+Note: Time value is what the buyer pays for the fact the future outcome can be beneficial for him.
+In other words, the value he pays for buying uncertainty with a probability that the future outcome
+may be in his favour. In the above example when the price of the 540-strike price call option is ` 19
+when the CMP is 555, if the price would have gone up then the call option buyer would have been
+more comfortable as his view is getting right.
+For example, if the CMP rises to 560 then the intrinsic value of the option would have moved up.
+Who knows  if the price would have gone up to ` 580 in such a scenario the intrinsic value would
+have been ` 40.
+Thus, we can also say the time value is the value which the buyer of the option pays to buy the time,
+with the hope that the stock will move in his desired direction and the option will become In the
+Money and will have more and more intrinsic value. Because at the time of expiry the option buyer
+will only get intrinsic value, as the time value will vanish at the time of expiry.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+DERIVATIVE MARKET             7.31
+
+Further note that at Strike price intrinsic value is zero both for calls and puts.
+And the more the difference between the Strike price and CMP the more is intrinsic value. For calls
+Intrinsic Value is CMP-SP, and for Puts it is SP-CMP (SP is Strike Price)
+And, also note that Intrinsic value cannot be negative i.e., either it is positive, or it is zero.
+Analysis for Intrinsic Value and Time Value for Calls: -
+In case of Calls    Intrinsic value                     Time Value
+Price   Increases
+and  goes  above
+Strike Price
+
+
+                        Intrinsic value will also go up for calls if  Time Value comes down with
+                    the price goes more and more above the  every passing day. As the time
+                       strike price.                                         left to expiry is coming down it
+                            i.e., CMP-Strike Price is intrinsic Value.  comes down.
+If the Price stays  No Effect
+at strike price.
+
+(Time       value
+decrease     with
+every passing day
+
+
+                                                    Time Value comes down with
+                                                          every passing day. As the time
+                                                                                   left to expiry is coming down it
+                                                 comes down.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+7.32           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+If the price goes
+down   but     still
+above Strike Price
+(For     example
+coming down from
+555 but still above
+540    in   above
+example)
+                                 If the CMP is above Strike price, then  Time Value comes down with
+                      Call will have intrinsic value and when  every passing day. As the time
+                    the price comes down the Intrinsic Value   left to expiry is coming down it
+                    also comes down.                   comes down.
+If the price goes  No Intrinsic Value in call option as the  Time Value comes down with
+down and is below   price is below 540 (Strike Price)          every passing day. As the time
+Strike Price                                                                    left   to   expiry    is  coming
+(For    Example
+coming down from
+540 to say 538)
+
+
+In case of Puts:
+Intrinsic value shall be there if price is below the Strike price.
+  In case of Puts              Intrinsic value               Time Value
+  Price Increases and is still
+  below Strike Price
+
+
+                                    Intrinsic value will come down  Time Value comes down with
+                                    for Puts as the price is below  every passing  day. As  the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+DERIVATIVE MARKET             7.33
+
+                      SP  there   is  some  Intrinsic  time left to expiry is coming
+                                value. But as soon as the price  down it comes down.
+                                        is approaching Strike price the
+                                    Intrinsic Value will come down
+                            as the difference between SP
+                          and CMP is decreasing.
+                                        i.e  Strike  Price   - CMP   is
+                                     intrinsic Value
+
+    If the Price stays at Strike  No Effect
+  Price.
+
+  (Time value decrease with
+  every passing day
+
+
+                                                      Time Value comes down with
+                                                            every passing  day. As  the
+                                                              time left to expiry is coming
+                                                  down it comes down.
+    If  the  price  goes down
+  further  below  the  Strike
+  Price
+  (For   Example,   coming
+  down from 540 to 530 i.e.,
+  further  below  the  strike
+  price of 540 mentioned in
+  above example)                                                   If the CMP is below the Strike
+                                  price, then put will have more  Time Value comes down with
+                                     intrinsic value as the difference  every passing  day. As  the
+                          between  SP  and  CMP   is  time left to expiry is coming
+                               increasing more and more.     down it comes down.
+                        IV=SP-CMP
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+7.34           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+    If the price goes up and is
+  above the Strike Price
+  (For  example  going  up
+  from 540 to say 545)
+
+
+                       No Intrinsic Value in Put option  As the time passes by the
+                            as  the  price  is  above  540  time    value     will   keep
+                                  (Strike Price).                  decreasing
+
+The concept of Out of the Money (OTM), At the Money (ATM) and In the Money (ITM) has been
+further explained with the help of following chart:
+   Option     Underlying    Strike Price   Option  OTM, ATM,   Intrinsic    Time
+    Type       CMP                      Price      ITM       value     Value
+      Call          652          640        18       ITM        12         6
+      Call          650          650        14      ATM         0        14
+      Call          651          650        14.5     ATM         1         13.5
+      Call          645          650         8      OTM         0         8
+     Put          687          680         8      OTM         0         8
+     Put          681          680        11.2     ATM         0         11.2
+     Put          679          680        12      ATM         1        11
+     Put          670          680        16       ITM        10         6
+Furthermore ATM, OTM and ITM has been explained with the help of an example as follows:
+In case of a call option, In the Money options takes place when strike price is below the CMP. For
+example, if the CMP price is at 510 then the strike price of 500, 490, 480, 470,460,450 are all in the
+money options because the price has already crossed these strike prices. You can also assume that
+when you talk about the call options you are looking up (technically it is buyers’ perspective) On the
+other hand, where it is standing at par with CMP, it is ATM and those which have crossed CMP are
+OTM.
+For Puts, ITM options are again the levels which are already crossed by the price. It CMP is 640
+then 650,66,670,680,690,700……… are all ITM puts. You may also assume that when you talk about
+puts options you are looking down (technically it is buyers’ perspective). Now, the level at 640 strike
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+DERIVATIVE MARKET             7.35
+
+price shall be known as ATM and 630,620,610,600,590……. the levels which are still to come will
+be known as OTM Puts.
+ATM options majorly have time value and may or may not have small intrinsic value. Example for
+Call Strike price 440 when CMP is 441 has ` 1 as intrinsic value and the balance is time value.
+5.3.5 Option Strategies:
+Before understanding the strategies one thing is important to understand that  if your view is right
+and price moves as per your view, then, you are entitled to get something. But, whether you will
+make a profit or loss will depend upon the fact that how much you are entitled to get. For example,
+you bought call of Strike Price 770 @ 8 when CMP is 765. Now if the price closes above 770 say at
+772 then you are entitled to get ` 2 but still you will make a loss of ` 6 because of the price of
+options i.e., premium at ` 8.
+5.3.5.1 Call Buy:
+When a buyer buys the call, his view is that the price will go up and if the price goes up and expires
+above the strike price then he will get something. For example, at CMP 230, Mr. A buy a call of
+Strike price 240 at ` 5 and the price closes at 252. Then Mr. A will be entitled to get ` 12 and he
+has incurred ` 5, his profit is ` 7 (12 – 5).
+
+
+5.3.5.2 Long Put:
+When a buyer buys a put option his view is that the price will go down and if the price goes down
+and expires below the strike price then he will get something. Example at CMP of 409 Mr. A buy a
+put option of Strike price 400 at ` 6 and the price closes at 387.5. Then Mr. A will be entitled to get
+` 12.5 and he has incurred ` 6 his profit is ` 6.5 (12.5 – 6).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+7.36           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+5.3.5.3 Short Call:
+When you are shorting (selling) the call option, the view is that the price will not go above the strike
+price. And if the price goes above the strike price, the buyer of call option will exercise his right if it
+covers the price of options i.e., the premium amount.
+
+
+5.3.5.4 Short Put:
+When you are shorting the put option the view is the price will not go below the strike price. And if
+the price goes below the strike price, the buyer of the put option will exercise his right if it covers the
+price of the option i.e. the premium amount.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+DERIVATIVE MARKET             7.37
+
+
+                    Call Long         Call Short       Put Long        Put Short
+ Loss Potential    Limited           Unlimited         Limited           Unlimited
+ Profit Potential   Unlimited         Limited           Unlimited         Limited
+ Right           Yes           No Right        Yes           No Right
+ Obligation      No Obligation    Yes           No Obligation    Yes
+
+ View               Action 1           Action 2
+ Bullish               Call Long           Put Short
+ Bearish             Put Long              Call Short
+
+    5.4  SWAPS:
+A swap is a part of derivative in which, two counterparties exchange future cash flows i.e., of one
+party's financial instrument for those of the other party's financial instrument.
+These instruments can be almost anything, but most swaps involve cash flows based on a notional
+principal amount that both parties agree to. Usually, the principal does not change hands.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+7.38           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+5.4.1 Important points in swaps:
+1.        It is an agreement between two parties to exchange cash flows in future.
+2.     Parties decide in advance the terms like dates when the cash flows will occur and currency
+        in which it will be made and mode of payment.
+3.     Calculation of cash flows normally involves the future value of one or more market variables.
+4.    The swap agreement defines the dates when the cash flows are to be paid and the way they
+      are accrued and calculated.
+5.     Usually at the time when the contract is initiated, at least one of these series of cash flows is
+      determined by an uncertain variable such as a floating interest rate, foreign exchange rate,
+       equity price, or commodity price.
+6.    The cash flows are calculated over a notional principal amount. Contrary to a future, a forward
+       or an  option, the  notional amount  is  usually not exchanged between counterparties.
+      Consequently, swaps can be in cash or collateral.
+7.    Swaps can be used to hedge certain risks such as interest rate risk, or to speculate on
+      changes in the expected direction of underlying prices.
+5.4.2 Swap Types
+1.    Most swaps are traded over the counter (OTC), "customized" for the counterparties.
+2.   Some types of swaps are also exchanged on futures markets.
+5.4.3 Swap Bank
+A swap bank is a term used to describe a financial institution that facilitates swapping arrangement
+between two counterparties. A swap bank can be an international commercial bank, an investment
+bank, a merchant bank, or an independent operator.
+5.4.4 Features of a Swap Bank
+♦    Serves as broker/swap dealer
+♦    Matches counterparties but usually doesn’t assume risk of swap
+♦    Swap broker receives commission for this service
+♦    Swap banks serve as dealers or market makers
+♦     Willing to accept either side of a currency swap
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+DERIVATIVE MARKET             7.39
+
+♦    Sometimes, assumes a position in the swap
+5.4.5 Examples of Swap
+Suppose Mr. A lives in India has to send money to his Aunty in USA ` 82,000 i.e., 1000 dollars per
+month. But he is worried if the Dollar rate appreciates then what will happen to him.
+He goes to a Swap Bank and asks for a solution. Banker says give me 5 days and will work out a
+solution for the same.
+Now the swap banker will find some person living in USA that can constantly send dollars in India.
+It finds Mr. B who lives in USA and sends Dollars in India say 1000 USD per month. The swap
+Banker will now enter into a tri-party agreement.
+Swap Banker will ensure that Mr. A must pay only ` 82,000 per month and assured him that all the
+dollar movements will not affect this contract. In the same way, it will assure Mr. B to keep paying
+only USD 1,000 per month and do not worry about currency movements. Swap bankers will charge
+small fees/commission or premium from both the parties.
+Now, what this swap banker will do is, he will use the 1,000 US dollars paid by Mr. B to pay Aunty ji
+of Mr. A and use the ` 82,000 paid by Mr. A to pay for the obligation of Mr. B in INR. Thus, technically
+he has not allowed the currencies to cross the territories and thus will remain immune to any currency
+changes or in other words, Swap banker has swapped the obligations of both Mr. A and Mr. B.
+In swapping, all the parties are winners i.e.,  it is a win-win situation for all. Mr. A and Mr. B get
+satisfaction and fear of adverse currency movement is taken care of. Swap banker will get his
+fee/commission.
+5.4.7 Credit Default Swaps (CDS)
+CDS can be defined as an insurance (not in sticker sense) against the risk of default on a debt which
+may be debentures, bonds etc.
+Let us take an example to understand CDS. One person who is willing to invest in bonds of a
+reference entity invests money in the same and buys the bonds for which it becomes entitled to get
+periodical interest and principal payment on maturity. Now, look at the thoughts of the buyer. If the
+company issuing bonds remains alive and does not default on payments then he will receive what it
+intended, and life will be cool. But,  if the reference entity i.e. the company defaults on payments,
+then it will be a problem for the buyer.
+So, the buyer decides to transfer his risk to CDS seller (just like insurance) by paying a fee
+commission or premium. He will enter a contract with the CDS seller that if the company defaults in
+interest and principal payments then CDS seller will pay to the CDS buyer. Now life for CDS buyer
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+7.40           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+is safe. He will get his money back, preferably from the company. But if the company defaults, then
+the CDS seller will pay to the buyer of bonds.
+
+
+                          which
+
+
+Interest rate Swaps:
+Suppose Company A and Company B wants to take loan and the details are as follows:
+Now let’s see how the swapping arrangement can be done for the same:
+  Company       View      Rate of Floating   Fixed Rate   Want To        If takes
+    Name                       rate offered by     Loan         take       loan as
+                              Bank         offered by               wanted
+                                             bank
+      A          Interest rates      9%           8.5%        Floating     9%
+  Good Credit       will come    Base Rate +3%                     rate loan
+   Worthiness      down      Base Rate = 6%
+      B          Interest rates      11%          11.5%     Fixed Rate    11.5%
+ Comparatively      will go up    Base Rate +5%                     loan
+   less Credit                 Base Rate = 6%
+    Worthy
+                          Total interest Both Company A and B pays.
+                        9% + 11.5% = 20.5%
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+DERIVATIVE MARKET             7.41
+
+  Company       View       Swapping     Loan Rate if   Whether   Agreement
+   Name                     Banker       Swapping     the loan       with
+                                             Banker       is as per   Swapping
+                                            Suggestion    the view    Banker
+                                             accepted                done
+     A            Interest    Says Company A      8.5%        No        Yes
+                   rates will       should take
+             come down      Fixed loan
+                                   instead of
+                                    Floating as
+                                    desired
+     B            Interest    Says Company B     11%       NO        Yes
+                  rates will go     should take
+                   up          Floating Rate
+                           Loan instead of
+                                Fixed loan as
+                                    desired
+                          Total interest Both Company A and B pays.
+                              8.5% + 11% = 19.5%
+
+
+Here, the swapping banker sees an opportunity to save 1% interest rate on loan amount. Swapping
+Banker asks both the companies to enter into a tripartite agreement and the companies will take
+such type of loan as the swapping banker asks them to but will pay the installments as per their
+original view, i.e., company A will now take Fixed rate loan but will pay installments of Floating rate
+loan. The same applies to Company B also.
+The modus operandi is that both the companies will pay to swapping banker and swapping banker
+will pay to the bank from which loan was taken. The benefit will be distributed between the three
+parties i.e., Swapping Banker, Company A and Company B. That is why it is said that swaps are a
+win-win situation for all the parties involved.
+
+               TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    An out-of-the-money option is _____________.
+       (a)   An option with a negative intrinsic value
+       (b)   An option with a positive intrinsic value
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+7.42           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+        (c)   An option with zero intrinsic value
+       (d)   None of the above
+2.   Who has the right to buy underlying asset at predetermined price?
+       (a)    Buyer of Call option
+       (b)    Seller of Call Option
+        (c)    Buyer of Put option
+       (d)    Seller of Put Option
+3.    You have shorted the Future of Gail Ltd. at ` 880 lot size 500. You want to make a profit of
+     ` 10,000 in your trade. What should be the price of Gail so that you will make the desired
+        profit :
+       (a)   ` 860
+       (b)   ` 890
+        (c)   ` 870
+       (d)   ` 900
+4.   A Stock is trading at ` 370. The Call options of Strike price ` 360 is trading at a premium of
+     ` 21. What is the Time value of the option:-
+       (a)   21
+       (b)   10
+        (c)   11
+       (d)   31
+5.    The Current Market price of the Stock Mind Tree Ltd. is 740. Which among the following is
+      deep in the money Put Option :-
+       (a)    Put Option of Strike Price 720
+       (b)    Put Option of Strike Price 740
+        (c)    Put Option of Strike Price 700
+       (d)    Put Option of Strike Price 780
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+DERIVATIVE MARKET             7.43
+
+6.    The share of Reliance Ltd. has current market price of 1020. The Call option of Strike price
+       of 1030 will be known as  :-
+        (a)    In-The -Money Call option
+        (b)    Out-of-The-Money Call option
+        (c)    At-The-Money Call Option
+        (d)   Deep In the Money
+7.    Which of the below statement is true :-
+        (a)    Buyer of the Option has Unlimited loss potential
+        (b)    Buyer of the Option has Limited loss potential
+        (c)    Seller of the Option has Limited loss potential
+        (d)    Seller of the Option has Unlimited Profit potential
+8.     Tick the false statement in Options :-
+       (a)    Buyer of the option pays the premium.
+       (b)    Buyer of the option has the right and not the obligation.
+        (c)    Loss of the seller of the option can be unlimited.
+       (d)     Profit of the seller of the Option is unlimited
+9.        If you have sold a XYZ futures contract (Lot Size 50) at 5600 and bought  it back at 5700,
+      what is your gain/loss?
+       (a)    Loss of ` 10,000
+       (b)    Loss of ` 5,000
+        (c)    Gain of ` 10,000
+       (d)    Gain of ` 5,000
+10.      If the price of the Stock is ` 570 the Call option of 560 strike price will be known as :-
+       (a)    In the Money
+       (b)   Out of the Money
+        (c)    At the money
+       (d)   Deep out of the Money
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+7.44           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+Theoretical Questions
+1.     Define Hedging.
+2.     Write a note on Arbitrage.
+3.    What are the risks in Derivatives?
+4.    What is Contango?
+5.     Differentiate between Cash Settlement and Physical Settlement in options contract.
+6.    Discuss the differences between Intrinsic Value and Time Value?
+Practical Questions
+1.    Miss Sherlyn sold the futures contract of a Stock at CMP 758. Now, she is worried about her
+       position. Suggest to her the ways to protect her position.
+2.    The CMP of a stock is 977 Put option of Strike price 990 is 32. Calculate Intrinsic Value.
+3.     Mr. Akash purchased a 3-month call option for 200 shares in ABC Ltd. at a premium of ` 25
+      per share, with an exercise price of ` 500. He also purchased a 3-month put option for 200
+      shares of the same company at a premium of ` 10 per share with an exercise price of ` 400.
+     The market price of the shares on the date of Mr. Akash’s purchase of options, is ` 450.
+       Calculate the profit or loss that Mr. Akash would make if the market price fell to ` 325 at the
+      end of 3 months.
+4.   ABC bank has loaned $50 million to a company for 6 years requiring periodic interest
+      payments equal to LIBOR + 2.4%. The bank’s policy requires all loans to be backed by a
+       credit default swap on the principal amount of loans made. In this case, the bank can buy a
+    CDS with a notional amount of $50 million. The CDS costs 3%.
+     What is the annual premium bank must pay to the CDS seller? Also calculate the amount
+      which the CDS seller must pay to ABC Bank in case the borrower defaulted on the final
+       principal payment and bank was able to collect only 60% of its principal amount.
+
+ANSWERS/SOLUTIONS
+Answers to Multiple choice Questions:
+    1.        (c)        2.        (a)        3.        (a)        4.        (a)        5.        (d)
+    6.        (b)        7.        (b)        8.        (d)        9.        (b)       10.        (a)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+DERIVATIVE MARKET             7.45
+
+Answers to Theoretical Questions:
+1.    Please refer to paragraph 1.6
+2.    Please refer to paragraph 1.6
+3.    Please refer to paragraph 1.5
+4.    Please refer to paragraph 5.2.3
+5.    Please refer to paragraph 5.3.3.1
+6.    Please refer to paragraph 5.3.4
+Answers to Practical Questions:
+1.    There are multiple ways to hedge the short position in Futures contract:
+        (a)   Buy Call option (also known as Protective call)
+        (b)    Sell Put Option (also known as covered put)
+2.      Intrinsic value shall be 990-977=13.
+3.    Since the market price at the end of 3 months fell to ` 325 which is below the exercise price
+      under the call option, the call option will not be exercised. Only put option is viable.
+     The gain per share = ` 400 – ` 325 = ` 75
+       Total gain per 200 shares = 200 shares x ` 75 = ` 15000
+      Cost of premium paid = (` 25 x 200 shares) + (` 10 x 200 shares) = ` 5000 + ` 2000
+     = ` 7000
+      So, net gain = ` 15000 - ` 7000 = ` 8000.
+4.    The bank must pay an amount equal to 3% of the notional amount to the CDS seller each
+       year. Annual premium amounts to $1.5 million (3% × $50 million).
+           If the borrower defaults on the final principal payment and the bank collects only 60% of its
+       principal back, it can claim the differential from the seller of the CDS.
+     The amount  it will receive from the CDS seller is approximately equal to $20 million ($50
+        million × (1 – 60%)).
+           If the borrower doesn’t default on the final principal amount, the bank will not receive anything
+      from the CDS seller.
+
+
+© The Institute of Chartered Accountants of India

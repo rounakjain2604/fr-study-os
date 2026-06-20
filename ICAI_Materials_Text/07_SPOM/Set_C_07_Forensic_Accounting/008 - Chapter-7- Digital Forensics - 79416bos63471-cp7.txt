@@ -1,0 +1,747 @@
+Source PDF: 07_SPOM/Set_C_07_Forensic_Accounting/008 - Chapter-7- Digital Forensics - 79416bos63471-cp7.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_07_Forensic_Accounting\008 - Chapter-7- Digital Forensics - 79416bos63471-cp7.pdf
+Extracted at: 2026-05-31T10:32:54+05:30
+Pages: 20
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          7
+         1
+DIGITAL FORENSICS
+
+
+                       LEARNING OUTCOMES
+
+After studying this chapter, you would be able to gain knowledge and understand the
+following:
+   Understand the nature of Digital forensics.
+    Clearly grasp the meaning of Digital evidence
+   Understand considerations for professionals prior to gathering evidence in the digital domain.
+   Gain an understanding about the use of technology tools employed to gather evidence in the
+        digital domain.
+   Understand the significance of the services of Digital forensic experts in evidence gathering.
+   Learn about laboratory analysis of physical and electronic evidence
+   Gain knowledge about important provisions of the Information Technology Act, 2000 having
+       implications for evidence-gathering.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+7.2          FORENSIC ACCOUNTING
+
+ CHAPTER OVERVIEW
+
+
+                                                  Digital forensic
+
+
+                                                                               Important legal
+                      Use of technology                                   Sections of                                                   Laboratory analysis     Digital evidence          tools in gathering                                     Information                                                               of evidence                                     digital evidence                                 Technology
+                                                                                         Act, 2000
+
+INTRODUCTION
+In the digital era, as most business activities and transactions shift to the digital domain, evidential
+matters required to complete Forensic Accounting and Investigations (FAI) assignments must be
+capable of satisfying the requirements of judicial scrutiny.  It also requires a new way to gather
+evidence.
+Digital forensic is a term used to refer to the whole process of identification, collection, acquisition,
+and preservation of digital evidence from digital media, which contains all data from the information
+systems and applications of an organization. Therefore, digital forensics is a broad term covering a
+gamut of activities consisting of identifying, collecting, acquiring and preserving digital evidence from
+digital media by a professional in FAI assignment.
+Digital forensics is a complex and time-consuming process that requires specialized skills and
+expertise. It is often used in criminal investigations, civil litigation, and other legal proceedings. A
+professional in an FAI assignment may be tasked with conducting digital forensics to gather evidence
+and information for various purposes.
+
+      7.1  MEANING OF DIGITAL EVIDENCE
+Forensic Accounting and Investigation Standard (FAIS) 420 defines “Digital evidence” as data or
+information acquired, stored, accessed, examined, transmitted and used in electronic form. Digital
+evidence needs to comply with applicable laws and a proper chain of custody in order to be
+admissible as evidence before a Competent Authority. The  first step in digital forensics is the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+DIGITAL FORENSICS              7.3
+
+identification of potential sources of digital evidence. This can involve examining computers, servers,
+mobile devices, and other digital storage media to determine what data may be relevant to the
+investigation. Once potential sources of evidence have been identified, the next step is to collect
+and acquire the data.
+Digital evidence is present in the digital domain, i.e. the electronic environment. This may be in the
+form of Information Systems (IS) used by an organisation or cyberspace (which includes the
+communication network connecting the organisation’s IS to the internet and the rest of the digital
+domain). An organization’s information system may include: -
+(a)    Email system, file servers and archival databases
+(b)    Enterprise Resource Planning (ERP) system
+(c)   Customer Relationship Management (CRM) system
+(d)   Management Information System (MIS)
+(e)    Financial Accounting System
+(f)   Human Resource Information System
+(g)   Document Management System (DMS)
+(h)    Learning Management System (LMS)
+(i)    Legal Workflow and Business Process System (LPS)
+An understanding of the application and system architecture is required, which can be quite technical
+in nature. It requires the expertise of a Digital Forensic Expert (DFE) to identify, collect, acquire, and
+preserve digital evidence.
+Digital evidence, for example, may be found in the form of: -
+(i)    Emails, instant messages in an organisation’s email system.
+(ii)    Electronic records in ERP, CRM, MIS, financial accounting systems, etc.
+(iii)   Computer files such as documents, spreadsheets, presentations, and databases, including
+      metadata such as date and time stamps, author information, and file properties.
+(iv)  Web browsing history, search queries, and cookies collected from a computer or mobile
+       device.
+(v)   Images or videos captured by surveillance cameras or other monitoring devices.
+(vi)    Social media posts, comments, or private messages.
+(vii)  System logs and audit trails generated by computer systems or networks.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+7.4          FORENSIC ACCOUNTING
+
+The process used for gathering and collecting evidence in the digital domain, which is to be used by
+a Professional conducting an FAI assignment or by parties other than the Professional or party
+subject to legal proceedings, is known as electronic gathering or e-discovery.
+The collection and acquisition of digital evidence must be done in a manner that preserves the
+integrity of the data. This involves using specialized tools and techniques to extract and copy the
+data while ensuring the original data is not modified or deleted. The digital evidence  is then
+preserved through various methods, including digital imaging, data encryption, and secure storage.
+Procedures applied to track the sequential movement of evidence through the gathering process
+from collection, storage, securing, safeguarding and analysis lifecycle are referred to as the Digital
+Chain of Custody. Each step is recorded, and each person who handled the evidence is documented,
+noting the date and time it was collected, stored, and transferred, as well as the purpose of such
+transfers.
+7.1.1  Considerations  for  professionals  before  conducting  evidence
+gathering in the digital domain
+The Professional may consider the following before conducting evidence gathering in the digital
+domain: -
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+DIGITAL FORENSICS              7.5
+
+(i)    Understanding of Information System (IS) environment: This would include several
+       steps, such as the following: -
+       (a)    Identifying the relevant hardware and software systems, including their purpose and
+              function in the organization's overall IT infrastructure.
+       (b)   Examining the network architecture, including its topology, protocols, and security
+              features.
+        (c)    Reviewing the organization's policies and procedures for information security and
+            data management, as well as any applicable regulatory requirements.
+       (d)    Identifying the  location  of data storage and backups and the procedures  for
+            accessing and securing that data.
+       (e)    Reviewing the organization's incident response and business continuity plans.
+         (f)     Identifying any third-party providers involved in the organization's IT infrastructure
+           and understanding their role in the overall system.
+(ii)   Understanding risk factors: The following risks may be involved  in e-discovery of
+      evidence, which would require appropriate mitigation steps, for example: -
+       (a)    Technical risks such as data corruption, incomplete data collection, inaccurate data
+              analysis, and errors in data conversion.
+       (b)    Legal risks such as violation of data protection laws, non-compliance with data
+              collection requests, and inadvertent disclosure of privileged information.
+        (c)   Human risks such as errors in data collection or analysis, breach of confidentiality,
+           and intentional destruction of evidence.
+(iii)   Defining a timeline for E-discovery: The timeline for e-discovery may vary depending on
+       the size and complexity of the data involved, the scope of the request, and the urgency of
+       the investigation.
+(iv)   Use of experts and appropriate tools: The Professional would assess the resources needed
+        for e-discovery, including the availability of specialized software tools and experts,  if
+       appropriate.
+      For example, EnCase, FTK (Forensic Toolkit), X-Ways Forensics, Oxygen Forensic Suite,
+      Access Data Forensic Toolkit, Cellebrite UFED, Pro Discover, Forensic Explorer, Autopsy
+     and Magnet AXIOM.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+7.6          FORENSIC ACCOUNTING
+
+(v)   Use of documented, laid down procedure: The Professional may  conduct the e-
+      discovery procedures, which are documented  in  writing  to ensure consistency and
+      accuracy. The documented  process may  stipulate  technical as  well as  regulatory
+      considerations for the e-discovery of evidence.
+(vi)   Technical considerations for e-discovery:
+       (a)   Data Collection and Preservation: Use of specialized software tools to preserve and
+               collect data from computers, servers, mobile devices, and other digital devices in
+             the digital domain. This includes preserving metadata such as date and time stamps,
+                  file size, and  file format and maintaining the integrity of data throughout the e-
+             discovery process.
+       (b)   Data Processing: Filtering out irrelevant data, converting data to a usable format and
+             indexing the data to facilitate searching and review using software tools.
+        (c)    Data Analysis: Use of specialized software tools to identify patterns, trends, and
+            anomalies in the data.
+       (d)    Encryption: Use of Industry-standard encryption techniques  in order to protect
+              sensitive data during transmission and storage and implementing secure key
+          management practices.
+       (e)   Data Storage: Storing data on secure, redundant storage media and implementing
+            data retention and deletion policies.
+         (f)     Quality Control: Exercising quality control checks in the e-discovery process to
+            ensure the accuracy and reliability of the data.
+       (g)   Search and Review: Use of software tools to search for relevant information and
+            review the data for relevance and privilege.
+(vii)   Relevant regulatory considerations for e-discovery process:
+       (a)    Rules of evidence: Compliance with rules of evidence required as per the court of
+            law and, in particular, 65B of Indian Evidence Act, 1872 relating to admissibility of
+              electronic records.
+       (b)   Chain of custody requirements: Compliance with chain of custody requires a detailed
+             record of evidence movement through the e-discovery process to ensure that the
+            evidence is admissible in court.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+DIGITAL FORENSICS              7.7
+
+        (c)    Confidentiality agreements: Compliance with confidentiality agreements may be
+             required to protect the confidentiality of sensitive information during the e-discovery
+             process.
+       (d)   Data protection laws: Compliance with data protection laws requires that personal
+            data be collected and processed lawfully and transparently.
+       (e)    Privacy laws: Compliance with privacy laws which require data protection from
+            unauthorized access and disclosure.
+         (f)    Data retention laws: Compliance with data retention laws requires data to be
+             retained for a specified period.
+       (g)    Preservation  orders: Compliance  with preservation  orders, which  require  that
+            evidence be preserved pending the outcome of legal proceedings.
+       (h)   Search warrants: Compliance with search warrants, which may be required to collect
+              certain types of evidence, such as email or social media data.
+          (i)    Summons: Compliance with summons, which may be required to produce certain
+             types of evidence, such as financial records or corporate emails.
+7.2   Use of technology tools
+Where  necessary,  the  Professional  deploys  appropriate  forensic  tools and  techniques  to
+authenticate the evidence, analyse the data and maintain a reliable chain of custody over the
+evidence. In the digital domain, gathering digital evidence requires using specific digital (software)
+tools and unique forensic techniques. The Professional (or the Expert) is expected to recognise and
+deploy the appropriate tools and methods for this purpose.
+As discussed earlier, the identification, collection, acquisition, and preservation of digital evidence
+from digital media are encompassed in digital forensics and are the set skills for digital forensic
+acquisition.
+(a)    Digital forensic acquisition is the forensic collection of data from all digital assets. It uses
+        digital forensic acquisition software.
+(b)      It requires multiple sets of digital forensic acquisition tools in which the digital forensic
+      experts are trained and well-equipped.
+(c)   Upon collection, acquisition, and preservation of  digital evidence media, the forensic
+      process of acquired digital media starts.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+7.8          FORENSIC ACCOUNTING
+
+(d)    Full recovery, indexing, hashing, file processing, information parsing, metadata parsing,
+       logs parsing, email processing, system artefacts, Internet parsing, data extraction, etc., are
+      performed.
+(e)   Upon completion of this process by a qualified and certified experienced digital forensic
+       expert, the following process, which consists of data analysis using e-discovery forensic
+      software or analytics tools, is undertaken. The e-discovery part covers the analysis of the
+      evidence acquired and processed (indexed). The Professional can use e-discovery features
+        in e-discovery software to search and gather digital evidence related to the case, as this is
+      a non-technical area. However, this still may require the support of a Digital forensic expert
+       to add evidence media and process and manage e-Discovery forensic software.
+Digital forensic experts can use any of the following digital forensic acquisition software tools:
+(a)   Encase Forensic Acquisition - for hard disk and Virtual OS
+(b)   FTK Imager for hard disk, memory, and virtual OS
+(c)   Axiom Acquire for hard disk and cloud storage.
+(d)   Oxygen Forensic Detective for Mobile acquisition and Cloud
+(e)   Hamcom GMD for Mobile acquisition
+(f)    Sumuri for Mac acquisition
+(g)     Intella for email acquisition
+(h)   X1 for Social Media acquisition
+(i)   FAW for social media and website acquisition
+(j)     Write Blocker Tableau TX1 hardware for server SAS hard disk and SATA hard disk
+       acquisition
+(k)   LIVE acquisition for all types of OS/system
+(l)   MD5 Testing LIVE Software X
+The Professional can use an e-Discovery forensic software. These accept and process an extensive
+data set for searches and analysis and have Artificial Intelligence (AI) capabilities built to ease the
+analysis, which is generally handled and well-managed by a Professional. Some of the capabilities
+are- Document categorization, Image categorization, OCR, Artifact relationship  links, in-depth
+intelligence searches, Timeline of artefacts, reporting, etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+DIGITAL FORENSICS              7.9
+
+The e-Discovery forensic software can import source evidence that has been acquired and
+processed (filtered) by any digital forensic acquisition software. The e-discovery forensic software
+has the capability of acquisition of evidence media but is limited to certain sources of media evidence
+(hard disk, cloud email, etc.). The Professional can use any of the following e-discovery forensic
+software:
+(a)     Intella Pro
+(b)   NUIX
+(c)     Relativity
+It is to be taken note that Digital forensic experts do data gathering forensically, where it does not
+matter what kind of data  it  is but complies and adheres  to the  digital forensic process  for
+identification, collection, acquisition, and preservation of digital evidence from digital media.
+The Professional analyses the content of such data obtained by the Digital forensic expert and
+gathers digital evidence to relate back to the investigative work with the help of e-discovery forensic
+or any other analytical software. It’s possible that the Professional may not possess all the technical
+skills of the Digital forensic expert, in which case the Digital forensic expert would be charged with
+all the work procedures of collecting, acquiring and preserving digital evidence from digital media.
+It may be somewhat risky for a Professional to undertake the technical work steps due to the legal
+ramifications of any missteps in this regard since it’s possible that in a court of law, the cross-
+examinations could get highly technical, exposing the Professional with limited expertise in this area.
+With regard to the requirements of the expertise of a Digital forensic expert, the Professional is
+required to look at the requirements of FAIS 230 "Using the work of an Expert" for completing the
+tasks in a systematic manner.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+7.10          FORENSIC ACCOUNTING
+
+
+Overview of evidence gathering process in the digital domain
+ #      Stage             Description
+ 1       Identify     Data   Identify Data sources from the digital domain, such as laptops, mobile
+        Source            phones, server data, etc.
+                                 Identify relevant custodians and date range of data to be collected.
+                         Note
+                                         -     This can be done by the Professional with the support and
+                                advice of the Digital forensic expert
+                                        -     The location of data would be best known to the Digital
+                                   forensic expert, where the data will be stored in a system and
+                          how it would be stored, such as the cloud, the access control,
+                                  the storage, the encryptions, the application behaviour, and
+                                  other dependencies, etc.
+ 2      Data              Prevent any loss or alteration of data in the DD.
+         Preservation            It may involve creating a copy of the data or implementing legal holds to
+                            prevent the destruction of any relevant data
+                         Note
+                                        -      This can be considered as media preservation.
+                                        -     Preserve the media which contains the data.
+                        –    The access to the media can be restricted because  it could
+                                 lead to tampering.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+DIGITAL FORENSICS              7.11
+
+ 3      Data Collection    Use  of  specialised software  to  collect  digital evidence and  digital
+                                footprints from various sources while maintaining its integrity.
+                         Note
+                                        -     Data collection can be done by a Digital forensic expert with
+                                  the necessary hardware/software.
+                                        -      This process is called Forensic acquisition and preservation
+                                      to maintain integrity.
+ 4      Data Processing    Filtering out relevant data and converting data into a usable format
+                            Indexing the data to facilitate searching and review.
+                         Note
+                         Data Processing is more on recovering, indexing, hashing the data,
+                               categorization, compiling all system artefacts, compiling web and internet
+                                artefacts, document artefacts, and other data processing tasks. It also
+                           performs keyword searches.
+                       The AI is being implemented in Digital forensic tools to perform OCR, and
+                              categorization of such as drugs, human weapons, credit cards, etc.
+                          Another part of data processing is the extraction and import of the data
+                                  for e-Discovery forensic applications.
+                         There are separate tools for Media/Data Forensic Acquisition, such as
+                          Encase, FTK Imager, Axiom, Tableu hardware, Surumi, etc.
+ 5      Data Review and  Review  of  data  by human  experts  for  relevance,  privilege  and
+         Analysis             confidentiality.
+                            Categorising of data for further analysis to identify patterns, trends and
+                          anomalies
+                      Use of DA techniques such as keyword searching, data visualisation and
+                                   statistical analysis to identify relevant facts.
+ 6       Presentation/       Preparation of fact-finding report and production of data in a format that
+         Reporting             is admissible in court
+                           Expert Testimony, as required
+
+7.3   Laboratory analysis of physical and electronic evidence
+Forensic examinations may be carried out in the fields like Chemistry, Questioned documents, Digital
+forensics and Physics. Physical evidence includes materials which a suspect may leave at the scene
+of the incident. The purpose of the collection and examination of physical evidence is to link the
+crime with the criminal. To achieve this purpose, all basic sciences and their methodologies are
+being utilised for the analysis and comparison of physical evidence materials. For example, in a
+forensic assignment to investigate the circumstances of a fire loss, the Professional may send
+material from the affected site to know its chemical composition. The findings of the laboratory may
+help him in obtaining evidence regarding the nature of the damaged material and the presence of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+7.12          FORENSIC ACCOUNTING
+
+any foreign elements in a sample collected.
+Illustration of forensic findings from a sample of debris/other samples in a  fire claim
+conducted by a laboratory
+
+♦     Short-circuit not detected in electric wiring samples
+♦    Traces of fire accelerants in the form of heavy petroleum distillate detected in debris
+      samples
+♦     Fire accelerating agent of heavy petroleum distillate - a source of acceleration
+♦    Suspicious patterns observed during the investigation indicating the incendiary nature of
+       the fire
+♦     Deletion of data from the DVR device
+♦     Confirmation of intentional deletion of data prior to fire date and switching off CCTV DVR
+♦     Intentional fire patterns with signs of man-made fire
+
+There  are  accredited  labs  specialising  in  different  fields/areas  like  chemicals,  electronics,
+mechanical, etc., and their services can be used depending upon the type of circumstances. For
+example, the National Accreditation Board for Testing and Calibration Laboratories (NABL), which
+is a constituent Board of the Quality Council of India, has accredited testing laboratories in
+accordance with international standards. There are also Central and state forensic laboratories in
+India.   Such   labs   require   requests   from   competent   authorities   of   central/state
+governments/organisations for case acceptance.
+Certain laboratories have also been notified as Examiner of Electronic Evidence under relevant
+provisions of Information Technology Act, 2000. Laboratories specialising in examining electronic
+evidence may cater to different requirements in digital forensics, such as optical media forensics,
+damaged media examination, and SIM card analysis of mobile phones.
+7.4   Important legal sections of the Information Technology Act, 2000
+Despite all laws being an integral part of the engagement, certain laws are specifically applicable to
+FAI engagements. These laws form an essential basis  for the Professional  to conduct the
+engagement and are known as direct impact laws in accordance with FAIS 130. The Professional is
+expected to have a basic understanding of these direct impact laws to plan and conduct the
+engagements
+Direct Impact Laws are an integral part of most engagements since they are broad in nature with an
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+DIGITAL FORENSICS              7.13
+
+influence over most facets and types of engagements. Information Technology Act of 2000 is an
+example of Direct Impact Law as an electronic gathering of evidence is governed by a special
+procedure mentioned in this law.
+The main objective of the Information Technology Act 2000 is to provide legal recognition for
+transactions carried out by means of electronic data interchange and other means of electronic
+communication, commonly  referred  to as  “electronic commerce”, which  involve  the use  of
+alternatives to paper-based methods of communication and storage of information and to facilitate
+electronic filing of documents with the Government agencies.
+Gathering evidence in the digital domain is conducted by those with the requisite skills, expertise
+and experience of working in such a domain to preserve the reliability and admissibility of digital
+evidence before a Competent Authority. There are legal provisions in the Information Technology
+Act of 2000 for penalties and compensation for damage to computers and computer systems,
+tampering with computer source documents, violation of privacy and similar/related matters. Such
+important legal provisions have to be taken into consideration for preserving the reliability and
+admissibility of digital evidence during the course of legal proceedings.
+Overview of critical legal sections of the Information Technology Act, 2000
+ S.No.     Section Number      Section Title
+ 1        4                     Legal recognition of electronic records
+ 2        43                     Penalty and compensation for damage to computer, computer
+                                  system, etc
+ 3        43A                 Compensation for failure to protect data
+ 4        45                    Residuary penalty
+ 5        65                  Tampering with computer source documents
+ 6        66                  Computer related offences
+ 7        66B                 Punishment for dishonestly receiving stolen computer
+                                   resource or communication device
+ 8        66C                 Punishment for identity theft
+ 9        66D                 Punishment for cheating by
+                                   personation by using computer resource
+ 10       66E                 Punishment for violation of privacy
+ 11       67                   Punishment for publishing or
+                                       transmitting obscene material in electronic form
+ 12       79A                    Central Government to notify Examiner of Electronic Evidence
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+7.14          FORENSIC ACCOUNTING
+
+Section 4 Legal recognition of electronic records–Where any law provides that information or
+any other matter shall be in writing or in the typewritten or printed form, then, notwithstanding
+anything contained in such law, such requirement shall be deemed to have been satisfied if such
+information or matter is–
+(a)    rendered or made available in an electronic form; and
+(b)    accessible so as to be usable for a subsequent reference
+Section 43 Penalty and compensation for damage to computer, computer system, etc.–If any
+person without permission of the owner or any other person who is in charge of a computer, computer
+system or computer network, –
+(a)   accesses or secures access to such computer, computer system or computer network or
+      computer resource;
+(b)    downloads, copies or extracts any data, computer data base or information from such
+      computer, computer system or computer network including information or data held or
+      stored in any removable storage medium;
+(c)    introduces or causes to be introduced any computer contaminant or computer virus into
+      any computer, computer system or computer network;
+(d)   damages or causes to be damaged any computer, computer system or computer network,
+       data, computer database or any other programmes residing in such computer, computer
+      system or computer network;
+(e)    disrupts or causes disruption of any computer, computer system or computer network;
+(f)    denies or causes the denial of access to any person authorised to access any computer,
+      computer system or computer network by any means;
+(g)    provides any assistance to any person to facilitate access to a computer, computer system
+       or computer network in contravention of the provisions of this Act, rules, or regulations
+     made thereunder;
+(h)    charges the services availed of by a person to the account of another person by tampering
+       with or manipulating any computer, computer system, or computer network;
+(i)     destroys, deletes or alters any information residing in a computer resource or diminishes
+         its value or utility or affects it injuriously by any means;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+DIGITAL FORENSICS              7.15
+
+(j)     steal, conceal, destroys or alters or causes any person to steal, conceal, destroy or alter
+      any computer source code used for a computer resource with an intention to cause damage;
+(k)   he shall be liable to pay damages by way of compensation to the person so affected.
+Explanation. –For the purposes of this section, –
+(i)    “computer contaminant” means any set of computer instructions that are designed
+       (a)    to modify, destroy, record, transmit data or programme residing within a computer,
+            computer system or computer network; or
+       (b)   by any means to usurp the normal operation of the computer, computer system, or
+            computer network;
+(ii)    “computer database” means a representation of information, knowledge, facts, concepts or
+       instructions in text, image, audio, or video that are being prepared or have been prepared
+        in a formalised manner or have been produced by a computer, computer system or
+      computer network and are intended for use in a computer, computer system or computer
+      network;
+(iii)   “computer virus” means any computer instruction, information, data or programme that
+       destroys, damages, degrades or adversely affects the performance of a computer resource
+       or attaches itself to another computer resource and operates when a programme, data or
+       instruction is executed or some other event takes place in that computer resource;
+(iv)   “damage” means to destroy, alter, delete, add, modify or rearrange any computer resource
+      by any means.
+(v)    “computer source code” means the listing of programme, computer commands, design and
+       layout and programme analysis of computer resource in any form.
+Section 43A Compensation for failure to protect data. – Where a body corporate, possessing,
+dealing or handling any sensitive personal data or information in a computer resource which it owns,
+controls or operates, is negligent in implementing and maintaining reasonable security practices and
+procedures and thereby causes wrongful loss or wrongful gain to any person, such body corporate
+shall be liable to pay damages by way of compensation to the person so affected.
+Explanation. –For the purposes of this section, –
+(i)    “body corporate” means any company and includes a firm, sole proprietorship or other
+       association of individuals engaged in commercial or professional activities;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+7.16          FORENSIC ACCOUNTING
+
+(ii)    “reasonable security practices and procedures” means security practices and procedures
+      designed to protect such information from unauthorised access, damage, use, modification,
+       disclosure or impairment, as may be specified in an agreement between the parties or as
+     may be specified in any law for the time being in force and in the absence of such
+      agreement or any law, such reasonable security practices and procedures, as may be
+      prescribed by the Central Government in consultation with such professional bodies or
+       associations as it may deem fit;
+(iii)    “sensitive personal data or information” means such personal information as may be
+      prescribed by the Central Government in consultation with such professional bodies or
+       associations as it may deem fit.
+Section 45 Residuary penalty- Whoever contravenes any rules, regulations, directions or orders
+made under this Act, for the contravention of which no penalty has been separately provided, shall
+be liable to pay a penalty not exceeding one lakh rupees, in addition to compensation to the person
+affected by such contravention not exceeding—
+(a).   ten lakh rupees, by an intermediary, company or body corporate; or
+(b).   one lakh rupees, by any other person.
+Section 65 Tampering with computer source documents.–Whoever knowingly or intentionally
+conceals, destroys or alters or intentionally or knowingly causes another to conceal, destroy, or alter
+any computer source code used  for a computer, computer programme, computer system or
+computer network, when the computer source code is required to be kept or maintained by law for
+the time being in force, shall be punishable with imprisonment up to three years, or with fine which
+may extend up to two lakh rupees, or with both.
+Explanation. –For the purposes of this section, “computer source code” means the listing of
+programmes, computer commands, design and layout and programme analysis  of computer
+resource in any form.
+Section 66 Computer related offences. – If any person, dishonestly or fraudulently, does any act
+referred to in section 43, he shall be punishable with imprisonment for a term which may extend to
+three years or with fine which may extend to five lakh rupees or with both.
+Explanation. –For the purposes of this section, –
+(a).   the word “dishonestly” shall have the meaning assigned to  it in section 24 of the Indian
+      Penal Code (45 of 1860);
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+DIGITAL FORENSICS              7.17
+
+(b).   the word “fraudulently” shall have the meaning assigned to  it in section 25 of the Indian
+      Penal Code (45 of 1860).
+Section  66B  Punishment  for  dishonestly  receiving  stolen  computer  resource  or
+communication device – Whoever dishonestly received or retains any stolen computer resource
+or communication device knowing or having reason to believe the same to be stolen computer
+resource or communication device, shall be punished with imprisonment of either description for a
+term which may extend to three years or with fine which may extend to rupees one lakh or with both.
+Section 66C Punishment for identity theft–Whoever, fraudulently or dishonestly make use of the
+electronic signature, password or any other unique identification feature of any other person, shall
+be punished with imprisonment of either description for a term which may extend to three years and
+shall also be liable to fine which may extend to rupees one lakh.
+Section 66D Punishment for cheating by personation by using computer resource– Whoever,
+by means of any communication device or computer resource cheats by personating, shall be
+punished with imprisonment of either description for a term which may extend to three years and
+shall also be liable to fine which may extend to one lakh rupees.
+Section 66E Punishment for violation of privacy–Whoever, intentionally or knowingly captures,
+publishes or transmits the image of a private area of any person without his or her consent, under
+circumstances violating the privacy of that person, shall be punished with imprisonment which may
+extend to three years or with fine not exceeding two lakh rupees, or with both.
+Explanation. –For the purposes of this section–
+(a)    “transmit” means to electronically send a visual image with the intent that it be viewed by a
+      person or persons;
+(b)    “capture”, with respect to an image, means to videotape, photograph, film or record by any
+      means;
+(c)    “private area” means the naked or undergarment clad genitals, public area, buttocks or
+      female breast:
+(d)    “publishes” means reproduction in the printed or electronic form and making it available for
+       public;
+(e)    “under circumstances violating privacy” means circumstances in which a person can have
+      a reasonable expectation that–
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+7.18          FORENSIC ACCOUNTING
+
+          (i)    he or she could disrobe in privacy, without being concerned that an image of his
+              private area was being captured; or
+           (ii)    any part of his or her private area would not be visible to the public, regardless of
+            whether that person is in a public or private place.
+Section 67 Punishment for publishing or transmitting obscene material in electronic form.–
+Whoever publishes or transmits or causes to be published or transmitted in the electronic form, any
+material which is lascivious or appeals to the prurient interest or if its effect is such as to tend to
+deprave and corrupt persons who are likely, having regard to all relevant circumstances, to read,
+see or hear the matter contained or embodied in  it, shall be punished on  first conviction with
+imprisonment of either description for a term which may extend to three years and with fine which
+may extend  to  five lakh rupees and  in the event  of second or subsequent conviction with
+imprisonment of either description for a term which may extend to five years and also with fine which
+may extend to ten lakh rupees.
+Section 79A Central Government to notify Examiner of Electronic Evidence–The Central
+Government may, for the purposes of providing expert opinion on electronic form evidence before
+any court or other authority specify, by notification in the Official Gazette, any Department, body or
+agency of the Central Government or a State Government as an Examiner of Electronic Evidence.
+Explanation–For the purposes of this section, “electronic form evidence” means any information of
+probative value that  is either stored or transmitted in electronic form and includes computer
+evidence, digital audio, digital video, cell phones, digital fax machines.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+DIGITAL FORENSICS              7.19
+
+            TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.     Digital evidence needs to comply with applicable laws and proper chain of custody in order
+       to be admissible as evidence before a Competent Authority. In this context, which of the
+       following is the most appropriate meaning of “Digital Chain of custody”?
+       (a)      It refers to procedures used for gathering and collecting evidence in the digital
+            domain, which is to be used by a Professional conducting an FAI assignment.
+       (b)      It refers to the electronic environment where digital evidence is present.
+        (c)       It refers to procedures applied to track the sequential movement of evidence through
+             the gathering process from collection, storage, securing, safeguarding and analysis
+               lifecycle.
+       (d)      It refers to the user’s web browsing history or social media activity.
+2.    During the course of FAI engagement, the data source for evidence gathering in the digital
+      domain can be best known: -
+       (a)   by professional himself
+       (b)    with the support of a Digital forensic expert
+        (c)    by notified the examiner of electronic evidence
+       (d)    with the support of the suspect
+3.    During the course of FAI engagement, the professional uses software capable of accepting
+      and processing an extensive set of data for searches and analysis and has  Artificial
+       Intelligence (AI) capabilities built like document categorisation, image categorisation, OCR,
+       artefact relationship links, in-depth intelligence searches, a timeline of artefacts, reporting,
+       etc. Such a software can be best described as: -
+       (a)    Digital forensic acquisition software
+       (b)    e-discovery forensic software
+        (c)   Encase forensic acquisition for hard disk and virtual OS
+       (d)    Digital footprint software
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+7.20          FORENSIC ACCOUNTING
+
+4.    The Central Government had notified the Central Forensic Science Laboratory, Hyderabad
+      (CFSL) as examiner of electronic evidence. Under the provisions of which law was CFSL
+      so notified?
+       (a)   Companies Act, 2013
+       (b)    Indian Evidence Act, 1872
+        (c)    Information Technology Act, 2000
+       (d)   The Digital Personal Data Protection Act, 2023
+5.   A fire has broken out in the storage facility of an entity manufacturing computer hard disk
+       drives. Easy Insurance Limited has appointed a forensic accountant to investigate the
+      circumstances and genuineness of the claimed loss. In this context, which of the following
+      does not constitute digital evidence?
+       (a)    Videos captured by surveillance cameras
+       (b)    Audit trails generated by computer systems
+        (c)    E-mails in the entity’s email system
+       (d)   Sample of damaged hard disk drive
+Answers to Multiple Choice Questions:
+    1.         (c)        2.        (b)        3.        (b)        4.         (c)        5.        (d)
+
+
+© The Institute of Chartered Accountants of India

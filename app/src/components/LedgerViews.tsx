@@ -781,7 +781,7 @@ function AiServerPanel() {
         <input
           className="ai-server-input"
           inputMode="url"
-          placeholder="https://fr-study-os-api.<you>.workers.dev"
+          placeholder="https://trinsic-api.<you>.workers.dev"
           type="url"
           value={serverUrl}
           onChange={(event) => setServerUrl(event.target.value)}

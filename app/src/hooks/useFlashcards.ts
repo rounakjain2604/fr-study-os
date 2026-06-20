@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import {
   deckStats,
   deriveChapterCards,
@@ -30,27 +30,32 @@ export const useFlashcards = () => {
   const allCards = useMemo(() => [...chapterCards, ...userCards.map(userCardToFlashcard)], [chapterCards, userCards]);
   const stats = useMemo(() => deckStats(allCards, progress), [allCards, progress]);
 
-  const addUserCard = (front: string, back: string, sourceMistakeId?: string) => {
+  const userCardMistakeIds = useMemo(
+    () => new Set(userCards.map((card) => card.sourceMistakeId).filter((id): id is string => !!id)),
+    [userCards],
+  );
+
+  const addUserCard = useCallback((front: string, back: string, sourceMistakeId?: string) => {
     if (!front.trim() || !back.trim()) return;
     setUserCards((cards) => [makeUserCard(front, back, sourceMistakeId), ...cards]);
-  };
+  }, []);
 
-  const removeUserCard = (cardId: string) => {
+  const removeUserCard = useCallback((cardId: string) => {
     setUserCards((cards) => cards.filter((card) => card.id !== cardId));
     setProgress((current) => {
       const next = { ...current };
       delete next[`user:${cardId}`];
       return next;
     });
-  };
+  }, []);
 
-  const grade = (cardId: string, cardGrade: CardGrade) => {
+  const grade = useCallback((cardId: string, cardGrade: CardGrade) => {
     setProgress((current) => ({ ...current, [cardId]: gradeCard(current[cardId], cardGrade) }));
-  };
+  }, []);
 
-  const resetProgress = () => setProgress({});
+  const resetProgress = useCallback(() => setProgress({}), []);
 
-  const hasCardForMistake = (mistakeId: string) => userCards.some((card) => card.sourceMistakeId === mistakeId);
+  const hasCardForMistake = useCallback((mistakeId: string) => userCardMistakeIds.has(mistakeId), [userCardMistakeIds]);
 
   return { userCards, progress, stats, addUserCard, removeUserCard, grade, resetProgress, hasCardForMistake };
 };

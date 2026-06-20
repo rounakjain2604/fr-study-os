@@ -1,0 +1,1870 @@
+Source PDF: 03_Audit_Assurance_Ethics/016 - Chapter 16- Internal Audit - 74949bos60526-cp16.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\03_Audit_Assurance_Ethics\016 - Chapter 16- Internal Audit - 74949bos60526-cp16.pdf
+Extracted at: 2026-05-31T10:22:16+05:30
+Pages: 37
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER           16
+         7
+
+INTERNAL AUDIT
+
+
+                           LEARNING OUTCOMES
+
+ After studying this chapter, you will be able to:
+❑  Know the meaning and scope of Internal Audit.
+
+❑   Gain the knowledge of the internal audit as per provisions of the
+     Companies Act, 2013.
+
+❑   Gain understanding of basic steps and activities involved in internal
+       audit.
+
+❑   Gain understanding of drafting of internal audit report.
+
+❑   Analyse the relationship between Internal and External Auditors.
+
+❑   Understand the Audit Trail.
+
+❑   Acquire the knowledge of basics of the Internal Auditing Standards issued
+     by the ICAI.
+
+
+ © The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+16.2         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+CHAPTER OVERVIEW
+
+
+                           Integrity,                                                                Relationship                                                   Steps involved  Meaning and      Objectivity and      Qualities of                            Drafting of        between                                                                    in performing   Scope of      Independence         Internal                             Internal Audit       Internal and                                                               Internal Audit  Internal Audit        of Internal           Auditor                            Report           External                                               Engagement                        Auditor                                                                   Auditors
+
+
+                                 Internal Audit
+
+
+Try and Scale Limited, a listed company, has advertised for the post of “Chief Internal
+Auditor” in the company in few prominent pink newspapers. CA. P. is offered the position
+after duly vetting his credentials. The offer letter of the company states that Chief Internal
+Auditor is required to report to the CFO of the company. On going through contents of letter,
+he finds it weird. What is unusual about it and why?
+
+Since internal audit is an independent function, the Internal Auditor has to be free from any
+undue influences which force him to deviate from the truth. Also, the internal auditor has to
+resist any undue pressure or interference in establishing the scope of the assignments or the
+manner in which these are conducted and reported- in case these deviate from set objectives.
+The independence of internal auditor within the company plays a large part in establishing
+his independence.
+
+He immediately brought out this anomaly to the company pointing out that same is not proper.
+By making him report to the CFO of the company, his independence as internal auditor would
+lie in tatters. It was also pointed by him that to ensure independence of internal audit function,
+it should be positioned outside the functions which are subject to internal audit (e.g., Finance
+and Accounts) and his reporting should lie directly to the Audit Committee.
+
+Besides, the offer letter also hinted at his role in “system automation” and “process re-
+engineering” in the company. Assuming proposed roles in above areas can also mar his
+independence. He was confused. “System automation” and “process re-engineering” are in
+nature of operational responsibilities. How he can accept responsibilities in this regard?
+Considering above, he thought it worthwhile to give a caveat to the company that he would
+not be in a position to assume accountability of these areas. It was also made clear that he
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+INTERNAL AUDIT           16.3
+
+
+would not be able to take operational decisions in these areas which may be subject to
+internal audit later on. He would be able to accept only limited operational role and that too
+for a short duration.
+
+The company gave a nod to both the issues flagged by him and position was accepted.
+
+After accepting appointment, he adopted a risk-based approach for identifying important
+audit areas. The company’s operations were myriad and diversified.  It made sense to him to
+adopt a system and process focused approach in conducting audit procedures. Such an
+approach would go a long way in “error prevention.” His focus remained on preventing errors
+at the first place. Such an approach strengthens company’s internal systems leading to
+improvement in governance mechanisms.
+
+
+     1.  INTERNAL AUDIT
+
+The operation of many modern organisations have become complex with high volume of transactions
+carried out at multiple locations with increasing dependency on technology. This has caused further
+                                       more    delegation     of     authorities    and
+                                                  decentralisation of activities. Consequently, key
+                          Assur                  stakeholders including Board  of Directors, top
+                            -ance                                        management,  shareholders,  lenders,  investors
+                                        and government are concerned with the propriety
+              Insight                                   of the day-to-day affairs of the organization and
+                                                              reliability of the various financial and non-financial
+                               Objectivity               information being recorded and reported to the
+                                                stakeholders. Accordingly, the stakeholders get
+                                                      internal audit conducted to obtain report on the
+                                                  deficiency   in   internal   control  system  and
+underlying transactions for better governance of organization and take timely remedial actions
+wherever needed.
+
+The Institute of Chartered Accountants of India constituted the Internal Audit Standards Board
+(IASB) as a non-standing technical board on February 5, 2004. The Internal Audit Standard Board
+(earlier known as the Committee on Internal Audit) is constituted with the object of formulating
+Standards on Internal Audit (SIAs), Guidance Notes on Internal Audit, continuously review the
+Standards and Guidance Notes, and to formulate and review Implementation Guides, Technical
+Guides, Practice Manuals, Studies and other papers, which may be issued under its own authority
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+16.4         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+for guidance of the members, as felt appropriate by the Board. Besides, the IASB also undertakes
+research and promote knowledge dissemination in the field of internal audit.
+
+Definition of Internal Audit: As defined in Framework Governing Internal Audits, “Internal Audit
+provides independent assurance on the effectiveness of internal controls and risk management
+processes to enhance governance and achieve organisational objectives.”
+
+The Framework also indicates the nature of internal audit services may go beyond assurance to
+include an advisory (consulting) role to help an organization achieve its objectives, provided this
+does not compromise the independence of the internal auditor. The internal auditing is not confined
+to financial transactions only and include review of operational activities, underlying internal controls,
+compliance to applicable laws and regulations. The objectives and scope of Internal Audit Function
+as per SA 610, “Using the Work of an Internal Auditor” may include:
+ •     Monitoring of internal controls;        •     Review  of  compliance  with  laws  and
+                                                       regulations
+ •     Examination of financial and operating  •     Risk management
+        information
+ •     Review of operating activities         •     Governance
+
+                  Indicative Objectives & Scope of Internal Audit
+
+                      Examination of      Monitoring                                      Review of       Review of
+                            financial and       of Internal                                           operating      compliance         Risk        Governance
+                          operating       Controls                                                   activities      with laws and    management
+                          information                       regulations
+
+           Example:        Example:                                                                        Example:          Performing       Internal Audit      Example:                                                                               Evaluation        Example:            three way          of sales        Reviewing                                                                      and        Assessment of         matching of        records,         Inventory       Example:                                                                management     Governance        purchase order,       delivery      Management     Review of                                                                                      of Risk       Process in the            receipt of       records, sales     activities and    compliance                                                                     Exposure for    accomplishment           material and     commission      appripriate      with newly                                                                      complex       of objectives on        vendor invoices    for identifying     handling to      applicable                                                                                          financial          ethics and             before        correctness of      prevent      Tax Regime.                                                                            instruments         values.          approving        revenue       damages                                                                                transactions
+        vendor payment      recorded
+
+
+Applicability of Provisions of Internal Audit: As per section 138 of the Companies Act, 2013,
+following class of companies (prescribed in rule 13 of Companies (Accounts) Rules,2014) shall be
+required to appoint an internal auditor which may be either an individual or a partnership firm or a
+body corporate, namely-
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+INTERNAL AUDIT           16.5
+
+
+ (a)    every listed company;
+
+ (b)   every unlisted public company having-
+
+            (i)     paid up share capital of fifty crore rupees or more during the preceding financial
+               year; or
+
+             (ii)    turnover of two hundred crore rupees or more during the preceding financial year;
+               or
+
+             (iii)    outstanding  loans  or  borrowings  from banks  or  public  financial  institutions
+             exceeding one hundred crore rupees or more at any point of time during the
+              preceding financial year; or
+
+          (iv)    outstanding deposits of twenty-five crore rupees or more at any point of time during
+              the preceding financial year; and
+
+ c     every private company having-
+
+            (i)     turnover of two hundred crore rupees or more during the preceding financial year;
+               or
+
+             (ii)    outstanding  loans  or  borrowings  from banks  or  public  financial  institutions
+             exceeding one hundred crore rupees or more at any point of time during the
+              preceding financial year.
+
+It is provided that when an existing company gets covered under any of the above criteria shall
+comply with the requirements within six months of commencement of such applicability.
+
+ CASE STUDY 1
+
+ JKT Pvt. Ltd. having ` 40 lacs paid-up capital, `9.50 crores reserves and turnover of last three
+ consecutive  financial  years, immediately preceding  the  financial year under  audit, being
+ ` 49 crores, ` 145 crores and ` 260 crores, but does not have any internal audit system. In view
+ of the management, the internal audit system is not mandatory. Comment.
+
+ Applicability of Provisions of Internal Audit: As per section 138 of the Companies Act, 2013,
+ read with rule 13 of Companies (Audit and Auditors) Rules, 2014, every private company shall be
+ required to appoint an internal auditor or a firm of internal auditors, having
+
+  (i)     turnover of two hundred crore rupees or more during the preceding financial year; or
+
+  (ii)    outstanding loans or borrowings from banks or public financial institutions exceeding one
+       hundred crore rupees or more at any point of time during the preceding financial year.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+16.6         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+ Conclusion: In the instant case, JKT Pvt. Ltd. is having a turnover of ` 260 crores during the
+ preceding financial year which is more than two hundred crore rupees. Hence, the company has
+ the statutory requirement to appoint an Internal Auditor and mandatorily conduct an internal audit.
+
+Who can be Appointed as an Internal Auditor?
+
+    As per section 138, the internal auditor shall either be a chartered accountant or a cost
+      accountant (whether engaged in the practice or not), or such other professional as may be
+      decided by the Board to conduct an internal audit of the functions and activities of the
+      company.
+
+    The internal auditor may or may not be an employee of the company.
+
+    To be effective, the internal auditor must be regarded as a part of the management and not
+      merely as an assistant thereto. Furthermore, he or she must have the authority to investigate
+      every organisational activity to meet the objectives and scope of the internal audit.
+
+             1. AB Pvt. Ltd. company, having outstanding loans and borrowings from banks
+          exceeding one hundred crore rupees, wants to appoint Mr. X, a practicing cost
+           accountant, as an internal auditor. Is the appointment of Mr. X valid?
+
+ Provision & Conclusion: According to the provision given in section 138 of the companies Act,
+ 2013, the internal auditor shall either be a chartered accountant or a cost accountant (whether
+ engaged in the practice or not), or such other professional as may be decided by the Board to
+ conduct an internal audit of the functions and activities of the companies. Thus, Appointment of
+ Conclusion: Mr. X as an internal auditor of AB Pvt. Ltd is valid.
+
+As per Standard on Internal Audit (SIA) 210 Managing the Internal Audit Function, the Internal Audit
+Function performs a number of activities to achieve its objectives as outlined in its Charter (or Terms
+of Engagement). A few of the critical activities are as follows:
+
+ (a)    Define the overall plan, scope and methodology of the Internal Audit Function on a
+        periodic basis.
+
+ (b)   Oversee and monitor various audit assignments, their proper planning, execution,
+        reporting of findings and subsequent closure of reported observations.
+
+ (c)    Plan, acquire, engage and review the performance, training and development of
+       professional staff, talent and other resources to achieve its objectives.
+
+ (d)    Identify, source, engage and manage external experts and technical solutions,  if
+        required.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+INTERNAL AUDIT           16.7
+
+
+ (e)   Communicate and engage with  all key stakeholders regarding progress and
+       achievement of objectives.
+
+  (f)    Develop and maintain a quality evaluation and improvement program.
+
+With respect to the accounting function and financial records of the organisation, the
+responsibilities of an Internal Auditor include:
+
+  to ascertain adequacy of system of internal control by a continuous examination of accounting
+  procedures, receipts and disbursements, and to provide adequate safeguards against misappropriation
+  of assets.
+
+
+  to operate independently of the accounting staff and must not in any way divest with any of the
+  responsibilities placed upon him.
+
+
+ Not to involve in the performance of executive functions in order that the objective outlook does not
+  get obscured by the creation of the vested interest.
+
+
+  to observe facts and situations and bring them to notice of authorities who would otherwise never
+ know them; also, critically appraise various policies of the management and draw its attention to any
+  deficiencies, wherever these require to be corrected.
+
+
+  to associate closely with management and keep knowledge up to date by being informed about all
+  important occurrences and events affecting the business, as well as the changes that are made in
+ business policies.
+
+
+  At all times, the internal auditor must enjoy an independent status.
+
+
+At times, the Internal Auditor is exposed to a different type of risk to independence, whereby
+management seeks active business support from the Internal Auditor.
+
+Apart from  providing assurance on  internal  controls  over  the  operational  activities  of  the
+organization, the Internal Auditor may be sometimes assigned responsibility to provide advisory
+inputs on governance  activities such as  risk management, framework of monitoring statutory
+compliances, automation of activities, avenues of process re-engineering with increase operational
+efficiency, code of ethics etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+16.8         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+     2.  MANAGEMENT   FUNCTIONS  AND  SCOPE  OF
+       INTERNAL AUDITING
+
+Management is a process by which the affairs of an enterprise are conducted in such a manner that
+its goals and objectives are attained through optimum utilisation of all available resources, within the
+legal, social, economic and environmental constraints. To achieve optimum utilisation of resources
+management should determine the goals and objectives of the concern, quantify them to the extent
+possible, develop major policies and plans, implement them and exercise control over such
+implementation.
+
+In the case of Companies required to appoint an Internal Auditor as per Section 138 of the
+Companies Act, 2013, Rule 13(2)  of Companies (Accounts) Rules 2014, states: “The Audit
+Committee of the company or the Board shall, in consultation with the Internal Auditor, formulate the
+scope, functioning, periodicity, and methodology for conducting the internal audit.” Hence, in these
+class of companies, the Audit Committee or the Board, in conjunction with management and the
+Chief of Internal Audit, is expected to exercise the responsibility to formulate the objectives of
+internal audit. In the case of other organisations not covered under Rule 13, those who appoint the
+Internal Auditor (e.g., the owners, the promoters, the Board of Trustees, etc.) would generally define
+the objectives of internal audit.
+
+The internal auditor should, in consultation with those charged with governance, including the audit
+committee, develop and document a plan for each internal audit engagement to help him conduct
+the engagement in an efficient and timely manner.
+
+Internal audit plan should be developed in such a manner that all the business processes covering
+both financial as well as operational activities are reviewed by internal audit function within a defined
+time cycle. Also, ensuring that appropriate consideration is made and adequate balance is ensured
+to the following:
+
+     Risk underlying the business process
+
+    Value that the internal audit can provide to the organization
+
+     Effort involved in conducting the internal audit for a particular business process
+
+     Risk Appetite of the organization
+
+    Coverage of all auditable areas within the defined time range
+
+In addition, each of the managerial functions should be reviewed by the internal auditor. The scope
+of internal auditor’s work should also include a review of-
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+INTERNAL AUDIT           16.9
+
+
+     Internal Control System & Procedures
+
+    Custodianship & Safeguarding of Assets
+
+    Compliance with Policies, Plans, Procedures & Regulations
+
+    Relevance & Reliability of Information
+
+     Organisational Structure
+
+     Utilisation of Resources
+
+    Accomplishment of Goals & Objectives
+
+On the basis of such review, the internal auditor should in his report, highlight the weaknesses
+observed and give suggestions for improvement. We may now have a brief description of each of
+the above areas of review:
+
+(i)    Review of Internal Control System and Procedures -
+
+        (a)   The review of internal control system and procedures involves assessing the design
+           and  operational  efficiency and  effectiveness  of  the  internal  control system  to
+             strengthen the overall internal control environment of the entity. The objective to
+             review is to minimise the overall residual risk by suggesting the appropriate controls
+               to reduce the inherent risk.
+
+                           2.   Review of three-way matching internal control involves matching of
+                      Purchase Orders, Goods Receipt Notes and Invoice to ensure all the
+                       ordered quantity of the intended goods have been received and invoiced
+               accordingly. The failure of this internal control may involve over-invoicing, over-
+             payment, non-receipt, or under-receipt of goods.
+
+           As far as possible, controls should be in-built in the operating functions for prevention
+              or timely detection of the fraud and errors and minimize the cost of control.
+
+                           3.   The establishment of a separate credit control department would not
+                     be justified  if the objective of reducing credit risk and minimising debt
+                        recovery period could be met through controls in-built in the accounting
+            and sales systems, especially in smaller and medium-sized concerns.
+
+        (b)    Internal Control System should be reviewed considering the limitations of internal
+               controls, i.e., cost-benefit comparison, human errors, collusion, and abuse by process
+            owners.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+16.10         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+                            4.   Collusion of payment authorizer and payment maker to over pay a
+                          related party; those charged with governance themselves overriding the
+                            internal controls with malafide intention, etc.
+
+                      It should also be seen whether the internal controls were in use throughout the period
+               of intended reliance. A break-down in internal controls for a specific portion of intended
+              reliance would need special attention.
+
+(ii)   Review of Custodianship and Safeguarding of Assets -
+
+   ➢     This involves verifying the existence of the assets.
+
+   ➢    The internal auditor should review the segregation of duties is in place.
+
+   ➢    The internal auditor should review the control systems to ensure that all assets are
+            accounted for fully. He should review the means used for safeguarding assets against
+             losses e.g. fire, improper or negligent activity, theft and illegal acts, etc.
+
+   ➢   He should review the control systems for intangible assets e.g. the procedures relating
+               to credit control. Where an enterprise uses electronic data processing equipment, the
+              physical and systems control on processing facilities as well as on data storage should
+           be examined and tested.
+
+                           5.   The existence  of  intangible assets could be only an annual
+                         subscription in the name of an entity, for example, an annual ERP
+                         subscription.
+
+(iii)   Review of Compliance with Policies, Plans, Procedures and Regulations - It is essential
+       that the various functional segments of an enterprise comply with the relevant policies, plans,
+      procedures, laws and regulations so that the operations are carried out in a coordinated
+      manner. He should examine the system of periodical review of existing policies particularly
+     when there  is a change in the method and nature of operations of the enterprise. By
+      combining the results of his review of the adequacy of the systems with the result of his
+      compliance tests, the internal auditor should be able to evaluate the effectiveness of the
+       former. He should point out specific weaknesses and suggest remedial action.
+
+(iv)   Review of Relevance and Reliability of Information - The internal auditor should review
+       the information systems to evaluate the reliability and integrity of financial and operating
+       information given to management and to external agencies such as governmental bodies,
+       investors, trade organisations, labour unions, etc. He should examine the accuracy and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+INTERNAL AUDIT          16.11
+
+
+         reliability of financial and operational records. The usefulness of the reports as well as of the
+      records should be evaluated with reference to their costs. The internal auditor should examine
+      whether the reporting is by exception i.e. the reports highlight the significant and distinctive
+       features. In case of automated management information system, where relevant information
+      used for critical decision making is generated from the computer system, then adequacy of
+       the controls build in the system should be reviewed to ensure data integrity and reliability of
+      such information.
+
+(v)   Review of the Organisation Structure - The internal auditor should conduct an appraisal of the
+       organisation structure to ascertain whether it is in harmony with the objectives of the enterprise
+      and whether the assignment of responsibilities is in consonance therewith. For this purpose:
+
+   ➢   He should review the manner in which the activities of the enterprise are grouped for
+            managerial control. It is also important to review whether responsibility and authority
+             are in harmony with the grouping pattern.
+
+   ➢    The internal auditor should examine the organisation chart to find out whether the
+              structure is simple and economical and that no function enjoys an undue dominance
+             over the others.
+
+   ➢   He should particularly see that the responsibilities of managerial staff at headquarters
+           do not overlap with those of chief executives at operating units. He should examine
+            whether there is a satisfactory balance between the authority and responsibility of
+             important executives.
+
+   ➢    The internal auditor should examine the reasonableness of the span of control of each
+             executive (the number of subordinates that an executive controls). He should examine
+            whether there is a unity of command i.e., whether each person reports only to one
+              superior.
+
+   ➢    Where dual responsibilities cannot be avoided, the primary one should be specified
+           and the specific responsibility to each senior fixed. This must be made known to all
+            concerned.
+
+   ➢   He should review adequate segregation of duties is considered while defining the
+             organization structure.
+
+   ➢     Finally, he should evaluate the process of managerial development in the enterprise.
+
+(vi)   Review of Utilisation of Resources –
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+16.12         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+   ➢    The internal auditor should check whether proper operating standards and norms have
+           been established for measuring the economical and efficient use of resources.
+
+   ➢    They  should  be  detailed  enough  to  be  identifiable  with  specific  operating
+               responsibilities and should be capable of being used by operating personnel for
+             monitoring and evaluating their performance.
+
+   ➢    The internal auditor should review the methods of establishing operating standards
+           and norms. He should carefully examine the assumptions made while setting the
+             standards to ensure that they are appropriate and necessary.
+
+   ➢    Where there is a wide divergence between actual performance and the corresponding
+              standards, reasons may be considered. As a part of evaluating resources  utilisation,
+                identifying the facilities which are under-utilized is an important function of the internal auditor.
+
+                           6.   For  example,    it may  consist  of  under-utilized  machines,
+                      unoccupied  storage  space,  huge  cash  or  bank  balances,  idle
+                     manpower, etc.  While commenting on staffing, the internal auditor
+              should pay special attention to non-productive work being performed. This would
+               require an inquiry into the job descriptions of employees combined with an
+                 intelligent observation of the work being done.
+
+(vii)  Review of Accomplishment of Goals and Objectives - The internal auditor should review
+       the overall objectives of the enterprise to evaluate whether they are clearly stated and are
+       attainable. The internal auditor should examine whether, to the extent possible, objectives
+      are expressed in precise quantifiable terms (both monetary and non-monetary) to facilitate
+       detailed planning to be made for achieving them. Budgeting forms an important part of such
+       planning. This will ensure that plans anticipate the problem areas. There should also be
+        sufficient flexibility in the plans to permit such improvements in their implementation, as would
+       benefit the enterprises as a whole.
+
+
+     3.  INTEGRITY, OBJECTIVITY AND INDEPENDENCE OF
+       INTERNAL AUDITOR
+
+There is a set of core principles fundamental to the internal audit function and activities. These basic
+principles of internal audit are critical to achieving the desired objectives as set out in the Definition
+of Internal Audit. The Basic Principles of Internal Audit are a set of core principles fundamental to
+the function and activity of internal audit.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+INTERNAL AUDIT          16.13
+
+
+1.    The Internal Auditor shall be free from any undue influences which force him to deviate from
+       the truth. This independence shall be not only in mind but also in appearance. Also, the
+       internal auditor shall resist any undue pressure or interference in establishing the scope of
+       the assignments or the manner in which these are conducted and reported, in case these
+       deviate from set objectives.
+
+     The independence of the internal audit function as a whole, and the Internal Auditor within
+       the organisation, plays a large part in establishing the independence of the Internal Auditor.
+     The overall organisation structure of key personnel, the position and reporting of the Chief
+       Internal Auditor within this structure, along with the powers and authority which is derived
+      from superiors further establishes the independence of the Internal Auditor.
+
+2.    The Internal Auditor shall be honest, truthful and be a person of high integrity. He shall
+      operate in a highly professional manner and seen to be fair in all his dealings. He shall avoid
+         all conflicts of interest and not seek to derive any undue personal benefit or advantage from
+       his position.
+
+3.    The Internal Auditor shall conduct his work in a highly objective manner, especially in
+       gathering and evaluation of facts and evidence.  He shall not allow prejudice or bias to
+       override his objectivity, especially in arriving at conclusions or reporting his opinion.
+
+             7.   For example, to avoid any conflict of interest, the internal auditor should not
+           review an activity for which he was previously responsible. It is also expected from the
+         management to take steps necessary for providing an environment conducive to enable
+ the internal auditor to discharge his responsibilities independently and also report his findings
+ without any management interference.
+
+             8.   For example, in the case of a listed company, the internal auditor may be required
+             to report directly to those charged with governance, such as the Audit Committee
+           instead of the Chief Executive Officer or the Chief Financial Officer. The internal auditor
+ should immediately bring any actual or apparent conflict of interest to the attention of the
+ appropriate level of management so that necessary corrective action may be taken.
+
+
+TEST YOUR UNDERSTANDING 1
+
+After an illustrious career in Indian Audit & Accounts Service for about 25 years, Parteek, a post
+graduate in law, has taken voluntary retirement from government service. Being in fine spirits, he
+wants to take responsibilities in corporate sector as Chief internal auditor. On looking at attractive
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+16.14         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+compensation packages, he applied for such position in a leading listed company engaged in oil
+refining business. The Board of company is keen on him due to his impressive credentials.
+
+Can he be appointed in this leading position of said company?
+
+TEST YOUR UNDERSTANDING 2
+
+CA Deva is internal auditor of a listed company. The company wants to make sure that  it is in
+compliance with SEBI requirements at all times and it is never on the wrong side of law. It asks its
+internal auditor to manage its compliance tracking system including directly corresponding with
+regulator in this regard. The profile and scope of internal audit agreed at time of appointment
+included “compliance with laws and regulations.”
+
+Can he perform such type of activities in capacity of internal auditor of company?
+
+
+     4.  QUALITIES OF INTERNAL AUDITOR
+
+Internal auditor is required to objectively review overall governance and operational functions of the
+organization and, is required to internal with various stakeholders and other employees of the
+organisation. To perform his duties effectively, he is required to possess good knowledge of the
+subject matter, underlying information system and good soft skills.
+
+Some of the specialised knowledge and expertise that Internal Auditor should obtain are:
+
+ 1.   The internal auditor should have the special expertise necessary for evaluating management
+       control systems, especially financial and accounting controls.
+
+ 2.   Accounting and finance functions provide basic data  for management  control  of an
+       enterprise. Therefore, the internal auditor must have accounting and financial expertise to
+     be able to discharge his duties.
+
+ 3.   The internal auditor is also expected to evaluate both financial and operational controls. This
+       requires a good knowledge of the operations of the organization, technology and commercial
+       practices of the enterprise.
+
+ 4.  He should also have a good knowledge of commerce, laws, taxation, cost accounting,
+      economics, quantitative methods and EDP systems.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+INTERNAL AUDIT          16.15
+
+
+ 5.   An understanding of the accounting software, ERP system and other applications being used
+      by the organization along with the knowledge of the basic controls related to Information
+      Technology.
+
+ 6.   An  understanding  of management  principles  and  techniques  is  another  essential
+       qualification of an internal auditor as also the ability to deal with people.
+
+ 7.   By his conduct the internal auditor should provide an assurance to the management that the
+       confidentiality of such information would be maintained
+
+
+     5.  PERFORMING INTERNAL AUDIT ENGAGEMENT
+
+Typical internal audit engagement comprises of following five steps:
+
+Step 1 – Obtain knowledge of the Business and its Environment
+
+Step 2 – Perform Audit Planning
+
+Step 3 – Gather required information
+
+Step 4 – Perform audit checks
+
+Step 5 – Reporting of Internal Audit Issues
+
+All of these steps are required to be performed while performing any Internal Audit engagement in
+the same sequence. Let us see some of the major activities to be performed under each of these
+steps:
+
+Step 1 – Obtain knowledge of the Business and its Environment
+
+Internal Auditor must conduct meetings with key stakeholders, Board  of Directors and Key
+management personals to obtain understanding of the organization’s business environment, its
+operations, organization’s vision, mission and top management’s expectations from the audit
+functions.
+
+Internal auditor must obtain understanding of various business documents – Standard Operating
+Procedures and Financial Statement Etc.
+
+Internal auditor must also obtain understanding of the underlying Information Technology landscape,
+various applications and ERP systems of the organization and Management Information System of
+the organization.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+16.16         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+Internal auditor must also obtain understanding of the regulatory landscape and various laws and
+regulations that are applicable to the organization.
+
+Step 2 – Perform Audit Planning
+
+Internal Auditor must plan the audit engagement as per the Standard on Internal Audit (SIA) 310,
+Planning the Internal Audit Assignment. Audit scope must be approved by Audit Committee and
+Board of Directors.
+
+Once approved, Internal Auditor must share detailed Audit Plan with the key managerial personals
+and plan in advance the detailed schedule of the Internal Audit to be conducted.
+
+Internal Auditor must conduct the opening meeting with key stakeholders before start of audit
+engagement and share details of Information and System Access required to perform the audit.
+
+Detailed work plan must be prepared by the audit managers and approved with Head of Internal
+Audit / Chief Internal Auditor. The work plan must be prepared after performing the evaluation of all
+major underlying risks in the process being reviewed and the audit checks to be performed to assess
+the adequacy of the control environment to mitigate such risks.
+
+Step 3 – Gather required information
+
+Internal Auditor must obtain the required information and perform checks to ensure correctness and
+integrity of information received. To the extent possible, Internal Auditor must obtain the information
+directly from the source.
+
+Adequate planning should be done and advance intimation should be made  for any interim
+information needed for performing audit checks.
+
+Step 4 – Perform audit checks
+
+Internal Auditor should collate all data and perform analytical procedures to identify key trends and
+outliers. Analytical procedures should be performed in accordance with the Standard on Internal
+Audit (SIA) 6, Analytical Procedures. To the extent possible, relevant analytical tools may be used
+to perform review of the complete data for the audit period.
+
+Wherever needed, Internal Auditor must select the sample in accordance with Standard on Internal
+Audit (SIA) 5, Sampling.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+INTERNAL AUDIT          16.17
+
+
+Detailed audit testing must be performed as per the audit work plan. Internal Auditor must ensure
+adequate evidences must be collected and stores in accordance to Standard on Internal Audit (SIA)
+320, Internal Audit Evidence
+
+Internal Auditor must prepare detailed listed of the Identified audit issues and controls gaps. Interim
+reports may be issued after proper review of the work performed as per the Standard on Internal
+Audit (SIA) 350, Review and Supervision of Audit Assignments.
+
+Adequate document of the internal audit work papers needs to be ensured as per Standard on
+Internal Audit (SIA) 330, Internal Audit Documentation
+
+Step 5 – Reporting of Internal Audit Issues
+
+Internal Auditor must prepare a draft report of Internal Audit issues comprising of the business
+process/ function reviewed as per scope, detailed audit coverage and exclusions, if any, audit period
+covered during the audit, summary along with detailed issues over the gaps noted along with
+implication of the business and recommendation to mitigate the identified gaps.
+
+Management Action Plan should be agreed along with responsibility of action and timelines for
+actions. Internal Auditor must also review the status of actions taken by the management against
+the actions agreed during previous audits and report the status of such follow up in the audit report.
+
+Internal Auditor should thereafter circulate Final Report and presentation his findings to the Audit
+Committee. Internal auditor must adhere to Standard on Internal Audit (SIA) 360, Communication
+with Management and Standard on Internal Audit (SIA) 370, Reporting Results while sharing the
+result of internal audit with the stakeholders.
+
+
+     6.  INTERNAL AUDIT REPORT
+
+The internal auditor should carefully review and assess the conclusions drawn from the audit
+evidence obtained, as the basis for his findings contained in his report and suggest remedial action.
+However, in case the internal auditor comes across any actual or suspected fraud or any other
+misappropriation of assets, it would be more appropriate for him to bring the same immediately to
+the attention of the management.
+
+As per Standard on Internal Audit (SIA) 370 Reporting Results, reporting of internal audit
+results is generally undertaken in two stages:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+16.18         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+           At the end of a particular audit assignment, an “Internal Audit Report” covering a
+             specific area, function or part of the entity is prepared by the Internal Auditor
+            highlighting key observations arising from those assignments. This report is
+            generally issued with details of the manner  in which the assignment was
+          conducted and the key findings from the audit procedures undertaken. This
+            report is issued to the auditee, with copies shared with local and executive
+          management, as agreed during the planning phase.
+
+
+        On a periodic basis, at the close of a plan period, a comprehensive report of all
+            the internal audit activities covering the entity and the plan period is prepared by
+            the Chief Internal Auditor (or the Engagement Partner, in case of external service
+             provider). Such reporting is normally done on a quarterly basis and submitted to
+            the highest governing authority responsible for internal audits, generally the
+           Audit Committee. Some part of the aforementioned Internal Audit Reports may
+           form part of the periodic (e.g. Quarterly) report shared with the Audit Committee.
+
+
+This Standard on Internal Audit (SIA) deals with the internal auditor’s responsibility to issue only the
+first type of reports, the Internal Audit Report pertaining to specific audit assignments and not to the
+periodic (e.g. Quarterly) reporting for the whole entity as per the Annual/Quarterly audit plan.
+
+On the basis of the internal audit work completed, the Internal Auditor shall issue a clear, well
+documented Internal Audit Report which includes the following key elements:
+
+  (a) An overview of the objectives, scope and approach of the audit
+ assignments;
+
+        (b) The  fact  that an  internal  audit has been conducted  in
+      accordance the Standards of Internal Audit;
+
+               (c) An  executive summary  of key  observations  covering  all
+             important aspects, and specific to the scope of the assignment;
+
+                     (d) A summary of the corrective actions required (or agreed by
+               management) for each observation; and
+
+                           (e) Nature of assurance,  if any, which can be derived from the
+                        observations.
+
+The content and form of the Internal Audit Report are to be established by the Internal Auditor based
+on his best professional judgement, in consultation with the auditee and, if necessary, with inputs
+from other key stakeholders. No internal audit report shall be issued in final form unless a written
+draft of the report has previously been shared with the auditee.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+INTERNAL AUDIT          16.19
+
+
+The internal audit report shall be issued within a reasonable time frame from the completion of the
+internal audit work.
+
+ 1. Basis of Internal Audit Report: Each internal audit report is prepared on the basis of the
+ audit procedures conducted and the analysis of the audit evidence gathered. Conclusions
+ reached shall be based on all the findings rather than on a few deviations or issues noted. Controls
+ operating effectively have their own importance and should be acknowledged, while the risk and
+ significance of observations noted have a role to play in prioritising the matters to be reported.
+
+ 2. Conducted in Accordance with SIAs: Where the internal audit is conducted in compliance
+ with the Standards of Internal Audit, (within the Framework governing Internal Audits), and the
+ internal auditor can substantiate the same with supporting evidence and documentation, the
+ internal audit report shall include a statement confirming that “the internal audit was conducted in
+ accordance with the Standards of Internal Audit issued by the Institute of Chartered Accountants
+ of India”.
+
+ 3. Content and Format of Internal Audit Report: The manner in which the internal audit report
+  is drafted and presented is a matter of professional judgment and choice and could be influenced
+ by the preferences of the recipients. The SIA does not mandate any particular format or list of
+ contents since the Internal Auditor is expected to exercise his best professional judgement on
+ matters regarding how and what to report. Where some level of assurance is being provided, the
+ form and content of the report shall be as per SIA 380, “Issuing Assurance Reports”. A typical
+ internal audit report should include the following:
+
+      Audit Scope performed
+
+      Audit period Covered
+
+      Executive Summary
+
+     Summary of the critical findings
+
+      Detailed audit findings with elaboration on business impact and root cause of such issues
+
+      Rating of the highlighted issues (E.g High  / Medium  / Low) in accordance to the rating
+          criteria approved by Audit Committee
+
+      Audit recommendation to improve control environment and address the highlighted finding
+
+     Response received from the responsible functional authority containing action plan and
+         target timelines for action
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+16.20         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+ 4.  Documentation: To confirm compliance of audit procedures with  this SIA, the  list of
+ documents required is as follows:
+
+              (a) Copies of draft and final internal audit reports to be maintained,
+            appropriately cross referenced to specific observations.
+
+           (b) If appropriate, management action plans may be counter signed
+        by respective management personnel.
+
+6.1  Follow-up
+
+As per SIA 390 Monitoring and Reporting of Prior Audit Issues, the Chief Internal Auditor  is
+responsible  for  continuously  monitoring  the  closure  of  prior  audit  issues  through  timely
+implementation of action plans included in past audits. This shall be done with a formal monitoring
+process, elements of which are pre-agreed with management and those charged with governance.
+The responsibility to implement the action plans remains with the management.
+
+In monitoring and reporting of prior audit issues, the responsibility of the Internal Auditor is usually
+in the form of an “Action Taken Report (ATR) of previous audits”.
+
+ The term “Monitoring and Reporting” used in this Standard refers to the periodic tracking
+ of issues raised during prior audits and evaluation of the corrective actions undertaken by
+ the auditee to resolve them and to report any open and pending matters to the management
+ and those charged with governance (e.g. the Audit Committee).
+
+The internal auditor should review whether follow-up action is taken by the management on the basis
+of his report.  If no action is taken within a reasonable time he should draw the management’s
+attention to it. Where the management has not acted upon his suggestions or not implemented his
+recommendations, the internal auditor should ascertain the reasons thereof.
+
+Where the management has accepted his recommendations and initiated the necessary action, the
+internal auditor should periodically review the manner and the extent of implementation of the
+recommendations and report to the management highlighting the recommendations which have not
+been implemented fully or partly.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+INTERNAL AUDIT          16.21
+
+     7.  RELATIONSHIP BETWEEN INTERNAL AND EXTERNAL
+       AUDITORS
+
+     The scope and objective of internal audit are dependent upon the size and structure of
+        the entity and the requirements of its management. As stated earlier the internal auditor
+        operates in various areas such as review of the accounting system and internal control;
+       examination of financial and operating information for the benefit of management, the
+       examination of the economy, efficiency and effectiveness of operations including non-
+         financial controls of various tangible assets of the entity. While operating in these areas,
+        there is a lot of overlap between the work of internal auditors and external auditors.
+
+     The work done by the internal auditor has an important bearing on the work performed by
+        the statutory auditor as evaluation done by the internal auditor in respect of internal
+         controls, reliability of financial information, verification of assets, etc. is also required to
+       be done by the external auditor. The function of an internal auditor is an integral part of
+        the system of internal control.
+
+         It is a statutory requirement too as per section 138 of the Companies Act, 2013 where the
+        Audit Committee of the company or the Board shall, in consultation with the Internal
+        Auditor, formulate the scope, functioning, periodicity and methodology for conducting the
+         internal audit.
+
+     However, it is obligatory for a statutory auditor to examine the scope and effectiveness of
+        the work carried out by the internal auditor. For the purpose, he should examine the
+         Internal Audit Department of the organisation, the strength of the internal audit staff, their
+         qualification and their powers.
+
+     The extent of independence exhibited by the internal auditor in the discharge of his duties
+       and his status in the organisation are important factors for determining the effectiveness
+         of his audit. But so far, the practice of audit being conducted jointly by the internal auditors
+          is of great assistance to statutory auditors.
+
+     The external auditor should, as part of his audit, evaluate the internal audit function to the
+        extent he considers that it will be relevant in determining the nature, timing and extent of
+         his compliance and substantive procedures. Depending upon such evaluation, the
+        external auditor may be able to adopt less extensive procedures than would otherwise be
+        required.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+16.22         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+Difference Between Internal & External Auditors
+
+    BASIS FOR           INTERNAL AUDIT            EXTERNAL AUDIT
+   COMPARISON
+ 1.   Performed by     Internal audit  is performed by an    It is an audit function performed by
+                      independent    internal    auditing   the independent body which is not
+                         function within the organisation or  a part of the organization.
+                     by external body.
+ 2.   Examination     The Internal auditor examines the  The External auditor examines the
+                     adequacy of operational controls of  Accuracy and Validity of Financial
+                        the organisation.                   Statements.
+ 3.   Appointment     The Internal auditor is appointed by  The External auditor is appointed
+                        the Audit Committee or Board of  by the Members.
+                          Directors.
+ 4.   Users of Report   Generally, internal audit report  is  The user of external audit report is
+                     used  by  top  Management  and  Stakeholders.
+                         referred by statutory auditor.
+ 6.   Reporting         Internal  Audit  Report  provides  The opinion  is provided on the
+                    weakness in internal controls and   truthfulness and  fairness  of the
+                         effectiveness  of  the  operational   financial   statement    of    the
+                             activities.                       company.
+ 7.   Status        of  The Internal auditor could be an  The    External     auditor     is
+ Auditor              employee of the company.           mandatorily not an employee of
+                                                            the company.
+
+SA 610 “Using the work of an Internal Auditor” deals with certain aspects of relationship
+between internal and external auditors.
+
+7.1  Determining Whether, in Which Areas, and to What Extent the Work
+     of the Internal Audit Function Can Be Used
+
+Evaluating the Internal Audit Function:
+
+
+  Evaluation of IA Function            Scope of IA Function                Objective of Evaluation of IA
+  includes:                                                              Function                                                          • Review of Internal controls.
+   • Appraisal activity.                               • Examination of financial and              • Evaluate & improve the
+   • Examining / Evaluating adequacy          Operational records and                effectiveness of Internal Controls.
+   and effectiveness of internal                transactions.
+    controls.                                           • Review of Operating Activities
+                                                          • Review of regulatory Laws &
+                                         Compliances.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+INTERNAL AUDIT          16.23
+
+7.2  Determining the Nature and Extent of Work of the Internal Audit
+     Function that Can Be Used
+
+The external auditor shall not use the work of the internal audit function  if the external auditor
+determines that the function’s organizational status and relevant policies and procedures do not
+adequately support the objectivity of internal auditors; the function lacks sufficient competence or
+the function does not apply a systematic and disciplined approach, including quality control.
+
+                        The external auditor shall consider
+                            Nature & scope of work done & its
+    Determining the            relevance to overall Strategy &
+                                                                                1.Objectivity    of   the   Nature & Extent of                     Audit Plan
+                                                                                 internal audit functions.    work of Internal
+   Audit function that                                                    2.Level  of competence                            Determine adequacy of Internal     can be used                                                             of internal audit function.                                Audit work for external auditors
+                                      purpose                    3.Whether a systematic
+                                                  &  disciplined approach
+                                                                                            is               applied
+                                                                            including quality control.
+
+
+7.3  Determining Whether, in Which Areas, and to What Extent Internal
+     Auditors Can Be Used to Provide Direct Assistance
+
+
+                         Amount of judgement wrt:
+                                    a) Planning & performing relevant audit procedures               The E.A.
+                                  b) Evaluation of the audit evidence gathered.                      shall
+                 consider   Nature &
+                                 :                   Assessed risk of material misstatement   Extent of
+  work that
+                                       Evaluation of existence & significance of threats .   can be
+ assigned to
+    Internal                                Making significant judgements in the audit
+   auditors
+  providing      The E.A. shall not           Relate to higher assessed risks of material
+    Direct          use internal         misstatement where the judgement required is more
+  Assistance      auditors to provide                        than limited.
+                    direct assistance to
+                      perform           Relate to work which is reported to management or
+                     procedures:            TCWG by Internal audit function
+                                           Relate to decisions the E.A. makes in accordance
+                                                            with SA 610.
+
+    (A brief overview of using Direct Assistance from Internal Auditors by External Auditors)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+16.24         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+The external auditor shall evaluate whether, in aggregate, using internal auditors to provide direct
+assistance to the extent planned, together with the planned use of the work of the internal audit
+function, would still result in the external auditor being sufficiently involved in the audit, given the
+external auditor’s sole responsibility for the audit opinion expressed.
+
+7.4   If the External Auditor uses Internal Auditors to Provide Direct
+     Assistance on the Audit, the External Auditor shall include in the
+     Audit Documentation
+
+(a)   The evaluation of the existence and significance of threats to the objectivity of the internal
+       auditors, and the level  of competence of the internal auditors used to provide direct
+       assistance;
+
+(b)   The basis for the decision regarding the nature and extent of the work performed by the
+       internal auditors;
+
+(c)   Who reviewed the work performed and the date and extent of that review in accordance with
+     SA 230 Audit Documentation;
+
+(d)   The written agreements obtained from an authorized representative of the entity and the
+       internal auditors; and
+
+(e)   The working papers prepared by the internal auditors who provided direct assistance on the
+       audit engagement.
+
+Finally, in India, even the statute has now recognised that internal audit is necessary for the efficient
+running of companies. Thus, a review of the internal audit function in specified companies has
+become a statutory responsibility for the statutory auditor.
+
+[Note: Student are advised to refer SA 610 Using the work of Internal Auditor for more details,
+SA 610 is reproduced in Auditing Pronouncements.]
+
+Illustration 2
+
+The Managing Director of X Ltd is concerned about high employee attrition rate in his company. As
+the internal auditor of the company he requests you to analyze the causes for the same. What factors
+would you consider in such analysis?
+Solution
+
+The factors responsible for high employee attrition rate are as under:
+
+(i)    Job Stress & work life imbalance;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+INTERNAL AUDIT          16.25
+
+
+(ii)   Wrong policies of the Management;
+
+(iii)   Unbearable behaviour of Senior Staff;
+
+(iv)    Safety factors;
+
+(v)    Limited opportunities for promotion;
+
+(vi)   Low monetary benefits;
+
+(vii)   Lack of labour welfare schemes;
+
+(viii)  Whether the organization has properly qualified and experienced personnel for the various
+       levels of works?
+
+(ix)    Is the number of people employed at various work centres excessive or inadequate?
+
+(x)   Does the organization provide facilities for staff training so that employees and workers keep
+      themselves abreast of current techniques and practices?
+
+
+     8.  INTERNAL AUDIT AS A MANAGEMENT FUNCTION
+
+Management is a process by which the affairs of an enterprise are conducted in such a manner that
+its goals and objectives are attained through optimum utilisation of all available resources, within the
+legal, social, economic and environmental constraints. At the most fundamental level, management
+functioning is a set of five general functions: planning, organizing, staffing, directing and controlling.
+While the first five functions of planning, organizing, staffing and leading are critical attributes to
+create and grow stakeholder’s wealth whist controlling is the critical function that is key to preserve
+stakeholder’s wealth.
+
+As per the revised definition of the term ‘Internal Audit’ as per para 3 of the ICAI’s Framework
+Governing Internal Audits, “Internal audit provides independent assurance on the effectiveness of
+internal  controls  and  risk  management  processes  to  enhance  governance  and  achieve
+organisational  objectives”. Accordingly  Internal  Auditor  is expected  to  critically evaluate the
+management activities and advise them on the areas of improving internal controls and manage
+business and operational risks effectively by recommending appropriate mitigating controls.
+
+Internal Audit is an important element of management controlling function, it helps management to
+set up appropriate systems and processes in place to mitigate risk while remaining independent to
+the operations. Internal Auditor is expected to report on the identified gaps and areas of weak
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+16.26         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+internal control, further he is expected to identify the root cause of the problems and suggest
+appropriate mitigating steps and strengthen the internal controls environment of the organization.
+
+Accordingly, Internal Audit is seen as an important function that helps management to achieve
+organization goals and perform its function in an orderly manner.
+
+
+     9.  AUDIT TRAIL
+
+Audit Trail (or Edit Log) is a visible trail of evidence enabling one to trace information contained in
+statements or reports back to the original input source. Audit trails are a chronological record of the
+changes that have been made to the data. Any change to data including creating new data, updating
+or deleting data that must be recorded.
+
+Records maintained as audit trail may include the following information:
+
+    when changes were made i.e., date and time (timestamp)
+
+    who made the change i.e., User Id
+
+    what data was changed i.e., data/transaction reference; success/failure
+
+Audit trails may be enabled at the accounting software level depending on the features available in
+such software or same may be captured directly in the database underlying such accounting
+software.
+
+In order to demonstrate that the audit trail feature was functional, operated and was not disabled, a
+company would have to design and implement specific internal controls (predominantly IT controls)
+which in turn, would be evaluated by the auditors, as appropriate. An illustrative list of internal
+controls which may be required to be implemented and operated are given below:
+
+     Controls to ensure that the audit trail feature has not been disabled or deactivated.
+
+     Controls to ensure that User IDs are assigned to each individual and that User IDs are not
+      shared.
+
+     Controls to ensure that changes to the configurations of the audit trail are authorized and logs
+       of such changes are maintained.
+
+     Controls to ensure that access to the audit trail (and backups) is disabled or restricted and
+      access logs, whenever the audit trails have been accessed, are maintained.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+INTERNAL AUDIT          16.27
+
+
+     Controls to ensure that periodic backups of the audit trails are taken and archived as per the
+       statutory period specified under the provisions of the Act.
+
+TEST YOUR UNDERSTANDING 3
+
+Up Down Limited is in doldrums since last two years. The demand for its products has declined
+drastically. The statutory auditor is of the view that situation has put into question going concern
+assumption of the company. Its internal auditor has helped management in devising a strategy to
+deal with such risks and come out of the situation. The plan includes venturing into different product
+lines using same plant with minor modifications. Further, internal auditor has also prepared
+estimates of revenue generation along with cash flows.
+
+Can statutory auditor place total reliance on work performed by internal auditor in this regard?
+
+
+Key Takeaways
+
+     Internal Audit provides independent assurance on the effectiveness of internal controls and
+        risk management processes to enhance governance and achieve organisational objectives.
+
+        It is mandatory for all listed companies, unlisted public companies/private companies fulfilling
+       certain criteria to appoint internal auditor in accordance with provisions of Section 138 of
+      Companies Act, 2013 and relevant rules.
+
+    The internal auditor shall either be a chartered accountant or a cost accountant (whether
+      engaged in the practice or not), or such other professional as may be decided by the Board
+       to conduct an internal audit of the functions and activities of the company in terms of section
+      138 of Companies Act, 2013. He may or may not be employee of the company.
+
+     In such companies specified in section 138 of the Companies Act, 2013, the Audit Committee
+       or the Board, in conjunction with management and the Chief of Internal Audit, is expected to
+       exercise the responsibility to formulate the objectives of internal audit.
+
+    Basic principles governing an internal audit include independence, integrity and objectivity.
+
+    Each internal audit report is prepared on the basis of the audit procedures conducted and the
+       analysis of the audit evidence gathered. Conclusions reached shall be based on all the
+       findings rather than on a few deviations or issues noted.
+
+     Reporting of internal audit results is generally undertaken in two stages- At the end of a
+       particular audit assignment, an “Internal Audit Report” covering a specific area, function or
+       part of the entity is prepared by the Internal Auditor highlighting key observations arising from
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+16.28         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+      those assignments.  Further, on a  periodic  basis,  at  the  close  of a  plan  period, a
+      comprehensive report of all the internal audit activities covering the entity and the plan period
+        is prepared by the Chief Internal Auditor (or the Engagement partner, in case of external
+       service provider). Such reporting is normally done on a quarterly basis and submitted to the
+       highest governing authority responsible for internal audits, generally the Audit Committee.
+
+    The internal auditor should review whether follow-up action is taken by the management on
+       the basis of his report.  If no action is taken within a reasonable time he should draw the
+      management’s attention to it. Where the management has not acted upon his suggestions or
+       not implemented his recommendations, the internal auditor should ascertain the reasons
+       thereof.
+
+    The work done by the internal auditor has an important bearing on the work performed by the
+       statutory auditor as evaluation done by the internal auditor in respect of internal controls,
+         reliability of financial information, verification of assets, etc. is also required to be done by the
+       external auditor.
+
+        It is obligatory for a statutory auditor to examine the scope and effectiveness of the work
+       carried out by the internal auditor. For the purpose, he should examine the Internal Audit
+      Department of the organisation, the strength of the internal audit staff, their qualification and
+        their powers.
+
+    The extent of independence exhibited by the internal auditor in the discharge of his duties
+      and his status in the organisation are important factors for determining the effectiveness of
+       his audit.
+
+    The external auditor should, as part of his audit, evaluate the internal audit function to the
+       extent he considers that it will be relevant in determining the nature, timing and extent of his
+      compliance and substantive procedures.
+
+    The external auditor shall not use the work of the internal audit function if the external auditor
+      determines that the function’s organizational status and relevant policies and procedures do
+       not adequately support the objectivity of internal auditors; the function lacks sufficient
+      competence or the function does not apply a systematic and disciplined approach, including
+       quality control.
+
+    Standards on Internal audit are recommendatory in nature.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+INTERNAL AUDIT          16.29
+
+                               APPENDIX
+
+
+The following Standards on Internal Audit are recommendatory in nature. The Standards shall
+become mandatory from such date as notified by the council:
+
+Section I:     Preface
+
+Preface to the Framework and Standards on Internal Audit
+
+Section II:    Framework
+
+Framework Governing Internal Audits
+
+Section III:   Basic Principles
+
+Basic Principles of Internal Audit
+
+Section IV:   Standards on Key Concepts (100 Series)
+
+SIA 110:      Nature of Assurance
+
+SIA 120:       Internal Controls
+
+Section V:    Standards on Internal Audit Management (200 Series)
+
+SIA 210:     Managing the Internal Audit Function
+
+SIA 220:      Conducting Overall Internal Audit Planning
+
+SIA 230:      Objectives of Internal Audit
+
+SIA 240:      Using the Work of an Expert
+
+Section VI:   Standards on the Conduct of Audit Assignments (300 - 400 Series)
+
+SIA 310:      Planning the Internal Audit Assignment
+
+SIA 320:       Internal Audit Evidence
+
+SIA 330:       Internal Audit Documentation
+
+SIA 350:     Review and Supervision of Audit Assignments
+
+SIA 360:     Communication with Management
+
+SIA 370:      Reporting Results
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+16.30         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+SIA 390:      Monitoring and Reporting of Prior Audit Issues
+
+Section VII:   Standards on Internal Audit (As on July 1, 2013)
+
+SIA 5:        Sampling
+
+SIA 6:         Analytical Procedures
+
+SIA 7:         Quality Assurance in Internal Audit
+
+SIA 11:       Consideration of Fraud in an Internal Audit
+
+SIA 13:        Enterprise Risk Management
+
+SIA 14:        Internal Audit in An Information Technology Environment
+
+SIA 17:       Consideration of Laws and Regulations in an Internal Audit
+
+SIA 18:       Related Parties
+
+
+              TEST YOUR KNOWLEDGE
+
+
+Theoretical Questions
+
+1.     Write a short note on Internal Audit Report.
+
+2.     State the important aspects to be considered by the External auditor in the evaluation of the
+       Internal Audit Function.
+
+3.   AB Pvt. Ltd. company has outstanding loans or borrowings from banks exceeding one
+      hundred crore rupees wants to appoint an internal auditor. Please guide him  for the
+        applicability of the same and who can be appointed as an internal auditor and what work
+      would be reviewed by him.
+
+4.    Moon Ltd. of which you are the Statutory Auditor, have an internal audit being conducted by
+      an outside agency. State the factors that weigh considerations in opting to make use of direct
+      assistance of the internal auditors for the purpose of statutory audit.
+
+5.     Mr. A is appointed as a statutory auditor of XYZ Ltd. XYZ Ltd is required to appoint an internal
+       auditor as per statutory provisions given in the Companies Act, 2013 and appointed Mr. B as
+         its internal auditor. The external auditor Mr. A asked internal auditor to provide direct
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+INTERNAL AUDIT          16.31
+
+
+      assistance to him regarding evaluating significant accounting estimates by the management
+      and assessing the risk of material misstatements.
+
+        (a)    Discuss whether Mr. A, statutory auditor, can ask direct assistance from Mr. B, internal
+              auditor as stated above in view of auditing standards.
+
+        (b)     Will your answer be different if Mr. A asks direct assistance from Mr. B, internal auditor
+              with respect to external confirmation requests and evaluation of the results of external
+             confirmation procedures?
+
+6.    The XYZ Ltd has to appoint Mr. A as Chief Internal Auditor to lead the internal audit function
+        for the Company. The Managing Director of the Company has asked the HR head to define
+       the reporting structure of the Chief Internal Auditor, so that he can discharge his duties
+       objectively? Suggest the ideal reporting structure of the Chief Internal Auditor that HR head
+     may propose to the Managing Director?
+
+7.    The XYZ Ltd is has appointed Mr. A to conduct their internal audit for new financial year. The
+       Audit committee requested Mr. A to present their Internal Audit plan for next financial year?
+     What approach would Mr. A follow to prepare the internal audit plan for next year?
+
+8.    The XYZ Ltd is has appointed Mr. A to conduct their internal audit for new financial year. The
+       Audit committee requested Mr.  to perform detailed analysis of their expenses in previous
+      year and report all risks and underlying gaps? What audit approach should Internal Auditor
+       follow to identify such gaps?
+
+9.    The XYZ Ltd is has appointed Mr. A to conduct their internal audit for new financial year. The
+       Audit committee requested Mr.  to present detailed report on their finding and areas where
+      immediate action is needed to mitigate critical risks? What should be the content of internal
+       audit report to address this requirement of the Audit Committee?
+
+10.   The XYZ Ltd is has appointed Mr. A to conduct their internal audit for new financial year. The
+       Audit committee requested Mr. A  to present  their analysis on the implementation  of
+      recommendation of previous audit report and highlight critical areas which need immediate
+       attention of Audit Committee? What should be the steps followed by internal auditor to
+      address this requirement of Audit Committee?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+16.32         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+Answers to Test Your Understanding
+
+1.    As per section 138 of Companies Act, 2013 the internal auditor shall either be a chartered
+      accountant or a cost accountant (whether engaged in the practice or not), or such other
+       professional as may be decided by the Board to conduct an internal audit of the functions and
+        activities of the company.
+
+     The Board can appoint any professional as may be decided by it. The applicant in question
+        is a law post graduate and he has spent 25 years of his career in Indian Audit & Accounts
+       Service. Therefore, he has got the necessary experience and skills required for the said
+      vacancy. The Board would be in a position to appoint such a competent and experienced
+      person in the field of auditing as its Chief Internal auditor.
+
+2.    The Internal Auditor does not assume any responsibility to manage or operate the compliance
+      framework or to take compliance related decisions.  It is not responsibility of the Internal
+       Auditor to execute or resolve compliance related risks (e.g., engaging directly with regulators,
+        etc.).
+
+      Although internal audit function provides independent assurance to enhance governance
+      (which includes compliance with laws and regulations),  it does not assume operational
+       responsibility of its compliance framework. It is the responsibility of the management. He is
+       responsible for auditing the compliance framework and not managing it. Similarly, he does
+       not accept compliance related risks like directly engaging with regulator.
+
+3.    The greater the judgment needed to be exercised in planning and performing the audit
+      procedures and evaluating the audit evidence, the external auditor will need to perform more
+      procedures directly because using the work of the internal audit function alone will not provide
+       the external auditor with sufficient appropriate audit evidence.
+
+     The appropriate use of going concern assumption requires significant judgment on part of
+       statutory auditor.
+
+       Therefore, statutory auditor cannot place total reliance on internal auditor’s work in this regard
+      and he should perform more procedures directly.
+
+Hints /Answers to Theoretical Questions
+
+1.    Refer para 6.
+
+2.    Evaluation of Internal Audit Functions by External Auditor: The external auditor’s general
+       evaluation of the internal audit function will assist him in determining the extent to which he
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+INTERNAL AUDIT          16.33
+
+
+      can place reliance upon the work of the internal auditor. The external auditor should document
+       his evaluation and conclusions in this respect. The important aspects to be considered in this
+       context are:
+
+        (a)    Organisational Status - Whether internal audit is undertaken by an outside agency
+              or by an internal audit department within the entity itself, the internal auditor reports to
+             the management. In an ideal situation, his reports to the highest level of management
+           and are free of any other operating responsibility.  Any constraints or restrictions
+             placed upon his work by management should be carefully evaluated. In particular, the
+               internal auditor should be free to communicate fully with the external auditor.
+
+       (b)   Scope of Function - The external auditor should ascertain the nature and depth of
+            coverage of the assignment which the internal auditor discharges for management. He
+             should  also  ascertain  to what  extent  the management  considers, and where
+              appropriate, acts upon internal audit recommendations.
+
+        (c)    Technical Competence  - The external auditor should ascertain that internal audit
+            work is performed by persons having adequate technical training and proficiency. This
+          may be accomplished by reviewing the experience and professional qualifications of
+             the persons undertaking the internal audit work.
+
+       (d)   Due Professional Care - The external auditor should ascertain whether internal audit
+            work appears to be properly planned, supervised, reviewed and documented. An
+           example of the exercise of due professional care by the internal auditor is the existence
+               of adequate audit manuals, audit programmes and working papers.
+3.     Applicability of Internal Audit: Section 138 of the Companies Act, 2013 states that every
+       private limited company  is required to conduct internal audit  if  its outstanding loans or
+       borrowings from banks or public financial institutions exceeding one hundred crore rupees or
+      more at any point of time during the preceding financial year.
+        In view of above provisions, AB Pvt. Ltd. is under compulsion to conduct internal audit as its
+       loans or borrowings are falling under the prescribed limit.
+    Who can be appointed as Internal Auditor- The internal auditor shall either be a chartered
+       accountant or a cost accountant, whether engaged  in  practice or  not, or such other
+       professional as may be decided by the Board to conduct internal audit of the functions and
+        activities of the companies.
+      The internal auditor may or may not be an employee of the company.
+     Work to be reviewed by Internal Auditor- Refer Para 2.
+
+4.     Refer Para 7.3
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+16.34         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+5.     (a)    Direct Assistance from Internal Auditor: As per SA 610 “Using the Work of Internal
+               Auditor”, the external auditor shall not use internal auditors to provide direct assistance
+               to perform procedures that Involve making significant judgments in the audit.
+
+            Since the external auditor has sole responsibility for the audit opinion expressed, the
+              external auditor needs to make the significant judgments in the audit engagement.
+
+               Significant judgments include the following:
+
+           •     Assessing the risks of material misstatement;
+
+           •     Evaluating the sufficiency of tests performed;
+
+           •     Evaluating the appropriateness of management’s use of the going concern
+                   assumption;
+
+           •     Evaluating significant accounting estimates; and
+
+           •     Evaluating the adequacy of disclosures in the financial statements, and other
+                   matters affecting the auditor’s report.
+
+               In view of above, Mr. A cannot ask direct assistance from internal auditors regarding
+             evaluating  significant accounting estimates and assessing  the  risk  of  material
+             misstatements.
+
+       (b)    Direct Assistance from Internal Auditor in case of External Confirmation Procedures:
+         SA 610 “Using the Work of Internal Auditor”, provide relevant guidance in determining
+             the nature and extent of work that may be assigned to internal auditors. In determining
+             the nature of work that may be assigned to internal auditors, the external auditor is
+              careful to limit such work to those areas that would be appropriate to be assigned.
+
+              Further, in accordance with SA 505, “External Confirmation” the external auditor is
+             required to maintain control over external confirmation requests and evaluate the
+               results of external confirmation procedures, it would not be appropriate to assign these
+               responsibilities  to  internal  auditors.  However,  internal  auditors may  assist  in
+            assembling information necessary for the external auditor to resolve exceptions in
+             confirmation responses.
+
+6.   HR Head need to evaluate multiple options and identify most suitable option in light of the
+       relevant provisions, guidance and overall governance of the organization. HR head also need
+       to evaluate different option for his administrative reporting and various options for functional
+       reporting of Chief Internal Auditor. The possible options to be considered and evaluated
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+INTERNAL AUDIT          16.35
+
+
+       include Board of Directors, Audit Committee, Managing Director of the Company, Chief
+      Executive Officer or Chief Financial Officer.
+
+     As per section 138 of the Companies Act 2013, the internal auditor shall either be a chartered
+      accountant or a cost accountant (whether engaged in the practice or not), or such other
+       professional as may be decided by the Board to conduct an internal audit of the functions and
+        activities of the company.
+
+     As per the revised definition of the term ‘Internal Audit’ as per para 3 of the ICAI’s Framework
+      Governing  Internal  Audits,  “Internal  audit  provides  independent  assurance  on  the
+       effectiveness of internal controls and risk management processes to enhance governance
+      and achieve organisational objectives”.
+
+      Refer para 3.1, The Internal Auditor shall be free from any undue influences which force him
+       to deviate from the truth. This independence shall be not only in mind but also in appearance.
+       Also, the internal auditor shall resist any undue pressure or interference in establishing the
+      scope of the assignments or the manner in which these are conducted and reported, in case
+      these deviate from set objectives.
+
+     As per the requirement of the above stated provision, Chief Internal Auditor need to be
+      independent of the operational activities and report of Audit Committee / Board of Directors
+       to enjoy his true status of independent auditor. He may administratively report to CEO or
+      Managing Director for his administrative reporting purpose or any other similar authority  till
+       the time it is approved by Board of Directors and it does not impact his independence to be
+       able to perform his duties and report to audit committee / Board of Director independently.
+
+7.    Refer para 2.0.
+
+     The internal auditor should, in consultation with those charged with governance, including the
+       audit committee, develop and document a plan for each internal audit engagement to help
+      him conduct the engagement in an efficient and timely manner.
+
+       Internal audit plan should be developed in such a manner that all the business processes
+       covering both financial as well as operational activities are reviewed by internal audit function
+       within a defined time cycle. Also, ensuring that appropriate consideration is made and
+      adequate balance is ensured to the following:
+
+   ➢    Risk underlying the business process
+
+   ➢    Value that the internal audit can provide to the organization
+
+   ➢     Effort involved in conducting the internal audit for a particular business process
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+16.36         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+   ➢    Risk Appetite of the organization
+
+   ➢    Coverage of all auditable areas within the defined time range
+
+8.     Refer para 5.0
+
+9.     Refer para 6.0
+
+     As per Standard on Internal Audit (SIA) 370 Reporting Results, reporting of internal audit
+       results is generally undertaken in two stages:
+
+   ➢    At the end of a particular audit assignment, an “Internal Audit Report” covering a
+               specific area, function or part of the entity  is prepared by the Internal Auditor
+              highlighting key observations arising from those assignments. This report is generally
+             issued with details of the manner in which the assignment was conducted and the key
+              findings from the audit procedures undertaken. This report is issued to the auditee,
+              with copies shared with local and executive management, as agreed during the
+             planning phase.
+
+   ➢   On a periodic basis, at the close of a plan period, a comprehensive report of all the
+               internal audit activities covering the entity and the plan period is prepared by the Chief
+               Internal Auditor (or the Engagement Partner, in case of external service provider).
+           Such reporting is normally done on a quarterly basis and submitted to the highest
+             governing authority responsible for internal audits, generally the Audit Committee.
+          Some part of the aforementioned Internal Audit Reports may form part of the periodic
+               (e.g. Quarterly) report shared with the Audit Committee.
+
+             Accordingly, a typical internal audit report should include the following:
+
+           •      Audit Scope performed;
+
+           •      Audit period Covered;
+
+           •     Executive Summary;
+
+           •    Summary of the critical findings;
+
+           •      Detailed audit findings with elaboration on business impact and root cause of
+                  such issues;
+
+           •     Rating of the highlighted issues (E.g High / Medium / Low) in accordance to the
+                      rating criteria approved by Audit Committee;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+INTERNAL AUDIT          16.37
+
+
+           •      Audit recommendation  to improve  control environment and address  the
+                     highlighted finding;
+
+           •     Response received from the responsible functional authority containing action
+                    plan and target timelines for action.
+
+10.   Refer para 6.1
+
+     As per SIA 390 Monitoring and Reporting of Prior Audit Issues, the Chief Internal Auditor is
+       responsible for continuously monitoring the closure of prior audit issues through timely
+      implementation of action plans included in past audits. This shall be done with a formal
+       monitoring process, elements of which are pre-agreed with management and those charged
+       with governance. The  responsibility  to implement  the  action plans remains  with  the
+      management.
+
+       In monitoring and reporting of prior audit issues, the responsibility of the Internal Auditor is
+       usually in the form of an “Action Taken Report (ATR) of previous audits”.
+
+     To address the requirement of Audit Committee in the given situation, Internal Auditor should
+      assess the action taken against the previous audit findings and report a summary of the action
+      taken by the management. Typical Action Taken Report may include the following:
+
+   ➢    Reference to the previous audit reporting containing the reported issues
+
+   ➢    Implementation Action agreed by the management along with target implementation
+             date
+
+   ➢     Status  of  action  taken by management. The same may be  classified under
+            Implemented / Not Implemented
+
+   ➢    Residual risk and rating for any unimplemented action
+
+   ➢     Audit findings not implemented for long period of time
+
+   ➢    Any critical audit finding that require immediate action for action or implementation
+
+
+© The Institute of Chartered Accountants of India

@@ -1,0 +1,3416 @@
+Source PDF: 05_Indirect_Tax_Laws/021 - Chapter 13- Returns - 76224bos61590-cp13.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\05_Indirect_Tax_Laws\021 - Chapter 13- Returns - 76224bos61590-cp13.pdf
+Extracted at: 2026-05-31T10:25:50+05:30
+Pages: 88
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+R
+      CHAPTER            13
+
+
+    RETURNS
+
+            The section numbers referred to in the Chapter pertain to CGST Act and rule numbers
+               referred to  in the Chapter pertain to CGST Rules, unless otherwise  specified.
+              Examples/Illustrations/Questions and Answers given in the Chapter are based on the
+               position of GST law existing as on 30.04.2023.
+
+
+                        LEARNING OUTCOMES
+
+          After studying this Chapter, you will be able to –
+         comprehend and analyse the provisions relating to  filing of
+                 various types of statements and returns by registered persons
+          appreciate and  analyse  the  provisions  relating  to  filing  of
+                information return by various authorities
+          determine the late fee for delayed filing of return
+          explain the provisions relating to GST practitioner
+          explain the provisions relating to information return
+
+
+          © The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+1.2      13.2          GOODS AND SERVICES TAX
+
+    1. INTRODUCTION
+The term “return” ordinarily means statement of information (facts) furnished by
+the taxpayer, to tax administrators, at regular
+intervals. The information to be furnished in the
+return  generally  comprises  of  the  details
+pertaining to the nature of activities/business
+operations  forming  the  subject  matter  of
+taxation; the measure of taxation such as sale
+price,  turnover,  or  value;  deductions  and
+exemptions; and determination and discharge
+of tax liability for a given period.
+                                      In any tax law, “filing of returns” constitutes the
+                             most important compliance procedure which
+                                 enables the Government/ tax administrator to
+                                 estimate the  tax  collection  for a  particular
+                                 period and determine  the  correctness and
+                               completeness of the tax compliance of the
+                                   taxpayers.
+                             The returns serve the following purposes:
+                                       a)  Mode for transfer of information to tax
+                                    administration;
+b)   Compliance verification program of tax administration;
+c)    Finalization of the tax liabilities of the taxpayer within stipulated period of
+      limitation;
+d)    Providing necessary inputs for taking policy decision;
+e)   Management of audit and anti-evasion programs of tax administration
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+RETURNS    1.3  13.3
+
+The taxpayer  is generally required to
+furnish the return in a specific statutory
+format.  These formats are, therefore,
+designed  to  take  care  of   all  the                                                   Filing of GST returns helps in
+provisions  of  the  law  that  have  a        determination of tax liability of
+bearing on computation of tax liability        the return filer and at the same
+of a taxpayer. Hence, a study of various        time it also has a huge bearing
+fields contained in the form of return       on   determination   of   tax
+                                                        liability of other persons withvis-à-vis  the  relevant  corresponding
+                              whom the former has enteredprovisions of the tax law, can facilitate
+                                              into taxable activities.overall understanding of the tax law in
+a better manner.
+Under the GST laws, the correct and
+timely filing of returns is of utmost importance because of two reasons.  Firstly,
+under GST laws, a taxpayer  is required to estimate his tax  liability on  “self-
+assessment” basis and deposit the tax amount along with the filing of such return.
+The return, therefore, constitutes a kind of working
+sheet/supporting document for the tax authorities
+that can be relied upon as the basis on which the tax
+has been computed by the taxpayer. Secondly, under
+the GST regime, filing of returns not only determines
+the tax liability of the person filing the same, but it
+also has a huge bearing on determination of tax
+liability of other persons with whom the former has entered into transactions in
+course or furtherance of business.
+Chapter IX of the CGST Act [Sections 37 to 481] and sections 150 & 123 prescribe
+the provisions relating to filing of returns as under:
+
+  Section 37    Furnishing details of outward supplies
+  Section 38    Furnishing details of inward supplies
+  Section 39    Furnishing of returns
+
+
+1 Sections 42, 43 and 43A have been omitted.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+1.4      13.4          GOODS AND SERVICES TAX
+
+  Section 40     First return
+  Section 41    Availment of input tax credit**
+  Section 44   Annual Return
+  Section 45    Final Return
+  Section 46    Notice to return defaulters
+  Section 47    Levy of late fee
+  Section 48   Goods and services tax practitioners
+  Section 150   Obligation to furnish information return
+  Section 123   Penalty for failure to furnish information return
+Apart from this, section 52, inter alia, prescribes a statement for tax collection at
+source to be furnished by Electronic Commerce Operator. The same has already
+been discussed in Chapter 12 – Electronic Commerce Transactions in this Module of
+the Study Material.
+**Provisions of section 41 relating to availment of input tax credit have already been
+discussed in Chapter 7 – Input Tax Credit in this Module of the Study Material; thus,
+said provisions are not discussed here. The provisions relating to forms and manner,
+in which information is to be furnished through returns, are given under Chapter
+VIII of the CGST Rules [Rules 59-842].  State GST laws also prescribe identical
+provisions in relation to filing of returns.
+
+ Provisions of returns, other than late fee, under CGST Act have also been
+ made applicable to IGST Act vide section 20 of the IGST Act.
+
+All the returns under GST laws are to be filed electronically. Taxpayers can file
+the statements and returns by various modes.  Firstly, they can file their statement
+and returns directly on the GST common portal online.  However, this may be
+tedious and time consuming for taxpayers with large number of invoices. For such
+
+2 Rules 69, 70, 71, 72, 73, 74, 75, 76, 77 and 79 have been omitted.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+RETURNS    1.5  13.5
+
+taxpayers, offline  utilities have been provided by GSTN that can be used for
+preparing the statements offline after downloading the auto populated details and
+uploading them on the common portal. GSTN has also developed an ecosystem of
+GST Suvidha Providers (GSP) that will integrate with the common portal.
+
+
+The details furnished by the taxpayer in the form of returns shall be consolidated
+and stored at the common portal which will be common for both,  i.e. Central
+Government and State Governments.
+
+    2. RELEVANT DEFINITIONS
+  Common portal means the common goods and services tax electronic portal
+      referred to in section 146 [Section 2(26)].
+   Credit note means a document issued by a registered person under sub-
+      section (1) of section 34 [Section 2(37)].
+   Casual taxable person means a person who  occasionally undertakes
+      transactions involving supply of goods or services or both in the course or
+     furtherance of business whether as principal, agent or in any other capacity,
+      in a State or a Union Territory where he has no fixed place of business [Section
+      2(20)].
+   Debit note means a document issued by a registered person under sub-
+      section (3) of section 34 [Section 2(38)].
+   Electronic cash ledger means the electronic cash ledger referred to in sub-
+      section (1) of section 49 [Section 2(43)].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+1.6      13.6          GOODS AND SERVICES TAX
+
+   Electronic credit ledger means the electronic credit ledger referred to in
+     sub-section (2) of section 49 [Section 2(46)].
+   Exempt supply means supply of any goods or services or both which attracts
+       nil rate of tax or which may be wholly exempt from tax under section 11, or
+     under section 6 of the Integrated Goods and Services Tax Act, and includes
+     non-taxable supply [Section 2(47)].
+   Goods and services tax practitioner means any person who has been
+     approved under section 48 to act as such practitioner [Section 2(55)].
+   Invoice or tax invoice means the tax invoice referred to in section 31 [Section
+      66].
+   Inward supply in relation to a person, shall mean receipt of goods or services
+     or both whether by purchase, acquisition or any other means with or without
+     consideration [Section 2(67)].
+   Input service distributor means an office of the supplier of goods or services
+     or both which receives tax invoices issued under section 31 towards the
+      receipt of input services and issues a prescribed document for the purposes
+      of distributing the credit of central tax, State tax, integrated tax or Union
+      territory tax paid on the said services to a supplier of taxable goods or services
+     or both having the same Permanent Account Number as that of the said office
+      [Section 2(61)].
+   Non-resident  taxable  person  means  any  person who  occasionally
+     undertakes transactions involving supply of goods or services or both,
+     whether as principal or agent or in any other capacity, but who has no fixed
+     place of business or residence in India [Section 2(77)].
+   Outward supply in relation to a taxable person, means supply of goods or
+      services or both, whether by sale, transfer, barter, exchange, licence, rental,
+      lease or disposal or any other mode, made or agreed to be made by such
+     person in the course or furtherance of business [Section 2(83)].
+   Prescribed means  prescribed by  rules made under  this  Act on  the
+     recommendations of the Council [Section 2(87)].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+RETURNS    1.7  13.7
+
+   Proper officer in relation to any function to be performed under this Act,
+    means the Commissioner or the officer of the central tax who is assigned that
+      function by the Commissioner in the Board [Section 2(91)].
+   Quarter shall mean a period comprising three consecutive calendar months,
+     ending on the last day of March, June, September and December of a
+     calendar year [Section 2(92)].
+   Recipient of supply of goods or services or both, means—
+    •    where a consideration is payable for the supply of goods or services or
+           both, the person who is liable to pay that consideration;
+    •    where no consideration is payable for the supply of goods, the person
+           to whom the goods are delivered or made available, or to whom
+           possession or use of the goods is given or made available; and
+    •    where no consideration is payable for the supply of a service, the person
+           to whom the service is rendered,
+     and any reference to a person to whom a supply is made shall be construed
+     as a reference to the recipient of the supply and shall include an agent acting
+     as such on behalf of the recipient in relation to the goods or services or both
+     supplied [Section 2(93)].
+   Registered person means a person who is registered under section 25 but
+     does not include a person having a Unique Identity Number [Section 2(94)].
+   Return means any return prescribed or otherwise required to be furnished by
+     or under this Act or the rules made thereunder [Section 2(97)].
+   Reverse charge means the liability to pay tax by the recipient of supply of
+     goods or services or both instead of the supplier of such goods or services or
+     both under sub-section (3) or sub-section (4) of section 9, or under sub-
+      section (3) or sub- section (4) of section 5 of the Integrated Goods and
+      Services Tax Act [Section 2(98)].
+   Supplier in relation to any goods or services or both, shall mean the person
+     supplying the said goods or services or both and shall include an agent acting
+     as such on behalf of such supplier in relation to the goods or services or both
+     supplied [Section 2(105)].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+1.8      13.8          GOODS AND SERVICES TAX
+
+   Tax period means the period for which the return is required to be furnished
+      [Section 106].
+   Taxable person means a person who is registered or liable to be registered
+     under section 22 or section 24 [Section 2(107)].
+   Taxable supply means a supply of goods or services or both which is leviable
+      to tax under this Act [Section 2(108)].
+   Valid return means a return furnished under sub-section (1) of section 39 on
+     which self-assessed tax has been paid in full [Section 2(117)].
+   Online information and database access or retrieval services means
+      services whose delivery  is mediated by information technology over the
+      internet or an electronic network and the nature of which renders their supply
+     impossible to ensure in the absence of information technology and includes
+      electronic services such as,––
+         (i)    advertising on the internet;
+         (ii)   providing cloud services;
+         (iii)   provision of e-books, movie, music, software and other intangibles
+          through telecommunication networks or internet;
+        (iv)   providing data or information, retrievable or otherwise, to any person
+             in electronic form through a computer network;
+       (v)   online supplies of digital content (movies, television shows, music and
+           the like);
+        (vi)   digital data storage; and
+        (vii)  online gaming [Section 2(17) of the IGST Act]
+   Zero rated supply means any of the following supplies of goods or services
+     or both, namely:––
+       (a)   export of goods or services or both; or
+      (b)   supply of goods or services or both for authorised operations to a
+           Special Economic Zone developer or a Special Economic Zone unit
+           [Section 16 of the IGST Act].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+RETURNS    1.9  13.9
+
+    3. FURNISHING   DETAILS  OF  OUTWARD
+      SUPPLIES [SECTION 37 READ WITH RULE 59]
+(i)  Who is required to furnish the details of outward supplies?
+     [Section 37(1) read with rule 59(1)]
+     The details of outward supplies (see definition under Relevant Definitions) of
+     both goods and services are required to be furnished by every registered
+     person including casual registered person except the following:
+      input service distributor (ISD)
+      non-resident taxable person (NRTP)
+      person paying tax under composition
+         scheme
+      person deducting tax at source
+      person collecting tax at source i.e., e-
+         commerce operator (ECO), not being
+         an agent
+       supplier  of online information and
+          database access or  retrieval services
+          (OIDAR) located in non-taxable territory and providing such services to
+          a non-taxable online recipient [Provisions relating to OIDAR services and
+           non-taxable online recipient have been discussed in detail in Chapter 14:
+           Import and Export under GST in Module 3 of this Study Material.]
+
+                                      ♦ISD
+                                                  ♦Non-resident taxable   person
+                                        All registered                                               ♦Composition taxpayer         Persons                persons
+         required                including          ♦Person deducting tax at source
+          to file                   casual           ♦Person collecting tax at source
+        GSTR-1                registered           ♦Supplier  of  OIDAR   services
+                                person                   located in non-taxable territory
+                                                                providing   services   to  non-
+                                                                taxable online recipient
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+1.10    13.10         GOODS AND SERVICES TAX
+
+(ii) What is the form for submission of details of outward supplies?
+     [Section 37(1) read with rule 59(1)]
+     The details of outward supplies are required to be furnished, electronically, in
+    Form GSTR-1 for the month or quarter.  Such details can be furnished
+     through the common portal, either directly or from a Facilitation Centre
+      notified by the Commissioner.
+      Further, a Nil GSTR-1 can be filed through an SMS using the registered mobile
+    number of the taxpayer.
+(iii) What is the due date of submission of GSTR-1? [Section 37(1)]
+     GSTR-1 for a particular tax period is filed on or
+     before  the   10th  day  of  the  immediately
+     succeeding tax period. In other words, GSTR-1 of
+     a month/quarter can be filed any time between
+       1st and 10th day of the succeeding month/quarter.
+     The due date of filing GSTR-1 may be extended
+     by the Commissioner/ Commissioner of State GST/ Commissioner of UTGST
+      for a class of taxable persons by way of a notification.
+     The time limit for furnishing the details of outward supplies in Form GSTR-1
+        is extended3 as follows:
+
+       Class of registered person     Time limit for furnishing the details
+                                     of outward supplies in Form GSTR-1
+                                        for each quarter/month
+       Registered persons opting for  13th day of the month succeeding such
+     QRMP scheme4                  quarter
+       Others                           11th day of the month succeeding such
+                               month
+
+
+3 vide Notification No. 83/2020 CT dated 10.11.2020
+4 QRMP scheme - a Quarterly Return scheme where payment has to be made on monthly basis -
+has been discussed in detail subsequently in this chapter.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+RETURNS    1.11  13.11
+
+(iv) Invoice Furnishing Facility [IFF] for taxpayers opting for QRMP
+    Scheme [Sub-rules (2) and (3) of rule 59]
+      Invoice Furnishing Facility (IFF) is a facility provided to quarterly taxpayers
+    who are in QRMP scheme, to file their details of outward supplies in first two
+     months of the quarter, to pass on the credit to their recipients.
+      Invoice furnishing facility (IFF) is not mandatory, but an optional facility made
+      available to the registered persons under the QRMP scheme. At his option, a
+      registered person may choose to furnish the details of outward supplies made
+     during a quarter in Form GSTR-1 only, without using the IFF.
+     The facility of furnishing details of invoices in IFF has been provided so as to
+      allow details of such supplies to be duly reflected in the Form GSTR-2A and
+    Form GSTR-2B of the concerned recipient. Otherwise, in case where a buyer
+     has made purchases from a person opting for QRMP scheme, he could not
+     have claimed full ITC but due to introduction of IFF, such delay will not occur
+     as the details submitted using IFF will be reflected in the GSTR-2A, GSTR-2B,
+     GSTR-4A5 or GSTR-6A6 of the recipients, as the case may be.
+     Taxpayers opting for QRMP Scheme may furnish the details of such outward
+      supplies to a registered person, as he may consider necessary, for the 1st and
+      2nd months of a quarter, upto a cumulative value of ` 50 lakh in each of the
+       first 2 months of the quarter using IFF electronically on the common portal.
+     However, invoices pertaining to last month of a quarter are to be uploaded
+      in GSTR-1 only.
+     The invoices are to be furnished in IFF  till the 13th day of the succeeding
+     month.  After 13th of the month, this facility for furnishing IFF for previous
+    month would not be available.
+               (1) The facility for the month of January will expire by 13th of
+               February.
+     As a facilitation measure, continuous upload of invoices would also be
+     provided for the registered persons wherein they can save the invoices in IFF
+
+5 Form GSTR-4A is the system generated statement of inward supplies of a composition supplier.
+It has been discussed subsequently in this chapter.
+6 Form GSTR-6A is the system generated statement of inward supplies of an ISD.   It has been
+discussed subsequently in this chapter.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+1.12    13.12         GOODS AND SERVICES TAX
+
+     from the 1st day of the month till 13th day of the succeeding month. The said
+       facility would however be available, say for the month of July, from 1st August
+         till 13th August. Similarly, for the month of August, the said facility will be
+      available from 1st September till 13th September7.
+     The details of invoices furnished using IFF in the first 2 months of the quarter
+      are not required to be furnished again in GSTR-1 for the said quarter.
+               (2) A registered person who has availed the QRMP scheme wants
+               to declare 2 invoices out of the total 10 invoices issued in the
+                   1st month of quarter since the recipient of supplies covered by those
+     2 invoices desires to avail ITC in that month itself. Details of these 2 invoices
+    may be furnished using IFF.
+     The details of the remaining 8 invoices shall be furnished in Form GSTR-1 of
+     the said quarter. The two invoices furnished in IFF shall be reflected in Form
+     GSTR-2B of the concerned recipient of the 1st month of the quarter and
+     remaining 8  invoices  furnished  in Form GSTR-1  shall be  reflected  in
+    Form GSTR-2B of the concerned recipient of the last month of the quarter.
+
+
+         There will be no late fee applicable on late filing of IFF, as IFF is
+     neither mandatory nor allowed to be filed after the due date. However,
+        if a registered person does not opt to upload invoices using IFF, then he has
+     to upload  invoice  details  for  all the 3 months  of the  quarter  in
+    Form GSTR-1.
+(v) What are the cases where a registered person is debarred from
+     furnishing details of outward supplies in GSTR-1/IFF? [Section
+    37(4) read with rule 59(6)]
+    A registered person shall not be allowed to furnish the details of outward
+     supplies for a tax period, if the details of outward supplies for any of the
+     previous tax periods has not been furnished by him.
+     However, the Government may, on the recommendations of the Council,
+     by notification, subject to such conditions and restrictions as may be
+
+7 Circular No. 143/13/2020 GST dated 10.11.2020
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+RETURNS    1.13  13.13
+
+      specified therein, allow a registered person or a class of registered
+     persons to furnish the details of outward supplies, even if he has not
+     furnished the details of outward supplies for one or more previous tax
+     periods [Section 37(4)].
+      In this regard, rule 59(6) stipulates that:
+         (i)   a registered person shall not be allowed to furnish the details of
+          outward supplies in Form GSTR-1, if he has not furnished the return in
+        Form GSTR-3B for the preceding month.
+         (ii)   a registered person, opting for QRMP scheme shall not be allowed to
+            furnish the details of outward supplies in Form GSTR-1 or using IFF, if
+         he has not furnished the return in Form GSTR-3B for preceding tax
+           period.
+       (iii) a registered person, to whom an intimation has been issued on the
+        common portal under the provisions of rule 88C(1) in respect of a
+          tax period, shall not be allowed to furnish the details of outward
+           supplies Form GSTR-1 or using IFF for a subsequent tax period,
+          unless he has either deposited the amount specified in the said
+          intimation or has furnished a reply explaining the reasons for any
+        amount remaining unpaid, as required under the provisions of rule
+           88C(2). Rule 88C has been discussed subsequently in this chapter.
+
+       A taxpayer cannot file GSTR-1 before the end of the current tax
+     period.
+     However, following are the exceptions to this rule:
+      a.   Casual taxpayers, after the closure of their business
+      b.   Cancellation of GSTIN of a normal taxpayer
+    A taxpayer who has applied for cancellation of registration will be
+     allowed to file GSTR-1 after confirming receipt of the application.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+1.14    13.14         GOODS AND SERVICES TAX
+
+(vi) What are the contents of GSTR-1?
+                 CONTENTS OF GSTR- 1
+
+           Basic & Other Details              Details of Outward Supplies
+         •  GSTIN                                      •  B2B including UIN holders
+         •  Legal name                               •  B2C   inter-State   supplies
+         •  Trade name, if any               where invoice value > ` 2.5
+         •  Aggregate  turnover   in          lakh
+         previous year                            •  Consolidated details of other
+         •  Year and Month                B2C supplies
+         •  HSN-wise  summary   of           •  Zero rated and 32
+        outward supplies                       • Deemed exports
+         •  Details   of   documents           •  Debit/ Credit notes issued
+         issued  during  the  tax           •  Nil rated/ Exempted/ Non-
+         period                       GST
+                                                            •  Amendments    for    prior
+                                           period
+                                                            •  Advances received/advances
+                                            adjusted
+
+
+            GST is a destination-based consumption tax. Hence, the tax
+              revenue is transferred to the State which is the place of
+     supply8 of the particular transaction.  Since, the place of supply is
+      crucial for determining the share of every State in the tax revenue,
+    GSTR-1 also captures information relating to place of supply.
+
+(vii) What kind of details of outward supplies are required to be
+    furnished in GSTR-1 and IFF? [Explanation to section 37 read
+    with sub-rules (4) and (5) of rule 59]
+     Uploading of invoices in IFF and GSTR-1 depends on whether the supply is
+     B2B or B2C. Further, uploading of invoice in GSTR-1 also depends on whether
+
+
+8 Principles determining the place of supply have been discussed in detail in Chapter 3 – Place
+of Supply in Module 1 of this Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+RETURNS    1.15  13.15
+
+     the supply is intra-State or inter-State.  Let us first understand what is B2B
+     supply and what is B2C supply?
+
+
+                                  B2C means business  to
+       B2B means  business  to                                      consumer transaction. In
+         business transaction.  In                                         such type of transactions,
+        such type of transactions,                                           the recipient is consumer
+        the  recipient  is  also a                                            or   unregistered   and
+         registered  supplier  and                                           hence,  will not take or
+        hence, takes ITC.                                        cannot take ITC.
+
+
+     (A)  Details of outward supplies required to be furnished in IFF
+            In the IFF, the registered person has to submit the B2B (business to
+           business) invoice details of both inter-State and intra-State supply
+           transactions along with debit and credit notes of the B2B invoices
+           issued during the month.
+         The details of outward supplies furnished using IFF shall include the –
+              (a)   invoice wise details of inter-State and intra-State supplies made
+                 to the registered persons;
+             (b)   debit and credit notes, if any, issued during the month for such
+                 invoices issued previously.
+         From the above discussion,  it can be inferred that IFF shall include
+           invoices pertaining to B2B supplies irrespective of whether they are
+            intra-State or inter- State supplies. This is so because the recipients will
+           take ITC basis such invoices.
+      (B)   Details of outward supplies required to be furnished in GSTR-1
+         The registered person is required to furnish details of invoices and
+           revised  invoices  issued  in  relation  to  supplies made by him to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+1.16    13.16         GOODS AND SERVICES TAX
+
+           registered and unregistered persons (i.e. B2B as well as B2C supplies)
+         and debit notes and credit notes in GSTR-1 in the following manner:
+
+                Sl.      Invoice-wise       Consolidated      Debit and
+           No.     details of ALL       details of ALL     credit notes
+                       (i)    Inter-State    and  Intra-State   supplies  Issued during
+                      Intra-State supplies  made to unregistered  the month for
+               made to registered  persons for each rate  invoices
+                    persons,   i.e.  B2B  of tax                 issued
+                      supplies.                                    previously
+                        (ii)    Inter-State           Inter-State   supplies
+                     supplies made  to  made to unregistered
+                    unregistered        persons with invoice
+                   persons       with  value upto ` 2,50,000
+                     invoice       value  for each rate of tax
+                   exceeding           separately  for  each
+                   ` 2,50,000, i.e. B2C  State
+                     supplies
+
+         Form above discussion,  it can be inferred that for B2B supplies, all
+           invoices need to be uploaded in GSTR-1 irrespective of whether they
+           are intra-State or inter- State supplies. This is so because the recipient
+              will take ITC basis such invoices.
+           For B2C supplies, uploading in general is not required as the buyer will
+          not be taking ITC. However, still in order to implement the destination-
+          based principle, invoices of value more than ` 2.5 lakh in inter-State B2C
+           supplies need to be uploaded. For inter-State B2C invoices upto ` 2.5
+            lakh, State wise summary  is  sufficient and for  all intra-State B2C
+            invoices, only consolidated details need to be given.
+                      (3) Mr. XY makes intra-State taxable supplies for ` 10,000 and
+                    ` 50,000 to Mr. AB, a registered person and ` 2,60,000 to
+                    Mr. DE, an unregistered person. He also makes inter-State
+           taxable supplies for ` 2,60,000 and ` 45,000 to Mr. RS, a registered
+          person and ` 1,50,000 to Mr. OP, an unregistered person.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+RETURNS    1.17  13.17
+
+          Mr. XY will report invoice-wise details of, intra-State supplies made to
+          Mr. AB and inter-State supplies made to Mr. RS, in GSTR-1 to be filed
+          by him.
+     Invoices related details can be uploaded any time during the tax period
+    and not just at the time of filing of IFF/ GSTR-1.
+      Details related to invoices can be modified/deleted any number of times till
+     the submission of IFF/ GSTR-1 of a tax period. The uploaded invoice details
+      are in a draft version till the time IFF/GSTR-1 is submitted and can be changed
+      irrespective of due date.
+
+        Scanned copies of invoices are not required to be uploaded. Only
+     certain prescribed  fields of information from invoices need to be
+     furnished e.g., invoice no., date, value, taxable value, rate of tax, amount
+     of tax etc. In case there is no consideration, but the activity is a supply
+    by virtue of Schedule I of CGST Act, the taxable value will have to be
+    worked out as prescribed and furnished.
+
+         Description of each item in the invoice need not be furnished. Only
+    HSN (Harmonized System of Nomenclature) code in respect of supply of
+    goods and accounting code in respect of supply of services need to be
+      fed.
+     Indication of HSN details
+     The minimum number of digits of HSN code that a filer has to upload depend
+    on his turnover in the last year.
+
+           HSN or HS (Harmonized Commodity Description and Coding
+              System) is a standardized system of nomenclature of different
+     goods developed by World Customs Organization, which is accepted
+      globally. HSN uses 6-digits uniform codes to classify different goods.
+     India uses 8-digits codes for more specific and precise classification.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+1.18    13.18         GOODS AND SERVICES TAX
+
+     The tax payer will be required to report HSN in GSTR-1 as under9:
+
+      Aggregate Annual turnover  in   Number of Digits of HSN Code
+      the preceding financial year
+      Upto ` 5 crore                     For B2B supply - 4
+                                         For B2C supply – 4 (optional)
+      More than ` 5 crore                             6
+
+               (4) The aggregate turnover of Yellow Lemon Pvt. Ltd., Red Pepper Pvt.
+                  Ltd. and Blue Berry Pvt. Ltd. in the previous financial year are ` 1.5 crore,
+              ` 4.8 crore and ` 6 crore respectively. While Yellow Lemon Pvt. Ltd. and
+     Red Pepper Pvt. Ltd. will be required to upload 4 digits of HSN code of the goods
+      sold to registered persons, uploading of 4 digits HSN code will be optional for the
+     two companies when the goods are sold to unregistered persons. Blue Berry Pvt.
+       Ltd. will have to upload 6 digits of HSN code of goods sold by it.
+(vii) How are the details of outward supply furnished in prior
+    periods amended? [Section 37(3)]
+      (a)  Scope of amendment/ correction entries
+           Tables 9, 10 and 11(II) of GSTR-1 provide for amendments in details of
+           taxable outward  supplies furnished  in  earlier periods  (hereinafter
+           referred to as “Amendment Table”). The details of original debit notes/
+            credit notes / refund vouchers issued by the tax-payer in the current tax
+           period as also the revision in the debit notes/ credit notes / refund
+          vouchers issued in the earlier tax periods are required to be shown in
+           Table 9 of the GSTR-1.
+            Ordinarily, in Amendment Table, the supplier is required to give details
+           of original invoice (No and Date), the particulars of which have been
+          wrongly entered in GSTR-1 of the earlier months and are now sought
+           to be amended.
+
+
+9 Notification No. 78/2020 CT dated 15.10.2020
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+RETURNS    1.19  13.19
+
+
+                                          by way of
+                     Particulars            Amendment
+                    furnished                 Tables given                                                                     amended                      in GSTR-1                                                   in GSTR-1 of
+                     of prior    be                                          subsequent
+                    periods       can                                               periods
+
+      (b)   Rectification of errors
+                  If the supplier discovers any error or omission, he shall rectify the same
+             in the tax period during which such error or omission is noticed, and
+          pay the tax and interest, if any, in case there is short payment, in the
+           return to be furnished for such tax period.
+                     (5) A supplier discovers a mistake in details of the invoice
+                    furnished in GSTR-1 for the month of August, in October. He
+                  can rectify the said mistake in the GSTR-1 for the month of
+           October.
+      (c)  Time limit for rectification
+            In above example, suppose for some reason, supplier could not make
+           correction at the time of filing of GSTR-1 for the month of October then
+         he can make such amendments in the subsequent periods. However,
+           the maximum time limit within which such amendments are permissible
+               is earlier of the following dates:
+       30th day of November following the end of the financial year to
+               which such details pertain or
+       Date of filing of the relevant annual return
+                     (6) An entity has furnished the annual return for the previous
+                      financial year on 15th August in the current financial year. An
+                     error is discovered in respect of a transaction pertaining to the
+         month of November of the previous financial year.  In this case, any
+            error pertaining to the transaction in the month of November of the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+1.20    13.20         GOODS AND SERVICES TAX
+
+           previous financial year cannot be rectified beyond 15th August in the
+           current financial year.
+
+                    It may be noted that, the expression ‘due date’ is missing in
+          time limit prescribed for making amendments u/s 37(3) [GSTR-1].
+          Therefore, such date apparently means actual date of filing and not
+          the due date.
+(viii)     Nil GSTR-1 [Rule 67A]
+      Filing of GSTR-1 is mandatory for all normal and casual taxpayers, even  if
+     there  is no business activity in any particular tax period.  For such tax
+      period(s), a Nil GSTR-1 is required to be filed as prescribed under rule 67A.
+    A Nil GSTR-1 does not have any entry. For example, a Nil GSTR-1 for a tax
+     period cannot be  filed,  if the taxpayer has made any outward supply
+      (including exempt, nil rated or non-GST supplies), or it has received supplies
+    on which tax is payable under reverse charge or an amendment needs to be
+    made to any of the supplies declared in an earlier return or any credit or debit
+     notes is to be declared / amended etc.
+    A Nil GSTR-1 can be filed through an SMS using the registered mobile
+    number of the taxpayer.  GSTR-1 submitted through SMS  is verified by
+      registered mobile number-based OTP facility.
+    A taxpayer can file Nil GSTR-1, anytime from 1st day of the month subsequent
+      of the tax period. For example, GSTR-1 for the calendar month of April, can
+     be filed from 1st May onwards. GSTR-1 for the quarter of April to June can
+     be filed from 1st July onwards.
+
+                Taxpayer opting for voluntary cancellation of GSTIN has to        ✪
+                   file GSTR-1 for active period.
+                   In cases where a taxpayer has been converted from a        ✪
+   normal taxpayer to composition taxpayer at the beginning of any
+    financial year, GSTR-1 will be available for filing only for the period
+    during which the taxpayer was registered as normal taxpayer. The GSTR-
+   1 for the said period, even if filed with delay would accept invoices for
+    the period prior to conversion.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+RETURNS    1.21  13.21
+
+What are the precautions that a taxpayer is required to take for a hassle-free
+compliance under GST?
+One of the most important things under GST is the timely uploading of the details of
+outward supplies in GSTR-1. How best this can be ensured will depend on the number
+of B2B invoices that the taxpayer issues.
+If the number  is small, the taxpayer can upload all the information in one go.
+However, if the number of invoices is large, the invoices (or debit/ credit notes) should
+be uploaded on a regular basis.
+                  GST common portal allows regular uploading of details of
+                         invoices.  Till the return is actually submitted, the system also      Regular
+                      allows the taxpayer to modify the uploaded invoices’ details.    uploading of
+                       Therefore, it would always be beneficial for the taxpayers to      invoices
+                       regularly upload the invoices.
+Last minute rush makes uploading difficult and comes with higher risk of possible
+failure and default.  For bulk uploading of invoices, offline utilities or ERP software
+can be used.
+The second thing would be to ensure that taxpayers
+follow up on uploading the invoices of their inward   Follow   up   with
+supplies by their suppliers.  This would be helpful in   suppliers to upload
+ensuring that the ITC is available without any hassle and   the   invoices   of
+delay.                                          inward supplies
+Recipients can also encourage their suppliers to upload
+their invoices on a regular basis instead of doing it on or close to the due date. The
+system would allow recipients to see  if their suppliers have uploaded invoices
+pertaining to them.
+(ix) Maximum time-limit for furnishing Form GSTR-1 [Section 37(5)]
+    Maximum time-limit upto which a registered person can furnish the
+      details of outward supplies in Form GSTR-1 for a tax period is 3 years
+     from the due date of furnishing such details.  This time limit can be
+     extended by the Government for a registered person or a class of
+     registered persons subject to such conditions and restrictions as may be
+      specified therein.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+1.22    13.22         GOODS AND SERVICES TAX
+
+    4. COMMUNICATION OF DETAILS OF INWARD
+      SUPLIES  AND   INPUT  TAX   CREDIT
+      [SECTION 38 READ WITH RULE 60]
+The details of outward supplies furnished by the registered persons under
+section 37(1) and of such other supplies as may be prescribed, and an
+Auto-Generated Statement containing the details of ITC shall be made
+available electronically to the recipients of such supplies in such form and
+manner, within such time, and subject to such conditions and restrictions as
+may be prescribed.
+                            (A)                         (i)     by any registered person within such                                                        period of taking registration as may be
+                            Detailsl  off inwardi                               prescribed
+                         supplies in respect of
+                       which ITC may be               (ii)     by any registered person, who has
+                          available to the         defaulted in payment of tax and where such
+                                 recipient                default has continued for such period as
+                                                  may be prescribed
+                                                                                                (iii)    by any registered person, the output
+                                                             tax payable by whom in accordance with      Auto-                                               GSTR-1 furnished by him during such period,    generated                          (B)                   as may be prescribed, exceeds the output tax    statement                        Detailsls ofoff suppliessup      in         paid by him during the said period by such
+                      respect of which such                    limit as may be prescribed**
+                   ITC cannot be availed,
+                     whether wholly or              (iv)    by any registered person who,
+                         partly, by the recipient,       during such period as may be prescribed,
+                   on account of the          has availed ITC of an amount that exceeds
+                           details of the said          the credit that cancan bebe availedav    by him in                                                   accordance withh          ,, byb such limit as may                          supplies being                      (A)                                              be prescribed                      furnished under sub-
+                     section (1) of section 37          (v)     by any registered person, who has
+                                                        defaulted in discharging his tax liability in
+                                                    accordance with the provisions of section
+                                                           49(12) subject to such conditions and
+                                                                    restrictions as may be prescribed; or
+
+                                                                               (vi)    by such other class of persons as
+                                                  may be prescribed
+
+**Rule 88C provides the mechanism for dealing with difference in liability
+reported  in  statement  of  outward  supplies  between Form  GSTR-1 and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+RETURNS    1.23  13.23
+
+Form GSTR-3B. Accordingly, where the tax liability as per Form GSTR-1 for a tax
+period exceeds the tax liability as per Form GSTR-3B for that period by more than
+a specified extent, the registered person would be intimated on the portal of such
+difference and be directed to either (i) pay the differential tax liability along with
+interest, or (ii) explain the difference, within 7 days’ period.
+Unless the taxpayer either deposits the amount specified in the said intimation
+or furnishes a reply explaining the reasons for any amount remaining unpaid,
+such a person should not be allowed to file Form GSTR-1/ IFF for the subsequent
+tax period.
+Rule 88C reads as follows:
+Where the tax payable by a registered person, in accordance with the statement
+of outward supplies furnished by him in Form GSTR-1 or using the IFF in respect
+of a tax period, exceeds the amount of tax payable by such person in accordance
+with the return for that period furnished by him in Form GSTR-3B, by such amount
+and such percentage, as may be recommended by the Council, the said registered
+person shall be intimated of such difference.
+Such registered person shall be intimated in prescribed form, electronically on the
+common portal, and a copy of such intimation shall also be sent to his e-mail
+address*.
+In said intimation, the said difference between GSTR-1 and GSTR-3B will be
+highlighted and he will be directed to:
+(a)  pay the differential tax liability, along with interest under section 50,
+     through prescribed form; or
+(b)   explain the aforesaid difference in tax payable on the common portal,
+within a period of 7 days.
+*email address which registered person has provided at the time of registration or as
+amended from time to time
+Such registered person shall, upon receipt of the aforesaid intimation, either:
+(a)  pay the amount of the differential tax liability, as specified in intimation,
+      fully or partially, along with interest under section 50, and furnish the
+      details thereof electronically on the common portal; or
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+1.24    13.24         GOODS AND SERVICES TAX
+
+(b)   furnish a reply electronically on the common portal, incorporating reasons
+      in respect of that part of the differential tax liability that has remained
+     unpaid, if any,
+within the period of 7 days.
+Where any amount specified in the said intimation remains unpaid within 7 days’
+period and where no explanation or reason is furnished by the registered person
+in default or where the explanation or reason furnished by such person is not
+found to be acceptable by the proper officer, the said amount shall be recoverable
+in accordance with the provisions of section 7910.
+Form and manner of ascertaining details of inward supplies – GSTR-
+2A and GSTR-2B [Rule 60]
+                     Form GSTR-2A
+Form GSTR-2A - is a system generated read only statement of
+inward supplies for a recipient.  This statement is updated on
+a real time basis.
+Details of outward supplies furnished by the supplier in Form GSTR-1 or using the
+IFF is made available electronically to the concerned registered persons (recipients)
+in Form GSTR-2A.  Further, Form GSTR-4A is the system generated statement of
+inward supplies for composition taxpayer. System generated statement of inward
+supplies for an ISD is GSTR-6A.
+Details of invoices furnished by a non-resident taxable person (NRTP) in Form
+GSTR-5, details of invoices furnished by an ISD in Form GSTR-6, details of TDS by
+deductor furnished in Form GSTR-7 and details of TCS by an e-commerce operator
+furnished in Form GSTR-811, are made available to the recipient, deductee or
+concerned person, in Form GSTR-2A.
+Further, details of the IGST paid on the import of goods or goods brought in DTA
+from  SEZ  unit/developer on  a  bill  of  entry  are  also made  available  in
+Form GSTR-2A.
+
+10 Section 79 provides the provisions relating to recovery of tax. Same has been discussed in detail
+in Chapter 19 – Demands and Recovery in Module 3 of this Study Material.
+11 Form GSTR-8 has been discussed in detail in Chapter 12 – E-Commerce Transactions in this
+Module of the Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+RETURNS    1.25  13.25
+
+The details become available to the recipient for view/download and are updated
+incrementally as and when supplier(s) upload or change details in their respective
+form of return/statement, for the given tax period.
+                     Form GSTR-2B
+Form GSTR-2B – an auto-generated statement containing the
+details of eligible ITC -  is made available to the registered
+person (recipient) for every month.
+It is a static statement and is available only once a month.
+It consists of –
+(i)    the details of outward supplies furnished by the suppliers in Form GSTR-1,
+     other than a supplier who has opted for QRMP scheme, between the day
+     immediately after the due date of furnishing of Form GSTR-1 for the previous
+    month to the due date of furnishing of Form GSTR-1 for the month.
+(ii)   the details of invoices furnished by a non-resident taxable person in GSTR-5,
+      details of invoices furnished by an ISD in his return in GSTR-6 and the details
+      of outward supplies furnished by his supplier who has opted for QRMP
+     scheme, in Form GSTR-1 or using the IFF, as the case may be,-
+      (a)   for the 1st month of the quarter, between the day immediately after
+           the due date of furnishing of Form GSTR-1 for the preceding quarter to
+           the due date of furnishing details using the IFF for the 1st month of the
+            quarter;
+      (b)   for the 2nd month of the quarter, between the day immediately after
+           the due date of furnishing details using the IFF for the 1st month of the
+           quarter to the due date of furnishing details using the IFF for the 2nd
+         month of the quarter;
+      (c)   for the 3rd month of the quarter, between the day immediately after
+           the due date of furnishing of details using the IFF for the 2nd month of
+           the quarter to the due date of furnishing of Form GSTR-1 for the
+            quarter.
+(iii)  the details of IGST paid on the import of goods or goods brought in the DTA
+     from SEZ unit/developer on a bill of entry in the month.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+1.26    13.26         GOODS AND SERVICES TAX
+
+Form  GSTR-2B  consists  of  all  documents  filed  by  suppliers/ISD  in  their
+Form GSTR-1, 5 & 6, between the cut-off dates. It also consists of import data for
+the period which are received within 13th of the succeeding month.
+In  case  of  monthly  Form  GSTR-1,  the  cut-off  date   is  00:00  hours  on
+12th of the relevant month to 23:59 hours, on 11th of the succeeding month.
+Whereas for quarterly Form GSTR-1/IFF, Form GSTR-5 and Form GSTR-6, the
+cut-off date is 00:00 hours on 14th day of relevant month to 23:59 hours, on 13th
+day of succeeding month.
+The details filed in Form GSTR-1 & 5 (by supplier) & Form GSTR-6 (by ISD) would
+reflect  in  the  next open Form  GSTR-2B  of  the  recipient  irrespective  of
+supplier’s/ISD’s date of filing.
+          (7) If a supplier opting for QRMP files an invoice dated 15th July on 13th
+         August, it will get reflected in GSTR-2B of July (generated on 14th August).
+The statement in Form GSTR-2B for every month shall be made available to the
+registered person,-
+(a)   for the 1st and 2nd month of a quarter, a day after the due date of furnishing
+      of details of outward supplies for the said month,
+    in the IFF by a registered person opting for QRMP, or
+    in Form GSTR-1 by a registered person other than opting for QRMP,
+     whichever is later.
+(b)   in the 3rd month of the quarter, a day after the due date of furnishing of
+      details of outward supplies for the said month,  in Form GSTR-1 by a
+      registered person opting for QRMP.
+               (8) For the quarter July-September, Form GSTR-2B for a registered
+             person (recipient) who has received supplies from QRMP suppliers
+              as well as from other suppliers will be generated as follows:
+     Month              Date of generation of GSTR 2B
+        July                      14th August
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+RETURNS    1.27  13.27
+
+      August                  14th September
+      September              14th October
+
+    5. FURNISHING OF RETURNS UNDER SECTION 39
+
+1.   GSTR-3B [Section 39(1) read with rule 61 & 61A]
+(a)  Person eligible to file return [Section 39(1)]
+     Section 39(1) prescribes a monthly return for every registered person, other
+     than an input service distributor or a non-resident
+      taxable person or a composition  taxpayer, a
+     person  deducting  tax  at  source,  a  person
+      collecting  tax  at  source,   i.e.  an  electronic   GSTR-3B
+    commerce  operator  and  supplier  of OIDAR
+      services located in non-taxable territory providing
+     such services to non-taxable online recipient in
+     such form and manner, and within such time, as may be prescribed.
+     However, the Government may, on the recommendations of the Council,
+      notify certain class of registered persons who shall furnish a return for every
+     quarter or part thereof, subject to the specified conditions and restrictions.
+     Under  this  proviso, QRMP scheme has been  notified which has been
+     discussed in subsequent paras.
+(b)  Return to be filed in Form GSTR-3B
+    GSTR-3B is the form prescribed for filing return under section 39.  It contains
+    summary of outward supplies, inward supplies  liable to reverse charge,
+      eligible ITC, payment of tax etc. Thus, GSTR-3B does not require invoice-wise
+     data of outward supplies.
+     GSTR-3B can be submitted electronically through the common portal, either
+      directly or through a  Facilitation Centre notified by the Commissioner.
+      Further, a Nil GSTR-3B can be filed through an SMS using the registered
+     mobile number of the taxpayer. GSTR-3B can be filed monthly or quarterly.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+1.28    13.28         GOODS AND SERVICES TAX
+
+(c)  Due date for filing return
+      (1)  Monthly GSTR-3B -on or before 20th of the month succeeding the
+         month for which return is furnished.
+      (2)  Quarterly GSTR-3B- on  or before 22nd or  24th of the month
+          succeeding the quarter for which return  is furnished in case of a
+           taxpayer opting for QRMP scheme - (discussed below).
+(d)  Quarterly Return Monthly Payment (QRMP) Scheme
+      Quarterly Return Monthly Payment (QRMP) Scheme  is a trade facilitation
+                            measure      which
+                                   further   eases   the
+                               process   of   doing
+                                  business.
+    QRMP Scheme is an optional return filing scheme, introduced for small
+     taxpayers having aggregate annual turnover (PAN based) of upto ` 5 crore in
+     the  preceding  financial  year  to  furnish  their  Form  GSTR-1  and
+    Form GSTR-3B on a quarterly basis while paying their tax on a monthly
+     basis through a simple challan.
+      This will significantly reduce the compliance burden on such taxpayers as now
+     the taxpayers need to file only 4 GSTR-3B returns instead of 12 GSTR-3B
+      returns in a year.  Similarly, they would be required to file only 4 GSTR-1
+      returns since Invoice Filing Facility (IFF) is provided under this scheme.
+     Opting of QRMP scheme  is GSTIN
+      wise. Distinct persons can avail QRMP
+     scheme  option  for  one  or more
+     GSTINs.  It implies that some GSTINs
+      for a PAN can opt for the QRMP scheme and remaining GSTINs may not opt
+      for the said scheme.
+     (A)   Eligibility for QRMP scheme
+           Registered persons12, having an aggregate turnover up to ` 5 crore
+             in the preceding financial year, and who have opted to furnish quarterly
+
+12 other than supplier of online information and database access or retrieval services (OIDAR)
+located in non-taxable territory and providing such services to a non-taxable online recipient
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+RETURNS    1.29  13.29
+
+           return under QRMP scheme13 as the class of persons who shall furnish
+          a return for every quarter and pay the tax due every month14.
+           Thus, the taxpayers whose aggregate turnover is up to ` 5 crore in the
+          preceding financial year are eligible for QRMP scheme. For computing
+          aggregate turnover, details furnished in returns for tax periods in the
+          preceding financial year shall be taken into account.
+          Condition to be fulfilled for becoming eligible to opt for QRMP
+         scheme
+           Registered persons under QRMP scheme must have furnished the
+           return for the preceding month, as due on the date of exercising such
+           option.  A registered person shall not be eligible to opt for QRMP
+         scheme if he has not furnished the last return due on the date of
+           exercising such option.
+                     (9) If a registered person intending to avail of QRMP scheme
+                      for the quarter ‘July to September’ is exercising his option on
+                      27th July for the said quarter, he must have furnished the
+           return for the month of June which was due on 20th July.
+      (B)  Manner of exercising option of QRMP scheme
+        A registered person intending to opt for QRMP scheme for any quarter
+             shall indicate his preference for furnishing of return on a quarterly basis
+          from 1st day of the 2nd month of the preceding quarter till the last day
+           of the 1st month of the quarter for which the option is being exercised.
+                    (10) A registered person intending to avail of QRMP scheme
+                      for the quarter ‘July to September’ can exercise his option
+                  from 1st May to 31st July.
+       No need to exercise option every quarter
+           Registered persons under QRMP scheme are not required to exercise
+           the option every quarter. Where such option has been exercised once,
+
+
+13 opted under rule 61A of the CGST Rules, 2017
+14 in accordance with the first proviso to section 39(7)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+1.30    13.30         GOODS AND SERVICES TAX
+
+           they shall continue to furnish the return as per the selected option for
+           future tax periods, unless they revise the said option.
+            Further, where such option has been exercised once, the said registered
+          person shall continue to furnish the return on a quarterly basis for
+           future tax periods, unless he–
+              (a)   becomes ineligible for this scheme as per the conditions and
+                   restrictions notified in this regard; or
+             (b)   opts for furnishing of return on a monthly basis, electronically, on
+                the common portal.
+      (C)  Option of QRMP scheme to lapse
+            In case where a registered person’s aggregate turnover crosses ` 5 crore
+          during a quarter in a financial year, he shall not be eligible for furnishing
+           of return on quarterly basis from the first month of the succeeding
+            quarter.  He shall opt for furnishing of return on a monthly basis,
+             electronically, on the common portal, from the  first month of the
+            quarter, succeeding the quarter during which his aggregate turnover
+          exceeds ` 5 crore.
+         The facility for opting out of the scheme for a quarter will be available
+          from 1st day of 2nd month of preceding quarter to the last day of the 1st
+         month of the quarter.
+     (D)  Form and manner of filing return – GSTR-3B under QRMP scheme
+        Due date for filing return in case of a taxpayer opting for QRMP
+         scheme - Quarterly GSTR-3B on or before 22nd or 24th of the month
+          succeeding the quarter for which return is furnished (Refer the Table
+           given below for details**).
+         **Due dates for taxpayers opting for QRMP scheme
+
+            Class of registered persons              Due date
+            Registered persons whose principal place of  22nd day of the
+            business  is  in  the  States  of  Chhattisgarh,  month
+          Madhya   Pradesh,   Gujarat,   Maharashtra,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+RETURNS    1.31  13.31
+
+             Karnataka, Goa, Kerala, Tamil Nadu, Telangana,  succeeding  such
+           Andhra Pradesh, Union territories of Daman &  quarter.
+            Diu & Dadra & Nagar  Haveli, Puducherry,
+          Andaman   and    Nicobar    Islands    or
+           Lakshadweep.
+            Registered persons whose principal place of  24th day of the
+            business is in the States of Himachal Pradesh,  month
+            Punjab,  Uttarakhand,  Haryana,  Rajasthan,  succeeding  such
+             Uttar  Pradesh,   Bihar,   Sikkim,  Arunachal  quarter.
+            Pradesh,   Nagaland,   Manipur,   Mizoram,
+              Tripura,  Meghalaya,  Assam,  West  Bengal,
+            Jharkhand or Odisha, the Union territories of
+         Jammu and Kashmir, Ladakh, Chandigarh or
+              Delhi.
+(e)   Nil GSTR-3B
+      Filing of GSTR-3B is mandatory for all normal and casual taxpayers, even if
+      there  is no business activity in any particular tax period.  For such tax
+      period(s), a Nil GSTR-3B is required to be filed.
+    A Nil GSTR-3B does not have any entry in any of its tables. For example, a Nil
+     GSTR-3B for a tax period cannot be filed,  if the taxpayer has made any
+     outward supply (including nil-rated, exempt or non-GST supplies) or has
+     received any supplies which are taxable under reverse charge or it intends to
+     take ITC etc.
+    A Nil GSTR-3B can be filed through an SMS using the registered mobile
+    number of the taxpayer.  GSTR-3B submitted through SMS  is verified by
+      registered mobile number-based OTP facility.
+    A taxpayer may file Nil GSTR-3B, anytime on or after the 1st day of the
+     subsequent month/quarter for which the return is being filed for.
+(f)  Maximum time-limit for furnishing Form GSTR-3B [Section 39(11)]
+    Maximum time-limit upto which a registered person can furnish the
+     return in Form GSTR-3B for a tax period is 3 years from the due date of
+     furnishing such  return.   This time  limit can be extended by the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+1.32    13.32         GOODS AND SERVICES TAX
+
+    Government for a registered person or a class of registered persons
+     subject to such conditions and restrictions as may be specified therein.
+(f)   Broad contents of GSTR-3B
+     The broad contents of GSTR-3B are given below
+               CONTENTS OF GSTR- 3B
+
+           Basic Details            Other details relating to supplies
+        •  GSTIN                               •  Summarised   details   of  outward
+                                        supplies and inward supplies liable to        •  Legal  name  of  the                                        reverse charge         registered person
+                                                   •  Summarised  details  of  inter-State        •  Year and Month/                                        supplies  made   to   unregistered        Quarter                                       persons, composition taxable persons
+                                 and UIN holders
+                                                   •  Eligible and ineligible ITC
+                                                   •  Values of exempt, nil-rated and non-
+                               GST inward supplies
+                                                   •  Payment of tax
+                                               •  TDS/TCS credit
+
+
+(g)   Rectification of errors/omissions [Section 39(9)]
+
+                                                         If a return has been filed, how can
+                                                           it be revised if some changes are
+                                             required to be made?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+RETURNS    1.33  13.33
+
+       In GST  since  the  returns  are  built from  details  of  individual
+       transactions, there is no requirement for having a revised return. Any
+      need to revise a return may arise due to the need to change a set of
+       invoices or debit/ credit notes.
+      Instead of revising the return already submitted, the system allows
+      changing the details of those transactions (invoices or debit/credit
+      notes) that are required to be amended. They can be amended in any
+      of the future GSTR- 3B in the tables specifically provided therein for
+      the purposes of amending previously declared details.
+
+     Omission or incorrect particulars discovered in the returns  filed u/s 39
+      (including return filed by a composition supplier, return for TDS, ISD return
+     and return by NRTP) can be rectified in the return to be filed for the tax period
+     during which such omission or incorrect particulars are noticed.
+     Any tax payable as a result of such error or omission will be required to be
+     paid along with interest.
+     Exception
+        It is important to note that section 39(9) does not permit rectification of error
+     or  omission  discovered on  account  of  scrutiny,  audit,  inspection  or
+     enforcement activities by tax authorities.
+     Hence, taxpayer may not be able to pass on the ITC to the receiver in respect
+      of tax payments made by him in pursuance of any of the aforementioned
+      situations.
+    Time limit for making rectification
+     The maximum time limit within which the rectification of errors/omissions is
+      permissible is earlier of the following dates:
+     30th day of November following the end of the financial year to which
+          such details pertain or
+     Actual date of filing of the relevant annual return
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+1.34    13.34         GOODS AND SERVICES TAX
+
+     The last date of filing of annual return for a financial year is 31st December of
+     next financial year.
+     Hence, if annual return for a financial year is filed before 30th November (of
+     next financial year), then no  rectification of errors/omissions in returns
+      pertaining to the said financial year would be permitted thereafter.
+
+             A return furnished under section 39(1) on which  self-        ✪
+               assessed tax has been paid in full is considered as a valid
+                return.
+   ✪ Filing of returns for current month is possible only when returns for
+    any of the previous tax periods and GSTR-1 for the said tax period has
+     been furnished by him15.
+      A taxpayer needs  to  electronically  sign the submitted  returns   ✪
+     otherwise it will be considered not-filed.
+        Taxpayers  can  electronically  sign  their  returns  using a DSC   ✪
+     (mandatory for all types of companies and LLPs), E-sign (Aadhaar-based
+    OTP  verification), or EVC (Electronic Verification Code sent to the
+     registered mobile number of the authorized signatory).
+
+
+2.   GSTR-4 – Return for composition supplier [Section 39(2) and second
+     proviso to section 39(7) read with rule 62]
+      (a)  Person eligible to file return, periodicity and form of return
+        A registered person paying tax under composition levy (provisions of
+           section 10), shall, for each financial year or part thereof, furnish a return,
+             electronically, of turnover  in the State or Union  territory, inward
+
+
+15 The Government may, on the recommendations of the Council, by notification, subject to
+such conditions and restrictions as may be specified therein, allow a registered person or a
+class of registered persons to furnish the return, even if he has not furnished the returns for
+one or more previous tax periods or has not furnished the details of outward supplies under
+sub-section (1) of section 37 for the said tax period [Proviso to section 39(10)].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+RETURNS    1.35  13.35
+
+           supplies of goods and/or services, tax payable, tax paid and such other
+            particulars in such form and manner, and within such time, as may be
+           prescribed.
+        A composition supplier is required to
+               file a return on yearly basis in Form
+         GSTR-4.
+         GSTR-4 for a financial year or part of a
+            financial   year   should   be    filed
+            electronically  through  the common
+            portal  either  directly  or  through  a
+             Facilitation Centre notified by the Commissioner.
+          Quarterly statement for payment of self-assessed tax
+           Every composition supplier shall pay to
+
+                                                                                                      CMP-08-Statement for payment of self-assessed tax           the Government, the tax due taking into
+          account turnover in the State or Union
+             territory, inward supplies of goods or
+            services or both, tax payable, and such
+           other particulars during a quarter,  in
+          such form and manner, and within such
+            time, as may be prescribed.
+         The composition supplier are required to furnish a statement in the
+        Form GST CMP-08 containing details of payment of self-assessed tax,
+            for every quarter (or part of the quarter), by 18th day of the month
+          succeeding such quarter.
+
+
+                    While a composition supplier is required to file the
+                       return GSTR-4 yearly, he is required to pay the tax
+                        quarterly.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+1.36    13.36         GOODS AND SERVICES TAX
+
+      (b)  Due date for filing Form GSTR-4 and Form GST CMP-08
+         GSTR-4 for a financial year should be furnished by 30th April of the
+          succeeding financial year.
+
+        Due  date  of   filing         By  30th day  of  April
+         GSTR-4 for a financial           following  the end  of
+          year                           such financial year
+
+
+         GST CMP-08 (quarterly statement for payment of self-assessed tax)
+          should be furnished by 18th day of the month succeeding such quarter.
+
+           Due date of filing                                     By 18th day of the month           GST CMP-08 for a                                          succeeding such quarter                   quarter
+
+      (c)  What kind of details of outward supplies are required to be
+          furnished in GSTR-4?
+         GSTR-4 shall include the—
+              (a)   invoice-wise inter-State and intra-State inward supplies received
+              from registered and unregistered persons; and
+             (b)   consolidated details of outward supplies made.
+      (d)  Auto-population of inward supplies
+         The inward supplies of a composition supplier received from registered
+          persons filing GSTR-1 will be auto populated in Form GSTR-4A for
+           viewing.
+         The broad contents of GSTR-4 are given below.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+RETURNS    1.37  13.37
+                CONTENTS OF GSTR- 4
+
+                                             Details regarding Inward             Basic & Other Details                                    and Outward Supplies
+                 •  GSTIN                                  •  Invoice-wise details of all
+                                           inward supplies (i.e., intra                 •  Legal name and Trade                                        and  inter-State  supplies           name                                        and from registered and
+                 •  TDS/TCS credit received          unregistered     persons)
+               [Table 7]                         including  reverse charge
+                                                 supplies and  import  of                 •  Tax,  interest,  late fee
+                                                   services [Table 4]              payable and paid [Table
+               8]                                        • Summary of self-assessed
+                                                            liability as per GST CMP-                 •  Refund  claimed  from
+                                         08 (Net of advances, credit               Electronic cash  ledger
+                            &  debit  notes and any               [Table 9]
+                                              other adjustments due to
+                                      amendments  etc.) [Table
+                                                  5]
+                                                               •  Tax rate wise details of
+                                         outward  supplies/inward
+                                                 supplies attracting reverse
+                                            charge (Net of advances,
+                                                    credit & debit notes and
+                                          any other adjustments due
+                                               to  amendments  etc.)  -
+                                              Consolidated  details  of
+                                         outward supplies [Table 6]
+
+               Consolidated details of outward supplies   ◪
+               Composition taxpayers are neither entitled for any ITC nor entitled
+                 to pass on any ITC to  its customers.   Therefore, composition
+                 taxpayers are required to provide consolidated details of outward
+                 supplies in GSTR-4 (Table 6) and not invoice-wise details. However,
+                   details of inter-State and intra-State inward supplies received from
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+1.38    13.38         GOODS AND SERVICES TAX
+
+                  registered and un-registered persons are to be provided invoice-
+                wise (Table 4).
+
+               Discharge of Tax liability   ◪
+                Since composition suppliers are not eligible to take ITC, they
+                discharge their tax liability only by debiting electronic cash ledger.
+      (e)   Nil GST CMP-08 [Rule 67A]
+             Filing of GST CMP-08 is mandatory for all taxpayers who have opted to
+          pay tax under composition scheme, even if there is no business activity
+             in any particular tax period. For such tax period(s), a Nil GST CMP-08 is
+           required to be filed.
+        A Nil GST CMP-08 does not have any entry in any of its tables.  For
+          example, a Nil GST CMP-08 for a tax period cannot be filed,  if the
+           taxpayer has made any outward supplies or has received any supplies
+          which are taxable under reverse charge.
+        A Nil GST CMP-08 can be filed through an SMS using the registered
+          mobile number of the taxpayer. A Nil GST CMP-08 submitted through
+        SMS is verified by registered mobile number-based OTP facility.
+      (f)  Statements/  return  for  the  period  prior  to  opting  for
+         composition scheme
+                  If a registered person opts to pay tax under composition scheme from
+           the beginning of a financial year, he  will, where required, furnish
+           statements/return relating to the period prior to paying tax under
+          composition scheme till the
+      due date of furnishing the return for the month of September
+                 of the succeeding financial year, or
+       furnishing of annual return of the preceding financial year,
+          whichever is earlier.
+         The composition supplier will not be eligible to avail ITC on receipt of
+           invoices or debit notes from the supplier for the period prior to their
+          opting to pay tax under composition scheme.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+RETURNS    1.39  13.39
+
+      (g)  GSTR-4 for the period prior to exiting from composition scheme
+        A registered person opting to withdraw from the composition scheme
+            at his own motion or where option is withdrawn at the instance of the
+          proper officer will, where required, furnish-
+
+             (1) GST CMP-08                          (2) GSTR-4
+
+
+            relating to the period prior to his exiting from composition
+         scheme
+
+                                       TILL
+
+
+             18th of the month succeeding     30th April following the end
+           the quarter in which the date     of the financial year during
+           of withdrawal falls             which such withdrawal falls
+         The provisions explained in points (f) and (g) above have been explained
+          by way of a diagram given at next page:
+
+            As per section 29(2), a proper officer is empowered to cancel
+          the registration of a taxable person if, inter alia,:
+            (a)  a person paying tax under composition scheme has not
+               furnished his GSTR-4 for a financial year beyond 3 months
+              from the due date of furnishing the said return
+           (b)  any other taxable person has not furnished returns for such
+               continuous tax period as may be prescribed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+1.40    13.40         GOODS AND SERVICES TAX
+
+
+         Regular            Composition taxpayer              Regular
+         taxpayer                                             taxpayer
+
+
+       Opting for composition scheme      Exit from composition scheme
+
+
+        Statements/Return relating
+                               GST CMP-08 for        to period prior to opting for                    GSTR 4 for period
+                                      period  prior  to        composition scheme to be                           prior to exit from
+                                            exit       from          filed                                            composition
+                                    composition                                                  scheme   to  be
+                                 scheme   to  be                                                                      filed by
+                                             filed by             till
+     ♦due date of furnishing
+           the   return   for   the                            30th        April                                            18th day  of  the         month of September of                         following    the                                month           the         succeeding                      end    of    the                                      succeeding   the             financial year                                        financial    year                                       quarter in which               OR                                  during    which                                       the    date    of
+       ♦furnishing  of  annual    withdrawal falls      such withdrawal                                                                             falls           return of the preceding
+             financial year
+        WHICHEVER IS EARLIER
+
+3.   GSTR-5 - Return for Non-Resident Taxable Persons [Section 39(5)
+     read with rule 63]
+     Non-Resident Taxable Persons (NRTPs) are those suppliers who do not have
+     a business establishment in India and have come for a short period to make
+      supplies in India. They would normally import their products into India and
+    make local supplies. The concept of Non-Resident Taxable Person has been
+      discussed in detail in Chapter 8 – Registration in this Module of the Study
+      Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+RETURNS    1.41  13.41
+
+      (a)  Monthly return
+        A registered NRTP is not required to file
+           the Statement of Outward Supplies and
+           return which are otherwise applicable for
+          a normal taxpayer.
+            In place of the same, a simplified monthly
+            tax return has been prescribed in Form
+         GSTR-5 for a NRTP for every calendar
+         month or part thereof.  The details of outward supplies and inward
+           supplies of an NRTP are incorporated in GSTR-5.
+      (b)   Last date of filing return
+         GSTR-5 should be furnished within 13 days after the end of the
+           calendar month or within 7 days after the last day of validity period of
+           the registration, whichever is earlier16.
+      (c)  Payment of interest, penalty, fees or any other amount payable
+        An NRTP should pay the tax, interest, penalty, fees or any other amount
+          payable under the CGST Act or the provisions of the Returns Chapter
+          under CGST Rules till the last date of filing GSTR-5.
+
+                                  A NRTP is not
+                                              required to file
+                                        an annual return.
+
+
+4.   GSTR-6 – Return for Input Service Distributor [Section 39(4) read with
+     rule 65]
+    An ISD is required to distribute both eligible as well as ineligible credit as per
+      rule 39.
+
+
+16 As per rule 63, GSTR-5 needs to be furnished within 20 days after the end of the tax period or
+within 7 days after the last day of the validity period of registration, whichever is earlier.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+1.42    13.42         GOODS AND SERVICES TAX
+
+      (a)  Monthly Return
+          ISD is not required to file statement of
+          outward  supplies with  its  return.    It
+          needs to file only a monthly return in
+        Form GSTR-6  for  distribution of ITC
+         amongst its units.
+        Form GSTR-6 contains the details of ITC
+           received  for  distribution,  total  ITC/
+             eligible/ ineligible ITC to be distributed for the tax period, distribution
+           of ITC (ISD invoices & ISD credit notes), details of debit/ credit notes
+            received, etc.
+      (b)   Last date of filing return
+         The details in GSTR-6 should be furnished on/before 13th of the
+        month succeeding the calendar month.
+
+              Due date of filing                   By 13th day of the month
+                monthly GSTR-6                   suceeding the calender month
+
+      (c)  Auto-population of ITC received for distribution
+          The details of ITC received for distribution by
+          an ISD will be auto populated in Form GSTR-
+        6A when the registered suppliers file their
+          GSTR-1.
+         Form GSTR-6A is a system generated ‘draft’
+          statement of inward supplies for an ISD
+         and is a read only form. ISD can view the auto-populated details of ITC
+           received for distribution in GSTR-6A.
+      (d)   Nil Return
+        A  ‘Nil’ return  is to be filed in case of no ITC being available for
+            distribution or no ITC is being distributed during the month.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+RETURNS    1.43  13.43
+
+5.   GSTR-7 - Return for tax deducted at source [Section 39(3) and section 51
+     read with rule 66]
+     Normally, whenever taxable goods or services
+     or  both  are  supplied  to  a  Central/  State
+     Government’s Department/ establishment  or,
+      local  authority,  or  Governmental  agencies,
+      recipient  is required to deduct tax at source
+     under section 51 where the total value of such
+     supply exceeds ` 2,50,000.
+      (a)  Monthly return
+          Deductor shall furnish a monthly return in Form GSTR-7.
+      (b)   Last date of filing return
+         The details in GSTR-7 should be furnished on/before 10th day of the
+        month succeeding the calendar month  in which  tax has been
+          deducted at source.
+      (c)  TDS details available to deductee on common portal
+         The details of TDS furnished by the deductor in GSTR-7 shall be made
+            available electronically to each of the deductees on the common portal
+            after filing of Form GSTR-7. The supplier can take this amount as credit
+             in his electronic cash ledger after validation and use the same for
+         payment of tax or any other liability.
+      (d)  Tax Deduction at Source (TDS) Certificate
+        A TDS certificate is generated by the system in Form GSTR-7A for both
+          deductor (the person who is deducting tax) and deductee (the supplier
+          from whose payment, TDS is deducted).  The certificate is generated
+          once the deductor furnishes a return in Form GSTR-7 on the GST Portal
+         and the deductee accepts the details uploaded by the deductor and
+              files his return.  It contains the details pertaining to value on which tax
+          has been deducted, rate of deduction, amount of tax deducted at
+          source and amount paid to the Government.
+    Note - It is not mandatory to file a nil Form GSTR-7 if no TDS is deducted in
+     the tax period.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+1.44    13.44         GOODS AND SERVICES TAX
+
+    6. DUE DATE FOR PAYMENT OF TAX [SECTION
+       39(7)]
+
+Every registered person who is required to furnish a return under sub-section (1),
+other than the person referred to in the proviso thereto, or sub-section (3) or
+sub-section (5), shall pay to the Government the tax due as per such return not
+later than the last date on which he is required to furnish such return.
+However, every registered person furnishing return under QRMP scheme shall pay
+to the Government, in such form and manner, and within such time, as may be
+prescribed –
+(a)   an amount equal to the tax due taking into account inward and outward
+      supplies of goods or services or both, ITC availed, tax payable and such other
+      particulars during a month; or
+(b)   in lieu of the amount referred to in clause (a), an amount determined in such
+     manner and subject to such conditions and restrictions as may be prescribed.
+Due dates for payment of tax in respect of the persons required to file monthly
+GSTR-3B, GSTR-5 and GSTR-7 are linked with the due dates for filing of such
+returns, i.e. the last dates (due dates) of filing such returns are also the due dates
+for payment of tax in respect of persons required to file such returns.
+However, due dates for payment of tax in respect of the persons required to file
+quarterly GSTR-3B under QRMP Scheme for 1st two months of the quarter is
+delinked. Every registered person under QRMP scheme shall pay the tax due for
+each of the first 2 months of the quarter, by depositing the said amount in, by the
+25th day of the month succeeding such month.
+Similarly, in case of registered persons paying tax under composition scheme, the
+due date for payment of tax and filing of GSTR-4 is delinked. While GSTR-4
+for a financial year is required to be filed by 30th April of the following financial
+year, tax for a quarter is to be paid by 18th of the month succeeding such quarter.
+Further, NRTPs or casual taxable persons are required to make advance deposit
+of an amount equivalent to their estimated tax liability for the period for which
+registration is sought or extension of registration is sought in terms of section 27(2).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+RETURNS    1.45  13.45
+
+Every registered person required to furnish return17 shall, discharge their liability
+towards tax, interest, penalty, fees or any other amount payable under GST law by
+debiting the electronic cash ledger or electronic credit ledger and include the
+details in the return.
+Monthly payment of tax under QRMP Scheme [First proviso to section 39(7)
+read with sub-rules (3) and (4) of rule 61]
+The registered person under the QRMP Scheme would be required to pay the tax
+due in 1st month or 2nd month or both the
+months of the quarter by depositing the tax due
+in GST PMT-06. The payment is to be made by
+25th day of the month succeeding such month.
+However, the Commissioner may, on the recommendations of the Council, by
+notification, extend the due date for depositing the said amount  i, for specified
+class of taxable persons.  Further, any extension of time limit notified by the
+Commissioner of State tax/UT shall be deemed to be notified by the Commissioner:
+While making a deposit of tax, such a registered person may –
+(a)   for the 1st month of the quarter, take into account the balance in the
+      electronic cash ledger.
+(b)   for the 2nd month of the quarter, take into account the balance in the
+      electronic cash ledger excluding the tax due for the 1st month.
+At the time of filing the return for the said quarter in Form GSTR-3B, the amount
+deposited by the registered person in the first 2 months of the quarter shall be
+debited.
+This amount is debited solely for the purposes of offsetting the liability furnished
+in that quarter’s Form GSTR-3B.  However, any amount left after filing of that
+quarter’s Form GSTR-3B may either be claimed as refund or may be used for any
+other purpose in subsequent quarters.
+Options for making monthly payment of tax
+While generating the challan, taxpayers should select “Monthly payment for
+quarterly taxpayer” as reason for generating the challan. The said person can use
+
+17 subject to the provisions of section 49
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+1.46    13.46         GOODS AND SERVICES TAX
+
+any of the following two options provided below for monthly payment of tax during
+the first 2 months –
+
+                                             Fixed sum method
+   Options for making monthly
+        payment of tax
+                                           Self-assessment method
+
+(a)   Fixed sum method: If a taxpayer chooses this option, a facility is available
+    on the GST portal for generating an auto-generated/pre-filled challan in Form
+    GST PMT-06. The challan amount is calculated by the system which cannot
+     be edited. The amount is equal to:
+       (i)  35% of the tax paid in cash in the return for the preceding quarter
+         where the return was furnished quarterly; or
+        (ii)  tax liability paid in cash in the return for the last month of the
+          immediately preceding quarter where the return was furnished
+          monthly.
+     For easy understanding, the same is explained by way of examples given
+     below:
+       (i)   In case the last return filed was on quarterly basis for quarter
+         ending March:
+          Tax paid in cash in quarter    Tax required to be paid in
+           (January - March)             each of the months – April
+                                            and May
+          CGST              100      CGST             35
+          SGST              100      SGST             35
+            IGST              500       IGST             175
+            Cess               50        Cess               17.5
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+RETURNS    1.47  13.47
+
+        (ii)   In case the last return filed was monthly for tax period March:
+           Tax paid in cash   Tax required to be paid in each of the
+                  in March           months – April and May
+          CGST                 50     CGST             50
+
+          SGST                 50      SGST             50
+
+            IGST                 80      IGST              80
+
+            Cess                         -       Cess                    -
+
+          However, no such amount may be required to be deposited-
+            (a)   for the 1st month of the quarter, where the balance in the
+                  electronic cash ledger/electronic credit ledger is adequate for the
+                 tax liability for the said month or where there is nil tax liability;
+           (b)   for the 2nd month of the quarter, where the balance in the
+                  electronic cash ledger/electronic credit ledger is adequate for the
+                cumulative tax liability for the 1st and the 2nd month of the quarter
+                or where there is nil tax liability
+              Monthly tax payment through this method would not be available
+                 to those registered persons who have not furnished the return for
+               a complete tax period preceding such month.
+            A complete tax period means a tax period in which the person is
+                 registered from the first day of the tax period till the last day of
+                the tax period.
+      (b)  Self-Assessment Method: The said persons, in any case, can pay the
+            tax due by considering the tax liability on inward and outward supplies
+         and the ITC available, in Form GST PMT-06.   In order to facilitate
+           ascertainment of the ITC available for the month, an auto-drafted input
+            tax credit statement has been made available in Form GSTR-2B, for
+           every month.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+1.48    13.48         GOODS AND SERVICES TAX
+
+     The registered person under QRMP  is free to avail either of the two tax
+     payment methods above in any of the two months of the quarter.
+     As already discussed earlier, at the time of filing the return for a quarter in
+    Form GSTR-3B, the amount deposited by the registered person in the first 2
+     months of the quarter shall be debited. Further, any amount left after filing
+      of that quarter’s Form GSTR-3B may either be claimed as refund or may be
+     used for any other purpose in subsequent quarters.
+     However, such refund claim18 shall be permitted only after the return in Form
+     GSTR-3B for the said quarter has been furnished. Further, this deposit cannot
+     be used by the taxpayer for any other purpose till the filing of return for the
+      quarter.
+      Applicability of interest
+     A.   For registered person making payment of tax by opting Fixed Sum
+        Method
+        No interest would be payable in case the tax due is paid in the first 2
+         months of the quarter by way of depositing auto-calculated fixed sum
+         amount (as discussed above) by the due date.
+            In other words, if while furnishing return in Form GSTR-3B, it is found
+            that in any or both of the first 2 months of the quarter, the tax liability
+           net of available credit on the supplies made /received was higher than
+           the amount paid  in  challan, then, no  interest would be charged
+          provided they deposit system calculated amount for each of the first 2
+         months and discharge their entire liability for the quarter in Form GSTR-
+         3B of the quarter by the due date.
+            In case such payment of tax by depositing the system calculated amount
+             in Form GST PMT-06 is not done by due date, interest would be payable
+            at the applicable rate, from the due date of furnishing Form GST PMT-
+          06 till the date of making such payment.
+            Further, in case Form GSTR-3B for the quarter is furnished beyond the
+         due date, interest would be payable as per the provisions of section 50
+            for the tax liability net of ITC.
+
+
+18 Provisions relating to refund are discussed in Chapter 15 – Refunds in Module 3 of this Study
+Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+RETURNS    1.49  13.49
+
+                    (11) A registered person, who has opted for the QRMP
+                  Scheme, had paid a total amount of ` 100/- in cash as tax
+                           liability in the previous quarter of October to December.
+        He opts to pay tax under fixed sum method. He therefore pays ` 35/-
+          each on 25th February and 25th March for discharging tax liability for the
+               first 2 months of quarter viz. January and February.
+            In his return for the quarter,  it is found that liability, based on the
+          outward and inward supplies, for January was ` 40/- and for February it
+         was ` 42/-.  However, no interest would be payable for the lesser
+         amount of tax  (i.e. ` 5 and ` 7 respectively) discharged in these 2
+         months provided that he discharges his entire liability for the quarter in
+           the Form GSTR-3B of the quarter by the due date.
+
+                   (12) A registered person, who has opted  for the QRMP
+                  Scheme, had paid a total amount of ` 100/- in cash as tax
+                          liability in the previous quarter of October to December. He
+          opts to pay tax under fixed sum method. He therefore pays ` 35/- each
+         on 25th February and 25th March for discharging tax liability for the first
+          2 months of quarter viz. January and February.
+            In his return for the quarter, it is found that total liability for the quarter
+           net of available credit was ` 125, but he files the return on 30th April.
+            Interest would be payable at applicable rate on ` 55 [` 125 – ` 70
+           (deposit made in cash ledger in first and second month)] for the period
+         between due date of quarterly GSTR 3B and 30th April.
+      B.   For registered person making payment of tax by opting self-
+          assessment method
+            Interest amount would be payable as per the provision of section 50 for
+            tax or any part thereof (net of ITC) which remains unpaid / paid beyond
+           the due date for the first 2 months of the quarter.
+            Interest payable, if any, shall be paid through Form GSTR-3B.
+          Note: It is clarified that no late fee is applicable for delay in payment of
+            tax in first 2 months of the quarter.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+1.50    13.50         GOODS AND SERVICES TAX
+
+    7. OTHER RETURNS/ STATEMENTS
+
+(i)    First return [Section 40]
+    When a person becomes liable to registration
+      after his turnover crosses the threshold limit, he
+    may apply for registration within 30 days of so
+     becoming liable. Thus, there might be a time lag
+     between a person becoming liable to registration
+     and grant of registration certificate. During the
+      intervening  period, such person might have
+    made the outward supplies,  i.e. after becoming liable to registration but
+     before grant of the certificate of registration.
+    Now, in order to enable such registered person to declare the taxable supplies
+    made by him for the period between the date on which he became liable to
+      registration till the date on which registration has been granted so that ITC
+     can be availed by the recipient on such supplies, firstly, the registered person
+    may issue revised tax invoices against the invoices already issued during said
+     period within 1 month from the date of issuance of certificate of registration
+      [Section 31(3)(a) read with rule 53– Discussed in detail in Chapter-9: Tax
+      Invoice, Credit and Debit Notes in this Module of the Study Material].
+      Further, section 40 provides that registered person shall declare his outward
+      supplies made during said period in the first return furnished by him after
+     grant of registration. The format for this return is the same as that for regular
+      return.
+(ii)  GSTR – 8 - Statement for tax collection at source [The provisions relating
+      to GSTR-8 have already been discussed in detail in Chapter 12 – Electronic
+    Commerce Transactions in this Module of the Study Material.]
+(iii) GSTR – 9/9A and GSTR-9B - Annual Return & Annual Statement [Sections
+     44, 52(5) read with rule 80]
+      (a)  Who is required to furnish the annual return and what is the due
+          date for the same?
+           All registered persons are required to  file an annual  return.
+         However, following persons are not required to file annual return:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+RETURNS    1.51  13.51
+
+              (i)   Casual taxable persons
+               (ii)  Non-resident taxable person
+               (iii)  Input service distributors
+             (iv)  Persons authorized to deduct/collect tax at source under
+                section 51/52, and
+         The  Commissioner  may,  on   the
+         recommendations  of  the  Council, by
+           notification,  exempt  any   class  of                                  GSTR-9           registered persons from filing annual
+          return under this section.
+         The annual return for a financial year
+          needs to be filed by 31st December of the next financial year.
+      (b)  What is the prescribed form for annual return/statement?
+         The annual return  is to be filed electronically in Form GSTR-9
+          through the common portal.
+          Person registered under composition levy: A person paying tax
+         under composition scheme is required to file the annual return in
+         Form GSTR-9A.
+
+                    It may be noted that an ECO19 required to collect tax at source
+         has to file an annual statement referred to in section 52(5) in Form
+         GSTR-9B (yet to be notified). The statement for a financial year
+          needs to be filed by 31st December of the next financial year.
+      (c)  Who is required to furnish a self-certified reconciliation statement?
+              (i)   All registered persons are required to  file furnish a self-
+                  certified reconciliation statement alongwith annual return if
+                 their aggregate turnover during a financial year exceeds
+
+
+19 The provisions relating to ECOs have been discussed in detail in Chapter 12 – Electronic
+Commerce Transactions in this Module of the Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+1.52    13.52         GOODS AND SERVICES TAX
+
+         `5 crores. However, following persons are not required to file
+                  self-certified reconciliation statement:
+                 (a)  Casual taxable persons
+                 (b)  Non-resident taxable person
+                   (c)   Input service distributors
+                 (d)  Persons authorized to deduct/collect tax at source under
+                     section 51/52, and
+               (ii)  Such registered person should furnish,  electronically, the
+              annual  return  along  with  a  copy   of   self-certified
+                reconciliation statement, duly certified, in Form GSTR-9C.
+
+            Self-certified reconciliation statement will reconcile the value of
+           supplies declared in the return furnished for the financial year with
+          the audited annual financial statement.
+
+
+                                          Value of supplies declared in          Value of supplies declared
+                                        audited Annual Financial Statement                 in Annual return
+
+      (d)  Exemption from the requirement  of furnishing annual return
+          including self-certified reconciliation statement
+         The department  of  the  Central/State Government  or a  local
+           authority, whose books of account are subject to audit by the
+          Comptroller and Auditor-General of India or an auditor appointed
+           for auditing the accounts of local authorities under any law for the
+          time being in force, are exempt from the requirement of furnishing
+         an annual return including self-certified reconciliation statement.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+RETURNS    1.53  13.53
+
+      (e)  Maximum time-limit for furnishing annual return
+        Maximum time-limit upto which a registered person can furnish an
+         annual return for a financial year is 3 years from the due date of
+          furnishing said annual return. This time limit can be extended by
+          the Government for a registered person or a class of registered
+          persons subject to such conditions and restrictions as may be
+           specified therein.
+(iv)  GSTR - 10 - Final Return [Section 45 read with rule 81]
+      (a)  Who is required to furnish final return?
+           Every registered person who is required to
+            furnish  return  u/s  39(1)  and  whose
+            registration has been cancelled is required
+           to file a final return electronically in Form
+         GSTR-10 through the common portal.
+      (b)  What is the time-limit for furnishing final return?
+         The final return has to be filed within 3 months of the:
+                  (i)   date of cancellation
+                      or
+                  (ii)   date of order of cancellation
+          whichever is later.
+(v)  GSTR – 11 - Details of inward supplies of persons having UIN [Rule 82]
+     Every person who has been issued a Unique Identity Number (UIN) is required
+      to furnish the details of inward supplies in Form GSTR-11.
+      (a)  When UIN is issued for claiming refund of taxes paid on inward
+           supplies
+          Such person  shall furnish the  details of
+          those inward supplies of taxable goods
+          and/or services on which refund of taxes
+          has been claimed in Form GSTR-11, along
+          with application for such refund claim.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 54 ======================
+
+
+1.54    13.54         GOODS AND SERVICES TAX
+
+      (b)  When UIN is issued for purposes other than refund of taxes paid
+          Such person shall furnish the details of inward supplies of taxable goods
+          and/or services as may be required by the proper officer in Form
+         GSTR-11.
+(vi)  GSTR-5A – Return for persons providing OIDAR services [Rule 64]
+     Every registered person providing OIDAR services
+      (see definition from Relevant Definitions) from a
+     place outside India to a person in India other than
+     a registered person  shall  file return  in Form
+    GSTR-5A by 20th day of the month succeeding
+     the calendar month/part thereof.
+    Form GSTR-5A needs to be filed even if there is
+    no business activity (i.e. it is a Nil Return) for a tax period.
+
+    8. DEFAULT/DELAY IN FURNISHING RETURN
+      [SECTIONS 46 & 47]
+(i)   Notice to return defaulters [Section 46 read with rule 68]
+    A notice in prescribed form is issued, electronically,
+      to a registered person who fails to furnish return
+     under section 39 [Normal Return] or section 44
+     [Annual Return] or section 45  [Final Return] or
+      section 52 [TCS Statement].
+     The notice requires the registered person to furnish the return within 15 days,
+       failing which the tax liability will be assessed under section 62, based on the
+      relevant material available with the proper officer.  In addition to tax so
+      assessed, applicable interest and penalty will also be payable.
+(ii)  Late fees for delay in filing return [Section 47]
+      Late fee is applicable for delay in furnishing of return / details of outward
+     supply as per the provision of section 47.
+     Delay in filing any of the following by their respective due dates, attracts late
+      fee as given hereunder:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 55 ======================
+
+
+RETURNS    1.55  13.55
+
+     (A)  Statement of Outward Supplies [Section 37]
+      (B)  Returns (including returns under QRMP Scheme) [Section 39]
+      (C)   Final Return [Section 45]
+     (D)  TCS Statement [Section 52]
+                         `200 [`100 under CGST & `100
+                        under SGST/UTGST] for every day
+                              during which such failure    Quantum                                       continues.     of late fee
+                          ` 10,000 [`5,000 under CGST &
+                             `5,000 under SGST/UTGST]
+
+
+                      It may be noted that the late fee payable by a registered person
+                 for delayed filing of a return and/or annual return under section
+             47 is with reference to only the CGST Act.
+    An equal amount of late fee is payable by such person under the respective
+    SGST/UTGST Act as well.  Hence, the late fee amount mentioned herein
+     pertains to both CGST as well as SGST/UTGST.
+
+     Rationalisation of late fees for delayed filing of Forms GSTR-1, GSTR-3B,
+     GSTR-4, GSTR-7 and GSTR-9
+     The late fee can be waived off partially or fully by the Central Government
+      [Section 128].  In view of this, late fees for delayed filing of Forms GSTR-1,
+     GSTR-3B, GSTR-4, GSTR-7 and GSTR-9 have been rationalized20 as follows:
+       (i)   For delayed filing of GSTR-1 and/or GSTR-3B:-
+         Amount of late fee payable under section 47 by the registered person
+        who fail to furnish Form GSTR-1 and/or Form GSTR-3B by the due date,
+             shall be as follows:
+
+
+20 vide Notification No. 4/2018 CT dated 23.01.2018, Notification No. 73/2017 CT dated
+29.12.2017, Notification No. 76/2018 CT dated 31.12.2018, Notification Nos 19-22/2021 CT all
+dated 01.06.2021 and Notification No. 07/2023 CT dated 31.03.2023
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 56 ======================
+
+
+1.56    13.56         GOODS AND SERVICES TAX
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 57 ======================
+
+
+RETURNS    1.57  13.57
+
+        (ii)  For delayed filing of GSTR-4:-
+         Amount of late fee payable under section 47 by a composition supplier
+        who fails to furnish Form GSTR-4 by the due date, shall be as follows:
+
+
+          fee
+             late
+       of
+                       Quantum
+
+                                   persons
+                                                  registered
+          of
+                         Class
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 58 ======================
+
+
+1.58    13.58         GOODS AND SERVICES TAX
+
+        (iii)  For delayed filing of Annual Return (GSTR-9):-
+
+
+      fee
+       late
+    of
+             Quantum
+
+             persons
+                  registered
+    of
+         Class
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 59 ======================
+
+
+RETURNS    1.59  13.59
+
+      (iv)  For delayed filing of GSTR-7:-
+           Total amount of late fee payable under section 47 by any registered
+           person, required to deduct tax at source under the provisions of section
+          51 for delayed filing of GSTR-7, shall be as follows:
+
+                                     ` 50 (`25 each under
+                               CGST       &
+                                  SGST/UTGST)     for
+                                       every  day  during
+          Quantum of         which  such  failure                                         continues.                 late fee
+                                     `  2,000  (`  1,000
+                                   each under CGST &
+                                  SGST/UTGST)
+
+
+    9. GOODS AND SERVICES TAX PRACTITIONERS
+      [SECTION 48]
+Section 48 provides for the authorisation of an eligible person to act as approved
+Goods and Services Tax Practitioner (GSTP). A registered person may authorise an
+approved GSTP to furnish information, on his behalf, to the Government.  The
+manner of approval of GSTPs, their eligibility conditions, duties and obligations,
+manner of removal and other conditions relevant for their functioning have been
+prescribed in the rules 83, 83A and 84.
+GSTN provides separate user ID and Password to GSTP to enable him to work on
+behalf of his clients without asking for their user ID and passwords. They can do all
+the work on behalf of taxpayers as allowed under GST Law. A taxpayer may choose
+a different GSTP by simply unselecting the previous one and then choosing a new
+GSTP on the GST portal.
+Standardized formats have been prescribed for making application for enrolment
+as GSTP, certificate of enrolment, show cause notice for disqualification, order of
+rejection of application of enrolment, list of approved GSTPs, authorisation letter
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 60 ======================
+
+
+1.60    13.60         GOODS AND SERVICES TAX
+
+and withdrawal of authorisation. A GSTP enrolled in any State or Union Territory
+shall be treated as enrolled in the other States/Union territories.
+(i)  What is the eligibility criteria for GSTP?
+     The eligibility criteria for GSTP has been explained by way of diagrams given
+      at next page.
+
+                                                    Indian citizen
+
+                                                      Person of sound
+                                                mind                A
+                  person
+               who is               Notinsolventadjudicated as
+
+                                         Not been convicted
+                                           by a competent
+                                                  court
+
+
+                   Retired officer of Commercial Tax Department of any
+                   State Govt./CBIC who, during service under Government
+                had worked in a post not lower than the rank of a Group-
+               B gazetted officer for a period ≥2 years                              conditions
+         the   Enrolled  as a  Sales  Tax  Practitioner  or  Tax  Return
+      of   Preparer under the earlier indirect tax laws for a period
+                    of not less than 5 years
+         any
+
+                    Has acquired any of the prescribed qualifications                           satisfies                                  (mentioned below)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 61 ======================
+
+
+RETURNS    1.61  13.61
+
+                   (i) Graduate or postgraduate degree or  its equivalent examination having a
+          degree in Commerce, Law, Banking including Higher Auditing, or Business
+            Administration or Business Management from any Indian University established
+          by any law for the time being in force
+                    (ii) Degree examination of any Foreign University recognised by any Indian
+            University as equivalent to the degree examination mentioned in sub-clause (i)      Qualifications                     (iii)  Any  other  examination   notified  by  the  Government,  on  the
+          recommendation of the Council, for this purpose
+                (iv) Any degree examination of an Indian University or of any Foreign University
+           recognized by any Indian University as equivalent of the degree examination    Prescribed
+               (v) Has passed final examination of ICAI/ ICSI/ Institute of Cost Accountants of
+             India.
+
+(ii)  What are the activities which can be undertaken by a GSTP?
+    A GSTP can undertake any/all of the following activities on behalf of a
+      registered person, if so authorised by him:
+
+                     Furnish         Make  deposit    Furnish            Furnish  details  Furnish  details                    monthly,            for  credit  into    information for    of  challan   in  of    outward                   annual or final     electronic cash    generation   of    the  prescribed  supplies                     return             ledger           e-way bill         form
+
+   File         an         File an  intimation
+   application   for       to pay  tax under                                           File an application
+  amendment  or       the   composition          File a claim for         for  amendment/
+   cancellation   of      scheme         or        refund                    cancellation     of
+  enrolment            withdraw from the                                      registration
+  under rule 58           said scheme
+
+    Also  allowed  to  appear  as  authorised
+    representative   before   any    officer   of
+    Department, Appellate Authority or Appellate     Confirmation from the registered
+    Tribunal, on behalf of such a registered person          person shall be sought
+    provided he is enrolled as GSTP under rule 83.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 62 ======================
+
+
+1.62    13.62         GOODS AND SERVICES TAX
+
+     Furnishing returns through GSTP: When a registered person opts to furnish
+      his return through GSTP, such registered person:
+
+                                                Before confirming submission
+              Gives    his   consent    in       of any statement prepared by
+               prescribed form to any GSTP      GSTP, ensures that the facts
+               to prepare and furnish his      mentioned in the return are
+               return                              true and correct.
+      Thus, the responsibility for correctness of any particulars furnished in the
+      return or other details filed by the GSTP continues to rest with the registered
+     person on whose behalf such return and details are furnished. The registered
+     person before confirming, should ensure that the facts mentioned in the
+      return are true and correct before signature. However, failure to respond to
+     request for confirmation is treated as deemed confirmation.
+(iii)  Other points
+      A registered person gives his consent and authorises a GSTP in the
+           prescribed form by listing the authorised activities in which he intends
+           to authorise the GSTP. The GSTP accepts the authorisation in Part B of
+           the same form.
+      The GSTP can undertake only such tasks as indicated in the prescribed
+           form.  The  registered  person  may,  at  any  time,  withdraw  such
+            authorization.
+      Any statement furnished by the GSTP is made available to the registered
+          person on the common portal.  For every statement furnished by the
+          GSTP, a confirmation is sought from the registered person over email
+           or SMS.
+      The GSTP should prepare all statements with due diligence and affix his
+             digital signature on the statements prepared by him or electronically
+             verify using his credentials.
+         If the GSTP is found guilty of misconduct, his enrolment will be liable to
+         be cancelled and a show cause notice would be issued to him.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 63 ======================
+
+
+RETURNS    1.63  13.63
+
+(iv)  What is the procedure for enrolment as GSTP?
+     The procedure for enrolment of GSTP has been depicted by way of a diagram
+        is given below:
+                   ENROLMENT OF GSTP
+
+                                   The application shall         In   case,   the        An    application    in                                  be  scrutinised  and        application    is          prescribed  form may                                GST      practitioner         rejected,         be made electronically                                                certificate  shall  be       proper reasons          through  the common                                      granted    in    the         shall  have  to           portal for enrolment as                                        prescribed form.          be given.          GSTP.
+  Any person who has been enrolled
+   as GSTP by  virtue of him being     No person enrolled
+   enrolled as a Sales Tax Practitioner       as a GSTP is eligible     The enrolment
+   or Tax Return Preparer under the       to remain enrolled     once    done
+   earlier Indirect Tax law shall remain       unless  he  passes      remains   valid
+   enrolled only for a period of 30      such   examination          till        it       is
+  months from the appointed date      conducted at such      cancelled.
+   unless   he   passes   the   said       periods by NACIN
+   examination within the said period
+   of 30 months.
+
+
+    10. INFORMATION RETURN [SECTIONS 150 & 123]
+(i)  Who shall furnish the information return? [Section 150(1)]
+     Information return is based on the idea of verifying the compliance levels of
+      registered persons through information procured from independent third
+      party sources.
+      Authorities who are responsible for maintaining record of registration or
+     statement of accounts or any periodic return or document containing details
+      of payment of tax and other details of transaction of goods or services or
+     both or transactions related to a bank account or consumption of electricity
+     or transaction of purchase, sale or exchange of goods or property or right or
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 64 ======================
+
+
+1.64    13.64         GOODS AND SERVICES TAX
+
+      interest in a property under any law for the time being in force, shall furnish
+     an Information Return of the same in respect of such periods, within such
+      time, in such form and manner and to such authority/agency as may be
+      prescribed. The authorities required to furnish Information Return are given
+     subsequently by way of a diagram.
+(ii)  Defective Information Return [Section 150(2)]
+    Where the Commissioner, or an officer authorised by him in this behalf,
+     considers  that  the  information  furnished  in  the  information  return  is
+      defective, he may intimate the defect to the person who has furnished such
+     information return.
+    He shall give such person an opportunity of rectifying the defect within a
+     period of 30 days from the date of such intimation or within such further
+     period which, on an application made in this behalf, the said authority may
+      allow.
+     However, if the defect is not rectified within the said period of 30 days or, the
+      further period so allowed], then, notwithstanding anything contained in any
+     other provisions of this Act, such information return shall be treated as not
+      furnished and the provisions of this Act shall apply.
+(iii)  Issuance of notice for failure to furnish the information return within
+     stipulated time [Section 150(3)]
+    Where a person who  is required to furnish information return has not
+      furnished the same within the specified time*, the said authority may serve
+    upon him a notice requiring furnishing of such information return within a
+     period not exceeding 90 days from the date of service of the notice and such
+     person shall furnish the information return.
+     *time specified in sub-section (1) or sub-section (2) of section 150
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 65 ======================
+
+
+RETURNS    1.65  13.65
+
+      Taxable personp
+       State Government's authority responsible for the collectiof VAT/sales tax/ State
+       excise duty or Central Government's authority responsible for the collection of
+       excise duty or customs duty
+      Income tax authority
+
+      Banking company within the meaning of section 45A(a) of the RBI Act, 1934
+       State Electricity Board or an electricity distribution or transmission licensee under
+       the Electricity Act, 2003 or any other entity entrusted with such functions by the
+       Central Government or the State Government
+
+       Registrar/Sub-Registrar appointed under section 6 of the Registration Act, 1908
+
+       Local authority /other public body/association
+
+       Registrar within the meaning of the Companies Act, 2013
+
+       Registering Authority empowered to register motor vehicles under the Motor
+       Vehicles Act, 1988
+
+       Collector referred to in clause (c) of section 3 of the Right to Fair Compensation
+      and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013
+
+      Recognised stock exchange
+
+      Depository
+
+       Officer of the RBI
+
+     GSTN
+
+     UIN holder
+     Any other specified person
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 66 ======================
+
+
+1.66    13.66         GOODS AND SERVICES TAX
+
+(iv)  Penalty for failure to furnish information return [Section 123]
+         If the person to whom the notice has been issued under section 150(3) fails
+      to furnish the information return within the period specified in said notice,
+     the proper officer may direct that such person shall be liable to pay a penalty.
+
+                            `100 (`50 each under CGST &&
+                             SGST/UTGST) for every day
+       Quantum of            during which such failure
+           penalty                      continues
+                             ` 5,000  (` 2,500 each under
+                        CGST & SGST/UTGST)
+
+
+       LET US RECAPITULATE
+1.  Meaning of Returns
+                      A  statement  of  information  furnished  by  the
+                                 taxpayer, to tax administrators, at regular intervals.
+   Return                              Filingcomplianceof returnsprocedureconstituteswhichthe mostenablesimportantthe
+                           Government/ tax administrator to estimate the tax
+                                  collection for a particular period and determine the
+                                correctness  and   completeness   of   the   tax
+                             compliance of the taxpayers.
+2.  Modes of filing returns
+                       All the returns are to be filed online.
+                    return                    GSTN portal (www.gst.gov.in)
+                    filing        Offline utilities provided by GSTN
+       of
+                     GST Suvidha Providers (GSPs)
+                Modes
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 67 ======================
+
+
+RETURNS    1.67  13.67
+3.  Furnishing details of outward supplies [Section 37 read
+    with rule 59]
+      Who is required to furnish the details of outward supplies?
+
+ Goods                                     All registered persons including Casual          To be Filed byof                                           registered person
+                                       Input Service Distributor (ISD) supply       Services                                       Non-resident taxable person
+  and Outward                                        Composition taxpayer
+of
+              Exclusions                                    Person deducting tax at source Return
+                                     Person collecting tax at source
+                                  Supplier of OIDAR services located in non-
+                                  taxable territory providing services to non-
+                                           taxable online recipient
+
+     What is the form for submission of details of outward supplies?
+       FORM for filing Return of Outward Supply
+
+               GSTR-1
+
+    Can be furnished                  or through a
+   electronically on portal                Facilitation centre
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 68 ======================
+
+
+1.68    13.68         GOODS AND SERVICES TAX
+
+             Due Dates for Submission of Form GSTR-1
+
+       Class of registered person     Time limit for furnishing the details
+                                     of outward supplies in Form GSTR-1
+                                       for each quarter/month
+
+       Registered persons opting for  13th day of the month succeeding
+     QRMP scheme                 such quarter
+
+       Others                           11th day of the month succeeding said
+                               month
+
+   Invoice Furnishing Facility [IFF] for taxpayers opting for QRMP Scheme
+
+
+                               an optional facility
+
+                    provided to quarterly taxpayers who are in QRMP
+                                     scheme,
+                      to file their details of outward supplies in first 2
+                            months of the quarter,
+       IFF
+                 between the 1st day of the succeeding month till the
+                               13th day of the succeeding month
+                   upto a cumulative value of ` 50 lakh in each of the
+                                         first 2 months of the quarter
+
+                          to pass on the credit to their recipients
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 69 ======================
+
+
+RETURNS    1.69  13.69
+
+ What are the cases where a registered person is debarred from furnishing
+                     details of outward supplies in GSTR-1/IFF?
+
+
+                                     return not furnished in Form GSTR-3B for the  not         GSTR-1
+        furnish                                       preceding month   person  to                               person, opting for QRMP scheme, has not
+                                       furnished GSTR-3B for preceding tax period
+        allowed              GSTR-1/IFF     Registered                           person to whom intimation has been issued under
+                                           rule 88C unless he deposits the amount in
+                                     intimation or furnishes a reply explaining reasons
+                                                        for unpaid amount
+
+
+  What kind of details of outward supplies are required to be furnished in
+                         GSTR-1 and IFF?
+
+                      Details to be furnished through IFF
+                    Outward Taxable Supplies
+
+                          B2B suppliessup
+
+
+                  Inter-statee suppliessup             Intra-statestat  supplies
+
+
+         •  Invoice-wise detailsil off allll supplies to be uploaded
+         •  Debit/credit notes issued during the month for such invoices
+            issued previously to be uploaded
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 70 ======================
+
+
+1.70    13.70         GOODS AND SERVICES TAX
+
+                       Details to be furnished in GSTR-1
+
+                      Outward Taxable Supplies
+
+
+         B2B supplies                       B2C supplies
+
+
+                                                                         Intra-state   Inter-state      Intra-state               Inter-state                                                                     supplies    supplies        supplies                 supplies
+
+                                                            Rate-wise
+                             Invoices >          Invoices ≤     consolidated
+                                                                      details   of   all    Invoice-wise            ` 2,50,000         ` 2,50,000                                                                 invoices  to be     details of  all
+                                                       uploaded     supplies to be
+    uploaded        Invoice-wise details    State-wise rate-wise consolidated
+                     to be uploaded                                                  details to be uploaded
+          Rectification of errors in GSTR-1 filed for previous periods
+                                               by way of Amendment           Particulars furnished in                                                    Tables given in GSTR-1 of       GSTR-1 of prior periods can
+                                                subsequent periods             be amended
+    MaximumMa im m timetime limitlimit withinithin whichhich such amendments are permissible is earlier
+      of the following dates:
+     30th day of November following the end of the financial year to which
+          such details pertain or
+     Date of filing of the relevant annual return
+                               Filing of Nil GSTR-1
+
+                                  •Filing of GSTR-1 is mandatory for all normal and
+                               casual taxpayers, even if there is no business       Nil GSTR-1
+                                    activity in any particular tax period.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 71 ======================
+
+
+RETURNS    1.71  13.71
+4.  Furnishing details of inward supplies [Section 38 read
+    with rule 60]
+                                         who is a new registrant.
+                                                         (Specified period from taking
+                                Details of inward        registration will be prescribed
+                            supplies in respect of             for this purpose.)
+                          which ITC may be
+                              available to the
+                                    recipient        who has defaulted in payment
+                                                       of tax for a prescribed period.
+
+                                            whose output tax payable as
+                                                    per GSTR-1/IFF exceeds the
+                                                 output tax paid in GSTR-3B for
+                                                  a particular tax period by
+                                                           prescribed limit.
+                                         who has availed ITC of an
+                                             amount that exceeds the                    statement                                                            credit that can be availed by                     Auto-generated                                      him as per GSTR-2B during
+                                                       prescribed period and by
+                             Details of supplies                                                           prescribed limit.
+                              in respect of which
+                       such ITC cannot be
+                            availed, whether          who has defaulted in
+                         wholly or partly, by         discharging his tax liability in
+                          the recipient, on             accordance with the
+                          account of the            provisions of section 49(12)
+                              details of the said          read with rule 86B, i.e. who
+                             supplies being            has discharged more tax
+                            furnished by a              liability from electronic credit
+                           registered supplier         ledger than prescribed under
+                                                                     rule 86B.
+                                                      other specified classes of
+                                                           persons
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 72 ======================
+
+
+1.72    13.72         GOODS AND SERVICES TAX
+
+ Form and manner of ascertaining details of inward supplies – GSTR-2A and
+                            GSTR-2B
+
+                    GSTR- 2A and its features
+
+  System generated read only statement of                                              Updated on Real Time basis             inward supplies
+
+
+   Reflects details of invoices furnished by a                                                    Reflects details of invoices furnished by  non-resident taxable person in Form GSTR-                                                Input Service Distributor in Form GSTR-6                  5
+
+
+      Reflects details of TDS by deductor          Reflects details of TCS by an e-commerce
+          furnished in Form GSTR-7                operator furnished in Form GSTR-8
+
+
+                   GSTR- 2B and its features
+
+  Auto-generated statement containing                                                          Available once a month        the details of eligible ITC
+
+                                                     Reflects details of outward supplies
+              Static statement                 furnished by the suppliers in Form GSTR-1, 5
+                                 & 6, between the cut-off dates
+
+   Details of outward supplies furnished by                                                 Reflects details of IGST paid on the import
+    the supplier who has opted for QRMP                                               of goods, goods brought in the DTA from
+  scheme, in Form GSTR-1 or using the IFF                                                   SEZ unit/developer
+        between the cut off dates
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 73 ======================
+
+
+RETURNS    1.73  13.73
+
+
+        System generated statement          System generated statement
+         of inward supplies for an ISD             of   inward   supplies   for
+                                             composition taxpayer  GSTR-6A                                           GSTR-4A
+
+5.  Furnishing of returns under section 39
+                              Return forms under section 39
+
+
+        GSTR-3B           GSTR-4           GSTR-5           GSTR-7
+      (For all registered      (For Composition     (For Non-Resident   (For Tax Deducted at
+          persons)             Taxpayers)         Taxable Persons          Source)
+
+
+    excluding
+
+
+                                 ISD
+
+                           NRTP
+
+                            Composition taxpayer
+
+                        Person deducting tax at source
+
+                        Person collecting tax at source
+
+             Supplier of OIDAR services located in non-taxable territory
+                 providing services to non-taxable online recipient
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 74 ======================
+
+
+1.74    13.74         GOODS AND SERVICES TAX
+
+Due dates for furnishing Form GSTR-3B
+GSTR-3B can be filed monthly or quarterly and due date for filing are as follows:
+   Monthly GSTR-3B on or before 20th of the month succeeding the month for
+     which return is furnished.
+   Quarterly GSTR-3B on or before 22nd and 24th of the month (Depending
+    upon State) succeeding the quarter for which return is furnished in case of a
+     taxpayer opting for QRMP scheme.
+QRMP scheme
+  Optional return filing scheme
+  Quarterly Return
+  Monthly payment
+
+
+                                      •Taxpayers having aggregate turnover of up to ` 5                   Eligibility                                           crore in the preceding financial year
+
+       Condition to be fulfilled for         •Taxpayer must have furnished the last return, as due
+          becoming eligible            on the date of exercising such option
+
+                                      •Taxpayers can opt in for any quarter from 1st day of
+                                  2nd month of preceding quarter to the last day of    Manner of Exercising option                                        the first month of the quarter for which the option is
+                                      being exercised
+
+                                      •Taxpayers are not required to exercise their option
+                                        every  quarter.  Where  such  option  has  been         Validity of option once                                          exercised once, they shall continue to furnish the               exercised                                           return as per the selected option for future tax
+                                            periods, unless they revise the said option.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 75 ======================
+
+
+RETURNS    1.75  13.75
+
+
+                        Opting of QRMP
+                     Scheme is GSTIN    A person may avail
+                                wise       QRMP scheme option
+                                                    for some GSTIN(s) and
+                                            not for other GSTIN(s)
+
+
+                   Opting out of the QRMP Scheme
+                              •Aggregate turnover has exceeded ` 5 crore   Taxpayers opting out of the                                      in the financial year      QRMP Scheme
+
+  Availability of facility of opting  •Available from from 1st day of 2nd month of
+   out of QRMP Scheme for a    preceding quarter to the last day of the first
+             quarter           month of the quarter
+
+                                  Nil GSTR-3B
+
+                                •Filing of GSTR-3B is mandatory for all normal and casual
+    Nil GSTR-3B       taxpayers, even  if there is no business activity in any
+                               particular tax period.
+
+Form GSTR-4 and GST CMP-08: For Composition dealers
+   A composition supplier is required to file the return GSTR-4 yearly and is
+     required to pay the tax quarterly in Form GST CMP-08.
+                           Details   to   be                      Due Date:
+                          furnished:       GSTR-4                                                   By  30th  day                                            (i)   Invoice   wise        Frequency:          of       April        (Yearly                         inward supplies             Yearly                following the        Return)                                             (ii)    Consolidated                        end  of such
+                       outward supplies                                     financial year
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 76 ======================
+
+
+1.76    13.76         GOODS AND SERVICES TAX
+
+                              Details  to  be                    Due Date:      GST CMP-08                             furnished:                                                Frequency:        By 18th day of        (For quarterly                                 Details        of                     month      payment    of                               Quarterly                         payment of self-                         succeeding        tax)                             assessed tax                             such quarter
+
+     Note:
+       (1)   The inward supplies of a composition supplier received from registered
+          persons filing GSTR-1 will be auto populated in FORM GSTR-4A for
+           viewing.
+       (2)   Filing of NIL GST CMP-08 is mandatory for all taxpayers who have
+          opted to pay tax under composition scheme  if there is no business
+             activity in any tax period.
+Form GSTR-5: For Non-Resident Taxable Person (NRTPs)
+                Details to be                  Due Date:
+               furnished:                                              (i) within 13 days after the
+                         (i)  Details  of                    end of the calendar month,
+              inward             Frequency:      or  GSTR-5                supplies                                Monthly                (ii) within 7 days after the
+                          (ii)  Details  of                             last day of validity period
+              outward                               of the registration
+                supplies                           whichever is earlier
+
+Note: An NRTP is not required to file an Annual Return.
+Form GSTR-6: Return for Input Service Distributors (ISDs)
+
+                Details to be furnished:
+                          (i)   ITC   received   for                    Due Date:
+                 distribution                                                                      within    13                           (ii)  Total  ITC/  eligible/       Frequency:                                                          days after the                  ineligible   ITC   to  be                                          Monthly         end   of   the     GSTR-6         distributed  for  the  tax
+               period                                             calendar
+                                                     month                           (iii)  Debit/credit  notes
+                received
+
+Note: An ISD is not required to file an Annual Return.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 77 ======================
+
+
+RETURNS    1.77  13.77
+
+Form GSTR-7: For Tax Deducted at Source (TDS)
+   GSTR-7 is a return for tax deducted at source, whenever taxable goods or
+      services or both are supplied to a Central/ State Government’s Department/
+     establishment or, local authority, or Governmental agencies, recipient  is
+     required to deduct tax at source and total value of supply exceeds ` 2,50,000.
+   GSTR-7A- Form for issue of TDS certificate by deductor to the deductee.
+        GSTR-7          Frequency:          Due Date:                                                      On/before 10th of the month                                   Monthly                  (For TDS)                              succeeding the calendar month
+
+6.  Due date for payment of tax
+
+
+        for
+        taxfile                 Monthly GSTR-3B,     ofto                                             Last date of filing returns                 GSTR-5 and GSTR-7
+                  paymentrequired
+        for                                        Tax for a quarter is to be paid by 18th of the month                      GSTR-4                    person                                         succeeding such quarter             dates          the
+        Due
+
+
+Payment of tax under QRMP scheme
+
+ Tax due in each of the first 2 months of the quarter
+
+      To be paid by depositing in pre filled Form GST PMT-06
+
+           Payment to be made by 25th of the succeeding month
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 78 ======================
+
+
+1.78    13.78         GOODS AND SERVICES TAX
+
+Options for making monthly payment of tax under QRMP scheme
+
+                                                          Fixed sum method
+     Options for making monthly payment of tax
+                                                               Self assessment method
+
+Method 1: Fixed Sum Method
+
+                                      35% of the tax paid in cash in the
+                                                        return for the preceding quarter where
+                              Pay tax due in        the return was furnished quarterly
+                              each of the first
+                            two months of
+                                  the quarter
+          Fixed sum method
+                                             Tax liability paid in cash in the return
+                              Deposit in PMT-06      for the last month of the immediately
+                           by 25th day of the      preceding quarter where the return
+                         month succeeding         was furnished monthly
+                                such month
+
+
+Monthly tax payment through this method would not be available to those registered persons
+who have not furnished the return for a complete tax period preceding such month.
+
+Method 2: Self Assessment Method
+
+
+                                                 Self assessment
+                                     method
+
+           Taxpayers can pay tax by considering
+             tax liability on inward and outward                  in Form GST PMT-06
+                 supplies and ITC available
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 79 ======================
+
+
+RETURNS    1.79  13.79
+
+Applicability of Interest -
+(1)  For Fixed Sum method taxpayers
+
+  Where auto-calculated     •No interest would be applicable even if the liability for
+    fixed sum amount for        the said month was found higher
+   first 2 months of quarter        •If GSTR-3B of the quarter is filed by the due date by
+      is paid by due date         discharging the entire liability
+
+
+  Where tax payer makes                                 •Interest is payable at the applicable rate from due date    monthly payment                                of furnishing GST PMT-06 till date of making payment    beyond due date
+
+
+  Where Form GSTR-3B                                 •Interest payable as per provisions of section 50 of the     is furnished beyond                         CGST Act, 2017 for the tax liability net of ITC       due date
+
+(2) For Self-assessment method taxpayers
+
+       Interest payable as per provisions of section 50 of the CGST Act
+
+
+       for tax or any part thereof (net of ITC) which remains unpaid/ paid beyond
+      the due date
+
+
+       for the first 2 months of the quarter
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 80 ======================
+
+
+1.80    13.80         GOODS AND SERVICES TAX
+7.   Rectification of errors/omissions
+
+
+               Revision
+               of return
+
+                                                                 Rectification
+              Rectification                        on account of
+                    in                                       scrutiny, audit,                                                            inspection or            subsequent                                                     enforcement
+               return                                          activities
+
+                     Maximum time limit for rectification
+                                30th day of November of next FY
+                                 OR
+                             Actual date of filing annual return
+                                       Whichever is earlier
+8.  Other returns/ statements
+(i)    First return
+
+                      Registered person  to  declare
+   First              outward supplies in the period                   between the date on which he           after  grant  of  Return                  became liable to registration till           registration
+  (GSTR-10)          the date on which registration
+                     has been granted
+
+(ii)  GSTR – 8 - Statement for tax collection at source
+
+                   Monthly statement for E-  Statement                                            Filed by:         Due date:                 Commerce      Operator  for TCS                                             E-Commerce        10th  of  the                      depicting         supplies  (GSTR-8)                                         Operator            next month                        effecting through it
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 81 ======================
+
+
+RETURNS    1.81  13.81
+
+(iii)  Final return
+
+                      Taxable person whose   Final                                                  Within 3 months of the date of                         registration has been  Return                                                     cancellation or date of order of                      surrendered        or  (GSTR-10)                                                   cancellation, whichever is later.                         cancelled.
+
+(iv)  Annual Return & Annual Statement
+                        Annual return
+
+
+      Furnished by:
+                                     Prescribed form   All registered persons
+
+       excluding                       GSTR-9 (For registered persons)
+
+
+                                     GSTR-9A (Composition tax payer)
+
+           Casual Taxable Person                                     GSTR-9B (ECO) [not yet notified]85
+
+                   ISD
+
+               NRTP
+
+         Person deducting tax at source
+
+         Person collecting tax at source
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 82 ======================
+
+
+1.82    13.82         GOODS AND SERVICES TAX
+
+                Annual Self-certified Reconciliation Statement
+
+                      All registered persons          Prescribed form
+              are required to file furnish the statement       GSTR-9C
+             alongwith annual return if their aggregate
+              turnover during a financial year exceeds
+                         ` 5 crores.
+            excluding
+                          Casual Taxable Person
+
+                                  ISD
+
+                           NRTP
+
+                        Person deducting tax at source
+
+
+                        Person collecting tax at source
+
+(v)  GSTR – 11 - Details of inward supplies of persons having UIN
+
+                        Persons who have been              Details  of  inward
+  GSTR-11             issued a Unique Identity             supplies of persons
+                   Number (UIN)                      having UIN
+
+
+(vi)  GSTR – 5A - Return for persons providing OIDAR services
+                         Registered       person                                              Due date:                         providing OIDAR services                                                     20th  day  of  the                      from  a  place  outside  GSTR-5A                                       month  succeeding                           India to a person in India                                                            the        calendar                         other than a registered                                                        month/part thereof                       person
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 83 ======================
+
+
+RETURNS    1.83  13.83
+9.  Information return
+(i)  Who shall furnish the information return?
+  Taxable person
+
+  Local authority /other public body/association
+
+  State/Central Government's authority responsible for the collectiof VAT/sales tax/
+  State excise dutyy or excise dutyy or customs dutyy respectivelyp      y
+  Income tax authority
+
+  Banking company
+
+  State Electricity Board or an electricity distribution or transmission or any other
+  entityy entrusted with such functions
+  Registrar/Sub-Registrar appointed under the Registration Act
+
+  Registrar within the meaning of the Companies Act, 2013
+
+  Registering Authority empowered to register motor vehicles under the Motor
+  Vehicles Act, 1988
+  Collector referred to in clause (c) of section 3 of the Right to Fair Compensation
+  and Transparencyp     y in Land Acquisition,q        Rehabilitation and Resettlement Act, 2013
+  Recognised stock exchange
+
+  Depository
+
+  Officer of the RBI
+
+ GSTN
+
+  UIN holder
+
+  Any other specified person
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 84 ======================
+
+
+1.84    13.84         GOODS AND SERVICES TAX
+
+(ii)  Defective Information Return
+
+  Commissioner/
+  any    authorised     He may intimate      Defect   to  be                                                                    Otherwise,   officer,  considers       defect   to   the       rectified  within                                                                        information   information            person who has      30 days from the                                                                          return    shall   furnished  in  the       furnished   such      date   of   such                                                              be treated as   information            information             intimation     or                                                                    not furnished   return    to   be       return                extended time
+   defective
+
+(iii)  Issuance of notice for failure to furnish the information return within
+     stipulated time
+                                                                            within     a
+                                                                         period   not                          Commissioner/  Where  a  person                                                   exceeding                         any authorised       requiring  him  to   required to furnish                                             90     days                                  officer,   may       furnish       such   information  return                                               from    the                            serve a notice       information return  has not furnished it                                                   date      of                       on such person                                                                                service    of
+                                                                       the notice
+
+
+       TEST YOUR KNOWLEDGE
+
+1.   Which type  of taxpayers need  to  file annual  return under  section 44?
+     Enumerate.
+2.     Is an annual return under section 44 and a final return one and the same?
+      Explain.
+3.   Do input service distributors (ISDs) need to file separate statement of outward
+      supplies (GSTR-1) with their return? Discuss.
+4.     Is it compulsory for a taxpayer to file return by himself? Explain.
+5.    Mr. Anand Kumar, a regular taxpayer, filed GSTR-1 for the month of August
+      before the due date.  Later, in the month of February next year, he discovers
+      error in the GSTR-1 of the month of August already filed and wants to revise it.
+     You are required to advise him on the future course of action in this scenario.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 85 ======================
+
+
+RETURNS    1.85  13.85
+
+6.   B Ltd. has filed the return for the month of October belatedly. At the time of
+     computing the late fee to be paid for delay in filing return, B Ltd. has taken a
+     view that if the late fee has been paid as per the provisions under the CGST Act,
+      there is no requirement of paying the late fee under the SGST Act for the same
+      default.
+     Whether B Ltd. has taken a correct view? Examine.
+7.    Tax authorities have been scrutinizing the returns furnished by A Ltd. During
+      the scrutiny process, A Ltd. has been made aware by the authorities about an
+      incorrect disclosure in a return under section 39 filed by it for a particular tax
+      period.
+    A Ltd. seeks your opinion to rectify the incorrect disclosure made in the return.
+8.   ABC Ltd. applied for cancellation of GST registration in the month of March. In
+      the month of September, the consultant of ABC Ltd. suggested to furnish the
+       final return in said month. He advised the company that a final return needs
+      to be furnished before the due date of furnishing the return for the month of
+     September of subsequent financial year or before furnishing of annual return
+       (for the financial year in which cancellation has been sought for), whichever is
+       earlier. However, the jurisdictional authorities have yet not passed the order of
+      cancellation due to reasons not known to ABC Ltd.
+     Whether the advice given by the consultant of ABC Ltd. is correct? Examine.
+9.   XYZ Ltd. has deducted TDS from the consideration payable to A Ltd. for supplies
+    made by it. The deductee, i.e. A Ltd., seeks your advice on taking credit for the
+    TDS deducted by XYZ Ltd.  Also, whether the tax deducted by XYZ Ltd. will be
+     shown in the electronic credit ledger or electronic cash ledger of A Ltd.?
+10.  Whether GSTPs are required to furnish any return for disclosure of activities
+      carried out by them for any of the registered person during a tax period?
+      Elucidate.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 86 ======================
+
+
+1.86    13.86         GOODS AND SERVICES TAX
+
+      ANSWERS/HINTS
+
+1.    Every registered person, other than ISD’s, casual/non-resident taxpayers, tax
+     deductors at source, tax collector at source are required to file an annual
+      return in Form GSTR-9. Taxpayer under composition scheme are required to
+        file annual return in Form GSTR-9A. The department of the Central/State
+     Government or a local authority, whose books of account are subject to audit
+     by the Comptroller and Auditor-General of India or an auditor appointed for
+      auditing the accounts of local authorities under any law for the time being in
+      force, are exempt from the requirement of furnishing the annual return.
+2.   No. Annual return has to be filed by every registered person paying tax as a
+     normal taxpayer, with certain exceptions. Final return has to be filed only by
+     those registered persons whose registration under GST has been cancelled.
+     The final return has to be filed within three months of the date of cancellation
+     or the date of cancellation order, whichever is later.
+3.   No, the ISDs need to file only a return in Form GSTR-6 and the return has the
+      details of credit received by them from the service provider and the credit
+      distributed by them to the recipient units. Since their return itself covers these
+      aspects, there is no requirement to file separate statement of outward supplies.
+4.   No. A registered taxpayer can also get his return filed through a Goods and
+      Services Tax Practitioner(GSTP) as authorised by him subject to confirmation
+      of registered person over mail or SMS each time when return filed by GSTP .
+5.   The mechanism of filing revised return for any correction of errors/omission
+        is not available under GST. The rectification of errors/omission is allowed in
+     the subsequent returns.
+      Therefore, Mr. Anand Kumar who discovered an error in GSTR-1 for the month
+      of August cannot revise it. However, he should rectify said error in the GSTR-
+     1 filed for the month of February and should pay the tax and interest, if any,
+      in case there is short payment, in the return to be furnished for February. The
+      error  can  be  rectified  by  furnishing  appropriate  particulars  in  the
+    “Amendment Tables” contained in GSTR-1.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 87 ======================
+
+
+RETURNS    1.87  13.87
+
+     However, as per section 37(3), no rectification of details furnished in GSTR-1
+      shall be allowed after 30th day of November following the end of the financial
+     year to which such details pertain, or furnishing of the relevant annual return,
+     whichever is earlier.
+6.   The understanding of B Ltd. is incorrect. For arriving at the late fee payable
+    on account of delayed filing of GST return, the computation of late fee is
+    made separately for CGST and SGST/UTGST.  This is because the provisions
+      of late fee on delayed filing of return are prescribed in both CGST Act and
+     SGST/UTGST Act although a common return is filed for both the laws.
+7.    In terms of section 39(9), any rectification in the return (under section 39)
+     furnished by the registered person is allowed only when the error or omission
+        is discovered on account of reasons other than scrutiny, audit, inspection, or
+     enforcement activity by the tax authorities.
+      In the present case, since the incorrect disclosure has been highlighted to A
+      Ltd. by the tax authorities during the process of scrutiny, the rectification of
+     the incorrect disclosure cannot be made by A Ltd. on its own.
+8.   No, the advice of the consultant is not correct.
+      In terms of section 45 read with rule 81, every registered person who is
+     required to furnish GSTR-3B and whose registration has been cancelled is
+     required to file a final return within three months of the date of cancellation
+     or date of order of cancellation, whichever is later.
+      In the given case, the registration of the company has not been cancelled.
+      Therefore, requirement of filing final return will arise only when the registration
+      of the company gets cancelled.
+9.    In terms of section 51(5) read with rule 66, the deductee shall claim credit, in
+      his electronic cash ledger, of the tax deducted and reflected in GSTR-7 of the
+     deductor, after validation.  Similarly, rule 87(9), inter alia, provides that any
+    amount deducted under section 51 shall be credited to the electronic cash
+     ledger of the deductee.
+      Therefore, in the present case, A Ltd., can take credit of TDS amount deducted
+     by XYZ Ltd. in its electronic cash ledger and use the same for payment of tax,
+      interest, penalty, late fee or any other amount.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 88 ======================
+
+
+1.88    13.88         GOODS AND SERVICES TAX
+
+10.   In terms of section 48(2), a registered person may authorise an approved
+    GSTP to furnish the details of outward supplies under section 37, the details
+      of inward supplies under section 38 and the return under section 39 or annual
+      return under section 44 or final return under section 45 and to perform other
+     prescribed functions. Thus, the GSTP can furnish the specified documents or
+     information on behalf of the registered person with prior authority of the
+      registered person.
+     However, there is no specific return furnishing mechanism for GSTP itself to
+      disclose the activities carried out by it for any of the registered person during
+     a tax period.
+
+
+© The Institute of Chartered Accountants of India

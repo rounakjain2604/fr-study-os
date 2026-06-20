@@ -1,0 +1,3019 @@
+Source PDF: 05_Indirect_Tax_Laws/023 - Chapter 15- Refunds - 76442bos61715-cp15.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\05_Indirect_Tax_Laws\023 - Chapter 15- Refunds - 76442bos61715-cp15.pdf
+Extracted at: 2026-05-31T10:25:58+05:30
+Pages: 73
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER        15
+
+
+REFUNDS
+
+The section numbers referred to in the Chapter pertain to CGST Act and rule numbers
+ referred to  in the Chapter pertain to CGST Rules, unless otherwise  specified.
+ Examples/Illustrations/Questions and Answers given in the Chapter are based on the
+ position of GST law existing as on 30.04.2023.
+
+               LEARNING OUTCOMES
+
+After studying this Chapter, you will be able to –
+   identify the situations leading to refund claim
+   explain the time limit for claiming refund and concept of ‘relevant date’
+      to calculate such time limit
+   identify the conditions to be satisfied and documents to be filed to
+     claim the refund in different circumstances
+   illustrate the circumstances under which refund claim may be withheld
+     by the Department
+   explain the ‘principle of unjust enrichment’
+   describe the provisions relating to ‘Consumer Welfare Fund’.
+   explain provisions relating to refund to UN Bodies, Embassies, etc.
+   explain the provisions relating to refund of tax wrongfully collected and
+     paid to Central Government or State Government
+  compute the interest payable to the applicant on delayed refunds
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+1.2       15.2       GOODS AND SERVICES TAX
+
+    1. INTRODUCTION
+Timely refund mechanism  is essential  in tax
+administration, as it facilitates trade through the
+release of blocked funds for working capital,
+expansion  and  modernisation  of   existing
+business.
+The provisions pertaining to refund contained in
+the GST law aim to streamline and standardise
+the refund procedures under GST regime. Under
+the GST regime, there is a standardised form for making any claim for refunds. The
+                                       claim  and  sanctioning  procedure   is
+                                          primarily online and time bound, which is
+                                     a marked departure from the earlier time
+                                  consuming and cumbersome procedure.
+                                           Further, provisions relating to refund are
+                                more  transparent  as  compared   to
+                                        provisions  contained   in  the   earlier
+                                            indirect tax regime.
+Chapter XI - Refunds [Sections 54 to 58] of the CGST
+Act, 2017 and Chapter X – Refund [Rule 89 to 97A] of
+the CGST Rules, 2017 stipulates the provisions relating
+to refunds. State GST laws also prescribe identical
+provisions in relation to refunds. Further, section 15 of
+the IGST  Act, 2017  prescribes  for  the  refund  of
+integrated tax paid on supply of goods to tourist leaving India.
+
+
+ Provisions of Refunds under CGST Act have also been made applicable to IGST
+ Act vide section 20 of the IGST Act.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+REFUNDS            15.3
+
+Following provisions have been discussed in this Chapter:
+                    Chapter XI of CGST Act: Refunds
+ Section                             Section
+    54    Refund of tax
+    55    Refund in certain cases
+    56     Interest on delayed refunds
+    57    Consumer Welfare Fund
+    58     Utilisation of fund
+  Chapter VI of IGST Act: Refund of integrated tax to international tourist
+ Section                              Particulars
+    15    Refund of integrated tax paid on supply of goods to tourist leaving
+             India.
+                    Chapter X of CGST Rules: Refund
+   Rule                                Particulars
+    89     Application for refund of tax, interest, penalty, fees or any other amount
+    90    Acknowledgement
+    91    Grant of provisional refund
+    92    Order sanctioning refund
+    93     Credit of the amount of rejected refund claim
+    94    Order sanctioning interest on delayed refunds
+    95    Refund of tax to certain persons
+    96    Refund of integrated tax paid on goods or services exported out of
+            India
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+1.4       15.4       GOODS AND SERVICES TAX
+
+   96A    Export of goods or services under bond or Letter of Undertaking
+   96B    Recovery of refund of unutilized input tax credit or integrated tax paid
+         on export of goods where export proceeds are not realized within
+            stipulated time
+    97    Consumer Welfare Fund
+   97A   Manual filing and processing
+Before proceeding into detailed provisions of the chapter, let us first go through
+the relevant definitions.
+
+    2. RELEVANT DEFINITIONS
+   Drawback: in relation to any goods manufactured in India and exported,
+    means the rebate of duty, tax or cess chargeable on any imported inputs or
+    on any domestic inputs or input services used in the manufacture of such
+     goods; [Section 2(42)]
+   Refund: Refund includes refund of tax paid on zero-rated supplies of goods
+     or services or both or on inputs or input services used in making such zero-
+     rated supplies, or refund of tax on the supply of goods regarded as deemed
+      exports, or refund of unutilised input tax credit as provided under section
+      54(3) [Explanation 1 to section 54].
+   Tourist: “Tourist” means a person not normally resident in India, who enters
+      India for a stay of not more than six months for legitimate non-immigrant
+     purposes [Explanation to section 15].
+   Zero rated supply: Zero-rated supply shall have the meaning assigned to it
+      in section 16 [Section 2(23) of the IGST Act]. As per section 16(1) of IGST Act,
+      “zero rated supply” means any of the following supplies of goods or services
+     or both, namely:–
+       (a)   export of goods or services or both; or
+      (b)   supply of goods or services or both for authorised operations to a
+           Special Economic Zone developer or a Special Economic Zone unit.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+REFUNDS            15.5
+
+   Recipient of goods or services: “Recipient” of supply of goods or services
+     or both, means—
+       (a)   where a consideration is payable for the supply of goods or services or
+           both, the person who is liable to pay that consideration;
+      (b)   where no consideration is payable for the supply of goods, the person
+           to whom the goods are delivered or made available, or to whom
+           possession or use of the goods is given or made available; and
+       (c)   where no consideration is payable for the supply of a service, the person
+           to whom the service is rendered,
+     and any reference to a person to whom a supply is made shall be construed
+     as a reference to the recipient of the supply and shall include an agent acting
+     as such on behalf of the recipient in relation to the goods or services or both
+     supplied [Section 2(93)].
+
+    3. REFUND OF TAX [SECTION 54 OF THE CGST
+      ACT]
+
+                A.   Situations leading to refund claims
+A claim for refund may arise in the following situations:
+(i)   Export/supply to SEZ developer/unit on payment of IGST
+      In case where notified class of goods and/or services
+      are exported or, notified class of persons export goods
+     and/or services or supply goods and/or services to an
+     SEZ developer/unit, on payment of IGST, subject to
+     such conditions, safeguards and procedure as may be
+      prescribed, refund of such IGST paid on goods and/or services supplied is
+      available [Section 16(4) of IGST Act].
+(ii)  Refund of unutilized ITC – In case of export/supply to SEZ developer/unit
+     without payment of IGST or in case of inverted duty structure, refund of
+      unutilized ITC is available.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+1.6       15.6       GOODS AND SERVICES TAX
+
+(iii)  Refund of tax paid on the supply of goods regarded as deemed exports may
+     be claimed.
+(iv)  Refund of any balance in the electronic cash
+     ledger after payment of tax, interest, penalty,
+      fee or any other amount payable under this Act
+     or the rules made there under may be claimed
+      [Section 49(6)].
+(v)   Refund on account of tax paid on a supply
+     which is not provided, either wholly or partially,
+     and for which invoice has not been issued (tax paid on advance payment).
+(vi)  Refund of tax wrongly collected and paid to the Government (i.e. CGST &
+    SGST paid by treating the supply as intra-State supply which is subsequently
+     held as inter-State supply and vice versa) [Section 77 of the CGST Act and
+      section 19 of the IGST Act].
+(vii)  Refund of the IGST paid by tourist leaving India on any supply of goods taken
+     out of India by him [Section 15 of IGST Act].
+(viii) Tax becomes refundable as a consequence of judgment, decree, order or
+      direction of the Appellate Authority, Appellate Tribunal or any Court.
+(ix)  On finalization of provisional assessment, if any tax becomes refundable to
+     taxpayer (on account of assessed tax on final assessment being less than the
+      tax deposited by the taxpayer) [Section 60].
+(x)   Refund of taxes on purchases made by UN bodies or embassies  etc.
+      [Section 54(2)].
+(xi)  Refund of advance tax deposited by a casual taxable person/ Non-resident
+      taxable person [Section 54(13)].
+(xii)  Refund of excess payment of tax.
+The list is only indicative and not exhaustive.  Detailed provisions relating to
+some of the sections referred above have been discussed in the other chapters at
+respective places.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+REFUNDS            15.7
+
+               B.   Application for refund claim [Rule 89]
+
+1.   Application Form for claiming refund [Section 54(1) read with rule
+     89(1)]
+     Any person1 claiming refund of any tax, interest,
+            penalty, fees or any other amount paid by him    Refund         in
+        may file an application in Form GST RFD-01    general cases
+            electronically  through  GST common  portal
+           [Section 54(1) read with rule 89(1)].
+    A registered person claiming refund of
+         any balance in the electronic cash ledger    Refund   in   excess
+           in  accordance  with  the  provisions  of    balance of electronic
+           section 49(6), may claim such refund in    cash ledger
+         Form GST RFD-01 electronically through
+        GST common portal [Section 49(6) and proviso to section 54(1) read
+           with rule 89(1)].
+               It is clarified that the amount deducted/collected as TDS/TCS by TDS/
+         TCS deductors/collectors under the provisions of section 51 /52 and
+           credited  to  electronic cash  ledger  of  the  registered  person,  is
+           equivalent to cash deposited in electronic cash ledger.   It is not
+         mandatory for the registered person to utilise the TDS/TCS amount
+           credited to his electronic cash ledger only for the purpose of
+          discharging tax liability.
+         The registered person is at full liberty to discharge his tax liability
+           in respect of the supplies made by him during a tax period, either
+          through debit  in  electronic  credit ledger or through debit  in
+           electronic cash ledger, as per his choice and availability of balance
+           in the said ledgers.
+
+
+1 except the persons covered by notification issued under section 55 like UN Bodies, Embassies
+etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+1.8       15.8       GOODS AND SERVICES TAX
+
+        Any amount, which remains unutilized in
+           electronic cash ledger, after discharge of   TDS/TCS credited to
+          tax dues and other dues payable under the    electronic      cash
+        CGST Act and rules made thereunder, can    ledger can  also be
+         be refunded to the registered person as    claimed as refund
+          excess balance in electronic cash ledger as
+          above2.
+
+     Further, a registered person, who has been issued a certificate of
+           registration under GST, shall undergo Aadhaar authentication for
+            filing of refund application in Form RFD-01.
+     However, in case of refund of IGST paid on
+         goods exported out of India3, there is no need    Refund of tax paid
+            for filing a separate refund application in Form    on export of goods
+         GST RFD-01 since the shipping bill filed by the
+          exporter is itself treated as a refund claim.
+          Shipping bill filed by an exporter shall be deemed to be an application
+            for refund of integrated tax paid on the goods exported out of India
+           [Rule 96]. The provisions relating to refund of IGST on export of goods
+           outside India have been discussed in detail subsequently in this chapter.
+      Filing of refund claim:
+     Supplies regarded as deemed exports: In respect of supplies regarded
+           as deemed exports, either recipient or supplier are allowed to file the
+           refund application.  The refund in respect of
+         deemed export supplies is the refund of tax     Either   supplier   or
+                                                                   recipient allowed to           paid on such supplies. However, the supplier                                                                                file           refund
+          can  seek  refund  only  in  case where  the    application in case of
+            recipient does not avail of ITC on such supplies   deemed exports.
+         and furnishes an undertaking to the effect that
+           the supplier may claim the refund [Second proviso to rule 89(1)].
+
+
+2 Circular No. 166/22/2021 GST dated 17/12/2021
+3 Refund of IGST paid on goods exported out of India is available either where class of goods
+exported are notified or class of persons making zero-rated supply of goods are notified u/s
+16(4).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+REFUNDS            15.9
+
+          However, in a case when the refund
+         was   being   claimed   by   the
+            recipients,   they   were   facing
+             difficulties on the portal to claim
+          refund of tax paid since the portal
+           required them to  first debit the
+         amount  so  claimed  from  their
+            electronic       credit      ledger.
+          Considering  this  difficulty,   it   is
+             clarified that in a case where recipientt
+           of deemed export supplies claims the refund on such supplies, there
+               is no restriction on such recipient in availing ITC of the tax paid on
+          such supplies because when they proceed to file refund on the portal,
+           the system requires them to debit the amount so claimed from their
+            electronic credit ledger4.
+         However, it is important to note that the ITC of tax paid on deemed
+          export supplies, allowed to the recipients for claiming refund of
+          such tax paid, is not ITC in terms of the provisions of Chapter V of
+          the CGST Act, 2017. Therefore, the ITC so availed by the recipient
+           of deemed export supplies would not be subjected to provisions of
+           section 17.  This implies that entire amount paid by the recipient
+            will be available as ITC irrespective of the fact whether it is blocked
+           in terms of section 17(5)56.
+           Further, there arose a question as to whether the ITC availed by the
+           recipient of deemed export supply for claiming refund of tax paid
+         on supplies regarded as deemed exports is to be included in the
+         “Net ITC” for computation of refund of unutilised ITC under rule
+          89(4) & rule 89(5) (discussed subsequently in this chapter).  It is
+            clarified that as seen above, since the ITC of tax paid on deemed
+          export supplies, allowed to the recipients for claiming refund of
+          such tax paid, is not ITC in terms of the provisions of Chapter V of
+
+4 Circular No. 147/03/2021 GST dated 12.03.2021
+5 Circular No. 172/04/2022 GST dated 06.07.2022
+6 Provisions of Blocked Credit are discussed in detail in Chapter 7 – Input Tax Credit in Module 2
+of this Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+1.10     15.10       GOODS AND SERVICES TAX
+
+          the CGST Act, such ITC availed by the recipient of deemed export
+          supply for claiming refund of tax paid on supplies regarded as
+        deemed exports  is not  to be included  in the “Net ITC”  for
+         computation of refund of unutilised ITC on account of zero-rated
+           supplies under rule 89(4) or on account of inverted rated structure
+         under rule 89(5)7.
+     Supplies to a Special Economic Zone unit or a Special Economic
+         Zone developer: In respect of supplies to a SEZ unit/developer, the
+           application for refund shall be filed by the -
+              (a)   Supplier of goods after such goods have been admitted in full in
+                the SEZ for authorised operations, as endorsed by the specified
+                   officer of the Zone.
+             (b)   Supplier of services along with such evidence regarding receipt of
+                  services for authorised operations as endorsed by the specified
+                   officer of SEZ [First proviso to rule 89(1)].
+          Explanation - For the purposes of this sub-rule, “specified officer”
+        means a “specified officer” (Joint/ Deputy/ Assistant Commissioner
+           of Customs for the time being posted in SEZ) or an “authorised
+           officer” (Inspector/ Preventive Officer/ Superintendent of Customs
+          posted in SEZ and authorised by specified officer to discharge any
+           of his functions) under SEZ Rules.
+     Supplies by Casual taxable person (CTP) /Non-resident taxable
+         person (NRTP)8: The amount of advance tax
+          deposited by a casual taxable person or a non-    Refund    to    be
+           resident taxable person under section 27(2),    claimed in the last
+             shall be refunded only when such person has, in     return  required  to
+                                                              be   furnished  by           respect  of the  entire period  for which the                                                           CTP/NRTP.
+             certificate of registration granted to him had
+          remained  in  force, furnished  all the returns
+           required under section 39 [Section 54(13)].
+
+7 Circular No. 172/04/2022 GST dated 06.07.2022
+8 The concept of casual taxable person and non-resident taxable person has been explained in
+detail in Chapter 8 – Registration in Module 2 of this Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+REFUNDS           15.11
+
+                                     Further,  refund
+                                   of any amount,
+                                      after   adjusting
+                                 the tax payable
+                              by the applicant
+                                out    of    the
+                              advance     tax
+          deposited by him under section 27 at the time of registration, shall be
+          claimed in the last return required to be furnished by him [Third proviso
+           to rule 89(1)].
+2.   Time limit within which refund claim can be filed
+     Any person claiming refund of any tax, interest,  if any,
+     paid on such tax or any other amount paid by him, may
+    make an application before the expiry of 2 years from
+     the ‘Relevant Date’ in prescribed form and manner [Section 54(1)].
+
+                              It has been clarified that time limit of 2 years not         ✪
+                 applicable  in case of refund of excess balance  in the
+       electronic cash ledger9
+           In case where proper officer has issued a Deficiency Memo to the   ✪
+      applicant requiring him to file a fresh refund claim, the time period
+      from the date  of  filing  of the refund claim  till the date  of
+      communication of the deficiencies in the prescribed form by the
+      proper officer, shall be excluded from the above period of ‘2 years’
+       [Proviso to rule 90(3)].
+
+
+    Meaning of ‘Relevant Date’ [Explanation 2 to section 54]
+      ‘Relevant Date’ has been defined in Explanation 2 to section
+      54. Accordingly it means:-
+
+
+9 Circular No. 166/22/2021 GST dated 17/12/2021
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+1.12     15.12       GOODS AND SERVICES TAX
+
+      S.No.           Cases                    Relevant Date
+        1    In case of goods exported out of India where a refund of tax
+              paid is available in respect of goods themselves or, as the case
+           may be, the inputs/input services used in such goods and
+                       (i)  goods are exported by  date on which the ship or the aircraft
+                  sea or air                  in which such goods are loaded,
+                                            leaves India
+                        (ii) goods are exported by  date on which such goods pass the
+                  land                      frontier
+                         (iii) goods are exported by  date of dispatch of goods by the
+                  post                   Post Office concerned to a place
+                                          outside India
+        2     In case of supply of goods  Date on which the return relating to
+             regarded    as   deemed  such deemed exports  is furnished,
+             exports where a refund of  irrespective of the fact whether the
+               tax  paid   is  available  in  refund  claim   is  filed  by  the
+               respect of the goods        supplier or by the recipient. As the
+                                       tax  on  the  supply  of  goods,
+                                      regarded as deemed export, would
+                                    be paid by the  supplier  in  his
+                                           return, therefore, the relevant date
+                                            for purpose of  filing  of refund
+                                      claim for refund of tax paid on
+                                      such supplies would be the date of
+                                               filing of return, related to such
+                                           supplies, by the supplier10.
+
+
+10 Circular No. 166/22/2021 GST dated 17/12/2021
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+REFUNDS           15.13
+
+        3    In  case  of  zero-rated  Due date for furnishing of return
+             supply   of   goods   or  under section 39 in respect of such
+               services or both to a SEZ  supplies
+             developer or a SEZ unit
+            where a  refund  of  tax
+             paid   is   available   in
+              respect of such supplies
+             themselves  (in  case  of
+              zero-rated   supply   by
+               notified class of persons),
+              or as the case may be, the
+              inputs or input  services
+             used in such supplies
+        4    In case of services exported out of India where a refund of tax
+              paid is available in respect of services themselves (in case of zero-
+              rated supply by notified class of persons or supply of notified class
+               of services), as the case may be, the inputs or input services used
+                 in such services, and
+                       (i)  the supply of services  Date  of  receipt  of  payment  in
+               had  been  completed  convertible foreign exchange or in
+                    prior to the receipt of  Indian rupees wherever permitted by
+                 such payment           the Reserve Bank of India
+                        (ii) payment     for    the  Date of issue of invoice
+                   services   had   been
+                  received   in  advance
+                    prior  to  the  date  of
+                   issue of the invoice
+        5   Where     tax   becomes  Date  of  communication  of  such
+              refundable      as      a  judgment, decree, order or direction
+             consequence of judgment,
+              decree, order or direction
+               of the Appellate Authority,
+              Appellate     Tribunal/any
+              court
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+1.14     15.14       GOODS AND SERVICES TAX
+
+        6     In  case   of  refund   of  Due date for furnishing of return
+              unutilised ITC on account  under section 39 for the period in
+               of inverted duty structure   which such claim for refund arises
+        7     In the case where  tax  is  Date of adjustment of tax after the
+              paid  provisionally  under   final assessment thereof
+                 this     Act/rules   made
+              thereunder
+        8     In the case of a person,  Date of receipt of goods or services
+              other than the supplier      or both by such person
+        9    Any other case            Date of payment of tax
+
+      Clarification on bunching of refund claims across financial years
+        It has been clarified that while filing the refund claim, an applicant may, at his
+      option, file a refund claim for a tax period or by clubbing successive tax
+      periods.  Earlier, there was a restriction on bunching of refund claims across
+      financial years; now said restriction has also been relaxed.
+     For instance, a registered person opting to file Form GSTR-1 on quarterly
+      basis can apply for refund on a quarterly basis or clubbing successive quarters
+     and these quarters may spread across different financial year. Thus, he can
+        file refund claim for quarters: Jan-Mar, Apr-Jun and July-Sep, while filing the
+     refund claim11.
+3.   Documentary evidences for filing refund claim
+     The applicant need not  file elaborate documents
+     along with the refund claim. Standardised and easy
+      to understand documents have been prescribed.
+      Thus, for every claim the main document prescribed is a statement of relevant
+      invoices/shipping bills (NOT THE INVOICES THEMSELVES) pertaining to the
+      claim.
+     Documentary evidences required for filing refund claim has been provided
+     under the provisions of section 54(4) read with rule 89(2).
+
+
+11 Circular No.135/05/2020 GST dated 31.03.2020
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+REFUNDS           15.15
+
+                                 Section 54(4)
+     Section 54(4) stipulates that the application shall be accompanied by —
+       (a)   such documentary evidence as may be prescribed to establish that a
+          refund is due to the applicant; and
+      (b)   such documentary or other evidence (including the
+         documents referred to in section 33) as the applicant
+        may furnish to establish that there  is no unjust
+         enrichment (i.e. the amount of tax and interest, if any,
+           paid on such tax or any other amount paid in relation
+           to which such refund is claimed was collected from, or
+           paid by, him and the incidence of such tax and interest had not been
+          passed on to any other person).
+          However, where the amount claimed as refund is less than ` 2 lakh, it
+             shall not be necessary for the applicant to furnish any documentary and
+           other evidences but he may  file a  declaration, based on the
+         documentary or other evidences available with him, certifying that
+          there  is no unjust enrichment  i.e. the incidence of such tax and
+            interest had not been passed on to any other person.
+                                 Rule 89(2)
+      In pursuance of said provisions, rule 89(2) has provided that the application
+      for filing of refund claim shall be accompanied by any of the following
+     documentary evidences as applicable, in Annexure 1 of Form GST RFD-01 for
+     refund claim, to establish that a refund is due to the applicant:
+       In   case  where  Documentary evidence to be submitted
+      refund     is   on
+      account of
+     A       judgment,  The reference number of the order and copy of the
+       decree,             order passed by the proper officer or an Appellate
+       order/direction  of  Authority or Appellate Tribunal or Court resulting in
+       Appellate           such refund or reference number of the payment of
+       Authority,           the amount specified in section 107(6) and section
+                            112(8) claimed as refund (i.e. amount to be deposited
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+1.16     15.16       GOODS AND SERVICES TAX
+
+       Appellate            at  the time  of  filing  of appeal  before  Appellate
+       Tribunal/any Court   Authority or Appellate Tribunal).
+       export of services    statement  containing  the number and  date  of
+                             invoices  and   the   relevant  Bank   Realization
+                               Certificates   or   Foreign   Inward   Remittance
+                               Certificates (BRC/FIRC), as the case may be
+       export  of  goods,  a statement containing the number and date of
+       other       than  shipping bills or bills of export and the number and
+        electricity          date of relevant export invoices.
+                                          It is important to note that realization of convertible
+                            foreign  exchange  or  Indian  Rupees  wherever
+                          permitted by RBI is one of the conditions for export
+                            of services whereas  in case of export of goods,
+                               realization of consideration is not a pre-condition.
+                          Consequently, documentary evidence in the form of
+                          a statement containing no. and date of relevant
+                         BRCs/FIRCs are not required here12.
+                         However, in case of non-realization of consideration
+                                in terms of FEMA, the exporter shall deposit the
+                      amount so refunded to the extent of non-realization
+                            of sale proceed along with interest within 30 days
+                            [Rule 96B] [discussed in detail subsequently in this
+                              chapter].
+      export          of   (i)   a statement containing:
+        electricity         number  and  date  of  the  export
+                                        invoices,
+                details of energy exported,
+                tariff per unit for export of electricity
+                                   as per agreement,
+
+
+12 Circular No. 37/11/2018-GST dated 15.03.2018
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+REFUNDS           15.17
+
+                                     (ii)  copy of Statement of Scheduled Energy for
+                              exported electricity by Generation Plants13
+                          and
+                                     (iii)  the copy of agreement detailing the tariff
+                              per unit
+       supply of goods is  statement containing the number and  In addition,
+     made to a SEZ unit  date of invoices as provided in rule 46  a
+       or a SEZ developer  along  with  the evidence regarding  declaration
+                       goods admitted in full for authorized  to the effect
+                           operations  as  endorsed  by  the  that tax has
+                             specified officer of SEZ.               not   been
+                                                                     collected       supply of  services  statement containing the number and                                                          from    the     made to a SEZ unit  date   of   invoices,   the   evidence                                                          SEZ    unit/       or a SEZ developer   regarding  receipt  of  services  for                                                          SEZ                           authorized operations as endorsed by                                                              developer is                           the specified officer of SEZ, and the                                                                     also                               details of payment, along with proof                                                                 required  to                              thereof, made by the recipient to the                                                        be                             supplier for authorized operations as                                                                      furnished.                           defined under the SEZ Act, 2005.
+     deemed exports     Statement  containing  the number and  date  of
+                             invoices along with an:
+                                            (i)   acknowledgment     by     the
+                                      jurisdictional Tax  officer  of the
+                            Advance    Authorisation    (AA)
+                                holder   or   Export  Promotion
+                                   Capital Goods (EPCG) Authorisation holder, as
+                                the case may be, that the said deemed export
+                                  supplies  have been  received  by  the  said
+                           AA/EPCG Authorisation holder, or a copy of the
+                                   tax invoice under which such supplies have
+                            been made by the supplier, duly signed by the
+
+
+13 This Statement is issued by the Regional Power Committee Secretariat as a part of the Regional
+Energy Account (REA) under clause (nnn) of sub-regulation 1 of Regulation 2 of the Central
+Electricity Regulatory Commission (Indian Electricity Grid Code) Regulations, 2010.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+1.18     15.18       GOODS AND SERVICES TAX
+
+                                    recipient  EOU  that  said  deemed  export
+                                  supplies have been received by it.
+                                              (ii)   undertaking by the recipient of deemed export
+                                  supplies that no ITC on such supplies has been
+                                  availed of by him.
+                                               (iii)  undertaking by the recipient of deemed export
+                                  supplies that he shall not claim the refund in
+                                 respect of such supplies and the supplier may
+                                 claim the refund14.
+       refund    of   any  a statement containing the number and the date of
+       unutilised      ITC  the invoices received and issued during a tax period
+      accumulated   on
+      account of inverted
+       duty structure
+        finalisation      of  reference number of the final assessment order and
+       provisional         a copy of the said order
+      assessment
+       tax       wrongly  Statement  showing  the  details  of  transactions
+       collected and paid  considered  as  intra-State  supply  but  which   is
+       to the Government  subsequently held to be inter-State supply
+       excess payment of  Statement showing the details of the amount of
+       tax                  claim on account of excess payment of tax
+      agreement     or  Statement containing the details of invoices viz.
+       contract        for  number, date, value, tax paid and details of
+      supply of  service  payment, in respect of which refund  is being
+      has         been  claimed along with copy of such invoices, proof of
+       cancelled       or  making such payment to the supplier, the copy of
+      terminated   and  agreement or registered agreement or contract, as
+      the   refund    is  applicable, entered with the supplier for supply of
+      claimed  by  an  service, the  letter  issued by the  supplier  for
+       unregistered        cancellation  or  termination  of agreement  or
+      person    (Please  contract for supply of service, details of payment
+       refer the detailed  received from the supplier against cancellation or
+
+
+14 Notification No. 49/2017 CT dated 18.10.2017
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+REFUNDS           15.19
+
+       discussion  given  termination of such agreement along with proof
+       after the Table**)   thereof
+                   A certificate issued by the supplier to the effect
+                          that he has paid tax in respect of the invoices on
+                       which refund is being claimed by the applicant;
+                          that he has not adjusted the tax amount involved
+                            in these  invoices against  his tax  liability by
+                           issuing credit note; and also, that he has not
+                        claimed and will not claim refund of the amount
+                           of tax involved in respect of these invoices
+
+    Note - Documentary evidence pertaining to passing of incidence of tax
+      Further,  a  declaration needs  to be  furnished  to
+      establish that there is no unjust enrichment in the case
+      of the applicant15, in a case where the amount of
+     refund claimed does not exceed ` 2 lakh.
+     However, where the amount of refund claimed
+     exceeds ` 2 lakh, a Certificate in Annexure 2 of Form
+    GST RFD-01 needs to be furnished by a Chartered
+     Accountant or a Cost Accountant to the effect that
+      there  is no unjust enrichment in the case of the
+      applicant.  However, said certificate is not required to be furnished in
+     cases where refund is claimed by an unregistered person who has borne
+     the incidence of tax.
+      Further, neither a declaration by the applicant nor
+     a  certificate by  a  Chartered  Accountant/Cost
+     Accountant  is  required  to be  furnished  in  the
+      following cases:
+       (a)   refund of tax paid on export of goods or services
+           or both or on inputs or input services used in making such exports;
+
+
+15 Establishing that there is no unjust enrichment means establishing that the incidence of tax,
+interest or any other amount claimed as refund has not been passed on to any other person. This
+concept has been discussed in detail later in this chapter.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+1.20     15.20       GOODS AND SERVICES TAX
+
+      (b)   refund of unutilised ITC in case of zero rated supplies made without
+         payment of tax or on account of inverted duty structure;
+       (c)   refund of tax paid on a supply which is not provided,
+            either wholly or partially, and for which invoice has not
+         been issued, or where a refund voucher has been
+            issued.  The expression “invoice” referred here means
+            invoice conforming to the provisions contained in section 3116.
+      (d)   refund of tax in pursuance of section 77, i.e. tax paid on a transaction
+            treating it as an intra-State supply, but which is subsequently held to
+         be an inter-State supply or vice-versa.
+       (e)   the tax or interest borne by such other class of applicants as the
+         Government  may, on  the  recommendations  of  the  Council,  by
+             notification, specify.
+     Further, neither a declaration by the applicant nor a certificate by a
+     Chartered Accountant/Cost Accountant is required to be furnished in
+     case of refund of excess balance in electronic cash ledger17
+      ** Prescribing manner of filing an application for refund by unregistered
+     persons
+     There are cases where the unregistered buyers, who had entered into an
+     agreement/ contract with a builder for supply of services of construction
+     of flats/ building, etc. and had paid the amount towards consideration
+      for such service, either fully or partially, along with applicable tax, had
+     to get the said contract/ agreement cancelled subsequently due to non-
+     completion or delay in construction activity in time or any other reasons.
+      In a number of such cases, the period for issuance of credit note on
+     account of such cancellation of service under the provisions of section 34
+    may already have got expired by that time.  In such cases, the supplier
+    may refund the amount to the buyer, after deducting the amount of tax
+     collected by him from the buyer.
+
+
+16 Provisions relating to ‘invoice’ have been discussed in detail in Chapter 9 – Tax Invoice; Credit
+and Debit Notes in Module 2 of this Study Material.
+17 Circular No. 166/22/2021 GST dated 17/12/2021
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+REFUNDS           15.21
+
+           Similar situation may arise in cases of long-term insurance policies
+         where premium for the entire period of term of policy is paid upfront
+          along with applicable GST and the policy is subsequently required to be
+          terminated prematurely due to some reasons. In some cases, the time
+           period for issuing credit note under the provisions of section 34 may have
+          already expired and therefore, the insurance companies may refund only
+           the proportionate premium net off GST18.
+           Section 54(1) provides that ANY PERSON can claim refund, by making an
+           application upto 2 years from the relevant date. Further, in terms of
+           section 54(8)(e), in cases where the unregistered person has borne the
+           incidence of tax and has not passed on the same to any other person, the
+           said refund shall be paid to him instead of being credited to Consumer
+          Welfare Fund (CWF).
+           Thus, in order to enable such unregistered person to file application for
+          refund under  section  54(1)  in  the  situations  discussed  above, a
+           functionality   is  available  on  the common  portal  which  allows
+           unregistered persons to take a temporary registration and apply for
+          refund  under  the  category  ‘Refund  for  Unregistered  person’  in
+         Form GST RFD -01. Further, rule 89(2) provides for the documents
+           required to be furnished along with the application of refund by the
+           unregistered persons and the statement to be uploaded along with the
+           said refund application, as mentioned in Table given earlier.
+          Moreover,  it has been provided that a  certificate by a Chartered
+          Accountant or a Cost Accountant to the effect that there is no unjust
+          enrichment in the case of the applicant is not required to be furnished in
+
+18 Where the time period for issuance of credit note under section 34 has not expired at the time of
+cancellation/termination of agreement/contract for supply of services,the concerned suppliers can issue
+credit note to the unregistered person. In such cases, the supplier would be in a position to also pay
+back the amount of tax collected by him from the unregistered person and therefore, there will be no
+need for filing refund claim by the unregistered persons in these cases. Accordingly, the refund claim
+can  be  filed  by  the  unregistered  persons  only  in  those  cases  where  at  the  time  of
+cancellation/termination of agreement/contract for supply of services, the time period for issuance of
+credit note under section 34 has already expired. Provisions relating to credit note have been discussed
+in detail in Chapter 9 – Tax Invoice, Credit and Debit Notes in Module 2 of this Study Material.
+
+
+    © The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+1.22     15.22       GOODS AND SERVICES TAX
+
+     cases where refund is claimed by an unregistered person who has borne
+     the incidence of tax even  if the amount of refund claimed exceeds
+   ` 2 lakh.
+     Relevant date for filing of refund
+    As seen earlier, the relevant date in respect of cases of refund by a
+     person other than supplier is the date of receipt of goods or services or
+     both by such person. In the given cases of refund, the date of issuance
+     of letter of cancellation of the contract/ agreement for supply by the
+     supplier will be considered as the date of receipt of the services by the
+     applicant.
+      In cases where the amount paid back by the supplier to the unregistered
+     person on cancellation/termination of agreement/contract for supply of
+      services is less than amount paid by such unregistered person to the
+      supplier, only the proportionate amount of tax involved in such amount
+     paid back shall be refunded to the unregistered person19.
+
+                 C.   Procedure on receipt of refund claim
+
+1.   Acknowledgment of refund claim [Rule 90]
+         I.   Where the application relates to:
+            (a)  Claim for refund from the electronic cash ledger:
+             An acknowledgment in prescribed form
+                                               Acknowledgement                    shall be made available to the applicant20,
+                                                              of refund                   clearly indicating the date of filing of the
+                 claim for refund [Rule 90(1)].
+           (b)  Other refund claims:
+          The application shall be forwarded to the proper officer.
+          The proper officer shall, within a period of 15 days of filing
+                       of the said application, scrutinize the application for  its
+                     completeness.
+
+
+19 Circular No. 188/20/2022 GST dated 27.12.2022
+20 through the Common Portal electronically
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+REFUNDS           15.23
+
+         Where the application is found to be complete in terms of
+                        rule 89, an acknowledgement in prescribed form shall be
+                made available to the applicant through the common portal
+                        electronically [Rule 90(2)]. Refund acknowledgment clearly
+                       indicates the date of filing of the claim for refund.
+        II.   Deficiencies in refund claim – Issuance of Deficiency Memo:
+      Where any deficiencies are noticed, the
+               proper  officer  shall communicate the
+                  deficiencies   to   the   applicant   in
+                 Deficiency memo21,  requiring him  to  file  a  fresh  refund
+                application after rectification of such deficiencies [Rule 90(3)].
+              The time period from the date of filing of the refund claim till
+               the  date  of  communication  of  the  deficiencies  in  the
+                prescribed form by the proper officer, shall be excluded from
+               the period of ‘2 years’ as specified under section 54(1), in
+                respect of any such fresh refund claim filed by the applicant
+                 after rectification of the deficiencies.
+      Where deficiencies have been communicated to applicant under
+                the SGST Rules, 2017, the same shall also deemed to have been
+              communicated  under  this  rule  along  with  the  deficiencies
+              communicated under CGST Rules, 2017 [Rule 90(4)].
+        III.  Withdrawal of refund claim
+      The applicant may, at any time before issuance of provisional
+               refund sanction order or  final refund sanction order or
+             payment order or refund withhold order or show-cause notice,
+                 in respect of any refund application filed, withdraw the said
+                application  for  refund by  filing an  application  in  the
+                prescribed form [Rule 90(5)].
+      On submission of such withdrawal application, any amount
+               debited by the applicant from electronic credit ledger or
+                 electronic cash ledger, as the case may be, while filing refund
+
+21 through the Common Portal electronically
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+1.24     15.24       GOODS AND SERVICES TAX
+
+                application, shall be credited back to the ledger from which
+               such debit was made [Rule 90(6)].
+2.   Grant of provisional refund [Section 54(6) read with rule 91]
+    GST law provides for grant of provisional refund of 90% of the total refund
+      claim, in case the claim relates for refund arising on
+     account of zero-rated supplies. The provisional refund
+     would  be  paid  within  7  days  after  giving  the
+     acknowledgement.  The  remaining  10%  can  be
+     refunded later after due verification of documents
+     furnished by the applicant. The provisional refund  90%  of  the  total
+                                                   refund claim is paid     would not be granted to such supplier who was,
+                                                     within 7 days where     during  any  period  of  5  years  immediately                                                   refund   arises  on     preceding the refund period, was prosecuted for                                                  account   of  zero-
+     any offence where the amount of  tax evaded                                                     rated supplies
+     exceeds ` 2.5 crores.
+     Detailed provisions have been outlined hereunder:
+     Section 54(6) stipulates that:
+     The proper officer may, in the case of any claim for refund on account
+          of zero-rated supply of goods or services or both made by registered
+           persons,
+     other than such category of registered persons as may be notified by
+           the Government on the recommendations of the Council,
+     refund on a provisional basis, 90% of the total amount so claimed,
+     in such manner and  subject  to such  conditions,  limitations and
+           safeguards as may be prescribed** and
+     thereafter make an order under section 54(5) for final settlement of the
+          refund claim after due verification of documents furnished by the
+            applicant.
+     **Conditions, limitations and safeguards have been prescribed under
+      rule 91.  It stipulates as following:
+     The provisional refund shall be granted subject to the condition that
+           the person  claiming  refund  has,  during any  period  of 5  years
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+REFUNDS           15.25
+
+          immediately preceding the tax period to which the claim for refund
+             relates, not been prosecuted for any offence under the Act or under an
+            existing law where the amount of tax evaded exceeds ` 2.5 crores.
+     The proper  officer,  after  scrutiny  of the claim and the evidence
+          submitted in support thereof and on being prima facie satisfied that the
+         amount claimed as refund is due to the applicant in accordance with
+           the provisions of section 54(6), shall make an order in prescribed form,
+           sanctioning the amount of refund due to the said applicant on a
+            provisional basis within a period not exceeding 7 days from the date of
+           the acknowledgement.
+          However, said order shall not be required to be revalidated by the
+          proper officer.
+     The proper  officer  shall  issue a payment order  for the amount
+           sanctioned. The same shall be electronically credited to any of the bank
+          accounts of the applicant mentioned in his registration particulars and
+           as specified in the application for refund on the basis of a consolidated
+         payment advice.
+          However, the payment order shall be required to be revalidated where
+           the refund has not been disbursed within the same financial year in
+          which the said payment order was issued.
+     The Central Government  shall disburse the refund based on the
+           consolidated payment advice.
+3.   Order of refund [Section 54(5), (7) read with rule 92]
+     Section 54(5) stipulates that if, on receipt of any such application, the
+          proper officer is satisfied that the whole/part of the amount claimed as
+          refund  is refundable, he may make an order accordingly and the
+         amount so determined shall be credited to the Consumer Welfare Fund
+            [discussed in detail subsequently].
+     However, in certain specified circumstances, the refundable amount is
+           to be paid to the applicant instead of being credited to the Consumer
+          Welfare Fund [Section 54(8)] – Discussed in detail subsequently].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+1.26     15.26       GOODS AND SERVICES TAX
+
+    Refund order: Rule 92(1) provides that
+          where,  upon  examination  of  the
+                  application,  the  proper   officer   is
+                   satisfied that a refund under section
+                 54(5)  is due and payable  to the
+                 applicant,
+         he shall make an order sanctioning the amount of refund to
+               which the applicant is entitled,
+         mentioning therein the (i) amount, if any, refunded to him on a
+                 provisional basis,  (ii) amount adjusted against any outstanding
+              demand22 and (iii) the balance amount refundable.
+    Refund to be granted both in cash and credit, based on original
+        mode of payment: The refund of tax shall be made proportionately, in
+          cash and by recrediting the credit, based on original mode of payment.
+         The amount refundable in cash shall be paid by issuance of order in
+           prescribed from and the amount attributable to credit as ITC shall be
+           recredited in the electronic credit ledger by issuing prescribed form.
+          Where, upon examination of a refund application, the proper officer is
+             satisfied that a refund under section 54(5) is due and payable to the
+            applicant:
+                  (i)    the proper officer shall make a refund order in prescribed form
+                sanctioning  the  amount  of  refund  to  be  paid,  in  cash,
+                proportionate to the amount debited in cash against the total
+             amount paid for discharging tax liability for the relevant period,
+               mentioning therein the amount adjusted against any outstanding
+             demand under the Act or under any existing law and the balance
+             amount refundable and
+                  (ii)   for the remaining amount which has been debited from the
+                  electronic credit ledger for making payment of such tax, the
+               proper officer shall issue prescribed form re-crediting the said
+             amount as ITC in electronic credit ledger.
+
+22 under the CGST Act or under any existing law
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+REFUNDS           15.27
+
+         The above provision shall not apply to the refund of tax paid on
+           zero-rated supplies or deemed export [Rule 92(1A)].
+    Where the proper officer is satisfied that the amount refundable
+         under rule 92(1)/(1A)/(2)23 is payable to the applicant24 instead of
+          being credited to Consumer Welfare Fund, he shall make an refund
+          order in prescribed form and issue a payment order for the amount of
+           refund.
+         Amount of refund shall be electronically credited
+           to any of the bank accounts of the applicant
+          mentioned in his registration particulars and as
+            specified in the application for refund on the
+            basis of a consolidated payment advice.
+         The refund order issued in prescribed form shall not be required to be
+           revalidated by the proper officer.
+          However, the payment order shall be required to be revalidated where
+           the refund has not been disbursed within the same financial year in
+          which the said payment order was issued [Rule 92(4)].
+         The Central Government  shall disburse the refund based on the
+           consolidated payment advice [Rule 92(4A)].
+    Where the proper officer is satisfied that the amount refundable
+         under rule 92(1)/(1A)/(2) is not payable to the
+           applicant25, he shall make a refund order and
+            issue an payment order for the amount of refund
+           to be credited to the Consumer Welfare Fund
+           [Rule 92(5)].
+     Time-limit for issuance of refund order: Refund order shall be issued
+          by the proper officer within 60 days from the date of receipt of
+           application complete in all respects [Section 54(7)].
+
+
+23 Rule 92(2)- withholding of refund - has been discussed subsequently
+24 under section 54(8)
+25 under section 54(8)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+1.28     15.28       GOODS AND SERVICES TAX
+
+         The time limit of 60 days shall be counted from
+           the date of  filing of the claim for refund as
+          mentioned  on  the  acknowledgment  made
+            available to the applicant [Section 54(7) read with
+            rule 90(1) and 90(2)].
+4.   Issue of SCN and rejection of refund claim [Rule 92(3)]
+      In case the claim is sought to be rejected by the proper officer, a notice has
+      to be given online to the applicant stating the ground on which the refund is
+     sought to be  rejected. The  applicant needs to respond  online  within
+     15 days from the receipt of such notice. Thus, no claim can be rejected
+     without putting the applicant to notice. The detailed provisions have been
+     discussed hereunder:
+    Where the proper officer  is satisfied, for reasons to be recorded in
+            writing, that the whole or any part of the amount
+          claimed as refund  is not admissible or  is not
+          payable to the applicant, he shall issue a notice to
+           the applicant in prescribed form.
+     Applicant will be required to furnish a reply within 15 days of the
+            receipt of such notice in prescribed form.
+     The proper  officer  shall,  after considering the reply furnished by
+           applicant and after giving him an opportunity of being heard, make an
+            order, sanctioning the amount of refund in whole or part, or rejecting
+           the said refund claim.
+     The said order shall be made available to the applicant electronically
+         and the provisions of rule 92(1) relating to order sanctioning refund
+              shall, mutatis mutandis, apply to the extent refund is allowed.
+    No application for refund shall be rejected without giving the applicant
+         an opportunity of being heard.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+REFUNDS           15.29
+
+
+5.   Withholding of refund claim [Section 54(10), (11) & (12)]
+    Where an order giving rise to a refund is the subject
+     matter of an appeal or further proceedings or where
+     any other proceedings under this Act is pending and
+     the Commissioner is of the opinion that grant of such
+     refund is likely to adversely affect the revenue in the
+      said appeal or other proceedings on account of malfeasance or fraud
+     committed, he may, after giving the taxable person an opportunity of being
+      heard, withhold the refund till such time as he may determine.
+     The detailed provisions are as under:
+     Rule 92(2) stipulates that where the proper officer/Commissioner is of the
+     opinion that the amount of refund  is  liable to be withheld under the
+      provisions of section 54(10)/(11), he  shall pass an order informing the
+      applicant the reasons for withholding of such refund.
+     However, where the proper officer or the Commissioner is satisfied that
+     the refund is no longer liable to be withheld, he may pass an order for
+     release of withheld refund in prescribed form.
+     Section 54(10) stipulates that where any refund is due to a registered
+          person who has defaulted in furnishing any return or who is required to
+          pay any tax, interest or penalty, which has not been stayed by any Court,
+           Tribunal or Appellate Authority by the specified date**, the proper
+             officer may:
+              (a)   withhold payment of refund due  until the  said person has
+                furnished the return or paid the tax, interest or penalty, as the
+                case may be;
+             (b)   deduct from the refund due, any tax, interest, penalty, fee or any
+                other amount which the taxable person is liable to pay but which
+               remains unpaid under this Act or under the existing law.
+           **Specified date shall mean the last date for filing an appeal under this
+            Act.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+1.30     15.30       GOODS AND SERVICES TAX
+
+     Section 54(11) stipulates that where an order giving rise to a refund is
+           the subject matter of an appeal or further proceedings or where any
+           other proceedings under this Act is pending and the Commissioner is
+           of the opinion that grant of such refund is likely to adversely affect the
+          revenue  in the  said appeal or other proceedings on account of
+          malfeasance or fraud committed, he may, after giving the taxable
+          person an opportunity of being heard, withhold the refund till such time
+           as he may determine.
+     However, where a refund is withheld under section 54(11), the taxable
+          person shall, notwithstanding anything contained in section 56, be
+            entitled to interest @ 6% p.a.*, if as a result of the appeal or further
+          proceedings he becomes entitled to refund [Section 54(12)].
+      *as notified vide Notification No. 13/2017 CT dated 28.06.2017
+6.   Credit of the amount of rejected refund claim [Rule 93]
+      Where any deficiencies in refund claim have been communicated under
+            rule 90(3) [Rule 90(3) is discussed earlier], the amount earlier debited
+          under rule 89(3) shall be re-credited to the electronic credit ledger [Rule
+             93(1)].
+      Where any amount claimed as refund is rejected under rule 92, either
+              fully or partly, the amount debited, to the extent of rejection, shall be
+           re-credited to the  electronic  credit ledger by an order made  in
+           prescribed form [Rule 93(2)].
+      For the purposes of this rule, a refund shall be deemed to be rejected,
+                  if the appeal is finally rejected or if the claimant gives an undertaking
+             in writing to the proper  officer  that he  shall not  file an appeal
+           [Explanation to rule 93].
+     D.   Principle of Unjust Enrichment [Section 54(8), (8A) & (9)]
+
+1.   Theory of unjust enrichment
+     ‘Unjust  enrichment’ means  retention  of  a
+                                                  Theory of           benefit by a person that is unjust or inequitable.
+                                                          unjust            ‘Unjust  enrichment’  occurs when  a  person
+                                                  enrichment            retains money or benefits which in justice, equity
+         and good conscience, belong to someone else.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+REFUNDS           15.31
+
+           This principle stipulates that no person can be allowed to enrich
+           inequitably at the expense of another. A right of recovery under the
+           doctrine of ‘unjust enrichment’ arises where retention of a benefit is
+          considered contrary to justice or against equity26.
+     Theory of unjust enrichment, under GST, postulates that only the person
+        who has NOT passed the incidence of tax will be eligible to claim the
+           refund.
+    Where the amount of tax has been recovered from the recipient, it shall
+         be deemed that ‘THE INCIDENCE OF TAX HAS BEEN PASSED ON TO
+        THE ULTIMATE CONSUMER’. [Explanation (ii) to rule 89]
+     Under unjust enrichment, a presumption  is always drawn that the
+          businessman will shift the incidence of tax to the final consumer. This
+               is because GST is an indirect tax whose incidence is to be borne by the
+          consumer.  It is for this reason that every refund claim if sanctioned is
+               first transferred to the Consumer Welfare Fund.
+       If  the  claim  of refund  (barring  specified
+           exceptions)  passes  the   test  of  unjust
+           enrichment, it is paid to the applicant.  The
+         GST law makes this test inapplicable in case
+           of refund of unutilized ITC, refund on account
+           of exports, refund of payment of wrong tax
+           (IGST instead of CGST + SGST and vice versa), refund of tax paid on a
+           supply, which is not provided or when refund voucher is issued or if the
+           applicant shows that he has not passed on the incidence of tax to any
+           other person [These cases have been given in detail in next point]. In all
+           other cases, the test of unjust enrichment needs to be satisfied for the
+           claim to be paid to applicant.
+
+
+26 Sahakari Khand Udyog Mandal Ltd. v. Commissioner of Central Excise & Customs 2005 (181)
+ELT 328 S.C
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+1.32     15.32       GOODS AND SERVICES TAX
+
+     As discussed earlier, for crossing the bar of
+           unjust enrichment,  if the refund claim  is
+          upto ` 2 lakh, then a self-declaration of the
+           applicant to the effect that the incidence of
+            tax has not been passed to any other
+          person will suffice to process the refund
+            claim.  For refund claims exceeding ` 2 lakh, a certificate from a
+          Chartered Accountant/Cost Accountant will have to be given.
+
+2.   Cases where theory of unjust enrichment is not applicable
+     Section 54(8) stipulates that the refundable amount shall, instead of being
+      credited to the Consumer Welfare Fund, be paid to the applicant, if such
+    amount is relatable to —
+       (a)   refund of tax paid on export of goods or services or both or on inputs
+           or input services used in making such exports;
+      (b)   refund of unutilized ITC in case of zero-rated supplies made without
+         payment of tax or accumulated ITC on account of inverted duty
+            structure;
+       (c)   refund of tax paid on a supply which is not provided, either wholly or
+             partially, and for which invoice has not been issued, or where a refund
+          voucher has been issued;
+      (d)   refund of tax in pursuance of section 77, i.e. tax paid on a transaction
+           treated to be an intra-State supply, but which is subsequently held to
+         be an inter-State supply or vice-versa;
+       (e)   the tax and interest, if any, or any other amount paid by the applicant,
+                  if he had not passed on the incidence of such tax and interest to any
+           other person; or
+        (f)   the tax or interest borne by such other class of applicants as the
+         Government  may, on  the  recommendations  of  the  Council,  by
+             notification, specify.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+REFUNDS           15.33
+
+3.   Disbursement of refund of State Tax
+     The Government may disburse the refund of the State tax in such manner as
+    may be prescribed [Section 54(8A)].
+4.   Refundable amount to be credited to Consumer Welfare Fund in all
+     other cases
+Notwithstanding anything to the contrary contained in any judgment, decree, order
+or direction of the Appellate Tribunal or any Court or in any other provisions of this
+Act or the rules made thereunder or in any other law for the time being in force,
+no refund shall be made except in accordance with the provisions of section 54(8).
+Instead, refundable amount shall be credited to Consumer Welfare Fund [Section
+54(9)]
+                         E.   Refund of unutilized ITC
+The provisions relating to refund of unutilized ITC have been compiled and
+discussed as under:
+1.   Accumulation of Input Tax Credit (ITC)
+     Accumulation  of  Input  Tax  Credit  (ITC)
+     happens when the tax paid on inward supply
+        is more than the tax  liability on outward
+      supply. Such accumulation can be utilized by
+     the registered person for payment of output
+      tax liability.
+     However, the GST Law permits refund of
+      unutilised ITC at the end of a tax period in
+     two scenarios, namely if such credit accumulation is on account of zero rated
+      supplies  or on account  of  inverted duty  structure,  subject  to  certain
+      exceptions. In such cases, the Electronic Credit Ledger is to be debited by the
+      applicant by an amount equal to the refund so claimed [Rule 89(3)].
+2.   Cases where refund of unutilized ITC is available
+     As per section 54(3), a registered person may claim refund, of any unutilised
+     ITC at the end of any tax period27,in the following cases:
+
+27 A tax period is the period for which return is required to be furnished [Section 2(106)].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+1.34     15.34       GOODS AND SERVICES TAX
+
+      (a)  Zero rated supplies without payment of tax: Zero Rated supply
+         means supply of goods and/ or services for authorised operations to
+         an SEZ developer/unit or export of goods and/or services. A registered
+          person making zero rated supply may supply goods and/or services
+          under bond or Letter of Undertaking (LUT) without payment of IGST and
+           claim refund of unutilized ITC28.
+      (b)  Inverted duty structure: The term ‘inverted duty structure’ has not
+         been defined in the GST, however it refers to a situation where the rate
+           of tax on inputs is higher than the rate of tax on output supplies (other
+          than nil rated or fully exempt supplies) except supply of goods or
+            services as may be notified by the government.
+           Suppliers who supply goods to merchant exporters at the concessional
+            rate of 0.1% [0.05% CGST and 0.05% SGST/UTGST or 0.1% IGST, as the case
+         may  be], under Notification No. 40/2017 CT  (R) dated 23.10.2017/
+            Notification No. 41/2017 IT (R) dated 23.10.2017, subject to certain
+           conditions  specified  in  said  notifications  [Discussed  in  detail  in
+          Chapter 14 – Import and Export under GST in this Module of the Study
+            Material], are also  eligible for refund on account of inverted tax
+            structure.
+         Supply of specified goods/services where refund of unutilized ITC
+        on account of inverted duty structure is NOT allowed: Government
+          may, on the recommendations of the Council, notify supplies of certain
+         goods or services or both where no refund of unutilized ITC on account
+           of inverted duty structure is allowed.
+           For instance, supply of construction of complex services specified in
+          para 5(b) of Schedule II of the CGST Act, rail locomotives powered from
+         an external source of electricity or by electric accumulators, soya bean
+               oil, olive oil, palm oil, coal, lignite, peat etc 29.
+
+
+28 It is important to note that notified class of persons may make zero-rated supply or notified
+class of goods or services may be exported, on payment of IGST and refund of such tax paid on
+goods and/or services supplied may be claimed.
+29 Notification No. 15/2017 CT (R) dated 28.06.2017 and Notification No. 5/2017 CT (R) dated
+28.06.2017. Examples given herein are only for information purpose.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+REFUNDS           15.35
+
+          However, it is clarified that this restriction on refund of unutilized ITC
+           of GST paid on inputs is not applicable in case of zero-rated supply of
+            specified goods or services, i.e. (a) exports of said goods or services or
+           both; or  (b) supply of said goods or services or both to a SEZ
+           developer/unit [Circular No. 18/18/2017 GST dated 16.11.2017].
+3.   Application Form for claiming refund
+     The application for refund in such cases shall be filed in Form RFD-01.
+4.   Time-limit for claiming refund
+     Refund claim on account of inverted duty structure or on account of
+     accumulated ITC in case of exports of goods/ services made against LUT/
+    bond without payment of IGST, the refund claim can be filed within 2 years
+     from the relevant date; relevant date is discussed earlier in heading B in this
+      chapter.
+5.   Doctrine of unjust enrichment not applicable
+      In such cases, the refundable amount shall, instead of being credited to the
+    Consumer Welfare Fund, be paid to the applicant. In other words, doctrine
+      of unjust enrichment is not applicable in these cases.
+6.  Amount to be claimed as refund
+       (i)   Rule 89(4) stipulates that in the case of zero-rated supply of goods
+          or services or both without payment of tax
+          under  bond/LUT  in  accordance  with  the
+           provisions of section 16(3) of the IGST Act,
+           2017, refund of ITC shall be granted as per the
+           following formula:
+                             (Turnover of zero-rated supply of
+            Refund     goods + Turnover of zero-rated supply
+          Amount  =               of services)           × Net ITC
+                                Adjusted Total Turnover
+           where,-
+          A.   "Refund amount" means the maximum refund that is admissible;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+1.36     15.36       GOODS AND SERVICES TAX
+
+           B.   "Net ITC" means ITC availed on inputs      (see “Clarification on
+                 the term input” given subsequently) and input services during the
+                 relevant period other than the ITC availed for which refund is
+               claimed under sub-rules (4A) or (4B) or both;
+           C.   "Turnover of zero-rated supply of goods" means
+                      (i)   the value of zero-rated supply of goods made during the
+                       relevant period without payment of tax under bond/letter
+                       of undertaking
+                                              or
+                       (ii)   value  which  is  1.5  times  the  value  of  like goods
+                     domestically supplied by the same or, similarly placed,
+                        supplier, as declared by the supplier,
+               whichever is less,
+                other than the turnover of supplies in respect of which refund is
+                claimed under sub-rules (4A) or (4B) or both;
+          D.   "Turnover of zero-rated supply of services" means the value of
+                zero-rated supply of services made without payment of tax under
+             bond or LUT, calculated in the following manner, namely:-
+                Zero-rated supply of services is the aggregate of the payments
+                received during the relevant period for zero-rated supply of
+                  services and zero-rated supply of services where supply has been
+               completed for which payment had been received in advance in
+               any period prior to the relevant period reduced by advances
+                received for zero-rated supply of services for which the supply of
+                  services has not been completed during the relevant period.
+             E.   "Adjusted Total Turnover" means the sum total of the value of:
+                    (a)   the turnover in a State or a Union territory, as defined under
+                      section 2(112), excluding turnover of services; &
+                   (b)   the turnover of zero-rated supply of services determined in
+                    terms of clause (D) above and non-zero-rated supply of
+                         services,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+REFUNDS           15.37
+
+                excluding:
+                          (i)    the value of exempt supplies other than zero-rated supplies;
+                  and
+                           (ii)   the turnover of supplies  in respect of which refund  is
+                     claimed under sub-rule (4A) or sub-rule (4B) or both, if any,
+                during the relevant period.
+             F.   “Relevant period” means the period for which the claim has
+              been filed.
+          Explanation – For the purposes of this sub-rule, the value of goods
+          exported out of India shall be taken as –
+              (i)   the Free on Board (FOB) value declared in the Shipping Bill or
+                   Bill of Export form, as the case may be, as per the Shipping
+                   Bill and Bill of Export (Forms) Regulations, 2017; or
+               (ii)  the value declared in tax invoice or bill of supply,
+          whichever is less
+           Clarification regarding manner of calculation of ‘adjusted total
+          turnover’ under rule 89(4)
+          As seen above, the definition of the term ‘Turnover of zero-rated
+          supply of goods’ used in the above formula restricts the same to 1.5
+           times  the  value  of  like  goods  domestically  supplied  by  the
+           same/similarly placed supplier/as declared by the supplier.
+            Further, the term “Adjusted Total Turnover” includes “Turnover in a
+           State/UT”. As per section 2(112).  “Turnover in a State/UT” includes
+           turnover/ value of export/ zero-rated supplies of goods.
+                 It is clarified that the same value of zero-rated/ export supply of goods,
+           as calculated as per the definition of “turnover of zero-rated supply
+          of goods”, needs to be taken into consideration while calculating
+           “turnover in a State or a Union Territory”, and accordingly, in “adjusted
+            total turnover” for the purpose of this sub-rule.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+1.38     15.38       GOODS AND SERVICES TAX
+
+           Thus, the restriction of 1.5 times of the value of like goods domestically
+           supplied, as applied in “turnover of zero-rated supply of goods”, would
+           also apply to the value of “adjusted total turnover” here.
+            In short, for the purpose of rule 89(4), the value of export/ zero-rated
+           supply of goods to be included while calculating “adjusted  total
+           turnover” WILL BE SAME as being determined as per the amended
+            definition of “Turnover of zero-rated supply of goods” in this sub-rule.
+         The same can explained by the following example where actual value
+          per unit of goods exported is more than 1.5 times the value of same/
+            similar goods in domestic market, as declared by the supplier:
+                 Suppose a supplier is manufacturing only one type of goods
+                 and is supplying the same goods in both domestic market and
+                    overseas. During the relevant period of refund, the details of
+            his inward supply and outward supply details are shown in the table
+           below:
+         Net admissible ITC = ` 270
+            Outward    Value per   No of    Turnover   Turnover as
+              Supply        unit       units         (`)      per amended
+                                     supplied                definition (`)                                   (`)
+                Local        200        5         1,000         1,000
+            (Quantity 5)
+              Export       350        5         1,750         1,500
+                                                                 [1.5×(5×200)]            (Quantity 5)
+                Total                                2,750         2,500
+         The formula for calculation of refund as per rule 89(4) is:
+          Refund Amount = (Turnover of zero-rated supply of goods + Turnover
+           of zero-rated supply of services) × Net ITC ÷Adjusted Total Turnover
+          Turnover of zero-rated supply of goods (as per amended definition) =
+          ` 1,500
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+REFUNDS           15.39
+
+          Adjusted Total Turnover= ` 1,000 + ` 1,500 = ` 2,500 [and not
+          ` 1,000 + ` 1,750]
+         Net ITC = ` 270
+          Refund Amount = ` (1,500 × 270)/2,500 = ` 162
+           Thus, the admissible refund amount in the instant case is ` 162.
+            [Circular No. 147/03/2021 GST dated 12.03.2021]
+        (ii)  Rule 89(4A) stipulates that in the case of supplies received on which
+           the supplier has availed the benefit of deemed exports30, refund of ITC,
+           availed in respect of other inputs/input services used in making zero-
+           rated supply of goods or services or both, shall be granted.
+        (iii)  Rule 89(4B) stipulates that where the person claiming refund of
+            unutilised ITC on account of zero-rated supplies without payment of tax
+          has –
+              (a)   received supplies on which the manufacturer supplier has availed
+                the benefit of supply of goods to merchant exporters at the
+                concessional rate of 0.1%31, or
+             (b)   availed the benefit of exemption from IGST and Compensation
+                 Cess, in respect of the goods imported by EOU32 or for the goods
+               imported under Advance Authorisation (AA)/ EPCG33,
+           the refund of ITC, availed in respect of inputs received under the said
+            notifications for export of goods and the input tax credit availed in
+           respect of other inputs or input services to the extent used in making
+          such export of goods, shall be granted.
+      (iv)  Rule 89(5) stipulates that in the case of refund on
+          account  of inverted duty  structure, maximum
+
+
+30 under Notification No. 48/2017 CT dated 18.10.2017 [discussed in detail in Chapter 14 – Import
+and Export under GST in this Module of the Study Material.]
+31 Notification Nos. 41/2017 IT(R) or 40/2017 CT(R) both dated 23.10.2017. These export benefits
+have been explained in detail in Chapter 14 – Import and Export under GST in this Module of the
+Study Material.
+32 under Notification No. 78/2017 Cus dated 13.10.2017.
+33 under Notification No. 79/2017 Cus dated 13.10.2017.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+1.40     15.40       GOODS AND SERVICES TAX
+
+          refund of ITC shall be granted as per the following formula –
+                Turnover of
+                 inverted rated                                 Tax payable               supply of goods                                  on such           & services ×                           Net ITC                                         inverted        =      Net ITC         _                 x                                      rated supply                                                         ITC availed                                        of goods &                Adjusted Total                         on inputs &                                            services                  Turnover                                input
+                                                                services
+           where,-
+
+          A.   "Net ITC"    means ITC availed on inputs      during the
+                 relevant period other than the ITC availed for which refund is
+               claimed under sub-rules (4A) or (4B) or both (See Notes – 1 & 2
+              and “Clarification on the term input” given below); and
+           B.   "Adjusted Total turnover and Relevant period" have the same
+              meaning as assigned in sub-rule (4) above.
+
+            Note - 1: It may be noted that in rule 89(5), in ‘Net ITC’, ITC availed
+         on only inputs  is covered.  Since the definition of inputs34 doesn’t
+           include services or capital goods, it is apparent here that both the law
+         and the related rules clearly prevent the refund of tax paid on input
+            services and capital goods as part of refund of ITC accumulated on
+          account of inverted duty structure35.
+
+            Note - 2: If there are multiple inputs attracting different rates of tax,
+           ‘Net ITC’ in rule 89(5) covers the ITC availed on all inputs in the relevant
+            period, irrespective of their rate of tax.  The calculation of refund of
+          accumulated ITC on account of inverted tax structure, in cases where
+            several inputs are used in supplying the final product/output, can be
+             clearly understood with help of the following example:
+
+
+34 under section 2(59)
+35 Circular No. 79/53/2018 GST dated 31.12.2018
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+REFUNDS           15.41
+
+                  (i)   Suppose a manufacturing process involves the use of an input A
+                  (attracting 5%  GST) and  input B  (attracting 18%  GST)  to
+               manufacture output Y (attracting 12% GST). No input services are
+               being availed.
+                  (ii)   The refund of accumulated ITC in the situation at (i) above, will be
+                  available  under  section  54(3)  read  with  rule  89(5),  which
+                 prescribes  the  formula  for  the maximum  refund  amount
+                 permissible in such situations.
+                   (iii)   Further assume that the claimant supplies the output Y having
+                value of ` 3,000/- during the relevant period for which the refund
+                       is being claimed. Therefore, the turnover of inverted rated supply
+                 of goods and services will be ` 3,000/-. Since the claimant has no
+                other outward supplies, his adjusted total turnover will also be
+                ` 3,000/-.
+               (iv)    If we assume that Input A, having value of ` 500/- and Input B,
+               having value of ` 2,000/-, have been purchased in the relevant
+                period for the manufacture of Y, then Net ITC shall be equal to
+                ` 385/- (` 25/- and ` 360/- on Input A and Input B respectively).
+              (v)   Therefore, maximum refund amount, as per rule 89(5)  is as
+                  follows:
+           = [(` 3,000 × ` 385)/ ` 3,000] – (` 3,000 x 12% x 385/385)36
+               (vi)   Thus, maximum refund amount is ` 25/-37.
+          There arose an issue for consideration as to whether an applicant can
+          seek refund of unutilized ITC on account of inverted duty structure,
+          under section 54(3)(ii), in a case where the inversion is due to change in
+           the GST rate on the same goods. For example, an applicant trading in
+         goods has purchased, say goods “X” attracting 18% GST.  However,
+           subsequently, the rate of GST on “X” has been reduced to, say 12%.
+
+
+36 Modified as per revised formula for determining refund under inverted duty structure.
+37 Circular No. 79/ 53/ 2018 GST dated 31.12.2018
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+1.42     15.42       GOODS AND SERVICES TAX
+
+                 It has been clarified that, in such cases, the input and output being the
+          same, though attracting different tax rates at different points in time,
+         do not get covered under section 54(3)(ii).
+          There may, however, be cases where though inputs and output
+         goods are same, but the output supplies are made under a
+          concessional notification due to which the rate of tax on output
+           supplies is less than the rate of tax on inputs.
+           In such cases, as the rate of tax of output supply is less than the
+           rate of tax on inputs at the same point of time due to supply of
+         goods by the supplier under such concessional notification, the
+           credit accumulated on account of the same is admissible for refund
+         under the provisions of clause (ii) of the first proviso to section
+           54(3), other than the cases where output supply is either Nil rated
+          or fully exempted, and also provided that supply of such goods or
+           services are not notified by the Government for their exclusion from
+          refund of accumulated ITC under the said clause38.
+           Suppliers who  supply  goods  to  merchant  exporters  at  the
+          concessional rate of 0.1% [0.05% CGST and 0.05% SGST/UTGST or 0.1%
+            IGST, as the case may be], under Notification No. 40/2017 CT (R)
+          dated  23.10.2017/  Notification  No.  41/2017  IT  (R)  dated
+          23.10.2017,  subject  to  certain  conditions  specified  in  said
+           notifications [Discussed in detail in Chapter 14 – Import and Export
+         under GST in this Module of the Study Material], are also eligible
+           for refund on account of inverted tax structure as per above
+            clarification.
+
+                             Clarification on the term “input”
+    On certain occasions, ITC on stores and spares, packing materials, materials
+     purchased for machinery repairs, printing and stationery items, is not considered
+      as part of ‘Net ITC’ on the grounds that these are not directly consumed in the
+     manufacturing process and therefore, do not qualify as input.
+
+
+38 Circular No. 135/05/2020-GST dated 31.03.2020 as amended by Circular No. 173/05/2022
+GST dated 06.07.2022
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+REFUNDS           15.43
+
+     There are also instances where stores and spares, although charged to
+     revenue, are considered as capital goods. Consequently, the ITC availed on
+    them is not included in ‘Net ITC’, even though the value of these goods has
+     not been capitalized in his books of account by the claimant.
+      In this regard, it is clarified that ITC of the GST paid on inputs shall be available
+      to a registered person as long as he/she uses or intends to use such inputs
+      for the purposes of his/her business and there is no specific restriction on the
+     availment of such ITC anywhere else in the GST law. The GST paid on inward
+     supplies of stores and spares, packing materials etc. shall be available as
+     ITC as long as these inputs are used for the purpose of the business
+     and/or for effecting taxable supplies, including zero-rated supplies, and
+     the ITC for such inputs is not restricted under section 17(5). Further,
+      capital goods have been clearly defined in section 2(19) as goods whose value
+     has been capitalized in the books of account and which are used or intended
+      to be used in the course or furtherance of business. Hence, stores and
+     spares, the expenditure on which has been charged as a revenue expense
+      in the books of account, cannot be held to be capital goods39.
+7.   Refund of ITC under section 54(3) restricted to the extent of invoice
+      details are reflected in Form GSTR-2A
+      In terms of sub-rule (4) to rule 36 [discussed in detail in Chapter 7 – Input Tax
+      Credit in Module 2 of this Study Material], the refund of accumulated ITC is
+      also restricted to the ITC as per those invoices, the details of which are
+     uploaded by the supplier in Form GSTR-1 and are reflected in the Form GSTR-
+    2A of the applicant40.
+     However, this does not in any way impact the refund of ITC availed on the
+      invoices  / documents relating to imports, ISD invoices and the inward
+      supplies liable to Reverse Charge (RCM supplies) etc. ITC availed on imports,
+     ISD invoices, RCM etc. are not reflected in Form GSTR-2A of the applicant.
+      Therefore,  it  is clarified that refund of such ITC relating to imports, ISD
+
+
+39 Circular No. 79/53/2018 GST dated 31.12.2018
+40 Circular No.135/05/2020 GST dated 31.03.2020
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+1.44     15.44       GOODS AND SERVICES TAX
+
+      invoices and the inward supplies liable to Reverse Charge (RCM supplies) will
+     not be barred by not being reflected in Form GSTR 2A41.
+8.   Determination of refundable amount in case of refund of unutilised ITC
+    on account of (i) exports without payment of tax, (ii) supplies made to
+     SEZ Unit/SEZ Developer without payment of tax or (iii) accumulation due
+     to inverted tax structure
+      In case of refund of unutilized input tax credit (ITC) on account of (i) exports
+     without payment of tax, (ii) supplies made to SEZ Unit/SEZ Developer without
+     payment of tax or  (iii) accumulation due to inverted tax structure, the
+    common portal calculates the refundable amount as the least of the following
+     amounts:
+      a)   The maximum refund amount as per the above formula specified in rule
+           89(4) or rule 89(5) [formula is applied on the consolidated amount of
+            ITC, i.e. Central tax + State tax/Union Territory tax +Integrated tax];
+      b)   The balance in the electronic credit ledger of the applicant at the end
+           of the tax period for which the refund claim is being filed after the return
+             in Form GSTR-3B for the said period has been filed; and
+       c)   The balance in the electronic credit ledger of the applicant at the time
+           of filing the refund application.
+      After calculating the least of the above 3 amounts, as detailed above, the
+      equivalent amount is to be debited from the electronic credit ledger of the
+      applicant in the following order:
+      a)    Integrated tax, to the extent of balance available;
+      b)    Central tax and State tax/Union Territory tax, equally to the extent of
+          balance available and in the event of a shortfall in the balance available
+             in a particular electronic credit ledger (say, Central tax), the differential
+         amount is to be debited from the other electronic credit ledger (i.e.,
+           State tax/Union Territory tax, in this case)42.
+
+
+41 Circular No. 139/09/2020 GST dated 10.06.2020
+42 Master Circular on Refunds – Circular No. 125/44/2019 GST dated 18.11.2019
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+REFUNDS           15.45
+
+9.   Cases where refund of ITC is NOT allowed
+         (i)   Refund of unutilized ITC shall not be allowed if the goods exported out
+           of India are subjected to export duty [Second proviso to section 54(3)].
+         The term ‘subjected to export duty’ means where the goods are
+            actually leviable to export duty and suffering export duty at the time of
+            export.
+           Therefore, goods in respect of which either Nil rate is specified in
+         Second Schedule to the Customs Tariff Act, 1975 or which are fully
+         exempted from payment of export duty by virtue of any customs
+            notification or which are not covered under Second Schedule to the
+         Customs Tariff Act, 1975, cannot be subjected to any export duty
+          under Customs Tariff Act, 1975. Such goods would not be covered by
+           the restriction imposed under the second proviso to section 54(3) for
+           the purpose of availment of refund of accumulated ITC.
+           Accordingly, it is clarified that only those goods which are actually
+          subjected to export duty i.e., on which some export duty has to be
+          paid at the time of export, will be covered under said restriction.
+         (ii)   Refund of ITC shall not be allowed if the supplier of goods or services
+           or both avails of drawback in respect of CGST or claims refund of
+          the IGST paid on such supplies.
+           Thus, no refund of input tax credit shall be allowed in cases where the
+           supplier of goods or services or both avails of drawback in respect of
+           Central tax. It is clarified that if a supplier avails of drawback in respect
+           of  duties rebated under the Customs and  Central  Excise Duties
+         Drawback Rules, 2017, he shall be eligible for refund of unutilized input
+            tax credit of Central tax/ State tax/ Union Territory tax / Integrated tax/
+         Compensation cess. It is also clarified that refund of eligible credit on
+          account of State tax shall be available  if the supplier of goods or
+            services or both has availed of drawback in respect of Central tax43.
+
+
+43 Master Circular on Refunds – Circular No. 125/44/2019 GST dated 18.11.2019
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+1.46     15.46       GOODS AND SERVICES TAX
+
+                 F.  Minimum refund claim [Section 54(14)]
+No refund shall be paid to an applicant, if the amount is less than ` 1,000. The
+limit of ` 1,000 shall apply for each tax head separately and not cumulatively.
+Further, the limit would not apply in cases of refund of excess balance in the
+electronic cash ledger44.
+     G.   Refund in case of goods or services exported out of India
+As discussed in Chapter 14 – Import and Export under GST, exports of goods and
+services are zero rated. A registered person making zero rated supply may supply
+the goods and/or services under bond or Letter of Undertaking (LUT) without
+payment of IGST and claim refund of unutilized ITC.  Further, notified class of
+persons may make zero-rated supply or notified class of goods or services may be
+exported, on payment of IGST and refund of such tax paid on goods and/or services
+supplied may be claimed.  In the ensuing paras, refund under each of these two
+cases has been discussed in detail:
+(I)  Refund on account of export of goods or services [with payment of
+     tax] [Rule 96]
+      In case where notified class of persons export goods and/or services or
+      notified class of goods or services are exported, on payment of IGST and
+     refund of such tax paid on goods and/or services supplied is claimed,
+      provisions relating to refund of IGST are as follows:
+                                Export of goods
+      (1)  Application for refund claim: The shipping                                                      Shipping Bill is
+               bill/  bill of export filed by the exporter of    refund application
+         goods shall be deemed to be an application
+            for refund and the taxpayer  is not required to file separate refund
+           application in this case.
+            Further, such application shall be deemed to have
+         been filed only when:
+              (a)   the person  in charge  of  the conveyance
+                 carrying  the  export  goods  duly  files  a
+
+44 Circular No. 59/ 33/ 2018 GST dated 04.09.2018
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+REFUNDS           15.47
+
+               departure manifest45; or an export manifest or an export
+               report covering the number and the date of shipping bills/bills of
+                 export; and
+           (b)  the   applicant   has   furnished   a   valid   return   in
+             Form GSTR-3B.
+                      If there is any mismatch between the data furnished by the
+               exporter of goods in Shipping Bill and those furnished in
+             Form GSTR-1, such application for refund shall be deemed to
+              have been filed on such date when such mismatch in respect
+                of the said shipping bill is rectified by the exporter.
+             (c)   the applicant has undergone Aadhaar authentication in the
+             manner provided in rule 10B.
+         GST portal shares the details of the relevant
+           export invoices in respect of export of goods
+          contained in Form GSTR-1 with the system
+          designated by the Customs  viz. ICEGATE.
+         The said system shall electronically transmit
+           to the common portal, a confirmation that
+           the goods covered by the said invoices have
+         been exported out of India.
+      (2)  Processing of refund claim: Upon the receipt of the information
+           regarding the furnishing of a valid return in Form GSTR 3B from
+        common portal, ICEGATE system designated by the Customs/ proper
+             officer of Customs, shall process the claim of refund in respect of export
+           of goods.
+        An amount equal to the IGST paid in respect
+           of each shipping bill/ bill of export shall be
+            electronically credited to the bank account
+           of   the   applicant  mentioned   in   his
+            registration particulars and as intimated to the Customs authorities.
+
+45 Governed by Sea Cargo Manifest and Transhipment Regulations 2018 which has come into
+force on 01.08.2019 vide Notification No. 38/2018 Cus (NT) dated 11.05.2018 as amended by
+Notification No. 17/2019 Cus (NT) dated 27.02.2019.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+1.48     15.48       GOODS AND SERVICES TAX
+
+      (3)  Withholding of refund of IGST: The claim for refund shall be withheld
+         where [Rule 96(4)]:
+              (a)   a request has been received from the jurisdictional Commissioner
+                 of Central Tax, State Tax or Union Territory Tax to withhold the
+              payment  of  refund due  to  the person  claiming  refund  in
+               accordance with the provisions of section 54(10)/(11); or
+             (b)   the proper officer of Customs determines that the goods were
+               exported in violation of the provisions of the Customs Act, 1962.
+             (c)   the Commissioner in the Board or an officer authorised by the
+               Board, on the basis of data analysis and risk parameters, is of
+               the opinion that verification of credentials of the exporter,
+                including the availment of ITC by the exporter, is considered
+                 essential before grant of refund, in order to safeguard the
+                 interest of revenue.
+        Where refund is withheld in accordance with the provisions of
+          clause (a) or clause (c) above, such claim shall be transmitted to the
+          proper officer of Central tax, State tax or Union territory tax, as the
+          case may be, electronically through the common portal in a system
+          generated  Form  GST  RFD-01  and  the  intimation  of  such
+          transmission  shall also be sent to the exporter  electronically
+          through the common portal, and notwithstanding anything to the
+          contrary contained in any other rule, the said system generated
+         form shall be deemed to be the application for refund in such cases
+         and shall be deemed to have been filed on the date of such
+          transmission [Rule 96(5A)].
+        Where refund is withheld in accordance with the provisions of
+          clause (b) above and the proper officer of the Customs passes an
+          order that the goods have been exported in violation of the
+           provisions of the Customs Act, 1962, then, such claim shall be
+          transmitted to the proper officer of Central tax, State tax or Union
+            territory  tax, as the case may  be,  electronically through the
+        common portal in a system generated Form GST RFD-01 and the
+          intimation of such transmission shall also be sent to the exporter
+           electronically through the common portal, and notwithstanding
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+REFUNDS           15.49
+
+          anything to the contrary contained in any other rule, the said
+         system generated form shall be deemed to be the application for
+          refund in such cases and shall be deemed to have been filed on the
+          date of such transmission [Rule 96(5B)].
+         The  application  for  refund  in Form  GST RFD-01 transmitted
+           electronically through the common portal in terms of sub-rules (5A)
+         and (5B) shall be dealt in accordance with the provisions of rule 89.
+          [Rule 96(5C)]
+      (4)  Refund to the Government of Bhutan on the exports to Bhutan: The
+           Central Government may pay refund of the IGST to the Government of
+          Bhutan on the exports to Bhutan for such class of goods as may be
+            notified in this behalf. Where such refund is paid to the Government of
+           Bhutan, the exporter shall not be paid any refund of the integrated tax.
+      Clarification on whether the refund claims can be preferred in respect of
+      specified goods sent / taken out of India but not brought back
+     The activity of sending / taking specified goods out of India is not a zero-
+     rated supply.  That being the case, the sender of goods cannot prefer any
+     refund claim when the specified goods are sent / taken out of India46.
+      Further, the supply would be deemed to have taken place:
+         (i)   on the date of expiry of 6 months from the date of removal,  if the
+            specified goods are neither sold nor brought back within the said
+           period; or
+         (ii)   on the date of sale, in respect of such quantity of specified goods which
+          have been sold abroad within the specified period of 6 months47.
+        It is clarified accordingly that the sender can prefer refund claim even when
+     the specified goods were sent / taken out of India without execution of a
+    bond or LUT,  if he is otherwise eligible for refund as per the provisions
+     contained in section 54(3) read with rule 89(4), in respect of zero-rated supply
+      of goods after he has issued the tax invoice on the dates. It is further clarified
+
+46 Discussed in detail in Chapter 14 – Import and Export under GST in this Module of the Study
+Material.
+47 Discussed in detail in Chapter 9 – Tax Invoice, Credit and Debit Notes in Module 2 of this Study
+Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+1.50     15.50       GOODS AND SERVICES TAX
+
+      that refund claim cannot be preferred under rule 96 as supply is taking place
+      at a time after the goods have already been sent/taken out of India earlier48.
+     The above position has been explained by way of example below:
+              M/s. ABC sends 100 units of specified goods out of India. The
+                 activity of sending/ taking such specified goods out of India is not
+              a supply. No tax invoice is required to be issued in this case but the
+      specified goods shall be accompanied with a delivery challan issued in
+     accordance with the provisions contained in rule 55.
+         If 10 units of specified goods are sold abroad say after one month of sending/
+      taking out and another 50 units are sold say after two months of sending/
+      taking out, a tax invoice would be required to be issued for 10 units and 50
+      units, as the case may be, at the time of each of such sale in accordance with
+     the provisions contained in section 12 and section 31 read with rule 46.
+         If the remaining 40 units are not brought back within the stipulated period of
+       six months from the date of removal, a tax invoice would be required to be
+     issued for 40 units in accordance with the provisions contained in section 12
+     and section 31 read with rule 46.
+      Further, M/s ABC may claim refund of accumulated input tax credit in
+     accordance with the provisions contained in subsection (3) of section 54 read
+     with sub-rule (4) of rule 89 in respect of zero-rated supply of 60 units.
+                           Export of services
+    Refund application: Rule 96(9) provides that the application for refund of
+     IGST paid on the services exported out of India shall be filed in Form GST
+    RFD-01 and shall be dealt with in accordance with the provisions of rule 89
+      [as discussed earlier].
+
+     Person claiming refund of IGST paid on export of goods/ services should not
+      have:
+
+
+48 Circular No. 108/27/2019 GST dated 18.07.2019
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+REFUNDS           15.51
+
+         (i)    received supplies on which the benefit of deemed exports49, except so
+             far it relates to receipt of capital goods by such person against Export
+          Promotion Capital Goods (EPCG) Scheme, has been availed or benefit
+           of supply of goods to merchant exporters at the concessional rate of
+           0.1%50 has been availed, or
+         (ii)   availed the benefit of exemption from IGST and Compensation Cess, in
+           respect of goods imported by EOU51 or for goods imported under
+         Advance Authorisation (AA)52 except so far it relates to receipt of capital
+         goods by such person against EPCG Scheme.
+     For the purpose of this sub-rule, the benefit of the notifications mentioned
+     above shall not be considered to have been availed only where the registered
+     person has paid IGST and Compensation Cess on inputs and has availed
+     exemption of only Basic Customs Duty (BCD) under the said notifications.
+
+(II)  Refund of ITC paid on export of goods or services under bond or
+     Letter of Undertaking (LUT) [Rule 96A]
+      In case where goods/services are exported by a class of persons other than
+      notified class of persons or where goods/services other than notified class of
+     goods or services are exported, only option available with the exporter of
+     goods or services or both is to export under bond/LUT without payment
+     of IGST and claim refund of ITC.  The provisions relating to export of
+      goods/services without payment of IGST under bond/LUT [Rule 96A] have
+      already been discussed in detail in Chapter 14 – Import and Export under GST.
+      Further, as already discussed, in such cases, refund of unutilised ITC at the
+     end of any tax period, of amount determined under rule 89(4), shall be
+     granted to the applicant and the electronic credit ledger shall be debited by
+     the applicant by an amount equal to the refund so claimed [discussed earlier
+      in detail].
+
+49  under  Notification  No.  48/2017  CT  dated  18.10.2017  [discussed  in   detail  in
+Chapter 14 – Import and Export under GST in this Module of the Study Material.]
+50 Notification Nos. 41/2017 IT(R) or 40/2017 CT(R) both dated 23.10.2017. These export benefits
+have been explained in detail in Chapter 14 – Import and Export under GST in this Module of the
+Study Material.
+51 under Notification No. 78/2017 Cus dated 13.10.2017
+52 under Notification No. 79/2017 Cus dated 13.10.2017.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+1.52     15.52       GOODS AND SERVICES TAX
+
+(III) Recovery of refund of unutilized input tax credit or integrated tax
+     paid on export of GOODS where export proceeds are not realized
+     within stipulated time [Proviso to section 16(3) read with rule 96B]
+    As per proviso to section 16(3), the registered person making zero rated
+     supply of goods, without payment of tax shall, in case of non-realisation
+     of sale proceeds, be liable to deposit the refund so received under
+     section 16(3) along with the applicable interest under section 50 within
+    30 days after the expiry of the time limit prescribed under the Foreign
+     Exchange Management Act, 1999 (hereinafter referred to as FEMA) for
+      receipt of foreign exchange remittances, in such manner as may be
+     prescribed.
+     Rule 96B prescribes the manner in relation to this.  It provides that proceeds
+      of export of goods must be realised within the period allowed under FEMA.
+      In case of non-realisation/ partial realisation of such proceeds, any refund
+     paid would be subject to be recovered from the taxpayer with interest, except
+      in those cases wherein RBI writes off the requirement of such realization on
+      merits.
+      In case any refund is recovered on account of non-realisation of proceeds
+     and the realization was made later on within the extended period permitted
+     by the RBI, the proper officer (PO) shall refund the amount so recovered to
+     the taxpayer.
+     The detailed provisions of said rule are elaborated as follows:
+    Where any refund of unutilised input tax credit on account of export of goods
+     or of integrated tax paid on export of goods has been paid to an applicant
+     but the sale proceeds in respect of such export goods have not been realised,
+      in full or in part, in India within the period allowed under the FEMA, including
+     any extension of such period, the person to whom the refund has been made
+      shall deposit the amount so refunded, to the extent of non-realisation of sale
+     proceeds.
+     The amount so refunded, to the extent of non-realisation of sale proceeds have
+      to be deposited along with applicable interest within 30 days of the expiry of the
+      said period or, as the case may be, the extended period. In case of failure to do
+      so, the amount refunded shall be recovered in accordance with the provisions of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+REFUNDS           15.53
+
+      sections 73 or 74, as the case may be, as is applicable for recovery of erroneous
+      refund, along with interest under section 50.
+     However, where sale proceeds, or any part thereof, in respect of such export
+     goods are not realised by the applicant within the period allowed under the
+     FEMA, but the RBI writes off the requirement of realisation of sale proceeds
+    on merits, the refund paid to the applicant shall not be recovered.
+    Where the sale proceeds are realised by the applicant, in full or part, after the
+    amount of refund has been recovered from him and the applicant produces
+     evidence about such realisation within a period of 3 months from the date of
+      realisation of sale proceeds, the amount so recovered shall be refunded by
+     the proper  officer, to the applicant to the extent of realisation of sale
+     proceeds, provided the  sale proceeds have been  realised  within such
+     extended period as permitted by RBI.
+
+    4. REFUND OF TAX WRONGLY COLLECTED AND
+      PAID [SECTION 77 READ WITH RULE 89(1A)]
+Section 77 of the CGST Act, 2017 contains the provisions regarding tax wrongfully
+collected and paid to Central Government or State Government.  It provides that a
+registered person who has paid the Central tax and State tax or, as the case may be, the
+Central tax and the Union territory tax on a transaction considered by him to be an
+intra-State supply, but which is subsequently held to be an inter-State supply, shall be
+refunded the amount of taxes so paid in such manner and subject to such
+conditions as may be prescribed.
+A registered person who has paid integrated tax on a transaction considered by him
+to be an inter-State supply, but which is subsequently held to be an intra-State supply,
+shall not be required to pay any interest on the amount of central tax and State tax or,
+as the case may be, the Central tax and the Union territory tax payable.
+Similar provisions are contained in section 19 of the IGST Act, 2017. It provides that
+a registered person who has paid integrated tax on a supply considered by him to be
+an inter-State supply, but which is subsequently held to be an intra-State supply, shall
+be granted refund of the amount of integrated tax so paid in such manner and
+subject to such conditions as may be prescribed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 54 ======================
+
+
+1.54     15.54       GOODS AND SERVICES TAX
+
+A registered person who has paid central tax and State tax or Union territory tax,
+as the case may be, on a transaction considered by him to be an intra-State supply,
+but which is subsequently held to be an inter-State supply, shall not be required to
+pay any interest on the amount of integrated tax payable. The provisions of
+section 77 of the CGST Act and section 19 of the IGST Act have also been discussed
+in Chapter 19 – Demands and Recovery in this Module of the Study Material.
+Time Limit for filing refund claim
+As per rule 89(1A), any person claiming refund of any tax paid under aforesaid
+provisions may file an application in prescribed form, before the expiry of a
+period of 2 years from the date of payment of tax under correct head on said
+supply.
+Thus, said refund can be claimed before the expiry of 2 years from the date of
+payment of tax under the correct head, i.e. IGST paid afterwards in respect of
+subsequently held inter-State supply, or CGST and SGST paid afterwards in
+respect of subsequently held intra-State supply, as the case may be. Refund
+would not be available where the taxpayer has made tax adjustment through
+issuance of credit note under section 34 in respect of the said transaction53.
+
+    5. REFUND TO UN BODIES, EMBASSIES, ETC.
+      [SECTION 55 READ WITH SECTION 54(2) OF
+      CGST ACT]
+Supplies made to UN bodies and embassies may be exempted from payment of
+GST  as  per  international  obligations.  However,  this  exemption  has  been
+operationalized by way of a refund mechanism.  So, a taxable person making
+supplies to such bodies would charge the tax due and remit the same to
+Government account.
+However, the UN bodies and other entities notified under section 55 can claim
+refund of the taxes paid by them on their inward supplies. The claim has to be made
+before the expiry of two years from the last day of the quarter in which such supply
+was received. Detailed provisions have been discussed hereunder:
+
+
+53 Circular No. 162/18/2021 GST dated 25.09.2021
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 55 ======================
+
+
+REFUNDS           15.55
+
+A.  Who is entitled to refund under section 55?
+     Government  may, on  the recommendations  of  the
+      Council, by notification, specify:
+         (i)   any  specialised agency  of  the  United  Nations
+           Organisation; or
+         (ii)   any Multilateral Financial Institution and Organisation notified under
+           the United Nations (Privileges and Immunities) Act, 1947; or
+         (iii)  Consulate or Embassy of foreign countries; and
+        (iv)  any other person or class of persons as may be specified in this behalf,
+    who shall, subject to such conditions and restrictions as may be prescribed,
+     be entitled to claim a refund of taxes paid on the notified inward supplies of
+     goods or services or both received by them.
+      In exercise of above power, following persons have been notified, subject to
+      fulfilment of specified conditions:
+         (i)   United   Nations   or   a    specified    international
+           organization**; and
+         (ii)   Foreign diplomatic mission or consular post in India, or
+           diplomatic agents or career consular officers posted therein54.
+     **Specified   international   organisation   means   an
+      international organisation declared by the Central Government
+      in pursuance of section 3 of the United Nations (Privileges and
+     Immunities Act) 1947, to which the provisions of the Schedule
+      to the said Act apply.
+      Further, in exercise of said power, Canteen Stores Department
+      (CSD), under the Ministry of Defence, has been notified as a
+     person who shall be entitled to claim a refund of 50% of the
+      applicable CGST/IGST paid by  it on  all inward supplies of
+     goods received by it for the purposes of subsequent supply of
+
+
+54 Notification No. 16/2017 CT (R) dated 28.06.2017/ Notification No. 13/2017 IT (R) dated
+28.06.2017
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 56 ======================
+
+
+1.56     15.56       GOODS AND SERVICES TAX
+
+     such goods to the Unit Run Canteens of the CSD or to the authorized
+     customers of the CSD55.
+B.   Time Limit for filing refund claim [Section 54(2) read with rule 95(1)]
+     Persons eligible to claim refund under section 55 [as mentioned in point A.
+      above], entitled to refund of tax paid by it on inward supplies of goods or
+      services or both, may make an application for such refund, in such form and
+     manner as may be prescribed, once in every quarter, but before the expiry of
+     2 years from the last day of the quarter in which such supply was received.
+C.   Form and documents for filing the refund claim [Rule 95(1)]
+     Persons eligible to claim refund under section 55 shall submit the application
+      for refund:
+       in a prescribed form56, once in every quarter
+      along with a Statement of the Inward Supplies of goods or services
+          or both in Form GSTR-11 [discussed in detail in Chapter 13- Returns in
+          Module 2 of this Study Material].
+D.  Acknowledgment for refund claim [Rule 95(2)]
+    An acknowledgement for receipt of the application for refund shall be issued
+      in a prescribed form.
+E.   Conditions to be satisfied for sanction of refund [Rule 95(3) & (4)]
+     Refund of tax paid by the applicant shall be available  if all the following
+     conditions are satisfied-
+       (a)   the inward supplies of goods or services or both were received from a
+           registered person against a tax invoice.
+      (b)  name and GSTIN/UIN of the applicant is mentioned in the tax invoice**.
+       (c)   such other  restrictions or conditions as may be specified  in the
+            notification are satisfied.
+
+
+55 Notification No. 6/2017 CT (R) dated 28.06.2017/ Notification No. 6/2017 IT (R) dated
+28.06.2017
+56 electronically or otherwise on the common portal
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 57 ======================
+
+
+REFUNDS           15.57
+
+     **However, where UIN of the applicant is not mentioned in a tax invoice,
+     the refund of tax paid by the applicant on such invoice shall still be
+     available  if the copy of the invoice, duly attested by the authorised
+     representative of the applicant,  is submitted along with the refund
+     application in prescribed form. In other words, if UIN is not mentioned
+      in the tax invoice, then refund shall be available to the applicant on
+     submission of the attested copy of such invoice in the prescribed form.
+     The provisions of rule 92, as discussed earlier in this chapter shall, mutatis
+     mutandis, apply for the sanction and payment of refund under this rule.
+F.   Supremacy provision in case of inconsistency [Rule 95(5)]
+    Where an express provision in a treaty or other international agreement, to
+     which the President or the Government of India is a party, is inconsistent with
+     the provisions of these rules, such treaty or international agreement shall
+      prevail.
+G.   Specialized agencies notified under section 55 entitled to refund of
+    IGST paid on import of goods
+     As seen above, section 55 provides refund of taxes paid on the notified
+      supplies of goods and/or services by notified specialized agencies like United
+     Nations or a specified international organisation. Section 3(7) of the Customs
+       Tariff Act, 1975 provides for a parity between the integrated tax rate attracted
+    on imported goods and the integrated tax applicable on the domestic
+      supplies of goods. Therefore, on this principle of parity, specialised agencies
+     ought to get the refund of the IGST paid on imported goods.
+
+    6. INTEREST ON DELAYED REFUNDS [SECTION
+      56 OF THE CGST ACT]
+A.   Interest on amount refundable consequent to order passed by Proper
+     Officer under section 54(5)
+      Where any tax ordered to be refunded under section
+           54(5) to any applicant is not refunded within 60 days
+          from the date of receipt of application under section
+            54(1), interest shall be payable to the applicant.
+       Interest is payable on such refund @ 6% p.a.*.
+       Interest is payable to the applicant for the period of delay beyond
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 58 ======================
+
+
+1.58     15.58       GOODS AND SERVICES TAX
+
+         60 days from the date of receipt of such application till the date of
+          refund of such tax, to be computed in such manner and subject to
+          such conditions and restrictions as may be prescribed [Section 56].
+      *as notified vide Notification No. 13/2017 CT dated 28.06.2017
+B.   Interest on amount refundable consequent to order passed in an
+     appeal or further proceedings
+      Where any claim  of refund  arises from an order passed by an
+           Adjudicating Authority or Appellate Authority or Appellate Tribunal or
+          Court which has attained finality and the same is not refunded within
+         60 days from the date of receipt of application filed consequent to
+          such order, interest shall be payable on such refund.
+       Interest is payable on such refund @ 9% p.a.*.
+       Interest is payable from the date immediately after the expiry of 60 days
+          from the date of receipt of application till the date of refund. [Proviso
+           to Section 56].
+      *as notified vide Notification No. 13/2017 CT dated 28.06.2017
+     For the purpose of this section, the order of refund made by an Appellate
+      Authority, Appellate Tribunal or any court against an order of the proper
+      officer under section 54(5), shall also be deemed to be an order passed under
+     the said section 54(5) [Explanation to section 56].
+C.   Order sanctioning interest on delayed refunds [Rule 94]
+      Where any interest is due and payable to the applicant under section
+            56, the proper officer shall make an order along
+           with a payment order in prescribed form.
+      Such order shall specify therein:
+          the amount of refund which is delayed,
+          the period of delay for which interest is
+               payable and
+          the amount of interest payable.
+      Such interest shall be electronically credited to any of the bank accounts
+           of the applicant mentioned  in  his  registration  particulars and as
+            specified in the application for refund.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 59 ======================
+
+
+REFUNDS           15.59
+
+    7. CONSUMER WELFARE FUND [SECTIONS 57 &
+      58 OF THE CGST ACT]
+Consumer Welfare Fund was created to promote and protect the welfare of
+consumer, create consumer awareness and strengthen consumer movement in the
+country, particularly in rural areas. Amount of refund which is not payable to the
+applicant is credited to the Consumer Welfare Fund.
+As already discussed in this chapter, amount of refund is paid to the applicant in
+case where there is no unjust enrichment; i.e. the incidence of tax has not been
+passed by the supplier to the recipient as also in the circumstances where the
+principle of unjust enrichment  is not applicable  [specified  in section  54(8)].
+Otherwise, the said amount is credited to the Consumer Welfare Fund.
+A.  Amount to be credited to Consumer Welfare Fund
+      Section 57 stipulates that the Government shall constitute a
+     Fund, to be called the Consumer Welfare Fund and there
+       shall be credited to the Fund:
+       (a)  Amount of refund determined by an order passed under section 54(5),
+      (b)   any income from investment of the amount credited to the Fund; and
+       (c)   such other monies received by it,
+      in such manner as may be prescribed. Such manner has been prescribed
+     under rule 97.
+B.  Amounts to be credited to/paid from Consumer Welfare Fund
+     [Rule 97]
+       All amounts of duty/ CGST/ SGST/ IGST/ UTGST/ cess and income from
+          investment along with other monies specified in section 12C(2) of the
+            erstwhile Central Excise Act, 1944, section 57 of the CGST Act, 2017 read
+           with section 20 of the IGST Act, 2017, section 21 of the UTGST Act, 2017
+         and section 12 of the GST (Compensation to States) Act, 2017 shall be
+           credited to the Fund [discussed earlier in this chapter] [Rule 97(1)].
+      An amount equivalent to 50% of the amount of IGST determined under
+           section 54(5) of the CGST Act, read with section 20 of the IGST Act, shall
+         be deposited in the Fund [Proviso to rule 97(1)].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 60 ======================
+
+
+1.60     15.60       GOODS AND SERVICES TAX
+
+      An amount equivalent to 50% of the amount of compensation cess
+          determined under section 54(5) of the CGST Act, read with section 11
+           of the GST (Compensation to States) Act, shall be deposited in the Fund.
+          [Second Proviso to rule 97(1)]
+      Any amount, having been credited to the Consumer Welfare Fund,
+          ordered or directed as payable to any claimant by orders of the proper
+             officer, Appellate Authority or Appellate Tribunal or Court, shall be paid
+          from the Fund [Rule 97(2)].
+C.   Utilisation of Consumer Welfare Fund [Section 58 read with rule 97]
+       All sums credited to the Consumer Welfare
+         Fund shall be utilized by the Government for
+           the welfare of the consumers in such manner
+           as may be prescribed [Section 58(1)].
+      The Government shall, by an order, constitute a Standing Committee
+        who shall make recommendations for proper utilisation of the money
+           credited to the Consumer Welfare Fund for welfare of the consumers
+           [Rule 97(4)].
+
+    8. REFUND OF INTEGRATED TAX PAID ON
+      SUPPLY OF GOODS TO TOURIST LEAVING
+      INDIA [SECTION 15 OF THE IGST ACT]
+   The integrated tax paid by tourist leaving India on any supply of goods taken
+     out of India by him shall be refunded in such manner and subject to such
+     conditions and safeguards as may be prescribed.
+   The term “tourist” means a person not normally resident in India, who enters
+      India for a stay of not more than 6 months for legitimate non-immigrant
+     purposes.
+   As of now the manner, procedure and form has not been prescribed for the
+     refund made to the international tourist.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 61 ======================
+
+
+REFUNDS           15.61
+
+                   Manual filing and processing
+ Notwithstanding anything contained in this Chapter, in respect of any process
+ or procedure prescribed  herein, any  reference  to  electronic  filing  of an
+ application, intimation, reply, declaration, statement or electronic issuance of a
+  notice, order or certificate on the common portal shall, in respect of that process
+ or procedure, include manual filing of the said application, intimation, reply,
+ declaration, statement or issuance of the said notice, order or certificate in such
+ Forms as appended to these rules [Rule 97A].
+Clarification in respect of certain challenges faced by the registered persons in
+implementation of provisions of GST Laws
+
+   S.                Issue                            Clarification
+ No.
+  1.   An advance  is received by a  In case GST is paid by the supplier on
+        supplier for a service contract  advances received for a future event
+       which    subsequently    got  which got cancelled subsequently and
+        cancelled.  The  supplier  has  for  which  invoice  is  issued  before
+        issued   the   invoice   before  supply  of  service,  the  supplier   is
+       supply of service and paid the  required to  issue a  “credit note”  in
+      GST thereon.                  terms of section 34. He shall declare the
+                                             details of such credit notes in the return       Whether he can claim refund of
+        tax paid or  is he required to  for the month during which such credit
+        adjust  his  tax  liability  in  his  note has been issued. The tax liability
+        returns?                            shall be adjusted in the return subject
+                                        to conditions of section 34. There is no
+                                  need to file a separate refund claim.
+                                    However, in cases where there  is no
+                                     output liability against which a credit
+                                     note  can  be  adjusted,  registered
+                                     persons may proceed to  file a claim
+                                    under “Excess payment of tax,  if any”
+                                    through Form GST RFD-01.
+  2.   An advance  is received by a  In case GST is paid by the supplier on
+        supplier for a Service contract  advances received for an event which
+       which      got      cancelled  got  cancelled  subsequently and  for
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 62 ======================
+
+
+1.62     15.62       GOODS AND SERVICES TAX
+
+        subsequently. The supplier has  which no invoice has been issued in
+        issued receipt voucher and paid  terms of section 31(2), he is required to
+       the  GST  on  such  advance  issue a “refund voucher” in terms of
+        received. Whether he can claim  section 31(3)(e) read with rule 51.
+       refund of tax paid on advance  The taxpayer can apply for refund of
+        or he is required to adjust his  GST paid on such advances by filing
+        tax liability in his returns?      Form GST RFD-01 under the category
+                                     “Refund of excess payment of tax”.
+  3.    Goods supplied by a supplier  In  such  a  case  where  the  goods
+       under cover of a tax invoice are  supplied by a supplier are returned by
+       returned  by   the   recipient.  the recipient and where tax invoice had
+       Whether he can claim refund of  been issued, the supplier is required to
+        tax paid or  is he required to  issue a “credit note” in terms of section
+        adjust  his  tax  liability  in  his  34. He shall declare the details of such
+        returns?                           credit notes in the return for the month
+                                      during which such credit note has been
+                                           issued.  The  tax   liability   shall  be
+                                       adjusted  in  the  return  subject  to
+                                        conditions of section 34.
+                                     There  is no need to  file a separate
+                                      refund claim in such a case.
+                                    However, in cases where there  is no
+                                     output liability against which a credit
+                                     note  can  be  adjusted,  registered
+                                     persons may proceed to  file a claim
+                                    under “Excess payment of tax,  if any”
+                                    through Form GST RFD-01.
+[Circular No. 137/07/2020 GST dated 13.04.2020]
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 63 ======================
+
+
+REFUNDS           15.63
+
+       TEST YOUR KNOWLEDGE
+
+1.     Is there any time limit for sanctioning of refund under section 54?
+2.    Discuss the provisions relating to refund of the amount of advance tax
+      deposited by a casual taxable person under section 27(2).
+3.    In case of refund under exports of goods, whether BRC/FIRC is necessary for
+     granting refund?
+4.   When is a deficiency memo issued in respect of a refund claim made under
+      section 54?
+5.    State the exceptions to the principle of unjust enrichment as applicable to
+     refund claims.
+6.    Kailash Global (P) Ltd. supplies various goods in domestic and international
+     markets.   It is engaged in both manufacturing and trading of goods.  The
+    company is registered under GST in the State of Karnataka. The company
+      exports goods without payment of tax under letter of undertaking in accordance
+     with the provisions of section 16(3) of the IGST Act, 2017.
+     The company has made the following supplies during a tax period:
+
+          S.                       Particulars                             (`)
+      No.
+             (i)    Export of product ‘A’ to UK for $ 10,000. Assessable     7,00,000
+              value under customs in Indian rupees.
+               [Export duty is payable on product ‘A’ at the time of
+               exports.   Further, value of like goods domestically
+              supplied  by  the   similarly  placed   supplier   is
+        ` 6,00,000]
+             (ii)   Domestic supplies of taxable product  ‘B’* during the    10,00,000
+               period [excluding tax @ 5%]
+                [Inputs used in manufacturing of such goods are taxable
+           @18%]
+               *not notified as a product, in respect of which refund of
+                unutilised ITC shall not be allowed under section 54(3)(ii)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 64 ======================
+
+
+1.64     15.64       GOODS AND SERVICES TAX
+
+             (iii)   Supply of goods to Export Oriented Unit [excluding tax     5,00,000
+       @ 18%]
+               [ITC has been claimed by the recipient]
+           (iv)   Export of exempt supplies of goods (Value of  like     6,00,000
+             goods domestically supplied by the similarly placed
+               supplier is ` 5,00,000)
+     The ITC available for the above tax period is as follows:
+
+       S.No.  Particulars                                                      (`)
+           (i)    On inputs                                             3,50,000
+           (ii)   On input service                                       1,50,000
+           (iii)   On capital goods                                      1,20,000
+
+     Determine the maximum amount of refund admissible to Kailash Global (P)
+       Ltd. for the given tax period.
+7.    Super Engineering Works, a registered supplier in Haryana,  is engaged in
+     supply of taxable goods within the State. Given below are the details of the
+      turnover and applicable GST rates of the final products manufactured by Super
+     Engineering Works as also the input tax credit (ITC) availed on inputs used in
+     manufacture of each of the final products and GST rates applicable on the
+     same, during a tax period:
+
+      Products   Turnover*   Output GST   ITC availed (`)   Input GST
+                         (`)         Rates                        Rates
+        A        500,000       5%        54,000 (Goods)     18%
+         B        350,000       5%        54,000 (Goods)     18%
+        C        100,000       18%       10,000 (Service)     18%
+
+      *excluding GST
+     Determine the maximum amount of refund of the unutilized input tax credit
+      that Super Engineering Works  is  eligible to claim under section  54(3)(ii)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 65 ======================
+
+
+REFUNDS           15.65
+
+     provided that Product B is notified as a product, in respect of which no refund
+      of unutilised input tax credit shall be allowed under said section.
+8.   With reference to section 54(3), mention the cases where refund of unutilised
+      input tax credit is allowed.
+9.    State few cases where refundable amount shall be paid to the applicant, instead
+      of being credited to Consumer Welfare Fund under CGST Act, 2017.
+
+      ANSWERS/HINTS
+
+1.    Yes, refund has to be sanctioned within 60 days from the date of receipt of
+      application complete in all respects. If refund is not sanctioned within the said
+     period of 60 days, interest @ 6% p.a. will have to be paid in accordance with
+      section 56.
+     However, in case where provisional refund to the extent of 90% of the amount
+     claimed  is refundable in respect of zero-rated supplies made by certain
+      categories of registered persons in terms of sub-section (6) of section 54, the
+      provisional refund has  to be given  within 7 days from  the date  of
+     acknowledgement of the claim of refund.
+2.   The amount of advance tax deposited by a casual taxable under section 27(2),
+      shall be refunded only when such person has, in respect of the entire period
+      for which the certificate of registration granted to him had remained in force,
+     furnished all the returns required under section 39 [Section 54(13)]. Further,
+     refund of any amount, after adjusting the tax payable by the applicant out of
+     the advance tax deposited by him under section 27 at the time of registration,
+      shall be claimed in the last return required to be furnished by him [Fourth
+     proviso to rule 89(1)].
+3.    In case of refund on account of export of goods, the refund rules do not
+      prescribe BRC/FIRC as a necessary document for  filing of refund claim.
+     However,  for export of  services  details of BRC/FIRC  is required to be
+     submitted along with the application for refund.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 66 ======================
+
+
+1.66     15.66       GOODS AND SERVICES TAX
+
+     However, in case of non-realization of consideration in terms of FEMA, the
+     exporter shall deposit the amount so refunded to the extent of non realization
+      of sale proceed along with interest within 30 days [Rule 96B].
+4.   Rule 90(3) provides for communication in prescribed form (deficiency memo)
+     where deficiencies are noticed. The said sub-rule also provides that once the
+      deficiency memo has been issued, the claimant is required to file a fresh
+     refund application after the rectification of the deficiencies.
+      Further the time period, from the date of filing of the refund claim in FORM
+    GST RFD-01 till the date of communication of the deficiencies by the proper
+       officer, shall be excluded from the period of two years as specified under
+     Section 54(1), in respect of any such fresh refund claim filed by the applicant
+      after rectification of the deficiencies.
+5.   The principle of unjust enrichment is applicable in all cases of refund except
+      in the following cases:-
+       (a)   Refund of tax paid on export of goods or services or both or on inputs
+           or input services used in making such exports.
+      (b)   Unutilized input tax credit in respect of  (i) zero rated supplies made
+           without payment of tax or,  (ii) where the credit has accumulated on
+          account of rate of tax on inputs being higher than the rate of tax on
+          output supplies.
+       (c)   refund of tax paid on a supply which is not provided, either wholly or
+             partially, and for which invoice has not been issued.
+      (d)   refund of tax in pursuance of section 77 of CGST/SGST Act  i.e. tax
+           wrongfully  collected and  paid  to  Central Government  or  State
+          Government.
+       (e)     if the incidence of tax or interest paid has not been passed on to any
+           other person.
+        (f)   such other class of persons who has borne the incidence of tax as the
+         Government may notify.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 67 ======================
+
+
+REFUNDS           15.67
+
+6.   Computation of maximum amount of refund admissible to Kailash
+     Global (P) Ltd.
+
+                                                                                 (`)                               Particulars
+        Exports of product ‘A’ to UK [Note (i)]                                 Nil
+       Domestic supplies of taxable product ‘B’ during the period     90,000
+       [Note (ii)]
+       Supply of goods to Export Oriented Unit [Note (iii)]                  Nil
+        Export of exempt supplies [Note (iv)]
+                                                                    1,07,143
+       Total refund claim admissible                           1,97,143
+     Notes:
+         (i)    Export of goods is a zero-rated supply in terms of section 16(1)(a) of
+           the IGST Act, 2017.  Fu] rther, Kailash Global (P) Ltd. exports goods
+           without payment of tax under letter of undertaking in accordance with
+           the provisions of section 16(3) of the IGST Act, 2017.
+           Therefore, as per clause (i) of first proviso to section 54(3), a registered
+          person may claim refund, of any unutilised ITC in the case of zero rated
+           supply made without payment of tax at the end of any tax period.
+          However, second proviso to section 54(3) lays down that refund of
+            unutilized ITC is not allowed  if the goods exported out of India are
+           subjected to export duty.
+         (ii)   Refund of unutilised ITC is allowed in case of inverted duty structure,
+                 i.e. where the credit has accumulated on account of rate of tax on inputs
+          being higher than the rate of tax on output supplies (other than nil rated
+           or fully exempt supplies) except supplies of goods or services or both
+           as may be notified by the Government on the recommendations of the
+         GST Council [Clause (ii) of the first proviso to section 54(3)].
+          Rule 89(5) stipulates that in the case of refund on account of inverted
+          duty structure, refund of ITC is granted as per the following formula –
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 68 ======================
+
+
+1.68     15.68       GOODS AND SERVICES TAX
+
+                               Turnover of
+                                inverted rated
+                                supply of            Tax payable
+                            goods &            on such         Net ITC         Maximum                                  services × Net         inverted rated             Refund           =         ITC      -      supply of  x           Amount                                               goods &          ITC availed
+                              Adjusted Total             services        on inputs
+                                Turnover                           and input
+                                                                             services
+          where-
+          “Net ITC” means ITC availed on inputs during the relevant period other
+          than the ITC availed for which refund is claimed under sub-rules (4A) or
+            (4B) or both.
+           “Adjusted total turnover” means the sum total of the value of:
+              (a)   the turnover in a State/ Union territory, as defined under section
+                  2(112), excluding turnover of services; &
+             (b)   the turnover of zero-rated supply of services determined in terms
+                 of specified manner and non-zero-rated supply of services,
+           excluding:
+                  (i)    the value of exempt supplies other than zero-rated supplies; and
+                  (ii)   the turnover of supplies in respect of which refund is claimed
+               under sub-rule (4A) or sub-rule (4B) or both, if any,
+          during the relevant period.
+           “Relevant period” means the period for which the claim has been filed.
+          Tax payable on inverted rated supply of goods = ` 10,00,000 × 5% =
+          ` 50,000
+           Here, Net ITC = ` 3,50,000,
+          Adjusted Total Turnover = ` 28,00,000 [` 7,00,000 + ` 10,00,000 + `
+           5,00,000 + ` 6,00,000] and Turnover of inverted rated supply of goods
+        = ` 10,00,000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 69 ======================
+
+
+REFUNDS           15.69
+
+           Thus, maximum refund amount under  rule 89(5) = ` 3,50,000  x
+           10,00,000/ ` 28,00,000 – (` 50,000×{` 3,50,000/(` 3,50,000+` 1,50,000)}
+        = ` 90,000
+         (iii)  As per section 2(39), deemed exports means such supplies of goods as
+        may be notified under section 147.  Supplies to EOU  is notified as
+        deemed export under section 147 vide Notification No. 48/2017 CT
+          dated 18.10.2017.  In respect of supplies regarded as deemed exports,
+           the application of refund can be filed by the supplier of deemed export
+           supplies only in cases where the recipient does not avail of ITC on such
+           supplies and furnishes an undertaking to the effect that the supplier
+        may claim the refund [Third proviso to rule 89(1)].  Therefore, since in
+           the given case, the recipient is claiming ITC, Kailash Global (P) Ltd.
+            (supplier of deemed exports) cannot claim refund of ITC.
+        (iv)   Section 16(2) of the IGST Act, 2017 stipulates that subject to the
+           provisions of section 17(5) of the CGST Act, ITC may be availed for
+         making zero-rated supplies, notwithstanding that such supply may be
+         an exempt supply.  Section 54(3) of the CGST Act, 2017 allows refund
+           of ITC in the case of zero rated supply made without payment of tax.
+          Rule 89(4) stipulates that in the case of zero-rated supply of goods or
+            services or both without payment of tax under bond/LUT in accordance
+           with the provisions of section 16(3) of the IGST Act, 2017, refund of ITC
+             shall be granted as per the following formula:
+
+                                (Turnover of zero-rated supply of goods +                Refund                     =  Turnover of zero-rated supply of services)  × Net ITC              Amount
+                                       Adjusted Total Turnover
+          where-
+          “Net ITC” means ITC availed on inputs and input services during the
+           relevant period other than the ITC availed for which refund is claimed
+          under sub-rules (4A) or (4B) or both.
+           “Turnover of zero-rated supply of goods” means the value of zero-rated
+           supply of goods made during the relevant period without payment of
+            tax under bond/LUT, or the value which is 1.5 times the value of like
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 70 ======================
+
+
+1.70     15.70       GOODS AND SERVICES TAX
+
+         goods domestically supplied by the same or, similarly placed, supplier,
+           as declared by the supplier, whichever is less, other than the turnover
+           of supplies in respect of which refund is claimed under sub-rules (4A)
+           or (4B) or both.
+           “Adjusted total turnover” means the same as explained in point ii above.
+           Here, Turnover of zero rated supply of goods = ` 6,00,000 (Lower of
+          ` 6,00,000 or 1.5 times of ` 5,00,000 i.e. 7,50,000 whichever is lower),
+         Net ITC = ` 5,00,000 and Adjusted Total Turnover = ` 28,00,000 (as
+         computed in point ii above)
+           Thus, maximum refund amount under  rule 89(4) = ` 5,00,000 x
+          ` 6,00,000/ ` 28,00,000 = ` 1,07,143.
+7.    Section 54(3)(ii) allows refund of unutilized input tax credit (ITC) at the end of
+     any tax period to a registered person where the credit has accumulated on
+     account of inverted duty structure i.e. rate of tax on inputs being higher than
+     the rate of tax on output supplies (other than nil rated or fully exempt
+      supplies), except supplies of goods or services or both as may be notified by
+     the Government on the recommendations of the Council.
+      In the given case, the rates of tax on inputs used in Products A and B (18%
+     each) are higher than rates of tax on output supplies of Products A and B (5%
+      each). However, Product B is notified as a product, in respect of which no
+     refund of unutilised ITC shall be allowed under section 54(3)(ii). Further rate
+      of tax on input used in the product C is carrying same rate of tax on output
+      supplies hence  it is not the case of inverted duty structure. Therefore, no
+     refund on the Product C.
+      Therefore, only Product A is eligible for refund under section 54(3)(ii).
+      Further, rule 89(5) stipulates that in the case of refund on account of inverted
+     duty structure, refund of ITC shall be granted as per the following formula -
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 71 ======================
+
+
+REFUNDS           15.71
+
+                          Turnover of
+                           inverted rated
+                        supply of goods          tax payable on
+     Maximum        and services ×          such inverted       Net ITC
+       Refund            Net ITC             rated supply of        =              -         x      Amount                              goods and         ITC availed
+                         Adjusted Total              services         on inputs
+                           Turnover                            and input
+                                                                          services
+     where,-
+      A.   "Net ITC" means input tax credit availed on inputs during the relevant
+           period;
+      B.    Adjusted Total Turnover means the sum total of the value of-
+              (a)   the turnover in a State or a Union territory, as defined under
+                 section 2(112), excluding the turnover of services; and
+             (b)   the turnover of zero-rated supply of services determined  in
+                 specified  manner  and  non-zero-rated  supply  of  services,
+                excluding-
+                          (i)    the value of exempt supplies other than zero-rated supplies;
+                  and
+                           (ii)   the turnover of supplies  in respect of which refund  is
+                     claimed under rule 89(4A) or rule 89(4B) or both, if any,
+          during the relevant period.
+      C.    Relevant period means the period for which the claim has been filed.
+      In accordance with the aforesaid provisions, the maximum refund amount
+     which Super Engineering Works is eligible to claim shall be computed as
+      follows:
+     Tax payable on inverted rated supply of Product A = ` 5,00,000 × 5%
+    = ` 25,000
+     Net ITC = ` 108000 (` 54,000 + ` 54,000) [Net ITC availed during the relevant
+     period needs to be considered irrespective of whether the ITC pertains to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 72 ======================
+
+
+1.72     15.72       GOODS AND SERVICES TAX
+
+      inputs eligible for refund of inverted rated supply of goods or not - Circular
+     No. 79/53/2018-GST dated 31.12.2018]
+     Adjusted Total Turnover = ` 9,50,000 (` 5,00,000 + ` 3,50,000 + ` 1,00,000)
+     Turnover of inverted rated supply of Product A = ` 5,00,000
+    Maximum refund amount for Super Engineering Works is as follows:
+    = [(` 5,00,000 × ` 108000)/ ` 9,50,000] – (` 25,000 x 108,000/118,000)
+    = ` 33,961 (rounded off)
+8.   As per section 54(3), a registered person may claim refund of unutilised input
+      tax credit at the end of any tax period in the following cases:
+       (i)   Zero rated supplies made without payment of tax: Supply of goods
+           or services or both for authorised operations to an SEZ developer/unit
+           or export of goods or services or both qualifies as zero rated supplies.
+        (ii)  Accumulated ITC on account of inverted duty structure: Where the
+            credit has accumulated on account of rate of tax on inputs being higher
+          than the rate of tax on output supplies (other than nil rated or fully
+         exempt supplies), except supplies of goods or services or both as may
+         be notified by the Government on the recommendations of the Council.
+     However, refund of unutilized input tax credit shall not be allowed if:
+   ♦    the goods exported out of India are subjected to export duty;
+   ♦    the supplier of goods or services or both avails of drawback in respect
+           of CGST or claims refund of the IGST paid on such supplies.
+9.    Section 54(8) provides that the refundable amount shall be paid to the
+      applicant, instead of being credited to the Consumer Welfare Fund, if such
+    amount is relatable to —
+       (a)   refund of tax paid on export of goods and/or services or on inputs or
+           input services used in making such exports;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 73 ======================
+
+
+REFUNDS           15.73
+
+      (b)   refund of unutilized ITC in case of zero-rated supplies made without
+         payment of tax or accumulated ITC on account of inverted duty
+            structure;
+       (c)   refund of tax paid on a supply which is not provided, either wholly or
+             partially, and for which invoice has not been issued, or where a refund
+          voucher has been issued;
+      (d)   refund of tax paid on a transaction treating  it to be an intra-State
+           supply, but which is subsequently held to be an inter-State supply or
+            vice-versa;
+       (e)   the tax and interest, if any, or any other amount paid by the applicant,
+                  if he had not passed on the incidence of such tax and interest to any
+           other person; or
+        (f)   the tax or interest borne by notified class of applicants.
+
+
+© The Institute of Chartered Accountants of India

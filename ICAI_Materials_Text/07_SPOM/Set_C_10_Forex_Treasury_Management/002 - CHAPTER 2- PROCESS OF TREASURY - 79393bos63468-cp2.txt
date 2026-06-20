@@ -1,0 +1,1533 @@
+Source PDF: 07_SPOM/Set_C_10_Forex_Treasury_Management/002 - CHAPTER 2- PROCESS OF TREASURY - 79393bos63468-cp2.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_10_Forex_Treasury_Management\002 - CHAPTER 2- PROCESS OF TREASURY - 79393bos63468-cp2.pdf
+Extracted at: 2026-05-31T10:35:03+05:30
+Pages: 38
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          2
+         1
+PROCESS OF TREASURY
+
+
+                          LEARNING OUTCOMES
+After going through the chapter, students shall be able to understand:
+    Treasury Management — Systems and Techniques
+    Treasury Policy and Procedure Manual
+    Delegation with Accountability
+    Control and Reporting Requirements
+    Dealing and Trading Operations
+   An Insight into:
+   ♦     Float, Availability, Swaps
+   ♦    Account Analysis, Clearing Houses
+   ♦    Lockboxes, Disbursement
+   Benchmark Rates for Discounting Cash Flows
+    Liquidity and Cash Flow Management — CRR
+    Treasury Management Processes
+   Payment & Settlement Systems
+    Dealing Room Operations
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+2.2          FOREX AND TREASURY MANAGEMENT
+
+CHAPTER OVERVIEW
+
+
+                    Process of Treasury
+
+                 Treasury Management — Systems And Techniques
+
+                    Treasury Policy and Procedure Manual
+
+                            Delegation with Accountability
+
+
+     Open Position Limits            Deal Size                   Stop Loss
+
+                           Control and Reporting Requirements
+
+                            Dealing and Trading Operations
+
+                             An Insight Into:
+
+
+                                         Account    Clearing                  Disburs       Float        Availability    Swaps                         Lockboxes                                              Analysis   Houses                 ement
+
+                   Benchmark Rates for Discounting Cash Flows
+
+                              Liquidity and Cash Flow Management
+
+                                          Netting                                                    Gap Management         Internal Control
+
+                             Treasury Management Processes
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+PROCESS OF TREASURY             2.3
+
+
+                     Payment and Settlement Systems
+
+            Clearing Corporation of India Limited (CCIL)
+
+                  Continuous Linked Settlement (CLS)
+
+                      Real Time Gross Settlement (RTGS)
+
+                           National Electronic Fund Transfer (NEFT)
+
+                   Society for Worldwide Interbank Financial Telecommunication
+                                      (SWIFT)
+
+                                      Dealing Room Operations
+
+                                                         Open         Cash                                                               Mirror        Nostro           Vostro          Loro                       Currency       Position by                                                   A/Cs                                                                             Position        Dealers
+
+
+     1.  TREASURY  MANAGEMENT  —  SYSTEMS  AND
+       TECHNIQUES
+A treasury is either:
+“A government department related to finance and taxation”.
+Or
+A place where currency or precious items (Gold, Diamonds, etc.) is / are kept.
+The Siphnian Treasury in Delphi and several other similar structures constructed in Olympia, Greece
+by rival city-states to impress others during the ancient Olympic Games are examples of votive
+buildings constructed to house gifts to the gods. The term was first used in Classical times to refer
+to these types of buildings. Treasury buildings were almost always physically integrated into religious
+structures in Ancient Greece, rendering state funds inviolable and imposing moral obligations on
+those who might have access to them.
+Did you know that the title "treasurer" was first used by the Bank of Scotland in 1695?
+Did you know that that in early New England textile companies in the 19th century, the treasurer as
+the principal officer was more important than the company president?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+2.4          FOREX AND TREASURY MANAGEMENT
+
+Evidently, the corporate treasury function has evolved a lot since then!
+Historically, the key focus of treasurers was around collections, handling and usage of cash and
+hence was called ‘Cash Management’. Traditionally, the corporate treasurer was viewed primarily
+as the company's bill payer and cash flow manager. As cash management got increasingly complex
+and involved bank relationship management, global cash currencies, liabilities, forex investments,
+and hedging, it began to be increasingly called ‘Treasury Management’.
+Today, the corporate treasurer’s key objectives are around efficient cash management, low-cost
+funding, and effective risk management. The corporate treasurer is a key decision-maker and
+strategic partner to the business, and typically handles debt management, capital management and
+regulatory reporting. While the expectations, role and responsibilities are increasing by the day, is
+the new age corporate treasurer equipped to handle all these functions?
+Some of the challenges that corporate treasures are facing today revolve around a lack of global
+cash visibility, lack of accuracy of global cash forecasts, multiple risk dimensions and direct / indirect
+impact of regulatory compliance. Lack of a long term ‘treasury strategy’, limited technology adoption
+and the prevalence of manual processing / use of spreadsheets / outdated technologies, multiple
+banking relationships, diverse ERP (Enterprise Resource Planning) systems and organization
+structures / silos within an enterprise all contribute to the challenges a treasury faces.
+Modern banks are huge entities employing thousands of people in their workforce. However,
+amongst the various departments present at banks, the treasury department has the most important
+function to perform.
+1.1  Asset Liability Management
+The primary function of the treasury department of any bank is to ensure that its assets match its
+liabilities in every possible way. It is the job of the treasury department to prepare various financial
+models which help in forecasting the amount of net interest income that the bank stands to make if
+different economic scenarios play out. It is also the job of the treasury department to predict exactly
+how sensitive this non-interest income is to external shocks like changes in the interest rate.
+After compiling this vital data, the treasury department forwards it to decision-makers, who use it to
+determine what kind of assets to include on the banks' balance sheet. Bank employees are then
+required to meet loan targets that are further translated from these decisions. Additionally, the bank
+avoids using specific types of deposit liabilities in accordance with the information obtained from the
+Treasury. As a result, the Treasury Department has a significant impact on the bank's ability to
+accept deposits and approve loans.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+PROCESS OF TREASURY             2.5
+
+1.2  Capital and Reserve Requirements
+Since the treasury department oversees the bank's balance sheet, it is also in charge of allocating
+reserves to satisfy the Central Bank's reserve requirements. It is also necessary to meet the capital
+requirements outlined  in the Basel norms. Because the Central Bank imposes penalties  for
+noncompliance, there are negative effects. However, keeping excess reserves in reserve does not
+help the bank since it loses out on opportunities to earn interest on it.
+1.3  Liaising with Regulatory Bodies
+Bank treasury departments are subject to strict regulations. They are also expected to communicate
+with regulatory bodies on these matters as they are the ones responsible for maintaining the reserve
+and capital adequacy ratios. When decisions pertaining to the banking industry need to be made,
+the government typically extends invitations to Treasury Department executives.
+1.4  Liquid Investments in Government Securities
+Banks' treasury departments are also in charge of keeping a specific percentage of their holdings in
+extremely liquid government securities. This is carried out in nations such as the United States,
+where banks serve as intermediaries between the government and the public, holding these
+securities prior to their subsequent sale. Banks are mandated by law to keep a specific portion of
+their portfolio in liquid government securities in other nations, such as India. This makes the market
+for government securities extremely liquid while also adding safety to the bank's portfolio.
+1.5  Disaster Management
+Any bank's treasury department oversees its operations in case of an emergency. The treasury
+department must therefore foresee the risks that may eventually materialize to be ready for the
+same. The treasury department oversees hedging the bank's exposure to various risks by utilizing
+instruments like derivatives. Credit derivatives became widely available in the market in the late
+2000s, enabling banks to hedge even their most fundamental risk—the risk of counterparties'
+nonpayment. In addition, treasury departments are crucial for insurance coverage of all tangible
+assets, the loss of which could materially affect the bank's operations.
+1.6  Back Office Functions - Treasury departments also must perform a
+lot of normal back-office activities.
+They are expected to keep their branches informed about the amount of deposits received and the
+amount of loans that are available on a regular basis. To keep track of the amount of risk that the
+bank can accept in real time, they must also communicate with the Forex and proprietary trading
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+2.6          FOREX AND TREASURY MANAGEMENT
+
+departments. In addition, the treasury department oversees making sure that ATMs and branches
+alike have enough cash on hand to meet service standards.
+Banks' reputations suffer greatly when they run out of cash. The treasury department performs
+intricate calculations to guarantee that there is always enough cash on hand to prevent such a
+scenario.
+Thus, the center of the banking sector is the treasury department.
+The treasury department is, therefore, the heart of the banking industry.
+In the past, Treasury's only responsibility in the Indian banking system was to maintain the SLR
+(statutory liquidity ratio) and CRR (cash reserve ratio). However, since liberalization, the primary
+cause of Treasury transactions expanding from simple CRR/SLR keepers to profit centers has been
+the volatility of interest rates (yields). Treasury securities have begun to utilize spreads, arbitrage,
+relative values, and investment opportunities. One of the key features of contemporary treasuries is
+the proliferation of proprietary trading. The sources of profits of treasury are:
+♦     Investments
+♦    Spreads
+♦     Arbitrage
+♦     Relative Value would require additional information for understanding of students
+♦     Proprietary Trading
+In the cash or derivatives markets, Treasury may also be involved in investment banking, where
+their duties include trade execution on behalf of the bank's clients. Depending on the complexity and
+expertise needed to design and implement specialized structures in the market, these could yield
+respectable profit margins.
+Reserve  management,  liquidity  and  funds  management,  asset  liability  management,  risk
+management, transfer pricing, utilizing derivative products, utilizing arbitrage between domestic and
+foreign exchange markets, and attaining capital efficiency are among the tasks performed by an
+integrated treasury. Integration's main goals are to increase portfolio profitability, reduce risk, and
+maximize the use of banking assets.
+
+    2.  TREASURY POLICY AND PROCEDURE MANUAL
+People should behave rationally, especially when it comes to finance. They often do not. One of the
+effective ways to prevent this from happening in one’s investment portfolio is writing, implementing,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+PROCESS OF TREASURY             2.7
+
+and abiding by something known as an investment policy manual. In essence, it is a set of ground
+rules and guidelines as to how a specific pool of assets will be managed. It details the parameters
+under which a portfolio will be established, managed, tracked, and protected.
+A comprehensive Investment or Treasury policy manual ideally covers following areas:
+I.    Purpose
+     The Investment Policy document of an organization sets forth the policies and procedures to
+      guide the day- to-day administration of all investment activities.
+II.     Responsibility
+     The Board of Directors is responsible for the formulation and implementation of investment
+        policies. The Board may delegate its decision- making authority with respect to specific
+      investments to the President, for implementing investment policies consistent with its policy
+      document. The Board may also appoint an Investment Committee to act as liaison between
+       the Board and Management. The main functions of the Committee could be:
+    ♦    Working with the management on investment issues and problems.
+    ♦     Monitoring and reviewing investments in financial institutions.
+    ♦     Monitoring investment decisions for compliance with the Policy Document, and
+    ♦    Reviewing  the  Policy Document and recommend changes  to  the Board when
+              appropriate.
+III.    Investment Objective
+     The Investment policy document will enumerate the financial and investment objectives of
+       the organization in detail and the boundaries within which the investments can be made by
+       the treasurer.
+IV.    Portfolio Composition
+       In the light of the investment objective, the policy document should prescribe the portfolio
+      composition  e.g.,  the  portfolio should be comprised  of  securities  with  the  following
+       characteristics:
+    ♦    A low degree of default risk.
+    ♦    A low degree of interest risk resulting from changes in the level of interest rates.
+    ♦    A high degree of liquidity.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+2.8          FOREX AND TREASURY MANAGEMENT
+
+     The  policy document may  further  contain  guidelines  related  to  Authorized  types  of
+      Investments, Maturity of Investments (Short term or long term), Diversification requirements
+        etc.
+
+    3.   DELEGATION WITH ACCOUNTABILITY
+Dealers do a host of transactions in different currencies in the interbank market or for customers. In
+view of the large volumes, transactions offset one another leaving net open (uncovered) positions
+in various currencies. The Treasury Front Office maintains and manages all the forex positions of
+the bank.
+When the dealing room closes “shop” every day, the open position for each currency is arrived at. It
+is essential to ensure that this should be within the approved limits; otherwise, it should be justified
+and ratified in accordance with the delegation of powers.
+Dealers may or may not cover a customer’s deals immediately, depending upon the market situation,
+movements, and dealers’ views on the markets. If not covered, they add to the bank’s open position.
+Thus, the forex deal book of the bank is the portfolio of long and short forex positions in different
+currencies. These positions vary in amount and maturity. Spot deals mature in two working days (as
+of trade day) and forwards may mature any time up to six months or even a year.
+3.1  Open Positions Limits
+Daylight: Daylight open positions, as the name suggests, are exposures that are opened while
+trading day and will invariably be closed (squared) before the close of the day. Daylight exposures
+may last only for a few seconds, minutes or hours and arise when dealers try to take advantage of
+the volatility during a trading session, either in the domestic (USD/INR) market or Far East, European
+or US markets, if trading in the Crosses.
+Example:
+The bank may buy USD 1 Million and sell equivalent INR at 10 a.m. for Rs.48.75 and sell USD 1
+Million, buying INR, for Rs.48.80 at 11 a.m. for a profit of Re.0.05 / USD. The bank has an open
+position of USD 1 Million for one hour  till the transaction is squared and risks USD depreciation
+during this time.
+Overnight: Overnight positions are positions carried over from one trading day to the next. If the
+bank elects not to close positions at the close of trading, it has an overnight exposure. Over Night
+exposures are monitored on a real time basis. All Over Night open positions carry hundred percent
+risk weight.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+PROCESS OF TREASURY             2.9
+
+Asset Position Limit: Dealing exclusively with counterparties who are creditworthy is the most
+popular strategy for risk mitigation.  It's easier said than done to do this! The lender bears the
+responsibility of comprehending and assessing the risk. By first determining the risk categories and
+then dealing with the problems related to each  of these categories, one can arrive  at  this
+understanding. Risk exposure analysis is one of the strategies that could be used.
+A reliable framework of integrated institution-wide limitations and guidelines for taking risks is a
+crucial part of the risk management procedure. For every significant category of risk, global limits
+for different assets ought to be established. These limits ought to be in line with the Bank's overall
+strategy for measuring risk and ought to be completely integrated with institution-wide restrictions
+on those risks as they emerge in all other business operations. The ability to assign limits to specific
+business units should be included in the asset limits system. Traders can push the boundaries from
+time to time, particularly in volatile markets.
+When such an exception arises, senior management should be informed of the circumstances, and
+only authorized staff should be able to approve that.
+Intra-day Limit (IDL): This, so called “technical” limit is a very important parameter for real cash
+pooling. It allows the client to execute payment transactions on the connected account even if there
+is zero balance because of last night’s automatic transfer. The level of IDL is updated automatically
+every day based on the available balance on the master account.
+3.2  Deal Size
+Dealing Limits: Dealing limits can be created to facilitate monitoring and management of a dealer’s
+Value at Risk, Net Present Value and Asset and Liability Gap. These can be configured by the
+dealer, desk or for wider positions. More granular restrictions can also be applied, i.e., maximum
+deal size, by way of a configurable deal management rules engine.
+Individual Dealer’s Limit: A dealer's limits in progressive Treasury operations vary according to
+their hot and cold streaks. A smart Manager increases dealer’s limits when they are on a roll, and
+then reduces them when his profit run turns cold. The dealer of course is affected as a result, but
+this is the only way to keep the traders’ egos in cheque. It is a fluid thing and if not monitored daily
+with respect to profits and losses, revaluations, and listening to tape conversations, the traders’
+mental capacity and results becomes the trigger for Management to act accordingly.
+3.3  Stop Loss Limits
+Stop loss limits are the ones which are set to avoid losses exceeding tolerable levels. For example,
+a USD long position at INR 80 can be combined with stop loss limit of INR 75/USD to ensure that
+loss does not exceed INR 5/USD (long and short positions have been explained in fifth chapter). If
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+2.10         FOREX AND TREASURY MANAGEMENT
+
+the market price of USD starts falling and reaches below INR 75, then stop loss order gets executed
+and the position is closed by shorting USD at the prevailing market prices to avoid further decline in
+portfolio value.
+A stop loss serves as a safety measure if a trade or position starts to go south. Specifically, it is the
+amount that a portfolio’s single - period trading or mark-to-market loss should not exceed. These
+limits state that specified action (reduction in exposure or close-out position) must take place if the
+loss exceeds a threshold amount.
+Strict "stop loss limits" lower the maximum loss that could occur, which lowers the necessary capital.
+The art of setting ‘stop loss limit’ therefore lies in determining the right balance between risks,
+reward, and limits. Therefore, "stop loss limits" are adjusted more frequently than market risk policy
+guidelines. This is primarily because market risk volatility levels change daily. When market and
+price volatility is high, ‘stop loss limits’ are tightened. When market and price volatility is low, ‘stop
+loss limits’ can be relaxed.
+‘Stop loss orders’ are orders that come into play when a ‘stop loss limit’ is breached. They turn limit
+orders linked to a market price into market orders that can then be executed at the available market
+price if the stop loss threshold has been hit.
+
+    4.  CONTROL AND REPORTING REQUIREMENTS
+While the treasury policies and authority levels help to manage the treasury department in an overall
+context, certain controls and division of duties are necessary to ensure effective control over the
+company’s assets and the smooth running of the day-to-day operations within the department. The
+following controls ensure the efficient running of the department.
+4.1  Controls over dealing, deal recording and confirmations
+These controls guarantee that all dealing activities are accurately recorded and accounted for, and
+that the company gets the best price possible for its transactions.  It is necessary to ensure the
+following:
+•      Multiple quotes are obtained wherever feasible to ensure that the company gets the best
+       price. A record of the quotes obtained, along with execution  of the deals should be
+       maintained.
+•         It is the best practice to maintain a tape recording for all the telephonic deal confirmations.
+     The recordings should be preserved for a reasonable period as discussed in the manual
+        earlier. Recorded tapes provide a speedy resolution in case of disputes.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+PROCESS OF TREASURY            2.11
+
+•    When deals are separately recorded (for example, in a diary or on deal tickets) there should
+      be a cheque in place to ensure that  all the deals have been recorded in the Treasury
+     Management System (TMS).
+•     Deal  confirmations should be generated on a  separate system.  This ensures  that
+      confirmations are produced for all deals recorded in the treasury management system.
+•     Deal confirmations should be sent out immediately on the same day.
+•     Deal confirmation should not be undertaken by anyone connected with the front office.  If
+       electronic deal confirmation is used, the information should be posted on a secure website.
+       Counterparties can access this website and confirm all deals posted.
+The objective of these controls is to ensure that the dealer has no role in the recording of the
+transaction and procedures are designed to ensure that deals are accurately recorded in the system.
+Ideally there should be a separation of duties between the dealers and those responsible for
+recording the transactions, for checking counterparty confirmations and resolving discrepancies and
+for settling transactions.
+Where the treasury department  is too small to allow for such a division of duties, then the
+organization should consider using a separate department to handle some part of the workflow, such
+as checking counterparty confirmations and resolving discrepancies. Should the organization decide
+not to implement such a division of duties, it should be aware of the risks it is facing.
+It's also important to think about whether the dealer(s) should operate independently or through an
+organization, and whether the dealers' access to dealing and payment facilities should be limited.
+This prevents staff from attempting to deal on their own behalf.
+4.2  Procedures
+In addition to controls over dealing, there are several procedural controls that an organization should
+put in place. These controls ensure that the administration of the department is efficiently conducted.
+Important controls are:
+•    The access to the treasury department should be limited.
+•     There should be job descriptions detailing all individual’s responsibilities and authorities.
+•         It should be clear how holidays, promotions and resignations are catered for, to ensure that
+      any such events cause the minimum disruption.
+•     Insurance policies covering the treasury function should be in place. These should cover
+      losses from fraud and error by treasury staff.
+•     Procedures within the department such as cash management should be recorded, to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+2.12         FOREX AND TREASURY MANAGEMENT
+
+      ensure that absences, holidays, and resignations can be handled efficiently.
+4.3  Payment controls
+Most companies make treasury payments, such as interest and principal payments and settlement
+of derivative contracts, via an electronic banking system. Access to these machines needs to be
+strictly controlled.
+•     Payment requests should be written and appropriately authorized.
+•     Requests should be reviewed by the treasury team to ensure they are properly authorized.
+•      Different staff should be responsible for input, verification, and authorization of payments into
+       the electronic banking systems. Ensuring that no individual can make payments without
+       appropriate oversight and verification is crucial.
+•     Regular payments should be made using preformatted input screens.
+•     Pre-format input screens should be used for regular payments.
+•     Cashbooks should be maintained outside the treasury department.
+•      Reconciliation of bank accounts should be undertaken by a function outside the treasury.
+      Everyday bank reconciliations  for  all treasury accounts should be generated, and any
+       disparities should be investigated right away.
+•     Machines used for payment should be subject to restricted access. Ideally, they should be in
+      a separate room with access restricted to authorized individuals. Users should log out of
+      systems when they leave their desks.
+•    The person  in charge  of systems administration should be separate from those with
+       authorization and verification rights for input.
+•     Passwords and locking are required on all systems before they are left unattended.
+•     There should be set authority levels for payments. All large payments should require the
+       authority of senior functionaries within the organization.
+4.4  Reporting
+Debt management, banking facilities, company debt maturity profile reports, debt source analysis
+reports are required to be prepared on pre-determined intervals. These reports cover the principal
+treasury-related financial risks that the organization faces and the action the treasury team has taken
+to manage these risks. It is good practice if this report is prepared by the treasury middle office.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+PROCESS OF TREASURY            2.13
+
+     5.  DEALING AND TRADING OPERATIONS
+Ethics to be observed by dealers in respect of confidential information, gifts and pleasantries, new
+recruitment, compliance culture, conflict of interest, misspelling, poaching, and whistle blowing. The
+code of conduct formulated by Foreign Exchange Dealers' Association of India (FEDAI) * should be
+followed by the Banks.
+* Originally established in 1958 as a self-regulatory organization, FEDAI is an association of Indian
+banks that deal in foreign exchange and are commonly referred to as Authorized Dealers, or ADs. It
+was incorporated under Section 25 of the Companies Act of 1956 (Now, Section 8 of the Companies
+Act, 2013).
+5.1  Control and Orderly Conduct
+The Management should put in place appropriate controls and procedures in respect of their
+dealings in the markets covered by the handbook. It should be ensured that the staff members who
+deal in the market and other support staff follow the controls and procedures so laid down.
+The Management should periodically review the controls and procedures.
+The functional segregation of the front office, back office, and settlement functions is a fundamental
+principle of maintaining internal controls. Nonetheless, given the volume and complexity of the
+transactions, it could be wise to divide the dealing department's responsibilities as under:
+       Function                            Responsible For
+   Front Office          Dealing
+   Mid-Office           Risk Management, Accounting and Management information
+  Back Office           Confirmations, settlement, and reconciliation
+Since there may be an overlap of the mid-office and back-office functions over each other, the
+managements of individual institutions may resort to any other level of segregation that it thinks fit.
+Personnel in the back-office function and mid-office function should functionally be segregated from
+those in the front office. Persons who deal with trades must not be involved in the confirmation or
+settlement of trades.
+5.2  Moral and Ethical Codes
+To improve the standing of these markets, all principals, dealers, and brokers must uphold the
+highest standards of behavior.
+It is incumbent upon all participants to guarantee that any individual acting on behalf of the institution
+is operating within the authorized authority.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+2.14         FOREX AND TREASURY MANAGEMENT
+
+All organizations are required to uphold the promise made by a person speaking on their behalf; this
+is known as the "My Word is My Bond" principle.
+Institutions must make sure that the people working for them are properly trained and knowledgeable
+about all applicable laws, customs, practices, and markets.
+All individuals must comply with the rules and regulations governing the market and be up to-date
+with changes that may happen from time to time.
+Trades done outside the Negotiated Deal Settlement (NDS), between  institutions which are
+members of the NDS should be entered in the NDS within 15 minutes from the time of conclusion of
+the trade.
+Bringing the counterparties together for a fee is the broker's job. Brokers are not expected to function
+as principals or in a discretionary capacity, not even briefly, when they serve as intermediaries. Prior
+to negotiating the trade, the broking company should indicate that it is dealing as a principle when
+operating on its own account.
+It is expected of brokers and principals to keep the identities of the parties to the transactions private.
+Whether or not the counterparty is a member of Fixed Income Money Market and Derivatives
+Association of India (FIMMDA)*, market conventions established by the organization will govern the
+settlement of deals in Fixed Income, Money Market, and Rupee Derivatives.
+* It is an Association of Commercial Banks, Financial Institutions and Primary Dealers. FIMMDA is
+a voluntary market body for the bond, Money, and Derivatives Markets.
+5.3  Checks and Balances
+Before a transaction is carried out, dealers should make  it clear at the beginning itself that any
+qualifying conditions that the deal may be subject to must be very clear. Where a firm quote has
+been ‘indicated on NDS’, qualifying conditions cannot be specified after the conclusion of the deal.
+Dealers, whether acting as principals, agent, or broker, have a duty to make clear whether the prices
+they are quoting are firm or merely indicative. Broker quotes should be considered indicative unless
+specifically stated otherwise.
+Businesses should make sure they have a procedure in place that, at the very least,
+guarantees the following:
+•    The back office independently verifies deals that the trader records. So, every confirmation
+      should disclose the deal's date, counterparty name, and all other relevant details. Even  if
+     some of these details remain the same from deal to deal, it is still the best practice to double
+      cheque all settlement details.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+PROCESS OF TREASURY            2.15
+
+•         If the back office receives confirmation for which they do not have a matching trade, they
+      must reply right away. It is customary to confirm that no deal has been overlooked by first
+       contacting the front office. They should then notify the counterparty's back office as soon as
+       possible that there has been no trade.
+•    The management should be notified of any disparity between a confirmation and important
+       information about the trade, including its existence. The management should confirm to
+      themselves that the trade is accurate and sincere. It's critical that differences are resolved
+       quickly—ideally within a few minutes of the transaction.
+5.4  Signing Ethical Code Agreement
+The dealing room is a sensitive department with dealers having access to a lot of sensitive price
+information and trading strategies. The dealers are required to handle brokers, customers, and other
+counterparties very professionally. The dealers should avoid any conflict of interest and a high level
+of integrity and honesty should be demonstrated by them.
+The dealers are generally advised to sign and execute a Code of Conduct Agreement designed and
+prepared by a Self-Regulating Agency (SRA) like FEDAI, besides undertaking to abide by various
+guidelines and directions issued by the Bank.
+Foreign Exchange Dealers’ Association of India (FEDAI), a Self-Regulatory Agency (SAR), has
+come out with a code of conduct for dealers and brokers which all the banks follow.
+The code of conduct contains the following aspects:
+•      Confidentiality
+•     Dealing Procedures
+•      Difference Payable by Brokers
+•      Frivolous Quotations
+•     Quotation of Fictitious Rates
+•     After-Hours Dealing
+•     Enquiry into the Conduct of Brokers
+•     Brokerage Payment by Banks
+•     Market Irregularities
+•     Entertainments, Gifts or Favours
+•      Penalties
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+2.16         FOREX AND TREASURY MANAGEMENT
+
+In compliance with FEDAI guidelines, Banks generally obtain undertaking letters from dealers to
+ensure strict adherence to high ethical standards and integrity.
+
+    6.  AN INSIGHT INTO:
+6.1  Float
+Float is the amount of time that passes between a business preparing a payment instrument to be
+sent to a supplier and the supplier having money. When it comes to cheques, float results from the
+time required to prepare the cheque, mail it, have it delivered, handle it by the supplier and deposit
+it into the bank, have it gone through the clearing system, and then receive payment from the bank.
+Any one of these elements may result in a float related to cheque payments that range from four to
+ten days or longer. Cheques offered a relatively valuable float for the payer during a time when
+interest rates were high globally. These days, the value of float has all but disappeared due to the
+extremely low interest rates seen worldwide.
+6.2  Availability
+The deposit bank, or processing time, location, and clearing agent availability schedules, all play a
+role in choosing the best channel for clearing cheques.  If the cheque arrives at the endpoint (or
+location designated by the clearing agent) before a pre-arranged deposit deadline, availability is
+given to the clearing bank. Availability schedules specify how many days each endpoint will be
+delayed.
+The cheque availability is typically assigned as zero, one, or two days, and the assignment is
+typically made in full business days. Customers of banks have availability schedules. Numerous
+banks offer various schedules of availability.
+The clearing bank looks at key endpoints' clearing times, establishes each endpoint's clearing
+channel, computes costs, and works backward from those endpoints' deposit deadlines to create its
+own deposit deadlines for clients to create the availability schedule.
+The following variables affect the availability that a bank allocates to a specific cheque:
+    The location of the drawee. The availability period of cheques drawn on distant banks is
+        typically longer than that of cheques drawn on nearby banks.
+    The deposit time. The processing center must receive cheques by a specific time of day to
+       grant the designated availability.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+PROCESS OF TREASURY            2.17
+
+6.3  Swaps
+An Over the Counter (OTC) contractual agreement known as a swap allows counterparties to
+exchange cash flows under predetermined terms at designated future times. Swaps have been
+explained in Chapter 5.
+It usually has a declared maturity date that is near the last cash flow date, along with a notional
+principal. Each set of cash flows might be:
+•    A fixed percentage of the notional principal,
+•    A floating percentage based on an interest rate or currency rate (e.g., 3-month Libor or 1-
+      month Libor plus 25 bps),
+•     Or otherwise determined.
+Swap terminology
+Trade date: The day on which all parties accept the terms of the swap and commit to it.
+Effective date: Usually two days following the trade date, this is when interest begins to accrue.
+Payer: The person making the fixed-rate payment.
+6.4  Account Analysis
+Account analysis  is a tool to effectively manage the day-to-day treasury operations. Account
+Analysis statement provides a detailed report of treasury management service activity. It includes
+information on transaction volumes, services used and costs. Account analysis provides the
+functionality of dividing the services into subsets and gives complete control over every operation at
+micro level.
+6.5  Clearing Houses
+A clearing house is an Institution engaged in the activities of offsetting transactions with one another
+to limit payment settlements to net balances. In addition to settling bank, railroad, stock, and
+commodity exchange transactions, clearing houses are crucial to the global payment system.
+Typically, bank clearing houses are non-profit organizations made up of nearby banks that were
+established to streamline the settlement of balances and the exchange of cheques, drafts, and notes.
+Since bank transfers predominate and cheques are not typically used for corporate payments,
+clearing times in other nations may differ. The important concern for the treasurer is to understand
+the payment and collection instruments available in his/her country, how quickly value can be
+obtained for different instruments, and the relative cost of each one.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+2.18         FOREX AND TREASURY MANAGEMENT
+
+6.6  Lockboxes
+(For quick collection of cheques  / demand drafts of the Corporates, Lockboxes system helps in
+improving the Liquidity position. After introduction of Information Technology i.e., IT Systems in the
+Financial / Banking Sectors like RTGS, NEFT etc. the importance of lockboxes system is gradually
+reducing)
+A Brief on Lockboxes: Companies receive cheques from customers in the mail or through
+lockboxes. With a lockbox, mail is delivered to a designated lockbox address, where a processor
+receives  it, processes the remittances, and deposits them into the payee's account.  There are
+several advantages of lockboxes as opposed to receiving cheques through the mail.
+♦     Mail float is usually reduced because a processor uses its own unique PIN code to speed the
+       mail delivery. A lockbox processor may also make more frequent mail pickups.
+♦     Processing  float can be reduced because cheques are mailed  directly to the lockbox
+       processor. This eliminates company handling time. Also, many processors operate 24 hours
+      a day, seven days a week. In effect, they specialize in the efficient processing of receipts and
+       deposits.
+♦    Availability of float is also reduced because the processor works to meet critical availability
+     deadlines. Cheques must arrive at the bank's proof and transit area by these dates. For
+    cheques drawn on banks in the same city, the deadline for same-day availability could be 9
+     a.m. Different processors will have varying schedules for availability.
+Lockboxes also offer an audit trail, control, and efficient processing due to economies of scale.
+Lockbox costs
+These consist of a fixed monthly cost and a variable cost, which may be a per-item deposit and
+processing charge.
+Collection studies
+The location of lockboxes and the choice of lockbox processor are established after a collection
+study.
+The following data are analyzed:
+Location and geographic concentration of remitting customers, location of customers with largest
+payments, intercity mail times, bank availability schedules and administrative costs associated with
+using lockboxes. Lockbox networks may involve several processors in different cities or a single
+processor with multiple locations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+PROCESS OF TREASURY            2.19
+
+Still these services will be relevant for treasurers of telecom, electricity, and other utility service
+corporates.
+6.7  Disbursement
+Disbursement is the function of deployment of funds in the business segments. Timely information
+about corporate cash flow, protection against unauthorized disbursements and elimination of idle
+balances are key requisites of efficient treasury management.
+Efficient disbursement solutions of a treasury should be designed to help  it improve the funds
+management, expand information access, and control and increase  visibility into transactions,
+including:
+•     Timely notification of the cheques that will be charged to controlled disbursement account.
+•      Detailed data to help reduce account reconciliation time.
+•     Fraud prevention tools that enable identification of potentially fraudulent cheques before they
+      are paid.
+•     Quick access to important cheque information via digitized images.
+•      Flexible card payment options.
+•     Outsourced cheque printing and mailing.
+
+    7.  BENCHMARK RATES FOR DISCOUNTING CASH FLOWS
+When a cash flow is removed from the present by a percentage, it is valued less in a discounted
+cash flow (DCF) valuation. This is known as the discount rate.
+Many times, the most challenging and unpredictable aspect of a DCF is estimating an appropriate
+discount rate. A minor alteration in the discount rate leads to a significant shift in the value, making
+the outcome even more dependent on the selection of discount rate.
+Typically, the Capital Assets Pricing Model (CAPM) is used to calculate the discount rate for listed
+securities. This makes sense because services that offer beta estimates and data for calculating
+betas are readily available.
+Cash flows in case of unlisted securities:
+It gets even more challenging for unlisted securities and other cash flow sources. If there are listed
+securities with comparable un-diversifiable risk, these can be used as benchmarks to determine the
+appropriate discount rate.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+2.20         FOREX AND TREASURY MANAGEMENT
+
+Finding a pure play company in a business that is as similar as possible and figuring out its WACC
+(weighted average cost of capital) is a relatively easy method. This discount rate might be the right
+one, or  it might require more tweaking. In most cases, the best course of action when making
+additional adjustments is to use the CAPM to calculate the beta given only equity funding and work
+from the WACC. Because capital structure is irrelevant, this is accurate.
+It is occasionally possible to make straightforward changes. For instance, multiply the beta by the
+ratio of (1 + fixed costs as a percentage of revenues) for the cash flows being evaluated to the same
+for the benchmark  if the cash flows experience similar (un-diversifiable) revenue volatility to the
+benchmark but a different level of operational gearing.
+In numerous instances, precise modelling will be required to calculate the variation in sensitivity to
+non-diversifiable components. In practical terms, this entails modelling the relationship between both
+sets of cash flows and economic growth, since the economy is the primary un-diversifiable risk. If
+the market is used as the benchmark, it might be easier to use; in that case, the ratio is the beta.
+Using what seems to be a reasonable risk premium over the market or the risk-free rate is a last-
+resort strategy. It is helpful to compute a DCF with multiple distinct discount rates in each scenario,
+particularly the final one, to demonstrate how the outcome is sensitive to this supposition.
+
+    8.   LIQUIDITY AND CASH FLOW MANAGEMENT — CRR
+Banks maintain liquid funds to meet payments arising out of a legitimate demand for funds and at
+the same time try to maximize profits. Liquidity may be sourced out of assets or liabilities, but the
+major source is public deposits. Factors like banking reforms and stiff competition have brought
+severe pressure on the bottom line of the banks and hence efficient deployment of idle funds, without
+impairing liquidity, is very important.
+Assets and liabilities maturing during a given period may not be matching, leaving a positive or
+negative gap. Management of such liquidity gap is guided by the objectives, which may vary in
+priority according to the time frame of liquidity plan. ALCO (Asset Liability Committee) should
+formulate  specific guidelines about composition  of assets and  liabilities  to  facilitate  liquidity
+management. Further  interest  rate  sensitivity  of assets and  liabilities  will decide the  future
+composition of liquidity.
+Banks aim to maximize profits while maintaining sufficient liquid funds to cover payments resulting
+from valid requests for funds. Public deposits are the main source of liquidity, though they can also
+come from assets or liabilities. The bottom line of banks is under extreme pressure due to factors
+like banking reforms and fierce competition; as a result, it is critical to deploy idle funds effectively
+without compromising liquidity.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+PROCESS OF TREASURY            2.21
+
+There may be a positive or negative gap if the assets and liabilities maturing during a given period
+do not match. The goals, which may differ in importance based on the liquidity plan's time frame,
+serve as a guide for managing this kind of liquidity gap. To facilitate this, ALCO should establish
+clear guidelines regarding the makeup of assets and liabilities.
+8.1  Objectives, Sources and Deployment
+The objectives of Liquidity Management are:
+•     Maintain adequate funds for business.
+•     Maintain liquidity at payment point.
+•     Maintain statutory reserves without default.
+•      Effective deployment and profit maximization.
+•     Ensure the liquidity of assets.
+•     Judicious use of discretionary liabilities.
+•       Flexibility for asset re-mix and re-composition.
+The entire capacity of a bank to satisfy demand for funds due to the maturity of liabilities precisely
+when they fall due or when depositors want their money back is known as liquidity. This is the
+fundamental function of banking and sets a bank apart from other organizations.
+Liquidity in the Bank is derived from the following:
+•     Greater cash than CRR.
+•    SLR securities investments above and beyond the required thresholds (these can be used
+        for CBLO/REPO borrowing via CCIL or from the RBI's LAF and market).
+•     Prime Assets: For instance, loans to Top Rates Companies, Top Rates Short Term Paper,
+      and T-Bill Investments.
+•     Swapping foreign currency to rupees.
+•    The RBI's undrawn Export Credit Refinance (ECR) and
+•    Undrawn lines from IDBI, SIDBI, and other specialized FIs, IDBI, SIDBI, NABARD, EXIM
+      Bank, NHB etc.
+If a bank needs short-term liquidity, it can get it from any of the sources mentioned above. Under
+exceptional circumstances, the bank may request RBI liquidity support based on merit and security
+collateral.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+2.22         FOREX AND TREASURY MANAGEMENT
+
+When there is excess liquidity, the bank would consider the following possibilities:
+     Loans from money markets.
+    The reverse REPO.
+     Purchasing securities, CP, or T-Bills based on the durations of excess liquidity.
+     Paying back any refinancing.
+All the above-mentioned things are a part of a bank's liquidity management system.
+8.2  Internal Control
+A sound Internal Control System should exist for proper management of risk. The control should be
+such that it does not affect the business and at the same time limits the potential loss, if any.
+Planning is a continuous and dynamic process. The results of the business must be constantly
+evaluated in relation to the objectives or goals. To do this, a control procedure should be set up so
+that data on outcomes will automatically reach the appropriate group of individuals who are involved
+in setting objectives. In modern times, changes are so swift in the market that before the impact of
+the business activity is understood, damage would have already been caused.
+Hence the only flow of information for review with respect to goals is not enough in a dynamic
+situation, but additionally the system should have in-built cheques to give sufficient ‘early warning
+signals. Damages can include loss, missed opportunities for careful deployment, rising finance
+costs, shrinking the current margin, risk factor above the threshold of tolerance, and even excessive
+goal deviation. Control is therefore essential in today's business.
+Banks should develop appropriate control systems when making liquidity plans to receive relevant
+feedback in a timely manner and take corrective action. The controls could take the form of setting
+minimum or maximum levels  for  different  liquidity cycle components, allowing the functional
+authorities to take corrective action if there is a significant departure from the recommended level.
+8.3  Netting
+Let us assume, an Indian MNC has 3 subsidiaries in Japan, India, and Germany. All the three
+subsidiaries transact with each other in the receiver’s domestic currency. Suppose the outstanding
+amount on a particular day is as follows between the subsidiaries:
+                          Receiver Japan  Receiver     Indian  Receiver   German
+                          Subsidiary       Subsidiary           Subsidiary
+ Payer Japan Subsidiary                   INR 85 mn         EURO 2 mn
+ Payer Indian Subsidiary    JPY 150 mn                    EURO 3 mn
+ Payer German Subsidiary  JPY 78 mn       INR 152 mn
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+PROCESS OF TREASURY            2.23
+
+The foreign exchange (Fx) rates adopted by the HO for multilateral netting is based on ongoing
+exchange rates which are INR 90/ EURO and INR 70/100 JPY.
+Applying this rate we get the revised outstanding amounts as follows:
+                          Receiver     Japan  Receiver  Indian  Receiver  German
+                          Subsidiary            Subsidiary        Subsidiary
+ Payer Japan Subsidiary                       INR 85 mn        INR 180 mn
+ Payer Indian Subsidiary    INR 105 mn                          INR 270 mn
+ Payer German Subsidiary   INR 54.6 mn          INR 152 mn
+
+ Subsidiary           INR to be received    INR to be paid         Net to be received or
+                                                                      paid
+ Japan                105+54.6=159.6      85+180=265           105.4 payable
+ India               85+152=237         105+270=375         138 payable
+ German             180+270=450         54.6+152=206.6       243.4 receivable
+So, the dues can be netted of and INR 243.4 mn will be paid by German subsidiary to Japanese and
+Indian Subsidiary in the amounts as stated above. They can be paid the net amount using the
+prevailing Fx rates. This will save a lot of transaction costs and time delays.
+Often, a sizable portion of the supply chain is made up of the company's subsidiaries. The issues
+with inter-company invoices are frequently the same as those with third-party invoices. FX exposure
+may be caused by numerous small transactions, costly procedures, a lack of funding or liquidity,
+dispute resolution, regional hedging initiatives, or a lack of corporate visibility due to dispersed
+accounts payable and accounts receivable systems. Some of these strains can be lessened with the
+use of netting. A netting system would help to reduce the exposed volume by capturing and
+separating the inter-company flow.
+It is possible to create a netting system that can balance payable inter-company invoices against
+receivable inter-company invoices, even when the currencies are different. As a result, each
+participating subsidiary may have a single netted position in the currency of their choice. Better
+margins result from the simultaneous decrease in the total FX volume and its management at the
+corporate treasury  level. A well-known  multinational healthcare imaging  specialist's treasury
+manager claims that access netting  is a solution that ‘met our  priorities  in terms of quickly
+establishing a  global, robust and easy-to-manage  netting system because  of the  solution's
+outsourced nature, low resource requirements, and ability to settle transactions and manage FX
+across our global organization'.
+Netting can also lower operational and financial risks, streamline the administration of invoices and
+payment procedures, and lower costs associated with internal business operations and bank fees
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+2.24         FOREX AND TREASURY MANAGEMENT
+
+like FX, float, and payment fees. Netting is frequently used in conjunction with operational activity
+outsourcing, which produces results like active reconciliation. For instance: Reaching out to the
+business's subsidiaries to ensure accurate and on-time payments.
+By ensuring that intercompany payment protocols are followed, outsourcing frees up the company's
+scarce accounting or treasury staff to concentrate on higher-value tasks.
+Even though netting has been popular since the late 1970s, it has become evident in recent years
+that businesses are searching for solutions that go beyond netting's primary purpose. By using an
+outsourced netting offering for this particular use, the company was able to significantly cut down on
+its administrative workload and payment costs. The ability to combine netting with other liquidity
+management solutions is making the facility more and more desirable.
+In an environment that is global, diverse, and complex, no one solution is appropriate for every
+company. But a well-thought-out combination of customized guidance, industry-leading goods, and
+reliable support can dramatically lower risk and complexity, save expenses, increase profits, and
+stimulate trade. The core of liquidity management is netting, and a successful solution requires a
+banking partner with a knowledge of a company's working capital cycle.
+8.4  Gap Management
+Let us understand gap management with the help of an example. Suppose RXY Bank has granted
+loans worth INR 100 crores and has deposits from public in the form of time and demand deposits
+to the tune of 125 crores. The loans earn interest for the bank at an average rate of 10% which is
+floating in nature while deposits require interest payment at an average rate of 5% which is fixed in
+nature. Thus, Interest income stands at 10 crores and interest expense stands at 6.25 crores. So,
+the bank has a net interest gap of 3.75 crores.
+However, as the interest income is floating in nature the gap may widen or narrow if interest rates
+go up or down respectively.  It is the responsibility of the treasury department to anticipate such
+interest rate movements and take appropriate actions to avoid negative gaps.
+Gap Management enables banks to monitor and manage interest rate risks from transactions so
+they can make strategic decisions about gap positions for defined points in time. Liquidity analysis
+and the cash flow evaluation enable banks to manage their liquidity requirements and NPV risks.
+NPV analysis records risks based on NPVs and future values; in gap management, on important
+dates or for periods, the position and maturity volumes, as well as cash flows and liquidities, are
+shown. The risks that are disclosed in this manner are then shown, including gap positions, interest
+rate risk, currency risk, and liquidity risk.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+PROCESS OF TREASURY            2.25
+
+The following assessments are generally part of the gap analysis:
+Assessment of position: The lending and borrowing positions from both the balance sheet and off-
+balance-sheet domains are compared by the system. It is possible to perform an average position
+evaluation in addition to a key date position evaluation.
+Evaluation of maturity: Using fixed-rate cash flows, the system displays the net present value
+(NPV) interest rate risk. You have the option to limit the assessment to specific currencies.
+Cash flow evaluation: Only the cash flows up to the point at which the interest rate was fixed are
+shown; the system shows the NPV interest rate risk. You have the option to limit the assessment to
+specific currencies.
+Assessment of liquidity: The system shows the payments that come in and go out for the capital
+tie-up. Only expected to be realized incoming and outgoing payments are shown, in contrast to the
+cash flow evaluation.
+Evaluation of net present values (NPVs): The system shows a portfolio's NPVs or the related cash
+flows in the maturity band. Scenarios with market data are another option for the analysis. You can
+calculate full scenarios and delta scenarios.
+Net interest income evaluation: The system calculates the potential net interest income for each
+maturity band. The capital tie-up is used as the basis for this. For variable items, the interest revenue
+or the interest expenses that have not been determined are calculated by using the forward interest
+rate.
+The task of Gap Management has been briefly summarized as follows:
+•    To display the interest rate risk as a potential negative deviation in the net interest income
+      per period from the expected net interest income per period.
+•    To display position volumes for key dates and for periods and maturity volumes for key dates
+      and periods in terms of their fixed interest rates and capital tie-up, and to display fixed-rate
+      cash flows and incoming and outgoing liquidity.
+•    To display gap positions as a comparison of the volume of lending and borrowing positions,
+      and maturity volumes, as well as incoming and outgoing cash flows or liquidity flows.
+•    To analyze positions, maturity, and cash flows from fixed-rate items for any sub-portfolio daily.
+•    To display the net interest income for old business whilst using scenarios.
+•    To include variable items without a fixed-interest period by means of due date scenarios
+     (demand deposits and savings deposits) and forwards (for example, floaters, the variable
+       side of swaps and forward rate agreements) in the analysis.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+2.26         FOREX AND TREASURY MANAGEMENT
+
+•    To include non-interest-bearing items without a fixed-interest period by using due date
+      scenarios (for example, equity, provisions, land, and buildings) in the analysis.
+•    To include optional interest rate instruments and their underlying or delta-weighted underlying
+        (for example, forward swaps for swaption, (fictitious) bonds for OTC interest rate options,
+       options on futures) in the analysis.
+•    To display the results distributed over maturity bands, which can be subdivided into any time
+       period, for example, day, month, quarter, half-year, and year.
+
+    9.  TREASURY MANAGEMENT PROCESSES
+An asset or liability is included in the treasury portfolio if it is created through a transaction in the
+bond,  capital, forex, interbank,  etc. market and/or  if  it can be assigned or negotiated. The
+marketability or tradeability of Treasury assets is contingent upon fulfilling legal requirements, such
+as paying relevant stamp duty and other fees. Another characteristic of treasury assets is that they
+are likely to lose or gain value on the movement of the market and should therefore (and often are
+required to) be marked to the market.
+Treasury assets also have the characteristic of being prone to value fluctuations in response to
+market movements; as such, they ought to be marked to the market, and in many cases, they must
+be.
+The Inter-bank Participation Certificate is an illustration of a treasury asset or liability that is created
+by corporate or treasury actions or decisions regarding funding or deployment but is not tradeable.
+Even though they are the bank's obligations, loans and advances are contractual agreements
+between the bank and its borrowers; they do not belong in the treasury. However, a portion of the
+loan and assets may end up being used for treasury purposes.
+The fact that Treasury liabilities are borrowings from the money (or bond) market sets them apart
+from other liabilities. Deposits (current and savings account and fixed deposits) are not treasury
+liabilities, as they are not created by market borrowing.
+Domestic Treasury Remittances: The purpose of the treasury management function at the local,
+state, and federal levels is to direct community savings into profitable investment opportunities. The
+Commercial Banks handle this task. When  it comes to handling money, borrowing, lending, and
+investing, treasury management is an essential function of banks and other financial institutions.
+Due to the nature of their business, they make money through dealing in or close to money claims.
+They take out loans from the public in the form of deposits, which together with other loans make up
+their liabilities. Most of their assets are investments, advances, and loans. Since most of their
+liabilities are short- and medium-term  in nature, effective funds management  is essential  to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+PROCESS OF TREASURY            2.27
+
+guarantee that assets and liabilities are properly matched in terms of each's maturity and cost. Since
+commercial banks are the ones who create credit, they also have an obligation to uphold their
+reputation for reliability, security, and honesty.
+The flow of funds i.e., sale or purchase of investment remittances that are happening in
+domestic treasury through:
+•   Call / Notice Money lending.
+•  Term Money Lending / Inter-bank Deposits.
+•   Investment in CDs.
+•   Commercial Paper.
+•   Inter-bank Participation Certificates.
+•   Derivative Usance Promissory Notes / Banker’s or Corporate Acceptances.
+•   Reverse Repos / CBLO – backed Lending through CCIL.
+•  SLR Bonds (Notified as such by the RBI).
+   o  Issued by the Government of India as Securities and T Bills.
+   o  Issued by State Governments.
+   o  Guaranteed by Government of India.
+   o  Guaranteed by State Governments.
+•  Bonds (Issued by)
+   o   Financial Institutions.
+   o  Banks / NBFCs (Tier II Capital).
+   o   Corporates.
+   o   State-level Enterprises.
+   o   Infrastructure Projects.
+•   Asset-backed Securities (PTCs).
+•   Private Placements.
+•   Floating Rate Bonds.
+•   Tax-free Bonds.
+•   Preference Shares.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+2.28         FOREX AND TREASURY MANAGEMENT
+
+•   Listed / Unlisted Equity.
+•   Mutual Funds.
+The other Liabilities Product remittances are:
+•   Call / Notice Money Borrowing.
+•  Term Money Borrowing.
+•  CD Issues.
+•   Inter-Bank Participation Certificates.
+•  Repos / CBLO – backed Borrowing through CCIL.
+•   Refinance (RBI, SIDBI, NABARD, EXIM Bank, NHB).
+•   Tier II Bonds (Issued by Bank).
+(a)    International Treasury Remittances: The administration of foreign currency funds  is a
+function of treasury management on an international scale. The means and procedures by which the
+rights to wealth and income in one currency are changed into equivalent rights in the currency of
+another nation are referred to as foreign exchange. These exchanges could take the shape of money
+transfers between currencies or the conversion of credit instruments like drafts, bills of exchange,
+trade bills, promissory notes, telegraphic transfers, and cheques that are denominated in various
+currencies. Exchange is carried out through foreign exchange dealers that are subject to national
+central bank regulations. Banks, as opposed to other specialized agencies, are typically the dealers.
+The foreign exchange market is one of the key elements of the global financial system. Receivables
+and payments  are exchanged between  nations because  of  various  trade and commercial
+transactions. These transactions are conducted in the respective national currencies of the parties
+involved, or in a common currency that has been agreed upon by both parties. In either case, there
+is a currency conversion involved in the transactions. The foreign exchange market facilitates such
+operations. The basis for the market's demand for currencies is the need for goods and services to
+be transported between  nations. Therefore, exporters, importers,  or the  public engaging  in
+transactions with foreign nations essentially create the demand for the supply of foreign currencies.
+Companies having an import or export component in their business profile must frequently deal in
+forex operations.
+The flow of funds i.e., sale or purchase of investment remittances that are taking place in
+international treasury through:
+•     Spot Currencies (this could be in the form of buy or sell or cash or settlement in a day known
+      as TOM).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+PROCESS OF TREASURY            2.29
+
+•     Forward and Forward-Forward (simultaneous purchase and sale of a currency for two
+        different forward maturities).
+•     Foreign Currency Placements, Investments and Borrowings  (in accordance  with RBI
+       Guidelines).
+Merchant Transactions (Initiated in Branches, arranged by Forex Treasury) like:
+•     Pre-shipment Credit in Foreign Currency (PCFC).
+•     Foreign Currency Bills Purchased (FCBP).
+•     Foreign Currency Loans (FCLs)/FCNR (B) Loans.
+•     Post-shipment Credit in Foreign Currency (PSFC).
+•     External Commercial Borrowing (ECB).
+These investments and instruments have certain characteristics and the buy  / sell and trade
+practices are developed by markets. A Treasury will have to adopt the market practices in terms of
+pricing and settlement.
+
+    10.  PAYMENT & SETTLEMENT SYSTEMS
+(a)  CCIL
+Clearing Corporation of India Limited (CCIL) is an institution set up to clear outright and repo trades
+on a guaranteed basis. Negotiated Deal Settlement (NDS) is a trading platform while CCIL is a
+Clearing House Settling trades.
+Products handled by CCIL are:
+(i)    Domestic:
+      G-Secs. / Central / State Government Securities / T-Bills
+       Outrights
+     Repos / CBLOs
+      RBI Auctions
+(ii)    Forex:
+    USD / INR
+      Spot
+     Cash
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+2.30         FOREX AND TREASURY MANAGEMENT
+
+    TOM ©
+      Forward
+© Tomorrow next (tom next) is a short-term foreign exchange (forex) transaction where a currency is
+simultaneously bought and sold over two separate business days. In tomorrow next, the  first
+business day is tomorrow (in one business day) and the next is the following day (two business days
+from today). A tom next transaction allows investors and traders to maintain their position without
+being forced to take physical delivery.
+Under its Securities Segment, CCIL offers clearing and settlement services for trades in government
+securities that involve third parties. For all borrow and lend Triparty Repo trades that it receives for
+settlement, CCIL would serve as a Central Counterparty. In terms of Repurchase transactions
+(Repo) (Reserve Bank) Directions, 2018, as amended from time to time, CCIL would also be carrying
+out the role responsibilities of Triparty Repo Agent. The Triparty Repo trades would be settled by
+CCIL in accordance with its Securities Segment Rules.
+Members who maintain an RBI Current Account can settle their funds in the RBI's books by
+multilaterally netting their funds position in Triparty Repo with their funds position in Outright and
+Market Repo. Funds settlement for other members is completed and recorded in Settlement Bank's
+books. For Triparty Repo trades, securities settlement will take place in the Member's Gilt Account
+that is kept up to date with CCIL. Securities obligations for market repo and outright trades must be
+settled in the Member's SGL or CSGL account with RBI.
+On November 12, 2007, CCIL launched its reporting platform for OTC interest rate derivatives
+transactions (interest rate swaps and forward rate agreements, or IRRs and FRAs).
+FX-CLEAR
+CCIL, through its wholly owned subsidiary Clearcorp Dealing Systems (India) Limited (Clearcorp),
+manages trading platforms in the Money and G-Sec markets on behalf of RBI, and owns trading
+platforms in the money, forex, and derivative markets. Clearcorp introduced FX-CLEAR, a forex
+dealing system, on August 7, 2003. It provides two ways to deal: Order Matching and Negotiation.
+The interbank spot, swap, and other transactions between US dollars and Indian rupees (USD-INR)
+are covered by FX-CLEAR. In terms of value, the USD-INR transactions make up approximately
+85% of all Forex transactions in India.
+With effect from April 6, 2015, the updated FX-CLEAR platform guarantees settlement for all trades
+completed on the Order Matching Mode, which means that the trades will be forwarded to Clearing
+Corporation automatically. As a result, Clearing Corporation (CCIL)  will act as these Trades'
+counterparty.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+PROCESS OF TREASURY            2.31
+
+FX-SWAP
+On May 31, 2010, Clearing Corporation introduced FX-SWAP, a forex swap dealing system that
+provides an order matching platform for forex swaps. This platform offers swap instruments with a
+maximum duration of 12 months, three upto spot instruments (Cash/Tom, Cash/Spot, Tom/Spot), an
+LD/LD instrument (Month 1 end over Month 2 end), and two ORF instruments (Month 1 end and
+Month 2 end) to provide a transparent and anonymous trading environment in the heavily broker
+driven swaps market. The guarantee from the point of trade for the Forward Legs of the transactions
+completed on the FX-SWAP platform was a unique feature when it was first introduced.
+The benefits of guaranteed settlement from the point of trade are now extended to all legs of trade
+concluded on the platform, including Cash, Tom, Spot, and Forwards, with the new version of the
+FX-SWAP platform going live on April 6, 2015. These trades will be automatically sent to Clearing
+Corporation. As a result, Clearing Corporation (CCIL) will act as these Trades' counterparty.
+(b)  Continuous Linked Settlement (CLS)
+In April 2005, CCIL began settling cross-border bank transactions involving Indian banks through
+CLS Bank. By means of this arrangement, banks can collectively benefit from cross-currency
+settlement through CLS Bank as CCIL aggregates trade reports from all Member banks. This is a
+novel experiment in which a third-party arrangement is used to facilitate the cross-border settlement
+of an entire nation. Payment versus payment is the basis of settlement via the CLS mechanism.
+A key player in the foreign exchange (FX) market, Continuous Linked Settlement (CLS) runs the
+biggest multicurrency cash settlement system to reduce settlement risk for its members' and their
+clients' FX transactions.
+Owned by the top financial institutions globally, CLS settles payment instructions for underlying
+foreign exchange (FX) transactions in eighteen major currencies as well as some other transactions
+that pay out in one currency at a time.
+One important aspect of world economic activity is the FX market.  It is essential to international
+trade and the largest financial market in terms of value. The communities that trade currencies are
+as varied as the reasons people trade them. This community consists of the fund management
+sector, small and large corporations, central banks, and commercial banks.
+Due to settlement risk, every member of the FX community could be at risk of losing principal. Since
+settlement risk, commonly referred to as "Herstatt Risk," is regarded by most as the largest systemic
+risk facing FX market participants, reducing it is of utmost importance to the community.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+2.32         FOREX AND TREASURY MANAGEMENT
+
+(c)  RTGS
+A mechanism called Real Time Gross Settlement (RTGS) allows trades in securities to be cleared
+as soon as a deal is finished. The Straight Through Platform (STP) platform makes this feasible.
+The RBI, NDS, and CCI intend to switch the G-Secs market to RTGS mode shortly.
+(d)  National Electronic Fund Transfer (NEFT)
+The Payment and Settlement Systems Act, 2007 (PSS Act), which was enacted in December 2007,
+governs payment and settlement systems in India.
+Whether we are transferring money from one business to another, or from one consumer to another,
+payments are an essential component of our everyday exchanges. The mission statement of the
+Reserve Bank of India's publication on Payment Systems in India (2009–12) states that since
+payments increase a nation's gross domestic product (GDP), the nation's payment systems must be
+"safe, secure, sound, efficient, accessible, and authorized." The Reserve Bank of India works
+tirelessly to keep the payments system operating smoothly. The BPSS (Board for Regulation of
+Payment and Settlement Systems)  is the equivalent in India which oversees regulating these
+systems.
+India offers a variety of settlement and payment methods. RBI is  still developing new payment
+methods and gradually modernizing India's payment and settlement infrastructure.
+India offers a range of electronic payment and settlement options, including Net and Gross
+settlement systems (RTGS and NEFT).
+One of India's most well-known electronic fund transfer systems  is National Electronic Funds
+Transfer, or NEFT. NEFT is a service that banks offer to their clients to facilitate simple, safe, one-
+to-one transfers of funds.  It was launched in November 2005.  It is accomplished through text
+messaging. In contrast to RTGS (Real Time Gross Settlement), this is not done in real-time. There
+is a delay because this is a "net" transfer facility that is carried out in half-hourly batches. NEFT
+services operate in batch mode and are available in nearly all bank branches nationwide, or 1,00,000
+of them.
+NEFT has become more and more popular because it saves time and makes transactions simple to
+complete.
+(e)  SWIFT
+Established  in accordance with Belgian law, the "Society  for Worldwide Interbank Financial
+Telecommunication (SWIFT)"  is a cooperative organization with  its corporate office located in
+Brussels. Society uses a computer-guided communication system  to streamline  international
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+PROCESS OF TREASURY            2.33
+
+payment transfers.  It has been in operation since May 1977 and covers most banks in Western
+Europe and North America.  It consists of an interbank computer network system that has two
+operating centers, one in Amsterdam and one in Brussels, where messages can be momentarily
+stored before being forwarded to the appropriate bank's terminal.
+
+    11.  DEALING ROOM OPERATIONS
+(a)  Nostro
+Nostro accounts are currency accounts that are kept with Correspondent banks to help the bank
+clear its foreign exchange operations. Stated differently, a Nostro Account is characterized as a
+bank account opened in another foreign country using foreign money, by any commercial bank of a
+certain nation. It comes from the Italian word Nostro account, which translates to "our."
+For instance, the State Bank of India maintained a dollar-denominated account with the Bank of
+America. To put  it plainly, a Nostro Account is created by any Indian bank to handle transactions
+with a foreign bank.
+(b)  Vostro
+Banks outside of India have rupee accounts known as "Vostro accounts," through which they settle
+and clear their rupee transactions with Indian banks. An Italian term meaning "yours" is the source
+of the name Vostro Account. Because of this, it refers to your account, which is under our ownership.
+If it is receivable on demand and is represented by the nation's domestic currency, a Vostro account
+is treated by the domestic bank exactly like any other regular bank account. The home nation is
+where Vostro accounts are kept up to date.
+Consider the following scenario: a certain bank in the United States wishes to create an account in
+a specific bank in India that accepts Indian Rupees (INR). Then this type of account is called a
+Vostro account.
+(c)  Loro
+The term "Their account with them" refers to the Loro account, which takes its name from the Italian
+word "loro," which means "theirs." Typically, a bank other than the one that maintains the account
+or with which  it is kept holds such an account. An account maintained by a foreign bank with a
+domestic bank in foreign currency on behalf of another domestic bank is known as a Loro account.
+For instance, SBI keeps an account with the UK's HSBC bank. There isn't an account between Bank
+of India (BOI) and HSBC, UK. When used by BOI for transactions in the UK, the SBI account with
+HSBC is referred to as a Loro account.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+2.34         FOREX AND TREASURY MANAGEMENT
+
+(d)  Mirror A/Cs
+Every bank keeps a duplicate of its Nostro account at its own bank that is linked to a foreign bank.
+For the bank's internal records and operational needs, an account of this kind is kept in local
+currency. The purpose of a Mirror account is indicated by the name "mirror." It keeps meticulous
+records of all foreign exchange inflows and outflows made through a bank account called Nostro.
+Knowing the true account position is aided by mirror accounts.
+The Mirror account aggregates money in local currency from various Nostro accounts held with
+various foreign banks at various locations and in various currencies. Through inter-entity lending,
+the pooling of money enables the client to limit the use of operating bank credit lines or to receive
+greater interest returns.
+(e)  Open Currency Position
+The measure of foreign exchange risk is the total size of the open currency forward position and the
+open currency spot position. The difference between foreign currency liabilities and assets as well
+as the forward (conditional and unconditional) foreign exchange purchases and sales makes up the
+open currency position. The foreign exchange risk is measured by the open currency position.
+(f)  Cash Position by Dealers
+The amount owed on the bank's foreign Nostro account is known as the cash position. The bank
+maintains its foreign exchange reserves in the form of balances with its correspondent bank in the
+relevant foreign exchange center. These nostro accounts serve as the gateway for all the bank's
+international transactions. For instance, a Bank of America location in New York will have an
+account with an Indian bank. If the bank is asked to issue a demand draft in US dollars, Bank of
+America, New York will receive the draft. The bank's account with Bank of America will be deducted
+upon presentation in New York.
+Transfers for automatic cash management. At the end of the business day, these transfers are
+the very last things that are done on the accounts. The goal is to settle the linked account's balance
+to the requested target amount or zero. Prior to executing any downstream transfers that settle a
+negative balance on the linked account or upstream transfers that sweep the credit balance to the
+master account, the bank settles all incoming and outgoing transactions.
+To Sum up
+The organizational structure of a commercial bank treasury should facilitate the handling of all
+market operations, from dealing to settlement, custody, and accounting, in both the domestic and
+foreign exchange markets.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+PROCESS OF TREASURY            2.35
+
+In view of the voluminous and complex nature of transactions handled by a treasury, various func-
+tions are segregated as under:
+1.     Front- Office: Dealing–Risk Taking.
+2.     Mid-Office: Risk Management and Management Information.
+3.     Back-Office: Confirmations, Settlements, Accounting and Reconciliation.
+The number of activities managed determines how a treasury is organized. The three tasks must be
+distinct and performed in watertight compartments. Accounts and settlement are not meant to be
+handled by the dealers. While accounting functions may be performed by the accounting section,
+dealing should not be performed by the accounting back office.
+An appropriate senior executive oversees, directs, and coordinates the treasury's operations on
+behalf of the corporation. In addition, he or she oversees the coordination of work among the chief
+dealer, head of research, head of back  office, and  is solely  in charge  of managing funds,
+investments, and forex activity.
+Additionally, he or she will serve on the Assets Liability Management Committee (ALCO) and assist
+the group in making decisions regarding different treasury management policies. Dealers for forex
+operations are employed by banks that have separate forex operations.
+There will be a distinct research division within the Treasury. Officers will support the Head of
+Research in conducting research and analysis on a variety of securities. For the money market,
+debt, stocks, and  foreign exchange, research departments may be common. The research
+department would also offer a market analysis.
+Treasury management requires the use of appropriate information technology, including processes,
+packages, and infrastructure, because the operations and transactions involved are different from
+those of branch banking and are of utmost importance. Because software packages on the market
+might not be sufficient, banks might need to alter the software to accommodate their requirements,
+fluctuating conditions, and changing circumstances.
+The fund manager monitors the level of liquidity, fund movements, and preservation of reserve
+requirement(s). Treasury should post risk managers to help with scenario evaluation, independent
+line/limit excess review, transaction reviews to ensure compliance with regulations, monitoring of
+risk factors such as credit, liquidity, interest rate, and operational risk in transactions, and guidance
+to dealers to stay abreast of product and market developments.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+2.36         FOREX AND TREASURY MANAGEMENT
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    What is unethical when dealers handle confidential information?
+        (a)    Not revealing the information to anybody
+        (b)    Destroying the information
+        (c)    Keeping and storing the information with themselves
+        (d)    Using the information for competitive advantage knowing that it was privileged
+2.    What do the prudential trading limits reflect?
+        (a)   They reflect merely the directives of management
+        (b)   They reflect the understanding with the counterparties
+        (c)   They reflect risk appetite of the management
+        (d)   They reflect the dealers’ competence levels
+3.    The functions of Front and Mid Office should be segregated and must be distinctly different.
+     Why?
+        (a)   To prevent Front Office and Mid Office from colluding and defrauding the bank
+       (b)   To enable Front Office to increase volumes without intervention by Mid Office
+        (c)   To avoid conflict of interest
+       (d)   To provide level playing field for both Front Office and Mid Office
+4.    What are mis-selling in dealing room?
+       (a)    Selling products of other banks
+       (b)    Selling bank products without collecting stipulated charges
+        (c)    Selling products that are still in the making
+       (d)    Selling complex products without explaining the downside risks and selling products
+               that are not suitable and appropriate to the clients
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+PROCESS OF TREASURY            2.37
+
+5.   When there is a suspicion of improper conduct of Forex Transactions on the part of a
+       participant in the market, what should the banks / brokers do?
+        (a)    Inform Reserve Bank of India immediately
+        (b)   Complain to Bank for International Settlements
+        (c)    Bring the matter to the attention of FEDAI promptly
+        (d)    Confront the market participant
+6.    Which of the following functions does not pertain to Treasury of Corporate?
+        (a)    Treasury Front Office
+        (b)    Treasury Middle Office
+        (c)    Treasury Back Office
+       (d)   Loan Department
+7.   A Modern Corporate Treasury performs each of the following functions except …………..
+       (a)    Arranging financing for domestic and international trade
+       (b)    Consolidating and managing the financial flows of the firm
+        (c)     Identifying risks of domestic and international financial transactions
+       (d)    Setting sales targets and monitoring progress towards these targets
+8.    The independent Risk Assessment of Treasury Function is done by …………
+       (a)   Back Office
+       (b)    Front Office
+        (c)    Mid Office
+       (d)    Both (a) and (b)
+Theoretical Questions
+1.    What are the areas which treasury policy manual should cover?
+2.     Explain the various open position limits with examples?
+3.    Which are the aspects to be covered in the code of conduct?
+4.      Briefly discuss the various aspects of the dealing room operations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+2.38         FOREX AND TREASURY MANAGEMENT
+
+5.     Explain gap management. Also discuss the various assessments that are generally the part
+       of gap analysis.
+
+ANSWERS/SOLUTIONS
+Answer to Multiple Choice Questions
+    1.        (d)        2.        (c)        3.        (c)        4.        (d)        5.        (c)
+    6.        (d)        7.        (d)        8.         (c)
+
+Answers to Theoretical Questions
+1.    Please refer to paragraph 2
+2.    Please refer to paragraph 3.1
+3.    Please refer to paragraph 5.4
+4.    Please refer to paragraph 11
+5.    Please refer to paragraph 8.4
+
+
+© The Institute of Chartered Accountants of India

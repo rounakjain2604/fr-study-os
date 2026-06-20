@@ -1,0 +1,397 @@
+Source PDF: 07_SPOM/Set_C_01_Risk_Management/009 - INITIAL PAGES - 79501bos63491.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_01_Risk_Management\009 - INITIAL PAGES - 79501bos63491.pdf
+Extracted at: 2026-05-31T10:29:59+05:30
+Pages: 11
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+iii
+
+         BEFORE WE BEGIN …
+
+
+The contents of the Study Material for Self–paced Online Module–Set C of Paper 1 – Risk Management
+have been designed and developed by the Board of Studies, ICAI, with a view to lay the foundation for
+future specialisation in the area of Risk Management.  The Study Material has been developed
+considering the National Education Policy 2020 (NEP 2020) recommendations emphasizing the
+conceptual clarity rather than rote learning. Emphasis is also placed on fostering the application and
+analytical skills by solving Multiple Choice Questions provided at the end of each chapter.  In line with
+the NEP 2020  recommendation on  technology-based  learning,  the  Study  Material  would be
+supplemented by e-lectures facilitating the experiential learning.
+Though the topic of Risk Management has been important since the evolution of the business but its
+importance has been considerably increased post 2008 crisis and pandemic in 2020. The objective of
+this paper on Risk Management is to gain knowledge and acquire an insight into the spectrum of risks
+faced by businesses and to develop an understanding of the techniques of managing risks in practical
+case scenarios.
+Requirement of Professional Knowledge and Skills
+
+Students are required to learn and qualify Self-paced Online Modules after passing Intermediate
+Examination but before appearing in Final Examination. Accordingly, they are expected to not only
+acquire professional knowledge but also the ability to apply such knowledge in addressing issues
+and problem solving. The integrated process of learning through academic education and practical
+training will help inculcate in them, the requisite technical competence and professional skills.
+Framework of Chapters: Uniform Structure comprising of specific components
+
+Efforts have been made to present the content of Risk Management in a lucid manner. Care has
+been taken to present the chapters in a logical sequence to facilitate easy understanding by the
+students. Each chapter of the Study Material has been structured uniformly and comprises of the
+following components:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+iv
+
+     Components of each                   About the component
+     Chapter
+ 1   Learning Outcomes    Learning outcomes which you need to demonstrate after learning
+                          each topic have been detailed in the  first page of each chapter.
+                            Demonstration of these learning outcomes would help you achieve
+                              the desired level of technical competence
+ 2   Chapter Overview    A brief overview of the chapter has been provided in the flow chart
+                                       form.
+ 3   Content             The concepts of Risk Management are explained in a student-friendly
+                         manner to help you develop conceptual clarity and get a good grasp
+                                 of the topic.
+ 4  Test Your Knowledge   The Multi Choice Questions at the end of each chapter would help
+                          you to analyse and apply the concepts of Risk Management and test
+                             your conceptual understanding and analytical ability.
+
+We hope that these student-friendly features in the Study Material makes your learning process more
+enjoyable and improves your learning curve and sharpens your analytical and application skills.
+
+               Happy Reading and Best Wishes!
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+v
+               SYLLABUS
+
+                        SET – C
+               PAPER 1: RISK MANAGEMENT
+                             (100 MARKS)
+
+Objective:
+To gain knowledge and acquire an insight into the spectrum of risks faced by businesses and
+to develop an understanding of the techniques of managing risks in practical case scenarios.
+1.      Introduction & Overview
+               i.        Introduction to Risk & Uncertainty
+                ii.       Classifications & Types of Risks
+                iii.      Importance & Objectives
+           iv.     Overview of Mitigation & Controls
+          v.       Opportunities in RM for CAs
+2.      Risk Strategy & Governance
+               i.       Risk Management Frameworks
+                ii.      Implementation of Risk Management Policies & Processes
+                iii.      Enterprise Risk and linkage to Business
+           iv.     Governance & Ethical dimensions
+          v.       Legal, Regulatory & Compliance
+3.      Role of Risk Stakeholders
+               i.      Board Oversight
+                ii.      Role of CEO, Management
+                iii.      Role of Risk Managers, Owners
+           iv.      Role of Auditors (Statutory/Internal)
+4.      Risk Assessment
+               i.       Risk Identification
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+vi
+
+                ii.      Risk Evaluation (Impact/Likelihood)
+                iii.      Risk Quantification & Ratings
+           iv.    RM Quantification Tools
+          v.      Risk Prioritization & Heat Matrix
+5.      Risk Response
+               i.       Risk Appetite
+                ii.      Risk Treatment Techniques
+                iii.       Controlling Risk
+           iv.      Contingency Planning
+6      Risk Monitoring & Reporting
+               i.       Information & Communication
+                ii.      Automation & Continuous Monitoring
+                iii.      Auditing & Evaluating Risk
+           iv.      Continuous & Periodic Reporting
+7       Strategic Risk
+               i.       Business Portfolio Risks
+                ii.       Industry/Competition Risks
+                iii.      Investments & Funding of Growth
+           iv.      Product/Service Risks
+8       Operational Risk
+               i.      Process level Risk Management
+                ii.      Outsourcing Risks & 3rd Party Risk
+                iii.      Supply Chain (Sale/ Purchase)
+           iv.      Product/Service Quality etc.
+9      Emerging Issues in ERM
+               i.       External Influences
+                ii.      Global Developments
+                iii.      Technology & Automation
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+vii
+               CONTENTS
+
+
+CHAPTER 1 – INTRODUCTION AND OVERVIEW
+
+Learning Outcomes ................................................................................................................... 1.1
+Chapter Overview ..................................................................................................................... 1.2
+1.       Introduction to Risk & Uncertainty ................................................................................ 1.2
+2.       Classification & Types of Risks .................................................................................... 1.3
+        2.1     Risk Based on source – Internal and External Risks ........................................ 1.3
+        2.2     Risk Based on Nature – Controllable and Uncontrollable Risks ........................ 1.5
+        2.3     Risk Based on Status – Inherent and Residual Risk ......................................... 1.6
+        2.4     Risk Based on Consequences – Outcome of Event.......................................... 1.7
+3.      Importance & Objectives ............................................................................................ 1.11
+        3.1     Importance of Risk Management ................................................................... 1.11
+        3.2     Objectives of Risk Management .................................................................... 1.12
+4.      Overview of Mitigation & Controls ............................................................................... 1.12
+        4.1     Risk Mitigation .............................................................................................. 1.12
+        4.2     Risk Control .................................................................................................. 1.13
+5.       Opportunities in RM for CAs ....................................................................................... 1.13
+        5.1    CA as a Manager .......................................................................................... 1.13
+        5.2    CA as an Auditor .......................................................................................... 1.14
+        5.3    CA as a Consultant ....................................................................................... 1.14
+Test Your Knowledge .............................................................................................................. 1.15
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+viii
+
+CHAPTER 2 – RISK STRATEGY & GOVERNANCE
+
+Learning Outcomes ................................................................................................................... 2.1
+Chapter Overview ..................................................................................................................... 2.2
+1.      Risk Management Framework ...................................................................................... 2.2
+        1.1   COSO Enterprise Risk Management Framework ............................................. 2.3
+        1.2    ISO 31000: 2018............................................................................................. 2.4
+2.      Implementation of Risk Management Polices & Processes ............................................ 2.8
+3.       Enterprise Risk and linkage to Business ....................................................................... 2.9
+        3.1    How ERM can help an organization ............................................................... 2.10
+        3.2    Key components that should be considered by a
+                  firm in developing ERM ................................................................................. 2.10
+        3.3      Integration of Business Continuity Plans and Enterprise
+                Risk Management ......................................................................................... 2.12
+4.      Governance & Ethical dimensions .............................................................................. 2.13
+        4.1     G20/ OECD Guidelines (Principles) For Corporate Governance ..................... 2.16
+        4.2      Ethical Dimensions in Risk Management ....................................................... 2.22
+5.       Legal, Regulatory & Compliance ................................................................................ 2.24
+        5.1     Under the Companies Act, 2013 .................................................................... 2.24
+        5.2     Auditing Standard ......................................................................................... 2.25
+        5.3     Under SEBI (Listing Obligations and Disclosure Requirements)
+                Regulations 2015 .......................................................................................... 2.26
+Test Your Knowledge .............................................................................................................. 2.28
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+ix
+
+CHAPTER 3 – ROLE OF RISK STAKEHOLDERS
+
+Learning Outcomes ................................................................................................................... 3.1
+Chapter Overview ..................................................................................................................... 3.2
+1.       Introduction ................................................................................................................. 3.2
+2.      Board Oversight / Role of Board of Directors ................................................................ 3.3
+3.      Role of CEO & Management ........................................................................................ 3.4
+4.      Role of Risk Managers, Owners ................................................................................... 3.5
+        4.1     Risk Managers ................................................................................................ 3.5
+        4.2     Risk Owners ................................................................................................... 3.5
+5.      Role of Auditors (Statutory/Internal) ............................................................................. 3.7
+        5.1     External Auditor .............................................................................................. 3.7
+        5.2      Internal Auditor ............................................................................................... 3.7
+6.      Test Your Knowledge ................................................................................................... 3.7
+
+CHAPTER 4 – RISK ASSESSMENT
+
+Learning Outcomes ................................................................................................................... 4.1
+Chapter Overview ..................................................................................................................... 4.2
+1.      Risk identification ......................................................................................................... 4.2
+        1.1     Risk identification is the initial step in the process of risk management ............. 4.2
+        1.2     Risk identification sets out to identify an organisation’s
+               exposure to uncertainty ................................................................................... 4.3
+2.      Risk Evaluation (Impact/ Likelihood) ............................................................................. 4.4
+3.      Risk Quantification & Ratings ....................................................................................... 4.5
+4.      Risk Quantification Tools ............................................................................................. 4.7
+        4.1    Judgment and intuition .................................................................................... 4.7
+        4.2     Delphi approach ............................................................................................. 4.7
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+x
+
+        4.3     Scoring ........................................................................................................... 4.9
+        4.4     Quantitative techniques................................................................................... 4.9
+        4.5      Qualitative techniques ..................................................................................... 4.9
+        4.6     Expected Monetary Value ............................................................................. 4.10
+        4.7     Simulation .................................................................................................... 4.10
+        4.8     Decision Tree ............................................................................................... 4.12
+        4.9     Expert Judgement ......................................................................................... 4.16
+        4.10    Frequency of Loss measures ........................................................................ 4.16
+        4.11    Scenario Analysis ......................................................................................... 4.16
+5.      Risk Prioritization & Risk Matrix .................................................................................. 4.18
+        5.1     Benefits of Risk Heat Map/ Risk Matrix .......................................................... 4.20
+        5.2     Flaws of Risk Heat Map/ Risk Matrix ............................................................. 4.20
+Test Your Knowledge .............................................................................................................. 4.21
+
+CHAPTER 5 – RISK RESPONSE
+
+Learning Outcomes ................................................................................................................... 5.1
+Chapter Overview ..................................................................................................................... 5.2
+1.      Risk Appetite ............................................................................................................... 5.2
+        1.1     Risk Appetite Vs. Risk Tolerance .................................................................... 5.2
+        1.2     Factors ........................................................................................................... 5.3
+        1.3     Role of Risk Appetite in Risk Management ...................................................... 5.4
+        1.4     Benefits of Risk Appetite Statement ................................................................ 5.4
+        1.5     Guiding Principles for Effective Risk Appetite Statement .................................. 5.5
+        1.6     Conclusion ..................................................................................................... 5.6
+2.      Risk Treatment Techniques .......................................................................................... 5.6
+        2.1     Tolerate .......................................................................................................... 5.7
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+xi
+
+        2.2     Transfer .......................................................................................................... 5.7
+        2.3     Terminate ....................................................................................................... 5.7
+        2.4     Treat .............................................................................................................. 5.8
+3.       Controlling Risk ........................................................................................................... 5.8
+4.      Contingency Planning ................................................................................................ 5.10
+Test Your Knowledge .............................................................................................................. 5.12
+
+CHAPTER 6 – RISK MONITORING AND REPORTING
+
+Learning Outcomes ................................................................................................................... 6.1
+Chapter Overview ..................................................................................................................... 6.2
+1.       Information and Communication ................................................................................... 6.2
+2.      Automation & Continuous Monitoring ............................................................................ 6.3
+3.       Auditing and Evaluating Risk ........................................................................................ 6.5
+        3.1     Audit Risk Component .................................................................................... 6.6
+        3.2     Steps for Risk Identification ............................................................................. 6.9
+4.      Continuous & Periodic Reporting ................................................................................ 6.10
+Test Your Knowledge .............................................................................................................. 6.13
+
+CHAPTER 7 – STRATEGIC RISK
+
+Learning Outcomes ................................................................................................................... 7.1
+Chapter Overview ..................................................................................................................... 7.2
+1.      Business Portfolio Risks  ............................................................................................. 7.3
+        1.1     Systematic Risk .............................................................................................. 7.4
+        1.2     Unsystematic Risk .......................................................................................... 7.5
+        1.3     Diversion of Risk ............................................................................................. 7.5
+2.       Industry / Competition Risks ......................................................................................... 7.6
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+xii
+
+        2.1     Basis of Competition ....................................................................................... 7.7
+        2.2     Industry Key Success Factors ......................................................................... 7.7
+        2.3     Core-Competencies Analysis .......................................................................... 7.8
+3.       Investments & Funding of Growth ................................................................................ 7.9
+4.      Product / Service Risks ............................................................................................. 7.12
+        4.1     Risk during New Product Development .......................................................... 7.12
+        4.2    How to Reduce Product / Service Risk? ........................................................ 7.13
+Test Your Knowledge .............................................................................................................. 7.14
+
+CHAPTER 8 – OPERATIONAL RISK
+
+Learning Outcomes ................................................................................................................... 8.1
+Chapter Overview ..................................................................................................................... 8.2
+1.      Process level Risk Management  ................................................................................. 8.2
+2.      Outsourcing Risks & 3rd Party Risk .............................................................................. 8.3
+        2.1    When should a company outsource? ............................................................... 8.3
+        2.2     Risks of Outsourcing ....................................................................................... 8.4
+        2.3    How to avoid outsourcing risk? ........................................................................ 8.5
+3.      Supply Chain (Sale / Purchase) .................................................................................... 8.6
+        3.1     Types of Supply Chain .................................................................................... 8.7
+        3.2     Benefits of the Supply Chain  .......................................................................... 8.8
+        3.3     Building a Resilient and Sustainable Supply Chain .......................................... 8.8
+4.      Product / Service Quality etc. ....................................................................................... 8.9
+Test Your Knowledge .............................................................................................................. 8.12
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+xiii
+
+CHAPTER 9 – EMERGING ISSUES IN ERM
+
+Learning Outcomes ................................................................................................................... 9.1
+Chapter Overview ..................................................................................................................... 9.2
+1.       External Influences   .................................................................................................... 9.2
+        1.1     Climate Change and Environmental Risks ....................................................... 9.2
+        1.2     Supply Chain Disruptions ................................................................................ 9.2
+        1.3     Social Media and Reputation Risks ................................................................. 9.3
+        1.4     Regulatory Changes ....................................................................................... 9.3
+        1.5      Political and Geopolitical Risks ....................................................................... 9.3
+2.      Global Developments ................................................................................................... 9.4
+        2.1     Increased Complexity of Risks ........................................................................ 9.4
+        2.2     Regulatory Compliance Challenges ................................................................. 9.5
+        2.3      Cultural and Communication Barriers .............................................................. 9.5
+        2.4      Political and Geopolitical Risks ....................................................................... 9.5
+        2.5     Environmental and Climate Risks .................................................................... 9.5
+        2.6     Data Privacy and Protection ............................................................................ 9.5
+        2.7     Market Volatility .............................................................................................. 9.5
+        2.8     Supply Chain Risks ......................................................................................... 9.5
+        2.9      Crisis Management ......................................................................................... 9.6
+        2.10    Impact of Global Recession on ERM ............................................................... 9.6
+3.      Technology & Automation ............................................................................................ 9.6
+        3.1     Technological Innovations ............................................................................... 9.6
+        3.2     Data Privacy and Compliance ......................................................................... 9.7
+        3.3    Remote Work and Cybersecurity ..................................................................... 9.7
+        3.4     Risk of strategic Alliances  .............................................................................. 9.7
+        3.5     Recent Development/ Challenges in Fraud Risk .............................................. 9.7
+Test Your Knowledge ................................................................................................................ 9.8
+
+
+© The Institute of Chartered Accountants of India

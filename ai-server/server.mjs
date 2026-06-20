@@ -140,7 +140,7 @@ app.use(express.static(ROOT, {
 app.listen(PORT, HOST, () => {
   console.log('');
   console.log('╔══════════════════════════════════════════════════════════════╗');
-  console.log('║  CA Final AI Proxy Server                                   ║');
+  console.log('║  Trinsic AI Proxy Server                                    ║');
   console.log('╚══════════════════════════════════════════════════════════════╝');
   console.log(`  → Server:   http://${HOST}:${PORT}`);
   console.log(`  → Dashboard: http://${HOST}:${PORT}/ind_as_109_unit2_dashboard.html`);

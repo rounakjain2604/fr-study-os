@@ -1,0 +1,2042 @@
+
+
+====================== PAGE 1 ======================
+
+CHAPTER
+
+8
+
+# MUTUAL FUNDS
+
+# LEARNING OUTCOMES
+
+After going through the chapter student shall be able to understand:
+
+☐ Basics of Mutual Funds
+☐ Classification of Mutual Funds
+☐ Types of Schemes
+☐ Advantages and Disadvantages of Mutual Fund
+☐ Terms associated with Mutual Funds
+☐ Evaluation of Mutual Funds
+☐ Role of Fund Manager in Mutual Funds
+☐ Role of FIIs in Mutual Funds
+
+# 1. INTRODUCTION
+
+Mutual Fund is a trust that pools together the resources of investors to make a foray into investments in the capital market thereby making the investor to be a part owner of the assets of the mutual fund. The fund is managed by professional money managers who invest money collected from various investors in stocks, bonds and/or other securities according to stated investment objectives of the Scheme. If the value of the securities where the Scheme has invested into goes up, the return on the investment also goes up and vice versa. The net income earned on the funds, along with capital appreciation of the investment, is shared amongst the unit holders in proportion to the units owned by them. Mutual Fund is therefore a vehicle for the investors to invest in the capital markets. The
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 2 ======================
+
+ADVANCED FINANCIAL MANAGEMENT
+
+Fund House charges fees based on the value of the assets for managing and administering the investment portfolio.
+
+![img-0.jpeg](img-0.jpeg)
+How does a mutual fund work?
+
+## 1.1 Mutual Benefits
+
+Investing in the Capital market via mutual funds is an expert's job in the present market scenario. A regular and systematic investment into Mutual Fund can deliver good returns in the long run. That is why over 2 crore investors have faith & invest in mutual funds.
+
+## 1.2 What is a Mutual Fund?
+
+A mutual fund is a trust that pools the savings of numerous investors who share a common financial goal. A mutual fund is the most suitable investment vehicle for the investors as it offers an opportunity to invest in a basket of diversified securities managed by professionally qualified managers at a relatively low cost. So, we can say that Mutual Funds are trusts which pool resources from large number of investors through issue of units for investments in capital market instruments such as shares, debentures and bonds and money-market instruments like Commercial Papers, Certificate of Deposits and Treasury Bills.
+
+## 1.3 Who can invest in Mutual Funds?
+
+Anybody with an investible surplus of as little as a few thousand rupees can invest in mutual funds by buying units of a particular mutual fund scheme that has a defined investment objective and strategy.
+
+## 1.4 How Mutual Funds work for you?
+
+The money collected from the investors is invested by the fund managers in different types of securities. These could range from shares and debentures to money market instruments depending upon the scheme's stated investment objectives.
+
+The income earned through these investments and capital appreciation realized by the scheme is shared amongst its unit holders in proportion to the units owned by them. (please refer the diagram above)
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 3 ======================
+
+MUTUAL FUNDS
+8.3
+
+# 1.5 Should we invest in Stocks or Mutual Funds?
+
+As soon as you have set your goals and decided to invest in equity, the question arises should you invest in stocks or mutual funds? Well, you need to decide what kind of an investor you are.
+
+First, consider if you have the kind of disposable income to invest in 15-20 stocks. This means that in how many stocks you will have to invest in if you want to create a well-diversified portfolio. Remember the familiar adage: Do not put all your eggs in one basket. If you have only ₹ 5,000 to invest, it would be impractical to invest it across many stocks at your own.
+
+Many beginners tend to focus on stocks that have a market price of less than ₹ 100 or ₹ 50; that should never be a criterion for choosing a stock. Also, brokerage could eat into your returns if you purchase small quantities of a stock.
+
+On the other hand, you would be able to gain access to a wide basket of stocks for ₹ 5,000 if you invest through a mutual fund. Investing in funds would also be an easy way to build your equity portfolio over time.
+
+Let's say you can afford to invest only ₹ 1,000 a month in the Stock market. You can simply invest in a fund every month through a Systematic Investment Plan (SIP) as a matter of financial discipline. You can save yourself the trouble of scouting for a stock every month.
+
+That brings us to the next point. Do you have the time to pick stocks? You need to invest a considerable amount of time reading newspapers, magazines, annual reports, quarterly updates, industry reports and talking to people who are familiar with industry practices. Else, you certainly won't catch a trend or pick a stock ahead of the market. How many great investors have you heard of, who have not made investing their full-time job?
+
+Plus, you may have the time, but not the inclination. You have to be an active investor, which means continuously monitoring the stocks you pick and make changes – buy more, cut exposure – depending upon the unfolding of events. These actions have costs as well. As you churn your portfolio, you bear expenses such as capital gains tax. Mutual Funds do not pay capital gains tax when they sell a stock.
+
+All this assumes that you know what you are doing and have the skill to pick the right stocks. You are likely to be better at investing in an industry you understand. Only too bad, if that industry becomes out of favour in the market.
+
+If you love the thrill of the ups and downs in the stock market; if you find yourself turning to business channels and business newspapers hoping that you can pick the next multi bagger stock like Infosys; if you have an instinct for spotting stocks and, importantly, the discipline to act on it; if you have the emotional maturity to cut your losses when the stock prices are nosediving, then you can trust yourself to invest in stocks.
+
+Otherwise, hand over your money to the professional money managers. Mutual funds could be the best avenue for the risk-averse Investors.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 4 ======================
+
+8.4
+ADVANCED FINANCIAL MANAGEMENT
+
+# 2. CLASSIFICATION OF MUTUAL FUNDS
+
+There are three different types of classification of mutual funds - (1) Functional (2) Portfolio and (3) Ownership.
+
+## 2.1 Functional Classification
+
+Funds are divided into:
+
+(1) Open-Ended funds
+(2) Close-Ended funds and
+(3) Interval Funds
+
+In an Open-Ended scheme, the investor can enter and exit any time. Also, the capital of the fund is unlimited, and the redemption period is indefinite.
+
+On the contrary, in a Close-Ended scheme, the investor can invest into the scheme during New Fund Offer or from the stock market after the units have been listed. The scheme has a limited life at the end of which the corpus is liquidated. The investor can make his exit from the scheme by selling in the stock market, or at the expiry of the scheme or during repurchase period, if any, at his option.
+
+Interval schemes are a combination of an Open-Ended and a Close-Ended structure. These schemes are open for both purchase and redemption during pre-specified intervals (viz. monthly, quarterly, annually etc.) at prevailing NAV based prices. Interval funds are very similar to Close-Ended funds, but differ on the following points:
+
+- They are not required to be listed on the stock exchanges, as they have an in-built redemption window.
+- They can make fresh issue of units during the specified interval period, at the prevailing NAV based prices.
+- Maturity period is not defined.
+
+## 2.2 Portfolio Classification
+
+Funds are classified into Equity Funds, Debt Funds and Special Funds.
+
+Equity funds invest primarily in stocks. A share or stock represents a unit of ownership in a company. If a company is successful, shareholders can profit in two ways:
+
+- the stock price may increase in value, or
+- the company can pass its profits to shareholders in the form of dividends & bonus.
+
+If a company fails, a shareholder can lose the entire value of his or her shares; however, a shareholder is not liable for the debts of the company.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 5 ======================
+
+MUTUAL FUNDS
+8.5
+
+## 2.2.1 Equity Funds
+
+Equity Funds are of the following types viz.
+
+(a) Growth Funds: They seek to provide long term capital appreciation to the investor and are best suited to long term investors.
+
+(b) Aggressive Funds: They look for super normal returns for which investment is made in start-ups, IPOs and speculative shares. They are suited best to investors willing to take risks.
+
+(c) Income Funds: They seek to maximize present income of investors by investing in safe stocks which pay high dividends and in high yield money market instruments. They are best suited to investors seeking current income.
+
+## 2.2.2 Debt Funds
+
+Debt Funds are of two types viz.
+
+(a) Bond Funds: They invest in fixed income securities e.g. government bonds, corporate debentures, convertible debentures, money market instruments etc. Investors seeking tax free income go in for tax-free bonds while those looking for safe, steady income buy government bonds or high grade corporate bonds. Although there have been past exceptions, bond funds tend to be less volatile than equity mutual funds and often produce regular income. For these reasons, investors often use bond funds to diversify, provide a stream of income, or invest for intermediate-term goals. However, like equity mutual funds, bond funds also have following risks.
+
+- Interest Rate Risk: This risk relates to fluctuation in market value of Bond consequent upon the change in interest rate (YTM) as discussed in the chapter on Security Valuation. There is inverse relationship between market value of bond and interest rate. As interest rate goes up market value of Bond falls and vice versa.
+- Credit Risk: This risk is similar to risk of default in repayment of loans or payment of interest or both by the borrowers of the funds. Thus, this risk takes place when a Mutual Fund invested money in the Bonds of a company which defaults in the payment of Interest or Principal.
+
+This risk is higher in case of companies with lower Credit Rating.
+
+- Prepayment Risk: This risk is related to early refund of money by the issuer of Bonds before the date of maturity. This generally happens in case of falling interest rates when a company who already issued Bond at higher interest rate issues fresh Bonds at lower rate of interest exercising its right of early redemption of Callable Bonds and refunding the money raised out of fresh issue.
+- Reinvestment Risk: In a falling interest rate scenario, on maturity of the Bonds on its due date, the maturity proceeds get invested at a lower rate of interest. This brings down the overall yield of the Portfolio. This is known as a Reinvestment Risk. This turns out to be favourable in a rising interest rate scenario.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 6 ======================
+
+8.6
+ADVANCED FINANCIAL MANAGEMENT
+
+(b) Gilt Funds: These Funds invest into Treasury Bills & dated securities issued by the State & Central Govts.
+
+## 2.2.3 Special Funds
+
+Special Funds are of four types viz.
+
+(a) Index Funds: Every stock market has an Index or a basket of shares which represent the economy of the country at large. Index is a barometer which highlights the upward and downward sentiments of the stock market. In Index, every share has a specific weightage and on an aggregate basis, it will become 100. The funds get invested in these stocks exactly in the same weightage which it bears in the Index. Generally, Index Funds are low-cost funds as they are passively managed Funds. The Fund Manager is not managing it actively, but it can influence the stock market. Index Funds deliver the same return what the market delivers e.g., NIFTY 50 Index Fund will invest into 50 stocks of NIFTY in the same proportion it bears and will deliver approx. the same return what Index delivers.
+
+(b) International Funds: A mutual fund which raises money in India but invests globally.
+
+(c) Offshore Funds: A mutual fund located outside India which raises money globally for investing in India.
+
+(d) Sector Funds: They invest their entire fund in a particular sector e.g., Infrastructure, Information & Technology, Pharmaceuticals etc.
+
+(e) Money Market Funds: These are debt-oriented mutual fund schemes, whose main objective is preservation of capital, easy liquidity and moderate income generation. To achieve these objectives, money market funds like liquid funds invest predominantly in safer short-term instruments like Commercial Papers, Certificate of Deposits, Treasury Bills, G-Secs etc.
+
+These schemes are used mainly by institutions and individuals to park their surplus funds for short periods of time. These funds are less vulnerable from changes in the interest rate in the economy and endeavour to capture the current yields prevailing in the market. These Funds offer lower volatility as compared to long dated Bond Funds.
+
+(f) Fund of Funds: Fund of Funds (FoF), as the name suggests are schemes which invest in other mutual fund schemes. The concept is popular in markets where there are number of mutual fund offerings and choosing a suitable scheme according to one's objective is tough. Just as a mutual fund scheme invests in a portfolio of securities such as equity, debt etc, the underlying investments for a FoF is the units of other mutual fund schemes, either from the same fund family or from other fund houses. Some of the popular Fund of Funds are Indian Mutual Funds investing into the Schemes of International Mutual Funds.
+
+(g) Capital Protection Oriented Fund: The term 'capital protection oriented scheme' means a mutual fund scheme which is designed and which endeavours to protect the capital invested therein through suitable orientation of its portfolio structure. The orientation towards
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 7 ======================
+
+MUTUAL FUNDS
+8.7
+
+protection of capital originates from the portfolio structure of the scheme and not from any bank guarantee, insurance cover etc. SEBI stipulations require these types of schemes to be close-ended in nature, listed on the stock exchange and the intended portfolio structure would have to be mandatorily rated by a credit rating agency. A typical portfolio structure could be to set aside major portion of the assets for capital safety and could be invested in highly rated debt instruments. The remaining portion would be invested in equity or equity related instruments to provide capital appreciation. Capital Protection Oriented schemes are a recent entrant in the Indian capital markets and should not be confused with 'capital guaranteed' schemes.
+
+(h) Gold Funds: The objective of these funds is to track the performance of Gold. The units represent the value of gold or gold related instruments held in the scheme. Gold Funds which are generally in the form of an Exchange Traded Fund (ETF) are listed on the stock exchange and offer investors an opportunity to participate in the bullion market without having to take physical delivery of gold.
+
+![img-1.jpeg](img-1.jpeg)
+
+(i) Quant Funds: Quant Fund works on a data-driven approach for stock selection and investment decisions based on pre-determined rules or parameters using statistics or mathematics-based models.
+
+While an active fund manager selects the quantity, price of share and timing of investments (entry or exit) based on his/ her analysis and judgement, in case of Quant Fund a complete reliance is placed on an automated programme that helps in taking decision for quantum of investment as well as its timings and action and the concerned manager has to act accordingly.
+
+However, it is to be noted it does not mean that in this type of Fund there is no human intervention at all, because the Fund Manager usually focuses on the robustness of the Models in use and also monitors its performance on continuous basis and if required some modification is done in the same.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 8 ======================
+
+8.8
+ADVANCED FINANCIAL MANAGEMENT
+
+Sometime the term ‘Quant Fund Manager’ is confused with the term ‘Index Fund Manager’ but it should be noted that both terms are different because while the Index Fund Manager entirely hands off the investment decision purely based on the concerned Index, the Quant Fund Manager designs and monitors models and makes decisions based on the outcomes.
+
+The prime advantage of Quant Fund is that it eliminates the human biasness and subjectivity and by using model-based approach also ensures consistency in strategy across the market conditions.
+
+In addition to that, since the Quant Fund normally follows passive strategy their expense ratio generally tends to be lower than the actively managed Mutual Fund Schemes.
+
+On the con side, since Quant Funds are tested based on historical data and past trends though cannot altogether be ignored but also cannot be used blindly as good indicators.
+
+Thus, overall, it can be said that whether it is human or a machine it is not easy to beat the market.
+
+## 2.3 Ownership Classification
+
+Funds are classified into Public Sector Mutual Funds, Private Sector Mutual Funds and Foreign Mutual Funds. Public Sector Mutual Fund is sponsored by a company/Bank of the public sector. Private Sector Mutual Fund is sponsored by a company of the private sector. Foreign Mutual Fund is sponsored by a foreign company operating from India, for raising funds in India, and investing those funds in India.
+
+## 2.4 Direct Plans in Mutual Funds
+
+Investors were permitted to make direct investments in mutual fund schemes even before 2011, but there were no separate plans for these investments. These investments were made in a regular plan and were tracked with single NAV - one of the regular plans. Therefore, an investor was forced to buy mutual funds based on the NAV of the regular plans. However, things changed with introduction of direct plans by SEBI on January 1, 2013.
+
+Mutual fund direct plans are those plans where Asset Management Companies do not charge distribution expenses, trail fees and transaction charges. NAV of the direct plan is generally higher in comparison to a regular plan. Studies have shown that the 'Direct Plans' have performed better than the 'Regular Plans' for almost all the mutual fund schemes to the extent of lower fees charged by the Mutual Fund Company.
+
+## 3. TYPES OF SCHEMES
+
+### 3.1 Balanced Funds
+
+Balanced funds make strategic allocation to both debt as well as equities. It mainly works on the premise that while the debt portfolio of the scheme provides stability, the equity portfolio provides growth. It can be an ideal option for those who do not wish to take total exposure to equity, but only
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 9 ======================
+
+MUTUAL FUNDS
+8.9
+
+a limited exposure. Such funds provide moderate returns to the investors as the investors are neither taking too high risk nor too low a risk.
+
+## 3.2 Diversified Equity Funds
+
+A Diversified Equity Fund is a fund that contains a wide array of stocks. The fund manager of a Diversified Equity Fund ensures a high level of diversification in its holdings, thereby reducing the amount of concentration risk in the fund.
+
+a. Flexicap Fund: These are by definition, diversified funds. Under this category, the Fund Manager is allowed to invest any proportion across market cap without any restrictions. In case of other categories, the offer document spells out minimum & maximum amount that can/needs to be invested in different market cap stocks. This category offers true diversification to the investors & a lot of flexibility to the Fund Managers.
+
+b. Multicap Fund: Under this category, the Fund Manager is mandated to invest at least 25% each into Large, Mid & Small cap stocks and remaining 25% can be invested at the discretion of the Fund Manager. This category offers diversification with a lot of discipline as a minimum percentage of the assets has to be invested across all market cap stocks.
+
+b. Contra fund: A contra fund invests in those out-of-favour companies that are unrecognized/under valued. It is ideally suited for those investors who want to invest in a fund that has the potential to perform in all types of market environments as it blends together both growth with value opportunities. Investors who invest in contra funds should have an aggressive risk appetite.
+
+c. Index fund: An index fund seeks to track the performance of a benchmark market index like the BSE Sensex or S&P CNX Nifty. Simply put, the fund maintains the portfolio of all the securities in the same proportion as stated in the benchmark index and earns the same return as earned by the market.
+
+d. Dividend Yield fund: A dividend yield fund invests in shares of companies having high dividend yields. Dividend yield is defined as dividend per share divided by the share's market price. Most of these funds invest in stocks of companies having a dividend yield higher than the dividend yield of a particular index, i.e., Sensex or Nifty. The prices of dividend yielding stocks are generally less volatile than growth stocks. Besides, they also offer the potential to appreciate.
+
+Among diversified equity funds, dividend yield funds are considered to be a medium-risk proposition. However, it is important to note that dividend yield funds have not always proved resilient in short-term corrective phases.
+
+There are two options for earning Income from Mutual Fund Schemes which are enumerated as under:
+
+1. Growth/Appreciation or Cumulative Option: Under this option, the investor doesn't get any intermittent income. The investor gets income only at the time of withdrawal of investment.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 10 ======================
+
+8.10
+
+ADVANCED FINANCIAL MANAGEMENT
+
+Till the time of withdrawal, the return gets accumulated & is paid back to the investor at the time of withdrawal in the form of capital gain.
+
+2. Dividend Option: At a regular frequency may be monthly/quarterly/half yearly or Annual, the Scheme declares dividend to the unitholders of the Scheme. Dividend option is further divided in two sub-options as under:
+
+- Dividend Payout Option: Dividends are paid out to the unit holders under this option. However, the NAV of the units falls to the extent of the dividend paid out and applicable statutory levies.
+- Dividend Re-investment Option: The dividend that accrues on units under option is re-invested back into the scheme at ex-dividend NAV. Hence, investors receive additional units on their investments in lieu of dividends.
+
+## 3.3 Equity Linked Savings Scheme (ELSS)
+
+ELSS is one of the options for investors to save taxes under Section 80 C of the Income Tax Act. ELSS also offers the perfect way to participate in the growth of the capital market, having a lock-in-period of three years. Besides, ELSS has the potential to give better returns than any traditional tax savings instrument.
+
+Moreover, by investing in an ELSS through a Systematic Investment Plan (SIP), one can not only avoid the problem of investing a lump sum towards the end of the year but also take advantage of "averaging".
+
+## 3.4 Sector Funds
+
+These funds are highly focused on a particular sector or industry. The basic objective is to enable investors to take advantage of industry cycles. Since sector funds ride on market cycles, they have the potential to offer good returns if the timing is perfect. However, they are more vulnerable to downside risk protection as compared to diversified equity funds.
+
+Sector funds should constitute only a limited portion of one's portfolio, as they are much riskier than the diversified equity funds. Besides, sector funds are not suitable for first time investors into Mutual Funds.
+
+For example, Real Estate Mutual Funds invest in real estate properties and earn income in the form of rentals and capital appreciation from the developed properties. Also, some part of the fund corpus is invested in equity shares or debentures of companies engaged in real estate business or developing real estate development projects. REMFs are required to be close-ended in nature and listed on the stock exchange.
+
+## 3.5 Thematic Funds
+
+A Thematic fund focuses on trends that are likely to result in the 'out-performance' by certain themes, sectors or companies. The theme could vary from multi-sector, international exposure, commodity exposure etc. Unlike a sector fund, thematic funds have a broader outlook.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 11 ======================
+
+MUTUAL FUNDS
+8.11
+
+However, the downside is that the market may take a longer time to recognize views of the fund house with regards to a particular theme, which forms the basis of launching a fund.
+
+## 3.6 Arbitrage Funds
+
+Typically, these funds promise safety of deposits, but better returns, tax benefits and greater liquidity.
+
+The open-ended equity scheme aims to generate low volatility returns by investing in a mix of cash equities, equity derivatives and debt markets. The fund seeks to provide better returns than typical debt instruments and lower volatility in comparison to equity.
+
+Arbitrage fund seeks to capitalize on the price differentials between the spot and the futures market.
+
+## 3.7 Hedge Fund
+
+A Hedge Fund is a lightly regulated investment fund that escapes most regulations by being a sort of private investment vehicle being offered to selected clients.
+
+The big difference between a hedge fund and a mutual fund is that the former does not reveal anything about its operations publicly and charges a performance fee. Typically, if it outperforms a benchmark, it takes a cut off the profits. Of course, this is a one-way street; any losses are borne by the investors themselves. Hedge funds are aggressively managed portfolio of investments which use advanced investment strategies such as leveraged, long, short and derivative positions in both domestic and international markets with the goal of generating high returns (either in an absolute sense or over a specified market benchmark). It is important to note that hedging is actually the practice of attempting to reduce risk, but the goal of most hedge funds is to maximize return on investment.
+
+## 3.8 Cash Fund
+
+Cash Fund is an open-ended liquid scheme that aims to generate returns with lower volatility and higher liquidity through a portfolio of very short dated debt and money market instrument.
+
+Cash Funds offer growth and dividend options.
+
+## 3.9 Exchange Traded Funds
+
+Exchange Traded Funds (ETFs) are hybrids product that combine the features of listed stocks and index fund. These funds are listed on the stock exchanges and their prices are linked to the underlying index. The authorized participants act as market makers for ETFs.
+
+ETFs can be bought and sold like any other stock on an exchange. In other words, ETFs can be bought or sold any time during the market hours at prices that are expected to be closer to the NAV at the end of the day. Therefore, one can invest at real time prices as against the end of the day prices as is the case with open-ended schemes.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 12 ======================
+
+8.12
+
+ADVANCED FINANCIAL MANAGEMENT
+
+There is no paper work involved for investing in an ETF. These can be bought like any other stock by just placing an order with a broker. ETFs may be attractive as investments because of their low costs, tax efficiency, and stock-like features. An ETF combines the valuation feature of a mutual fund or unit investment trust, which can be bought or sold at the end of each trading day for its net asset value, with the tradability feature of a closed-end fund, which trades throughout the trading day at prices that may be more or less than its net asset value. Following types of ETF products are available in the market:
+
+- Index ETFs - Most ETFs are index funds that hold securities and attempt to replicate the performance of a stock market index.
+- Commodity ETFs - Commodity ETFs invest in commodities, such as precious metals and futures.
+- Bond ETFs - Exchange-traded funds that invest in bonds are known as bond ETFs. They thrive during economic recessions because investors pull their money out of the stock market and invest into bonds (for example, government treasury bonds or those issues by companies regarded as financially stable). Because of this cause-and-effect relationship, the performance of bond ETFs may be indicative of broader economic conditions.
+- Currency ETFs - The funds are total return products where the investor gets access to the FX spot change, local institutional interest rates and a collateral yield.
+
+## 3.10 Fixed Maturity Plans
+
+Fixed Maturity Plans (FMPs) are closely ended mutual funds in which an investor can invest during a New Fund Offer (NFO). FMPs usually invest in Certificates of Deposits (CDs), Commercial Papers (CPs), Money Market Instruments and Non-Convertible Debentures over fixed investment period. Sometimes, they also invest in Bank Fixed Deposits.
+
+In New Fund Offers, during the course of which FMPs are issued, are later traded on the stock exchange where they are listed. But, the trading in FMPs is very less. So, basically FMPs are not liquid instruments.
+
+The main advantage of Fixed Maturity Plans is that they are free from any interest rate risk because FMPs invest in debt instruments that have the same maturity as that of the fund. However, they carry credit risk, as there is a possibility of default by the debt issuing company. So, if the credit rating of an instrument is downgraded, the returns of FMP can come down.
+
+Presently, most of the FMPs are launched with tenure of three years to take the benefit of indexation. But, because of the longer maturity period they find it difficult to provide good returns in the form of interest to the investors in highest rated instruments. They, therefore assign some portions of the invested funds in AA and below rated debt instruments to earn higher interest. The reason is that lower rated instruments carry higher coupon rates than higher rated instruments.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 13 ======================
+
+MUTUAL FUNDS
+8.13
+
+# 4. ADVANTAGES OF MUTUAL FUND
+
+(a) Professional Management: The funds are managed by skilled and professionally experienced managers backed by a team of Research Analysts.
+
+(b) Diversification: Mutual Funds invest into many securities and offer diversification which reduces the concentration risk.
+
+(c) Convenient Administration: There are no administrative risks of share transfer, as many of the Mutual Funds offer services in a demat form which saves investor's time and prevents delay.
+
+(d) Higher Returns: Over a medium to long-term investment horizon, investors get higher returns in Mutual Funds as compared to other avenues of investment. However, investors are cautioned that such very high returns during the exceptional bull phase of the market like IT boom or Infrastructure boom should not be considered as regular returns and therefore one should look at the average returns provided by the Mutual Funds particularly in the equity schemes over a long period of time.
+
+(e) Low Cost of Management: SEBI has prescribed maximum limit of charging 2.50% for Equity Mutual Funds. No Mutual Fund can increase the cost beyond prescribed limits of 2.5% maximum and any extra cost of management is to be borne by the AMC.
+
+(f) Liquidity: In all the open ended funds, liquidity is provided by direct sales / repurchase by the Mutual Fund and in case of close ended funds, the liquidity is provided by listing the units on the Stock Exchange.
+
+(g) Transparency: The SEBI Regulations now compel all the Mutual Funds to disclose their portfolios on a half-yearly basis. However, many Mutual Funds disclose their Scheme Portfolio on a quarterly or monthly basis to their investors. The NAVs are calculated on a daily basis in case of open ended funds and are published through AMFI in the newspapers.
+
+(h) Other Benefits: Mutual Funds provide systematic withdrawal and systematic investment plans according to the need of the investors. The investors can also switch from one scheme to another without any restrictions except in case of Tax Savings Fund which restricts switch out for first 3 years of its investments.
+
+(i) Highly Regulated: Mutual Funds all over the world are highly regulated and in India all Mutual Funds are registered with SEBI and are strictly regulated as per the Mutual Fund Regulations which provide high level of investor protection.
+
+(j) Economies of scale: The way mutual funds are structured gives it a natural advantage. The "pooled" money from numerous investors ensures that mutual funds enjoy economies of scale; it is cheaper compared to investing directly in the capital markets which involves higher charges. This also allows retail investors access to participation in the Capital Market which otherwise is difficult for them go directly.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 14 ======================
+
+8.14
+
+ADVANCED FINANCIAL MANAGEMENT
+
+(k) **Flexibility**: One of the biggest advantages of a Mutual Fund Scheme is its flexibility. An investor can opt for Systematic Investment Plan (SIP), Systematic Withdrawal Plan etc. to plan his cash flow requirements as per his convenience. The wide range of schemes being launched in India by different mutual funds also provides an added flexibility to the investor to plan his portfolio accordingly.
+
+(l) **Convenience**: It is very convenient & easy to invest & disinvest from Mutual Fund Schemes specially through digital transaction portals.
+
+# 5. DRAWBACKS OF MUTUAL FUND
+
+(a) **No guarantee of Return** – There are three issues involved:
+
+(i) All Mutual Funds cannot be winners. There may be some Schemes who may underperform against the benchmark index. However, the Fund Manager will endeavour to give better return than the underlying benchmark Index in the long run.
+
+(ii) A mutual fund may perform better than the stock market but this does not necessarily lead to a similar gain for every investor. This is because of the different entry & exit points for each investor.
+
+(iii) In case of a massive fall in the value of the stocks held in the Portfolio, the investor may lose principal in the short-term e.g., during Global Financial Crisis in 2008 or during outbreak of Covid 19 pandemic in 2020 etc. But if the investment is held for a longer term, the chances of losing principal are very remote & negligible.
+
+(b) **Diversification** – A mutual fund helps to create a diversified portfolio. Though diversification minimizes risk, it does not ensure maximizing returns. The returns that mutual funds offer is at times lesser than what an investor can earn from a single stock. For example, if a single security held by a mutual fund double in value, the mutual fund itself would not double in value because that security is only one small part of the fund's holdings. By holding a large number of different investments, mutual funds tend to do neither exceptionally well nor exceptionally poor.
+
+(c) **Selection of Proper Fund** – It may be easy for someone to select the right share rather than the right mutual fund scheme. For stocks, one can rely his selection on the parameters of economic, industry and company analysis. In case of mutual funds, past performance is the one of the most important criteria to fall back upon but the past performance cannot predict the future.
+
+(d) **Cost Factor** – Every Mutual Fund Scheme charges some fund management fees as a part of Annual Recurring Expenses. Although there are no charges/load on entry, but at times an exit may get charged if withdrawn before a stipulated period, known as “Exit Load”. Amount withdrawn after the stipulated period of holding, if withdrawn, doesn’t attract any Exit Load. The fees paid to the Asset Management Company is in no way related to performance.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 15 ======================
+
+MUTUAL FUNDS
+8.15
+
+# 6. TERMS ASSOCIATED WITH MUTUAL FUNDS
+
+## 6.1 Net Asset Value (NAV)
+
+It is the value of per unit of Portfolio holding. It is the value that a unit holder would receive per unit if the mutual fund gets redeemed. An investor in mutual fund is a part owner of all its assets and liabilities. Returns to the investor are determined by the interplay of two elements, Net Asset Value and Costs of Mutual Fund. Net Asset Value is the mutual fund's calling card. It is the basis for assessing the return that an investor has earned. There are three aspects which need to be highlighted:
+
+(i) It is the net value of all assets less liabilities. NAV represents the market value of total assets of the Fund less total liabilities attributable to those assets on a per unit basis.
+
+(ii) NAV changes daily. The value of assets and liabilities changes daily. NAV today will not be NAV tomorrow or day later. NAV fluctuates depending upon the change in the value of the assets & liability on a daily basis.
+
+(iii) NAV is computed on per unit basis i.e., dividing the Net Asset Value by number of Outstanding Units.
+
+### How Net Asset Value is calculated?
+
+It is value of net assets of the funds. The investor's subscription is treated as the unit capital in the balance sheet of the fund and the investments on their behalf are treated as assets. The fund's net assets are defined as the assets less liabilities.
+
+$$
+\mathrm{NAV} = \frac{\text{Net asset of the scheme}}{\text{Number of units outstanding}}
+$$
+
+Net Assets of the Scheme = Market value of investments + Receivables + Other accrued income + other assets - Accrued Expenses - Other Payables - Other Liabilities
+
+## 6.2 Entry and Exit Load in Mutual Funds
+
+Some Asset Management Companies (AMCs) have sales charges, or loads, on their funds (entry load and/or exit load) to compensate for distribution costs. Funds that can be purchased without a sales charge are called no-load funds.
+
+Entry load is charged at the time an investor purchases the units of a scheme. The entry load percentage is added to the prevailing NAV at the time of allotment of units. Hence, to that extent, the investor is allotted lesser no. of units. As of now, none of the Mutual Fund Scheme has any Entry Load/Charge.
+
+Exit load is charged at the time of redeeming (or transferring an investment between schemes). The exit load percentage is deducted from the NAV at the time of redemption (or transfer between schemes). This amount goes into the pool of funds of the scheme and not with the Asset
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 16 ======================
+
+8.16
+
+ADVANCED FINANCIAL MANAGEMENT
+
+Management Company. Most of the Mutual Fund Schemes don't have Exit Load, if units are held for a stipulated period of time. Hence, in theory, therefore, Entry and Exit Load in Mutual Fund are the charges one pays while buying and selling the fund respectively. But practically these charges have been done away with in the recent times.
+
+## Example
+
+Mr. X earns 10% on his investments in equity shares. He is considering a recently floated scheme of a Mutual Fund where the initial expenses are 6% and annual recurring expenses are expected to be 2%. How much the Mutual Fund scheme should earn to provide a return of 10% to Mr. X?
+
+## Answer
+
+$$
+r_2 = \frac{1}{1 - \text{initial exp}} \times r_1 + \text{recurring exp}.
+$$
+
+The rate of return the mutual fund should earn; $= \frac{1}{1 - 0.06} \times 0.1 + 0.02 = 0.1264$ or $12.64\%$
+
+## 6.3 Trail Commission
+
+It is the amount that a mutual fund investor pays to his advisor each year. The purpose of charging this commission from the investor is to provide incentive to the advisor to review their customer's holdings and to give advice from time to time.
+
+Distributors usually charge a trail commission of 0.30-0.75% on the value of the investment for each year that the investor's money remains invested with the fund company.
+
+This is calculated as a percentage of the daily average assets under management of the distributor and is paid monthly. This is separate from upfront commission, if any, paid by the fund company to the distributor out of its own pocket.
+
+## 6.4 Expense Ratio
+
+It is the percentage of the assets that were spent to run a mutual fund. It includes things like management and advisory fees, travel costs, audit fees, custodian fees, registrar fees, consultancy fees etc. The expense ratio does not include brokerage costs for trading the portfolio. It is also referred to as the Management Expense Ratio (MER) or Total Expense Ratio (TER)
+
+Paying close attention to the expense ratio is necessary. The reason is it can sometimes be as high as 2-3% which can seriously undermine the performance of a mutual fund scheme.
+
+## 6.5 Side Pocketing
+
+In simple words, a Side Pocketing in Mutual Funds leads to separation of risky or doubtful assets from other investments and cash holdings. The purpose is to make sure that money invested in a mutual fund, which is linked to stressed assets, gets locked, until the fund recovers the money from the company or could avoid distress selling of illiquid securities.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 17 ======================
+
+MUTUAL FUNDS
+8.17
+
+The modus operandi is simple. Whenever, the rating of a mutual fund decreases, the fund shifts the illiquid assets into a side pocket so that current shareholders can be benefitted from the liquid assets. Consequently, the Net Asset Value (NAV) of the fund will then reflect the actual value of the liquid assets.
+
+Side Pocketing is beneficial for those investors who wish to hold on to the units of the main funds for long term. Therefore, the process of Side Pocketing ensures that liquidity is not the problem even in the circumstances of frequent allotments and redemptions.
+
+Side Pocketing is quite common internationally. However, Side Pocketing has also been resorted to bereft the investors of genuine returns.
+
+In India recent fiasco in the Infrastructure Leasing and Financial Services (IL&FS) has led to many discussions on the concept of side pocketing as IL&FS and its subsidiaries have failed to fulfill their repayments obligations due to severe liquidity crisis.
+
+The Mutual Funds have given low to negative returns because they have completely written off their exposure to IL&FS instruments.
+
+## 6.6 Tracking Error
+
+Tracking error can be defined as the divergence or deviation of a fund's return from the benchmarks return it is following.
+
+The passive fund managers closely follow or track the benchmark index. Although they design their investment strategy on the same index but often it may not exactly replicate the index return. In such situation, there is possibility of deviation between the returns.
+
+The tracking error can be calculated on the basis of corresponding benchmark return vis a vis quarterly or monthly average NAVs.
+
+Higher the tracking error higher is the risk profile of the fund. Whether the funds outperform or underperform their benchmark indices; it clearly indicates that of fund managers are not following the benchmark indices properly. In addition to the same, other reasons for tracking error are as follows:
+
+- Transaction cost
+- Fees charged by AMC's
+- Fund expenses
+- Cash holdings
+- Sampling biasness
+
+Thus, from above it can be said that to replicate the return of any benchmark index the tracking error should be near to zero.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 18 ======================
+
+8.18
+
+ADVANCED FINANCIAL MANAGEMENT
+
+The Tracking Error is calculated as follows:
+
+$$
+T E = \sqrt {\frac {\sum (d - \bar {d}) ^ {2}}{n - 1}}
+$$
+
+d = Differential return
+
+$\bar{d} =$ Average differential return
+
+n = No. of observation
+
+## 7. EVALUATION OF MUTUAL FUNDS
+
+Not only selection and making investment in any scheme of Mutual Fund is important, the evaluation of performance of the same fund is also equally important. The purpose of evaluation of performance is to ensure that fund should continue to generate maximum profits with minimum underlying risk. If performance is not up to the market then you have to decide to hold it or replace it. Another strong reason to evaluate the performance of a Mutual Fund is that the past performance cannot guarantee the future performance.
+
+Now question arises how often you should evaluate the performance of Mutual Funds. The answer is that since market is subject to fluctuations, evaluation of performance on daily basis is not advisable. Further, at least a time of 3 to 5 year should be given to equity fund to assess its return. However, ideally the performance should be evaluated at least every six/twelve month.
+
+Next big question comes how to evaluate the performance of a Mutual Fund. Generally, both Quantitative and Qualitative Parameters can be used to evaluate the performance of any Mutual Fund.
+
+## 7.1 Quantitative Parameters
+
+These parameters consist of quantitative data and numbers. Following are some quantitative parameters for the evaluation of Mutual Funds.
+
+(1) Risk Adjusted Returns: - Basically it is the return of a Mutual Fund relative to the risk it assumed as benchmarked against the market and industry risk.
+
+Suppose if we are given a choice to select a Mutual Fund out of the two Mutual Funds giving same return, then we shall opt for the fund that has lower risk.
+
+(2) Benchmark Returns: - Benchmark can be defined as the quality or set of standards against which performance of Mutual Fund can be measured. A good Mutual Fund performs over and above its benchmark during all phases of market, this excess return is known as 'Alpha'. For example, generally Equity funds are benchmarked to the Sensex or Nifty 50. Suppose if during a particular period of time Index has provided a return of $11\%$ whereas a Mutual Fund has provided a return of
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 19 ======================
+
+MUTUAL FUNDS
+8.19
+
+13% then the same fund has outperformed the benchmark i.e., Index. Similarly, if same Fund has provided a return of 8% then it has underperformed.
+
+(3) Comparison to Peers: - Similar to evaluating performance of Mutual Fund against Benchmark, the comparison of relative performance of fund with its peers (of same category) is another quantitative method because evaluation of performance in isolation does not have any meaning. Further there is a logic behind comparison with peers that it is fair to compare apples with apples not with oranges. A good mutual fund is supposed to consistently beat its peers in performance only then it is worthwhile to hold it.
+
+(4) Comparison of Returns across different economic and market cycles: - At the time of evaluating performance of any Mutual Fund it is not just looking across different time frames such as 6 months, 12 months etc. but performance during different economic and market cycles also needs to be evaluated because, due to some special economic or market condition a Mutual Fund might have outperformed/underperformed for a short time. It may not be necessary that such conditions shall be continued in future period for ever.
+
+(5) Financial Measures: - There are some financial measures that help in evaluation of performance of any Mutual Fund which are as follows:
+
+(a) Expense Ratio: - Discussed in earlier section, it ultimately impacts the return of a Mutual Fund Scheme.
+
+(b) Sharpe Ratio: - As discussed in the chapter on Portfolio Management, this ratio measures the Mutual Fund's performance measured against the total risk (both systematic and unsystematic) taken.
+
+(c) Treynor Ratio: - As discussed in the chapter on Portfolio Management, beta measures the volatility of return of a security vis-à-vis to the market, in mutual funds the Beta of a mutual fund measures volatility of a fund's return to return from its Benchmark. Treynor Ratio measures performance of a mutual fund against the systematic risk it has taken.
+
+(d) Sortino Ratio: - A variation of Sharpe Ratio that considers and uses downside deviation instead of total standard deviation in denominator.
+
+## 7.2 Qualitative Parameters
+
+Some of the Qualitative factors that need to be taken into account in addition to Quantitative Factors are as follows: -
+
+(1) Quality of Portfolio: - Quality of stocks and securities in the portfolio of the Mutual Funds is an important qualitative parameter. The reason is that the quality of the portfolio plays a big role in achieving superior returns. The qualitative characteristic of portfolio of Equity Mutual Fund involves allocation of funds in top Blue-chip companies, large companies and how diversified is the portfolio. The style followed can be growth, value or blend of the same. In Debt Funds, the quality of portfolio
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 20 ======================
+
+8.20
+
+ADVANCED FINANCIAL MANAGEMENT
+
+is measured on the basis of credit quality, average maturity and modified duration of the fixed asset securities.
+
+Not only that it is necessary that Mutual Fund should hold good quality stocks or securities, but it is also necessary the investment should be as per the objective of the Fund. Under normal circumstances, the fund having lower Portfolio Turnover ratio is considered to be better.
+
+(2) Track record and competence of Fund Manager: - Since Fund Manager decides about the selection of securities and takes investment decisions, his/her competence and conviction plays a very big role. The competence of a Fund Manager is assessed from his/her knowledge and ability to manage in addition to past performance.
+
+(3) Credibility of Fund House Team: - Team of Fund House also plays a big role towards the investors' interest. In addition to investment decisions, there are some other administrative tasks also such as redemption of units, crediting of dividend, providing adequate information etc. which play a crucial role in qualitative assessment of any mutual fund house.
+
+# 8. ROLE OF FUND MANAGERS IN MUTUAL FUNDS
+
+Like Portfolio Manager (who manages individual's fund) a Fund manager is a gatekeeper of funds of any Mutual Fund. While his main responsibility is to ensure good performance of the fund he/she is managing, but there are other roles as well. The nature of Fund manager's role also depends on the fact that whether Fund is an Actively Managed Fund or a Passively Managed Fund.
+
+# 8.1 Actively Managed Funds
+
+Fund Manager's role in these funds is more crucial as through use of his extensive research, judgement and due diligence, he/she has to outperform the market and generate positive alpha. Right stock picking can help him to outperform.
+
+# 8.2 Passively Managed Funds
+
+Contrary to Actively Managed Funds, in these types of Funds, mainly Fund Manager's role is to match the return of the underlying index with the minimum Tracking Error.
+
+In addition to the abovementioned primary role of a Fund Manager, following are other key roles of a Fund Manager
+
+(a) Compliances: - Nowadays there are a plethora of Regulations in the Capital Market. As a result, the number of Regulatory Compliances has increased multifold. Fund Manager must ensure that:
+
+- Compliance of various Guidelines as laid down by SEBI, AMFI etc.
+- Ensuring various reporting such as Expenses Ratio, redemption of funds etc.
+- Ensuring that investors are aware of various required details and rules.
+- Ensuring that all required documents are furnished on time.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 21 ======================
+
+MUTUAL FUNDS
+8.21
+
+(b) Constant Monitoring the Performance of the Fund: - The role of a Fund Manager does not end with selection of securities or avenues for investments, but he/ she also has to evaluate them on a continuous basis. It is the Mutual Fund Manager's decision to enter or exit market that maximises the wealth of unit holders. The performance of a Fund Manager is not only judged on the basis of return but also on growth achieved above inflation and interest rate.
+
+(c) Creation of Wealth and Protection: - This role can be considered as a fundamental role of a Fund Manager. Though wealth creation for investors is very important but reckless assumption to risk should be avoided. The investments should be made after a thorough research using Fundamental Analysis and Technical Analysis techniques.
+
+(d) Control over the works outsourced to third parties: - In many cases some of the works of the Funds are required to be outsourced to any third party. In such cases, it is the duty of the Fund Manager to exercise proper control over functioning of the third party to ensure error free operations.
+
+# 9. ROLE OF FILS IN MUTUAL FUNDS
+
+We often come across the term FILS which represent the Foreign Institutional Investors. FILS are large foreign groups with substantial investible funds. FILS are registered abroad with a view to investing in other nations to invest in equity market, hedge funds, pension funds and mutual funds. FILS have strong research team which guides them to invest in a country with a possibility of strong return in equity market. These funds park their funds to fuel a bullish market.
+
+FILS are an important source of capital in any economy especially in developing economies. However as mentioned above, Normally, FILS fuel a bullish market for a short period of time and hence the nation experiences a strong inflow of foreign currency in its financial system at that time.
+
+Foreign Institutional Investors can buy units of domestic mutual funds either directly from the issuer of such securities or through a registered stock broker on a recognized stock exchange in India. These investments are subject to limits notified by SEBI. Foreign institutional investors play a very important role in any economy. The FILS plays an important role for Indian Economy through their investment in Mutual Funds because of following reasons:
+
+(a) Enhanced Corporate Governance: - Generally FILS before making investment in any Mutual Fund carries out thorough due diligence of Corporate Governance. Hence, Corporate Governance is improved to a great extent.
+
+(b) Improved Competition in Market: - With the investment of FILS in Mutual Funds improvement takes place in the capital market.
+
+(c) Improved Inflow of Capital in the economy: - With the investment of funds in Mutual Funds in the economy not only employment is generated but the position of Foreign Exchange also improves.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 22 ======================
+
+8.22
+
+ADVANCED FINANCIAL MANAGEMENT
+
+# TEST YOUR KNOWLEDGE
+
+## Theoretical Questions
+
+1. Explain how to establish a Mutual Fund.
+2. What are the advantages of investing in Mutual Funds?
+
+## Practical Questions
+
+1. Mr. A can earn a return of 16 per cent by investing in equity shares on his own. Now he is considering a recently announced equity based mutual fund scheme in which initial expenses are 5.5 per cent and annual recurring expenses are 1.5 per cent. How much should the mutual fund earn to provide Mr. A return of 16 per cent?
+2. The unit price of Equity Linked Savings Scheme (ELSS) of a mutual fund is ₹ 10/-. The public offer price (POP) of the unit is ₹ 10.204 and the redemption price is ₹ 9.80.
+
+Calculate:
+
+(i) Front-end Load
+(ii) Back end Load
+
+3. A mutual fund that had a net asset value of ₹ 20 at the beginning of month - made income and capital gain distribution of ₹ 0.0375 and ₹ 0.03 per share respectively during the month, and then ended the month with a net asset value of ₹ 20.06. Calculate monthly return.
+4. An investor purchased 300 units of a Mutual Fund at ₹ 12.25 per unit on 31st December, 2009. As on 31st December, 2010 he has received ₹ 1.25 as dividend and ₹ 1.00 as capital gains distribution per unit.
+
+Required:
+
+(i) The return on the investment if the NAV as on 31st December, 2010 is ₹ 13.00.
+(ii) The return on the investment as on 31st December, 2010 if all dividends and capital gains distributions are reinvested into additional units of the fund at ₹ 12.50 per unit.
+
+5. SBI mutual fund has a NAV of ₹ 8.50 at the beginning of the year. At the end of the year NAV increases to ₹ 9.10. Meanwhile fund distributes ₹ 0.90 as dividend and ₹ 0.75 as capital gains.
+
+(i) What is the fund's return during the year?
+(ii) Had these distributions been re-invested at an average NAV of ₹ 8.75 assuming 200 units were purchased originally. What is the return?
+
+6. The following information is extracted from Steady Mutual Fund's Scheme:
+
+- Asset Value at the beginning of the month - ₹ 65.78
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 23 ======================
+
+MUTUAL FUNDS
+8.23
+
+- Annualised return -15 %
+- Distributions made in the nature of Income & Capital gain (per unit respectively). - ₹ 0.50 and ₹ 0.32
+
+You are required to:
+(i) Calculate the month end net asset value of the mutual fund scheme (limit your answers to two decimals).
+(ii) Provide a brief comment on the month end NAV.
+
+7. Cinderella Mutual Fund has the following assets in Scheme Rudolf at the close of business on 31st March, 2014.
+
+|  Company | No. of Shares | Market Price Per Share  |
+| --- | --- | --- |
+|  Nairobi Ltd. | 25000 | ₹ 20  |
+|  Dakar Ltd. | 35000 | ₹ 300  |
+|  Senegal Ltd. | 29000 | ₹ 380  |
+|  Cairo Ltd. | 40000 | ₹ 500  |
+
+The total number of units of Scheme Rudolf are 10 lacs. The Scheme Rudolf has accrued expenses of ₹ 2,50,000 and other liabilities of ₹ 2,00,000. Calculate the NAV per unit of the Scheme Rudolf.
+
+8. A Mutual Fund Co. has the following assets under it on the close of business as on:
+
+|  Company | No. of Shares | 1st February 2012 | 2nd February 2012  |
+| --- | --- | --- | --- |
+|   |   |  Market price per share | Market price per share  |
+|  L Ltd | 20,000 | 20.00 | 20.50  |
+|  M Ltd | 30,000 | 312.40 | 360.00  |
+|  N Ltd | 20,000 | 361.20 | 383.10  |
+|  P Ltd | 60,000 | 505.10 | 503.90  |
+
+Total No. of Units 6,00,000
+
+(i) Calculate Net Assets Value (NAV) of the Fund.
+(ii) Following information is given:
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 24 ======================
+
+8.24
+
+ADVANCED FINANCIAL MANAGEMENT
+
+Assuming one Mr. A, submits a cheque of ₹ 30,00,000 to the Mutual Fund and the Fund manager of this company purchases 8,000 shares of M Ltd; and the balance amount is held in Bank. In such a case, what would be the position of the Fund?
+
+(iii) Find new NAV of the Fund as on 2nd February 2012.
+
+9. On 1st April 2009 Fair Return Mutual Fund has the following assets and prices at 4.00 p.m.
+
+|  Shares | No. of Shares | Market Price Per Share (₹)  |
+| --- | --- | --- |
+|  A Ltd. | 10000 | 19.70  |
+|  B Ltd. | 50000 | 482.60  |
+|  C Ltd. | 10000 | 264.40  |
+|  D Ltd. | 100000 | 674.90  |
+|  E Ltd. | 30000 | 25.90  |
+|  No. of units of funds |  | 8,00,000  |
+
+Please calculate:
+
+(a) NAV of the Fund on 1st April 2009.
+
+(b) Assuming that on 1st April 2009, Mr. X, a HNI, send a cheque of ₹ 50,00,000 to the Fund and Fund Manager immediately purchases 18000 shares of C Ltd. and balance is held in bank. Then what will be position of fund.
+
+(c) Now suppose on 2 April 2009 at 4.00 p.m. the market price of shares is as follows:
+
+|  Shares | ₹  |
+| --- | --- |
+|  A Ltd. | 20.30  |
+|  B Ltd. | 513.70  |
+|  C Ltd. | 290.80  |
+|  D Ltd. | 671.90  |
+|  E Ltd. | 44.20  |
+
+Then what will be new NAV.
+
+10. A has invested in three Mutual Fund Schemes as per details below:
+
+|  Particulars | MF A | MF B | MF C  |
+| --- | --- | --- | --- |
+|  Date of investment | 01.12.2009 | 01.01.2010 | 01.03.2010  |
+|  Amount of investment | ₹ 50,000 | ₹ 1,00,000 | ₹ 50,000  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 25 ======================
+
+MUTUAL FUNDS
+8.25
+
+|  Net Asset Value (NAV) at entry date | ₹ 10.50 | ₹ 10 | ₹ 10  |
+| --- | --- | --- | --- |
+|  Dividend received upto 31.03.2010 | ₹ 950 | ₹ 1,500 | Nil  |
+|  NAV as at 31.03.2010 | ₹ 10.40 | ₹ 10.10 | ₹ 9.80  |
+
+Required:
+
+What is the effective yield on per annum basis in respect of each of the three schemes to Mr. A upto 31.03.2010?
+
+11. Mr. Sinha has invested in three Mutual fund schemes as per details below:
+
+|   | Scheme X | Scheme Y | Scheme Z  |
+| --- | --- | --- | --- |
+|  Date of Investment | 01.12.2008 | 01.01.2009 | 01.03.2009  |
+|  Amount of Investment | ₹ 5,00,000 | ₹ 1,00,000 | ₹ 50,000  |
+|  Net Asset Value at entry date | ₹ 10.50 | ₹ 10.00 | ₹ 10.00  |
+|  Dividend received upto 31.03.2009 | ₹ 9,500 | ₹ 1,500 | Nil  |
+|  NAV as at 31.3.2009 | ₹ 10.40 | ₹ 10.10 | ₹ 9.80  |
+
+You are required to calculate the effective yield on per annum basis in respect of each of the three schemes to Mr. Sinha upto 31.03.2009.
+
+12. Mr. Y has invested in the three mutual funds (MF) as per the following details:
+
+|  Particulars | MF ‘X’ | MF ‘Y’ | MF ‘Z’  |
+| --- | --- | --- | --- |
+|  Amount of Investment (₹) | 2,00,000 | 4,00,000 | 2,00,000  |
+|  Net Assets Value (NAV) at the time of purchase (₹) | 10.30 | 10.10 | 10  |
+|  Dividend Received up to 31.03.2018 (₹) | 6,000 | 0 | 5,000  |
+|  NAV as on 31.03.2018 (₹) | 10.25 | 10 | 10.20  |
+|  Effective Yield per annum as on 31.03.2018 (percent) | 9.66 | -11.66 | 24.15  |
+
+Assume 1 Year =365 days
+
+Mr. Y has misplaced the documents of his investment. Help him in finding the date of his original investment after ascertaining the following:
+
+(i) Number of units in each scheme;
+(ii) Total NAV;
+(iii) Total Yield; and
+(iv) Number of days investment held.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 26 ======================
+
+8.26
+
+ADVANCED FINANCIAL MANAGEMENT
+
+13. Mr. X on 1.7.2007, during the initial offer of some Mutual Fund invested in 10,000 units having face value of ₹ 10 for each unit. On 31.3.2008, the dividend paid by the M.F. was 10% and Mr. X found that his annualized yield was 153.33%. On 31.3.2009, 20% dividend was given. On 31.3.2010, Mr. X redeemed all his balance of 11,296.11 units when his annualized yield was 73.52%. What are the NAVs as on 31.3.2008, 31.3.2009 and 31.3.2010?
+
+14. Mr. X on 1.7.2012, during the initial public offer of a Mutual Fund (MF) invested ₹ 1,00,000 at Face Value of ₹ 10. On 31.3.2013, the MF declared a dividend of 10% when Mr. X calculated that his holding period return was 115%. On 31.3.2014, MF again declared a dividend of 20%. On 31.3.2015, Mr. X redeemed all his investment which had accumulated to 11,296.11 units when his holding period return was 202.17%.
+
+Calculate the NAVs as on 31.03.2013, 31.03.2014 and 31.03.2015.
+
+15. A Mutual Fund having 300 units has shown its NAV of ₹ 8.75 and ₹ 9.45 at the beginning and at the end of the year respectively. The Mutual Fund has given two options:
+
+(i) Pay ₹ 0.75 per unit as dividend and ₹ 0.60 per unit as a capital gain, or
+(ii) These distributions are to be reinvested at an average NAV of ₹ 8.65 per unit.
+
+What difference would it make in terms of return available and which option is preferable?
+
+16. On 1-4-2012 ABC Mutual Fund issued 20 lakh units at ₹ 10 per unit. Relevant initial expenses involved were ₹ 12 lakhs. It invested the funds so raised in capital market instruments to build a portfolio of ₹ 185 lakhs. During the month of April 2012 it disposed off some of the instruments costing ₹ 60 lakhs for ₹ 63 lakhs and used the proceeds in purchasing securities for ₹ 56 lakhs. Fund management expenses for the month of April 2012 was ₹ 8 lakhs of which 10% was in arrears. In April 2012 the fund earned dividends amounting to ₹ 2 lakhs and it distributed 80% of the realized earnings. On 30-4-2012 the market value of the portfolio was ₹ 198 lakhs.
+
+Mr. Akash, an investor, subscribed to 100 units on 1-4-2012 and disposed off the same at closing NAV on 30-4-2012. What was his annual rate of earning?
+
+17. Sun Moon Mutual Fund (Approved Mutual Fund) sponsored open-ended equity-oriented scheme "Chanakya Opportunity Fund". There were three plans viz. 'A' - Dividend Reinvestment Plan, 'B' - Bonus Plan & 'C' - Growth Plan.
+
+At the time of Initial Public Offer on 1.4.1999, Mr. Anand, Mr. Bacchan & Mrs. Charu, three investors invested ₹ 1,00,000 each & chose 'B', 'C' & 'A' Plan respectively.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 27 ======================
+
+MUTUAL FUNDS
+8.27
+
+The History of the Fund is as follows:
+
+|  Date | Dividend % | Bonus Ratio | Net Asset Value per Unit (F.V. ₹ 10)  |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   |   |   |  Plan A | Plan B | Plan C  |
+|  28.07.2003 | 20 |  | 30.70 | 31.40 | 33.42  |
+|  31.03.2004 | 70 | 5 : 4 | 58.42 | 31.05 | 70.05  |
+|  31.10.2007 | 40 |  | 42.18 | 25.02 | 56.15  |
+|  15.03.2008 | 25 |  | 46.45 | 29.10 | 64.28  |
+|  31.03.2008 |  | 1 : 3 | 42.18 | 20.05 | 60.12  |
+|  24.03.2009 | 40 | 1 : 4 | 48.10 | 19.95 | 72.40  |
+|  31.07.2009 |  |  | 53.75 | 22.98 | 82.07  |
+
+On 31st July all three investors redeemed all the balance units.
+
+Calculate annual rate of return to each of the investors.
+
+Consider:
+
+1. Long-term Capital Gain is exempt from Income tax.
+2. Short-term Capital Gain is subject to 10% Income tax.
+3. Security Transaction Tax 0.2 per cent only on sale/redemption of units.
+4. Ignore Education Cess.
+
+18. A mutual fund company introduces two schemes i.e. Dividend plan (Plan-D) and Bonus plan (Plan-B). The face value of the unit is ₹ 10. On 1-4-2005 Mr. K invested ₹ 2,00,000 each in Plan-D and Plan-B when the NAV was ₹ 38.20 and ₹ 35.60 respectively. Both the plans matured on 31-3-2010.
+
+Particulars of dividend and bonus declared over the period are as follows:
+
+|  Date | Dividend % | Bonus Ratio | Net Asset Value (₹)  |   |
+| --- | --- | --- | --- | --- |
+|   |   |   |  Plan D | Plan B  |
+|  30-09-2005 | 10 | --- | 39.10 | 35.60  |
+|  30-06-2006 | --- | 1:5 | 41.15 | 36.25  |
+|  31-03-2007 | 15 | --- | 44.20 | 33.10  |
+|  15-09-2008 | 13 | --- | 45.05 | 37.25  |
+|  30-10-2008 | --- | 1:8 | 42.70 | 38.30  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 28 ======================
+
+8.28
+ADVANCED FINANCIAL MANAGEMENT
+
+|  27-03-2009 | 16 | --- | 44.80 | 39.10  |
+| --- | --- | --- | --- | --- |
+|  11-04-2009 | --- | 1:10 | 40.25 | 38.90  |
+|  31-03-2010 | --- | --- | 40.40 | 39.70  |
+
+What is the effective yield per annum in respect of the above two plans?
+
+19. A mutual fund made an issue of 10,00,000 units of ₹ 10 each on January 01, 2008. No entry load was charged. It made the following investments:
+
+|  Particulars | ₹  |
+| --- | --- |
+|  50,000 Equity shares of ₹ 100 each @ ₹ 160 | 80,00,000  |
+|  7% Government Securities | 8,00,000  |
+|  9% Debentures (Unlisted) | 5,00,000  |
+|  10% Debentures (Listed) | 5,00,000  |
+|   | 98,00,000  |
+
+During the year, dividends of ₹ 12,00,000 were received on equity shares. Interest on all types of debt securities was received as and when due. At the end of the year equity shares and 10% debentures are quoted at 175% and 90% respectively of face value. Other investments are valued at par.
+
+Find out the Net Asset Value (NAV) per unit given that operating expenses paid during the year amounted to ₹ 5,00,000. Also find out the NAV, if the Mutual fund had distributed a dividend of ₹ 0.80 per unit during the year to the unit holders.
+
+20. Based on the following information, determine the NAV of a regular income scheme on per unit basis:
+
+|  Particulars | ₹ Crores  |
+| --- | --- |
+|  Listed shares at Cost (ex-dividend) | 20  |
+|  Cash in hand | 1.23  |
+|  Bonds and debentures at cost | 4.3  |
+|  Of these, bonds not listed and quoted | 1  |
+|  Other fixed interest securities at cost | 4.5  |
+|  Dividend accrued | 0.8  |
+|  Amount payable on shares | 6.32  |
+|  Expenditure accrued | 0.75  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 29 ======================
+
+MUTUAL FUNDS
+8.29
+
+|  Number of units (₹ 10 face value) | 20 lacs  |
+| --- | --- |
+|  Current realizable value of fixed income securities of face value of ₹ 100 | 106.50  |
+|  The listed shares were purchased when Index was | 1,000  |
+|  Present index is | 2,300  |
+|  Value of listed bonds and debentures at NAV date | 8  |
+
+There has been a diminution of 20% in unlisted bonds and debentures. Other fixed interest securities are at cost.
+
+21. On 1st April, an open ended scheme of mutual fund had 300 lakh units outstanding with Net Assets Value (NAV) of ₹ 18.75. At the end of April, it issued 6 lakh units at opening NAV plus 2% load, adjusted for dividend equalization. At the end of May, 3 Lakh units were repurchased at opening NAV less 2% exit load adjusted for dividend equalization. At the end of June, 70% of its available income was distributed.
+
+In respect of April-June quarter, the following additional information are available:
+
+|   | ₹ in lakh  |
+| --- | --- |
+|  Portfolio value appreciation | 425.47  |
+|  Income of April | 22.950  |
+|  Income for May | 34.425  |
+|  Income for June | 45.450  |
+
+You are required to calculate
+
+(i) Income available for distribution;
+(ii) Issue price at the end of April;
+(iii) repurchase price at the end of May; and
+(iv) net asset value (NAV) as on 30th June.
+
+22. There are two Mutual Funds viz. D Mutual Fund Ltd. and K Mutual Fund Ltd. Each having close ended equity schemes.
+
+NAV as on 31-12-2014 of equity schemes of D Mutual Fund Ltd. is ₹ 70.71 (consisting 99% equity and remaining cash balance) and that of K Mutual Fund Ltd. is ₹ 62.50 (consisting 96% equity and balance in cash).
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 30 ======================
+
+8.30
+ADVANCED FINANCIAL MANAGEMENT
+
+Following is the other information:
+
+|  Particular | Equity Schemes  |   |
+| --- | --- | --- |
+|   |  D Mutual Fund Ltd. | K Mutual Fund Ltd.  |
+|  Sharpe Ratio | 2 | 3.3  |
+|  Treynor Ratio | 15 | 15  |
+|  Standard deviation | 11.25 | 5  |
+
+There is no change in portfolios during the next month and annual average cost is ₹ 3 per unit for the schemes of both the Mutual Funds.
+
+If Share Market goes down by 5% within a month, calculate expected NAV after a month for the schemes of both the Mutual Funds.
+
+For calculation, consider 12 months in a year and ignore number of days for particular month.
+
+23. ANP Plan, a hedge fund currently has assets of ₹ 20 crore. CA. X, the manager of fund charges fee of 0.10% of portfolio asset. In addition to it he charges incentive fee of 2%. The incentive will be linked to gross return each year in excess of the portfolio maximum value since the inception of fund. The maximum value the fund achieved so far since inception of fund about one and half year ago was ₹ 21 crores.
+
+You are required to compute the fee payable to CA. X, if return on the fund this year turns out to be
+
+(a) 29%,
+(b) 4.5%,
+(c) -1.8%
+
+24. Ms. Sunidhi is working with an MNC at Mumbai. She is well versant with the portfolio management techniques and wants to test one of the techniques on an equity fund she has constructed and compare the gains and losses from the technique with those from a passive buy and hold strategy. The fund consists of equities only and the ending NAVs of the fund he constructed for the last 10 months are given below:
+
+|  Month Ending | NAV (₹/unit) | Month Ending | NAV (₹/unit)  |
+| --- | --- | --- | --- |
+|  December 2008 | 40.00 | May 2009 | 37.00  |
+|  January 2009 | 25.00 | June 2009 | 42.00  |
+|  February 2009 | 36.00 | July 2009 | 43.00  |
+|  March 2009 | 32.00 | August 2009 | 50.00  |
+|  April 2009 | 38.00 | September 2009 | 52.00  |
+
+Assume Sunidhi had invested a notional amount of ₹ 2 lakhs equally in the equity fund and a conservative portfolio (of bonds) in the beginning of December 2008 and the total portfolio was being rebalanced each time the NAV of the fund increased or decreased by 15%.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 31 ======================
+
+MUTUAL FUNDS
+8.31
+
+You are required to determine the value of the portfolio for each level of NAV following the Constant Ratio Plan.
+
+# Answers to Theoretical Questions
+
+1. Establishment of a Mutual Fund: A mutual fund is required to be registered with the Securities and Exchange Board of India (SEBI) before it can collect funds from the public. All mutual funds are governed by the same set of regulations and are subject to monitoring and inspections by the SEBI. The Mutual Fund has to be established through the medium of a sponsor. A sponsor means any body corporate which, acting alone or in combination with another body corporate, establishes a mutual fund after completing the formalities prescribed in the SEBI's Mutual Fund Regulations.
+
+The role of sponsor is akin to that of a promoter of a company, who provides the initial capital and appoints the trustees. The sponsor should be a body corporate in the business of financial services for a period not less than 5 years, be financially sound and be a fit party to act as sponsor in the eyes of SEBI.
+
+The Mutual Fund has to be established as either a trustee company or a Trust, under the Indian Trust Act and the instrument of trust shall be in the form of a deed. The deed shall be executed by the sponsor in favour of the trustees named in the instrument of trust. The trust deed shall be duly registered under the provisions of the Indian Registration Act, 1908. The trust deed shall contain clauses specified in the Third Schedule of the Regulations.
+
+An Asset Management Company, who holds an approval from SEBI, is to be appointed to manage the affairs of the Mutual Fund and it should operate the schemes of such fund. The Asset Management Company is set up as a limited liability company, with a minimum net worth of 100 crores.
+
+The sponsor should contribute at least 40% to the net worth of the Asset Management Company. The Trustee should hold the property of the Mutual Fund in trust for the benefit of the unit holders.
+
+SEBI regulations require that at least two-thirds of the directors of the Trustee Company or board of trustees must be independent, that is, they should not be associated with the sponsors. Also, 50 per cent of the directors of AMC must be independent. The appointment of the AMC can be terminated by majority of the trustees or by 75% of the unit holders of the concerned scheme.
+
+The AMC may charge the mutual fund with Investment Management and Advisory fees subject to prescribed ceiling. Additionally, the AMC may get the expenses on operation of the mutual fund reimbursed from the concerned scheme.
+
+The Mutual fund also appoints a custodian, holding valid certificate of registration issued by SEBI, to have custody of securities held by the mutual fund under different schemes. In case of dematerialized securities, this is done by Depository Participant. The custodian must be
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 32 ======================
+
+ADVANCED FINANCIAL MANAGEMENT
+
+independent of the sponsor and the AMC.
+
+![img-2.jpeg](img-2.jpeg)
+
+2. Please refer paragraph 4.
+
+## Answers to the Practical Questions
+
+1. Personal earnings of Mr. A = R₁ = 16%
+
+Mutual Fund earnings = R₂
+
+$$
+\begin{array}{l}
+R_{2} = \frac{1}{1 - \text{Initial expenses} (\%)} R_{1} + \text{Recurring expenses} (\%) \\
+= \frac{1}{1 - 0.055} \times 16\% + 1.5\% \\
+= 18.43\%
+\end{array}
+$$
+
+Mutual Fund earnings = 18.43%
+
+2. Public Offer Price = NAV / (1 - Front end Load)
+
+Public Offer Price: ₹ 10.204 and NAV: ₹ 10
+
+Accordingly,
+
+$$
+10.204 = 10 / (1 - F)
+$$
+
+F = 0.0199 say 2%
+
+Redemption Price = NAV / (1 + Back End Load)
+
+₹ 9.80 = 10 / (1 + Back End Load)
+
+B = 0.0204 i.e. 2.04%
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 33 ======================
+
+MUTUAL FUNDS
+8.33
+
+# Alternative
+
+(i) Front End Load = $\frac{10.204 - 10.00}{10.00} = 0.0204$ or $2.04\%$
+(ii) Exit Load = $\frac{10.00 - 9.80}{10.00} = 0.020$ or $2.00\%$
+
+# 3. Calculation of Monthly Return on the Mutual Funds
+
+$$
+r = \left[ \frac {\left(\mathrm {N A V} _ {t} - \mathrm {N A V} _ {t - 1}\right) + I _ {t} + G _ {t}}{\mathrm {N A V} _ {t - 1}} \right]
+$$
+
+Where,
+
+r = Return on the mutual fund
+
+NAVt = Net assets value at time period t
+
+NAVt-1 = Net assets value at time period t-1
+
+It = Income at time period t
+
+Gt = Capital gain distribution at time period t
+
+$$
+\begin{array}{l}
+= \left[ \frac {\left(\ ₹ 20.06 - ₹ 20.00\right) + \left(\ ₹ 0.0375 + ₹ 0.03\right)}{20} \right] \\
+= \frac {0.06 + 0.0675}{20} \\
+= \frac {0.1275}{20} = 0.006375 \\
+\end{array}
+$$
+
+Or, r = 0.6375% p.m.
+
+Or = 7.65% p.a.
+
+# 4. Return for the year (all changes on a per year basis)
+
+|  Particulars | ₹ /Unit  |
+| --- | --- |
+|  Change in price (₹ 13.00 – ₹ 12.25) | 0.75  |
+|  Dividend received | 1.25  |
+|  Capital gain distribution | 1.00  |
+|  Total Return | 3.00  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 34 ======================
+
+ADVANCED FINANCIAL MANAGEMENT
+
+Return on investment = $\frac{3.00}{12.25} \times 100 = 24.49\%$
+
+Alternatively, it can also be computed as follows:
+
+$$
+\begin{array}{l}
+\frac{(\mathrm{NAV}_1 - \mathrm{NAV}_0) + \mathrm{D}_1 + \mathrm{CG}_1}{\mathrm{NAV}_0} \times 100 \\
+= \frac{(13 - 12.25) + 1.25 + 1.00}{12.25} \times 100 \\
+= 24.49\%
+\end{array}
+$$
+
+If all dividends and capital gain are reinvested into additional units at ₹ 12.50 per unit the position would be.
+
+Total amount reinvested = ₹ 2.25 × 300 = ₹ 675
+
+Additional units added = $\frac{\₹675}{12.50} = 54$ units
+
+Value of 354 units as on 31-12-2010 = ₹ 4,602
+
+Price paid for 300 units on 31-12-2009 (300 × ₹ 12.25) = ₹ 3,675
+
+Return = $\frac{\₹4,602 - ₹3,675}{\₹3,675} = \frac{\₹927}{\₹3,675} = 25.22\%$
+
+5. (i) Normal Return for the year (all changes on a per year basis)
+
+|  Particulars | ₹ /Unit  |
+| --- | --- |
+|  Change in price (₹ 9.10 – ₹ 8.50) | 0.60  |
+|  Dividend received | 0.90  |
+|  Capital gain distribution | 0.75  |
+|  Total Return | 2.25  |
+
+Return on investment = $\frac{2.25}{8.50} \times 100 = 26.47\%$
+
+(ii) If all dividends and capital gain are reinvested into additional units at ₹ 8.75 per unit the position would be.
+
+Total amount reinvested = ₹ 1.65 × 200 = ₹ 330
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 35 ======================
+
+MUTUAL FUNDS
+8.35
+
+Additional units added = $\frac{\₹330}{8.75} = 37.71$ units
+
+Value of 237.71 units at end of year = ₹ 2,163.16
+
+Price paid for 200 units in beginning of the year (200 × ₹ 8.50) = ₹ 1,700
+
+Return = $\frac{\₹2,163.16 - ₹1,700}{\₹1,700} = \frac{\₹463.16}{\₹1,700} = 27.24\%$
+
+6. (i) Calculation of NAV at the end of month:
+
+Given Annual Return = 15%
+
+Hence Monthly Return = 1.25% (r)
+
+$$
+r = \frac{(NAV_t - NAV_{t-1}) + I_t + G_t}{NAV_{t-1}}
+$$
+
+$$
+0.0125 = \frac{(NAV_t - ₹ 65.78) + ₹ 0.50 + ₹ 0.32}{₹ 65.78}
+$$
+
+$$
+0.82 = NAV_t - ₹ 64.96
+$$
+
+$$
+NAV_t = ₹ 65.78
+$$
+
+(ii) There is no change in NAV.
+
+7.
+
+|  Shares | No. of shares | Price | Amount (₹)  |
+| --- | --- | --- | --- |
+|  Nairobi Ltd. | 25,000 | 20.00 | 5,00,000  |
+|  Dakar Ltd. | 35,000 | 300.00 | 1,05,00,000  |
+|  Senegal Ltd. | 29,000 | 380.00 | 1,10,20,000  |
+|  Cairo Ltd. | 40,000 | 500.00 | 2,00,00,000  |
+|   |   |   | 4,20,20,000  |
+|  Less: Accrued Expenses |   |   | 2,50,000  |
+|  Other Liabilities |   |   | 2,00,000  |
+|  Total Value |   |   | 4,15,70,000  |
+|  No. of Units |   |   | 10,00,000  |
+|  NAV per Unit (4,15,70,000/10,00,000) |   |   | 41.57  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 36 ======================
+
+8.36
+
+ADVANCED FINANCIAL MANAGEMENT
+
+8. (i) NAV of the Fund
+
+$$
+\begin{array}{l} = \frac {\ ₹ 4 , 0 0 , 0 0 0 + ₹ 9 3 , 7 2 , 0 0 0 + ₹ 7 2 , 2 4 , 0 0 0 + ₹ 3 , 0 3 , 0 6 , 0 0 0}{6 , 0 0 , 0 0 0} \\ = \frac {\ ₹ 4 , 7 3 , 0 2 , 0 0 0}{6 , 0 0 , 0 0 0} = ₹ 7 8. 8 3 6 6 \text{ rounded to } ₹ 7 8. 8 4 \\ \end{array}
+$$
+
+(ii) The revised position of fund shall be as follows:
+
+|  Shares | No. of shares | Price | Amount (₹)  |
+| --- | --- | --- | --- |
+|  L Ltd. | 20,000 | 20.00 | 4,00,000  |
+|  M Ltd. | 38,000 | 312.40 | 1,18,71,200  |
+|  N Ltd. | 20,000 | 361.20 | 72,24,000  |
+|  P Ltd. | 60,000 | 505.10 | 3,03,06,000  |
+|  Cash |  |  | 5,00,800  |
+|   |  |  | 5,03,02,000  |
+
+No. of units of fund = 6,00,000 + $\frac{30,00,000}{78.8366}$ = 6,38,053
+
+(iii) On 2nd February 2012, the NAV of fund will be as follows:
+
+|  Shares | No. of shares | Price | Amount (₹)  |
+| --- | --- | --- | --- |
+|  L Ltd. | 20,000 | 20.50 | 4,10,000  |
+|  M Ltd. | 38,000 | 360.00 | 1,36,80,000  |
+|  N Ltd. | 20,000 | 383.10 | 76,62,000  |
+|  P Ltd. | 60,000 | 503.90 | 3,02,34,000  |
+|  Cash |  |  | 5,00,800  |
+|   |  |  | 5,24,86,800  |
+
+NAV as on 2nd February 2012 = $\frac{\ ₹ 5,24,86,800}{6,38,053}$ = ₹ 82.26 per unit
+
+9. (a) NAV of the Fund.
+
+$$
+= \frac {\ ₹ 1 , 9 7 , 0 0 0 + ₹ 2 , 4 1 , 3 0 , 0 0 0 + ₹ 2 6 , 4 4 , 0 0 0 + ₹ 6 , 7 4 , 9 0 , 0 0 0 + ₹ 7 , 7 7 , 0 0 0}{8 0 0 0 0 0}
+$$
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 37 ======================
+
+MUTUAL FUNDS
+8.37
+
+$$
+= \frac {\ ₹ 9,52,38,000}{800000} = ₹ 119.0475 \text{ rounded to } ₹ 119.05
+$$
+
+(b) The revised position of fund shall be as follows:
+
+|  Shares | No. of shares | Price | Amount (₹)  |
+| --- | --- | --- | --- |
+|  A Ltd. | 10000 | 19.70 | 1,97,000  |
+|  B Ltd. | 50000 | 482.60 | 2,41,30,000  |
+|  C Ltd. | 28000 | 264.40 | 74,03,200  |
+|  D Ltd. | 100000 | 674.90 | 674,90,000  |
+|  E Ltd. | 30000 | 25.90 | 7,77,000  |
+|  Cash |  |  | 2,40,800  |
+|   |  |  | 10,02,38,000  |
+
+$$
+\text{No. of units of fund} = 800000 + \frac{5000000}{119.0475} = 842000
+$$
+
+(c) On 2nd April 2009, the NAV of fund will be as follows:
+
+|  Shares | No. of shares | Price | Amount (₹)  |
+| --- | --- | --- | --- |
+|  A Ltd. | 10000 | 20.30 | 2,03,000  |
+|  B Ltd. | 50000 | 513.70 | 2,56,85,000  |
+|  C Ltd. | 28000 | 290.80 | 81,42,400  |
+|  D Ltd. | 100000 | 671.90 | 6,71,90,000  |
+|  E Ltd. | 30000 | 44.20 | 13,26,000  |
+|  Cash |  |  | 2,40,800  |
+|   |  |  | 10,27,87,200  |
+
+$$
+\text{NAV as on 2nd April 2009} = \frac {\ ₹ 10,27,87,200}{842000} = ₹ 122.075 \text{ per unit}
+$$
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 38 ======================
+
+8.38
+
+ADVANCED FINANCIAL MANAGEMENT
+
+10.
+
+|  Scheme | Investment | Unit Nos. (Investment/NAV at entry date) | Unit NAV 31.3.2010 | Total NAV 31.3.2010 (Unit Nos. X Unit NAV as on 31.3.2010)  |
+| --- | --- | --- | --- | --- |
+|  MF A | ♂ |  | ♂ | ♂  |
+|   |  50,000 | 4761.905 | 10.40 | 49,523.812  |
+|  MF B | 1,00,000 | 10,000 | 10.10 | 1,01,000  |
+|  MF C | 50,000 | 5,000 | 9.80 | 49,000  |
+
+|  Scheme | NAV (+) / (–) (NAV as on 31.3.2010 –Investment) | Dividend Received | Total Yield Change in NAV +Dividend | Number of days | Effective Yield (% P.A.) (Total Yield/ Investment) X (365/No. of days) X 100  |
+| --- | --- | --- | --- | --- | --- |
+|  MF A | ♂ | ♂ | ♂ |  |   |
+|   |  (–)476.188 | 950 | 473.812 | 121 | 2.858%  |
+|  MF B | (+)1,000 | 1,500 | 2,500 | 90 | 10.139%  |
+|  MF C | (–)1,000 | Nil | (–)1,000 | 31 | (–)24%  |
+
+11. Calculation of effective yield on per annum basis in respect of three mutual fund schemes to Mr. Sinha up to 31-03-2009:
+
+|  Particulars |   | MF X | MF Y | MF Z  |
+| --- | --- | --- | --- | --- |
+|  (a) | Investments | ♂ 5,00,000 | ♂ 1,00,000 | ♂ 50,000  |
+|  (b) | Opening NAV | ♂10.50 | ♂10.00 | ♂10.00  |
+|  (c) | No. of units (a/b) | 47,619.05 | 10,000 | 5,000  |
+|  (d) | Unit NAV ON 31-3-2009 | ♂ 10.40 | ♂ 10.10 | ♂ 9.80  |
+|  (e) | Total NAV on 31-3-2009 (c x d) | ♂ 4,95,238.12 | ♂ 1,01,000 | ♂ 49,000  |
+|  (f) | Increase / Decrease of NAV (e - a) | (♂ 4,761.88) | ♂ 1,000 | (♂ 1,000)  |
+|  (g) | Dividend Received | ♂ 9,500 | ♂ 1,500 | Nil  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 39 ======================
+
+MUTUAL FUNDS
+8.39
+
+|  (h) | Total yield (f + g) | ₹ 4,738.12 | ₹ 2,500 | (₹ 1,000)  |
+| --- | --- | --- | --- | --- |
+|  (i) | Number of Days | 121 | 90 | 31  |
+|  (j) | Effective yield p.a. (h/a x 365/i x 100) | 2.859% | 10.139% | (-) 23.55%  |
+
+## 12. (i) Number of Units in each Scheme
+
+|  MF ‘X’ | ₹ 2,00,000 ₹ 10.30 | = 19,417.48  |
+| --- | --- | --- |
+|  MF ‘Y’ | ₹ 4,00,000 ₹ 10.10 | = 39,603.96  |
+|  MF ‘Z’ | ₹ 2,00,000 ₹ 10.00 | = 20,000.00  |
+
+## (ii) Total NAV on 31.03.2018
+
+|  MF ‘X’ | = 19,417.48 x ₹ 10.25 | ₹ 1,99,029.17  |
+| --- | --- | --- |
+|  MF ‘Y’ | = 39,603.96 x ₹ 10.00 | ₹ 3,96,039.60  |
+|  MF ‘Z’ | = 20,000.00 x ₹ 10.20 | ₹ 2,04,000.00  |
+|  Total |   | ₹ 7,99,068.77  |
+
+## (iii) Total Yield
+
+|   | Capital Yield | Dividend Yield | Total  |
+| --- | --- | --- | --- |
+|  MF ‘X’ | ₹ 1,99,029.17 - ₹ 2,00,000 = - ₹ 970.83 | ₹ 6,000 | ₹ 5,029.17  |
+|  MF ‘Y’ | ₹ 3,96,039.60 - ₹ 4,00,000 = - ₹ 3,960.40 | Nil | - ₹ 3,960.40  |
+|  MF ‘Z’ | ₹ 2,04,000 - ₹ 2,00,000 = ₹ 4,000 | ₹ 5,000 | ₹ 9,000.00  |
+|  Total |   |   | ₹ 10,068.77  |
+
+Total Yield = $\frac{\₹10,068.77}{\₹8,00,000} \times 100 = 1.2586\%$
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 40 ======================
+
+ADVANCED FINANCIAL MANAGEMENT
+
+(iv) No. of Days Investment Held
+
+|   | MF 'X' | MF 'Y' | MF 'Z'  |
+| --- | --- | --- | --- |
+|  Initial Investment (₹) | 2,00,000 | 4,00,000 | 2,00,000  |
+|  Yield (₹) | 5,029.17 | -3,960.40 | 9,000.00  |
+|  Yield (%) | 2.5146 | -0.9901 | 4.5  |
+|  Period of Holding (Days) | 2.5146 9.66 × 365 = 95 Days | -0.9901 -11.66 × 365 = 31 Days | 4.5 24.15 × 365 = 68 Days  |
+|  Date of Original Investment | 27.12.17 | 01.03.18 | 23.01.18  |
+
+Alternatively following dates can also be considered:
+
+Date of Original Investment 26.12.17 28.02.18 22.01.18
+
+13. Yield for 9 months = (153.33 × 9/12) = 115%
+
+Market value of Investments as on 31.03.2008 = 1,00,000/- + (1,00,000 × 115%) = ₹2,15,000/-
+
+Therefore, NAV as on 31.03.2008 = (2,15,000 - 10,000) / 10,000 = ₹20.50
+
+(NAV would stand reduced to the extent of dividend payout, being (10,000 × 10 × 10%) = ₹10,000)
+
+Since dividend was reinvested by Mr. X, additional units acquired = ₹10,000 / ₹20.50 = 487.80 units
+
+Therefore, units as on 31.03.2008 = 10,000 + 487.80 = 10,487.80
+
+Alternately, units as on 31.03.2008 = (2,15,000 / 20.50) = 10,487.80]
+
+Dividend as on 31.03.2009 = 10,487.80 × 10 × 0.2 = ₹20,975.60
+
+Let X be the NAV on 31.03.2009, then number of new units reinvested will be ₹ 20,975.60/X. Accordingly 11296.11 units shall consist of reinvested units and 10487.80 (as on 31.03.2008). Thus, by way of equation it can be shown as follows:
+
+$$
+11296.11 = \frac{20975.60}{X} + 10487.80
+$$
+
+Therefore, NAV as on 31.03.2009 = 20,975.60 / (11,296.11 - 10,487.80) = ₹25.95
+
+NAV as on 31.03.2010 = ₹ 1,00,000 (1 + 0.7352 × 33 / 12) / 11296.11 = ₹ 26.75
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 41 ======================
+
+MUTUAL FUNDS
+8.41
+
+14. Yield for 9 months
+= 115%
+Market value of Investments as on 31.03.2013
+= 1,00,000 + (1,00,000 x 115%)
+= ₹ 2,15,000/-
+Therefore, NAV as on 31.03.2013
+= (2,15,000 -10,000)/10,000 = ₹ 20.50
+(NAV would stand reduced to the extent of dividend payout, being (₹100,000 x 10%)
+= ₹ 10,000)
+Since dividend was reinvested by Mr. X, additional units acquired
+= ₹ 10,000 / ₹ 20.50 = 487.80 units
+Therefore, units as on 31.03.2013
+= 10,000 + 487.80 = 10,487.80
+[Alternately, units as on 31.03.2013
+= (2,15,000/20.50) = 10,487.80]
+Dividend as on 31.03.2014
+= 10,487.80 x 10 x 0.2 = ₹ 20,975.60
+Let X be the NAV on 31.03.2014, then number of new units reinvested will be ₹ 20,975.60/X. Accordingly 11296.11 units shall consist of reinvested units and 10487.80 (as on 31.03.2013). Thus, by way of equation it can be shown as follows:
+$$
+11296.11 = \frac{20975.60}{X} + 10487.80
+$$
+Therefore, NAV as on 31.03.2014
+= 20,975.60 / (11,296.11 - 10,487.80)
+= ₹ 25.95
+NAV as on 31.03.2015
+= ₹ 1,00,000 (1+2.0217)/11296.11
+= ₹ 26.75
+
+15. (i) Returns for the year
+(All changes on a Per-Unit Basis)
+Change in Price: ₹ 9.45 – ₹ 8.75 = ₹ 0.70
+Dividends received: ₹ 0.75
+Capital gains distribution: ₹ 0.60
+Total reward: ₹ 2.05
+Holding period reward: ₹ 2.05 / ₹ 8.75 × 100 = 23.43%
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 42 ======================
+
+8.42
+ADVANCED FINANCIAL MANAGEMENT
+
+(ii) When all dividends and capital gains distributions are re-invested into additional units of the fund @ (₹ 8.65/unit)
+
+= Dividend + Capital Gains per unit
+= ₹ 0.75 + ₹ 0.60 = ₹ 1.35
+
+Total received from 300 units
+= ₹1.35 x 300 = ₹405/-.
+
+Additional Units Acquired
+= ₹405/₹8.65 = 46.82 Units.
+
+Total No. of Units
+= 300 units + 46.82 units = 346.82 units.
+
+Value of 346.82 units held at the end of the year
+= 346.82 units x ₹9.45 = ₹3277.45
+
+Price Paid for 300 Units at the beginning of the year
+= 300 units x ₹8.75 = ₹2,625.00
+
+**Holding Period Reward**
+
+₹ (3277.45 – 2625.00) = ₹652.45
+
+Holding Period Reward = $\frac{\₹652.45}{\₹2625.00} \times 100 = 24.85\%$
+
+**Conclusion**: Since the holding period reward is more in terms of percentage in option-two i.e., reinvestment of distributions at an average NAV of ₹8.65 per unit, this option is preferable.
+
+16.
+
+|   | Amount in ₹ lakhs | Amount in ₹ lakhs | Amount in ₹ lakhs  |
+| --- | --- | --- | --- |
+|  Opening Bank (200 - 185 -12) | 3.00 |  |   |
+|  Add: Proceeds from sale of securities | 63.00 |  |   |
+|  Add: Dividend received | 2.00 | 68.00 |   |
+|  Deduct: |  |  |   |
+|  Cost of securities purchased | 56.00 |  |   |
+|  Fund management expenses paid (90% of 8) | 7.20 |  |   |
+|  Capital gains distributed = 80% of (63 – 60) | 2.40 |  |   |
+|  Dividend distributed =80% of 2.00 | 1.60 | 67.20 |   |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 43 ======================
+
+MUTUAL FUNDS
+8.43
+
+|  Closing Bank |  | 0.80  |
+| --- | --- | --- |
+|  Closing market value of portfolio |  | 198.00  |
+|   |  | 198.80  |
+|  Less: Arrears of expenses |  | 0.80  |
+|  Closing Net Assets |  | 198.00  |
+|  Number of units (Lakhs) |  | 20  |
+|  Closing NAV per unit (198.00/20) |  | 9.90  |
+
+Rate of Earning (Per Unit)
+
+|   | Amount  |
+| --- | --- |
+|  Income received (₹ 2.40 + ₹ 1.60)/20 | ₹ 0.20  |
+|  Loss: Loss on disposal (₹ 200 - ₹ 198)/20 | ₹ 0.10  |
+|  Net earning | ₹ 0.10  |
+|  Initial investment | ₹ 10.00  |
+|  Rate of earning (monthly) | 1%  |
+|  Rate of earning (Annual) | 12%  |
+
+17. Mrs. Charu Plan A Dividend Reinvestment
+(Amount in ₹)
+
+|  Date | Investment (₹) | Dividend payout (%) | Dividend Re-invested (Closing Units X Face value of ‘10 X Dividend Payout %) | NAV (₹) | Units | Closing Unit Balance Σ Units  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  01.04.1999 | 1,00,000.00 |  |  | 10.00 | 10,000.00 | 10,000.00  |
+|  28.07.2003 |  | 20 | 20,000.00 | 30.70 | 651.47 | 10,651.47  |
+|  31.03.2004 |  | 70 | 74,560.29 | 58.42 | 1,276.28 | 11,927.75  |
+|  30.10.2007 |  | 40 | 47,711.00 | 42.18 | 1,131.13 | 13,058.88  |
+|  15.03.2008 |  | 25 | 32,647.20 | 46.45 | 702.85 | 13,761.73  |
+|  24.03.2009 |  | 40 | 55,046.92 | 48.10 | 1,144.43 | 14,906.16  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 44 ======================
+
+ADVANCED FINANCIAL MANAGEMENT
+
+|  Redemption value 14,906.16 × 53.75 | 8,01,206.10  |
+| --- | --- |
+|  Less: Security Transaction Tax (STT) is 0.2% | 1,602.41  |
+|  Net amount received | 7,99,603.69  |
+|  Less: Short term capital gain tax @ 10% on 1,144.43 (53.64* – 48.10*) = 6,340 | 634  |
+|  Net of tax | 7,98,969.69  |
+|  Less: Investment | 1,00,000.00  |
+|   | 6,98,969.69  |
+
+*(53.75 – STT @ 0.2%)*
+
+*This value can also be taken as zero*
+
+$$
+\text{Annual average return (\%)} = \frac{6,98,969.69}{1,00,000} \times \frac{12}{124} \times 100 = 67.64\%
+$$
+
+Mr. Anand Plan B – Bonus
+
+|  (Amount in ₹)  |   |   |   |   |
+| --- | --- | --- | --- | --- |
+|  Date | Units | Bonus units | Total Balance | NAV per unit  |
+|  01.04.1999 | 10,000 |  | 10,000 | 10  |
+|  31.03.2004 |  | 12,500 | 22,500 | 31.05  |
+|  31.03.2008 |  | 7,500 | 30,000 | 20.05  |
+|  24.03.2009 |  | 7,500 | 37,500 | 19.95  |
+
+Redemption value 37,500 × 22.98 8,61,750.00
+
+Less: Security Transaction Tax (STT) is 0.2% 1,723.50
+
+Net amount received 8,60,026.50
+
+Less: Short term capital gain tax @ 10%
+
+$$
+7,500 \times (22.93^{\dagger} - 19.95^{*}) = 22,350
+$$
+
+2,235.00
+
+Net of tax 8,57,791.50
+
+Less: Investment 1,00,000.00
+
+Net gain 7,57,791.50
+
+†(22.98 – STT @ 0.2%)
+
+*This value can also be taken as zero*
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 45 ======================
+
+MUTUAL FUNDS
+8.45
+
+$$
+\text{Annual average return } (\%) = \frac{7,57,791.50}{1,00,000} \times \frac{12}{124} \times 100 = 73.33\%
+$$
+
+Mr. Bacchan Plan C – Growth
+
+|  Particulars | (Amount in ₹)  |
+| --- | --- |
+|  Redemption value 10,000 × 82.07 | 8,20,700.00  |
+|  Less: Security Transaction Tax (S.T.T) is .2% | 1,641.40  |
+|  Net amount received | 8,19,058.60  |
+|  Less: Short term capital gain tax @ 10% | 0.00  |
+|  Net of tax | 8,19,058.60  |
+|  Less: Investment | 1,00,000.00  |
+|  Net gain | 7,19,058.60  |
+
+$$
+\text{Annual average return } (\%) = \frac{7,19,058}{1,00,000} \times \frac{12}{124} \times 100 = 69.59\%
+$$
+
+Note: Alternatively, figure of * and † can be taken as without net of Tax because, as per Proviso 5 of Section 48 of IT Act, no deduction of STT shall be allowed in computation of Capital Gain.
+
+## 18. Plan – D
+
+Unit acquired = $\frac{2,00,000}{38.20} = 5235.60$
+
+|  Date | Units held | Dividend |   | Reinvestment | New | Total  |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |  | % | Amount | Rate | Units | Units  |
+|  01.04.2005 |  |  |  |  |  | 5235.60  |
+|  30.09.2005 | 5235.60 | 10 | 5235.60 | 39.10 | 133.90 | 5369.50  |
+|  31.03.2007 | 5369.50 | 15 | 8054.25 | 44.20 | 182.22 | 5551.72  |
+|  15.09.2008 | 5551.72 | 13 | 7217.24 | 45.05 | 160.20 | 5711.92  |
+|  27.03.2009 | 5711.92 | 16 | 9139.07 | 44.80 | 204 | 5915.92  |
+|  31.03.2010 | Maturity Value |   | (₹ 40.40 X 5915.92) |   |  | ₹ 2,39,003.17  |
+|   | Less: Cost of Acquisition |   |   |   |  | ₹ 2,00,000.00  |
+|   | Total Gain |   |   |   |  | ₹ 39,003.17  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 46 ======================
+
+8.46
+ADVANCED FINANCIAL MANAGEMENT
+
+$$
+\therefore \text{Effective Yield} = \frac{\₹39,003.17}{\₹2,00,000} \times \frac{1}{5} \times 100 = 3.90\%
+$$
+
+Alternatively, it can be computed by using the IRR method as follows:
+
+$$
+\text{NPV at } 4\% = -\ ₹ 2,00,000 + ₹ 1,96,443 = -\ ₹ 3,557
+$$
+
+$$
+\text{NPV at } 2\% = -\ ₹ 2,00,000 + ₹ 2,16,473 = ₹ 16,473
+$$
+
+$$
+\text{IRR} = \text{LR} + \frac{\text{NPV at LR}}{\text{NPV at LR} - \text{NPV at HR}} (\text{HR} - \text{LR}) = 2\% + \frac{16473}{16473 - (-3557)} (4\% - 2\%) = 3.645\%
+$$
+
+Plan – B
+
+|  Date | Particulars | Calculation Working | No. of Units | NAV (₹)  |
+| --- | --- | --- | --- | --- |
+|  1.4.05 | Investment | ₹2,00,000/35.60= | 5617.98 | 35.60  |
+|  30.6.06 | Bonus | 5617.98/5 = | 1123.60 | 36.25  |
+|   |  |  | 6741.58 |   |
+|  30.10.08 | " | 6741.58/8 = | 842.70 | 38.30  |
+|   |  |  | 7584.28 |   |
+|  11.4.09 | " | 7584.28/10 = | 758.43 | 38.90  |
+|   |  |  | 8342.71 |   |
+|  31.3.10 | Maturity Value | 8342.71 x ₹ 39.70= |  | 3,31,205.59  |
+|   | Less: Investment |  |  | 2,00,000.00  |
+|   | Gain |  |  | 1,31,205.59  |
+
+$$
+\therefore \text{Effective Yield} = \frac{1,31,205.59}{2,00,000} \times \frac{1}{5} \times 100 = 13.12\%
+$$
+
+Alternatively, it can be computed by using the IRR method as follows:
+
+$$
+\text{NPV at } 13\% = -\ ₹ 2,00,000 + ₹ 1,79,765 = -\ ₹ 20,235
+$$
+
+$$
+\text{NPV at } 8\% = -\ ₹ 2,00,000 + ₹ 2,25,413 = ₹ 25,413
+$$
+
+$$
+\text{IRR} = \text{LR} + \frac{\text{NPV at LR}}{\text{NPV at LR} - \text{NPV at HR}} (\text{HR} - \text{LR}) = 8\% + \frac{25413}{25413 - (-20235)} (13\% - 8\%) = 10.78\%
+$$
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 47 ======================
+
+MUTUAL FUNDS
+8.47
+
+19. In order to find out the NAV, the cash balance at the end of the year is calculated as follows-
+
+|  Particulars | ₹  |
+| --- | --- |
+|  Cash balance in the beginning (₹ 100 lakhs – ₹ 98 lakhs) | 2,00,000  |
+|  Dividend Received | 12,00,000  |
+|  Interest on 7% Govt. Securities | 56,000  |
+|  Interest on 9% Debentures | 45,000  |
+|  Interest on 10% Debentures | 50,000  |
+|   | 15,51,000  |
+|  (-) Operating expenses | 5,00,000  |
+|  Net cash balance at the end | 10,51,000  |
+|  **Calculation of NAV** | ₹  |
+|  Cash Balance | 10,51,000  |
+|  7% Govt. Securities (at par) | 8,00,000  |
+|  50,000 equity shares @ ₹ 175 each | 87,50,000  |
+|  9% Debentures (Unlisted) at cost | 5,00,000  |
+|  10% Debentures @90% | 4,50,000  |
+|  Total Assets | 1,15,51000  |
+|  No. of Units | 10,00,000  |
+|  NAV per Unit | ₹ 11.55  |
+|  Calculation of NAV, if dividend of ₹ 0.80 is paid –  |   |
+|  Net Assets (₹ 1,15,51,000 – ₹ 8,00,000) | ₹ 1,07,51,000  |
+|  No. of Units | 10,00,000  |
+|  NAV per unit | ₹ 10.75  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 48 ======================
+
+ADVANCED FINANCIAL MANAGEMENT
+
+20.
+
+|  Particulars | Adjusted Values ₹ crores  |
+| --- | --- |
+|  Equity Shares | 46.00  |
+|  Cash in hand | 1.23  |
+|  Bonds and debentures not listed | 0.80  |
+|  Bonds and debentures listed | 8.00  |
+|  Dividends accrued | 0.80  |
+|  Fixed income securities | 4.50  |
+|  Sub total assets (A) | 61.33  |
+|  Less: Liabilities |   |
+|  Amount payable on shares | 6.32  |
+|  Expenditure accrued | 0.75  |
+|  Sub total liabilities (B) | 7.07  |
+|  Net Assets Value (A) – (B) | 54.26  |
+|  No. of units | 20,00,000  |
+|  Net Assets Value per unit (₹ 54.26 crore / 20,00,000) | ₹ 271.30  |
+
+21.
+
+Calculation of Income available for Distribution
+
+|   | Units (Lakh) | Per Unit (₹) | Total (₹ In lakh)  |
+| --- | --- | --- | --- |
+|  Income from April | 300 | 0.0765 | 22.9500  |
+|  Add: Dividend equalization collected on issue | 6 | 0.0765 | 0.4590  |
+|   |  306 | 0.0765 | 23.4090  |
+|  Add: Income from May |  | 0.1125 | 34.4250  |
+|  Less: Dividend equalization paid on repurchase | 306 | 0.1890 | 57.8340  |
+|   |  3 | 0.1890 | (0.5670)  |
+|   |  303 | 0.1890 | 57.2670  |
+|  Add: Income from June |  | 0.1500 | 45.4500  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 49 ======================
+
+MUTUAL FUNDS
+8.49
+
+|  Less: Dividend Paid | 303 | 0.3390 | 102.7170  |
+| --- | --- | --- | --- |
+|   |  | 0.2373 | (71.9019)  |
+|   | 303 | 0.1017 | 30.8151  |
+
+## Calculation of Issue Price at the end of April
+
+|  Opening NAV | 18.750  |
+| --- | --- |
+|  Add: Entry Load 2% of ₹ 18.750 | 0.375  |
+|   | 19.125  |
+|  Add: Dividend Equalization paid on Issue Price | 0.0765  |
+|   | 19.2015  |
+
+## Calculation of Repurchase Price at the end of May
+
+|  Opening NAV | 18.750  |
+| --- | --- |
+|  Less: Exit Load 2% of ₹ 18.750 | (0.375)  |
+|   | 18.375  |
+|  Add: Dividend Equalization paid on Issue Price | 0.1890  |
+|   | 18.564  |
+
+## Closing NAV
+
+|   |  | ₹ (Lakh)  |
+| --- | --- | --- |
+|  Opening Net Asset Value (₹ 18.75 × 300) |  | 5625.0000  |
+|  Portfolio Value Appreciation |  | 425.4700  |
+|  Issue of Fresh Units (6 × 19.2015) |  | 115.2090  |
+|  Income Received (22.950 + 34.425 + 45.450) |  | 102.8250  |
+|   |  | 6268.504  |
+|  Less: Units repurchased (3 × 18.564) | -55.692 |   |
+|  Income Distributed | -71.9019 | (-127.5939)  |
+|  Closing Net Asset Value |  | 6140.9101  |
+|  Closing Units (300 + 6 – 3) lakh |  | 303 lakh  |
+|  ∴ Closing NAV as on 30th June |  | ₹ 20.2670  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 50 ======================
+
+8.50
+ADVANCED FINANCIAL MANAGEMENT
+
+## 22. Working Notes:
+
+(i) Decomposition of Funds in Equity and Cash Components
+
+|   | D Mutual Fund Ltd. | K Mutual Fund Ltd.  |
+| --- | --- | --- |
+|  NAV on 31.12.14 | ₹ 70.71 | ₹ 62.50  |
+|  % of Equity | 99% | 96%  |
+|  Equity element in NAV | ₹ 70 | ₹ 60  |
+|  Cash element in NAV | ₹ 0.71 | ₹ 2.50  |
+
+(ii) Calculation of Beta
+
+(a) D Mutual Fund Ltd.
+
+$$
+\text{Sharpe Ratio} = 2 = \frac{\mathrm{E}(\mathrm{R}) - \mathrm{R}_{\mathrm{f}}}{\sigma_{\mathrm{D}}} = \frac{\mathrm{E}(\mathrm{R}) - \mathrm{R}_{\mathrm{f}}}{11.25}
+$$
+
+$$
+\mathrm{E}(\mathrm{R}) - \mathrm{R}_{\mathrm{f}} = 22.50
+$$
+
+$$
+\text{Treynor Ratio} = 15 = \frac{\mathrm{E}(\mathrm{R}) - \mathrm{R}_{\mathrm{f}}}{\beta_{\mathrm{D}}} = \frac{22.50}{\beta_{\mathrm{D}}}
+$$
+
+$$
+\beta_{\mathrm{D}} = 22.50 / 15 = 1.50
+$$
+
+(b) K Mutual Fund Ltd.
+
+$$
+\text{Sharpe Ratio} = 3.3 = \frac{\mathrm{E}(\mathrm{R}) - \mathrm{R}_{\mathrm{f}}}{\sigma_{\mathrm{K}}} = \frac{\mathrm{E}(\mathrm{R}) - \mathrm{R}_{\mathrm{f}}}{5}
+$$
+
+$$
+\mathrm{E}(\mathrm{R}) - \mathrm{R}_{\mathrm{f}} = 16.50
+$$
+
+$$
+\text{Treynor Ratio} = 15 = \frac{\mathrm{E}(\mathrm{R}) - \mathrm{R}_{\mathrm{f}}}{\beta_{\mathrm{K}}} = \frac{16.50}{\beta_{\mathrm{K}}}
+$$
+
+$$
+\beta_{\mathrm{K}} = 16.50 / 15 = 1.10
+$$
+
+(iii) Decrease in the Value of Equity
+
+|   | D Mutual Fund Ltd. | K Mutual Fund Ltd.  |
+| --- | --- | --- |
+|  Market goes down by | 5.00% | 5.00%  |
+|  Beta | 1.50 | 1.10  |
+|  Equity component goes down | 7.50% | 5.50%  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 51 ======================
+
+MUTUAL FUNDS
+8.51
+
+(iv) Balance of Cash after 1 month
+
+|   | D Mutual Fund Ltd. | K Mutual Fund Ltd.  |
+| --- | --- | --- |
+|  Cash in Hand on 31.12.14 | ₹ 0.71 | ₹ 2.50  |
+|  Less: Exp. Per month | ₹ 0.25 | ₹ 0.25  |
+|  Balance after 1 month | ₹ 0.46 | ₹ 2.25  |
+
+NAV after 1 month
+
+|   | D Mutual Fund Ltd. | K Mutual Fund Ltd.  |
+| --- | --- | --- |
+|  Value of Equity after 1 month |  |   |
+|  70 x (1 - 0.075) | ₹ 64.75 | -  |
+|  60 x (1 - 0.055) | - | ₹ 56.70  |
+|  Cash Balance | 0.46 | 2.25  |
+|   | 65.21 | 58.95  |
+
+23. (a) If return is 29%
+
+|   | ₹  |
+| --- | --- |
+|  Fixed fee (A) 0.10% of ₹ 20 crore | 2,00,000  |
+|  New Fund Value (1.29 x ₹ 20 crore) | 25.80 crore  |
+|  Excess Value of best achieved (25.8 crore – 21.0 crore) | 4.80 crore  |
+|  Incentive Fee (2% of 4.80 crores) (B) | 9,60,000  |
+|  Total Fee (A)+(B) | 11,60,000  |
+
+(b) If return is 4.5%
+
+|   | ₹  |
+| --- | --- |
+|  Fixed (A) 0.10% of ₹ 20 crore | 2,00,000  |
+|  New Fund Value (1.045 x ₹ 20 crore) | 20.90 crore  |
+|  Excess Value of best achieved (20.90 crore –21.00 crore) | (₹ 0.10 crore)  |
+|  Incentive Fee (as does not exceed best achieved) (B) | Nil  |
+|  Total Fee (A)+(B) | 2,00,000  |
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 52 ======================
+
+8.52
+
+ADVANCED FINANCIAL MANAGEMENT
+
+(c) If return is (-1.8%)
+
+No incentive only fixed fee of ₹ 2,00,000 will be paid
+
+## 24. Constant Ratio Plan:
+
+|  Stock Portfolio NAV (₹) | Value of Conservative Portfolio (₹) | Value of aggressive Portfolio (₹) | Total value of Constant Ratio Plan (₹) | Revaluation Action | Total No. of units in aggressive portfolio  |
+| --- | --- | --- | --- | --- | --- |
+|  40.00 | 1,00,000 | 1,00,000 | 2,00,000 | - | 2500  |
+|  25.00 | 1,00,000 | 62,500 | 1,62,500 | - | 2500  |
+|   | 81,250 | 81,250 | 1,62,500 | Buy 750 units | 3250  |
+|  36.00 | 81,250 | 1,17,000 | 1,98,250 | - | 3250  |
+|   | 99,125 | 99,125 | 1,98,250 | Sell 496.53 units | 2753.47  |
+|  32.00 | 99,125 | 88,111.04 | 1,87,236.04 | - | 2753.47  |
+|  38.00 | 99,125 | 1,04,631.86 | 2,03,756.86 | - | 2753.47  |
+|   | 1,01,878.43 | 1,01,878.43 | 2,03,756.86 | Sell 72.46 units | 2681.01  |
+|  37.00 | 1,01,878.50 | 99,197.37 | 2,01,075.87 | - | 2681.01  |
+|  42.00 | 1,01,878.50 | 1,12,602.42 | 2,14,480.92 | - | 2681.01  |
+|  43.00 | 1,01,878.50 | 1,15,283.43 | 2,17,161.93 | - | 2681.01  |
+|  50.00 | 1,01,878.50 | 1,34,050.50 | 2,35,929 | - | 2681.01  |
+|   | 1,17,964.50 | 1,17,964.50 | 2,35,929 | Sell 321.72 units | 2359.29  |
+|  52.00 | 1,17,964.50 | 1,22,683.08 | 2,40,647.58 | - | 2359.29  |
+
+Hence, the ending value of the mechanical strategy is ₹ 2,40,647.58 and buy & hold strategy is ₹ 2,60,000.
+
+© The Institute of Chartered Accountants of India
+
+====================== PAGE 53 ======================
+
+© The Institute of Chartered Accountants of India
+
+# NOTES
+
+|  |   |
+| --- | --- |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+|  |   |
+
+====================== PAGE 54 ======================
+
+© The Institute of Chartered Accountants of India

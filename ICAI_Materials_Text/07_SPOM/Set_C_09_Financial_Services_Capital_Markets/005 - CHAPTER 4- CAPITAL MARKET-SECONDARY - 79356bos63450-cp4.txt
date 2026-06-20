@@ -1,0 +1,2227 @@
+Source PDF: 07_SPOM/Set_C_09_Financial_Services_Capital_Markets/005 - CHAPTER 4- CAPITAL MARKET-SECONDARY - 79356bos63450-cp4.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_09_Financial_Services_Capital_Markets\005 - CHAPTER 4- CAPITAL MARKET-SECONDARY - 79356bos63450-cp4.pdf
+Extracted at: 2026-05-31T10:34:07+05:30
+Pages: 54
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER         44
+
+CAPITAL MARKET -
+SECONDARY
+
+
+                          LEARNING OUTCOMES
+After going through the chapter student shall be able to understand:
+    Introduction to Secondary Market
+   Development of the stock market in India
+   Stock market Organization in India
+   Demutualization of Stock Exchanges
+   Share Trading in Secondary Market
+   Stock Market and Its Operations
+   Risk Management in Secondary Market
+      (1)   Trading Rules and Regulations
+      (2)   Circuit Breakers
+      (3)   Trading and Settlement
+      (4)   National Securities Clearing Corporation Limited
+      (5)   Market Making System
+      (6)   Securities Lending and Borrowing
+      (7)   Straight Through Processing
+      (8)   Margin Trading
+      (9)   Short Selling
+    Indian Debt Market
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+4.2            FINANCIAL SERVICES AND CAPITAL MARKETS
+
+ CHAPTER OVERVIEW
+
+
+                                   CAPITAL MARKET SECONDARY
+
+                                                   Introduction to Secondary Market
+                                        Development of the Stock Market in
+                                                                  India
+                                            Stock Market Organization in India
+
+                                             Demutualization of Stock Exchanges
+
+                                        Share Trading in Secondary Market
+
+                                              Risk Management in Secondary
+                                                       Market
+
+
+                                             National   Trading                  Trading and                    Indian    Market    Securities                                               Securities                    Circuit                                                                                                     Straight      Margin    Short   Rules and                                                     Debt     Making   Lending                             Settlement                Breakers                  Clearing                                                                                 Through     Trading    Selling   Regulations                                                       Market   System   and                                            Corporation                                   Processing                                                                           Borrowing
+                                             Limited
+
+
+      1.  INTRODUCTION TO SECONDARY MARKET
+A secondary market is a market where shares initially issued are traded. Trading of securities takes
+place when securities are purchased or sold. This market is also known as the stock market. In India,
+secondary market consists of recognized stock exchanges operating under rules, regulations and
+guidelines approved by the government. The stock exchanges are organized markets where
+securities issued by the Companies, Central and State Government, and public bodies are traded.
+As per section 2(j) of the Securities Contract Regulation Act, 1956, “stock exchange” means anybody
+of individuals, whether incorporated or not, constituted for the purpose of assisting, regulating, or
+controlling the business of buying, selling, or dealing in securities.
+Therefore, in nutshell, securities issued by a company for the first time are offered to the public in
+the primary market. Once the IPO is done and the stock is listed, they are traded in the secondary
+market. The main difference between the two is that in the primary market, an investor gets securities
+directly from the company through IPOs, while in the secondary market, one purchase securities
+from other investors willing to sell the same.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+CAPITAL MARKET- SECONDARY    4.3           4.3
+
+
+Equity shares, bonds, preference shares, debentures, etc. are some of the key products available
+in a secondary market.
+Functions of Secondary Market
+(i)    Economic Indicator – Every major change in the economy, either due to government policy
+or any major international event has a bearing on the secondary/stock market. So, if the stock market
+is doing well, it is an indicator that the economy is in a stable position.
+(ii)    Valuation of Securities – Secondary market helps in the valuation of securities through its
+demand and supply. The securities of those companies which are growth oriented and doing well
+will surely have higher demand in comparison to securities of companies which are not doing well.
+Consequently, the share prices of growth-oriented companies will be high.
+(iii)   Transaction in securities is safe in the secondary market – Transactions executed in the
+secondary market are safe because all the trading taking place in an electronic system which is
+highly secure.
+(iv)   Contributes to economic growth – It contributes to economic growth through allocation of
+funds to the most efficient sector through the process of disinvestment to reinvestment. This leads
+to capital formation and economic growth.
+(v)    Motivating people to invest in equity shares – Efficient secondary market motivates people
+to invest in the securities market. The reason is that the people would be less apprehensive about
+the riskiness of the stock market.
+(vi)      It ensures safety and measures of fair dealing to protect investor’ interest.
+(vii)    It induces companies to improve their performance since market price of shares showing at
+the stock exchanges is the indicator that reflects a company’s performance and is easily available
+to the investors.
+
+      2.  DEVELOPMENT OF THE STOCK MARKET IN INDIA
+The stock market originated in India at the end of the eighteenth century when lots of new negotiable
+instruments were introduced. However, the real beginning was made in the middle of nineteenth
+century when Companies Act, 1860 was enacted where the concept  of limited  liability was
+introduced.
+The Bombay Stock Exchange was formed in 1875. This was followed by the formation of exchanges
+in Ahmedabad in 1894, Calcutta (Kolkata) in 1908, and Madras (now Chennai) in 1937. Calcutta
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+4.4            FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+Stock Exchange (CSE) was the largest stock exchange in India till 1960’s. In 1961, there were 1203
+listed companies. Of these, 576 were listed on the CSE and 297 on the BSE. However, the latter
+part of the 1960’s saw a significant decline in the share of CSE. But the share of BSE gained during
+that period.
+                           Pattern of Growth of Stock Exchanges
+                              1946      1961       1971       1975       1980
+  No of Stock exchanges           7         7          8          8          9
+  No of listed Companies         1175      1203       1599       1852       2265
+  Market Capitalization (` in       971       1292       2675       3273       6750
+   crores)
+                              1990-91   1999-2000    2004-05     2007-08    2012-13
+  No of Stock Exchange           22        23         23         21         26
+  No of listed Companies         2471      5815       4731       4887       5133
+  Market Capitalisation           90,836    1,12,842    1,698,428   5,138,014   6,214,941
+  Turnover (` in crores)          36,011   20,670,310   1,620,498   5,129,895   3,478,391
+  Source: SEBI Annual Report, Various issues
+
+Till 1990’s, the Indian Stock Market was suffering from many drawbacks which are enumerated as
+below:
+    Uncertainty of execution prices.
+    Uncertain delivery and settlement periods.
+    Lack of transparency.
+    High transaction costs.
+    Absence of risk management.
+    Systematic failure of market due to market failure.
+     Partiality of brokers to certain clients only.
+Market Reforms after 1991
+After the initiation of reforms in 1991, the secondary market has adopted the following system:
+    Regional stock exchanges
+    The National Stock Exchanges (BSE and NSE)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+CAPITAL MARKET- SECONDARY    4.5           4.5
+
+    The Over-the-Counter Exchange of India (OTCEI)
+    The Interconnected Stock Exchange of India (ISE)
+The NSE was set up in 1994. It was the first stock exchange in India to bring new technology, new
+trading practices, new institutions, and new products. The OTCEI was established in 1992 providing
+small and medium sized enterprises with the means to generate  capital. Metropolitan Stock
+Exchange of India Ltd. (MSEI), formerly known as MCX Stock Exchange Ltd. (MCX-SX),  is
+recognized by country’s securities market regulator - Securities and Exchange Board of India (SEBI).
+It offers an electronic platform for trading in Capital Market, Futures & Options, Currency Derivatives,
+Interest Rate Futures (IRF) and Debt Market segments. MSEI's current shareholders include Indian
+public sector banks, private sector banks, investors, and domestic financial institutions.
+Select Ratios Relating to the Stock Market (Per cent)
+ Year      Market Capitalisation to GDP Ratio         Total Turnover to GDP Ratio
+            BSE          NSE       Cash Segment     Equity Derivatives
+                                                          (All-India)     Segment (BSE + NSE)
+  2021-22       112.51           111.55            76.28                7,504
+  2022-23       94.78             94.10             52.62               14,158
+Notes: First revised estimate of GDP at current prices for 2021-22 and provisional estimate for 2022-
+23 released on May 31, 2023, by MoSPI, have been considered for computation; Source: BSE, NSE
+and Central Statistical Office.
+
+      3.  STOCK MARKET ORGANIZATION IN INDIA
+The organization of stock exchanges has been depicted in the following figure:
+
+                                             Stock Market Organisation in India
+
+                             Stock Broking          Custodial Services          Depository system
+
+                                Trading                                                                                      Depositories                Sub         and         Foreign        Trading    Broking                  Broking       Clearing      Brokers         and
+                          Members                      Clearing      CDSL       NSDL
+                                                 members
+                                                                      of currency
+                                                                     derivative                Depository
+                                                      segment                   Participant
+
+                                                                            Banks &
+                                                                                              Financial
+                                                                                                        Institutions
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+4.6            FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+The stock market organization (highlighting the capital market intermediaries) in India as shown in
+the above diagram is discussed as below:
+(i)    Stock Broking –Brokers are members of the stock exchange. They enter share trading
+transactions either on their own account or on behalf of their clients. They must get registration from
+SEBI before starting their operations and must comply with the prescribed code of conduct. Till
+recently, most of the brokers have worked as proprietary or partnership concerns. However, now
+many top broking firms are company form of organizations. Recent examples are:
+    Sharekhan Limited
+     India Bulls
+    Angel Broking Limited
+     India Infoline Limited
+    Reliance Money
+    Kotak Securities Limited
+    ICICI Direct
+     Motilal Oswal Securities
+   HDFC Securities
+     Bajaj Capital
+Brokers are important intermediaries in the stock market as they bring buyers and sellers together.
+However, the brokerage on transactions varies from broker to broker. The maximum allowable
+brokerage is 2.5% of the contract price.
+Further, every stockbroker should appoint a compliance officer to monitor the compliance of the
+SEBI Act and its various rules, regulations, and guidelines and for redressal of investor grievances.
+The compliance officer should immediately report any non-compliance observed by him to the SEBI.
+SEBI is also empowered to appoint one or more persons as inspectors to inspect the books of
+accounts, other records, and documents of the stockbroker. Also, a stockbroker shall only deal with
+any person as a sub-broker if he has obtained a certificate of registration from the SEBI. Further, a
+stockbroker or a sub-broker who has contravened any provisions of the SEBI Act, rules and
+regulations are liable for penal action.
+(ii)    Custodial Services –The custodians play a critical role in the secondary market. SEBI
+Custodian of Securities Regulation, 1996 was framed for the proper conduct of their business.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+CAPITAL MARKET- SECONDARY    4.7           4.7
+
+
+According to SEBI regulations, custodial services in relation to securities of a client or gold/gold
+related instrument held by a mutual fund or title deeds of real estate assets held by a real estate
+mutual fund mean safekeeping of such securities or gold/gold related instruments or title deeds of
+real estate assets and providing related services.
+The related services provided by them are as follows:
+    Maintaining accounts of the securities of a client.
+     Collecting the benefits/rights accruing to the client in respect of securities.
+    Keeping the client informed of the actions taken by the issuer of securities.
+    Maintaining and reconciling records of the services as referred above.
+SEBI can also ask for information from the custodian regarding his activities. Such information must
+be given within a reasonable period as laid down by SEBI. Further, SEBI is also empowered to
+conduct inspection/investigation including audit of books of account, records etc. of custodians to
+ensure that they are being properly maintained. SEBI’s task is also to ascertain that compliance of
+provisions of SEBI Act and its regulations have been duly complied with. Moreover, its job is also to
+investigate complaints received from investors or clients.
+(iii)   Depository System–A major reform of the Indian stock markets has been the introduction of
+the depository system and scripless trading mechanism. The Depository Act was passed in 1996 to
+provide further fillip to the process.
+The issuers should enter  into an agreement with the depository to enable the investors to
+dematerialize the securities.
+Before the depository system came into being, the market suffered from various drawbacks including
+thefts and forgeries of share certificates. Moreover, dealing in the physical mode had  its own
+limitations which inhibited the growth of the capital market in India. These shortcomings were acutely
+felt more so after the liberalization of the economy. To address  all such issues the Central
+Government enacted  the Depositories  Act, 1996,  with  retrospective  effect from September
+20, 1995.
+Is it compulsory for every investor to hold securities in the demat form or can he also hold shares in
+the physical form? The Depositories Act provides that every person subscribing to securities offered
+by an issuer has the option to receive the security certificates or hold securities with a depository.
+However, investors need to note that while securities can be held by way of certificates, dealing in
+the market is permitted only if the securities are in demat mode.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+4.8            FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+When an investor holds securities in the physical form, the certificates bear serial numbers,
+distinctive numbers, etc. However, when the securities are held in demat mode, they are akin to
+money lying in the bank account. Therefore, there is no question of certificate numbers or distinctive
+numbers, though the quantity will remain the same.
+As in the case of certificates, holders of securities in demat mode (called beneficial owners) can
+create a pledge or hypothecation in respect of the securities held by them. In such cases,  it is
+necessary for the beneficial owner to inform the depository of the pledge or hypothecation created
+by him. The depository concerned must make a note in its records to that effect.
+Another query which emerges is that can an investor, who has opted for holding the securities in
+demat form, ask for certificates on opting out of the depository. The answer is - a beneficial owner
+has a right to opt out of the depository at any time he or she may desire. In fact, the depository must
+note the request in its records and convey the same to the company. The company is obliged to
+issue the certificates in respect of the securities within 30 days of the receipt of the intimation from
+the depository.
+What can an investor do if a depository or any participant or an issuer fails to redress his grievances?
+A complaint should be lodged with SEBI giving the necessary particulars in the prescribed form.
+SEBI would write to the concerned party asking it to redress the grievances of the investors within
+a specified time. In exceptional circumstances SEBI may grant further time for redressing the
+grievances. However, if the depository or the participant indulges in dilatory tactics or neglects to
+redress the grievances, SEBI has power to proceed against such defaulting party and impose
+penalty. In fact, SEBI has come down heavily on various market intermediaries as also the defaulting
+companies which ignore the investors and fail to redress their grievances. The heavy penalties that
+SEBI can impose, and, in many cases,  it has done so have come as an eye opener for various
+market players.     (Source: Financial Express)
+Secondary Market Structure
+SEBI Registered Market Intermediaries/ Market Infrastructure Institutions
+
+ Market Intermediaries                2016-17 2017-18 2018-19  2019-20 2020-21 2021-22  2022-23
+                1                       8       9      10       11      12      13      14
+ Stock Exchanges (Cash Market)              6       5       5        5       3       3       3
+ Stock Exchanges (Derivatives Market)         3       3       3        3       3       3       3
+ Stock Exchanges (Currency Derivatives)       3       3       3        3       3       3       3
+ Stock Exchanges (Commodity
+ Derivatives Market)                       10       6       5        5       5       5       4
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+CAPITAL MARKET- SECONDARY    4.9           4.9
+
+
+ Brokers (Cash Segment)                  4,326    4,252    3,860     2,978   4,639    2,840    2,848
+ Corporate Brokers (Cash Segment)         3,149    3,073    2,835     2,618   3,587    2,487    2,477
+ Brokers (Equity Derivatives)               2,651    2,549    2,435     2,405   3,582    2,348    2,357
+ Brokers (Currency Derivatives)             1,985    2,245    2,110     1,933   2,772    1,830    1,813
+ Brokers (Debt Segment)                    6     162     173      378     445     528     537
+ Brokers (Commodity Derivatives)           1,162    1,200    1,708     1,745   2,206    1,632    1,600
+ Sub-brokers (Cash Segment)             30,610   21,098     Na      Na     Na     Na     Na
+ Foreign Institutional Investors             Na     Na     Na      Na     Na     Na     Na
+ Sub-accounts                        Na     Na     Na      Na     Na     Na     Na
+ Foreign Portfolio Investors (FPIs)           7,807    9,227    9,390     9,679   9,975   10,608   10,975
+Deemed FPIs                          974                         -      Na     Na     Na     Na
+ Custodians                              19      19      20       19      18      17      18
+ Depositories                              2       2       2        2       2       2       2
+ Depository Participants - NSDL             276     276     277      279     272     277     282
+ Depository Participants - CDSL             588     594     597      599     615     584     585
+ Merchant Bankers                       189     195     205      215     215     219     219
+ Bankers to an Issue                       64      66      65       65      65      65      54
+ Underwriters                             2       1       2        2       1       1       0
+ Debenture Trustees                       32      32      30       32      30      26      26
+ Credit Rating Agencies                     7       7       7        7       7       7       7
+KYC Registration Agency (KRA)              5       5       5        5       5       5       6
+ Venture Capital Funds                    198     195     190      189     189     157     183
+ Foreign Venture Capital Investors           218     232     248      251     260     279     271
+ Alternative Investment Funds              303     395     532      649     726     885    1,023
+ Registrars to an Issue & Share Transfer
+ Agents                                 73      73      74       79      78      78      75
+ Portfolio Managers                      218     270     315      351     362     367     385
+ Mutual Funds                            45      45      47       47      49      47      44
+ Investment Advisors                     577     887    1,131     1,291   1,341    1,330    1,322
+ Research Analysts                      351     481     620      680     733     825     964
+ Infrastructure Investment Trusts (InVIT)        6       6      11       10      15      17      19
+ Real Estate Investment trusts (REITs)       Na       1       2        3       4       4       5
+ Collective Investment Management
+Company                                1       1       1        1       1       1       0
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+4.10           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+ Approved Intermediaries (Stock Lending
+ Schemes)                                2       2       2        2       1       2       2
+STP (Centralised Hub)                     1       1       1        1       1       1       1
+STP Service Providers                      1^       1^       1^       1^       1       3       3
+
+                                                        Source: SEBI handbook of statistics
+
+      4.  DEMUTUALIZATION OF STOCK EXCHANGES
+Demutualization is the process by which any member owned organization can become a shareholder
+owned company. Such a company can either be listed on a stock exchange or be established as a
+closely held company. In simple words, a demutualized stock exchange is basically a company form
+of organization in which the company goes public, and owners will be given equity shares.
+Earlier (i.e., prior to 1991), all stock exchanges in India are broker owned and broker controlled. In
+other words,  it is the brokers who collectively owned, controlled, and managed these exchanges.
+However, the ownership and managership of these stock exchanges led to a conflict of interest
+where the interest of these brokers was given more prominence than the investors.
+These led to price rigging, frequent payment crises on stock exchanges and misuse of official
+position by office bearers. Therefore, demutualization of stock exchange was resorted to  instill
+confidence in the minds of the investors.
+So, through the demutualization process, a stock exchange becomes a profit-making company and
+a tax paying entity. Demutualization separates the ownership and control of stock exchange from
+the trading rights of members. This reduces the conflict of interest and the chances of brokers using
+the trading mechanism for personal gains.
+In November 2002, SEBI approved the uniform model of corporatization and demutualization of stock
+exchanges, recommended by the Kania Committee. Further, the Securities Contract Regulation Act
+was amended on October 12, 2004, through an ordinance, making it compulsory for the exchanges
+to convert into corporate entities and delink their broker members from the management. The
+ordinance restricts brokers’ representation in the governing body of stock exchanges to 25%. It also
+reduces their shareholding from 100% to 49%. Moreover, 51% of the stake in the stock exchange
+should be held by the public. This segregation was initiated to safeguard the interest of shareholders,
+bring greater transparency and efficiency of stock exchanges.
+Advantages of Demutualization
+(i)    Enable stock exchanges to have more access to funds for investment in technology.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.11         4.11
+
+(ii)     Facilitate merger and acquisition of other exchanges.
+(iii)    Facilitate alliances with other stock exchanges.
+(iv)    Benefit to members of the stock exchange as their assets become liquid.
+(v)   Members get a share of the profits made by exchanges through dividends.
+(vi)   Makes operations of the stock exchanges transparent.
+(vii)   Transparency brings better governance.
+
+      5.  SHARE TRADING IN SECONDARY MARKET
+Secondary Market or Stock Exchange Market refers to a market where securities are traded after
+being initially offered to the public in the primary market and/or listed on the Stock Exchange. Most
+of the trading is done in the secondary market. The secondary market comprises of equity markets
+and the debt markets. For the general investor, the secondary market provides an efficient platform
+for trading his securities. For the management of the company, secondary equity markets serve as
+a monitoring and  control conduit—by  facilitating value-enhancing  control  activities, enabling
+implementation of incentive-based management contracts, and aggregating information (via price
+discovery) that guides management decisions. [Source: moneycontrol.com]
+5.1  Share Trading by a Retail Investor
+One can either choose to trade online or via a stockbroker or investment firm or an agent. One needs
+to take following steps to conduct trade in secondary market in India:
+(i)   Open a Bank Account: The first step towards investing in Indian stock market is to open a
+bank account. A bank account is required to hold the funds which would be invested in the secondary
+market.
+(ii)   Open a Demat Account: Just as a bank account is required to hold the funds, a Demat
+Account is required to hold and trade the securities i.e., Shares, debentures, and mutual funds
+electronically.
+(iii)  Open a trading account: After opening a Demat account, a trading account is required to
+trade in the securities market. A trading/brokerage account allows you to purchase stocks, bonds,
+mutual funds, and other units by paying the broker to do the trading on your behalf. A retail investor
+would not be able to do trading without a trading account. Now, many banks have started providing
+all these services in a single unified account. The trading platform of a stock exchange is accessible
+only to trading members. The brokers would give buy/sell orders either for their own account or for
+their clients.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+4.12           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+(iv)   Trading Mechanism: With the advent of technology, trading at stock exchanges is now
+taking place through an open electronic limit order book, in which order matching is done by the
+trading computer. The buy or sell orders placed by the investors are matched automatically with the
+order which is best for them. Because of these, the buyers and sellers do not come to the picture.
+In other words, they remain anonymous. The market driven by order as stated above eliminates
+opaqueness. It brings transparency by highlighting all buy and sell orders in the trading system. But
+the presence of market makers is very important. In their absence, there might be a possibility of
+non-execution of any order. The concept of market making has been discussed in detail in the later
+part of the chapter.
+Investors buy/sell securities on stock exchange platform by placing buy/sell orders through their
+stockbrokers with whom they are registered as client. On successful execution of order (buy/sell),
+securities will be bought/sold on behalf of the client. This activity is known as buying/selling of
+securities on the stock exchange platform on specific days which is known as trading day. This
+activity is referred to as trading and is carried out by stock exchanges for a specific period called
+trading hours. After the trading activity is completed, the process of delivering securities by the seller
+and payment of funds by the buyer is called securities pay-in/funds pay-in respectively. This activity
+also must be conducted  within  the  stipulated  time.  After the  pay-in process  is completed
+successfully, the buyer will get shares and the seller will get money. The above-mentioned activities
+of pay-in and payout are collectively referred to as settlement process. Each settlement is identified
+by a unique number called settlement id/Settlement number.
+(v)   Payment to Broker for purchase of shares/securities: The payment for the shares
+purchased is required to be made prior to the pay-in date for the relevant settlement or as otherwise
+provided in the Rules and Regulations of the Exchange.
+(vi)   Delivery of shares to the broker for sale: The delivery of shares must be done prior to the
+pay- in date for the relevant settlement or as otherwise provided in the Rules and Regulations of the
+Exchange and agreed with the broker/sub broker in writing.
+(vii)  Receipt of money for a sale transaction and receipt of shares for a buy transaction:
+Brokers were required to make payment or give delivery within two working days of the pay - out
+day. However, as settlement cycle has been reduced fromT+3 rolling settlement to T+2, the pay out
+of funds and securities to the clients by the broker will be made within 24 hours of the payout.
+5.2  Algorithmic Trading
+The practice of algorithmic trading involves using a computer programme to purchase and sell
+stocks, options, futures, FX currency pairings, and cryptocurrencies. Algorithmic trading is also
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.13         4.13
+
+
+referred to as high-frequency trading, automated trading, or black-box trading on Wall Street. These
+terms are often used interchangeably.
+The algorithm is essentially a piece of code that performs a series of automatic operations step-by-
+step. The inputs you have programmed into  it serve as the foundation  for the step-by-step
+procedures. Price, volume, time, economic data, and indicator readings are examples of input
+variables. Any variation of the input variables is acceptable. A buy or sell order will be carried out if
+these requirements have been met.
+To execute deals at precise times, algorithmic trading mixes computer programming and financial
+markets. Additionally, algorithmic trading aims to remove emotions from transactions, guarantees
+the best possible execution of a deal, instantly places orders, and may result in decreased
+transaction costs.
+Algorithmic Trading in Practice
+Suppose a trader follows these simple trading techniques:
+♦    Buy 50 shares of a stock when its 50-day moving average goes above the 200-day moving
+      average. (A moving average is an average of past data points that smooths out day-to-day
+       price fluctuations and thereby identifies trends.)
+♦     Sell shares of the stock when its 50-day moving average goes below the 200-day moving
+      average.
+Computer software  will automatically monitor the stock price (as well as the moving average
+indicators) and place the buy and sell orders when the predetermined criteria are satisfied using
+these two straightforward instructions. The trader is no longer needed to manually enter orders or
+keep an eye on live pricing and graphs. This is automatically accomplished by the algorithmic trading
+system, which accurately recognises the trade opportunity.
+Benefits of Algorithmic Trading
+Algo-trading provides the following benefits:
+♦    Trades are executed at the best possible prices.
+♦    Trade order placement is instant and accurate (there is a high chance of execution at the
+       desired levels).
+♦    Trades are timed correctly and instantly to avoid significant price changes.
+♦    Reduced transaction costs.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+4.14           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+♦    Simultaneous automated checks on multiple market conditions.
+♦    Reduced risk of manual errors when placing trades.
+♦     Algo-trading can be backtested using available historical and real-time data to see  if it is a
+       viable trading strategy.
+♦    Reduced the possibility of mistakes by human traders based on emotional and psychological
+       factors.
+High-frequency trading (HFT), which tries to profit from placing a lot of orders quickly across a variety
+of markets and different decision parameters based on preprogramed instructions, makes up the
+majority of algo trading today.
+Technical Requirements for Algorithmic Trading
+The final element in algorithmic trading is to put the algorithm into practise using a computer
+programme, after backtesting (trying out the algorithm on historical periods of past stock-market
+performance to see  if using  it would have been profitable). The difficult part is integrating the
+determined strategy into a computerised system that can access a trading account and accept
+orders. The prerequisites for algorithmic trading are as follows:
+♦    Computer-programming  knowledge  to  program  the  required  trading  strategy,  hired
+      programmers, or pre-made trading software.
+♦    Network connectivity and access to trading platforms to place orders.
+♦    Access to market data feeds that will be monitored by the algorithm for opportunities to place
+       orders.
+♦    The ability and infrastructure to backtest the system once it is built before it goes live on real
+      markets.
+♦     Available historical data for backtesting depending on the complexity of rules implemented in
+       the algorithm.
+An Example of Algorithmic Trading
+Royal Dutch Shell (RDS) is listed on the Amsterdam Stock Exchange (AEX) and London Stock
+Exchange (LSE). We start by building an algorithm to identify arbitrage opportunities. Here are a few
+interesting observations:
+♦   AEX trades in euros while LSE trades in British pound sterling.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.15         4.15
+
+
+♦    Due to the one-hour time difference, AEX opens an hour earlier than LSE followed by both
+      exchanges trading simultaneously for the next few hours and then trading only in LSE during
+       the last hour as AEX closes.
+Can we explore the possibility of arbitrage trading on the Royal Dutch Shell stock listed on these
+two markets in two different currencies?
+Requirements:
+♦   A computer program that can read current market prices.
+♦     Price feeds from both LSE and AEX.
+♦   A forex (foreign exchange) rate feed for GBP-EUR.
+♦     Order-placing capability that can route the order to the correct exchange.
+♦    Back testing capability on historical price feeds.
+The computer program should perform the following:
+♦    Read the incoming price feed of RDS stock from both exchanges.
+♦    Using the available foreign exchange rates, convert the price of one currency to the other.
+♦        If there is a large enough price discrepancy (discounting the brokerage costs) leading to a
+       profitable opportunity, then the program should place the buy order on the lower-priced
+      exchange and sell the order on the higher-priced exchange.
+♦        If the orders are executed as desired, the arbitrage profit will follow.
+The above process seems to be simple and effortless. Algorithmic trading is not, however, an easy
+process to manage and carry out. Keep in mind that multiple market participants can execute an
+algo-generated deal  if one investor can. As a  result, price changes occur  in  milli and even
+microseconds. What happens in the case above,  if the purchase trade is carried out, but the sell
+trade is not, as the sell prices have changed by the time the order reaches the market? The arbitrage
+approach will be useless because the trader will still have an open position.
+Additional dangers and difficulties include the potential for system failure, network connectivity
+issues, execution delays for trade orders, and—most significantly—imperfect algorithms. Prior to
+implementation, more rigorous backtesting is required for algorithms with more complexity.
+                                                                      Source: Investopedia
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+4.16           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+5.3  Basket Trading
+Investment companies and large institutional traders often utilize basket trades as a form of order to
+purchase or sell several securities all at once.
+Institutional investors and investment funds who want to own a variety of assets in specific ratios
+must use basket trading. Large baskets of assets must be purchased or sold at once as cash flows
+in and out of the fund to prevent price changes for individual securities from changing the allocation
+of the portfolio.
+To understand how a basket trade is advantageous to an investment fund, suppose an index fund
+seeks to match its target index by owning the majority or all the index's securities to understand how
+a basket trade benefits an investment fund. The manager must simultaneously purchase a significant
+number of securities in the same proportion that they are represented in the index as new money
+that could boost the value of the fund comes in. The frequent price changes of the assets would
+prevent the index fund from holding the securities in the right ratios if it were not possible to execute
+a basket trade on all of them.
+A basket trade normally involves the selling or acquisition of 15 or more securities but is generally
+used to buy stocks.  To calculate  their returns, such baskets are frequently compared to a
+benchmark or tracked against an object, such as an index.
+Let's say a fund of investments wants to profit from an index's volatility. To follow the index, the fund
+manager builds a long/short basket. The basket does not include any securities. It consists of several
+call and put options instead.
+The trading of commodities and currencies is also possible with baskets. For instance, a trader might
+put together a basket of soft commodities like wheat, soybeans, and corn. Most brokerage firms or
+investment companies that offer basket trading have a minimum investment requirement.
+Basket Trade Benefits
+♦    Personalized Option: Investors have the option to design a basket transaction that meets
+        their financial goals. An investor looking for income, for instance, might put together a basket
+       trade that solely contains high-yielding dividend equities. Stocks from a specified industry or
+       with a certain market valuation may be included in baskets.
+♦    Simple Allocation: Basket transactions make it simple for investors to distribute their money
+     among various securities. Common distribution methods for investments include share size,
+       dollar amount, and percentage weighting. Each holding in the basket is given an equal
+     number of shares according to share quantity. Securities are distributed using dollars or
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.17         4.17
+
+
+      percentage amounts in dollar and percentage allocations. For instance, if an investor wants
+       to invest $50,000 across a basket of 15 assets, they will need to buy $3,333.33 of each
+       security.
+♦    Control: A basket transaction aids investors in maintaining investment control. Individual or
+       multiple securities may be added to or removed from the basket depending on the decision
+      made. Monitoring the performance of a basket deal also streamlines the administrative
+      procedure and saves time compared to monitoring individual securities.
+
+      6.  STOCK MARKET AND ITS OPERATIONS
+Stock exchanges are meant to facilitate mobilization of resources by companies. Their effective
+regulation is required for protecting the interests of investors and safeguarding their developmental
+role.
+The Securities Contracts (Regulation) Act 1956 along with the Securities Contracts (Regulation)
+Rules 1957 has been the main laws to regulate the securities market in India. As per the Securities
+Contracts Regulations Act, 1956, a stock exchange is defined as "an association, organization or
+body of individuals whether incorporated or not, established for the purpose of assisting, regulating
+and controlling business in buying, selling and dealing in securities”. A look at the powers given to
+stock exchanges in India to make and enforce by laws under the Act and the rules reveals that Indian
+Stock Exchanges have been envisaged as self-regulatory organizations.
+6.1  Growth of Stock Exchanges
+The stock exchange in India came into existence in the eighteenth century. At that time, securities
+of East India Co. were transacted. And there were at the most 50-60 brokers led by Premchand
+Roychand. They provided the much-needed impetus to the shares issued by East India Company
+and a few commercial banks. The issuance of shares of a company made its beginning in the 1830s
+and gained importance with the passage of the Companies Act in 1850s. The stock exchange in
+India, the Bombay Stock Exchange was established in 1875. Its name at that time was “Share and
+Stockbrokers Association.”
+The stock exchanges are tightly regulated as self-regulatory organizations (SROs) under the Act. In
+addition to ordinary regulatory powers over the stock exchanges, the Central Government and/or
+SEBI may nominate up to three members to the board of each stock exchange [Section 4(2) (iii) of
+the SC(R) Act, 1956 and Section 10 of SC(R) Rules, 1957]. The government and/or the agency
+have the authority to make, approve and amend the byelaws of the stock exchanges [Section 4(1)(a)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+4.18           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+&8 of the SC(R) Act, 1956].  In return, the stock exchanges have been granted strong disciplinary
+authority (as well as obligations) over their member stockbrokers.
+6.2  Characteristics of Stock Exchanges in India
+A stock exchange is an association of brokers, who are its members, established with the objective
+of regulating and helping the buying and selling of securities by the organizations. Recognition to a
+stock exchange in India is provided by the Central Government after making such inquiry as may be
+necessary after satisfying the provisions of the Securities Contract (Regulation) Act, 1956.
+The governance of a stock exchange is done by the Board of Directors. Some board members are
+nominated by the Government. And Govt. nominees include people representing the Ministry of
+Finance. There are some public representatives also whose job is to protect the interest of investors.
+Further, the Board is presided by a President, who is nominated by the government from among the
+elected members. The Executive Director (ED) is the operational chief of the stock exchange. He is
+appointed by the Stock Exchange with government’s approval. The duty of the ED is to make sure
+that day-to-day operations of the stock exchange are carried out in accordance with the rules and
+regulations.
+The office of SEBI has been set up in Mumbai to observe the proper functioning of stock exchanges
+in the country. Every company wishing to issue shares to the public must get its securities listed on
+at least one stock exchange. Stock exchanges also facilitate trading of shares listed in them.
+6.3  Functions of Stock Exchanges
+Various functions of stock exchanges are discussed as below:
+(a)    Liquidity and Marketability of Securities: The basic functions of the stock market are to
+provide liquidity to the securities of a company. This can be achieved when investors can sell their
+securities at the prevalent market price at that time and get the required amount. The stock
+exchanges also provide marketability to the securities of a company i.e., the securities can be bought
+and sold at any time at the convenience of investors.
+(b)    Fair Price Determination: Fair price is determined through the demand and supply forces.
+As the market is almost perfectly competitive, there are many buyers and sellers that ensure an
+honest and just determination of prices of securities.
+(c)   Source for Long term Funds: Stock exchanges provide a reliable long-term source of funds
+to the corporates, government, and the public bodies. The advantages of the securities placed in
+the stock exchanges are that they are negotiable and transferable. They are freely traded and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.19         4.19
+
+
+change hands from one investor to another without affecting the funds requirement of the issuing
+company.
+(d)   Helps in Capital Formation:  It means the savings  of the people are mobilized and
+channelized into those sectors which need money. So, stock exchanges facilitate capital formation
+i.e., it helps in transfer of funds from those people who have surplus money to sectors which need
+money.
+(e)    Services provided by Stock Exchanges: Stock exchanges ensure that the shares issued
+to the public are transparent and in accordance with prescribed rules and regulations.
+Shares are issued to the public by the companies by disclosing all the information through the
+prospectus.  It ensures various norms regarding listing, opening of subscription for a minimum
+number of days, availability of share applications at the prescribed centres etc.
+Members of the stock exchanges provide useful services as brokers and underwriters. As brokers,
+they try to gain access to potential investors and encourage them to invest in the stock market. And,
+as underwriters, they provide the much-needed services by subscribers to those securities of a
+company which remains unsubscribed.
+Stock exchanges also provide a platform where the right shares of a company are issued to the
+already existing shareholders of the company. New shareholders can also take part in the rights
+shares provided existing shareholders renounce a part of their shareholding.
+(f)    Reflects the General State of Economy: The stock market reflects the economy. When the
+economy is doing badly, the stock market also reflects the same negativity in the form of declining
+share prices. On the other hand, when the economy is doing well, the stock market also shows a
+boosting effect in the form of higher share prices.
+6.4  Basics of Stock Market Indices
+6.4.1 Stock Market Index
+It represents the entire stock market.  It shows the changes taking place in the stock market.
+Movement of the index is also an indication of average returns received by the investors. With the
+help of an index, it is easy for an investor to compare performance as it can be used as a benchmark,
+for e.g., a simple comparison of the stock and the index can be undertaken to find out the feasibility
+of holding a particular stock.
+Each stock exchange has an index. For instance, in India, it is Sensex of BSE and Nifty of NSE. On
+the other hand, in outside India, popular indexes are Dow Jones, NASDAQ, FTSE etc.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+4.20           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+6.4.2 Concept behind Fluctuations of Index
+Valuation of stocks is arrived at by discounting future earnings (i.e., dividend and capital gains) to
+arrive at the present value. So, the stock market is basically reflective of how a company will perform
+in the future. So, when the index goes up, the perception is that the future returns will go up and
+vice-versa.
+Furthermore, the stock exchange computes the closing price of stocks based on weighted average
+price of all trades executed during the last 30 minutes of a continuous trading session.
+If there is no trade recorded during the last 30 minutes, the last traded price of the stock in the
+continuous trading session is taken as the official closing price.
+6.4.3 Computation of Index
+Following steps are involved in calculation of index on a particular date:
+    Calculate the market capitalization of each individual company comprising the index.
+    Calculate the total market capitalization by adding the individual market capitalization of all
+      companies in the index.
+    Computing index of next day requires the index value and the total market capitalization of
+       the previous day and is computed as follows:
+                                              Total market capitalisation for current day
+            I ndex Value = Index on Previous Day X                                                Total capitalisation of the previous day
+
+       It should also be noted that Indices may also be calculated using the price weighted method.
+      Here, the share price of the constituent companies forms the weight. However, almost all
+       equity indices worldwide are calculated using the market capitalization weighted method.
+6.4.4 Free Float Market Capitalization
+The company's outstanding shares multiplied by the share price equals its market capitalization. For
+instance, a corporation with 50,000 shares in circulation at a price of ` 50 will have a market
+capitalization of ` 25 lakhs. Depending on a company's market capitalization, it can be divided into
+small-cap, mid-cap, and large-cap categories. Free-float market capitalization, on the other hand, is
+an entirely distinct idea.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.21         4.21
+
+What is Free-Float Market Capitalization?
+The calculation for conventional market capitalization entails counting  all outstanding shares,
+including publicly traded and privately held. However, the free-float market cap method only uses
+publicly held, outstanding shares to value a corporation.
+The price of each share is then multiplied by the number of shares. Privately held shares are not
+included in this computation at all. Shares owned by trusts, governmental entities, and promoters
+are therefore disregarded. Additionally, it shows that a free-float market capitalization would always
+be less expensive than the company's real market capitalization.
+Float-adjusted capitalization is another name for free-float market capitalization.
+Examples of Free-Float Market Capitalisation
+Sadbhavna Garments has 100000 outstanding shares, each priced at ` 30. From these, 53000
+shares are held  publicly, while the remaining 47000 shares are owned  privately. From  this
+information, both the market cap and the free float market capitalisation can be calculated.
+Market capitalisation for Sadbhavna Garments
+Total outstanding shares x Price of each share
+1,00,000 x 30= ` 30,00,000
+Free-float market capitalisation for Sadbhavna Garments
+Outstanding shares held by public x Price of each share
+53,000 x 30 = ` 15,90,000
+This difference is more prominent in the case of companies that contain a large government holding.
+For instance, Coal India's free float market cap is much lower than its regular market capitalization,
+because most of its shares are held privately by the Indian government.
+Now, consider a second example to have a proper understanding-
+The National Thermal Power Corporation has 160000 outstanding shares of ` 100 out of which
+40000 are publicly owned. The remaining 120000 shares are held by different government entities.
+Again, the market cap and the free-float market cap of the company is as follows:
+Market capitalisation = 1,60,000 x 100 = Rs1,60,00,000
+Free-float market capitalisation = 40,000 x 100 = ` 40,00,000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+4.22           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+Advantages of Using Free-Float Market Capitalisation
+The free-float market cap technique of analyzing an index is preferred because of the following
+reasons:
+(i)    Presents a realistic picture The total market capitalization technique considers both the
+shares that are now on the market and those that are currently locked in. However, the free-float
+system merely considers how many shares are presently traded on the market. To assess an
+enterprise's genuine state, this procedure is a more helpful statistic.
+(ii)   No valuation distortion When shares of large-cap businesses are not easily available for
+trade, their market capitalization can deceive investors into believing that they are. Although some
+companies grow to be large cap, most of their shares are still privately held and remain restricted.
+Broad-based indexing is conceivable with the free-float market cap. By doing this, the concentration
+of businesses with big market caps is reduced.
+(iii)  A market-driven approach Companies that only have a small number of shares available
+for trading in the market are disqualified and eliminated using this calculation process. As a result,
+investors may readily use this valuation method to identify companies where they can store their
+surplus funds by purchasing public shares.
+Relationship between Free-Float and Market Understanding Free-Float Factor
+Finding the float factor is a crucial component of the free-float approach. This factor is assigned to
+each share of the company to provide investors with a sense of which shares are held closed, and
+which are available for trading.
+For instance, a company has 60000 outstanding shares out of which 48000 are open for trading,
+and 12000 are closed. Each share is priced at ` 80. Therefore, the proportion of shares available
+for trading is -
+48000/60000 = 0.80
+So, 0.80 is the float factor, which is allocated to each share price. Now, the free float market
+capitalization for this company is 48000 x ` 80 = 38,40,000 (using the same method as explained
+previously).
+Or it can also be calculated as follows:
+Market capitalization x Float Factor
+Or (60000 shares x ` 80) x 0.80 = Rs 38,40,000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.23         4.23
+
+Volatility
+Market volatility is inversely correlated with free-float market cap. A higher free float shows that
+shares are being bought and sold by investors more quickly. Like this, a low free float signals greater
+volatility. Trade can have a substantial impact on market values at this point.
+As a result, traders tend to favour trading shares from companies with a bigger free float. By doing
+this, they can freely purchase and sell shares without impacting the index's total stock values.
+6.4.5 Index Management
+Rebalancing
+Rebalancing is the process of changing the weights of the securities that make up the index. The
+index provider rebalances the index by adjusting the weights of the constituent securities on a
+regularly scheduled basis (rebalancing dates), usually on a quarterly basis, to maintain each
+security's weight in accordance with the index's weighting method. Because the weights of the
+component securities fluctuate in tandem with their market prices, rebalancing is required. Consider
+the following, for instance:
+Security A        19.93%
+Security B         15.94
+Security C         11.60
+Security D         25.36
+Security E         27.17
+The index would be rebalanced by increasing the weights of Securities A, B, and C (which had the
+lowest returns) and decreasing the weights of Securities D and E (which had the highest returns).
+Rebalancing therefore causes turnover within an index.
+Reconstitution
+The process of altering an index's constituent securities is known as reconstitution. It's comparable
+to a portfolio manager choosing to alter the stocks in their holdings. One phase of the rebalancing
+cycle is reconstitution. The reconstitution date is the day that index providers examine the securities
+that make up the index, apply the original inclusion criteria once more, and decide which securities
+to keep, exclude, or add. Securities that satisfy the requirements are substituted for constituent
+securities that no longer do. The weighting technique is reapplied after the revised list of constituent
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+4.24           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+securities is established. Reconstituted indexes reflect the selection committee's decision as well as
+shifts in the target market, such as bankruptcies, delistings, mergers, and acquisitions.
+Uses of Market Indexes
+The original purpose of index creation was to provide a sense of the performance of a specific
+security market on a given day. The applications  of modern  financial theory  in investment
+management have grown substantially with it. The following are some of the main applications of
+indices:
+•     benchmarks for actively managed portfolios;
+•     measures of market sentiment;
+•     proxies for asset classes in asset allocation models;
+•     measures and models of returns, systematic risk, and risk-adjusted performance; and
+•     model portfolios for investment products like index funds and exchange-traded funds (ETFs).
+When choosing the index or indexes that best suit their needs, investors utilizing security market
+indexes need to understand how different indexes are put together.
+
+      7.  RISK MANAGEMENT IN SECONDARY MARKET
+The stock exchanges have developed a comprehensive risk management mechanism to promote a
+safe and efficient capital market. These include:
+    Laying down trading rules and regulations for broker members.
+     Setting up market surveillance systems to curb excess volatility.
+    Creating trade/settlement guarantee fund to ensure timely settlements even  if a member
+       defaults on delivering securities or pay cash.
+     Setting up a clearing corporation to guarantee financial settlement of all trades and thereby
+      reduce credit risk in the settlement system.
+The Risk Management structure of Secondary Market (or stock exchanges) has been discussed in
+detail in the following paragraphs to enable students to have a good grasp over the nuances of
+secondary market.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.25         4.25
+
+I.    Trading Rules and Regulations
+Strict rules and regulations have been framed to prevent unfair trading practices and insider trading.
+Stock exchanges impose different types of margins on brokers for individual stocks, depending upon
+the exposures taken by these brokers in these stocks, both on ownership basis and on behalf of
+clients. These margins are collected to prevent brokers from taking market positions more than their
+buying capacity. They are also used to settle any amount due to the stock exchange, clearing
+corporation and traders, in case the broker faces any shortage of amount.
+Further, there is real time monitoring of the intra-day trading limits and gross exposure limits by the
+stock exchanges. There is an automatic deactivation of trading terminals in case of breach of
+exposure limits. Also, SEBI stipulated that stockbrokers and sub-brokers of one exchange cannot
+deal with the brokers and sub-brokers of the same exchange either for proprietary trading or for
+trading on behalf of their clients. However, they can deal with the brokers and sub-brokers of another
+exchange for proprietary trading only.
+Moreover, to ensure fair trading practices, the SEBI has devised insider trading regulations by
+prohibiting insider trading and making it a criminal offence. To ensure transparency in the takeover
+process, SEBI takeover regulations have been made.
+II.     Circuit Breakers to curb excess volatility
+Circuit Breaker is a temporary halt or suspension of trading in any stock or index for a certain period.
+The move is basically resorted to curb excess volatility in the stock market.
+There are two methods by which circuit breakers are practiced:
+1.    Suspension of trade in a security or index for a certain period.
+2.    Suspension of trade in a security or index for the entire trading day.
+In the case of the first option, trading activities are suspended for few hours to enable the market to
+settle down. This also allows market participants to make an informed decision by having a relook
+at the market. If the market is very volatile and it seems that it is going out of control, then the trading
+may be halted for the entire day.
+Advantages of Circuit Breakers
+(i)    During the suspension period, circuit breakers allow participants to reassess the situation by
+       gathering new information.
+(ii)       It helps in controlling panic among the investors.
+(iii)      It also helps exchange clearing houses to monitor their members.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+4.26           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+(iv)      It also helps investors to take a rational approach towards security during the time the trading
+        is suspended.
+Disadvantages of Circuit Breakers
+(i)      Firstly, circuit breakers prevent true discovery of price for the period during which  it is
+      imposed.
+(ii)    Secondly, sometimes circuit breakers prove to be unfair to retail investors because well
+      informed investors such as foreign institutional investors usually make a move before the
+        circuit breaker can be invoked leading to chaos and confusion among retail investors.
+The market index circuit limits in India are set by SEBI. Exchanges use the closing price of the index
+for the previous day to calculate circuit limits for 10%, 15%, and 20% stages daily. To the nearest
+tick size, the closing price is rounded. The table below lists the market index circuit breaker rules.
+                                         Circuit Breaker
+        Trigger limit                 Trigger Time              Market halt duration
+                            Before 1 p.m.                  45 minutes
+         10%            At or after 1 p.m. upto 2.30 pm    15 minutes
+                             At or after 2.30 p.m.           No halt
+                            Before 1p.m                    1 hr. 45 min.
+         15%            At or after 1 p.m. upto 2p.m       45 minutes
+                     On or after 2 p.m.               Remainder of the day
+         20%          Any time during market hours      Remainder of the day
+Exchange will calculate the 10%, 15%, and 20% index circuit breaker limits each day using the
+closing index level from the prior day, rounded to the closest tick size. One can also use the same
+methodology to calculate individual stock circuits. Circuit limits do not apply to stocks that have listed
+derivative contracts or to portions of indices that contain derivative products.
+III.   Trading and Settlement
+Rolling settlement is basically settlement of transaction in stock market in a certain number of days
+after the trade is agreed.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.27         4.27
+
+
+Rolling settlement can be explained with the help of following table:
+                                    Rolling Settlement
+      Activity          Description of Activities           Day           Timings
+      Trading              Trading by investors             T day
+      Clearing     National      Securities      Clearing      T + 1        By 1.30 P.M.
+                   Corporation  Ltd. (NSCCL)  confirms
+                   the trade from stock exchange. Then,
+             NSCCL   process   and   download
+                     obligation files to brokers.
+    Settlement    Pay-in  of  securities and  funds  to      T + 2        By 10.30 A.M.
+               NSCCL.
+             NSCCL gives pay out of securities and                   By 1.30 P.M.
+                   funds.
+The above chart has been explained as follows:
+Trading Day (T Day)
+T stands for trading. Trading can be done during the entire day, i.e., from 9.00 A.M. to 3.30 P.M.
+Trading can be done on any working day (except Saturday and Sunday and other holidays as
+intimated by the stock exchange from time to time). During the trading process, one investor buys
+the shares, and the other investor sells the shares. After the execution of trading, the buyer receives
+the shares, and the seller receives money for the shares he parted.
+Clearing Activities (T+1 day)
+Clearing is a process of determination of obligations, after which obligations are discharged by
+settlement. On  the  T+1  day   i.e.,  one  day  after  the  trading  day,   first,  the  National
+Securities Clearing Corporation Ltd. (NSCCL) confirms the trade executed during the day from the
+Stock Exchange which helps it to determine the obligation of each member (broker) in terms of funds
+and securities. After that, the netting of obligations is done. This entire process of determining the
+obligation is done by the custodians/clearing corporation which works under the NSCCL. Once the
+netting of obligation is done, all the files are processed and downloaded so that each broker knows
+what he must pay in and receive.
+Netting explained
+Suppose an investor buys 100 shares @ ` 2000 each on Monday and sells those shares @ 2500
+each on the same day. His net obligation in terms of funds and securities will be calculated on
+Tuesday. In terms of securities, his net obligation is nil as he has sold all the shares he bought. So,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+4.28           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+he will neither receive nor give any security. On the other hand, his net monetary obligations will be
+calculated considering his buying and selling amount. In this case, the net amount he is receiving is
+` 50000 (100 shares x ` 2500 – 100 shares x ` 2000). This pay-in and pay-out of funds are
+calculated on T+2 day i.e., on Wednesday.
+Settlement Activities (T+2 Day)
+On the second working day i.e., T+2 day, all the brokers must pay in the required funds and securities
+to the NSCCL by 10.30 A.M. giving the required instructions to the respective clearing banks and
+members on the same day. Moreover, by 1.30 on the same day, brokers get the required funds
+through the NSCCL. This is called pay-out of funds.
+Pay-in and pay-out of funds explained
+Pay-in of funds takes place when NSCCL gives the required funds to the clearing corporation by
+giving instructions to the clearing bank which credits the account of clearing corporation and debit
+the accounts of clearing bank. This is called pay-in of funds. After that, the NSCCL gives electronic
+instructions to the clearing banks to credit accounts of clearing members and debit accounts of the
+clearing corporation. This is called pay-out of funds, and it completes the settlement cycle.
+Pay-in and pay-out of securities explained
+Pay-in of securities means that shares that the shareholder wants to sell are picked up from their
+Demat account and transferred to the broker's account. All these shares are then delivered to the
+clearing corporation. In pay-out of securities, the shares that the investor wants to buy are received
+from the clearing corporation and then transferred to the broker's account. After that, the shares are
+transferred from the broker’s account to the buyer’s demat account.
+Building Safe and Efficient Markets for Investors
+Implementation of T+1 Settlement
+India, one of the earliest adopters of T+1 settlement system in the global securities market, well
+ahead of major developed and emerging markets, completed its transition to T+1 settlement cycle
+in equity market in 2022-23. In this regard, a roadmap for phased implementation of T+1 settlement
+was issued by MIIs vide joint press release dated November 08, 2021, to mitigate the concerns
+around uniformity of implementation across stock exchanges.
+Accordingly, stocks in equity segment across stock exchanges were ranked based on market
+capitalization for the month of October 2021 and based on the ranking arrived, the bottom 100 stocks
+were made available for introduction on T+1 settlement, from trade date February 25, 2022.
+Thereafter, from March 2022 onwards, on the last Friday (trade day) of every month, the next bottom
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.29         4.29
+
+
+500 stocks from the list of stocks ranked were made available for on T+1 settlement. With effect
+from January 27, 2023, all stocks in equity segment across stock exchanges have moved to T+1
+settlement.
+To address concerns around post trade activities like allocation of trades by FPIs (client wise or
+scheme-wise), booking of forex by FPIs and confirmation of such trades by custodians, the timeline
+for trade allocation and confirmation was extended by CCs, respectively by one hour on T-day and
+12 hours on T+1 day. The revised settlement timelines are as below:
+            Process               Under T+2 settlement      Under T+1 settlement
+ Trade Confirmation by custodians    By 01:00 P.M. on T+1 day    By 07:30 A.M. on T+1 day
+ Pay-in of funds/ securities to CCs    By 11:00 A.M. on T+2 day    By 11:00 A.M. on T+1 day
+ Pay-out of funds/ securities by CCs   By 01:30 P.M. on T+2 day    By 01:30 P.M. on T+1 day
+
+The switch to T+1 settlement cycle shall benefit investors by increasing market liquidity as the
+securities/funds of trades carried out on T Day will be available on the next working day itself. An
+early settlement of funds/securities under a T+1 settlement cycle may also enable mutual funds to
+facilitate faster availability of redemption proceeds to investors. Other benefits associated with a
+T+1 cycle include increased trading turnover and reduced settlement risk thereby leading to overall
+development of the securities market.
+Introduction of a new concept of ‘Earmarking’ for settlement by SEBI
+To settle a sell trade, the broker used to have to debit shares from a selling client, hold the securities
+in the broker's pool account, and transfer the securities to the clearing corporation (CC) on T+2. The
+client would have received a credit of funds against the sale at the time of transfer, which would
+have marked the transaction as settled. Since T+2 was the settlement day, brokers would normally
+debit shares on T Day or T+1 day and transfer them to CC on T+2.
+Since the client shares are kept in the broker's pool account until they are settled, there is a chance
+that a broker  will misuse these assets. SEBI identified this as a potential risk and instituted
+"earmarking" for settlement. Under this new earmarking system, shares are only designated for
+settlement; the client's account is no longer debited for them. So, earmarking is a temporary hold on
+the securities pending a future settlement for the client-initiated sale transaction.
+On settlement day, the shares are debited from the investor's account and credited to the clearing
+corporation. This new process eliminates related risk by eliminating the need for brokers to hold
+client shares in their pool account. The new earmarking process is mandatorily implemented from
+November 2022.                                         (Source: SEBI Annual Report 2022-23)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+4.30           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+IV.   National Securities Clearing Corporation Limited
+In April 1995, the NSE set up the National Securities Clearing Corporation Limited (NSCCL), its
+wholly owned subsidiary, to undertake clearing and settlement at the exchange. It started operations
+in April 1996.The NSCCL undertakes the counter party risk of each member and guarantees
+settlement. A settlement guarantee is a guarantee provided by the clearing corporation for the
+settlement of all trading of products on the stock exchange. The organizations linked with Clearing
+Corporation in the clearing and settlement process are discussed as below:
+(a)    Custodians/Clearing Members: NSCCL takes trading information from the exchange and
+      passes the trade details to custodians/clearing members. Custodians confirm the obligations
+       of the parties by netting.
+(b)    Clearing Banks: They act as a link between the clearing corporation and clearing member.
+      Every clearing member is required to maintain a clearing account with one of the clearing
+      banks. A clearing bank must enter into an agreement with the NSCCL and clearing members
+      and open a clearing account with the depository.
+(c)    Depositories: They hold securities in dematerialized form for the investors in their beneficiary
+      account. Every clearing member is required to maintain a clearing pool account with the
+       depositories.
+The clearing banks, on receiving electronic instructions from the NSCCL, debit accounts of clearing
+banks and credit accounts of the clearing corporation. This is termed as pay-in of funds and
+securities. The NSCCL, after providing for shortages of funds and securities, sends electronic
+instructions to the depositories and clearing banks to credit accounts of clearing members and debit
+accounts of the clearing corporation. Thus, the settlement cycle is completed once the payment out
+of funds and securities is made.
+V.    Market Making System
+The job of the market maker is to provide liquidity to the stock market by providing a two-way quote
+i.e., a buy and a sell quote. How do the market makers do this? And what is the purpose. Consider
+a situation when you want to purchase shares and there is no one there to sell his share. What will
+happen? Such a person must wait until he finds a person who can sell his shares at a price quoted
+by him. The market maker resolves this problem. He sells shares at the quoted price. This way, the
+person gets the shares he wants to sell. Conversely, if a person wants to sell his shares, the market
+maker may come to his rescue and purchase shares at the price quoted by him. So, he gets the
+shares he was so willing to purchase. Hence, market maker has devised a system in which anyone
+can buy and sell shares anytime.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.31         4.31
+
+
+Market makers are basically large brokerage houses. But how do they make money? And there is a
+chance that they may suffer loss. For e.g., if they buy shares at a particular price and are not able
+to sell them later at a higher price because of the fall in the market price of shares, they will incur a
+loss. To offset this loss, they purchase shares at a particular price (ask price), say ` 100 and sell
+them at a slightly higher price say ` 100.10 (bid price). This profit margin of 0.10 seems to be very
+nominal. But, when trading of millions of shares takes place in a day, the market maker at the end
+of the day managed to pocket a significant amount.
+The obligations and responsibilities of Market Makers (as per BSE website)
+The Market Maker shall  fulfill the following conditions to provide depth and continuity on this
+exchange:
+(a)   The Market Maker shall be required to provide a 2-way quote for 75% of the time in a day.
+     The same shall be monitored by the stock exchange. Further, the Market Maker shall inform
+       the exchange in advance for each blackout period when the quotes are not being offered by
+       the Market Maker.
+(b)   The minimum depth of the quote shall be `1,00,000/-. However, the investors with holdings
+       of value less than ` 1,00,000 shall be allowed to offer their holding to the Market Maker in
+       that scrip if he sells his entire holding in that scrip in one lot along with a declaration to the
+       effect to the selling broker.
+(c)    Execution of the order at the quoted price and quantity must be guaranteed by the Market
+      Maker, for the quotes given by him.
+(d)    There would not be more than five Market Makers for a stock. These would be selected based
+      on objective criteria to be evolved by the Exchange which would include capital adequacy,
+       net worth, infrastructure, minimum volume of business etc.
+(e)   The Market Maker may compete with other Market Makers for better quotes to the investors.
+(f)    Once registered as a Market Maker, he must start providing quotes from the day of the listing
+           / the day when designated as the Market Maker for the respective stocks and shall be subject
+       to the guidelines laid down for market making by the exchange. Once registered as a Market
+      Maker, he must act in that capacity for a period as mutually decided between the Merchant
+      Banker and the market maker.
+(g)    Further, the Market Maker shall be allowed to deregister by giving one month’s notice to the
+      exchange
+.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+4.32           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+VI.    Securities Lending and Borrowing (SLB)
+Securities lending means lending stocks, derivatives and other securities to an investor or firm.
+Securities lending requires the borrower to pledge, whether cash, security or a letter of credit to the
+lender. When a security is lent, the title and the ownership are also transferred to the borrower.
+Why securities lending and borrowing  is important? Securities lending and borrowing has  its
+importance in short selling. Basically, short selling is a facility in which a person (short seller) can
+sell shares which he does not own or possess. What is the advantage of doing that? The short seller
+borrows security to immediately sell them. He generally does that when he has a firm belief that
+security prices will come down soon. So, he borrows the security hoping to profit by selling the
+security and buying it back at a lower price. The borrower of securities pays the lender interest on
+the value of the securities borrowed.
+The concept of short selling has been discussed in detail later in this chapter.
+The borrower of securities are usually brokers, speculators, market makers, custodian banks,
+clearing banks, clearing corporations, and finance companies. The lenders are mutual funds,
+insurance companies, custodian banks, finance companies, brokers, and high net worth individuals.
+Further, the lender remains the owner of stock after SLB and gets all beneficial rights such as
+dividend, rights, or bonus shares in respect of the stock lent. The borrower, however, has the legal
+title of the borrowed securities and is eligible to trade and sell securities in any manner he thinks fit.
+Moreover, there is roll over facility also i.e., the lender and borrower can extend the period of their
+borrowing and lending respectively.
+Merits of Stock Lending and Borrowing
+(i)    Provides a facility to the borrowers who are anticipating a fall in the market price of securities
+       to sell securities which they don’t own.
+(ii)    Provides an incentive  to  institutional investors such as banks, mutual funds, financial
+        institutions, and insurance companies to earn income by lending their idle stock in the market
+      and earn interest income from borrowers.
+(iii)    Increase liquidity of the stock as more and more people can sell or purchase stock inspite of
+      shortage of money.
+(iv)    Providing stability to stock market movements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.33         4.33
+
+
+(v)    Helps to avoid delivery failures as it is routed through the clearing house and facilitates timely
+       delivery.
+(vi)   And, lastly, manipulation of stock prices is difficult.
+Example:
+A borrower needs 5,000 shares of company A. The lending price of a security is ` 100. The borrower
+is willing to pay 50 paise for each share in lending fees. The transaction price is ` 100.25. The
+borrowing period is 7 days. Calculate the amount of lending fee and the annualized yield. How can
+the borrower ensure that he makes a profit on his trade?
+Solution
+Number of shares = 5000
+Amount of lending fee = 50 paise per share = 5000 shares/0.50 paise = ` 2500
+Annualized  yield = Transaction Price –  Securities Lending  Price/Securities Lending Price x
+365/borrowing period x 100.
+= 100.25 – 100/100 x 365/7 x 100 = 13.036%
+And the borrower would need to gain over and above the lending fees of ₹2,500 to make a net
+positive return on his or her trade.
+VII.   Straight Through Processing (STP)
+The concept of Straight Through Processing is designed to complete the transaction without human
+intervention. Straight through processing (STP) is an initiative that financial companies use to
+optimize the speed at which they process transactions. This is performed by allowing information
+that has been electronically entered to be transferred from one party to another in the settlement
+process without manually re-entering the same pieces of information repeatedly over the entire
+sequence of events.
+The primary purpose of STP is to streamline the processing of transactions across multiple points.
+By allowing information to pass along electronically, this eliminates the need for a hands-on reentry
+of data that has already been completed at the source. Additionally, information could be sent to
+more than one party simultaneously if it is appropriate for the transaction type.
+So, the purpose of STP is to eliminate costly delays during transaction processing period. Since
+manual assistance is not needed, there is no delay between one party receiving information and the
+other being able to proceed further.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+4.34           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+In normal processing, information must be handled by the multiple people involved. This requires
+taking the time to accept and review the information, receipt of data as required, and then sending
+it forward to the next part of the transaction process. STP eliminates the human factor, allowing an
+automated process to complete any steps needed for a transaction to proceed. By eliminating these
+delays, the transactions can be more cost-effective as they require less time to manage. This is
+particularly attractive to investors looking for lower fee options.
+The benefit of STP can be explained with the help of an example. In a manual trade, the broker
+issues a contract note which is then passed on to the custodian or a depository participant. There
+are multiple data entries during the different stages of a manual trade which makes the process
+prone to errors, delays, and manipulation. However, in STP, contract note is issued in electronic
+form and the trade is settled in computer leaving almost no scope for manipulation. Further, in
+comparison to manual trade, STP is quicker, risk free and eliminates any failure in trade.
+                                                                        (Source: Investopedia)
+VIII.  Margin Trading
+Margin Trading is a facility given to the investors in which they can invest in shares by part financing
+from the bank. In other words, investors can provide some amount of money from their pocket to
+invest in shares, and the rest of the amount will be financed by the banks. Margin trading permits
+investors to buy shares by providing 40% of the total value as margin, while borrowing 60% from the
+banks.
+For example, an investor wants to buy 20000 shares worth ` 2,00,000 (price of one share is
+` 10). But he can invest only ` 80000 from his own pocket. However, under margin trading, he can
+buy as many as 20000 shares worth ` 200000 from his broker by paying ` 80000 as margin and by
+borrowing the balance ` 120000 from a bank through his broker. The broker pledges 20000 shares
+with the bank. The bank has collateral of ` 200000 backing the loan of ` 120000.
+Now, suppose the market price of shares moves upwards from ` 10 to ` 15. So, with the help of the
+facility of margin trading, the shareholder can sell his entire shareholding of 20000 shares and pocket
+a gain of ` 100000 (20000 shares x ` 15 – 20000 shares x ` 10). Conversely, if he hadn’t availed
+the facility of margin trading, he would have been able to sell only 8000 shares and pocketed a gain
+of ` 40000 only. The reason is that he would have purchased only 8000 shares because of paucity
+of funds.
+On the other hand,  if the market price of shares falls below ` 10, the bank will give a margin call
+under which the investors will have to furnish additional funds/securities for the broker to pass on to
+the bank.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.35         4.35
+
+
+Margin trading gives a unique opportunity to the bank to lend short term funds at a high rate of
+interest. However, banks must evolve a suitable risk management mechanism to safeguard the loans
+given by them against collateral of securities. In the same way, it provides a facility for the investors
+to borrow money from the bank and invest it in the stock market.
+IX    Short Selling
+Concept
+Short Selling means selling shares without owning it. In other words, the task of short sellers is to
+borrow the shares (generally through the clearing corporation of an exchange) and sell them. The
+borrowed shares which have been sold are bought back when prices are lower. The shares are then
+returned to the lender and the excess profit is pocketed by the short seller.
+In India, short selling can only take place on an intra-day basis. As per the SEBI’s revised guidelines,
+both  retail and  institutional investors can participate  in short  selling. These transactions are
+facilitated by the exchanges. So,  if one wants to short sell, one must undertake the transaction
+through a broker. If the profit is made, then the short seller must shell out 15% short term Capital
+Gain tax.
+Risk inherent in short selling
+In short selling, there is a scope of making huge return. On the flip side, the risk is also high. If you
+are trading in shares, the losses can be limited to the amount which you have invested. For e.g., if
+you have purchased 1000 shares at ` 10 each, the maximum loss that can be borne is ` 10,000.
+However, in the case of short selling, the amount of loss which an investor can bear is unlimited.
+The reason is that the price of shares of a given company can rise to any amount. For instance, you
+short 100 shares at ` 50 each, but the shares increase to ` 70 each. So, you end up losing
+` 2000 because you cannot buy back the shares until it reaches below ` 50. And short seller must
+return the borrowed shares to the lender. Hence, in short selling, there is an inherent risk of losing
+a heavy amount if the shares prices do not fall as per the expectations.
+However, on the positive side, short selling gives much needed liquidity to the market by keeping
+the valuation of stocks in check. Another advantage of short selling is that the short seller is not
+required to pay too much at the time of entering the transaction. So, initially only a small fee to the
+broker is required to be paid.  And, lastly,  it is one of the easiest ways to make money in a bear
+market.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+4.36           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+      8. OTHER ASPECTS OF SECONDARY MARKET
+8.1  Buy Back of Shares
+What is a buyback?
+A buyback is a process in which a company uses its surplus cash to buy shares from the public. It
+is also called Share Repurchase. It is almost the opposite of an initial public offer in which shares
+are issued to the public for the first time. In buyback, shares which have already been issued are
+bought back from the public. And, once the shares are bought back, they get absorbed and cease
+to exist.
+For example, a company has one crore outstanding shares and has a huge cash pile of ` 5 crores.
+Since the company has very limited investment options it decides to buy back some of its outstanding
+shares from the shareholders, by utilizing some portion of its surplus cash. Accordingly, it purchases
+10 lakh shares from the existing shareholders by paying` 20 per share, i.e., total cash of say, `2
+crore.
+The concept of buyback can be cleared with the help of the following diagram:
+
+                 INITIAL PUBLIC OFFER (IPO)   BUY-BACK
+                      Company            Company
+
+                                          Shares                        Cash                                        Cash                                                                                                   Shares
+
+                            Investors                  Investors
+Effects of Buyback
+There are several effects or consequences of buyback, some of which are as follows:
+(i)        It increases the proportion of shares owned by controlling shareholders as the number of
+       outstanding shares decreases after the buyback.
+(ii)    Earning Per Share (EPS) escalates as the number of shares reduces, leading the market
+       price of shares to step up.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.37         4.37
+
+
+(iii)   A share repurchase also effects a company’s financial statements as follows:
+       (a)    In balance sheet, a share buyback will reduce the company’s total assets position as
+            cash holdings will be reduced and consequently as shareholders' equity get reduced
+                        it results in reduction on the liabilities side by the same amount.
+       (b)   Amount spent on share buybacks shall be shown in Statement of Cash Flows in the
+             “Financing Activities” section, as well as from the Statement of Changes in Equity
+              or Statement of Retained Earnings.
+(iv)    Ratios based on performance indicators such as Return on Assets (ROA) and Return on
+       Equity (ROE) typically improve after a share buyback. This can be understood with the help
+       of the following Statement showing the Buyback Effect of a hypothetical company using
+     ` 1.50 crore of cash out of total cash of ` 2.00 crore for buyback.
+                                          Before Buyback           After Buyback (`)
+      Cash (`)                                    2,00,00,000                  50,00,000
+      Assets (`)                                   5,00,00,000                 3,50,00,000
+       Earnings (`)                                  20,00,000                  20,00,000
+      No. of Shares outstanding (Nos.)                10,00,000                    9,00,000
+      Return on Assets (%)                         4.00%                   5.71%
+       Earnings Per Share (EPS) (` )                       2                        2.22
+
+As visible from the above figure, the company's cash pile has been reduced from ` 2 crore to ` 50
+lakh after the buyback. Because cash is an asset, this will lower the total assets of the company
+from ` 5 crore to ` 3.5 crore. Now, this leads to an increase in the company’s ROA, even though
+earnings have not changed. Prior to the buyback, its ROA was 4% but after the repurchase, ROA
+increases to 5.71%. A similar effect can be seen in the EPS number, which increases from ` 2 to
+` 2.22.
+Why buybacks are being favoured by companies?
+There are several reasons why a company chooses buyback, some of which are as follows:
+(i)   A business organization needs cash to either expand its operations through acquisition of
+       other businesses or grow its capacity by purchasing machinery, plants, furniture, or other
+       kinds of assets. Therefore, too much cash is not considered good as  it shows that cash is
+       lying idle without being utilized in any manner.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+4.38           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+(ii)   A company may reduce some of its dividend liability by buying back shares thereby providing
+      cash in the hands of shareholders and reducing costs.
+(iii)    Also, the company will save on the dividend distribution tax @15% if they opt for buy back
+       instead of declaring dividend to shareholders. Now, as per the Finance Act, 2020,  all
+       dividends  received  on  or  after  1  April  2020  are  taxable  in  the  hands  of  the
+       investor/shareholder.
+(iv)    Further, a company’s earnings per share (EPS) increases as the numbers of shares reduce
+      because EPS is PAT (Profit after Tax) divided by total outstanding shares. This leads to a
+       spurt in the market price of shares.
+(v)    Moreover, by going for buyback, the company may give a signal to the investors that there
+      are not any worthwhile investment opportunities for the company to increase capacity or
+      through acquisitions.
+(vi)   Another reason to opt for buyback is when a company feels that the current market value of
+         its shares  is underpriced and  is confident of  its business and potential future value to
+       investors.
+Legal requirements to be satisfied in case of a Buyback
+A company going for a buyback must comply with the some of the legal requirements as given in
+Companies Act, 2013 which are as follows:
+(i)    a company may purchase its own shares or other specified securities out of—
+       (a)     its free reserves.
+       (b)    the securities premium account; or
+        (c)    the proceeds of the issue of any shares or other specified securities
+(ii)    the buyback is authorised by its articles.
+(iii)   a special resolution has been passed at a general meeting of the company authorising the
+      buy-back. However, where a buyback is 10% or less of the total paid-up equity capital and
+       free reserves of the company, only a board resolution is required.
+(iv)    the buyback is 25% or less of the aggregate of paid-up capital and free reserves of the
+      company.
+(v)    the ratio of the aggregate of secured and unsecured debts owed by the company after
+      buyback is not more than twice the paid-up capital and its free reserves.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.39         4.39
+
+
+(vi)     all the shares or other specified securities for buy-back are fully paid-up.
+(vii)   the buy-back of the shares or other specified securities listed on any recognized stock
+      exchange is in accordance with the regulations made by the Securities and Exchange Board
+       of India (SEBI) in this behalf.
+(viii)  A declaration of solvency is required to be filed with the SEBI and the Registrar of Companies
+      (ROC). An unlisted company is required to file such declaration only with the ROC.
+When should investors opt for buyback?
+The investors may opt for a buyback of shares  if the price offered to them is at a premium on the
+market price. In such a scenario, the buyback may be an attractive proposition. For example, in case
+of an earlier Tata Consultancy Services (TCS) buyback, the offer price was ` 2850 per share while
+the current market price at that time was around ` 2505. So, in the case of TCS, the offer price was
+at about 14% premium.
+Therefore, if a shareholder goes by the famous quote, “a bird in the hand is worth two in the bush”,
+he may be inclined to accept the buyback offer, if buyback premium is more than the market price.
+However, if the investors can make out that management is continuously putting its effort to improve
+shareholder value, then the long-term investor may not go for the buyback offer. The reason is that
+maybe, in the next few years, the market price of shares may upstage the premium price of buyback
+offer.
+On the other hand, opting for a buyback makes sense if the share price in the market is overvalued
+(i.e., there is very little chance that share price may increase any further in near future), or if there
+is firm belief that there are not enough opportunities for a firm to grow earnings.
+Factors to be considered in buy back option by the investor
+Acceptance ratio is also a very important factor in buyback. Acceptance ratio is the proportion of
+shares accepted by the company from the shareholders for buyback out of the shares tendered by
+the shareholders. In the case of the buyback offer of TCS, only 3% of the total shares tendered by
+each of the shareholders were accepted by the company. So, if we go with the TCS example, if a
+shareholder is holding e.g., 1000 shares, it doesn’t mean that TCS will buy back all the 1000 shares.
+In this case, it will buy back only 30 shares.
+Another factor which is to be considered by investors while buying back the shares of a particular
+company is whether promoters are participating in buyback or not. If there is promoter participation,
+the buyback is likely to be positive for the shares in the long run.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+4.40           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+Delisting versus Buyback
+Generally delisting is confused with buyback, which is wrong since it is the process by which a listed
+security is removed from the exchange on which it trades. The major differences between buyback
+and delisting of shares are as follows:
+(1)    In case of delisting, buyback of shares compulsorily happens while buyback offer does not
+      lead to delisting of shares.
+(2)    Delisting can happen in the case of two circumstances. One, a company may delist its shares
+        voluntarily. Two, a company’s stock may be compulsorily removed from an exchange if the
+     company does not comply with the listing requirements of the exchange. However, there is
+      no compulsion upon a company to execute buyback.
+(3)    In case of delisting, the entire share capital of the company is extinguished. But, in the event
+       of buyback, only a portion of the total capital is offered to the shareholders for buyback.
+(4)    Delisting can happen in the case of a listed company only. While buyback can take place in
+       the case of both listed and unlisted company.
+8.2  Block and Bulk Deals
+Bulk and block deals done on exchanges are keenly watched by market participants daily as they
+indicate the interest of big investors in a stock. Though these two terms sound similar, there is a
+difference between them. Here's what they mean and how investors should interpret them.
+8.2.1 Meaning of block deal
+Block deal is execution of large trades through a single transaction without putting either the buyer
+or seller in a disadvantageous position. For this purpose, stock exchanges are permitted to provide
+a separate trading window.
+Block deal will be subject to the following conditions:
+(i)    Morning Block Deal Window: This window shall operate between 08:45 AM to 09:00 AM.
+The reference price for execution of block deals in this window shall be the previous day closing
+price of the stock. The stock exchanges shall set their trading hours between 08:45AM to 9:00 PM
+with a stipulation that between 08:45AM and 09:00AM, the stock exchanges shall operate only for
+executing trades in the block deal window.
+(ii)   Afternoon Block Deal Window: This window shall operate between 02:05 PM to 2:20 PM.
+The reference price for block deals in this window shall be the volume weighted average market
+price (VWAP) of the trades executed in the stock in the cash segment between 01:45 PM to 02:00
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.41         4.41
+
+
+PM. Between the period 02:00 pm to 02:05 pm, the stock exchanges shall calculate and disseminate
+necessary information regarding the VWAP applicable for the execution of block deals in the
+Afternoon block deal window.
+(iii)   The orders placed shall be within ±1% of the applicable reference price in the respective
+windows as stated above.
+(iv)   The minimum order size for execution of trades in the Block deal window shall be ` 10 Crore.
+Every trade executed in this block deal windows must result in delivery and shall not be squared off
+or reversed.
+(v)   The stock exchanges shall disseminate the information on block deals such as the name of
+the scrip, name of the client, quantity of shares bought/sold, traded price, etc. to the public on the
+same day, after the market hours.
+8.2.2 Meaning of bulk deal
+A bulk deal is a trade where the total quantity of shares bought or sold is more than 0.5% of the
+number of shares of a listed company. Bulk deals happen during a normal trading window provided
+by the broker. The broker who manages the bulk deal trade must provide the details of the
+transaction to the stock exchanges whenever they happen. Unlike block deals, bulk deal orders are
+visible to everyone.
+Participants in such deals
+It  is usually deep-pocketed investors  like fund houses, foreign  institutional investors, banks,
+insurance firms and HNIs given the high amount required to enter such transactions and the
+percentage of shares involved.
+Disclosures
+(i)    The disclosure shall be made with respect to all transactions in a scrip where total quantity
+       of shares bought/sold is more than 0.5% of the number of equity shares of the company listed
+      on the stock exchange.
+(ii)   The brokers shall disclose to the stock exchange the name of the scrip, name of the client,
+       quantity of shares bought/sold and the traded price.
+(iii)   The disclosure shall be made by the brokers immediately upon execution of the trade.
+(iv)   The Stock exchanges shall disseminate the aforesaid information on the same day after
+      market hours to the public.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+4.42           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+How do bulk and block deals influence a stock?
+Investors often look at bulk and block deals to judge the interest of big investors in a stock. If several
+deals happen in a stock continuously over a period, it can be viewed as a sign of confidence and
+stock price may rise soon. But a big institution or investor buying shares through such deals does
+not necessarily mean that the stock will rise. Many a time, the large block of share purchase, which
+is disclosed to the exchange, could be the last leg of buying by the large investor, who wants to
+signal his interest in the stock. In short, some large HNIs may use this as a bait to attract more
+buyers.                                                                (Source: SEBI Website)
+8.3  Block Mechanism in Demat Accounts
+Under Block Mechanism in Demat Accounts, investors must block securities on their respective
+demat accounts for sale transactions, according to market regulator SEBI. Earlier, investors have
+this as an option, but it is not required because an early pay-in method was previously offered. Now,
+SEBI has made it clear that security blocking is required even for early pay-in transactions.
+According to the block method, shares of a client planning a selling transaction will be blocked in
+the client's demat account in favour of the clearing company, such as ASBA in an initial public
+offering (IPO), where money is blocked in the client account until the IPO allotment.
+After extensive consultation
+Considering the advantages of the block mechanism and following thorough consultation with
+depositories, clearing companies, and stock exchanges, SEBI has determined that "the facility of
+block mechanism shall be essential for all early pay-in transactions."
+Shares will continue to be held in the client's Demat account and will be unblocked at the end of the
+T(Trade) day if the sale transaction is not carried out. Further, the regulator stated that the shares
+will be blocked on a time basis.
+Procedures to block shares
+♦    Under this mechanism, the client may block the securities in their DEMAT account using the
+       Depository's online system or an eDIS mandate, or the depository participant may block the
+       securities based on a physical DIS.
+♦    The securities that the depository participant blocks will only be transferred after verifying the
+        client's level net delivery obligation received from the clearing corporation.
+♦    The depository participants  will then maintain a block on the  client's DEMAT account
+       regarding the intra- or inter-depository transfer until the pay-in day.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.43         4.43
+
+
+♦    The depositories will also give clearing corporations the specifics of the transfer instructions.
+♦     Following a match between the block details and the client-level net obligations, the clearing
+       corporations will offer the client Early Pay-In (EPI) benefits if they are satisfied.
+
+      9.  INDIAN DEBT MARKET
+Debt market is one of the most important components of a financial system. In fact, the debt market
+in most of the developed countries is bigger than the equity market. The Indian Debt market has
+been a Wholesale market. The major participants are basically  restricted  to some  financial
+institutions only. The primary participants are banks.
+So, basically a debt market is a financial market where buying and selling of securities takes place.
+The debt market also facilitates efficient allocation of mobilized resources. It also helps in financing
+the various developmental projects of the government. Further, the fiscal deficit is often financed by
+the government borrowing from the market by tapping the debt market.
+So, in India, most of the times, the debt market is used as a mechanism to finance the development
+activities of the government.
+9.1  Indian debt market can mainly be classified into two categories
+(i)    Government Securities Market (G-Sec Market): It consists of central and state government
+securities. It means that loans are being taken by the central and state government. It is also the
+most dominant category in the India debt market.
+(ii)   Bond Market: It consists of Financial Institution bonds, corporate bonds and debentures and
+Public Sector Unit bonds. These bonds are issued to meet financial requirements at a fixed cost and
+hence remove uncertainty in financial costs.
+Structurally, the debt market remains firmly skewed towards government securities (G-secs). And
+the corporate bond market remains largely about top-rated financial and public sector issuances.
+The good part is, the domestic corporate bond market has done well, fueled by higher demand as a
+larger share of financial savings get channeled into the capital market, and favourable supply
+conditions have emerged because of mounting pressure of non-performing assets (NPAs) at banks.
+If India is to see rapid economic growth over the long term – which is an absolute social necessity –
+the corporate bond market will have to play a pivotal role as a funding source.
+Over the five fiscals through 2023, CRISIL expects corporate bond outstanding to more than double
+to ` 55-60 lakh crore, compared with ` 27 lakh crore at the end of fiscal 2018, driven by large
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+4.44           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+infrastructure investment requirements, growth of non-banking financial institutions, regulatory push,
+and the inability of banks to crank up corporate lending because of capital constraints.
+However, demand is expected to be only for ` 52-56 lakh crore, driven by higher penetration of
+mutual funds (MFs) and insurance products, increasing retirement subscriptions, growth in corporate
+investments, and increasing wealth of high-net-worth individuals (HNIs). As a result, there would be
+a substantial gap of ` 3-4 lakh crore between demand and supply of corporate bonds in the next
+five fiscals.   [Source: Crisil Yearbook on the Indian Debt Market 2018]
+Further, a comparative figure of outstanding number of various types of fixed income securities as
+on March 31, 2018, has been given as follows:
+Outstanding amount of various fixed – income securities
+         Type of Security        Amount outstanding as on March 31, 2018 (` Crore)
+   Corporate Bonds                                         2,742,259
+   Government Securities                                    5,323,090
+  SDLs                                                    2,430,333
+  T – Bills                                                 385,283
+  CDs                                                    185,732
+  CPs                                                    372,577
+   Total                                                  11,439,276
+Source: RBI, SEBI, CCIL
+The secondary debt market in India can be broadly categorized into –
+(a)    Wholesale Debt Market – comprising of investors like Banks, financial institutions, RBI,
+      insurance companies, Mutual funds, corporates and FIIs.
+(b)    Retail Debt Market – comprising of investors like individuals, pension funds, private trusts,
+     NBFCs and other legal entities.
+9.2  Benefits of an efficient Debt Market to the financial system and the
+    economy
+•    The debt market allows government to raise money to finance the development activities of
+       the government.
+•         It plays an important role in efficient mobilization and allocation of resources in the economy.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.45         4.45
+
+
+•    The Government securities are issued to meet the short term and long-term financial needs
+       of the government, they are not only used as instruments for raising debt but have emerged
+      as key instruments for internal debt management, monetary management, and short-term
+        liquidity management.
+•    The debt market also provides greater funding avenues to public-sector and private sector
+       projects and reduces the pressure on institutional financing.
+•         It also enhances mobilization of resources by unlocking illiquid retail investments like gold.
+•     Reduction in the borrowing cost of the Government and enable mobilization of resources at
+      a reasonable cost.
+•     Development of heterogeneity of market participants.
+•      Assist in development of a reliable yield curve and the term structure of interest rates.
+                                                          [Source: BSE - FAQs on Debt Market]
+Participant-wise share in Corporate Bond Trades at NSE
+                 Category                       2021-22           2022-23
+ Mutual Funds                                         31.6               49.5
+ Indian Banks                                          19.1               11.3
+ Insurance Companies                                    8.3                 7.2
+ Trading Members                                        7.5                 7.1
+ Corporates                                              8.7                 6.4
+ Primary Dealers                                         6.9                 4.5
+ Others                                               10.5                 9.1
+ FPIs                                                    4.7                 2.8
+ Domestic Financial                                      0.2                 0.8
+  Institutions (other than MFs, Insurance, Banks)
+ Foreign Banks                                           2.6                 1.6
+ Total                                           100              100
+
+9.3  Different types of risks regarding debt securities
+•     Default Risk- can be defined as the risk that an issuer of a bond may be unable to make
+       timely payment of interest or principal on a debt security or to otherwise comply with the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+4.46           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+       provisions of a bond indenture and is also referred to as credit risk.
+•      Interest Rate Risk- can be defined as the risk emerging from an adverse change in the
+       interest rate prevalent in the market to affect the yield on the existing instruments. A good
+      case would be an upswing in the prevailing interest rate scenario leading to a situation where
+       the investor’s money is locked at lower rates whereas  if he had waited and invested in the
+      changed interest rate scenario, he would have earned more.
+•     Reinvestment Rate Risk- can be defined as the probability of a fall in the interest rate
+       resulting in a lack of options to invest the interest received at regular intervals at higher rates
+       at comparable rates in the market.
+The following are the risks associated with trading in debt securities:
+•     Counter Party Risk is the normal risk associated with any transaction and refers to the failure
+       or inability of the opposite party to the contract to deliver either the promised security or the
+       sale value at the time of settlement.
+•     Price Risk - refers to the possibility of not being able to receive the expected price on any
+       order due to an adverse movement in the prices.      [Source: BSE - FAQs on Debt Market]
+
+    10.  EMERGING MARKETS
+10.1 Gift City
+India is among the economies in the world which has the one of the quickest growth rates in the
+world. GIFT City, a developing global financial centre and India's first operational smart city, has a
+crucial role to play in realizing this aim of expanding the nation's economic and strategic operations
+abroad.
+Over 886 acres in Gandhinagar, GIFT City is made up of an exclusive Domestic Tariff Area, a multi-
+service Special Economic Zone (SEZ), and the country's first International Financial Services Centre
+(IFSC) (DTA). While 625 acres have been designated as the DTA, around 261 acres have been
+designated as the SEZ area. The goal is to create 62 million square feet of built-up area, of which
+67% will be commercial space, 22% will be residential space, and 11% will be social space.
+The city's social infrastructure includes a school, medical facilities, a planned hospital, and the GIFT
+City business club, which has both indoor and outdoor sports facilities. GIFT City is a "Walk to Work"
+City because of the integrated, well-planned residential housing buildings that are part of  it. With
+numerous first-in-the-nation projects in urban infrastructure, GIFT is a smart city in every respect.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.47         4.47
+
+
+In GIFT City, the country's first International Financial Services Center (IFSC) is now open. By
+providing a business and regulatory environment that is comparable to other top international
+financial centres like London and Singapore, an IFSC enables Indian corporate entities and overseas
+branches/subsidiaries  of  financial  institutions  (FIs)  to bring back  the  financial services and
+transactions that are currently carried out in offshore financial centres and bring them back to India.
+It would make it simpler for Indian firms to access international financial markets. Additionally, IFSC
+would support and encourage the expansion of India's financial markets.
+Aircraft and ship leasing, offshore insurance, offshore banking, asset management, and ancillary
+services are among the services offered by GIFT IFSC.  It is home to two international stock
+exchanges with daily trading volumes that average more than $11 billion. Additionally, GIFT City
+recently welcomed a foreign bullion exchange.
+The IFSCA has been established as a unified regulator with a holistic vision to promote ease of
+doing business in IFSCs and provide a top-notch regulatory environment because the dynamic
+nature of business in the IFSCs necessitates a high degree of inter-regulatory coordination within
+the financial sector. The primary goals of the IFSCA are to create a solid worldwide network,
+concentrate on the requirements of the Indian economy, and act as a global financial platform.
+10.2 Power Exchange
+Power Exchange India Limited (PXIL), India’s first institutionally promoted power exchange, has
+been providing innovative and credible solutions since 2008, and has revolutionized the way Indian
+power markets operate. PXIL’s unique combination of local insights and global perspectives has
+helped its members make better informed business and investment decisions and has improved the
+overall efficiency of power markets in India by accurately and seamlessly connecting buyers and
+sellers.
+Key Features of the Exchange
+♦     Nation-wide, electronic Exchange for trading of power.
+♦    Exchange handles power trading and transmission clearance simultaneously.
+♦    Trading happens for Day Ahead, Day Ahead Contingency, Any Day, Intra Day and Weekly
+       Contracts.
+♦    Trading platform available for Renewable Energy Certificates.
+♦    More contracts to be introduced in due course.
+♦    Exchange is a central counterparty to all trades done on the Exchange.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+4.48           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+10.3 Energy Exchange
+Indian Energy Exchange is India’s premier energy marketplace, providing a nationwide automated
+trading platform for the physical delivery of electricity, renewables, and certificates. More recently,
+IEX has pioneered cross border electricity trade expanding its power market beyond India in an
+endeavour to create an integrated South Asian Power Market. IEX is powered by state-of-the-art,
+intuitive and customer centric technology, enabling efficient price discovery and facilitating the ease
+of power procurement.
+IEX has a robust ecosystem of 7,500+ participants located across 29 States and 5 Union Territories
+comprising of 60+ distribution utilities, 600+ conventional generators and 1,800+ RE generators and
+obligated  entities.  It also has a strong base of 4600+ commercial and industrial consumers
+representing industries such as metal, food processing,  textile, cement, ceramic, chemicals,
+automobiles,  information  technology  industries,  institutional,  housing, and  real  estate, and
+commercial entities.
+IEX is approved and regulated by the Central Electricity Regulatory Commission and has been
+operating since 27 June 2008 and is a publicly listed company with NSE and BSE since October
+2017.
+The Exchange has ISO Certifications for quality management, information security management and
+environmental management since August 2016.
+10.4 Social Stock Exchanges
+Introduction
+Social Stock Exchange (SSE) is a separate segment of the existing Stock Exchange, that can help
+Social Enterprise(s) to raise funds from the public through the stock exchange mechanism. SSE will
+act as a medium between Social Enterprises and fund providers and that can help them to select
+those entities that are creating measurable social impact and reporting such impact. Certain types
+of Social Enterprises i.e. Not-for-profit organizations (NPOs) that meet the registration criteria can
+register on SSE and undertake to make continuous disclosures on their social impact. NPOs may or
+may not choose to raise funds through SSE, however, would continue to make disclosures including
+on social impact to stock exchanges.
+Types of entities which can identify themselves as a social enterprise.
+Social Stock Exchange identifies the following two forms of social enterprises that are engaging in
+the activity of creating positive social impact and that meets primacy of their social intent.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.49         4.49
+
+
+i.      Not-for-profit organization
+ii.     For profit social enterprise
+Any entity, whether a for-profit social enterprise (FPE) or a not-for-profit organization (NPO), must
+satisfy all three requirements listed in Regulation 292E (2) of the ICDR Regulations to demonstrate
+the primacy of social intent. In a nutshell, these requirements state that the entity must target
+underprivileged or underserved population segments or regions that have performed worse in the
+central or state governments' development priorities, as well as engage in the activities outlined in
+Regulation 292E(2)(a).
+Additionally, to be recognized as a social enterprise, it must show that 67% of its operations meet
+the requirements for being eligible to serve the target population. This can be done by demonstrating
+any one of the following:
+i.      Offering eligible activities to members of the target population accounts for at least 67% of
+       the company's revenue in the three years prior to the current average. Or
+ii.      at least 67% of the 3-year average of expenses that came right before has been spent on
+       offering target population members eligible activities. Or
+iii.    Members of the target group to whom the eligible activities have been offered make up at
+       least 67% of the total customer base and/or number of beneficiaries as of the three-year
+      average that came right before.
+Corporate foundations, professional or trade associations, political or religious organizations or
+activities, infrastructure, and housing companies—aside from affordable housing—will not, however,
+be qualified to be classified as social enterprises.
+Organizations recognized as not-for-profit within the Social Stock Exchange framework.
+A not-for-profit organization is any of the following entities that satisfies the requirements to be
+classified as a social enterprise:
+i.     a charitable trust established in accordance with the state's public trust statute;
+ii.    a nonprofit organization that is approved by the Societies Registration Act, 1860 (21 of 1860);
+iii.    a business established in accordance with Companies Act, 2013 (18 of 2013);
+iv.    any additional organization that SEBI may designate.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+4.50           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+Organizations classified as for-profit social enterprises within the Social Stock Exchange
+framework.
+A for-profit social enterprise is any of the following organizations that satisfies the requirements to
+be classified as a social enterprise:
+i.    A business formed in accordance with section 8 of the Companies Act, 2013 (18 of 2013),
+      which excludes companies operating for profit;
+ii.    A business entity that pursues financial gain.
+How a Non-Profit Organization Can Use Social Stock Exchange to Raise Funds
+After registering with Social Stock Exchange, a not-for-profit organization may raise money on the
+platform by:
+i.      Issuing Zero Coupon Zero  Principal Instruments  [through  public issuance  or  private
+       placement].
+ii.     Donations made via SEBI-designated mutual fund schemes.
+iii.    Any additional methods that SEBI may later specify.
+Additionally, before a non-profit organization raises money on Social Stock Exchange,  it must
+register with Social Stock Exchange. Whether or not a non-profit organization is registered with the
+Social Stock Exchange, it is still legally permitted to raise money through any other means.
+
+               TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    Which among the following is not a risk management practice in secondary market?
+       (a)    Laying down trading rules and regulations for broker members
+       (b)    Setting up market surveillance systems to curb excess volatility
+        (c)    Creating trade/settlement guarantee fund  to ensure timely settlement even  if a
+          member defaults to deliver securities or pay cash.
+       (d)    Setting up a clearing corporation which can settle transactions and depository which
+            can only guarantee financial settlement of all trades.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.51         4.51
+
+
+2.   ………….. separates the ownership and control of stock exchange from the trading rights of
+      members.
+       (a)    Indexation
+       (b)    Demutualization
+        (c)    Trading Mechanism
+       (d)    Governing Board
+3.    Which among the following is not a risk management mechanism in the secondary market?
+       (a)    Circuit Breaker
+       (b)    Rolling Settlement
+        (c)    Market Making System
+       (d)   Reverse Book Building
+4.    The lending price of a security is ` 100. The transaction prices of the securities are (i) `
+      100.50; (ii) ` 99.75. Calculate lender’s earnings as fee and borrower’s earning as rebate.
+       (a)    0.50; 0.25
+       (b)    0.25; 0.50
+        (c)    0.50; 0.50
+       (d)    0.25; 0.25
+5.    The Securities Lending price (SLP) of a security is ` 100. The transaction price (TP) of a
+       security is ` 100.35. You are required to calculate annualized yield where the borrowing
+       period is 10 days.
+       (a)   15%
+       (b)   12.78%
+        (c)   18.25%
+       (d)   16%
+6.    Stocks that …………... have ………... margin requirements.
+       (a)    are more liquid; higher
+       (b)    lack liquidity; higher
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+4.52           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+        (c)    are more liquid; nil
+       (d)    lack liquidity; lower
+7.    Which among the following risks will be reduced for the clearing corporation and the foreign
+        portfolio investors, if T + 1 settlement is adopted?
+       (a)    Credit Risk
+       (b)    Liquidity Risk
+        (c)    Counter Party Risk
+       (d)    Market Risk
+Theoretical Questions
+1.      Briefly explain the organization of stock market in India.
+2.    What is a buyback? What are the effects of buybacks? Why buybacks are being favoured by
+      companies?
+3.      Briefly explain the concept of free float market capitalization with the help of an example.
+4.     Discuss how the implementation of T +1 settlement will build a safe and efficient markets for
+       investors.
+5.    What are the main classifications of Indian Debt Market? What benefits does an efficient debt
+      market bring to the financial system and the economy?
+Practical Problems
+1.    The following information has been collected regarding two shares, Share P and Share Q in
+      which Mr. Avinash wants to invest, was trading at BSE on 10th March 2023.
+                                          Share-P
+             Date              Time               Price (`)        No. of shares traded
+        10th March 2023         14:45:10             385.80               650
+        10th March 2023         14:55:35             383.60               1585
+        10th March 2023         15:00:20             380.89               1524
+        10th March 2023         15:01:30             381.79               1635
+        10th March 2023         15:10:20             380.48               1035
+        10th March 2023         15:20:25             381.84               1470
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+CAPITAL MARKET- SECONDARY   4.53         4.53
+
+
+        10th March 2023         15:22:20             381.42               900
+        10th March 2023         15:01:30             384.08               700
+        10th March 2023         15:25:55             383.64               1300
+
+                                        Share-Q
+             Date             Time               Price (`)        No. of shares traded
+        10th March 2023         14:48:20              50.80                350
+        10th March 2023         14:13:30              53.20                565
+        10th March 2023         14:17:20              50.60                800
+        10th March 2023         14:36:25              51.85                435
+        10th March 2023         14:45:20              50.65                460
+        10th March 2023         14:56:35              49.85                510
+      Mr. Avinash was a little circumspect about the volatility of the above-mentioned shares, since
+       they are mid-cap. He wanted to know the closing and last traded price of both the shares for
+      10 March 2023.
+2.   A borrower needs 5,000 shares of company A. The lending price of a security is ` 100. The
+      borrower is willing to pay 50 paise for each share in lending fees. The transaction price is
+     ` 100.25. The borrowing period is 7 days. Calculate the amount of lending fee and the
+      annualized yield. How can the borrower ensure that he makes a profit on his trade?
+
+ANSWERS/SOLUTIONS
+Answer to Multiple Choice Questions
+    1.        (d)        2.        (b)        3.        (d)        4.        (a)        5.       (b)
+    6.       (b)        7.        (c)
+
+Answers to the Theoretical Questions
+1.    Please refer paragraph 3
+2.     Please refer paragraph 8.1
+3.    Please refer paragraph 6.4.4
+4.    Please refer paragraph 7, part III
+5.    Please refer paragraph 9
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 54 ======================
+
+
+4.54           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+Answers to the Practical Questions
+1.    The BSE computes the closing price of stocks based on weighted average price of all trades
+      executed during the last 30 minutes of a continuous trading session.
+           If there is no trade recorded during the last 30 minutes, the last traded price of the stocks in
+       the continuous trading session is taken as the official closing price.
+      Hence, last traded price for share P = ` 383.64 and for share Q = ` 49.85
+     The closing price of share P (Average price in last 30 minutes) is calculated as follows:
+       Time       Price (`)     No. of shares      Total Value    Closing Price of Share P
+                           (1)         traded (2)             (`)
+                                                            [1 x 2]
+        15:00:20    380.89         1524         580476.36         Closing Price = `
+                                                           3270671/8564 = 381.9093        15:01:30    381.79         1635         624226.65
+        15:10:20    380.48         1035         393796.80
+        15:20:25    381.84         1470         561304.80
+        15:22:20    381.42         900           343278
+        15:01:30    384.08         700           268856
+        15:25:55    383.64         1300          498732
+                     Total         8564          3270671
+      Closing Price of Q is calculated as follows:
+      Since there is no trade recorded during the last 30 minutes for Share Q, the last traded price
+       of stock in the continuous trading session can be taken as the official closing price. Hence,
+       closing price of Share Q = Last traded price for share Q i.e., ` 49.85. Therefore, the closing
+       price of Share Q = ` 49.85.
+2.    Number of shares = 5000
+     Amount of lending fee = 50 paise per share
+     = 5000 shares/0.50 paise = ` 2500
+      Annualized yield = Transaction Price – Securities Lending Price/Securities Lending Price x
+      365/borrowing period x 100.
+     = 100.25 – 100/100 x 365/7 x 100 = 13.036%
+     And the borrower would need to gain over and above the lending fees of ₹2,500 to make a
+       net positive return on his or her trade.
+
+
+© The Institute of Chartered Accountants of India

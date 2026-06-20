@@ -1,0 +1,624 @@
+Source PDF: 07_SPOM/Set_C_09_Financial_Services_Capital_Markets/010 - CHAPTER 9- COMMODITY MARKET - 79361bos63450-cp9.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_09_Financial_Services_Capital_Markets\010 - CHAPTER 9- COMMODITY MARKET - 79361bos63450-cp9.pdf
+Extracted at: 2026-05-31T10:34:33+05:30
+Pages: 16
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER          9
+         1
+
+COMMODITY MARKET
+
+
+                          LEARNING OUTCOMES
+After going through the chapter student shall be able to understand:
+    Introduction of Commodity Markets
+    Role of Commodity Markets
+   Commodity Market in India
+    Application of derivative in commodities
+    Global Commodities Exchanges
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+9.2           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+CHAPTER OVERVIEW
+
+
+                      Role of Commodity Market
+
+
+         Influence of Commodity Market on Prices                Negative Impact of Speculation
+
+
+                              Commodity Market in India
+
+                    Problems                Regulatory Scenario     Way Forward
+
+
+              Application of Derivative in Commodities
+
+
+               Important Terms used in Commodity Market
+
+
+              Global Commodity Exchanges
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+COMMODITY MARKET             9.3
+
+     1.  INTRODUCTION
+Like financial markets which deal with money and shares, the commodity markets deal with trading
+of ‘commodities’ like metals, raw material commodities like cotton, pulses etc. In fact, the commodity
+market  is the foremost form of market which was structured more of a barter of commodity
+exchanges – usually dissimilar products – which later got one leg as money as time progressed. The
+contemporary commodity market is as sophisticated as its stock market counterpart, with the only
+distinction being commodities, instead of stocks, traded.
+The commodity market is essential to understand how the prices get influenced by many factors
+ranging from monsoon predictions to  political decisions. The commodity market acts as the
+barometer of how the markets perceive these factors, which in turn will impact the demand-supply
+dynamics, thereby influencing the futures prices. This leads to a market driven price discovery
+mechanism.
+For example, a farmer will be very much interested to ‘lock in’ prices for his harvest of pulses next
+crop season due in 3 months. Hence, he would ‘sell’ an estimated quantity, say 100 kilograms (kg.)
+of his future produce at the future rate of ` 80 per kg, thereby assuring himself of a fixed price. A
+wholesaler in pulses would similarly like to have a committed purchase price and would enter the
+‘buy’ leg (futures long) at ` 80 per kg. Assume after 3 months, the contract closes out at 81 per kg.
+That means the farmer has lost ` 1 per kg whereas the wholesaler has gained by Re 1 per kg. in
+the futures contract. Of course, the contracts are settled in cash – rarely there is actual physical
+delivery of the commodities involved.
+
+     2.  ROLE OF COMMODITY MARKETS
+Since ancient times people used to trade in primary commodities like cotton, spices, and livestock.
+The traders used to engage in futures with the time frame normally that of the harvest duration. Later
+with the advent of the Industrial Revolution, people started trading in base metals. In the 2000s, the
+matured economies of US and UK also started to have exchange traded commodities (ETCs) and
+exchange traded funds (ETFs).
+The major role of the early commodity markets was to:
+a)     Act as a platform for enabling farm produce growers and the end buyers to interact.
+b)    Enabling intermediaries to engage in representing both the demand and the supply side of
+       the commodity chain.
+c)     Price discovery.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+9.4           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+Even today the above characteristics hold good in commodity exchanges. The added feature is of
+course, a regulated market that is transparent, and real time.
+2.1  Influence of commodity markets on prices
+Commodity markets influence prices at two levels:
+a)    Enabling as a platform for both demand and supply factors to determine the prices for a
+       particular commodity or grade of a particular commodity.
+b)     Acting as an indicator for produce growers to take informed decision on which product to grow
+       to reap better prices.
+Essentially both the above objectives culminate in price discovery.
+However, it’s very important that the information that is getting used to determine the price is real
+time and transmitted across markets. In structured markets, the market prices are close to the ‘fair
+value’ prices.
+2.2  Negative Impact of Speculation
+The bane of the commodity market is speculation driven trades and short selling done to gain short-
+term profits. Precious metals like gold and diamond attract speculative investors given the hedge
+value of these assets. In some cases, there are also instances of black money and money laundering
+that mires the true features of an efficient commodity market. A report released by World Bank in
+2012 has laid the blame that ‘food prices globally soared by 10 percent’ squarely on the want on
+speculative trades executed in parts of the globe.
+Speculation cannot be ended in any market; however,  it can be regulated, and offenders treated
+with high penalties. The European Securities and Markets Authority (ESMA), based in Paris and
+formed in 2011, is an "EU-wide financial markets watchdog", which aims at orderly pricing and
+settlement conditions. The individual exchanges also have brought their own checking mechanisms
+like position limits, trade cutoffs, etc. to discourage pure arbitrage traders.
+
+     3.  COMMODITY MARKET IN INDIA
+3.1  Indian Commodity Markets
+MCX (Multi Commodity Exchange of India Limited) and the NCDEX (National Commodity &
+Derivatives Exchange Limited) are the primary commodity trading platforms in India. MCX is a
+commodity futures exchange started in 2003 and is listed on the BSE. NCDEX is another exchange
+that is promoted jointly by LIC, NABARD, etc. and has a robust online trading system.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+COMMODITY MARKET             9.5
+
+The National Multiple Commodity Exchange (NMCE) started its operations on November 26, 2002,
+as the country’s first, online, demutualized, multi-commodity exchange with nationwide reach. It not
+only revived futures trade electronically in the commodities in India after a gap of 41 years, but also
+integrated the centuries old commodity market with the latest technology. It is backed by compulsory
+delivery-based settlement to ensure transparent and fair-trade practices. NMCE offers an electronic
+platform for future trading in plantation, spices, food grains, non-ferrous metals, oil seeds and their
+derivatives.
+NCDEX started its first agricultural index — ‘Dhanya’ — in 2012, which was later named ‘N-Krishi’
+but this index was not tradable.
+The  National Commodity and  Derivatives Exchange (NCDEX)  in May 2020  launched the
+country’s first agricultural futures trading index — ‘Agridex’ — with four contracts expiring in June,
+July, September, and December. This agriculture index is based on the revised guidelines issued
+by the Securities and Exchange Board of India, which allowed futures trading in commodity indices.
+Agridex, launched on 25 May 2020 comprises 10 liquid commodities traded on NCDEX. The spot
+and future of these 10 commodities — soybean, chana, coriander, cottonseed oilcake, guar gum,
+guar seed, mustard seed, refined soy oil, castor seed and jeera — will define the value of this index.
+The index represents various agricultural commodities of both kharif and rabi seasons, with price
+references throughout the year. Agridex  will also  facilitate the  participants  in hedging  their
+commodity risk based on price anticipation of the products.
+In the present times, due to disruption in domestic business and exports, the volumes of individual
+commodities listed under Agridex have remained low. However, for Agridex the only factor that is
+important for the index is the overall market sentiment for the agricultural sector as it’s not just
+dependent on a single agricultural commodity.
+For example, if soybean mandi across the country remains closed but other commodity mandis are
+open, the trading activities for soybean may remain low in futures as a commodity, but trading in the
+Agridex, which is an overall index, will not be affected as other commodities trade will move it.
+The Agridex futures exchange will also help market participants to take advantage of generating
+returns with less risk and excessive research because they do not have to research individual
+commodities. For trading on Agridex, one needs to only know specific news or reports about
+agricultural commodities to get a sense of the price direction.
+This is like the equity market wherein participants trade at the NIFTY index as Agridex also has a
+base value of 1,000. Agridex also provides an opportunity for those already trading in equity markets
+as well as with farm produce organisations, farmers, retail traders and others.  (Source: The Print)
+The below is a screen shot of the same –
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+9.6           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+
+3.2  Problems with the Indian Commodity Markets
+The Indian markets have been plagued by the ‘speculator’ and ‘fly-by-night’ operators. The Chairman
+of the now defunct NSEL (National Spot Exchange Limited) had to be arrested for having entered
+futures markets without adequate documentation – many commodities that were traded didn’t have
+any underlying to them. SEBI has passed tough strictures on fresh forward contracts  in the
+commodity markets in Feb 2016, and  it has derecognized OTCEI (Over-the-counter exchange of
+India).
+Another big problem is that the commodity markets have not been able to see the ‘exponential’
+growth that is required for platforms to sustain it. The basic problem is ‘inclusion’ – farmers that form
+the backbone of agri-based commodities are not able to connect to the market, even though both
+MCX and NCDEX have created several awareness programs towards the same.
+Political ramifications have also added to the woes – price sensitive commodities like sugar have
+been on and off the futures platform.
+3.3  Way Forward
+The commodity markets in India have a long way to go to become globally competent. There is a
+persisting need to close the chain between farmers to markets, which is even more challenging given
+that the hold of intermediaries is too strong in Indian scenario. An impetus from the government is
+also required to both educate and popularize the adoption of commodity markets in India.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+COMMODITY MARKET             9.7
+
+3.4  Regulatory scenario in India
+In India, the Forward Markets Commission (FMC) was the chief regulator of commodity futures
+markets in India before it got merged with SEBI. The government, considering it wise to bring the
+commodity market under a common regulator, repealed the Forward Contracts Regulation Act
+(FCRA) 1952 and the regulation of commodity derivatives market shifted to Securities and Exchange
+Board of India (SEBI) under Securities Contracts Regulation Act (SCRA) 1956 with effect from 28th
+September 2015.
+
+     4.  APPLICATION OF DERIVATIVE IN COMMODITIES
+4.1  Difference between Commodity Markets and Financial Markets
+It should be noted that following are some of the differences between commodity and financial
+derivatives:
+(i)    Storage Cost: Commodities, especially agricultural commodities, are perishable in nature
+      and they require storage. Due to this reason, the buyer must bear the cost of storage and
+       transportation charges. In case if location of goods is not in the same state, then, the buyer
+       also has to borne taxes, octroi etc. However, storage cost is not there in financial derivatives.
+(ii)   Complexity: Compared to Financial Market, there are low volumes of transactions and
+      transparency in commodity market, and, thus, often relationship between future and spot get
+       distorted. Further, delivery in the financial market is comparatively less cumbersome.
+(iii)   Higher Cost: While in the financial market, only costs in the form of interest cost and
+      exchange rate loss are involved, while in the commodity market a lot of costs are involved
+      such as transportation, delivery, storage etc.
+(iv)   Physical Delivery: Since the quality of goods commodities even in two different batches
+      cannot be same, the delivery of commodities becomes a challenging task. Stating otherwise,
+        this is the most distinguishing feature of commodity derivatives.
+4.2  Pre-requisites for Futures trading on a Commodity Exchange
+For a future to be traded on a Commodity Exchange, following are the prerequisites:
+(i)     Durability - Commodity should be storable and durable.
+(ii)   Homogeneity - The commodity should be homogeneous in nature.
+(iii)   Free from Control - The trading in commodities should be free from any type of price or
+       regulatory control.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+9.8           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+(iv)   Frequent Trading - The demand and supply should be large, leading to a daily fluctuation in
+       prices. Practically,  it has been seen that even if the same commodities possess the above
+       characteristics, they are still required to be traded successfully.
+4.3  Trading and Settlement Process
+Broadly, commodity trading involves following three mechanisms:
+(i)    Order Matching Mechanism - Firstly, a trader places his/her order with any registered broker
+     who in turn enter the same into online terminal. In case order matches with opposite order
+      (one party buys and other party sells) the trade is said to be complete.
+(ii)   Trade Clearing Mechanism  - The clearing of the matched order takes place through a
+      Registered Clearing House. The function of these clearing houses is as follows: -
+        (a)    Follow up with parties
+       (b)    Timely Settlement
+        (c)    Delivery versus payment (DVP) of commodity traded.
+       (d)    In case of non-delivery, settlement through fund transfer.
+(iii)   Processing of Delivery - The main issues to be considered in the delivery processes are as
+       follows:
+       (a)     Availability of warehouse
+       (b)    Location of order
+        (c)    Quantity of Commodity deposited and dematerialized.
+      Further, delivery process involves following steps:
+          (i)    Buyer request Depository Participant (DP) to deliver the commodity.
+           (ii)   DP forward this request to the Registrar and then to Transfer Agent.
+           (iii)    Transfer Agent after verifying authenticity of request passes the details of delivery to
+             the warehouse.
+         (iv)    After thorough identification checking, a warehouse arranges the delivery of the
+            concerned goods to the designated buyer.
+4.4  SEBI’s Approval for Option in Commodities
+SEBI has now allowed option trading in the Commodity Future market. On expiry date, if option ends
+in “Out the Money” (OTM) position it will be squared off at loss (premium) and the holder of “In the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+COMMODITY MARKET             9.9
+
+Money” (ITM) position will have a choice either to square it off at profit or get converted into a Future
+Contract. Once it is converted into a future contract it will be subject to margin requirement as other
+future contracts.
+4.5  Important Terms to be understood in the context of the Commodity
+     Market
+(a)    Short position in a contract: The party who agrees to deliver  (sell) the contracted
+      commodity.
+(b)   Long position in a contract: The party who agrees to receive (purchase) the contracted
+      commodity.
+(c)    Futures Contract: The formal agreement where one party agrees to take a short position
+      and another party assumes the long position on contracted commodity. The contract will
+       specify the quantity and quality of the commodity, the specific price per unit, and the date and
+      method of delivery.
+(d)    Settlement: The close out day of the futures contract. The positions get wounded, and the
+       resulting profit / loss of either party gets settled in cash.
+(e)    Margin: This is perhaps the most important term in commodity futures – the parties entering
+      a contract must furnish a margin equal to a % (usually 5 to 15 percent) of the contract value.
+      Traders are required to keep margin monies usually based on the traded volumes.
+(f)    Open: This is the opening price of the trade
+(g)    High: The highest price in the trading session / day
+(h)   Low: The lowest price in the trading session / day
+(i)   Open Interest (Volume): The number of open positions of contracts
+(j)    Expiry Date: The closure date of the contract
+(k)   LTP: Last traded price
+(l)    Unit traded: The unit of measurement (For e.g. Cotton will be measured in ‘bales’)
+4.6  The Role of Derivatives
+(i)    Forward Contract: This is the simplest of all contracts, which states that there would be an
+      exchange of an agreed quantity of a given commodity at a particular price (the forward price).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+9.10           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+(ii)   Futures Contract: These are standardized forward contracts that are done through an
+      exchange, for a particular quantity of commodity at a particular future date and location, the
+       price is left undetermined.
+(iii)   ETCs: Exchange traded commodities are the commodities that are traded on a stock
+      exchange, just like a stock. They track the performance of an underlying commodity index
+       including total return indices based on a single commodity.
+4.7 How Hedging works in Commodity Markets
+One type of hedger is a farmer. Farmers plant crops, like soybeans in this case, and assume the
+risk that by the time the crop is harvested, its price will have dropped. By selling soybean futures,
+which might lock in a price for their crops early in the growing season, farmers can protect
+themselves against that risk.
+Five thousand bushels of soybeans make up a soybean futures contract on the Chicago Board of
+Trade exchange operated by the CME Group. Growing 500,000 bushels of soybeans annually would
+require a farmer to sell 100 soybean futures contracts.
+Assume for the moment that a bushel of soybeans costs $13. He suspects the downfall of soybean
+prices in the future. It could make sense for the farmer to sell (short) the futures contracts at $13 to
+lock in the price  if he is certain to make a profit at $10. By doing this, the farmer could save i.e.
+hedge himself from the loss even if the price drops below $13 at the time of expiry of the futures
+contract.
+It is always possible that by harvest time, soybean prices will have increased significantly. If the
+farmer sold the $13-a-bushel futures contracts, they would lose out on the potential increase in
+soybean prices to $16 a bushel. Anyhow, the farmer has not incurred any losses by hedging the
+soybean price at $13. And this is the basic purpose of hedging i.e. to protect from losses.
+     5.  GLOBAL COMMODITIES EXCHANGES
+5.1  London Metal Exchange (LME)
+The iconic London Metal Exchange, popularly referred to as ‘LME,’ is one of the world’s largest
+futures exchange market established in 1877, when Great Britain was at the peak of its glory. With
+half the world under the British Empire, London had become the epicenter of commodity trades of
+all kinds. Shortly after, the industrial revolution further spurred the growth of markets for metals like
+copper, tin, and aluminum. The ‘three-month contract’ which is now considered as the standard
+period for a future, was borne out of the time frame that took copper to be shipped from Chile to UK.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+COMMODITY MARKET             9.11
+
+The opening of Suez Canal in 1869 similarly reduced the time for shipment of tin to arrive from
+Malaya to 3 months, which gave rise to the ‘3-month contract’ now in vogue.
+LME was acquired in 2012 by Hong Kong Exchanges & Clearing Limited and a new custom clearing
+house was designed and introduced to bring technology into the global metal trade platform.
+Today, LME sets the standards for operating in the commodity metals market within the framework
+of corporate governance – LME has an operational committee for each of the metal traded, like an
+‘aluminum’ committee for aluminum, a ‘molybdenum’ committee for molybdenum, and so on. LME
+also has an elaborate ‘Ring Disciplinary’ committee and an appeal mechanism for both traders and
+members in place.
+The LME price discovery mechanism works in all the three ways –
+(a)   Open out-cry – the trading floor on the LME that is also called as the ‘Ring’, where the prices
+      are determined on the traditional out-cry (verbal) method,
+(b)   LME Select – the electronic trading platform, and,
+(c)     Inter-office telephone market system.
+Thus, the LME is active for trading 24 hours a day. There is a common misconception that precious
+metals like gold are traded on the LME, but they aren’t. The LME specializes in ferrous and
+nonferrous metals, whereas gold and silver are traded on the OTC managed by the London Bullion
+Market.
+5.2  Eurex Exchange
+Eurex is the largest European futures and options market, established in Germany. One of the
+foremost exchanges to usher in electronic trading, its trading platform T7 is the best in the world.
+Eurex is constantly pushing itself to explore new areas and product classes, for example, they have
+introduced a factor index-based futures that allow investors to trade six individual risk factors in
+futures format. The six factors are - size, value, carry, momentum, low risk and quality, and is a
+dynamic attempt to allocate to alternative sources of beta to deliver equity-like returns with low
+correlation.
+5.3  Chicago Mercantile Exchange (CME) Group
+Chicago Mercantile Exchange & Chicago Board of Trade (CME) is the US based largest futures and
+options platform for trading. Established in 1898, CME offers the entire bouquet of trades based on
+ferrous, non-ferrous metals, precious metals, and even on weather and real-estate. The acquisition
+of New York Mercantile Exchange (NYMEX) by the CME group in 2007 catapulted it to the number
+one status in US. The platform also allows for agri-based commodity contracts like Class IV milk,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+9.12           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+Class III milk, Feeder Cattle etc. CME has developed ‘SPAN’ (‘Standard Portfolio Analysis of Risk’)
+which is standardized software to calculate margin requirements for futures, which has been adopted
+by many agencies as benchmark software across the globe.
+
+Contract specifications on MCX
+Following is the illustration of contract specifications of Crude Oil on MCX for the practical and
+conceptual understanding of the students.
+FUTURES CONTRACT SPECIFICATIONS OF CRUDE OIL
+  Symbol                     CRUDEOIL
+   Description                 CRUDEOILMMMYY
+   Contract Listing                    Contracts are available as per the Contract Launch
+                                      Calendar.
+   Contract Start Day              As per the Contract Launch Calendar
+   Last Trading Day               As per the Contract Launch Calendar
+   Trading
+   Trading Period                 Mondays through Fridays
+   Trading Session                Monday to Friday: 9.00 a.m. to 11.30/ 11.55 p.m.*
+                                               * based on US daylight saving time period.
+   Trading Unit                    100 barrels
+  Quotation/Base Value              Rs. Per barrel
+  Maximum Order Size              10,000 barrels
+   Tick Size (Minimum Price          Re. 1
+  Movement)
+   Daily Price Limits               The Exchange has implemented a narrower slab of
+                                4%. Whenever the narrower slab is breached, the
+                                          relaxation will be allowed up to 6% without any cooling
+                                                 off period in the trade. In case the daily price limit of
+                         6% is also breached, then after a cooling off period of
+                                 15 minutes, the daily price limit will be relaxed upto
+                                9%.
+                                            In case price movement in international markets is
+                                more than the maximum daily price limit (currently
+                                    9%), the same may be further relaxed in steps of 3%.
+    Initial Margin                   Minimum 10% or based on Standard Portfolio Analysis
+                                             of Risk (SPAN) # whichever is higher.
+  Extreme Loss Margin            Minimum 1 %
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+COMMODITY MARKET             9.13
+
+   Additional and/ or SpecialMargin   In case of additional volatility, an additional margin
+                                      (on both buy & sell side) and/ or special margin (on
+                                            either buy or  sell side) at such percentage, as
+                              deemed   fit,  will be imposed  in respect  of  all
+                                       outstanding positions.
+  Maximum Allowable Open         For individual clients: 4,80,000 barrels or 5% of  the
+   Position                          market wide open position, whichever is higher for all
+                                  Crude Oil contracts combined.
+                                     For a member collectively for all clients: 48,00,000
+                                          barrels or 20% of the market wide open position,
+                                     whichever  is  higher  for  all Crude  Oil  contracts
+                                    combined.
+   Quality Specification                 Light Sweet Crude Oil confirming to the following
+                                             quality specification:
+                                          Sulfur 0.42% by weight or less,
+                                  API Gravity: Between 37 degree – 42 degrees
+  Due Date Rate (DDR)            Due date  rate  shall be the settlement  price,  in
+                                        Indianrupees, of the New York Mercantile Exchange’s
+                               (NYMEX)# Crude Oil (CL) front month contract on the
+                                               lasttrading day of the MCX Crude Oil contract. The
+                                               last available RBI USDINR reference rate will be used
+                                               for the conversion. The  price so  arrived  will be
+                                   rounded off to the nearest tick.
+                                     For example, on the day of expiry, if NYMEX Crude
+                                             Oil (CL)  front month contract settlement price  is
+                                    $40.54 and the last available RBI USDINR reference
+                                           rate is 66.1105, then DDR for MCX Crude oil contract
+                                   would be Rs. 2680 per barrel (i.e. $40.54 * 66.1105
+                                 and rounded off to the nearest tick).
+                              #A market division of Chicago Mercantile Exchange
+                                             Inc. (“CME Group”)
+   Settlement Mechanism           The contract would be settled in cash
+# Exchanges use SPAN to figure out margins and risk for F&O portfolios. In addition to several other
+factors, SPAN analyzes the price and  volatility of the underlying investment to calculate the
+maximum loss that can occur for a portfolio and to provide the proper margin.
+MCX Crude Oil Futures (100 Barrels)
+     Contract Launch Calendar for Contracts Expiring During the Calendar Year 2024
+      Contract Month         Contract Launch Date           Contract Expiry Date
+          Jan-24                  20th July 2023                 19th January 2024
+         Feb-24              22nd August 2023               16th February 2024
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+9.14           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+          Mar-24               20th September 2023              19th March 2024
+          Apr-24                20th October 2023                 19th April 2024
+         May-24               20th November 2023                20th May 2024
+          Jun-24               19th December 2023               18th June 2024
+           Jul-24              22nd January 2024                 19th July 2024
+         Aug-24                19th February 2024               19th August 2024
+         Sep-24                 20th March 2024              19th September 2024
+          Oct-24               22nd April 2024                 21st October 2024
+         Nov-24                  21st May 2024                19th November 2024
+         Dec-24                  19th June 2024               18th December 2024
+(Reference Circular No. MCX/TRD/425/2023 dated June 30, 2023)
+
+               TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.   ………. among the following is not a role of commodity markets.
+        (a)    Act as a platform for enabling farm produce growers and the end buyers to interact.
+        (b)    Enabling intermediaries to engage in representing both the demand and the supply
+             side of the commodity chain.
+        (c)    Price discovery.
+        (d)    Enabling speculation driven trades and short selling done to gain short-term profits.
+2.     Agridex, launched on 25 May 2020 comprises 10 liquid commodities on ……….
+       (a)    National Commodity and Derivatives Exchange
+       (b)    Multi Commodity Exchange of India
+        (c)    Indian Commodity Exchange
+       (d)   ACE Derivatives & Commodity Exchange Limited
+3.    ……….. is not a problem with the Indian Commodity Markets.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+COMMODITY MARKET             9.15
+
+        (a)   Commodity markets have not been able to see the ‘exponential’ growth that is required
+                for platforms to sustain it.
+        (b)   Farmers that form the backbone of agriculturally based commodities are not able to
+            connect to the market.
+        (c)   MCX and NCDEX have created several awareness programs.
+        (d)     Political ramifications have also added to the woes – price sensitive commodities like
+            sugar have been on and off the futures platform.
+4.  ………… is a prerequisite for futures trading on a commodity exchange.
+       (a)    Complexity
+       (b)    Higher Cost
+        (c)    Homogeneity
+       (d)    Physical Delivery
+5.  ………… offers the entire bouquet of trades based on ferrous, non-ferrous metals, precious
+       metals, and even on weather and real-estate.
+       (a)   London Metal Exchange
+       (b)    Chicago Mercantile Exchange
+        (c)    Eurex Exchange
+       (d)    National Stock Exchange of India Limited
+Theoretical Questions
+1.    Discuss the role of commodity market and influence of commodity markets on prices.
+2.     Explain the problems with the Indian Commodity Markets and the way forward.
+3.     Explain how Commodity Derivatives are different from Financial Derivatives.
+4.    Discuss the trading and settlement process in commodity trading.
+5.    What is the standardized software to calculate margin requirements for futures developed by
+    CME and adopted by many agencies as benchmark software across the globe?
+Practical Questions
+1.   A company is long on 10 MT of copper @ ` 474 per kg (spot) and intends to remain so for
+       the ensuing quarter. The standard deviation of changes of its spot and future prices are 4%
+      and 6% respectively, having correlation coefficient of 0.75.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+9.16           FINANCIAL SERVICES AND CAPITAL MARKETS
+
+     What is its hedge ratio? What is the amount of the copper future it should short to achieve a
+       perfect hedge?
+
+
+ANSWERS/SOLUTIONS
+Answers to Multiple choice Questions:
+    1.        (d)        2.        (a)        3.        (c)        4.        (c)        5.        (b)
+
+Answers to Theoretical Questions
+1.    Please refer paragraph 2
+2.    Please refer paragraph 3.2 and 3.3
+3.    Please refer paragraph 4.1
+4.    Please refer paragraph 4.3
+5.    Please refer paragraph 5.3
+Answers to the Practical Questions
+1.    The optional hedge ratio to minimize the variance of Hedger’s position is given by:
+        σS     H= ρ
+        σF
+     Where
+         σS = Standard deviation of ΔS
+         σF = Standard deviation of ΔF
+          ρ = coefficient of correlation between ΔS and ΔF
+        H = Hedge Ratio
+         ΔS = change in Spot price.
+         ΔF = change in Future price.
+       Accordingly
+                       0.04        H = 0.75 x     = 0.5
+                       0.06
+      No. of contract to be short = 10 x 0.5 = 5
+     Amount = 5000 x ` 474 = ` 23,70,000
+
+
+© The Institute of Chartered Accountants of India

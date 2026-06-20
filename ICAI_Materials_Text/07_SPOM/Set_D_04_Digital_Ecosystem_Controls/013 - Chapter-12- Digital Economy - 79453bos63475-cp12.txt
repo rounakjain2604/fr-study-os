@@ -1,0 +1,2216 @@
+Source PDF: 07_SPOM/Set_D_04_Digital_Ecosystem_Controls/013 - Chapter-12- Digital Economy - 79453bos63475-cp12.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_D_04_Digital_Ecosystem_Controls\013 - Chapter-12- Digital Economy - 79453bos63475-cp12.pdf
+Extracted at: 2026-05-31T10:37:01+05:30
+Pages: 53
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+UNIT – V
+        DIGITAL ECONOMY
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+CHAPTER          12
+         1
+ABCD OF FINTECH
+
+
+                    LEARNING OUTCOMES
+After studying this chapter, you will be able to –
+   comprehend the ABCD technologies used in FinTech.
+   acknowledge the usage of Artificial Intelligence in real time situations.
+   grasp the understanding of Blockchain in Financial institutions.
+   understand the concepts of Cloud Computing in detail.
+   acquire the role of Big Data in Financial Institutions.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+12.2           DIGITAL ECOSYSTEM AND CONTROLS
+
+  CHAPTER OVERVIEW
+
+
+                                                           Based on Capabilities
+                                                  Classification
+                                                                Based on
+                                                                               Functionalities
+                   Artificial Intelligence          Deep learning
+
+
+                                         Working of AI
+
+
+                                     Working of Blockchain
+      FinTech            Blockchain               Advantages
+  of
+   ABCD                                  Types of Cloud
+               Cloud Computing
+                                             Service Models
+
+                                         Benefits/Usage of Big
+                                               Data
+                   Big Data
+                                        Obstacles in adoption
+
+
+    12.1 INTRODUCTION
+FinTech, the abbreviation for Financial Technology, is a broad category that refers to the innovative
+use of technology in the design and delivery of financial services and products. The application of
+FinTech cuts across multiple business segments, including lending, borrowing advice,derivates,
+assets managements, insurance, investment management and payments. Many FinTech companies
+harness mobile technologies, big data and superior analytics to tailor products for various customer
+segments.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.3
+
+FinTech companies offer a wide range of products and services. These can broadly be split into two
+categories, depending on who their ‘customer’ is Business-to-Consumer (B2C) and Business-to-
+Business (B2B). Some may define FinTech as technology that increases efficiency and creates
+new financial business models that utilize some or all - Artificial Intelligence (AI), Blockchain,
+Cloud Computing and Big Data.
+Some of the major FinTech products and services currently used in the marketplace are Peer to
+Peer (P2P) lending  platforms, Crowd funding,  Distributed Ledgers Technology (DLT), Robo
+advisors, etc. These FinTech products are currently used in international finance, which bring
+together the lenders and borrowers, seekers, and providers of information, with or without a nodal
+intermediation agency.
+♦    Peer-to-Peer (P2P) lending: Peer-to-peer (P2P) lenders connect lenders and borrowers,
+      using advanced technologies to speed up loan acceptance. These technologies are designed
+       to increase efficiency and reduce the time involved in access to credit. While P2P lending
+        originally involved direct matching of individual lenders and borrowers on a one-to-one basis,
+            it has evolved into a form of marketplace lending where institutional and high net worth
+       individual investors lend into a pool that borrowers can access.
+♦    Crowd funding: Crowd funding is a way of raising debt or equity from multiple investors via
+      an internet-based platform. Securities and Exchange Board of India (SEBI) has released a
+      paper and defined crowd funding as “solicitation of funds (small amount) from multiple
+       investors through a web-based platform or social networking site for a specific project,
+      business venture or social cause.” The platform providers offer a range of information about
+       the potential borrowers/issuers, ranging from credit ratings  (for most peer-to-peer loan
+      arrangements)  to business model  to  verification  of information and AML  (Anti Money
+      Laundering) checks of firms that want to raise equity capital.
+♦     Distributed Ledgers Technology (DLT): Distributed ledger technologies, like blockchain,
+      are peer-to-peer networks that enable multiple members to maintain their own identical copy
+       of a shared ledger. Rather than requiring a central authority to update and communicate
+      records to all participants, DLTs allow their members to securely verify, execute, and record
+        their own transactions without relying on a middleman.
+♦   Robo Advisor: A robo-advisor is a digital platform that provides automated, algorithm-driven
+       financial planning and investment services with little to no human supervision. A typical robo-
+       advisor asks questions about user’s financial situation and future goals through an online
+      survey and then uses the data to offer advice and automatically invest for the user.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+12.4           DIGITAL ECOSYSTEM AND CONTROLS
+
+I.    What objectives does FinTech have? : The primary objective of FinTech is to assist various
+      businesses and consumers in the efficient administration of financial transactions. Since
+      FinTech makes   it possible  for people  to obtain desired  financial services from  their
+      smartphones, financial transactions are no longer limited to laptops and desktops.
+II.   Why Consumers choose FinTech institutions instead of trusted banks FinTech?
+    o     FinTech companies are versatile and include lower fees and better rates, lower
+             thresholds for investments, lower thresholds for loans, ease of use and convenience.
+             This is manifested in lower margins, asset-light nature, and high scalability.
+    o    Second is their intense use of technology including onboarding, social networks, crowd
+            knowledge/wisdom, big data with the requisite analytics for market analysis and credit
+              scoring.
+    o    The use of AI with the requisite cybersecurity as in the use of a private key and touch
+              recognition are equally important to ensure customer trust.
+III.   How Does FinTech Work?: While FinTech is a multifaceted concept, it simplifies financial
+       transactions for consumers or businesses, making them more accessible and generally more
+       affordable. It can also apply to companies and services utilizing AI, Big Data, and encrypted
+      blockchain technology to facilitate highly secure transactions amongst an internal network.
+      Broadly  speaking, FinTech  strives  to  streamline  the  transaction  process,  eliminating
+       potentially unnecessary steps for all involved parties. For example, a mobile service like
+       Unified Payment Interface (UPI) allows users to pay other people at any time of day, sending
+      funds directly to their desired bank account.
+IV.   The Technologies that Power FinTech: Modern FinTech is primarily driven by Artificial
+       Intelligence  (AI), big data, and blockchain technology —  all of which have completely
+       redefined how companies transfer, store, and protect digital currency. Specifically, AI can
+       provide valuable insights on consumer behavior and spending habits for businesses, allowing
+      them to better understand their customers. Big data analytics can help companies predict
+      changes in the market and create new, data-driven business strategies. Blockchain, a newer
+      technology within finance, allows for decentralized transactions without inputs from a third
+       party; tapping a network of blockchain participants to oversee potential changes or additions
+       to encrypted data.
+V.    FinTech Trends: Over the years, FinTech has grown and changed  in response  to
+      developments within the wider technology sector with several prevailing trends:
+    o     Digital banking continues to grow: Digital banking is easier to access than ever
+              before. Many consumers already manage their money, request, and pay loans, and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.5
+
+            purchase insurance through digital-first banks. This simplicity and convenience will
+                likely drive additional growth in this sector.
+    o     Blockchain: Blockchain technology allows for decentralized transactions without a
+            government  entity  or  other  third-party  organization being  involved.  Blockchain
+             technology and applications have been growing quickly for years, and this trend is
+                likely to continue as more industries turn to advanced data encryption.
+    o      Artificial Intelligence (AI) and Machine Learning (ML): AI and ML technologies
+           have changed how FinTech companies scale, redefining the services they offer to
+                clients. AI and ML can reduce operational costs, increase the value provided to clients,
+           and detect fraud. As these technologies become more affordable and accessible,
+            expect them to play an increasingly large role in FinTech’s continued evolution —
+              especially as more brick-and-mortar banks go digital.
+VI.    Benefits of FinTech: The proponents of FinTech highlight a range of ways that  it may be
+      able to benefit society and individual consumers:
+    o    Economic opportunities: The FinTech industrygenerates employment opportunies
+           and attracts investments. While the Government estimates that around 76,500 people
+              currently work in FinTech, the Department of International Trade predicts that this will
+           grow to 105,500 by 2030.
+    o    Improved speed and efficiency: Digitizing and automating finance enable the swift
+             completion of services that previously took days to process, now accomplished within
+            seconds. Slow and  costly settlement processes, such as those  for  reconciling
+            payments, can be sped up by distributed ledger technology. This is because the
+             technology allows each participant in the settlement to have access to the “same,
+               distributed but synchronized data”, thus providing “a single source of truth” for all
+              parties to work from.
+    o    More resilient systems: Distributed ledgers may be able to help make systems that
+             are harder to break. This is because copies of the data are recorded by multiple
+              participants at the same time, minimizing the impact of data loss should there be an
+             issue with one participant.
+    o    More competition and choice:  It has been anticipated that the older and larger
+            banks, which still account for most of the retail banking market, do not have to work
+            hard enough to win and retain customers and it is difficult for new and smaller providers
+               to attract customers. The new technologies and Government measures may allow
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+12.6           DIGITAL ECOSYSTEM AND CONTROLS
+
+             smaller firms to enter the market, using their ‘agile’ nature to innovate quickly and so
+             give consumers more choice.
+    o     Better insights equal better products: Big data and advanced data analytics can
+             allow firms  to provide products or services that are more tailored  to individual
+            consumers. An additional benefit of modern data-driven approaches is that they are
+           more objective and therefore less prone to bias than a human would be (although
+              algorithmic discrimination is still a risk).
+    o    Improved financial inclusion: While there is a risk that new technologies may open
+           up new forms of exclusion, FinTech is considered to have the power to include more
+            people in the financial system. This may be particularly true in developing economies,
+           where mobile financial services products, such as M-Pesa in India, have helped boost
+             the rate of access to formal financial services.
+    o     Solutions to specific problems: FinTech is already being used to tackle particular
+             challenges that consumers or businesses face like addresses for homeless individual,
+               efficiency  in debt advice, gambling addiction, paying rent deposits and verifying
+               identity digitally etc.
+VII.   Challenges for consumers
+    o    Some may be left behind: Some consumers may be digitally or financially excluded
+           and therefore at risk of being unable to participate fully in society as the use of FinTech
+           becomes the norm as  it has been observed that people may struggle to cope in a
+             cashless society. Therefore, it would be required to improve digital skills, connectivity,
+           and financial inclusion of the society at large.
+    o    Others may be excluded by automated decision-making: Some consumers could
+               find themselves increasingly marginalized by automated decision-making systems.
+            There are substantial concerns about how ‘algorithmic discrimination’ could lead to
+             biases in decision-making against certain groups.
+    o    Lack of regulatory protection: When using FinTech products or services, consumers
+          may not enjoy the same regulatory protections from all financial service providers. For
+           example – the right to resolve complaints through X Financial Service Provider may
+             not be the same as provided through Y Financial service provider.
+    o     Limited  consumer  understanding:  As   financial  products  become  more
+              technologically complex, consumers may find it harder to fully understand what they
+             are signing up to.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.7
+
+    o     Risk of scams: New technologies and new financial products, along with possible
+              regulatory, could lead to more consumers falling victim to scams and fraud.
+    o    Other financial crimes: New technologies also open up new possibilities for crime.
+            For instance - some of the main characteristics of cryptocurrencies that can assist
+              fraudsters are market volatility, complex concepts, decentralized control, anonymity,
+           and ease of cross-border payments.
+    o    Loss of consumer control over data: Without adequate protections, consumers may
+             also find it difficult to understand which organizations have access to their data and
+            what this consists of. For example, In  the U.K. in the year  2020, the Information
+            Commissioner’s Office (ICO) published its findings on the use of data by major credit
+             reference agencies (Equifax, and Experian, not Cibil as Cibil is an Indian credit
+              information company).  It reported that “significant ‘invisible’ processing took place,
+                likely affecting millions of adults. It is ‘invisible’ because the individual is not aware
+               that the organization is collecting and using their personal data. This is against data
+              protection law.
+    o     Manipulating consumer behavior: Technology could be used to exert unnecessary
+              or excessive control over consumers’ behaviors and so coerce people into complying
+              with financial services’ preferences. People might, for example, edit or filter what they
+             put on social media if they know that a financial business will analyze it. But the impact
+            can go far beyond this.
+    o     Issues when technology fails: Consumers can have problems when the technology
+            behind FinTech malfunctions. More than 5 million payments, including 2.4 million in
+             the UK, failed in 2018 when the VISA network experienced issues at its data centre.
+            Passengers have also faced extra charges on the Transport for London network when
+                their phone battery has died before they tap out at the end of their journey.
+VIII.  FinTech Top Use Cases: The impact of FinTech has been evident in the way it has caused
+      improvement in conventional banking and financial services. The multiple FinTech use cases
+      have emerged as prominent trends in the traditional, brick-and-mortar institutions for financial
+       services. As of now, millions of users rely on FinTech in some form or the other, generally
+      through smartphones and mobile devices.
+      Most important of all, FinTech has developed as a productive solution to the problems of
+      access to banking and financial services, thereby have opened the doors to financial services
+        for unbanked people in the world. The FinTech examples would help you understand how it
+      can improve the accessibility of financial services without relying on traditional banks and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+12.8           DIGITAL ECOSYSTEM AND CONTROLS
+
+       other financial institutions. Here are some of the notable uses of FinTech, along with the
+       relevant examples for each use case.
+
+
+                          Payment                                              Mobile Payments                          Gateways
+
+
+                                                                      Retail/
+                       Insurance                    Consumer
+                                                    Banking
+
+
+                                     Blockchain &
+                                    Cryptocurrency
+
+
+                                Fig. 12.1: FinTech Top Use Cases
+       (A)   Mobile Payments: FinTech companies are always developing innovative approaches
+               to granting access to their services, regardless of location. Digital authentication, Near
+              Field Communication technology (NFC), and mobile wallet technologies are a few of
+             the noteworthy FinTech advancements that have fueled the expansion of mobile
+            payments. The combination of financial services with mobile computers has also been
+             remarkable. Mobile payments might contribute to laying the groundwork for a world
+             without cash. Apple Pay, Google Pay, and Samsung Pay are examples of mobile
+           payment apps that allow users to store their credit and debit card information on their
+            smartphones and make payments by tapping their phones on payment terminals.
+               Additionally, these apps provide additional security features, such as biometric
+              authentication and tokenization, making mobile payments more secure than traditional
+             card payments.
+       (B)   Retail/Consumer Banking: Consumer banking  platforms  or FinTech  solutions
+              contribute to increased financial service affordability and accessibility. Traditional
+            banks have always operated with methods that isolate specific sections of society from
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.9
+
+            banking and financial services. For example, the transaction fees in banks and identity
+               verification requirements could create troubles for any individual in accessing banking
+              services. With the help of FinTech, users could find alternative consumer banking
+             products  and  solutions  geared  toward  resolving  accessibility  difficulties  and
+               affordability of financial services.
+       (C)   Blockchain & Cryptocurrency: Blockchain technology makes use of cryptography
+             technology  to  create  cryptocurrencies  which  act  as  a  reliable and  effective
+            replacement for cash. Blockchain technology and cryptocurrencies have been widely
+           employed by businesses to gain major advantages such as increased traceability,
+               security, and transparency, as well as quicker transactions and reduced prices.
+               Additionally, blockchain-based smart contracts may set new standards for how people
+            can access financial services. Blockchain and cryptocurrency examples in FinTech
+            would refer to a variety of platforms and programs, including Bitcoin, Ethereum and
+          many others.
+       (D)   Insurance: The flow of other financial services like banking has also been changed
+            by FinTech. The use of FinTech in insurance has also produced new benefits, while
+             the list of many FinTech instances in banking has opened new pathways for efficiency.
+            InsurTech  combines  “Insurance”  and  “Technology”,  wherein  the  businesses
+             concentrate on creating, distributing, and aggregating digital insurance products.
+           Numerous InsurTech platforms have created cutting-edge insurance applications that
+             could make it simpler to get insurance. The businesses and service providers in the
+             insurance sector work together  with  traditional insurers  to automate insurance
+            processes and manage coverage. The elimination of labor-intensive and complicated
+            processes would be one of FinTech’s most notable benefits in the transformation of
+             insurance. As a result,  it can make insurance services more accessible while also
+           making it easier to handle coverage and claims. For example - PolicyBazaar is India's
+              largest online insurance aggregator and a prominent player in the Insurtech space.
+           They offer a wide range of insurance products, including health, life, motor, and travel
+             insurance.
+       (E)   Payment Gateways: Payment gateways are the next common example of FinTech
+            use cases. Before the advent of e-commerce, electronic payment systems were
+              operational. The advent of online payment gateways contributed to the transformation
+               of payment on e-commerce platforms by enhancing the practicality, usability, and
+               accessibility of financial services. Payment gateways solved the issue of sending
+          money without the involvement of banks, thereby benefiting consumers by reducing
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+12.10           DIGITAL ECOSYSTEM AND CONTROLS
+
+              costly bank  transaction  costs. The most well-known FinTech instances among
+           payment gateways in India are PayU India which  is one of the biggest payment
+            gateway aggregators in India.
+IX.   Compliance with Government Regulations for the financial industry: Compliance with
+      government regulations is an essential aspect of the financial sector. Regulations are put in
+      place to protect consumers, prevent financial crimes, and ensure the stability of the financial
+      system. In recent years, data protection has become an increasingly important aspect of
+       regulatory compliance, with the rise of data breaches and concerns over privacy. The
+       Application of Data Protection by Design and by Default principles is one way that FinTech
+      can meet these regulatory requirements.
+    o     Application of Data Protection by Design and by Default Principles
+              Financial institutions must comply with a range of regulations, including Anti-Money
+            Laundering (AML) and Know-Your-Customer (KYC)  requirements,  as  well  as
+              regulations  related  to consumer  protection,  privacy, and data  security. These
+              regulations are designed to protect consumers and prevent financial crimes such as
+              fraud, money laundering, and terrorist financing. Data Protection by Design and by
+             Default (DPbDD) is a set of principles that encourage the integration of data protection
+           measures into the design and development of systems, products, and services. This
+            approach aims to ensure that privacy and data protection are built into the core of a
+             product or service rather than added as an afterthought. Therefore, DPbDD principles
+            can help to ensure that FinTech are in compliance with regulations. Because of the
+              sensitive  financial  data  processing, we can  expect sharpening  the  regulatory
+             challenges and severe consequences of not following them. Therefore, incorporating
+         DPbDD principles will be an indispensable part of building compliant solutions.
+    o     Regulators In India
+           RBI has been instrumental  in enabling the development of FinTech sector and
+            espousing a cautious approach in addressing concerns around consumer protection
+           and law enforcement. The key objective of the regulator has been around creating an
+            environment for unhindered innovations by FinTech, expanding the reach of banking
+             services for unbanked population, regulating an efficient electronic payment and
+              providing alternative options to the consumers. FinTech enablement in India has been
+           seen primarily across payments, lending, security/biometrics and wealth management.
+           These have been the prime focus areas for RBI, and we have seen significant
+            approaches published for encouraging FinTech participations.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.11
+
+           For example - Introduction of “Unified Payment Interface” with National Payments
+             Corporation of India (NPCI), which holds the potential to revolutionize digital payments
+           and take India closer to objective of “LessCash” society.
+    o    Cyber security and FinTech: Since the early 1990s (accelerated in 2000s) with entry
+               of New Pvt. Sector banks, the PSU banks have also embraced technology by leaps
+           and bounds in the last decade or so. But the key shift has been brought in by consumer
+          demand for real-time and always ON (anytime/anywhere) banking aided by growing
+          demand coming from explosive growth in use of personal computing devices and
+               internet connectivity, innovative products (plastic cards, now contactless cards, future
+                   - internet of things) by consumers. The banks have also been trying to make their
+            processes more efficient and continuously looking for ways to leverage enhanced level
+               of engagement with customers with a view to offering innovative products and services
+            keeping in view cost, convenience, and profitability factors. Being a largely service
+           based industry, there is a high degree of dependency on technology for delivering
+             services (be  it from sourcing to servicing) by banks and competitive pressures to
+              continually innovate to retain customers in the wake of entry of niche players/new
+              players/entrants (banks, small finance banks, payment banks).
+           The advancements in technology and shift in consumer preferences driven by (SMAC
+           – Social media, Mobility (Mobile Computing), Analytics (Big data), Cloud computing,
+                etc.) have  further  brought on  opportunities and  challenges  in terms  of  their
+                utility/efficiency, complexity of products, deployment architecture, accompanied by
+              persistent concerns over consumer protection in this era of instant communication and
+               real time transactions, sometimes through opaque channels. Along with the benefits
+               that  the  technology advancements have  brought  in,  with  increased  reach  of
+              connectivity (internet) and geopolitical/macro-economic factors, cyber-attacks are on
+             the rise and may well continue in the future with connected devices set to exceed the
+          human population at some point in the future. Cyber Security is an issue that has been
+            growing in importance with the advancements in technology. From a securities market
+              point of view, some developed jurisdictions have observed cases of hacking of trading
+            accounts for market manipulation.
+    o    Customer Data Protection (CDP): The FinTech entities are heavily dependent on
+             technology for each and every product they offer to their consumers. These entities
+          may collect various personal and sensitive information about the customer and
+          become the owners/custodians of such data. Therefore, the onus of CDP lies with
+             these entities ranging from data Preservation, Confidentiality, Integrity, and Availability
+               of the same, irrespective of whether the data is stored/in transit within themselves or
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+12.12           DIGITAL ECOSYSTEM AND CONTROLS
+
+              with customers or with the third-party vendors. The confidentiality of such custodial
+              information should not be compromised at any situation and to this end, suitable
+            systems and processes across the data/information lifecycle need to be put in place
+            by FinTech.
+            Section 43A of the Information Technology Act, 2000, provides for payment of
+            compensation by a body corporate in case of negligence in implementing reasonable
+              security practices and procedures in handling sensitive personal data or information
+               resulting in wrongful loss to any person.
+               In terms  of Section 72A  of  IT  Act;  disclosure  of  information, knowingly and
+               intentionally, without the consent of the person concerned and in breach of the lawful
+              contract has been also made punishable with imprisonment for a term extending to
+             three years and  fine. Hence, that data protection  is generally governed by the
+              contractual relationship between the parties, and the parties are free to enter into
+              contracts to determine their relationship defining the terms personal data, personal
+              sensitive data, its dissemination, etc. As such, it may be necessary to emphasize the
+           need for an exhaustive stand-alone legislation on data protection in India keeping in
+           mind the innovations  in FinTech and risk to personal data which comes to the
+            possession of these entrepreneurs.
+    o     Classification of Customer Organization Data (CCOD): The FinTech entities should
+               classify data/information based on information classification / sensitivity criteria of the
+              organization.  It becomes important to appropriately manage and provide protection
+              within and outside organization borders/network taking into consideration how the
+              data/information are  stored,  transmitted, processed, accessed, and  put  to use
+              within/outside the bank’s network, and level of risk they are exposed to depending on
+             the sensitivity of the data/information.
+    o    Adherence to Safe Transaction Principles (STP): A transaction in the IT parlance
+                 is termed as successful, if the transaction does not suffer from loss of Confidentiality,
+              loss of Integrity, and loss of Availability. These three together are referred to as the
+              Security Triad/the CIA Triad. The three consequences of lack of CIA leads to “Data
+           Leakage  to  Unauthorized  Parties”,  “Data  Tampering/Destruction  by  an
+            Unauthorized Party”, “Non-Availability of the Data/System at times it is really
+            needed”. The FinTech entities need to satisfy these principles in order to build faith
+                in the new ecosystem.
+    o     Configuration/Patch Management Systems: The FinTech entities should install
+            systems and processes to identify, track, manage and monitor the status of patches
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.13
+
+               to operating system and application software running at end-user devices directly
+            connected    to   the    internet   and    in   respect    of   Server   operating
+             Systems/Databases/Applications/ Middleware, etc.
+    o     Audit Log Management System (ALMS): The FinTech entities should implement
+         ALMS to periodically validate settings for capturing of appropriate logs /audit trails of
+           each device, system software and application software, ensuring that logs include
+           minimum information to uniquely identify the log for example by including a date,
+             timestamp, source addresses,  destination addresses, and various  other  useful
+            elements of each packet and/or event and/or transaction.
+    o     Incident Response & Management Framework (IRMF): The FinTech entities need
+               to have clear procedures for responding to cyber incidents and a mechanism for
+             dynamically recovering from cyber threats. Technical progress fosters innovation, but
+                        it also entails new risks. At the same time, the primary mandate of the regulator is to
+              protect the users of financial services and the stability of the financial system. The two
+             issues the regulator needs to focus on are firstly the threat of cyber-attacks and
+            secondly the risks related to the outsourcing of certain traditional bank activities.
+X.    Evolution of Digital Currency as Alternative Currency: Various innovative money payment
+      systems in the market have arrived with smart phones, Internet, and digital storage cards.
+     The emergence of this class of digital payment systems has revolutionized the way values
+      are being transferred. The latest and most interesting form of value transfer was created by
+      Satoshi Nakamoto (2008). Satoshi’s Bitcoin is now a well-known system of cross border value
+       transfer for untrusted parties without a centralized authority.
+       Bitcoin, commonly abbreviated as “BTC” is a medium of exchange, a store of value and a unit
+       of  account. Conventionally,  the uppercase “Bitcoin”  refers  to the network and
+      technology, while the lowercase “bitcoin(s)” refers to units of the currency.
+     Some technical terms
+     Few technical terms that will be used in the chapter often are explained below:
+    o    Open Source: The term “open source” means that something people can modify and
+            share because its design is publicly accessible. This will allow trusted core developers
+               to verify and suggest changes for the code to be adopted by the network.
+    o     Centralized Network: This is a network where all users are connected to a single or
+              central server that acts as an agent for all communications. The centralized server
+             stores both the communications and user account information. It is important to note
+               that while the  computing power can be distributed Digital Currency network like in
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+12.14           DIGITAL ECOSYSTEM AND CONTROLS
+
+            case of  Cryptocurrency, a single entity does not control the entire network. Unlike
+              centralized systems like Google and Facebook, these decentralized networks operate
+              without a single controlling authority.
+    o     Decentralized Networks: A server based decentralized network has no single entity
+               that controls the network. The computing power  is distributed. There must be a
+            consensus algorithm and it has to handle crashes and faults. Any permitted entity can
+           be read and write data while clients can maintain anonymity, validators (or nodes
+            confirming  transactions)  often  operate  without  anonymity.  Examples   of
+             decentralized networks include Corda and Multichain.
+    o     Fully Server-free or Public Decentralized Network: In this type of network, no single
+               entity controls the system, and computing is distributed. The consensus algorithm
+           must be robust enough to handle crashes, Byzantine Faults, and sybil Attacks. Both
+               clients and validators maintain anonymity. Participants can freely read and write data.
+            Notable examples of such networks include Bitcoin and Ethereum.
+    o     Distributed Network: This refers to a system where computer programming and data
+             are distributed across multiple computers without reliance on a centralized server or
+               control.
+    o     Peer-to-Peer (P2P): In  its simplest form, two or more personal computers are
+            connected and share resources without going through a server computer. A P2P
+            network is created when two or more computers are connected in that way.
+      Bitcoin features
+    o     Bitcoin is a decentralized peer-to-peer (P2P) digital currency network designed for the
+               verification and processing of transactions.
+    o     Unlike  traditional  systems  relying  on  trusted  third  parties,  Bitcoin  employs
+             cryptographic proof in its computer software.
+    o     This  cryptographic  proof-of-work mechanism  verifies  the  legitimacy  of  bitcoin
+              transactions and records them in a decentralized ledger.
+    o      Crucially, Bitcoin is not a fiat currency issued by a central government or its authorized
+            agents
+    o        It lacks backing as legal tender by any physical commodity. Nevertheless, similar to
+                  fiat currencies, the value of bitcoin is determined by the principles of supply and
+          demand rather than the intrinsic value of  its material. Bitcoin exists as a virtual
+             currency, residing in a computer database or ledger.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.15
+
+    o    The Bitcoin software protocol is open source, allowing developers to contribute and
+           enhance its functionalities. This collaborative effort has led to a flourishing Bitcoin
+            community.
+    o    The power to modify the Bitcoin protocol lies with miners and developers. However,
+              neither miners nor developers can unilaterally enforce changes to the protocol without
+           a fork, which involves breaking compatibility with the rest of the network.
+
+    12.2 ARTIFICIAL INTELLIGENCE
+Artificial Intelligence (AI) is a wide-ranging branch of computer science concerned with building
+smart machines capable of performing tasks that typically require human intelligence. While AI is an
+inter-disciplinary science with multiple approaches, advancements in machine learning and deep
+learning in particular are creating a paradigm shift in virtually every sector of the tech industry. AI is
+redefining the way business processes are carried out  in various  fields, such as marketing,
+healthcare, financial services, and more. Companies are continuously exploring the ways they can
+reap benefits from this technology. As the quest for improvement of current processes continues to
+grow,  it makes sense for professionals to gain expertise in AI. When you enter a dark room, the
+sensors in the room detect your presence and turn on the lights. This is an example of non-memory
+machines. Some AI programs are able to identify your voice and perform an action accordingly. If
+you say, “turn on the TV”, the sound sensors on the TV detect your voice and turn it on.
+Benefits of AI and ML in Business Organization: For Finance function
+♦    The development  of Robotic Process Automation (RPA)  in many companies are run
+      unattended to automate large volumes of specific accounting processes that are structured
+      and repetitive, such as data entry and reconciliation activities. When deployed at scale, RPA
+      has the potential to act like a virtual workforce and position the accounting profession to
+       provide higher value functions and activities.
+♦    Beyond automation, AI technologies can further be used to analyze large quantities of data
+       at speed and at scale.  It has the ability to detect anomalies in the system and optimize
+       workflow. Finance professionals can use AI to assist with business decision-making, based
+      on actionable insights derived from customer demographics, past transactional data, and
+       external factors, all in real-time.
+♦    By implementing automated anti-fraud and finance management systems, practices can also
+        significantly improve compliance procedures and protect both their own and clients’ finances.
+       In this way, AI technology and accountants can work together to provide a more predictive,
+       strategic function.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+12.16           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦     AI will provide businesses with the ability to capture business activity in real time, perform
+      continuous reconciliation and make adjustments such as accruals throughout the month. This
+         will also help reduce the burden at the end of the period.
+♦     AI can also facilitate effective continuous audit, significantly reducing risks of financial fraud
+      and minimize accounting errors, often caused by human interaction.
+Benefits of AI and ML in Business Organization: Beyond the Finance function
+♦    Customer and stakeholder satisfaction: As businesses use robots and automated data
+       analysis through social networks, websites, email exchanges and other data sources, it is in
+       the integration of the data from various sources that will create the actionable insights for the
+       business.
+♦     Security: AI deployment in finance can also allow businesses to find breaches in security
+      systems  to be detected as  well as  to explore  solutions.   It  will be able  to analyze
+      documentation for account registration and detect issues within accounts for instance.
+♦    Risk management: It is difficult to overestimate the potential impact and benefits of AI when
+            it comes to risk management. Enormous processing power allows vast amounts of data to be
+      handled in a short time, and cognitive computing can help to manage both structured and
+       unstructured data, a task that would take far too much time for humans to do effectively.
+♦    Fraud prevention: AI has been very successful in battling financial fraud and is getting
+      enhanced as AI is becoming more widely adopted. Fraud detection systems can analyze
+        clients’ behavior, location, and buying habits and  trigger a security mechanism when
+      something seems out of the ordinary and contradicts established spending patterns for
+       instance.
+♦    Process automation: Forward-thinking industry leaders are looking to RPA when they want
+       to cut operational costs and boost productivity. AI-enabled software can also be used to verify
+      data and generate reports automatically according to the given parameters, as well as review
+      documents, and extract meaningful insights from the data being processed.
+TYPES OF ARTIFICIAL INTELLIGENCE
+Artificial Intelligence can be divided into various types as shown in Fig. 12.1. There are mainly two
+types of main categories which are based on ‘Capabilities’ and based on ‘Functionalities’ of AI
+and discussed in detail in Table(s) 12.1 and 12.2 respectively.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.17
+
+
+                                          Artificial
+                                   Intelligence
+
+             Based On                      Based on
+               Capabilities                        Functionalities
+
+                                                                     Limited    Weak/Narrow       General          Reactive                                                      Memory
+
+
+       Super                                       Theory of Mind      Self Aware
+
+                                  Fig. 12.1: Classification of AI
+                    Table 12.1: AI Classification - Based on Capabilities
+        Weak/Narrow AI                 General AI                Super AI
+ Narrow AI is a type of AI which  General  AI  is  a  type  of  Super  AI  is  a  level  of
+ can perform a dedicated task with   intelligence  which  could   Intelligence of Systems at
+ intelligence. The most common  perform  any   intellectual  which   machines   can
+ and  currently  available  AI   is   task with efficiency  like a  surpass         human
+ Narrow AI in the world of Artificial  human. The idea behind the   intelligence   and   can
+ Intelligence.  Narrow  AI  cannot  general AI is to make such  perform  any  task  better
+ perform  beyond   its   field   or  a system which could be  than    humans     with
+ limitations, as it is only trained for  smarter and  think  like  a   cognitive properties.  It  is
+ one specific task. Hence it is also  human   on     its   own.  an outcome of general AI.
+ termed as weak AI. Narrow AI can   Currently, there is no such  Some key characteristics
+  fail  in  unpredictable ways   if   it  system which could come   of   strong   AI   include
+ goes beyond its limits.            under general AI and can   capability   include   the
+                                  perform any task as perfect   ability to think, to reason,
+                                 as a human. The worldwide  solve  the  puzzle, make
+                                   researchers    are   now  judgments,   plan,   learn,
+                                  focused   on   developing  and communicate on  its
+                               machines with General AI.   own.
+ Apple Siri is a good example of  Systems  with  general  AI  Super   AI    is     still   a
+ Narrow AI, but  it operates with a  are still under research and   hypothetical  concept   of
+ limited   pre-defined  range   of     it will take lots of effort and   Artificial       Intelligence.
+ functions. Some other examples  time   to   develop   such  Development    of   such
+ are  playing  chess,  purchasing  systems.                  systems  in  real  is   still
+ suggestions on e-commerce site,                               world changing task.
+ self-driving  cars,  speech,  and
+ image recognition.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+12.18           DIGITAL ECOSYSTEM AND CONTROLS
+
+
+                Table 12.2: AI Classification - Based on Functionalities
+    Reactive AI         Limited Memory AI       Theory-of-mind AI    Self-aware AI
+ Reactive  AI uses  Limited   memory    AI can  Theory-of-mind AI is  Self-aware    AI,
+ algorithms      to  adapt to past experience or   fully  adaptive  and  as   the  name
+ optimize  outputs  update  itself based on new  has  an   extensive  suggests,
+ based on a set of  observations or data. Often,   ability  to  learn and  become sentient
+ inputs.  This  kind   the amount  of updating  is   retain           past  and  aware   of
+ of  AI   is  purely   limited, and  the  length  of  experiences.  These   their      own
+ reactive and does  memory  is  relatively  short.   AI   machines   can   existence.  This
+ not   have    the  This  kind  of  AI uses past   socialize       and   is the  future  of
+ ability   to   form  experiences and the present  understand  human   AI.      These
+ ‘memories or use  data  to make  a  decision.  emotions  and   will  machines will be
+ ‘past experiences’  Limited memory means that  have  the  ability  to  super-
+ to        make   the machines are not coming   cognitively               intelligent,
+ decisions.  These  up  with new  ideas.  They  understand             sentient    and
+ machines     are  have  a   built-in  program  somebody based on  conscious.
+ designed        to  running     the    memory.   the     environment,
+ perform   specific  Reprogramming  is done  to   their  facial features,
+ tasks.           make  changes   in  such   etc.
+                   machines.
+ For  example    -   Self-driving     cars     are  Machines  with such  They are able to
+ Chess-playing     examples of limited memory   abilities  have   not   react very much
+ AIs, for example,   AI.   Autonomous  vehicles,  been developed yet.   like  a  human
+ are       reactive   for example, can "read the  There   is  a   lot  of   being,  although
+ systems       that  road" and  adapt  to  novel  research  happening  they are likely to
+ optimize the best   situations,  even  "learning"   with this type of AI.    have  their own
+ strategy to win the  from past experience.                                  features.  Still in
+ game. Reactive AI                                                         the   realm   of
+ tends to be  fairly                                                     science   fiction,
+ static,  unable  to                                           some    experts
+ learn or adapt to                                                         believe  that an
+ novel   situations.                                                         AI    will   never
+ Thus,       it     will                                            become
+ produce the same                                                    conscious     or
+ output      given                                                                   "alive".
+ identical inputs.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.19
+
+
+                                               Artificial Intelligence (AI)
+                                                 • Development of smart systems
+                                and machines that can carry out
+                                      tasks (sense, reason,  act and
+                                     adapt)   that   typically   require
+                             human intelligence.
+
+                                    Machine Learning (ML)
+                                                    • Creates     algorithms    whose
+                                     performance improve as they are
+                                   exposed to more data over time.
+                                      Require human intervention when
+                                         decision is incorrect.
+
+
+                                  Deep Learning (DL)
+                                           • Subset of Machine learning which uses an
+                                              artificial  neural network  to  reach  accurate
+                                 conclusions without human intervention.
+
+
+                          Fig. 12.2: Distinction between AI, ML and DL
+Refer Fig. 12.2 to know broadly the distinction between AI, ML and DL.
+Machine Learning (ML) is the science and art of programming computers so that they can learn
+from data. It is a subset and application of AI that provides the system with the ability to automatically
+learn without being explicitly programmed. For example, spam filter is a type of machine learning
+that learns to recognize spam e-mails by figuring out the words and patterns commoly found in spam.
+Deep Learning (DL) is a relatively new set of methods that is changing machine learning in
+fundamental ways. DL isn’t an algorithm per se, but rather a family of algorithms that implements
+deep networks (many layers). These networks are so deep that new methods of computation, such
+as Graphics Processing Units (GPUs), are required to train them, in addition to clusters of compute
+nodes. DL works very well with large amounts data, and whenever a problem is too complex to
+understand and engineer features (due to unstructured data, for instance). DL almost always
+outperforms the other types of algorithms when it comes to image classification, natural language
+processing and speech recognition. For example - Virtual Assistants like Amazon Alexa, Siri, and
+Google Assistant need internet-connected devices to work with their full capabilities. Each time a
+command is fed to them, they tend to provide a better user experience based on past experiences
+using Deep Learning algorithms. Currently, the larger the neural network and the more data that can
+be added to it, the better the performance a neural network can provide.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+12.20           DIGITAL ECOSYSTEM AND CONTROLS
+
+DL is very powerful, but it has a couple of drawbacks. It’s almost impossible to determine why the
+system came to a certain conclusion. This is called the “black box” problem, though there are now
+many available techniques that can increase insights in the inner workings of the DL model. Also,
+deep learning often requires extensive  training  times, a  lot  of data and  specific hardware
+requirements, and it’s not easy to acquire the specific skills needed to develop a new DL solution to
+a problem. In conclusion, there is no one algorithm that can fit or solve all problems. Success really
+depends on the problem user needs to solve and the data available to him/her.
+
+                   Illustration on Artificial Intelligence – Nike & Starbucks
+
+ The world’s biggest shoe brand Nike has launched an AI system that enables customers to design
+  their own sneakers in their online store. Not only it is a secret to improve sales, but also collects
+ useful data about customers that ML algorithms can use to design future sneakers and provide
+ personalized recommendations.
+ Starbucks uses its mobile app and loyalty card to collect and analyze customers’ information
+ including, the place and time of product made and time, and sales. The firm uses Predictive
+ Analytics to process this useful data to offer personalized messages to customers, including
+ recommendations when they reach their local retail stores and with the goal of improving their
+ average cost. The virtual barista service in the AI-based application allows people to place orders
+  directly through voice command in their mobile device.
+
+    12.3 BLOCKCHAIN
+A Blockchain is a data structure that makes it possible to create a digital ledger of data and share
+it among a network of independent parties. A blockchain is like a giant spreadsheet for registering
+all assets, and an accounting system for transacting them on global scale that can include all form
+of assets held by all parties worldwide. It is a shared, decentralized, and open ledger of transactions.
+This ledger database is an append-only database which cannot be altered but can be replicated
+across many nodes. It means that every entry is a permanent entry. Any new entry on it gets reflected
+on all copies of the databases hosted on different nodes and thus there is no need for trusted third
+parties to serve as intermediaries to verify, secure, and settle the transactions. It is another layer on
+top of the Internet and can coexist with other Internet technologies.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.21
+
+I.    Types of Blockchain (Refer Fig. 12.3): All three types of blockchains use cryptography to
+allow each participant on any given network to manage the ledger in a secure way without the need
+for a central authority to enforce the rules. The removal of central authority from database structure
+is one of the most important and powerful aspects of blockchains. In the blockchain ecosystem, any
+asset that is digitally transferable between two people is called a token ie.. tokens are assets that
+allow information and value to be transferred, stored, and verified in an efficient and secure manner.
+These crypto tokens can take many forms and can be programmed with unique characteristics based
+on which they have different classification. Basically blockchain  is categorized  in two types-
+permissioned and permissionless blockchain.
+Permissioned blockchain restricts the number of nodes which may access the network and its
+potential access rights. The users in permissioned blockchain are aware of the identity of the other
+users of that blockchain. Permissioned blockchain is further divide into two categories- Private and
+consortium
+In Permissionless blockchain, there is no central authority to give the permission for accessing
+the network. Therefore, due to large number of nodes and extent of transaction, this type of
+blockchains has slow transaction processing rates. The Public Blockchain falls under this category.
+There  is more type  of Blockchain  i.e. Hybrid Blockchain which has the features  of both
+Permissioned and Permissionless Blockchain.
+
+                                          Blockchain
+
+
+                                                                   Permissionless   Permission Blockchain                                                                   Blockchain
+                                 Hybrid Blockchain
+
+       Private         Consortium                                        Public
+
+
+                                 Fig.12.3 Types of Blockchain
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+12.22           DIGITAL ECOSYSTEM AND CONTROLS
+
+
+                           Consortium  Public Blockchains                                Private Blockchains      Hybrid Blockchain                             Blockchain
+  • Public  blockchains,        • Consortium                    • Private  blockchains        • Hybrid   blockchain
+  such as Bitcoin, are       blockchains  are  a       tend  to be  smaller      enables the features
+   large,     distributed       hybrid     between      and do not utilize a        of both private and
+  networks   that  are       public  and  private       token.         Their       public blockchain.  It
+   run through a native       blockchains.   They      membership         is       allows           the
+   token.                    are controlled by a       closely controlled.          organization       to
+  • They  are open  for      group              of        • These   types    of      choose  who   can
+  anyone             to       organizations,  and       blockchains     are      access  the  certain
+   participate   at  any        participation         is       favored          by       data of block chain
+   level   and   have        limited     to     the       consortiums     that      and which data can
+  open-source   code     members    of   the      have         trusted      be made  public.   It
+   that their community       consortium.            members and trade      works    in   closed
+   maintains.                      • there  is a  validator        confidential               environment, hence
+                         node which inititate,       information.               prevent      outside
+                              receive and validate                               hacker  to  enter  in
+                              the transaction.                                      network.
+
+                       Fig. 12.4: Detail of various types of Blockchain
+II.    The Structure of Blockchain (Refer Fig. 12.5): Blockchains are composed of three core
+       parts:
+    o     Block: A list of transactions recorded into a ledger over a given period. The size,
+              period, and triggering event  for blocks  is different  for every blockchain. Not  all
+             blockchains  are  recording and  securing a  record  of  the movement  of  their
+             cryptocurrency as their primary objective. But all blockchain do record the movement
+               of their cryptocurrency or token. Think of the transaction as simply being the recording
+               of data. Assigning a value to it (such as happens in a financial transaction) is used to
+               interpret what that data means.
+    o     Chain: A hash that links one block to another, mathematically “chaining” them
+              together. This is one of the most difficult concepts in blockchain to comprehend. It’s
+             also the magic that glues blockchains together and allows them to create mathematical
+                trust. The hash in blockchain is created from the data that was in the previous block.
+           The hash is a fingerprint of this data and locks blocks in order and time. Although
+             blockchains are a relatively new innovation, hashing is not. For practical purposes,
+              think of a hash as a digital fingerprint of data that is used to lock it in place within the
+             blockchain.
+    o    Network: The network is composed of “full nodes.” Think of them as the computer
+             running an algorithm that is securing the network. Each node contains a complete
+             record of all the transactions that were ever recorded in that blockchain. The nodes
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.23
+
+             are located all over the world and can be operated by anyone. It’s difficult, expensive,
+           and time-consuming to operate a full node. They’re incentivized to operate a node
+           because they want to earn cryptocurrency. The underlying blockchain algorithm
+            rewards them for their service. The reward is usually a token or cryptocurrency, like
+               Bitcoin.
+
+                             A user requests a transaction.
+
+
+                              The request is transmitted to the network.
+
+
+                   The network validates the transaction or the transaction is kicked out.
+
+
+                      The transaction is added to the current "block" of transaction.
+
+
+                The block of transactions is then chained to the older blocks of transactions.
+
+
+                                   The transaction is confirmed.
+
+                                Fig. 12.5: Working of Blockchain
+      Blockchains  create permanent  records and  histories  of  transactions,  but  nothing  is
+      permanent. The permanence of the record is based on the permanence of the network. In
+       context of blockchain, this means that a large portion of a blockchain community would all
+      have to agree to change the information and are motivated not to change the data. When
+      data is recorded in a blockchain, it’s extremely difficult to change or remove it. When someone
+      wants to add a record to a blockchain, also called a transaction or an entry, users in the
+      network who have validation control verify the proposed transaction. This is where things get
+        tricky because every blockchain has a slightly different spin on how this should work and who
+      can validate a transaction.
+III.   Why Blockchains matter?
+      Blockchain technology is a decentralized, distributed, and public ledger that is used to record
+       transactions across many computers within a network. Because of its design and properties,
+      blockchain is secure, transparent, and nearly impossible to alter.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+12.24           DIGITAL ECOSYSTEM AND CONTROLS
+
+     When information has been written into a blockchain database,  it’s nearly impossible to
+      remove or change it. This capability has never existed before and thus blockchains can create
+        trust in digital data. When data is permanent and reliable in a digital format, user can transact
+      business online in ways that, in the past, were only possible offline. Everything that has
+      stayed analog, including property rights and identity, can now be created, and maintained
+       online. Slow business and banking processes, such as fund settlements, can now be done
+       nearly instantaneously. The implications for secure digital records are enormous for the global
+      economy.
+IV.    Features of Blockchain
+    o     Decentralized: Blockchain is based on a peer-to-peer network design—where each
+               participant, or node, in the network is equal to all others. This means there is no
+               controlling central authority that can unduly influence the system. The rules and
+             behaviors of the network are embedded within the software protocol. The larger the
+            network grows, the more standardized rules and behaviors are propagated, making it
+              increasingly unlikely that any one actor, or multiple actors, could maliciously change
+             the system’s behavior.
+    o     Distributed: Each node on the network contains a complete copy of the entire ledger,
+            from the  first block created—the genesis block—to the most recent one. This
+               distributed approach increases the overall resiliency and security of the system. If any
+           node or collection of nodes goes offline, the system will continue to function. In the
+              Bitcoin example, its ledger holds every transaction ever done on every participating
+           node for past years.
+    o     Distributed consensus: This mechanism enables the  entire network  to reach
+            agreement about which blocks of transactions are valid and which ones are not,
+             enabling peer-to-peer value exchange without involving a trusted  third party or
+             intermediary for that consensus.
+    o    Tamper proof (immutability): Each transaction must be digitally signed using a
+               participant’s private encryption key, which is kept only by the signer. The digital
+             signature on a transaction can be validated by a signer’s corresponding public key.
+             Public keys, as the name implies, are designed to be shared with anyone. This ensures
+           a transaction can only be created by the holder of a specific private key. Once a
+              transaction signature is validated, a transaction is cryptographically bound, through a
+            mathematical algorithm called “hash.” The hash function creates a unique digital
+               fingerprint for the transaction. Transactions are then hashed with other transactions
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.25
+
+               into a block. When a block of transactions has been accepted by the network,  it is
+              cryptographically bound to the ledger and distributed to all the nodes on the network.
+    o    Transparency: The distributed ledger contains a  full history of every transaction,
+             enabling traceability of each asset—digital coin or other asset tracked by the ledger—
+            back to its origin. With the distributed ledger published openly to every node on the
+             network,  it is easy for a network participant to unambiguously determine the current
+           and past states of assets within the ledger. This creates a highly available, auditable
+                   trail of activities for each asset that has contributed to the current system state.
+    o     Distributed system: Whether a system is centralized or decentralized, it can still be
+               distributed. A centralized distributed system is one in which there is, say, a master
+           node responsible for breaking down the tasks or data and distribute the load across
+            nodes. On the other hand, a decentralized distributed system is one where there is no
+             “master” node as such and yet the computation may be distributed. Blockchain is one
+            such example.
+V.    Benefits of Blockchain
+     The benefits of blockchain-based transfers for merchants include the following (Refer Fig.
+       12.6):
+
+           Reduced fees: When customers pay with a credit card, merchants pay processing
+              fees  that  cut  into  profit.  Blockchain  payments  reduce  or  eliminate  fees  by
+               streamlining the transfer process.
+
+
+             Preventing Insufficient Funds: Traditional payments, especially via cheques, can
+                 result  in  losses and  additional  fees  for merchants due  to  insufficient  funds.
+              Blockchain-based payments offer merchants the assurance of a valid transaction
+                within seconds or minutes, reducing the risk and inconvenience associated with
+                 insufficient funds
+
+
+            Improved Payment Security: The most secure payment methods  traditionally
+               include cash, wire transfers, and cashier’s cheques. However, cash transactions lack
+                 traceability,  wire  transfers can be time-consuming, and  cashier’s cheques are
+               susceptible  to  forgery.  Blockchain-based  payments  address  these  concerns,
+               providing a solution that removes these issues and  instills greater confidence in
+               transactions.
+
+
+                                Fig. 12.6: Benefits of Blockchain
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+12.26           DIGITAL ECOSYSTEM AND CONTROLS
+
+VI.    Applications of Blockchain: Blockchain applications are built around the idea that the
+      network is the arbitrator. Computers don’t have the same social biases and behaviors as
+     humans do and their code becomes law and rules are executed as they were written and
+       interpreted by the network. Insurance contracts arbitrated on a blockchain have been heavily
+       investigated as a use case built around this idea. Another interesting thing that blockchains
+      enable is impeccable record keeping. They can be used to create a clear timeline of who did
+      what and when. Many industries and regulatory bodies spend countless hours trying to
+      assess this problem. Blockchain-enabled record keeping will relieve some of the burdens that
+      are created when we try to interpret the past.
+       1.    Cryptocurrencies:The first and most well-known application of blockchain, Bitcoin
+            uses a blockchain to enable secure and decentralized digital currency transactions.
+       2.    Supply Chain Management: Blockchain helps enhance transparency and traceability
+                in supply chains by recording every transaction and movement of goods. This reduces
+              fraud, errors, and inefficiencies.
+       3,    Cross-Border  Payments:  Blockchain  simplifies  and  accelerates  cross-border
+           payments by providing a decentralized and transparent ledger. This reduces the need
+                for intermediaries and minimizes delays and costs.
+       4.    Healthcare Data Management: Blockchain secures the storage and sharing of
+             healthcare records. Patients can grant access  to  their data securely, ensuring
+               interoperability and data integrity.
+       5.    Real Estate: Blockchain simplifies and secures real estate transactions by providing
+             transparent and unalterable records  of property ownership, reducing fraud and
+              disputes.
+       6.    Food Safety: In the food industry, blockchain can be used to trace the origin and
+             journey of food products from farm to table, ensuring safety and authenticity.
+       7.    Insurance: Blockchain enhances  the transparency and  efficiency  of insurance
+             processes, including claims processing, policy issuance, and fraud prevention.
+
+                                Illustration on Blockchain – Voting System
+       Using blockchain technology, personal identity information can be held on blocks and then
+              it can be ensured that nobody votes twice, only eligible voters are able to vote, and votes
+       cannot be tampered with. What's more,  it can increase access to voting by making  it as
+        simple as pressing a few buttons on your smartphone, thereby reducing the cost of running
+       an election substantially.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.27
+
+    12.4 CLOUD COMPUTING
+To understand Cloud Computing, we first must understand what the cloud is. “The Cloud” refers to
+applications, services, and data storage on the Internet. These service providers rely on giant server
+farms and massive storage devices that are connected via Internet protocols. Cloud Computing is
+the use of these services by individuals and organizations. We probably already use cloud computing
+in some forms. For example, if we access our e-mail via our web browser, we are using a form of
+cloud computing. If we use Google Drive’s applications, we are using cloud computing. While these
+are free versions of cloud computing, there is big business in providing applications and data storage
+over the web. Salesforce is a good example of cloud computing as their entire suite of CRM
+applications are offered via the cloud. Cloud Computing is not limited to web applications; it can also
+be used for services such as phone or video streaming. The best example of Cloud Computing is
+Google Apps where any application can be accessed using a browser and  it can be deployed on
+thousands of computers through the Internet.
+Cloud Computing simply means the use of computing resources as a service through networks,
+typically the Internet. The Internet  is commonly visualized as clouds; hence the term “cloud
+computing” for computation done through the Internet. With Cloud Computing, users can access
+database resources via the Internet from anywhere, for as long as they need, without worrying about
+any maintenance or management of actual resources. Besides these, databases in cloud may be
+highly dynamic and scalable. In fact, it is a very independent platform in terms of computing.
+Cloud Computing is both a combination of software and hardware-based computing resources
+delivered as a networked service. This model of IT enabled services enables anytime access to a
+shared pool of applications and resources. These applications and resources can be accessed using
+a simple front-end interface such as a Web browser, and thus enabling users to access the resources
+from any client device including notebooks, desktops, and mobile devices.
+Cloud Computing provides the  facility to access shared resources and common infrastructure
+offering services on demand over the network to perform operations that meet changing business
+needs (shown in Fig. 12.7). The location of physical resources and devices being accessed are
+typically not known to the end user.  It also provides facilities for users to develop, deploy, and
+manage their applications ‘on the cloud’, which entails virtualization of resources that maintains and
+manages itself.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+12.28           DIGITAL ECOSYSTEM AND CONTROLS
+
+
+                            Fig. 12.7: Cloud Computing Scenario
+With cloud computing, companies can scale up to massive capacities in an instant without having to
+invest in new infrastructure, train new personnel or license new software. Cloud computing is of
+benefit to small and medium-sized business systems, who wish to completely outsource their data-
+center infrastructure; or large companies, who wish to get peak load capacity without incurring the
+higher cost of building larger data centers internally. In both the instances, service consumers use
+‘what they need on the Internet’ and ‘pay only for what they use’.
+The service consumer may no longer be required to pay for a PC, use an application from the PC,
+or purchase a specific software version that is configured for smart phones, PDAs, and other
+devices. The consumers may not own the infrastructure, software, or platform in the cloud-based
+schemes, leading to lower up-fronts, capital, and operating expenses. End users may not need to
+care about how servers and networks are maintained in the cloud and can access multiple servers
+anywhere on the globe without knowing ‘which ones and where they are located’.
+I.     Characteristics of Cloud Computing: The following is a list of characteristics of a cloud-
+      computing environment. Not all characteristics may be present in a specific cloud solution.
+      However, some of the key characteristics as defined by National Institute of Standards and
+      Technology (NIST), the American Standards Body are as follows:
+    o   On demand  Self-service: For  the  provision,  monitoring, and management  of
+            computing resources, there is no client interaction with human administrators. The
+                client can unilaterally provision computing resources, such as server processing time,
+              storage, and so on, automatically and as needed, without requiring human interaction
+              with the service vendor.
+    o    Broad network access: Vendors deliver cloud computing resources over standard
+            networks and heterogeneous devices, possibly the Internet. ICT (Information and
+           Communication Technology) capabilities are available over the network and are
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.29
+
+            accessed through standard mechanisms, including many devices such as thin or thick
+                client platforms (for example mobile phones, laptops, and smartphones).
+    o    Wide elasticity: ICT resources can be provisioned to scale up quickly or be released
+               rapidly to scale down fast. To the client, the capabilities available for provisioning might
+            appear to be infinite, as they can potentially be purchased in any quantity and at any
+              time.
+    o    Resource pooling: The ICT resource vendors serve all clients using a multitenant
+            model. Different physical and virtual resources are dynamically assigned and re-
+            assigned according to the client demand. Examples of resources include storage,
+             processing, memory, network bandwidth, and Virtual Machines (VM).
+    o    Measured service: ICT resource utilization is measured for each application and for
+           each tenant for public cloud  billing or private cloud chargeback. Cloud systems
+              automatically control and optimize resource usage by leveraging a metering capability.
+             This should be appropriate to the type of service (for example storage, processing,
+             bandwidth, and active client accounts). Resource consumption can be monitored and
+              reported, providing visibility for both the vendor and the client of the services used.
+II.    Advantages of Cloud Computing
+    o    Achieve economies of scale: In cloud computing; computational resources, storage,
+           and services are shared between multiple customers. This results in achieving efficient
+                utilization of resources and that too at reduced cost. Volume output or productivity can
+           be increased even with fewer systems and thereby reduce the cost per unit of a project
+              or product.
+    o    Reduce spending on technology infrastructure: Data and information can be
+            accessed with minimal upfront spending in a pay-as-you-go approach, which is based
+           on demand. With the increased dependency of business organizations on IT, huge
+             investment is required for acquiring IT resources. By using cloud computing, the
+             organization can avoid purchasing hardware, software, and licensing fees. Moreover,
+             cloud service providers are paid based on actual usage of resources, which is based
+           on demand.
+    o     Globalize the workforce: Cloud computing allows users to globalize their workforce
+           and improve accessibility while shortening training time and new employee learning
+             curves.
+    o     Streamline  business  processes:  Cloud  Service  Providers  (CSPs) manage
+             underlying infrastructure to enable organizations to focus on application development
+                in less time with less resources.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+12.30           DIGITAL ECOSYSTEM AND CONTROLS
+
+    o    Reduce capital costs: Cloud computing users worldwide can access the cloud with
+              Internet connection that subsequently does not require them to spend on technology
+               infrastructure, hardware, software, or licensing fees.
+    o    Easy access  to  information/applications: One can  access  information and
+              applications as utilities anytime and anywhere, over the internet using any smart
+            computing device.
+    o     Pervasive accessibility: Data and applications can be accessed anytime, anywhere,
+             using any smart computing device, making our life so much easier.
+    o    Backup and Recovery:  It is relatively much easier to backup and restore data stored
+                in cloud. Even if one hard disk fails, data will be safe and will continue to be available
+              automatically on another one.
+    o     Monitor projects more  effectively:   It  is  feasible  to confine  within budgetary
+              allocations and can be ahead of completion cycle times.
+    o    Less personnel training is needed: It takes fewer people to do more work on a cloud
+              with a minimal learning curve on hardware and software issues.
+    o    Minimize maintenance and licensing software: As there is not much of non-premise
+            computing resources, maintenance becomes simple and updates and renewals of
+             software systems rely on the cloud vendor or provider.
+    o    Load balancing: Load balancing is defined as the process of distributing workloads
+             across multiple servers to prevent any single server from getting overloaded and
+              possibly breaking down.  It plays an important role in maintaining the availability of
+            cloud-based applications to customers, business partners, and end users, thus making
+                        it more reliable.
+    o    Improved flexibility: Cloud users can make fast changes in their work environment
+              without serious issues at stake in order to scale services to fit their needs.
+III.   Drawbacks of Cloud Computing
+    o        If Internet connection  is lost, the link to the cloud and thereby to the data and
+              applications is lost.
+    o     Security is a major concern as entire working with data and applications depend on
+             other cloud vendors or providers.
+    o     Although Cloud computing supports scalability  (i.e. quickly scaling up and down
+            computing resources depending on the need), it does not permit the control on these
+             resources as these are not owned by the user or customer.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.31
+
+    o    Depending on the cloud vendor or service provider, customers may have to face
+               restrictions on the availability of applications, operating systems, and infrastructure
+              options.
+    o      Interoperability (ability of two or more applications that are required to support a
+            business need to work together by sharing data and other business-related resources)
+                 is an issue wherein all the applications may not reside with a single cloud vendor and
+            two vendors may have applications that do not cooperate with each other.
+IV.   Cloud Computing Deployment Models
+
+
+                                 ESSENTIAL CHARACTERISTICS
+
+         Broad Network                              Measured         On demand                              Wide Elasticity         access Access                                   Service             Self-service
+
+                               Resource pooling
+
+
+                                 SERVICE MODELS
+
+                     Infrastructure as a          Platform as a Service          Software as a
+                      Service (IaaS)                   (PaaS)                 Service (SaaS)
+
+                         DEPLOYMENT MODELS
+              Public
+                                                                 Community                                  Private               Hybrid
+
+
+                            Fig. 12.8: The Cloud’s Three Dimensions
+     The Cloud Computing environment can consist of multiple types of clouds based on their
+      deployment and usage. Such typical Cloud computing environments, catering to special
+       requirements, are briefly described as follows (given in Fig. 12.8 & Fig. 12.9).
+       (A)    Private Cloud: This cloud computing environment resides within the boundaries of an
+             organization and is used exclusively for an organization’s benefits. Also called Internal
+           Clouds or Corporate Clouds, Private Clouds can either be private to an organization
+           and managed by the single organization (On-Premises Private Cloud) or can be
+          managed by third party (Outsourced Private Cloud). They are built primarily by IT
+            departments within enterprises, who seek to optimize  utilization of infrastructure
+             resources within the enterprise by provisioning the infrastructure with applications
+             using the concepts of grid and virtualization.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+12.32           DIGITAL ECOSYSTEM AND CONTROLS
+
+
+                              Fig. 12.9: Cloud Deployment Models
+             Characteristics of Private Cloud
+          Secure: The private cloud is secure as  it is deployed and managed by an
+                    organization itself, and hence there is least chance of data being leaked out of
+                    the cloud.
+          Central Control: As usually the private cloud is managed by the organization
+                           itself, there is no need for an organization to rely on anybody and it is controlled
+                  by the organization itself.
+         Weak Service Level Agreements (SLAs): SLAs play a very important role in
+                 any cloud service deployment model as they are defined as agreements
+                 between the user and the service provider. In private cloud, either formal SLAs
+                 do not exist or are weak as it is between the organization and user of the same
+                     organization. Thus, high availability and good service may or may not be
+                      available.
+           Advantages of Private Cloud
+             It improves average server utilization; allows usage of low-cost servers and
+                  hardware while providing higher efficiencies; thus, reducing the costs that a
+                    greater number of servers would otherwise entail.
+             It provides a high level of security and privacy to the user as private cloud
+                    operations are not available to public.
+             It is small and controlled and maintained by the organization.
+            Moreover, one major limitation of Private Cloud is that IT teams in an organization
+          may have to invest in buying, building, and managing the clouds independently.
+              Private cloud resources are not as cost-effective as public clouds and they have weak
+            SLAs. The organizations require more skilled and expert employees to manage private
+              clouds.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.33
+
+       (B)   Public/Provider Cloud: The public cloud is the cloud infrastructure that is provisioned
+                for open use by the public. It may be owned, managed, and operated by a business,
+            academic, or government organizations, or some combination of them. Typically,
+              public clouds are administrated by third parties or vendors over the Internet, and the
+             services are offered on pay-per-use basis. Public cloud consists of users from all over
+             the world wherein a user can simply purchase resources on an hourly basis and work
+              with the resources which are available in the cloud provider’s premises. Examples of
+              public clouds are Google, Amazon, etc.
+             Characteristics of Public Cloud
+          Highly Scalable: The resources in the public cloud are large in number and
+                    the service providers make sure that all requests are granted. Hence public
+                   clouds are scalable.
+          Affordable: The cloud is offered to the public on a pay-as-you-go basis; hence
+                    the user has to pay only for what s/he is using (using on a per-hour basis) and
+                       this does not involve any cost related to the deployment.
+          Less Secure: Since it is offered by a third party and they have full control over
+                    the cloud, the public cloud is less secure out of all the other deployment models.
+          Highly Available: It is highly available because anybody from any part of the
+                   world can access the public cloud with proper permission, and this is not
+                    possible in other models as geographical or other access restrictions might be
+                      there.
+          Stringent SLAs: As the service provider’s business reputation and customer
+                    strength are totally dependent on the cloud services, they follow the SLAs
+                          strictly and violations are avoided.
+           Advantages of Public Cloud
+             It  is  widely used  in the development, deployment, and management  of
+                     enterprise applications, at affordable costs. Since public clouds share same
+                   resources with large number of customers, it has low cost.
+             It allows the organizations to deliver highly scalable and reliable applications
+                      rapidly and at more affordable costs.
+          There is no need for establishing infrastructure for setting up and maintaining
+                    the cloud.
+          Public clouds can easily be integrated with private clouds.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+12.34           DIGITAL ECOSYSTEM AND CONTROLS
+
+           Strict SLAs are followed.
+          There is no limit to the number of users.
+            Moreover, one of the limitations of Public Cloud is security assurance and thereby
+              building trust among the clients is far from desired because resources are shared
+               publicly. Further, privacy and organizational autonomy are not possible.
+       (C)   Hybrid Cloud: This is a combination of both at least one private (internal) and at least
+           one  public  (external)  cloud  computing  environments   -  usually,  consisting  of
+               infrastructure, platforms, and applications. The usual method of using the hybrid cloud
+                 is to have a private cloud initially, and then for additional resources, the public cloud
+                 is used. The hybrid cloud can be regarded as a private cloud extended to the public
+             cloud and aims at utilizing the power of the public cloud by retaining the properties of
+             the private cloud. The organization may perform non-critical activities using public
+             clouds while the critical activities may be performed using private clouds. It is typically
+              offered in either of two ways. A vendor has a private cloud and forms a partnership
+              with a public cloud provider, or a public cloud provider forms a partnership/franchise
+              with a vendor that provides private cloud platforms. Fig. 12.10 depicts hybrid cloud.
+
+
+                                     Fig. 12.10: Hybrid Cloud
+             Characteristics of Hybrid Cloud
+          Scalable: The hybrid cloud has the property of public cloud with a private cloud
+                  environment and as the public cloud is scalable; the hybrid cloud with the help
+                      of its public counterpart is also scalable.
+           Partially Secure: The private cloud is considered as secured and public cloud
+                 has high risk of security breach. The hybrid cloud thus cannot be fully termed
+                  as secure but as partially secure.
+          Stringent SLAs: In the Hybrid Cloud, the SLAs are overall more stringent than
+                    the private cloud and might be as per the public cloud service providers.
+         Complex Cloud Management: Cloud management is complex as  it involves
+                more than one type of deployment model, and the number of users is high.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.35
+
+           The Advantages of Hybrid Cloud include the following:
+             It is highly scalable and gives the power of both private and public clouds.
+             It provides better security than the public cloud.
+           The limitation of Hybrid Cloud is that the security features are not as good as the
+              private cloud and complex to manage.
+       (D)   Community Cloud: The community  cloud  is  the  cloud  infrastructure  that  is
+             provisioned  for  exclusive  use  by  a  specific  community  of  consumers  from
+             organizations that have shared concerns (e.g. mission security requirements, policy,
+           and compliance considerations). It may be owned, managed, and operated by one or
+           more of the organizations in the community, a third party or some combination of them,
+           and it may exist on or off premises. In this, a private cloud is shared between several
+              organizations.  Fig. 12.11 depicts Community Cloud. This model  is  suitable  for
+             organizations that cannot afford a private cloud and cannot rely on the public cloud
+               either.
+             Characteristics of Community Cloud
+          Collaborative and Distributive Maintenance: In this, no single company has
+                            full control over the whole cloud. This is usually distributive and hence better
+                   cooperation provides better results.
+           Partially Secure: This refers to the property of the community cloud where few
+                    organizations share the cloud, so there is a possibility that the data can be
+                   leaked from one organization to another, though  it is safe from the external
+                     world.
+          Cost Effective: As the complete cloud is being shared by several organizations
+                     or community, not only does the responsibility gets shared; the community
+                   cloud becomes cost effective too.
+
+
+                                         Fig. 12.11: Community Cloud
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+12.36           DIGITAL ECOSYSTEM AND CONTROLS
+
+           Advantages of Community Cloud
+             It allows establishing a low-cost private cloud.
+             It allows collaborative work on the cloud.
+             It allows sharing of responsibilities among the organizations.
+             It has better security than the public cloud.
+           The limitation of Community Cloud is that the autonomy of the organization is lost
+           and some of the security features are not as good as the private cloud. It is not suitable
+                in the case where there is no collaboration.
+VI.   Cloud Computing Service Models: Cloud computing is a model that enables the end users
+       to access the shared pool of resources such as compute, network, storage, database, and
+       application as an on-demand service without the need to buy or own  it. The services are
+      provided and managed by the service provider, reducing the management effort from the end
+      user side. The essential characteristics of the cloud include on-demand, self-service, broad
+      network access, resource pooling, rapid elasticity, and measured service. The National
+        Institute  of Standards and Technology (NIST)  defines  three  basic  service models  -
+       Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service
+      (SaaS), presented pictorially in Fig. 12.12.
+
+
+                                                  Software as a Service
+                                                         (For end users)
+
+                                                    Platform as a Service
+                                                         (For Developers)
+
+                                                       Infrastructure as a Service
+                                                        (For IT Architects)
+
+
+                          Fig. 12.12: Cloud Computing Service Models
+       (A)    Infrastructure as a Service  (IaaS):  IaaS, a  hardware-level  service,  provides
+            computing resources such as processing power, memory, storage, and networks for
+             cloud users to run their application on-demand. This allows users to maximize the
+                utilization of computing capacities without having to own and manage their own
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.37
+
+             resources. The end-users or IT architects will use the infrastructure resources in the
+            form  of  Virtual machines (VMs) and design  virtual  infrastructure, network load
+             balancers etc., based on their needs.
+               Different Services provided by IaaS are shown in the Fig. 12.13.
+
+                    Compute                   Network
+                                     IaaS
+                  Load Balancers                 Storage
+
+                              Fig. 12.13: Services Provided by IaaS
+          An IT architect need not maintain the physical servers as it is maintained by the service
+              providers. Examples of IaaS providers include Amazon Web Services (AWS), Google
+           Compute Engine, OpenStack and Eucalyptus.
+             Characteristics of IaaS
+         Web access to the resources: The IaaS model enables the IT users to access
+                      infrastructure resources over the Internet. When accessing a huge computing
+                  power, the IT user need not get physical access to the servers.
+          Centralized Management: The resources distributed across different parts are
+                     controlled from any management console that ensures effective resource
+                management and effective resource utilization.
+           Elasticity and Dynamic Scaling: Depending on the load, IaaS services can
+                    provide the resources and elastic services where the usage of resources can
+                 be increased or decreased according to the requirements.
+          Shared infrastructure: IaaS follows a one-to-many delivery model and allows
+                     multiple IT users to share the same physical infrastructure and thus ensures
+                   high resource utilization.
+          Metered Services: IaaS allows the IT users to rent the computing resources
+                    instead  of buying them. The services consumed by the IT user  will be
+                  measured, and the users will be charged by the IaaS providers based on the
+                 amount of usage.
+       (B)   Platform as a Service (PaaS): PaaS provides the users the ability to develop and
+            deploy an application on the development platform provided by the service provider.
+               In traditional application development, the application will be developed locally and will
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+12.38           DIGITAL ECOSYSTEM AND CONTROLS
+
+           be hosted  in the  central  location.  In stand-alone  application development, the
+              application developed by traditional development platforms results in licensing - based
+             software whereas PaaS changes the application development from local machine to
+              online. PaaS providers provide a pre-built computing platform consisting of operating
+            system, programming languages, database, testing tools apart from some build tools,
+            deployment tools, and software load balancers. The software developers can develop
+           and run  their software  solutions on cloud  platform without  incurring  cost and
+             complexity of acquiring and managing the underlying software and hardware. For
+            example- Google App Engine, Windows Azure Compute  etc. Different Services
+             provided by PaaS are shown in the Fig. 12.14.
+
+
+                  Programming Language             Application Frameworks
+                                    PaaS
+                         Databases                        Other tools
+
+
+                             Fig. 12.14: Services Provided by PaaS
+              Typical PaaS providers may provide programming languages, application frameworks,
+             databases, and testing tools apart from some build tools, deployment tools and
+             software load balancers as a service in some cases.
+               (a)   Programming Languages: PaaS  providers  provide  a  wide  variety  of
+                 programming languages like Java, PHP, Python, Ruby etc. for the developers
+                      to develop applications.
+              (b)    Application Frameworks: PaaS vendors provide application development
+                  framework like Joomla, WordPress, Sinatra etc. for application development.
+               (c)   Database: Along with PaaS platforms, PaaS providers provide some of the
+                   popular databases like ClearDB, Cloudant, Redis etc. so that applications can
+                 communicate with the databases.
+              (d)   Other Tools: PaaS providers provide all the tools that are required to develop,
+                        test, and deploy an application.
+             Characteristics of PaaS are as follows:
+           All in One: Most of the PaaS providers offer services  like programming
+                  languages to develop, test, deploy, host and maintain applications in the same
+                    Integrated Development Environment (IDE).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.39
+
+         Web access to the development platform: PaaS provides web access to the
+                  development platform that helps the developers to create, modify, test, and
+                   deploy different applications on the same platform.
+          Offline Access: To enable offline development, some of the PaaS providers
+                    allow the developer to synchronize their local IDE with the PaaS services. The
+                   developers can develop an application locally and deploy  it online whenever
+                   they are connected to the Internet.
+           Built-in Scalability: PaaS services provide built-in scalability to an application
+                      that is developed using any particular PaaS. This ensures that the application
+                         is capable of handling varying loads efficiently.
+          Collaborative Platform: To enable collaboration among developers, most of
+                    the PaaS providers provide tools for project planning and communication.
+          Diverse Client Tools: PaaS providers offer a wide variety of client tools like
+              Web User Interface (UI), Application Programming Interface (API) etc. to help
+                    the developers to choose the tool of their choice.
+       (C)   Software as a Service (SaaS): SaaS provides the ability to the end users to access
+           an application over the Internet that is hosted and managed by the service provider.
+            Thus, the end users are exempted from managing or controlling an application, the
+            development platform, and the underlying infrastructure. SaaS has changed the way
+             the software is delivered to the customers. SaaS provides users to access a large
+               variety of applications over internet that is hosted on service provider’s infrastructure.
+           The main difference between SaaS and PaaS is that PaaS normally represents a
+              platform for application development, while SaaS provides online applications that are
+             already developed. For example, one can make his/her own word document in Google
+            docs online, s/he can edit a photo online on pixlr.com so s/he need not install the photo
+              editing software on his/her system - thus Google is provisioning software as a service.
+              Different Services provided by SaaS are shown in the Fig. 12.15.
+
+
+                     Business Services                   Social Networks
+                                   SaaS
+                 Document Management                  Mail Services
+
+
+                             Fig. 12.15: Services Provided by SaaS
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+12.40           DIGITAL ECOSYSTEM AND CONTROLS
+
+           The services provided by SaaS as depicted in Fig. 12.15 are as follows:
+               (a)   Business Services: SaaS providers provide a variety of business services to
+                     startup companies that include ERP, CRM, billing, sales, and human resources.
+              (b)    Social Networks: Since the number of users of the social networking sites is
+                    increasing exponentially, cloud computing is the perfect match for handling the
+                     variable load.
+               (c)   Document Management: Most of the SaaS providers provide services to
+                     create, manage, and track electronic documents as most of the enterprises
+                    extensively use electronic documents.
+              (d)    Mail Services: To handle the unpredictable number of users and the load on
+                    e-mail services, most of the email providers offer their services as SaaS
+                     services.
+             Characteristics of SaaS are as follows:
+         One to Many: SaaS services are delivered as one-to-many models where a
+                     single instance of the application can be shared by multiple customers.
+         Web Access: SaaS services allow the end users to access the application from
+                 any location of the device is connected to the Internet.
+          Centralized Management: Since SaaS services are hosted and managed from
+                    the central location, the SaaS providers perform the automatic updates to
+                  ensure  that each customer  is accessing the most recent version  of the
+                     application without any user-side updates.
+          Multi-device Support: SaaS services can be accessed from any end user
+                   devices such as desktops, laptops, tablets, smartphones, and thin clients.
+          Better Scalability: Most of the SaaS services leverage PaaS and IaaS for its
+                  development and deployment and ensure a better scalability than traditional;
+                    software.
+          High Availability: SaaS services ensure 99.99% availability of user data as
+                   proper backup and recovery mechanisms are implemented.
+          API Integration: SaaS services have the capability of integrating with other
+                   software or services through standard APIs.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.41
+
+       (D)   Other Cloud Service Models (Refer Table 12.3)
+
+                           Table 12.3: Other Cloud Service Models
+               Instance                           Description
+          Communication   •    It is an outsourced enterprise communication solution that
+           as   a   Service     can be leased from a single vender. The CaaS vendor is
+           (CaaS)                responsible for all hardware and software management
+                               and offers guaranteed Quality of Service (QoS). It allows
+                                  businesses to selectively deploy communication devices
+                               and modes on a pay-as-you-go, as-needed basis.
+                             •  This approach eliminates the large capital investments.
+                               Examples are Voice over IP (VolP), Instant Messaging
+                                         (IM),  Collaboration and Videoconferencing  application
+                                   using fixed and mobile devices.
+           Data    as    a  •  This provides data on demand to diverse set of users,
+            Service (DaaS)       systems  or  application. The  data may  include  text,
+                                  images, sounds, and videos.
+                             •  Data encryption and operating system authentication are
+                              commonly provided for security. DaaS users have access
+                                         to high-quality data in a centralized place and pay by
+                                volume or data type, as needed.
+                             •  However, as the data is owned by the providers, users can
+                                     only perform read operations on the data. DaaS is highly
+                               used  in geography data  services and  financial data
+                                      services.
+            Security  as  a  •    It is an ability given to the end user to access the security
+            Service                service provided by the service provider on a pay-per-use
+           (SECaaS)              basis.
+                             •    It is a new approach to security in which cloud security is
+                            moved into the cloud itself whereby cloud service users
+                                                will be protected from within the cloud using a unified
+                                 approach to threats.
+             Identity  as   a  •    It  is an  ability given  to the end users;  typically, an
+            Service (IDaaS)       organization or enterprise; to access the authentication
+                                        infrastructure that is built, hosted, managed, and provided
+                                by the third-party service provider.
+                             •  Generally,   IDaaS    includes    directory    services,
+                                      authentication services, risk and event monitoring, single
+                                    sign-on services, and identity and profile management.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+12.42           DIGITAL ECOSYSTEM AND CONTROLS
+
+           Network  as  a  •    It is an ability given to the end-users to access virtual
+            Service (NaaS)        network services that are provided by the service provider
+                                   over the Internet on a per-per-use basis.
+                             •  Provides users with needed data communication capacity
+                                         to accommodate  bursts  in  data  traffic  during  data-
+                                      intensive activities such as video conferencing or large file
+                                  downloads.
+                             •  Allows network  architects  to  create  virtual  networks;
+                                            virtual Network Interface Cards (NICs), virtual routers,
+                                            virtual switches, and other networking components.
+                             •  Allows the network architect to deploy custom routing
+                                     protocols and enables the design of efficient in-network
+                                      services, such as data aggregation, stream processing,
+                               and caching. NaaS providers operate using three common
+                                     service models: Virtual Private Network (VPN), Bandwidth
+                               on Demand (BoD) and Mobile Virtual Network (MVN).
+            Storage   as   a  •    It is an ability given to the end users to store the data on
+            Service (STaaS)       the storage services provided by the service provider.
+                             •  This provides storage infrastructure on a subscription
+                                    basis to users who want a low-cost and convenient way to
+                                      store data, synchronize data across multiple devices,
+                            manage  off-site  backups,  mitigate  risks  of  disaster
+                                     recovery, and preserve records for the long-term.
+                             •  STaaS allows the end users to access the files at any time
+                                  from any  place. STaaS  provider provides  the  virtual
+                                    storage that is abstracted from the physical storage of any
+                                   cloud data center.
+           Database  as  a  •    It  is an  ability given to the end users to access the
+            Service (DBaaS)      database service without the need to install and maintain
+                                                                  it on the pay-per-use basis.
+                             •  This provides users with seamless mechanisms to create,
+                                        store, and access databases at a host site on demand.
+                             •  The end users can access the database services through
+                                any Application Programming Interfaces (APIs) or Web
+                                User Interfaces provided by the service provider.
+          Backend  as  a  •  This provides web and mobile app developers a way to
+            Service (BaaS)        connect their applications to backend cloud storage with
+                               added  services  such  as  user  management,  push
+                                          notifications, social network services integration using
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.43
+
+                                custom  software  development   kits  and  application
+                                programming interfaces.
+           Desktop  as  a  •    It is a pay-per-use cloud service delivery model in which
+            Service (DTaaS)       the   service   provider   manages   the   back-end
+                                         responsibilities  of data storage, backup,  security and
+                                  upgrades.
+                             •    It is an instance of IaaS that provides ability to the end
+                                   users to use desktop virtualization without buying and
+                               managing their own infrastructure.
+                             •  The end-users are responsible for securing for managing
+                                           their own desktop images, applications, and  security.
+                               These services are simple to deploy, are highly secure,
+                               and produce better experience on almost all devices.
+            Testing   as   a  •  This provides users with software testing capabilities such
+            Service (TaaS)       as generation  of  test data, generation  of  test cases,
+                                    execution of test cases and test result evaluation on a pay-
+                                   per-use basis.
+           API as a Service  •  This allows users to explore functionality of Web services
+            (APIaaS)             such as Google Maps, Payroll processing, and credit card
+                                   processing services etc.
+           Email   as   a  •  This provides users with an integrated system of emailing,
+            Service (EaaS)         office automation, records management, migration, and
+                                        integration  services  with  archiving,  spam  blocking,
+                                malware protection, and compliance features.
+VI.    Pertinent Issues related to Cloud Computing: As an emerging  technology, cloud
+      computing involves several issues, out of which some of them are as follows:
+    o    Threshold Policy: The main objective of implementing threshold policy is to inform
+             cloud computing service consumers and providers what they should do. Quite often,
+                this policy does not exist. The only legal document between the customer and service
+              provider  is the Service Level Agreement (SLA). This document contains  all the
+            agreements between the customer and the service provider;  it contains what the
+             service provider is doing and is willing to do. However, there is no standard format for
+             the SLA, and as such, there may be services not documented in the SLA that the
+            customer may be requiring in future.
+    o     Interoperability: If a company enters a contract with one cloud computing vendor, it
+          may find it difficult to change to another computing vendor that has proprietary APIs
+              (Application Programming Interfaces) and different formats for importing and exporting
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+12.44           DIGITAL ECOSYSTEM AND CONTROLS
+
+              data. Industry cloud computing standards do not  exist  for APIs or formats  for
+              importing/exporting  data. This creates problems  of achieving  interoperability  of
+              applications between two cloud computing vendors. Once a company is locked in with
+           one cloud provider,  it is not easy to move an entire infrastructure to other clouds.
+            Moreover, each cloud provider offers a unique set of services and tools for operating
+           and controlling its cloud. Learning a new cloud environment is like learning a new
+             technology.
+    o    Hidden Costs: Such costs may include higher network charges for storage and
+            database applications, or latency issues for users who may be located far from cloud
+             service providers.
+    o    Unexpected Behavior: An application may perform well at the company’s internal data
+              center. It does not necessarily imply that the application will perform the same way in
+             the cloud. Therefore, it is essential to test its performance in the cloud for unexpected
+             behavior. Testing may include checking how the application allocates resources on
+           sudden increase in demand for resources and how it allocates unused resources. This
+            problem must be solved before obtaining services from the cloud.
+    o     Security Issues: Cloud computing infrastructures use new technologies and services,
+           most of which have not been fully evaluated with respect to security. The important
+              security issues with cloud computing are the management of the data might not be
+                 fully trustworthy; the risk of malicious insider attacks in the cloud; and failing of cloud
+              services. Maintaining confidentiality is one of the major issues faced in cloud systems
+           because information is stored at a remote location which can be accessed by the
+              service provider. Data confidentiality can be preserved by encrypting data. Cloud
+            systems share computational resources, storage, and services between multiple
+            customer applications to achieve efficient utilization of resources while decreasing
+              cost. However, this sharing of resources may violate the confidentiality of users’ IT
+             Assets. It must be ensured that there is a degree of isolation between these users. In
+           most cases, the provider must ensure that their infrastructure is secure and that their
+            consumers’ data and applications are protected while the customer must ensure that
+             the provider has taken the proper security measures to protect their information.
+    o     Legal Issues: Cloud systems need to adhere to several regulatory requirements,
+              privacy laws and data security laws. These laws vary from country to country and cloud
+             users have no control over where their data is physically located.
+    o    Software  Development  in  Cloud: From  the  perspective  of  the  application
+            development, developers face the complexity of building secure applications that may
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.45
+
+           be hosted in the cloud. The speed at which applications will change in the cloud will
+               affect both the System Development Life Cycle (SDLC) and security. The project
+           manager must keep in mind the applications should be upgraded frequently. For this,
+             the project manager must ensure that their application development processes are
+                flexible enough to keep up with the changes.
+    o    Bugs in Large-Scale Distributed Systems: One of the difficult challenges in Cloud
+           Computing is removing errors in these very large-scale distributed systems.
+                                      Illustration on Cloud Computing - Netflix
+            •   From its beginnings as a DVD rental business, the Netflix streaming service
+                 has come a long way. It commands the attention of millions of people who
+                   are eager to watch one of its hundreds of critically acclaimed programs, films,
+                     or documentaries.
+            •   Soon Netflix realized that their typical in-house data center was rapidly
+                 becoming too inefficient, and they need to explore a method that could store
+                           all  its data due to  its large user base. They required scalability in their
+                      infrastructure.
+            •     Netflix claims that its 117.58 million global customers view 140 million hours
+                      of video each day. In other words, a usual Netflix customer spends 1 hour
+                 and 11 minutes each day on the site or 71 minutes per day.
+           •   The Netflix is a worthy example of visualizing how they were able to move
+                       their entire data on the cloud using the technology.
+
+    12.5 BIG DATA
+Big Data is a term for a collection of data which is so large that  it becomes difficult to store and
+process using traditional databases and data processing applications. Some examples of data that
+inputs into big data systems can include social network traffic, web server logs, streamed audio
+content, banking transactions, web page histories and content, government documentation and
+financial market data etc.
+According to Gartner, Big Data can be described using the ‘3Vs’ i.e. Big data is high-volume, high-
+velocity and/or high-variety information assets that demand cost-effective, innovative forms of
+information processing that enable enhanced insight, decision making, and process automation.
+♦    Volume: Refers to the significant amount of data that an organization needs to store and
+      process.
+♦     Variety: Wide variety of data that can come from various sources.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+12.46           DIGITAL ECOSYSTEM AND CONTROLS
+
+♦     Velocity: Data is likely to change on a regular basis and needs to be continually updated.
+Another ‘V’ which is added by some organizations to the above list is -
+♦    Veracity (truthfulness): Organization gathers the data that is accurate, the failure to do will
+     make analysis meaningless.
+I.    What is Big Data in FinTech?
+      Big Data in finance refers to the petabytes of structured and unstructured data that may be
+        utilized by banks and financial organizations to predict consumer behavior and develop
+       strategies. The financial sector creates a large amount of data.
+      Structured data is information that is maintained within a company to give crucial decision-
+      making insights. Unstructured data is accumulating from a variety of sources in ever-
+       increasing numbers, providing considerable analytical potential.
+      Emerging FinTech is using big data to forecast client behavior and generate sophisticated
+        risk evaluations, setting them apart from traditional financial institutions. Disruptive FinTech
+      and challenger banks can react to a changing market thanks to the speed of real-time
+       data. They may flip to aggressive methods at any time, leaving the major banks struggling to
+       stay up.
+      FinTech can make better judgments and provide more personalized consumer experiences
+      thanks to  their capacity to handle big data volumes. FinTech may  utilize big data to
+      understand their consumers on a one-to-one basis, rather than guessing or covering their
+      backs with cautious risk assessments.
+II.    Big Data in FinTech Industry
+      Emerging FinTech can benefit from big data analysis in four ways:
+         (i)    Customer Orientation: FinTech may utilize big data to develop thorough user profiles
+           and precise client segmentation strategies, allowing them to customize their services
+               to their specific demands. Individualized services may be provided using sophisticated
+            modeling approaches that consider  an individual's risk perception, age, gender,
+           money, location, and even relationship status.
+         (ii)   Enhanced Security: While fraud is a prevalent problem in the digital banking sector,
+              big data may assist FinTech in developing accurate fraud detection systems by
+              detecting any odd transactions. FinTech may also use digital applications to keep
+           consumers informed about security concerns and secure their money.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.47
+
+          (iii)   Improved Risk Assessments: FinTech businesses  that  specialize  in big data
+              analytics may integrate data from a variety of sources to guarantee that no stone is
+                  left unturned. FinTech can operate with more financial certainty, manage cash flow,
+           and give consumers competitive rates thanks to improved risk assessments.
+        (iv)  Unmatched Customer Service: FinTech may use big data to establish a digital trail
+               of a customer's financial behavior, spot possible problems, and give consistent
+             assistance. FinTech may also use data and forecasts  to propose the  correct
+             services/products depending on their clients' specific spending habits.
+III.    Chatbots and Robotic Process Automation (RPA)
+      Chatbots  use   artificial  intelligence  to  enable  interaction  on  24x7  basis.  These
+        intelligent Chatbots may assist consumers in several ways, including handling transactions,
+       providing vital information, and handling transactions. RPA improves the user experience by
+       allowing bots to undertake repetitive (and labor-intensive) tasks without the need for human
+       interaction. It not only reduces mistakes but also frees up team members to deal with more
+      complicated issues and deliver better customer support.
+IV.   Big Data in developing strategies in companies.
+      Big data is in high demand in finance for a variety of reasons:
+          (i)    Lack of personal connection with the customers: Users expect to be able to
+            address their problems without having to go to a bank office, but this makes gathering
+              information on clients more difficult. Mobile gadgets can be of assistance. They let
+           companies gather many sorts of information, such as geolocation, the most common
+             user interactions, user behavior, and browsing history. This information may then be
+                utilized to make up for a lack of face-to-face connection with clients.
+          (ii)   Growth in FinTech's social media footprint: Users make purchases and engage
+              with companies using social media, which is no longer only a platform for connecting
+              with friends and family. Examining user behavior on social media is critical for FinTech
+              firms to gain insights and apply them when selling products or services. Insurers, for
+            example, may create unique plans based on social media data, and banks can use
+              social media data to create credit scores.
+          (iii)   Shift in customers’ expectations: Customers want businesses to not just meet their
+             requirements, but also to anticipate and surpass them. This is impossible without
+           consumer information. To provide tailored offers for clients, a FinTech company should
+               collect data from numerous channels such as their mobile app, website, wearables,
+              social media, and smart devices. The client no longer needs to visit physical sites or
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+12.48           DIGITAL ECOSYSTEM AND CONTROLS
+
+              wait days for transactions to be completed. FinTech has developed cross-border
+               financial services that enable real-time data sharing and allows buyers/sellers to
+            conduct business without friction.
+IV.   FinTech is becoming increasingly competitive
+     The FinTech sector is quickly expanding, attracting an increasing number of entrepreneurs,
+       startups, and established businesses every day. The ability of a FinTech product to deliver a
+       service is critical to its success in this competitive industry.
+      Big data enables businesses to optimize their operations in real-time and provide their
+      customers with the finest services possible based on hard facts.
+     Reduced operating expenses allow firms to dedicate resources to marketing and decrease
+       pricing for customers, allowing them to stay ahead of the competition. As a result, FinTech
+      companies must automate their operations to save money and big data insights can assist.
+V.    Obstacles in adopting analytics by Financial Institutions
+     Though big data has many benefits to financial organizations, there are many institutions still
+       hesitant about adopting digitization. There are several reasons for that – a few of them are
+        listed below:
+    o    Outdated software: Outdated software  is among the top reasons why financial
+             organizations are unwilling to adopt innovative technologies, including analytics. In
+             order to do so, a financial organization would have to redesign its existing system to
+          make it compatible with the needed software solution. And this might take too much
+             time and resources.
+    o    Lack of needed resources: Proper information processing requires many resources,
+              including specific specialists (like data scientists), implementation (and sometimes
+            development)  of an ML model  for  information  processing and  analysis, and
+             implementation of the selected analytics solution. Thus, an organization needs to have
+           a scalable and robust infrastructure and most financial organizations find these
+            processes too cumbersome.
+    o    Lack of short-term results: Financial Institutions are very slow with the adoption of
+              technological innovations is that they do not see short-term results. It might take more
+             than 5 years to start receiving sufficient ROI from implementing a single software
+               solution, and for some organizations, the wait is not worth it.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.49
+
+
+                                           Illustration on Big data: IBM
+           IBM  is a technology and consulting corporation that manufactures computer
+             hardware and  software and  offers  infrastructure  for products  ranging from
+             mainframe computers to nanotechnology.
+           IBM made  itself  committed  to  Big  Data and  Analytics  through  sustained
+              investments and strategic acquisitions. Also, IBM tried to bring as many Big Data
+              technologies as possible under its umbrella. The strategy of the company was to
+             combine a wide array of Big Data analytic solutions and conquer the Big Data
+              market. The aim of the company was to offer the broadest portfolio of products and
+               solutions with a depth and breadth that no other company could match.
+            The company observed that over the years, consumer attention had shifted from
+                radio, print, and television to the digital media as it facilitated real-time engagement
+                of consumers. Brands competed for consumer attention through such media and
+                relied on them for data and analytics for customer acquisition and retention and to
+                 offer tailor-made products and services to them. The company found that the real
+              challenge with such data was that it was mostly unstructured, and the difficulty lay
+                 in structuring it and filtering the genuine data.
+            The company developed new systems, software, and services to complement its
+              Big Data platform as they found that the Big Data solution is meant to protect data
+            and identify and restrict suspicious activity and block access to company data.
+                        It enabled companies to run live simulations of trading strategies, geological and
+              astronomical data, and stockbrokers could analyze public sentiment about a
+            company from social media. Emerging technologies such as Hadoop and NoSQL
+           made such analytics possible.
+
+SUMMARY
+This chapter provides the detail of FinTech. It is the abbreviation for financial technology, is a broad
+category that refers to the innovative use of technology in the design and delivery of financial
+services and products. FinTech companies offer a wide range of products and services. FinTech
+companies are versatile and include lower fees and better rates, lower thresholds for investments,
+lower thresholds for loans, ease of use and convenience. This is manifested in lower margins, asset-
+light nature, and high scalability.
+Bitcoin technology that uses cryptographic proof in its computer software, instead of trusted third
+parties, to process and record transactions. Cryptography proof of work is used to verify the
+legitimacy of bitcoins. Bitcoin is not a fiat currency issued by a central government or an authorized
+agent of the government.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+12.50           DIGITAL ECOSYSTEM AND CONTROLS
+
+Artificial Intelligence in FinTech stands for Development of smart systems and machines that can
+carry out tasks (sense, reason, act and adapt) that typically require human intelligence.
+Blockchain of FinTech is like a giant spreadsheet for registering all assets, and an accounting
+system for transacting them on global scale that can include all form of assets held by all parties
+worldwide.
+Cloud computing in FinTech is also discussed that simply means the use of computing resources
+as a service through networks, typically the Internet. Cloud Computing is both a combination of
+software and hardware-based computing resources delivered as a networked service.
+Big data of FinTech technology is a term for a collection of data which is so large that it becomes
+difficult to store and process using traditional databases and data processing applications.
+
+              TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions (MCQs)
+1.    Ms. Komal a  technical product developer  at FEGO  Ltd. suggested  the company  to
+      manufacture a model of self-driving car based on image and text recognition. This is a good
+      example of ______.
+        (a)     Artificial Intelligence
+        (b)    Expert System
+        (c)    Cloud Computing
+        (d)    Mobile Computing
+2.    Which of the following is not the service provided by Infrastructure as a Service (IaaS) model
+       of Cloud Computing?
+       (a)   Load balancer
+       (b)    Storage
+        (c)    Network
+       (d)    Application framework
+3.    Which of the following instance of Cloud Computing is being used by Amazon Web Service
+     (AWS)?
+       (a)    Infrastructure as a Service
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+DIGITAL DATA AND ANALYSIS             12.51
+
+        (b)    Storage as a Service
+        (c)    Network as a Service
+        (d)    Software as a Service
+4.    Which of the following is not an advantage of Cloud Computing?
+       (a)    Improved flexibility
+       (b)    Streamline business processes
+        (c)     Interoperability
+       (d)   Reduce Capital Costs
+5.     In Cloud Computing, which instance of Software as a Service (SaaS) allows users to explore
+       functionality of Web services such as Google Maps, Payroll processing and Credit Card
+      processing services, etc.?
+       (a)    Testing as a Service (TaaS)
+       (b)   Communication as a Service (CaaS)
+        (c)    Data as a Service (DaaS)
+       (d)   API as a Service (APIaaS)
+
+ANSWERS/SOLUTIONS
+     1.         (a)        2.        (d)        3.        (a)        4.        (c)        5.       (d)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+© The Institute of Chartered Accountants of India

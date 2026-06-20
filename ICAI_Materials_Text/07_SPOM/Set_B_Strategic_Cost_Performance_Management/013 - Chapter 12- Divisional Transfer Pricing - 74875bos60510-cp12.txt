@@ -1,0 +1,2762 @@
+Source PDF: 07_SPOM/Set_B_Strategic_Cost_Performance_Management/013 - Chapter 12- Divisional Transfer Pricing - 74875bos60510-cp12.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_B_Strategic_Cost_Performance_Management\013 - Chapter 12- Divisional Transfer Pricing - 74875bos60510-cp12.pdf
+Extracted at: 2026-05-31T10:29:21+05:30
+Pages: 62
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER        12
+
+
+DIVISIONAL TRANSFER
+PRICING
+
+                          LEARNING OUTCOMES
+
+After studying this chapter, you will be able to:
+❑EXPLAIN and ILLUSTRATE the basis for setting a transfer price using
+   variable cost, full cost, and the principles behind allowing for intermediate
+   markets
+❑EXPLAIN how transfer prices can distort the performance assessment of
+    divisions and decisions made
+❑COMPARE divisional performance and recognize the problems of doing so
+❑ADVISE on the likely behavioral consequences of performance measurement
+    within an organization
+❑EVALUATE the effects of transfer prices
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+12.2      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+    CHAPTER OVERVIEW
+
+
+     A. TRANSFER PRICING
+Most business organizations in today’s world have a decentralized organization structure. The top
+management  delegates  daily  operations and decision-making  responsibilities  to  appropriate
+personnel in the senior, middle and lower management levels. This gives rise to responsibility
+centres or divisions within the organization structure. Divisions either could be departments within
+a company or a group companies of a parent organization. Divisional managers are responsible for
+their assigned division’s operations and results. While each division works towards achieving its
+individual objective, holistically, their goals have to align with the organization’s overall business
+objectives. This concept is called goal congruence.
+A manager may have the authority to control the division’s cost (cost centre) or both cost and
+revenue (profit centre). Inter-divisional transactions could involve:
+▪    Transfer of goods and services
+▪   Payments for intangibles like intellectual property for usage of brand, patent in the form of
+      royalty fee or license fee.
+▪     Inter-divisional loans at specified interest rates.
+In this chapter, our focus is more on inter-divisional transfer of goods and services. Management
+accounting system at the divisional level should determine a value for such transactions. This
+valuation is defined as transfer pricing.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+DIVISIONAL TRANSFER PRICING           12.3
+
+
+Figure A.1 –Overview of Transfer Pricing System
+1. Utility of Transfer Pricing
+Following are the notable uses of transfer pricing:
+(i)   Performance evaluation: Each division becomes profit accountable, which is a key metric to
+     evaluate  its  performance.  This  motivates  each manager  to  maximize  the  division’s
+       profitability. Consequently, it improves the scope for company’s overall profitability.
+(ii)  Employee engagement and compensation: Often managers are compensated based on
+     performance  of the  division they are responsible  for. Since  transfer  pricing influences
+      financials,  it must be priced at a rate that  is perceived to be  fair by  all the concerned
+      divisional managers. Transfer pricing that is unnecessarily detrimental to a division could
+      affect employee morale.
+(iii)  Resource allocation: Co-ordination among units for production and sales enables better
+      allocation and utilization of  its resources like capacity, manpower etc. Based on transfer
+      price, key decisions regarding operations may be taken, e.g. to produce material in-house or
+     purchase from outside, to expand operations etc. Primary aim of these decisions would be to
+     maximize profits, while also promoting goal congruence among divisions.
+(iv)  Taxation and  profit  remittance:  Transfer  pricing  will impact  earnings  of  multi-national
+    companies having inter-divisional transfers. This could affect the over-all tax burden for the
+    company as well as the profits that may need to be repatriated to its head office.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+12.4      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+2. A Question of Fair Value?
+Transfer pricing is often associated with the term “arms-length” price. This implies that the price for
+inter-divisional transfer has to be fair and competent enough as  if dealing with a third party. The
+application of the concept of “arms-length” price is more from taxation perspective.
+In the accounting  records,  transfer  price would be revenue  for  the  division supplying the
+goods/services and cost for the division receiving the goods/service. When each division is made
+profit accountable, any transaction between them becomes more business driven, much like how
+customers and suppliers compete using bargaining power to set the price. Arriving at a “good-deal”
+for the division becomes imperative because it influences its profitability. Hence, fair value from a
+business perspective depends on how each division finds the price compatible with  its profit
+targets.
+Example
+Division A produces goods at a cost of `10 p.u. and transfers the goods to Division B which has
+additional costs of `5 p.u. Division B sells externally at `16 p.u. The company has a policy of
+setting transfer prices at cost + 20%.
+Calculate:
+(i)    Profit of each division and the overall profit the company made.
+(ii)   Write a brief analysis of the results.
+Solution
+(i)   Division Wise Profitability Statement: Summarizing the information from the question, the
+      division wise profitability statement will be as below:
+                                                                      `
+        Sr. No.               Particulars               Division A    Division B  Company
+         1    Own Cost                                -10             -5          -15
+         2      Transfer-in Price                        0            -12          0
+     3 = 1+2    Total Cost                                -10           -17          -15
+         4     Revenue                             12          16         16
+                           (i) Transfer Price of Division A
+                     (Cost `10 + 20%)
+                            (ii) Selling Price of Division B
+      5 = 4-3    Profit                                 2              -1          1
+
+
+                                                                     Profit Split between Divisions
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+DIVISIONAL TRANSFER PRICING           12.5
+
+     Note
+     Transfer price of `12 does not affect the overall company profits since they get eliminated at
+     the time of consolidation. These records are useful for internal evaluation purposes and may
+     not involve actual cash settlement. Therefore, transfer- pricing methodology would greatly
+     influence each  division’s  financials, thereby underlining the need  to have an accurate
+    measurement system.
+(ii)  Analysis of the Results: As shown above, Division A shows a profit of `2 while Division B
+    shows a loss of `1. Division A that incurs 2/3rd of the cost while Division B incurs only 1/3rd of
+         it. The net profit margin for the product is 6.7% (`1/`15) while the internal mark-up that
+     Division A charges is 20%. Therefore, Division A will always make a profit. Division B is
+     bearing internal mark-up at a much higher rate than the mark-up it can charge its customers.
+     Therefore, it will always be a loss-making unit.
+
+
+ Concept Insight
+ Behavioural Consequences
+ Manager of Division B could get demotivated since performance of the unit is affected by a
+ higher internal mark-up. Moreover, since the manager of Division A will always make a profit
+ under this method, efforts may not be taken to make costs efficient. The management can take
+ steps to review the following:
+  (i)   Is the transfer pricing policy of cost plus 20% justified? If so, should the pricing policy for
+      external customers be revised?
+  (ii)  What share of Division A’s costs are controllable? Is  it possible for Division A to take
+     measures for cost efficiencies and charge Division B a lower amount?
+  (iii)  Alternatively, should Division B be allowed to source the component from outside?
+
+     B. TRANSFER PRICING METHODS
+
+
+                                                      Marginal Cost Based
+
+                           Market Based
+                                             Methods                                     Standard Cost Based
+
+                               Cost Based                                             Pricing
+                                                                       Full Cost Based
+
+                            Negotiation Based                                                    Transfer
+                                                     Cost Plus Markup Based
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+12.6      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+1. Market Based Transfer Price
+Transfer price  is based on market price of goods or services similar to the ones transferred
+internally within divisions. The transfer can be recorded at the external market price, adjusted for
+any costs that can be saved by internal transfer e.g., selling and distribution expenses, packaging
+cost.
+
+Advantages
+▪    Since demand and supply determine market price, it is likely to be unbiased.
+▪    Market  prices  are  less ambiguous compared  to cost-based  pricing. They cannot be
+     manipulated.
+▪    Since the pricing is competitive, divisional performance can be linked more objectively to its
+      contribution to the company’s overall profits.
+
+Disadvantages
+▪    Market price may not be completely unbiased,  if a competitive environment does not exist.
+    Examples could be a distress sale market or manipulative pricing strategies  (like price
+      discrimination) that could distort the market price.
+▪   May not be suitable when market prices can fluctuate widely or quickly.
+▪   Goods that are transferred may be at an intermediate stage in the production process. At
+     times market price may not be available for such intermediate goods.
+
+
+ Concept Insight
+ Behavioural Consequences
+ The existence of an external market promotes competitiveness within the entity. Both managers
+  will be motivated to improve performance. The supplying division will have to compete with the
+ outside vendor that may lead to cost competitive operations. The purchasing division has more
+ alternatives to choose from. However, the purchasing division must ensure that quality of the
+ goods is also comparative. Generally, goods produced in-house may be as per specifications
+ unique to the company’s products. Goods purchased externally may require additional work that
+ involves additional cost.
+Shared Profit Relative to Cost Based Transfer Price
+Shared profit relative to cost method is an alternative to market price method. Cost incurred by
+each division indicates the value it has added to the product cost, that is finally used to arrive at
+the selling price of the final product. The primary advantage of this method is that  it allocates profit
+based on the proportion of value addition to the product in terms of cost.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+DIVISIONAL TRANSFER PRICING           12.7
+
+Example
+Market Price and Shared Contribution Method
+A manufacturer  of cornflakes has two  divisions, one producing the cornflakes and another
+packaging division that manufactures cartons. The production division purchases all the cartons
+from the packaging division. Cost of cartons from outside vendors would be:
+                      Number of Cartons          (`)
+                                  5,000             77,000
+                                  8,000             95,000
+Production cost incurred by the packaging division for similar volume of cartons:
+                      Number of Cartons          (`)
+                                  5,000             75,000
+                                  8,000             80,000
+The production and sale of the final product, cornflakes are as below:
+             Volume                         Total Cost              Sales Value
+ (Number of cartons of Cornflakes sold)     (Excluding Cost of Cartons)   (Packed in Cartons)
+                                            `                    `
+                 5,000                           1,20,000                  2,00,000
+                 8,000                           1,80,000                  3,00,000
+An appropriate transfer pricing policy is being framed. As the corporate management accountant,
+Calculate-
+(i)   The transfer pricing based on (1) shared  profit relative to cost method and (2) market
+     method. Show the profitability of each division under both methods.
+(ii)   Discuss the effect of both methods on the profitability of the divisions.
+Solution
+(i)   Calculation of Profitability under both methods
+    Method 1: Shared Profit Relative to Cost Method
+     Methodology: Calculate the profit for both volume of cartons 5,000 units and 8,000 units.
+     Information about sales and costs are given in the problem and tabulated as below.
+                 Statement of Profitability - Shared Profit Relative to Cost Method
+     Volume (Number of Cartons)                           5,000            8,000
+                                                                Figures in `
+      Sales                                 …(a)           2,00,000         3,00,000
+      Less: Costs
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+12.8      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+             Production Division                                  1,20,000         1,80,000
+            Packaging Division                                  75,000          80,000
+       Total Costs                            …(b)           1,95,000         2,60,000
+        Profit                              …(a) - (b)             5,000          40,000
+    The next step is to distribute this profit between the divisions based on the cost incurred. This
+       is done for both levels of production.
+                        Distribution of Profit Based on Relative Cost
+     Volume (Number of Cartons)                           5,000            8,000
+                                                                Figures in `
+      Share of Production Division
+       (5,000 × 1,20,000 / 1,95,000)                               3,077           ×××
+       (40,000 × 1,80,000 / 2,60,000)                          ×××            27,692
+      Share of Packaging Division
+       (5,000 × 75,000 / 1,95,000)                                1,923           ×××
+       (40,000 × 80,000 / 2,60,000)                            ×××            12,308
+                                                 Total Profit       5,000           40,000
+    The last step is to calculate transfer price of cartons that packing division will charge the
+     production division = manufacturing cost of cartons + profit that is allocable to  it under the
+     shared profit method (refer workings above).
+         Transfer Prices of Cartons under the Shared Profit Relative to Cost Method
+     Volume (Number of Cartons)                           5,000            8,000
+                                                                     Figures in `
+      Manufacturing Cost of Cartons                          75,000          80,000
+        Profit Allocated as per working above                     1,923           12,308
+      Transfer Price                                         76,923          92,308
+      Transfer Price p.u.                                      15.38            11.54
+    Method 2: Market Price Method
+     Methodology: Transfer price for the cartons is already given. It is the external market price of
+     the cartons. This is viewed as an unbiased price, that the packaging division will charge the
+     production division. The profitability statement will be as below:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+DIVISIONAL TRANSFER PRICING           12.9
+
+                        Statement of Profitability - Market Price Method
+             Volume (Number of Cartons)                 5,000            8,000
+                                                                Figures in `
+     Packaging Division
+      Market Price (transfer price basis)                       77,000          95,000
+      Less: Manufacturing Cost                               75,000          80,000
+        Profit of Packaging Division                 …(a)       2,000           15,000
+      Production Division
+      Sales                                                 2,00,000         3,00,000
+      Less:
+       Transfer-in Price                                      77,000          95,000
+      Product Cost                                           1,20,000         1,80,000
+        Profit of Production Division                           ...(b)       3,000           25,000
+       Total Company Profit                    …(a)+(b)       5,000           40,000
+     Transfer price per unit will be based on the external market price given in the problem.
+                       Transfer Prices of Cartons under Market Price Method
+     Volume                                                5,000            8,000
+      (number of cartons)
+      Market Price of Cartons                                77,000          95,000
+      Transfer Price per carton p.u. based on Market Price        15.40            11.88
+      = Market Price/ Number of Carton
+(ii)   Analysis of Results
+     Overall company profits are the same under both methods. It is the distribution between the
+      divisions that is different, depending on the method followed. Consequently, the transfer price
+     per unit that the packaging division charges the production division will also be different.
+    When production volume is 5,000 cartons, transfer price per unit is approximately the same
+     under both methods `15.38 and `15.40 shared profit and market price method respectively.
+     This is because the cost of production for this volume is approximately the same as the
+     outside procurement price. Similarly, when production volume is 8,000 cartons, transfer price
+     per unit under the shared profit method has a slightly lower transfer price because lower
+      profit has been allocated to packaging department.
+    When the volume increases  to 8,000 cartons, in-house production has benefitted from
+    economies of scale. The cost of manufacturing one carton  is `15 p.u. for 5,000 carton
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+12.10      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+     (`75,000/ 5,000 cartons) while  it reduces to `10 p.u. when volume increases to 8,000
+     cartons (`80,000 / 8,000 cartons). Cost reduction is almost 33% due to economies of scale.
+    On the other hand, at 8,000 carton volume, the production department has not benefitted
+    much from economies of scale. Cost of manufacturing a carton of cornflakes excluding
+     packing cost is `24 for 5,000 cartons (`1,20,000/ 5,000 cartons) and is marginally lower at
+     `22.50 p.u. for 8,000 cartons (`1,80,000/ 8,000 units). Cost reduction is only 6% due to
+    economies of scale.
+     Therefore, when production volume  is 8,000  units, out  of the  total production cost  of
+     `2,60,000, major portion of the cost pertains to production department. Consequently, when
+      profit gets allocated based on cost, more profit has been allocated to the production division
+    and lesser percentage to packaging department. Hence the transfer price base is lower at
+     `92,308 under the shared profit method as compared to the market price method which is at
+     `95,000.
+2. Cost Based Transfer Price
+Cost based pricing models are based on the internal cost records of the company. They may be
+used when the management wants to benchmark performance with the cost targets set within the
+company or may be an alternative when market prices for the goods cannot be determined due to
+lack of comparable market. Cost based transfer price may consider variable cost, standard cost,
+full cost and full cost plus mark-up. Therefore, the basis for cost price may be subjective and has
+to adapted based on its suitability to the entity.
+
+Advantages
+▪    Performance can be benchmarked to internal cost targets (budgets).
+▪    Information  is more  easily  available as compared  to market  price.  While  evaluating
+     performance, cost components can be broken down further for internal analysis. Hence, the
+     basis for transfer pricing is more clearly defined as compared to market price, which may be
+     subject to the vagaries of demand and supply.
+Disadvantages
+▪   The cost basis on which transfer pricing is used can be subjective since there can be multiple
+    ways of interpreting costs. Variable cost, standard cost, full cost are some of those methods.
+    Managers may not always agree on the basis to be followed, since each will try to use the
+    one most beneficial to their division.
+▪    Since cost is passed on to another division, there may be instances when managers of the
+     supplying division may find little incentive to lower the cost of production by adopting cost
+      efficient methods.
+Marginal Cost Based Transfer Price
+Transfer price is recorded marginal cost required to produce one additional unit.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.11
+
+Advantage
+▪    Useful when the supplying division has excess capacity. The method ensures that the
+     supplying division recoups the cost of internal transfer, while the purchasing division enjoys
+     the benefit of a lower price compared to the market.
+Disadvantage
+▪   No fixed cost or mark-up is allowed to be charged to the purchasing division. Each unit of
+      internal sale will hence result in a loss at approximately fixed cost per unit.
+
+
+ Concept Insight
+ Behavioural Consequences
+ In such a setup, profit evaluation is centralized at the entity level. Therefore, the supplying
+ division may have  little incentive to find measures for making cost efficient. Non-recovery of
+ fixed costs would demotivate the supplying  division.  It may oppose certain decisions  like
+ capacity expansion or further infusion of investment, that lead to higher fixed costs.
+
+Standard Cost Based Transfer Price
+Transfer price  is recorded at a predetermined cost, which  is based on budgets and certain
+assumptions regarding factors of productions like capacity utilization, labor hours etc. Any variance
+between the cost absorbed using standard cost and the actuals,  is either absorbed by the
+supplying unit or in some cases could be passed to the purchasing unit as well.
+Advantage
+▪    Performance evaluation can be done against budgeted cost  targets.  Facilitates  better
+     understanding of costs through variances. This enables the manager to take measures to
+     improve performance.
+
+Disadvantage
+▪     Profit performance measurement  is centralized and cannot be measured  for  individual
+      divisions.
+
+
+ Concept Insight
+ Behavioural Consequences
+ Budgeted costs are generally based on historic records. Therefore, little incentive exists to make
+ costs more efficient to improve profitability.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+12.12      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Full Cost Based Transfer Price
+Transfer price is based on full product cost.  It includes cost of production plus a share of other
+costs of the value chain like selling and distribution, general administrative expense, research and
+development etc.
+Advantage
+▪     Full cost of goods transferred is recovered hence the supplying division will not show a loss.
+Disadvantage
+▪    Since mark-up cannot be charged on internal transfers, the supplying division does not
+     record any profit on these sales. This is a disincentive for the supplying division.
+Cost plus a Mark-up Based Transfer Price
+Transfer price is based on full product cost plus a mark-up. Mark-up could be a percentage of cost
+or of capital employed.
+Advantage
+▪    Since the supplying division makes a profit, this method addresses the disincentive problem
+     discussed above in the full cost method.
+Disadvantage
+▪    Since the transfer price under this method could closely approximates its market price, the
+     purchasing division may bear a share of the selling expenses although none was incurred for
+     such  internal  sales.  Again,  this could  distort  the performance  of purchasing  division.
+     Therefore, it is essential to adjust the transfer price for such cost savings.
+
+
+ Concept Insight
+ Behavioural Consequences
+ The problem with using full cost as a basis for transfer pricing is that it distorts the company’s
+ cost structure while making decisions. The purchasing department would view the cost as a
+ variable one, since it varies in proportion to the units purchased internally. In reality, this price
+ includes a portion  of fixed costs  of the supplying division  that  is anyway a sunk cost.
+ Consequently, the market price that the purchasing division may calculate based on the
+ transfer price for the input supplied, may be slightly inflated.
+ Special orders from purchasing division may typically be placed to meet short term demands. If
+ transfer price is quoted at below full cost may be rejected because they could result in a loss for
+ the supplying division. This could lead to sub-optimization of resources. Fixed costs remain
+ constant in the short run, while the contribution margin from such special orders may have
+ benefited the company as a whole. In such cases, management intervention has to happen for
+ goal congruence.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.13
+
+3. Negotiation Based Transfer Price
+This  is a go-between between market and cost methods. Managers  of the purchasing and
+supplying divisions independently negotiate and arrive at a mutually agreeable transfer price.
+Advantage
+▪   Managers are given autonomy to decide whether to purchase (or sell) from its sister unit or
+     source then from (or to) external market.
+Disadvantage
+▪    This method requires sufficient external information to be available regarding the external
+     market price, terms of trade etc. Internal cost information must also be shared in order to
+     negotiate a reasonable price.
+
+
+ Concept Insight
+ Behavioural Consequences
+ These negotiations act as an integrating tool among the departments, it provides for autonomy
+ in decision making at the same time promotes goal congruence through efficient performance of
+ the concerned divisions.
+ While autonomy is given to the managers, top management intervention may be required  if
+ decisions lead  to sub-optimal  utilization  of resources. For example, when the purchasing
+ division decides to procure from an external vendor quoting a lower price, at the same time
+ supplying division has excess capacity, the management may have to intervene to ensure that
+ resources are used optimally and that the decision benefits the company as a whole.
+ Negotiated prices depend on the ability of the manager to bargain on behalf of the division. This
+ could affect the division’s performance. The process may be time consuming that could even
+ lead to conflict among the units.
+
+     C. TRANSFER PRICING AND GOAL CONGRUENCE
+Since internal transfer pricing develops a competitive setting for managers of each division,  it is
+possible that they may operate in the best interest of their individual performance. This can lead to
+sub-optimal utilization of resources. In such cases, transfer pricing policy may be established to
+promote goal congruence.
+Range of transfer price that promotes goal congruence:
+(i)   Minimum Transfer Price (determined by the supplying division)
+       =  Additional Outlay Cost per unit + Opportunity Cost per unit.
+     Additional Outlay Cost
+       =  Marginal  Cost  +  Any  Additional  Incidental  Costs  incurred  by  the  supplying
+             division e.g., storage, transportation etc.
+     Opportunity Cost is the benefit that is foregone from selling internally rather than externally.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+12.14      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+(ii)  Maximum Transfer Price (determined by the purchasing division)
+       =  Lower of Net Marginal Revenue and the External Buy-in Price
+     Net Marginal Revenue
+       =  Marginal Revenue (i.e. Selling Price p.u.) – Marginal Cost to Purchasing Division
+Example
+Division A transfers goods to Division B. Division A incurs marginal cost of `10 p.u. and Division B
+incurs marginal cost of `5 p.u to process  it further. Division B sells finished product externally at
+`20 p.u.
+To promote goal congruence:
+(i)   What should be the minimum transfer price that Division A should charge? Assume there is
+    no external market for this intermediate product.
+(ii)     If Division B can buy the intermediate part externally for (i) `14 p.u. (ii) `18 p.u what should
+    be the maximum price that Division A can charge to remain competitive with the external
+     vendor?
+(iii)  Assume that intermediate goods of Division A can be sold externally at `12 p.u. How does
+     opportunity cost  affect the transfer price range when Division B can procure the part
+      externally at `14 p.u.?
+Solution: Tabulating the information
+  Sr. No.   Particulars        Division A (`)   Division B (`)
+    1       Transfer-in Price         ?               ?         Net Marginal Revenue
+                                                        = `20 (MR) - `5 (MC)    2      Marginal Cost            -10                -5
+                                                        = `15 p.u.  3 = 1+2   Total Cost               -10                -5                                                                 Higher Transfer Price will
+    4       Selling Price                           20           result in loss
+
+                   Min. Recovery needed for Div. A
+Range of transfer price that promotes goal congruence:
+(i)  Minimum Transfer Price
+       =  Marginal Cost p.u. to Division A = `10 p.u.
+     Note there is no opportunity cost here. Hence, the minimum that Division A will wish to
+     recover will be the marginal cost (or variable cost) p.u. that it incurs, which here is `10 p.u.
+(ii)   Calculation of maximum transfer price when Division B can procure externally.
+    Maximum Transfer Price
+       =  Lower of Net Marginal Revenue and the External Buy-in Price
+     Net Marginal Revenue
+       =  Marginal Revenue – Marginal Cost to Division B
+       =  `20 - `5
+       =  `15 p.u.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.15
+
+     This is the maximum price that Division B will pay for the intermediate good, whether  it
+     purchases from Division A or procures from outside. Any higher is a loss to Division B.
+    Case 1: When procurement price is `14 p.u.
+    Maximum Transfer Price
+       =  Lower of Net Marginal Revenue `15, the External Buy-in Price `14
+    Maximum transfer price in this case will be external buy-in price `14 p.u. While, Division B
+     can afford to pay upto `15 p.u. to break even,  it will prefer to buy at a lower rate from the
+     external vendor as that would yield a profit of `1 p.u. (selling price `20 – MC `5 – purchase
+      price `14). Hence, for Division A to remain competitive, it can charge no more than `14p.u.
+     Since MC of Division A is only `10 p.u. with no opportunity cost, a maximum price of `14 p.u.
+     should be acceptable to Division A as well.
+    To conclude transfer price range between `10 and `14p.u. will promote goal congruence.
+    Case 2: When procurement price is `18 p.u.
+    Maximum Transfer Price
+       =  Lower of Net Marginal Revenue `15, the External Buy-in Price `18
+    Maximum transfer price in this case will be the net marginal revenue `15 p.u. External buy-in
+      price of `18 p.u. will result in losses for Division B. Hence, Division A here can charge upto
+    `15 per unit. With no other opportunity cost, Division A can have a reasonable margin, while
+     Division B can procure the intermediate product at a price lower than market.
+    To conclude transfer price range between `10 and `15 p.u. will promote goal congruence.
+(iii)  Range when opportunity costs exists for Division A and Division B has buy-in price `14 p.u.
+    When Division A can sell externally at `12 p.u.
+    Minimum Transfer Price
+       =  Marginal Cost per unit + Opportunity Cost per unit.
+     Opportunity Cost per unit
+       =  External Sale Price – Marginal Cost
+       =  `12 - `10
+       =  `2, this represents the contribution per unit when external sales are made by Division A.
+     For the internal transfer to Division B to be equally profitable, Division A  will demand a
+    minimum price of `12 = marginal cost `10 + opportunity cost `2.
+    As explained in sub-question (ii), Case 1, Division B will be ready to pay maximum `14 p.u.
+     which is the buy-in price. Hence, subject to negotiating skills of manager of Division B, the
+      transfer price can be set between `12 p.u. - `14 p.u. The ideal transfer price would be `12
+      p.u. Division A is able to achieve profitability at par with its external sales, while Division B
+     can procure its material at a much lower cost.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+12.16      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+     D. TRANSFER PRICING DECISION, DIFFERENT CIRCUMSTANCES
+1. Different Capacity Levels
+When the supplying division has excess capacity, the range for transfer pricing would be
+(1)  Minimum Transfer Price
+       =  Marginal Cost p.u.
+     This ensures that the supplying department is able to recoup at least its additional outlay
+     incurred on account of the transfer. Fixed cost is a sunk cost hence ignored.
+     Since capacity can be utilized further,  it would be optimum for the supplying division to
+     charge  only  the marginal  cost  for  internal  transfer. The purchasing  division gets  the
+     advantage getting the goods at a lower cost than market.
+(2)  Maximum Transfer Price
+       =  Lower of Net Marginal Revenue and the External Buy-in Price
+When the supplying division operates at full capacity, the range for transfer pricing would be
+(1)  Minimum Transfer Price
+       =  Marginal Cost p.u. + Opportunity Cost p.u.
+     Since the supplying division is operating at full capacity, it has no incentive to sell the goods
+      to the purchasing division at a price lower than the market price.  If the internal order is
+     accepted,  capacity  is  diverted towards  this  sale. Hence  the supplying  division would
+      additionally charge the lost contribution from external sales that had to be curtailed.
+(2)  Maximum Transfer Price
+       =  Lower of Net Marginal Revenue and the External Buy-in Price
+Example
+A company has a division A producing three products called X, Y, Z. Each product can be sold in
+the open market in the following manner.
+Maximum external sales are X 800 units, Y 500 units, Z 300 units. All figures in `
+  Particulars                                   X        Y          Z
+  Selling Price per unit                                 96         92          80
+  Variable Cost of Production in Division A                 33         24          28
+ Labour Hours Required per unit in Division A              6          8           4
+Product Y can be transferred to Division B, but the maximum quantity that might be required for
+transfer is 300 units of Y.
+Division B could buy similar product in the open market at a price of `45 p.u.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.17
+
+(i)   What should be the transfer price per unit for 300 units of Y, if the total labor hours available
+     with Division A are:
+      (a)  13,000 hours  (b)  8,000 hours and  (c) 12,000 hours.
+(ii)   Indicate the transfer pricing range that can promote goal congruence.
+Solution
+Division A has two type of clientele, external customers and Division B. Capacity in Division A is
+defined by the number of labor hours available for production.
+The total hours needed to meet external demand is 10,000 hours as explained below:
+                     Statement of Hours Needed for External Sales
+                External Sales    Qty   Hours p.u.     Total Hours Needed
+                 X          800       6                4,800
+                 Y          500       8                4,000
+                  Z          300       4                1,200
+            Hours Needed for External Sales                   10,000
+Case 1: When 13,000 hours are available, after meeting the external demand requiring 10,000
+hours, Division A will have surplus capacity of 3,000 hours.
+Hours needed to produce 300 units of Y = 300 × 8 hours = 2,400 hours. Since Division A has
+surplus capacity,  it can meet the demand of Division B also without curtailing its external sales.
+Hence, there is no opportunity cost on account of lost contribution.
+Transfer price range:
+Minimum Transfer Price p.u.
+   =  Marginal Cost of Production p.u. of Y = `24.
+Maximum Transfer Price
+   =  Lower of Net Marginal Revenue and the External Buy-in Price
+The Maximum Transfer Price would be the External Procurement Price for Division B
+   =  `45 p.u.
+Note: Additional cost information related to Division B would be needed to calculate net marginal
+revenue.
+Case 2: When 8,000 hours are available, Division A has limited capacity as explained below.
+The total hours needed for external sales is 10,000 and those need for internal transfer is 2,400
+hours. In all, 12,400 hours are needed, when only 8,000 hours are available. There is a shortfall of
+4,400 hours. Capacity is hence limited.
+Therefore, labor hours have  to be  utilized  optimally. This  is determined by  calculating the
+contribution per hour from sale each product that is sold externally.  It determines how valuable
+each hour is product wise.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+12.18      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+                   Statement of Product Wise Contribution per hour
+    Sr. No.     Particulars                            X       Y        Z
+      1         Selling Price p.u.                            96        92        80
+      2        Less: Variable Cost p.u.                      33        24        28
+   3 = 1 - 2     Contribution p.u.                            63        68        52
+      4       Labour hours needed p.u.                      6         8         4
+   5 = 3 / 4     Contribution per hour                         10.50      8.50      13.00
+      6       Ranking high to low                                                   II                III                  I
+Product Z gives the maximum contribution per hour, hence ranked 1. Product X and Y follow at rank
+2 and 3 respectively. This is the basis to allocate limited hours for optimal production in Division A.
+The entire demand of Product Z  will be produced  first. This requires 1,200 hours. Out of the
+balance 6,800 hours, Product X will require 4,800 hours. This leaves a balance of 2,000 hours for
+Product Y. Product Y requires 8 hours p.u. Hence maximum production of product Y = 2,000
+hours/ 8 = 250 units.
+                             Statement of Optimum Mix
+                                 Total Hours Available 8,000
+       Priority        External     Qty      Hours        Total Hours      Remaining
+                     Sales                     p.u.         Needed         Hours
+        1            Z        300         4             1,200            6,800
+        2           X        800         6             4,800            2,000
+        3           Y        250         8             2,000                       -
+  Total Hours Needed for External Sales                                8,000
+If Division A accepts to produce 300 units of Y for Division B, the total hours required for internal
+sales would be 2,400 hours. This can be catered to by curtailing its external sales. 2,000 hours
+from production of external sales of Product Y is first diverted and the balance 400 hours are
+diverted from production of Product X. Hence this results in lost contribution, an opportunity cost
+that has to be included in transfer pricing.
+Contribution Lost from Reduced External Sales
+   =  Product Y (2,000 hours ×  contribution per hour  of `8.5) + Product X (400 hours ×
+       contribution per hour of `10.5)
+   =  `17,000 + `4,200 = `21,200
+On a per unit basis, lost contribution works out to 21,200 / 300 units = `70.66
+Therefore, Transfer Price
+   =  Marginal Cost p.u. + Contribution Lost from Reduced External Sales
+   =  `24 + `70.66 = `94.66
+Since Division B can source at `45, it would be cheaper to purchase the component from outside.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.19
+
+Case 3: When 12,000 hours are available, Division A has limited capacity as explained below.
+The total hours needed for external sales is 10,000 and those need for internal transfer is 2,400
+hours. In all, 12,400 hours are needed, when only 12,000 hours are available. There is a shortfall
+of 400 hours. Capacity is hence limited.
+Therefore, labor hours have to be utilized optimally. Again, as explained  in Case 2,  this  is
+determined by calculating the contribution per hour from sale each product that is sold externally.
+Referring to the table above, Contribution per hour is X: `10.5; Y: `8.5 and Z: `13. Accordingly,
+production wise Z will be given first priority, followed by X and then Y.
+The entire demand of Product Z  will be produced  first. This requires 1,200 hours. Out of the
+balance 10,800 hours, Product X will require 4,800 hours. This leaves a balance of 6,000 hours for
+Product Y. Product Y requires 8 hours p.u. External sales of product require 4,000 hours (500 units
+× 8 hours p.u.).
+                              Statement of Optimum Mix
+                                 Total Hours Available 8,000
+                                          Hours       Total Hours     Remaining
+     Priority      External Sales     Qty          p.u.        Needed        Hours
+       1             Z           300         4            1,200          10,800
+       2           X           800         6            4,800           6,000
+       3           Y           500         8            4,000           2,000
+  Total Hours Needed for External Sales                                 10,000
+This leaves 2,000 hours available for production of 300 units of Y to be sold to Division B. These
+300 units will require 2,400 hours (300 units × 8 hours p.u.). Hence, there is a shortfall of 400
+hours to meet this internal demand.  This shortfall of 400 hours will be made up with diverting
+hours earmarked for external sale of Product Y (Rank 3 as explained in the table above). Loss of
+contribution on account of curtailed sales would then be built into the transfer price.
+Contribution Lost by Diverting 400 hours from Product Y for External Sales
+   =  400 hours × contribution per hour
+   =  400 hours × `8.5
+   =  `3,400.
+On a per unit basis,
+   =  3,400 / 300 units = `11.33
+Therefore, Transfer Price
+   =  Marginal Cost p.u. + Contribution Lost from Reduced External Sales
+   =  `24 + `11.33
+   =  `35.33
+Division B can source this at `45 p.u. from outside. Hence transfer price can be in the range
+`35.33 to `45.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+12.20      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+2. Different Demand Levels
+A supplying division caters to demand from (i) internal divisions (ii) external markets, if any and (iii)
+any special orders. Production  is subject to available capacity. Production cost benefits from
+economies of scale. For example, a machinery may be capable of processing 10,000 units.
+However, production beyond this level may require the purchase of another machine requiring
+additional space. This increases the fixed cost incurred by the department. Hence, production
+cost is dependent on economies to scale.
+Certain types of demand may result in cost savings. For example, internal sales require lower
+packaging costs since the product may be transferred in bulk to the purchasing division. Likewise,
+special orders may not require selling expenses since typically it is the customer who approaches
+the seller in these cases and not the other way around.
+Therefore, while catering to  different levels  of demand, any change  in cost should also be
+accounted for to calculate transfer pricing. The general rule for minimum and maximum range of
+transfer price applies here too.
+Example
+A company has two divisions A and B, making products A and B respectively. One unit of A is an
+input for each unit of B. B has a production capacity of 45,000 units and ready market. Other
+information available regarding Division A are:
+  Capacity (production units)                                                       50,000
+ Maximum External Sales                                                       30,000
+  Fixed Cost upto 30,000 units. Beyond 30,000 units- It increases by 50,000 for every   4,30,000
+  additional 10,000 units
+  Variable Manufacturing Cost p.u.                                              55
+  Variable Selling Cost p.u. (external sales)                                        10
+  Variable Selling Cost p.u. (special order/ transfer to B)                                5
+  Selling Price p.u. (external market)                                              80
+  Selling Price (special sales)                                                    70
+B can buy the input A from outside at a slightly incomplete stage at `45 p.u. and  will incur
+subcontracting charges of `30 p.u. to match it to the stage at which it receives goods from Division
+A. Division B is willing to pay a maximum of `75 p.u.  if Division A supplies its entire demand of
+45,000 units. If Division A supplies lesser quantity, Division B is willing to pay only `70 p.u.
+Division A has also received a special order for 15,000 units which it needs to either accept in full
+or reject. Division A may choose to avoid variable selling cost of `5 p.u. on transfer to B or special
+order, by incurring a fixed overhead of `50,000 p.a. instead.
+(i)   What is the best strategy for Division A? Show the profitability of that option.
+(ii)  What will the range of transfer price be under if the best strategy is chosen?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.21
+
+Solution
+(i)  What is the best strategy for Division A?
+     With a production capacity of 50,000 units, Division A has to find an optimum mix of sales
+    between external sales, internal transfer to Division B and special order. Division B requires
+     45,000 units. Division A can supply the entire 45,000 units to Division B for which transfer
+      price is `75 p.u. or can supply lower quantity for which transfer price is `70 p.u.
+    As production increases, certain cost components would also change. Changes to cost of
+     production and selling expenses are discussed below.
+      1)   Selling expenses: It is given that for special orders or internal transfers, Division A can
+            either bear a variable selling cost of `5 p.u. or choose to incur a fixed cost of `50,000 p.a.
+         Working out the indifference point, the selling cost will be the same at 10,000 units (at
+         what point will No. of units × `5 = `50,000; No. of units = 10,000). For any transfer or
+          sale below 10,000 units, it makes sense to bear the variable cost of `5 p.u. Over 10,000
+           units it makes sense to bear the fixed cost of `50,000.
+        Even  If Division A chooses to cater entirely to external sales of 30,000 units, the
+          balance 20,000 units will be used to cater to either the special order or as internal
+           transfer to Division B or can even be both (special order 15,000 units and internal
+           transfer 5,000 units). Since in any case sale will be more than 10,000 units, Division A
+         can opt to bear the fixed cost of `50,000.
+      2)   Since A  is working  at  full capacity  i.e. 30,000  units are produced. Fixed cost  is
+          `4,30,000 that would increase by `50,000 for every extra 10,000 units produced over
+         30,000 units. Hence total fixed cost will be 5,30,000.
+    To arrive at the optimum mix, Division A will calculate the contribution received per unit under
+     the various options.
+                            Statement of Contribution per unit
+      Particulars                          External     Special     Transfer   Transfer
+                                           Sale       Order       to B <       to B
+                                    Upto 30,000    15,000      45,000     45,000
+                                              units        units        units       units
+       Selling Price               …(a)      80          70         70        75
+      Less: Variable Cost          …(b)
+                    (i) Manufacturing                55          55         55        55
+                     (ii) Selling & Dist.                10          0          0          0
+       Contribution           …(a) – (b)      15          15         15        20
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+12.22      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+     Hence, transfer to division B of 45,000 units yields the highest contribution. This leaves a
+     balance capacity of 5,000 units with Division A, whose maximum capacity is given to be
+     50,000 units. This is insufficient to meet the special order of 15,000 units.
+     Hence, Division A will utilize the balance 5,000 units to cater to external sales. Therefore, the
+    optimum production mix would be:
+     Transfer to Division B 45,000 units and external sales 5,000 units.
+                                     Profitability Statement of Division A
+          Particulars                                              Figures in `
+          Contribution from
+           (a) Transfer to Division B (45,000 units × `20)                       9,00,000
+           (b) External Sales (net of selling expense) (5,000 units × `15)          75,000
+          Total Contribution from Sales                          …(i)        9,75,000
+         Manufacturing Fixed Cost                                        5,30,000
+           Selling Fixed Cost                                               50,000
+          Total Fixed Costs                                         …(ii)        5,80,000
+            Profit Earned                                     …(i) – (ii)        3,95,000
+(ii)  Range of transfer price under the best strategy.
+    As explained above, the best strategy for Division A would be to transfer 45,000 units to
+     Division B and sell 5,000 units externally.
+    Minimum Transfer Price
+       =  Marginal Cost per unit + Additional Outlay per unit + Opportunity Cost per unit
+         If 45,000 units are not transferred to Division B then next best alternative would be either sell
+     30,000 units to external market, sell 15,000 units to special order and transfer 5,000 units to
+     Division B (partial transfer) or sell 30,000 units to external market and transfer 20,000 units
+      to Division B (partial transfer);  all cases yielding contribution of `15 per unit. This is the
+     opportunity cost for Division A for choosing the best strategy.
+      In all above options (best strategy and other alternatives) Division A will work on full capacity
+    and outlay on manufacturing fixed cost and selling cost will be the same.  Therefore, impact
+      of additional outlay on the minimum transfer price per unit will be nil.
+     Therefore, Minimum Transfer Price that Division A will Demand
+       =  `55 + `15
+       =  `70
+    Maximum Transfer Price Division B is willing to pay (given) = `75
+     This would be range in which Transfer Price will be negotiated.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.23
+
+     E. PROPOSALS FOR RESOLVING TRANSFER PRICING CONFLICT
+Conflict  of  interest between  interests  of  individual  divisions and the company can also be
+addressed by following the following systems for transfer pricing:
+1. Dual Rate Transfer Pricing System
+The supplying division records transfer price by including a normal profit margin thereby showing
+reasonable revenue. The purchasing division records transfer price at marginal cost thereby
+recording purchases  at minimum  cost. This  allows  for  better  evaluation  of each  division’s
+performance.  It also improves co-operation between divisions, promoting goal congruence and
+reduction of sub-optimization of resources.
+Drawbacks of Dual Pricing include:
+(i)     It can complicate the records, thereby may result in errors in the company’s overall records.
+(ii)   Profits shown by the divisions are artificial and need to be used only for internal evaluations.
+2. Two Part Transfer Pricing System
+This pricing system is again aimed at resolving problems related to distortions caused by the full
+cost-based transfer price.
+Here, transfer price = marginal cost of production + a lump-sum charge (two part to pricing).
+While marginal cost ensures recovery of additional cost  of production related  to the goods
+transferred, lump-sum charge enables the recovery of some portion of the fixed cost of the
+supplying  division. Therefore, while the supplying  division can show  better  profitability, the
+purchasing division can purchase the goods a lower rate compared to the market price.
+       Case Scenario
+
+  Global Multinational Ltd. (GML) has two Divisions ‘Dx’ and ‘Dz’ with full profit responsibility. The
+  Division ‘Dx’ produces Component ‘X’ which  it sells to ‘outside’ customers only. The Division
+  ‘Dz’ produces a product called the ‘Z’ which incorporates Component ‘X’ in  its design. ‘Dz’
+  Division  is currently purchasing required units of Component  ‘X’ per year from an outside
+  supplier at market price.
+ New CEO for Indian Operations has explored that ‘Dx’ Division has enough capacity to meet
+  entire requirements of Division ‘Dz’ and accordingly he requires internal transfer between the
+  divisions at marginal cost from the overall company’s perspective.
+ Manager of Division ‘Dx’ claims that transfer at marginal cost are unsuitable for performance
+  evaluation since they don’t provide an incentive to the division to transfer goods internally. He
+  stressed that transfer price should be ‘Cost plus a Mark-Up’.
+ New CEO worries that transfer price suggested by the manager of Division ‘Dx’ will not induce
+ managers of both Divisions to make optimum decisions.
+ Required
+ DISCUSS transfer pricing methods to overcome performance evaluation conflicts.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+12.24      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+ Solution
+ To overcome the optimum decision making and performance evaluation conflicts that can
+  occur with marginal cost-based transfer pricing following methods has been proposed:
+ Dual Rate Transfer Pricing System
+  “With a ‘Dual Rate Transfer Pricing System’ the ‘Receiving Division’ is charged with marginal
+  cost of the intermediate product and ‘Supplying Division’ is credited with full cost per unit plus a
+  profit margin”.
+  Accordingly Division ’Dx’ should be allowed to record the transactions at full cost per unit plus a
+  profit margin. On the other hand Division ‘Dz’ may be charged only marginal cost. Any inter
+  divisional profits can be eliminated by accounting adjustment.
+  Impact:
+ −    Division ’Dx’ will earn a profit on inter-division transfers.
+ −    Division ’Dz’ can chose the output level at which the marginal cost of the component ’X’ is
+      equal to the net marginal revenue of the product ’Z’.
+ Two Part Transfer Pricing System
+  “The ‘Two Part Transfer Pricing System’ involves transfers being made at the marginal cost per
+  unit of output of the ‘Supplying Division’ plus a lump-sum fixed fee charged by the ‘Supplying
+  Division’ to the ‘Receiving Division’ for the use of the capacity allocated to the intermediate
+  product.”
+  Accordingly Division ‘Dx’ can transfer its products to Division ‘Dz’ at marginal cost per unit and a
+ lump-sum fixed fee.
+  Impact:
+ −   ‘Two Part Transfer Pricing System’  will inspire the Division ’Dz’ to choose the optimal
+       output level.
+  This pricing system also enable the Division ’Dx’ to obtain a profit on inter-division transfer.
+
+      F. INTERNATIONAL TRANSFER PRICING
+Dynamic business models enable business to spread their business across countries. In the recent
+decades, with the acceptance of a globalized environment, benefits of such business models are
+being enjoyed across countries.  Business have benefitted from a multi-national business model.
+For multinationals considerations for such business models are driven by many factors:
+▪   Demand for its final products
+▪    Availability of raw materials in a specific country. To source such inputs, multi-national
+    companies can have business set-up in the foreign country. Example DeBeers Group that
+     sources diamonds from across the world or from India the Tata Group of companies.
+▪    Availability  of low-cost labor  with specialized  skills.  India has been one  of the major
+      beneficiaries of this outsourcing model.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.25
+
+It can be concluded that transactions between divisions of these multi-national companies could
+involve transfer  of goods, provision  of services  or even  for intangibles  for use  of parents,
+copyrights, brands in the form of royalty payments.
+In few cases, they could be inter-company loans to take advantage of excess funds lying with a
+company, meeting the needs of a company in another country.
+Taxation,  profit  repatriation  and  transfer  prices  are  critical  considerations  to  the  senior
+management of the multi-national companies. Multi-national organizations try to maximize profits
+by using transfer pricing as a tool to reduce the tax impact on earnings. Where, the supplying
+division is in a country with higher tax rate, the transfer price will be set lower in-order to reflect
+higher earnings (resulting from lower purchase cost) in the purchasing division, which has a lower
+tax rate. Likewise, supply from lower tax rate countries may be priced higher, in order to reflect
+higher earnings for that unit, thereby reducing the tax impact.
+As explained  in the beginning of the chapter, from a taxation perspective, transfer price  is
+analyzed as to whether  it  is at an “arms-length” price. However, what  is “arms-length”  is a
+subjective question.
+A recent case in point is the ruling on Starbucks UK subsidiary by the British authorities: Known for
+their world famous coffee, that generate high margins for the company. Although management
+claimed that business was good, the tax records reported losses. Investigations revealed that the
+UK subsidiary paid its Netherlands unit 6% of sales as royalty for intellectual property such as its
+brand and business processes. This agreement “6% of sale” is the transfer price between the
+units. The question tax authorities raised was whether this was at arms-length, is  it comparable
+with market terms for similar transactions.
+In India such tax avoidance measures are being regulated by the government with the introduction
+of Section 92A to 92F in the Income Tax Act, 1961. This concept is covered in further detail in your
+taxation syllabus.
+Example
+A car manufacturing company has two manufacturing divisions in different countries. Division A in
+India manufactures engines for the cars. It has a capacity to manufacture 10,000 units each year.
+The variable cost of production is `8,000 p.u. and the division can sell 8,000 engines externally to
+customers within India at `11,000 p.u. The other division, Division B is in Italy that requires 5,000
+engines every year to assemble them further into cars. It purchases these engines from a vendor
+in Italy at a price that is equivalent to `9,000 p.u.. If Division B were to purchase these units from
+Division A, the transfer price would be `10,000 p.u. Since no selling expenses need to be incurred
+on internal sales, variable cost of such transfers would be `7,000 p.u.  If Division A accepts the
+internal order from Division B, it will have to curtail some of its external sales.
+Given that the tax rate is 30% in India and 40% in Italy. Determine  if the company will benefit
+overall if Division B purchases from Division A.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+12.26      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Solution
+Problem Definition: If Division B buys from Division A, will it benefit the company as a whole?
+Key Considerations: Contribution p.u. under external and internal sale options and the tax impact.
+Methodology:
+Part 1: Benefit to Division A
+Currently external sales are 8,000 units. If Division A accepts to cater to Division B’s requirements,
+external sales have to be curtailed by 3,000 units. The sales mix would be external sales 5,000
+units and internal transfer 5,000 units. (refer working note 1).
+Division A was previous producing 8,000 units. On accepting Division B’s order, it is operating at
+full capacity of 10,000 units, an additional 2,000 units are being produced. As per working note 2,
+contribution from each option is the same at `3,000 p.u.
+Additional Contribution
+   =  2,000 units × `3,000 p.u.
+   =  `60,00,000.
+Division A pays tax in India at 30%.
+Hence, the Net Tax Contribution
+   =  `60,00,000 × (100% - 30%)
+   =  `42,00,000.
+Part 2: Net Additional Cost to Division B
+Division B is currently purchasing the engine within Italy at `9,000 p.u. (` equivalent value). If  it
+purchases from Division A, it will pay `10,000 p.u.
+Additional Purchase Cost
+   =  5,000 units × (`10,000 - `9,000)
+   =  `50,00,000.
+However, this extra cost is tax deductible at a rate of 40%, the tax rate in Italy. Hence Additional
+Cost (net of tax)
+   =  `50,00,000 × (100% - 40%)
+   =  `30,00,000.
+Part 3: Overall benefit (after tax) to the company
+As explained above, Division A benefits by `42,00,000 while Division B incurs an extra cost of
+`30,00,000. Hence, the net after tax benefit to the company is `12,00,000.
+Therefore, Division B should purchase engines internally from Division A.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.27
+
+Working Notes
+1.   Statement of Capacity Utilization of Division A
+      Sr. No.    Particulars                           Number of units
+         1     Maximum Capacity                               10,000
+         2      External Sales                                    8,000
+      3 = 1 - 2   Spare Capacity                                    2,000
+         4       Division B's Requirement                           5,000
+      5 = 4 - 3   External Sales Curtailed to meet B's Demand         3,000
+              = B's Requirement - Spare Capacity Available
+              = 5,000 units - 2,000 units
+    From the above table  it can be seen that Division A has a spare capacity of 2,000 units
+      currently. However, if it has to cater to Division B’s requirements, external sales have to be
+      curtailed by 3,000 units.
+2.   Statement of Contribution p.u.
+                                                                                  Figures in `
+       Sr. No.     Options                           External Sale        Internal Sale
+         1        Selling Price p.u.                      11,000             10,000
+         2       Less: Variable Cost p.u.                 8,000               7,000
+      3 = 1 – 2   Contribution p.u.                        3,000               3,000
+Illustration 1
+ABC miners operates two divisions, one in Japan and other in United Kingdom (U.K.). Mining
+Division is operated in Japan which is rich in raw emerald.
+The other division  is United Kingdom Processing Division.  It processes the raw emerald into
+polished stone fit for human wearing.
+The cost details of these divisions are as follows:
+
+  Division            Japan Mining Division       United Kingdom Processing Division
+                     Per carat of raw emerald         Per carat of polished emerald
+  Variable Cost                2,500 Yen                        150 Pound
+  Fixed Cost                  5,000 Yen                        350 Pound
+
+Several polishing companies in Japan buy raw emerald from other local Mining Companies at
+9,000 Yen per carat. Current Foreign Exchange Rate is 50 yen = 1 Pound. Income Tax rates are
+20% and 30% in Japan and the United Kingdom respectively.
+
+It takes 2 carats of Raw Yellow emerald to yield 1 carat of Polished Stone. Polished emerald sell
+for 3,000 Pounds per carat.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+12.28      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+
+Required
+
+(i)  COMPUTE the transfer price for 1 carat of raw emerald transferred from Mining Division to
+     the Processing Division under two methods - (a) 200% of Full Costs and (b) Market Price.
+
+(ii)   1,000 carats of raw emerald are mined by the Japan Mining Division and then processed and
+     sold by the U.K. Processing Division. COMPUTE the after tax operating income for each
+      division under both the Transfer Pricing Methods stated above in (i).
+Solution
+(i)   Transfer Price: 200% of Full Cost Basis
+       = 200% of (¥ 2,500 + ¥ 5,000)
+       =  ¥ 15,000 or £300 (¥ 15,000/ 50)
+     Transfer Price: Market Price Basis
+       =  ¥ 9,000 or £180 (¥ 9,000/ 50)
+(ii)                           Statement Showing “Operating Income”
+      Particulars                     Japan Mining Division   UK Processing Division
+                                            Transfer Price             Transfer Price
+                                       ¥15,000      ¥9,000      £300        £180
+      Selling Price (Polished Stone)                   ---                ---        £3,000       £3,000
+      Transfer Price (Raw Emerald)         ¥ 15,000     ¥ 9,000            ---                  ---
+    Raw Emerald                                       ---                ---        £600        £360
+                                                                      (£300 × 2)      (£180 × 2)
+      Variable Cost                     ¥ 2,500     ¥ 2,500      £150        £150
+     Fixed Cost                       ¥ 5,000     ¥ 5,000      £350        £350
+       Profit Before Tax                  ¥ 7,500     ¥ 1,500      £1,900       £2,140
+      Less: Tax 20%/ 30%               ¥ 1,500      ¥ 300       £570        £642
+       Profit After Tax per Carat of Raw      ¥ 6,000     ¥ 1,200      £1,330       £1,498
+     Emerald
+    Raw Emerald                      1,000 Carats 1,000 Carats 500 Carats    500 Carats
+      Total Profit                      ¥ 60,00,000  ¥ 12,00,000  £6,65,000     £7,49,000
+                                     Or         Or
+      Total Profit (£)                      £1,20,000    £24,000    £6,65,000     £7,49,000
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.29
+
+International Transfer Pricing and Currency Management
+International firms are exposed to exchange fluctuation risks. These fluctuations create uncertain
+cash flows in corporate currency and also can misrepresent performance of subsidiaries. With
+inter-divisional trading between subsidiaries in different countries, when one subsidiary makes a
+loss on a contrary exchange rate movement, the other will make a profit. The company as a whole
+should manage  its exposures  to currency  risks. The management  of currency  risk  is  the
+responsibility of either the  profit centre managers or a treasury department. A multinational
+company might be keen to set transfer prices in a currency such that any currency losses arise in
+the subsidiary in the high-tax country, and currency profits arise in the country with the lower tax
+rate if it is fairly - certain about exchange rate movement in the future.
+Conclusion
+From the discussion above, we can conclude that transfer pricing is not just about passing on the
+charge from one division to another. They are vitally important because financial results are greatly
+influenced by transfer prices. They impact management decision making, employee performance
+and morale as well as certain investment decisions. Many times, these factors determine the
+success of businesses.
+   SUMMARY
+ ❑ Divisions could be departments  within a company  or group companies  of a  parent
+     organization.
+ ❑ Inter  divisional  transfers could  involve  transfer  of goods and  services, payments  for
+     intangibles like intellectual property for usage of brand, patent in the form of royalty fee or
+     license fee, or inter-divisional loans at specified interest rates.
+ ❑ Valuation of inter-divisional transfer of goods and services in the management accounting
+    system is called Transfer Pricing
+ ❑ Utility of Transfer Pricing – Performance Evaluation (profit accountable divisions), Employee
+    Engagement and Compensation (motivates employees  in improving  divisional  profits),
+    Resource Allocation (optimisation of resources and critical like make or buy), Taxation and
+      Profit Remittance (impact earnings of multi-national companies affecting the over-all tax
+    burden for the company as well as the profits that may need to be repatriated to its head
+      office).
+ ❑ Fair Value – Transfer Pricing is often associated with the term “arms-length” price. This
+     implies that the price for inter-divisional transfer has to be fair and competent enough as if
+     dealing with a third party. Fair value from a business perspective depends on how each
+     division finds the price compatible with its profit targets.
+ ❑ Transfer Pricing Methods and Transfer Pricing Decision in Different Scenarios–
+        i) Market Price – Transfer price is based on market price of goods or services similar to the
+    ones transferred internally within divisions. The transfer can be recorded at the external
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+12.30      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+    market price, adjusted for any costs that can be saved by internal transfer e.g. selling and
+      distribution expenses, packaging cost.
+    Advantages – Unbiased, less–ambiguous, more objective divisional performances.
+    Disadvantages – Fluctuating market prices may not be suitable, non-availability of market
+     prices in case of intermediate products, manipulative pricing strategies.
+     Behavioural Consequences - The supplying division will have to compete with the outside
+    vendor that may lead to cost competitive operations. The purchasing division has more
+     alternatives to choose from. However, the purchasing division must ensure that quality of
+     the goods are also comparative.
+    Shared Profit Relative to Cost Method – Cost incurred by each division indicates the value it
+    has added to the product cost, that is finally used to arrive at the selling price of the final
+     product. The primary advantage of this method  is that  it allocates  profit based on the
+     proportion of value addition to the product in terms of cost.
+         ii) Cost Price Method – Cost based pricing models are based on the internal cost records of
+     the company. They may be used when the management wants to benchmark performance
+     with the cost targets set within the company or may be an alternative when market prices for
+     the goods cannot be determined due to lack of comparable market.
+    Advantages – Benchmarking to budget, easy availability of information.
+    Disadvantages – Multiple ways of interpreting costs like variable cost, standard cost, full
+     cost, find little incentive to lower the cost of production by adopting cost efficient methods
+     since its passed on to the receiving department.
+     a) Variable Cost – Transfer price  is recorded marginal cost required to produce one
+     additional unit.
+    Advantages – useful when the supplying division has excess capacity, while the purchasing
+     division enjoys the benefit of a lower price compared to the market.
+    Disadvantages – No fixed cost or mark-up  is allowed to be charged to the purchasing
+      division.
+     Behavioural Consequences – Profit evaluation is centralized at the entity level. Therefore,
+     the supplying division may have little incentive to find measures for making cost efficient.
+    Non- recovery of fixed costs would de-motivate the supplying division.
+     b) Standard Cost – Transfer price is recorded at a predetermined cost, which is based on
+     budgets and certain assumptions regarding factors of productions like capacity utilization,
+     labour hours etc.
+    Advantages – Performance evaluation against budgeted costs, variance analysis.
+    Disadvantages – Profit performance measurement is centralized.
+     Behavioural Consequences – Budgeted costs are generally based on  historic records.
+     Therefore, little incentive exists to make costs more efficient to improve profitability.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.31
+
+     c) Full Cost – Transfer price is based on full product cost. It includes cost of production plus
+    a share of other costs of the value chain like selling and distribution, general administrative
+     expense, research and development etc.
+    Advantages – Supplying division will not show a loss.
+    Disadvantages – Since mark-up cannot be charged on internal transfers, the supplying
+     division does not record any profit on these sales
+     d) Full cost plus Mark-up – Transfer price is based on full product cost plus a mark-up.
+    Mark-up could be a percentage of cost or of capital employed.
+    Advantages – Full incentive to supplying division.
+    Disadvantages – The purchasing division may bear a share of the selling expenses although
+    none was incurred for such internal sales.
+     Behavioural Consequences – The problem with using full cost as a basis for transfer pricing
+      is that it distorts the company’s cost structure while making decisions.
+         iii) Bargained or Negotiated Pricing – Managers of the purchasing and supplying divisions
+     independently negotiate and arrive at a mutually agreeable transfer price.
+    Advantages – Autonomy to decide whether to purchase (or sell) from its sister unit or source
+     then from (or to) external market.
+    Disadvantages – Requires  sufficient external information to be available regarding the
+     external market price, terms of trade etc. Internal cost information must also be shared in
+     order to negotiate a reasonable price.
+     Behavioural Consequences – Provides for autonomy in decision making at the same time
+    promotes goal congruence through efficient performance of the concerned divisions
+ ❑ Divisional Conflict–
+    Dual Pricing – The supplying division records transfer price by including a normal profit
+    margin thereby showing reasonable revenue. The purchasing division records transfer price
+     at marginal cost thereby recording purchases at minimum cost.
+    Advantages – Allows  better  evaluation  of each  division’s performance, improves co-
+     operation between divisions, promoting goal congruence and reduction of sub-optimization
+     of resources.
+    Disadvantages – Complicate the records,  artificial profits can be used only for internal
+     evaluations
+    Two Part Pricing System –
+     Transfer Price
+      =  Marginal Cost of Production + a Lump-Sum Charge (two part to pricing).
+    Lump-Sum charge enables the recovery of some portion of the fixed cost of the supplying
+      division. Therefore, while the supplying division can show better profitability, the purchasing
+     division can purchase the goods a lower rate compared to the market price.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+12.32      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+ ❑ Transfer Pricing and Goal Congruence –
+     a) Minimum Transfer Price (determined by the supplying division)
+      =  Additional Outlay Cost per unit + Opportunity Cost per unit.
+     Additional Outlay Cost
+      =  Marginal  Cost  +  Any  Additional  Incidental  Costs  incurred  by  the  supplying
+           division e.g. storage, transportation etc.
+     b) Maximum Transfer Price (determined by the purchasing division)
+      = Lower of Net Marginal Revenue and the External Buy-in Price
+    Net Marginal Revenue
+      =  Marginal  Revenue   (i.e.  Selling  Price  p.u.)  –  Marginal  Cost  to  Purchasing
+          Division
+ ❑ Transfer Pricing Different Capacity Levels –
+    When the supplying division has excess capacity, the range for transfer pricing would be
+     a) Minimum Transfer Price
+       =  Marginal Cost p.u.
+     b) Maximum Transfer Price
+       =  Lower of Net Marginal Revenue and the External Buy-in Price
+    When the supplying division operates at full capacity, the range for transfer pricing would be
+     a) Minimum Transfer Price
+       =  Marginal Cost p.u. + Opportunity Cost p.u.
+     b) Maximum Transfer Price
+       =  Lower of Net Marginal Revenue and the External Buy-in Price
+ ❑ Transfer Pricing Decision – Different Demand Levels: while catering to different levels of
+    demand, any change in cost should also be accounted for to calculate transfer pricing. The
+     general rule for minimum and maximum range of transfer price applies here too.
+ ❑ International Transfer Pricing – Taxation, profit repatriation and transfer prices are critical
+     considerations to the senior management of the multi-national companies. Multi-national
+     organizations try to maximize profits by using transfer pricing as a tool to reduce the tax
+     impact on earnings. Where, the supplying division is in a country with higher tax rate, the
+     transfer price  will be set lower in-order to reflect higher earnings (resulting from lower
+    purchase cost) in the purchasing division, which has a lower tax rate. Likewise, supply from
+     lower tax rate countries may be priced higher, in order to reflect higher earnings for that
+      unit, thereby reducing the tax impact.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.33
+
+   TEST YOUR KNOWLEDGE- CASELET BASED MCQS
+Case-let on International Transfer Pricing
+Quicklink manufactures mobile phones at its plant in Karnataka, India. The company also has
+marketing divisions worldwide, one of which is in Paris, France. The division in France imports
+50,000 mobile phones annually from the manufacturing plant  in India. Given below  is some
+information about the divisions in India and France:
+ Number of mobile phones sold by Indian division to French division   50,000 units
+ Indian income tax rate on the Indian division's operating income    35%
+ French income tax rate on the French division's operating income   40%
+ Import duty rate paid by French division                     15%
+ Full manufacturing cost per unit                                ₹12,000 per unit
+ Selling price (net of marketing and distribution costs) in France (in  ₹18,000 per unit
+ equivalent Indian Rupees)
+ Comparable market price based on similar imports in France (in  ₹15,000 per unit
+ equivalent Indian Rupees)
+The Indian and French tax authorities allow for transfer prices only that between full manufacturing
+cost ₹12,000 per unit and comparable market price ₹15,000 per unit based on similar imports of
+mobile phones in France. Import duty paid by the French division is based on the price at which
+the phones are transferred i.e., the transfer price. Import duty paid is a deductible expense for
+calculating income tax in France.
+Requirements
+MCQ 1
+Calculate the after tax operating income of the Indian division when the transfer price is set
+at full manufacturing cost.
+Options
+a.  ₹60 crores
+b.  ₹9.75 crores
+c.   Nil (no taxable income)
+d.  ₹12.60 crores
+Key – c
+Reason – Refer working– Step A5 of Method A. Option (a) ₹60 crore is the revenue of the Indian
+division under full manufacturing cost method. Option (b) ₹9.75 crore is the profit as per Method B
+Option (d) ₹12.60 crores is the overall profit of Quicklink as per Method A.
+MCQ 2
+Calculate the after tax operating income of the French division when the transfer price is set at full
+manufacturing cost.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+12.34      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Options
+a.  ₹9 crores
+b.  ₹21 crores
+c.   Nil (no taxable income)
+d.  ₹12.60 crores
+Key – d
+Reason – Refer working – Step B7 of Method A. Option (a) ₹9 crore is the import duty paid by the
+French division under Method A. Option (b) ₹21 crores is the operating profit before taxes of the French
+Division under Method A. Option (c) is the after tax Operating profit of the Indian division under Method
+A.
+MCQ 3
+Calculate the after tax operating income of the Indian division when the transfer price is set at
+market price of comparable imports in France.
+Options
+a.  ₹15 crores
+b.  ₹9.75 crores
+c.  ₹ Nil (no taxable income)
+d.  ₹2.25 crores
+Key – b
+Reason – Refer working– Step A5 of Method B. Option (a) ₹15 crores is the operating profit of the
+Indian division before taxes under Method B. Option (c) Nil is the operating profit of the Indian division
+under Method A. Option (d) ₹2.25 crore is the operating profit after tax of the French division under
+Method B.
+MCQ 4
+Calculate the after tax operating income of the French division when the transfer price is set at
+market price of comparable imports in France.
+Options
+a.  ₹9.75 crores
+b.  ₹3.75 crores
+c.  ₹ 11.25 crores
+d.  ₹2.25 crores
+Key – d
+Reason – Refer working– Step B7 of Method B. Option (a) ₹9.75 crores is the operating income after
+tax of the Indian division under Method B. Option (b) ₹3.75 crores is the operating income before tax of
+the French division under Method B. Option (c) ₹11.25 crores paid by the French division under Method
+B.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.35
+
+MCQ 5
+Which method of transfer pricing is more beneficial for the company as a whole?
+Options
+a.  Transfer price at full manufacturing cost.
+b.  Transfer price at market price of comparable imports in France.
+Key – a
+Reason – Refer to Step C of working. When transfer price is charged as per Method A at the full
+manufacturing cost, the operating income (after taxes) is ₹12.60 crores. When the transfer price is
+charged as per Method B at the market price of comparative imports in France, the operating income
+(after taxes) is 12 crores. Hence,  it is more beneficial for Quciklink to set the transfer price at  full
+manufacturing cost of ₹12,000 per unit (Method A).
+MCQ 6
+Assume that the Indian division is charging the French division full manufacturing cost of ₹12,000
+per unit. If the manager of the Indian division wants to increase the transfer price to ₹12,001 per
+unit, that is transfer price is proposed to be increased by ₹1, what will be the impact on the income
+tax to be paid by the Indian division in India?
+Options
+a.  Increase in income tax payable in India by ₹0.35 per ₹1 increase in transfer price.
+b.  Decrease in income tax payable in India by ₹0.35 per ₹1 increase in transfer price.
+c.  No impact in income tax payable in India.
+Key – a
+Reason – Increase in income tax payable in India by ₹0.35 per ₹1 increase in transfer price. Refer to
+Step 1 in the explanation table.
+MCQ 7
+Assume that the Indian division is charging the French division full manufacturing cost of ₹12,000
+per unit. If the manager of the Indian division wants to increase the transfer price to ₹12,001 per
+unit, that is transfer price is increased by ₹1, what will be the impact on the income tax and import
+duty to be paid by the French division in France?
+Options
+a.  Increase in income tax payable in France by ₹0.46 and increase in import duty payable in
+    France by ₹0.15 per ₹1 increase in transfer price.
+b.  Decrease in income tax payable in France by ₹0.46 and increase in import duty payable in
+    France by ₹0.15 per ₹1 increase in transfer price.
+c.  Increase in income tax payable in France by ₹0.46 and decrease in import duty payable in
+    France by ₹0.15 per ₹1 increase in transfer price.
+d.  Decrease in income tax payable in France by ₹0.46 and decrease in import duty payable in
+    France by ₹0.15 per ₹1 increase in transfer price.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+12.36      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+Key – b
+Reason – Decrease in income tax payable in France by ₹0.46 and increase in import duty payable in
+France by ₹0.15 per ₹1 increase in transfer price. Refer to Step 2 and 3 in the explanation table.
+MCQ 8
+Assume that the Indian division is charging the French division full manufacturing cost of ₹12,000
+per unit. If the manager of the Indian division wants to increase the transfer price to ₹12,001 per
+unit, that is transfer price is proposed to be increased by ₹1. What will be the impact on the overall
+profits of Quicklink per ₹1 increase in transfer price?
+Options
+a.  Decrease in overall profits by ₹0.04 per ₹1 increase in transfer price.
+b.  Increase in overall profits by ₹0.04 per ₹1 increase in transfer price.
+c.  Increase in overall profits by ₹1 per ₹1 increase in transfer price.
+d.  No impact on the overall profits of Quicklink.
+Key – a
+Reason – Decrease in overall profits by ₹0.04 per ₹1 increase in transfer price. Refer to Step 4 in the
+explanation table.
+MCQ 9
+Assume that the Indian division is charging the French division full manufacturing cost of ₹12,000
+per unit. The manager of the Indian division wants to increase the transfer price to ₹13,000 per
+unit, that is transfer price is proposed to be increased by ₹1,000 per unit. What will be the impact
+on the overall profits of Quicklink for the 50,000 mobile phones transferred from India to France?
+Please use your answers to Questions 6, 7 and 8 for your analysis.
+Options
+a.  Decrease in overall profits by ₹20,00,000
+b.  Increase in overall profits by ₹20,00,000
+c.  Increase in overall profits by ₹50,00,000
+d.  No impact on the overall profits of the Quicklink
+Key – a
+Reason – Decrease in overall profits by ₹20,00,000. Refer to Step 5 in the explanation table.
+MCQ 10
+Based on your analysis of questions 6 to 9, should the Indian division increase the transfer price to
+₹13,000 per unit that is ₹1,000 per unit above the full manufacturing cost of ₹12,000 per unit?
+Options
+a.  Yes
+b.  No
+Key – b
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.37
+
+Reason – If the Indian division increases the the transfer price from ₹12,000 per unit to ₹13,000 per
+unit and transfers 50,000 units to the French division, the overall profits will decrease by ₹20,00,000.
+Refer to Step 5 in the explanation table. Therefore, the Indian division should not increase the transfer
+pricing rate.
+Descriptive Question 1
+Advise on behavioural consequences based on your findings in Questions 6 to 9.
+Answer- Observation: The income tax rate in India is 35% as compared to the income tax rate in
+France at 40%. Hence, on first glance  it might seem attractive to increase the transfer price from
+₹12,000 per unit to ₹13,000 per unit. In India this increase in transfer price of ₹1,000 per unit is
+taxed at 35%. In France the procurement cost increases by ₹1,000. While it might seem beneficial
+at first glance, the impact of import duty of 15% on this additional procurement cost of ₹1,000
+negates the benefit.
+The most optimal transfer price in the above case of Quicklink is the full manufacturing cost of
+₹12,000 per unit where the overall company profit is maximum at ₹12.60 crores.
+Behavioural Consequence: When the transfer price is at full manufacturing cost of ₹12,000 per
+unit, the Indian division does not show any profit in its financials. The net operating income after
+taxes is nil. The manager of the Indian division may want to charge above the full manufacturing
+cost of ₹12,000 per unit in order to start reflecting profits in the financials of the Indian division.
+However, the management should discourage this as the overall impact is negative. Performance
+evaluation of the Indian division may have to be done of a different basis other than financials.
+Conclusion- Multinationals have to carefully understand the tax structure while they determine the
+transfer pricing models and the transfer price rate to be charged between two divisions in different
+countries.
+Workings
+                                                                                  All figures in ₹      All figures in ₹
+  Sr.    Particulars                                             Method A     Method B Internal
+ No.                                                                            Internal           Transfer at
+                                                                     Transfer at Full      comparable
+                                                                 manufacturing     market price of
+                                                                      costs          similar imports
+ A     Indian Division
+ A1   Revenue                                                         60,00,00,000        75,00,00,000
+       Method A: 50,000 units × ₹12,000 per unit
+       Method B: 50,000 units × ₹15,000 per unit
+ A2    Full manufacturing costs                                           60,00,00,000        60,00,00,000
+       Method A and B: 50,000 units × 12,000 per unit
+ A3    Division operating income (Step A3 = Step A1 - Step A2)                           -             15,00,00,000
+ A4    Division income tax (Step A3 × 35% income tax rate)                                -              5,25,00,000
+ A5   Division after tax operating income (Step A5 = Step A3 - Step                  -              9,75,00,000
+       A4)
+ B    French Division
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+12.38      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+ B1   Revenues                                                        90,00,00,000        90,00,00,000
+       Method A and B: 50,000 units × ₹18,000 per unit
+ B2    Transferred in costs (refer Step A2 above)                           60,00,00,000        75,00,00,000
+ B3    Import duty @15% of transferred in price (Step B2 × 15%)             9,00,00,000        11,25,00,000
+ B4    Total division costs (Step B4 = Step B2 + Step B3)                    69,00,00,000        86,25,00,000
+ B5    Division operating income (Step B5 = Step B1 - Step B4)              21,00,00,000        3,75,00,000
+ B6    Division income tax (Step B6= Step B5 × 40% income tax rate)         8,40,00,000         1,50,00,000
+ B7   Division after tax operating income (Step B5 - Step B6)            12,60,00,000        2,25,00,000
+
+ C     Total (Overall) after tax income of the company (Step A5 +         12,60,00,000        12,00,00,000
+       Step B7)
+Explanations for MCQs 6 to 10
+When the transfer price is increased by ₹1 per unit (from full manufacturing cost of ₹12,000 per unit to
+the proposed rate of ₹12,001 per unit)
+  Sr.    Particulars                                                                     Impact per ₹1
+ No.                                                                                      increase in
+                                                                                                    transfer price
+  1.    Increase in transfer price by ₹1 will increase revenue in India by ₹ 1. Indian income tax will   ₹0.35
+        increase as revenue increases by ₹1.
+        Increase in Indian income tax per ₹1 increase in transfer price = ₹1×Indian income tax rate of
+     35%
+  2.    Increase in transfer price by ₹1 will increase the French import duty as procurement cost for   ₹0.15
+        the French division will increase.
+        Increase in French import duty = ₹1 × 15% duty rate
+ 3     Increase in transfer price by ₹1 will decrease French income tax (i) there will be an increase   ₹0.46
+         in procurement cost of ₹1 and  (ii) consequently import duty  will increase by ₹0.15 as
+        explained in Step 2 above. Totally additional expense of ₹1.15 can be claimed against
+        taxable profits.
+       Decrease in French income tax = ₹1.15 × 40% income tax rate.
+ 4     Impact on overall profit of Quicklink on account of increase in transfer price by ₹1:             ₹0.04
+       Step 1 – Increase in Indian income tax decreases profit by ₹0.35.                           decrease in
+       Step 2 – Increase in French import duty decreases profit by ₹0.15.                                overall profit
+       Step 3 – Decrease in French income tax increases profit by ₹0.46.
+       Step 4 – Impact on overall profit for every ₹1 increase in transfer price = Step 1 + Step 2 –
+       Step 3 = ₹0.35 + ₹0.15 – ₹0.46 = ₹0.04 decrease in overall profit.
+ 5    As per question 9, transfer price increased by ₹1,000 per unit for 50,000 units.                ₹20,00,000
+        Transfer price between the divisions  will increase by ₹1,000 per unit × 50,000 units =   decrease in
+       ₹50,00,000                                                                                         overall profit
+       Net impact on overall profits of Quicklink = Step 4 × ₹50,00,000
+      = ₹0.04 × ₹50,00,000 = ₹20,00,000 decrease in overall profit
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.39
+
+   TEST YOUR KNOWLEDGE
+Basic Concepts
+1.  G is the transferring division and R, the receiving division in a company. R has a demand for
+    20% of G's production capacity which has to be first met as per the company's policy. STATE
+     with reason, which  division, G or R enjoys more advantage  in each  of the  following
+     independent situations, assuming no inventory build-up.
+        Sl.  G Transfers to R at      G’s Production   External   Division having   Reason
+      No.   Transfer Price equal to   level         Demand   more advantage
+          (i)     Full cost: No mark up       60%       40%
+           (ii)    Market Price             80%       60%
+           (iii)   Marginal Cost            100%       80%
+         (iv)   Market Price             100%       90%
+Methods of Transfer Pricing
+2.  B Ltd. makes three products X, Y and Z in Divisions X, Y and Z respectively. The following
+     information is given:
+                                                X        Y       Z
+       Direct Material (` / unit)                                                         8         22       40
+        (excluding material X for Divisions Y and Z)
+       Direct Labour (` / unit)                                  4          6        8
+       Variable Overhead (` / unit)                              2          2        2
+       Selling price to outside customers (` / unit)                 25         65       90
+       Existing capacity (no. of units)                             6,000       3,000     3,000
+     Maximum external Market demand (no of units)              5,000       5,500     5,000
+       Additional fixed cost that would be incurred to install                                                            45,000      9,000    23,100       additional capacity (`)
+     Maximum additional units that can be produced by           6,000       2,000     2,250
+       additional capacity
+    Y and Z need material X as their input. Material X is available in the market at `23 per unit.
+     Defectives can be returned to suppliers at their cost. Division X supplies the material free
+     from defects and hence is able to sell at `25 per unit. Each unit of Y and Z require one unit of
+    X as input with slight modification.
+         If Y purchases from outside at `23 per unit,  it has to incur `3 per unit as modification and
+     inspection cost.  If Y purchases from Division X,  it has to incur, in addition to the transfer
+      price, `2 per unit to modify it.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+12.40      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+        If Z gets the material from Division X,  it can use  it after incurring a modification cost, of
+    `1 per unit. If Z buys material X from outside, it has to either inspect and modify it at its own
+    shop floor at `5 per unit or use idle labour from Division X at `3 per unit. Division X will lend
+       its idle labour as per Z's requirement even if Z purchases the material from outside.
+    The  transfer  prices are  at the  discretion  of  the  Divisional Managers and  will remain
+      confidential. Assume no restriction on quantities of inter-division transfers or purchases.
+    Required
+    DISCUSS with relevant figures the best strategy for each division and for the company as a
+     whole.
+3.   Centurion Co. operates a Pulp Division that manufactures Wood Pulp for use in production of
+     various paper goods. The following information are available:
+
+                                                                  `
+       Selling Price                                                      210
+      Less: Variable Expenses                                            126
+       Contribution                                                       84
+      Less: Fixed Expenses (based on a capacity of 1,00,000 kgs per year)            54
+      Net Income                                                       30
+     Centurion Co. has just acquired a small company that manufacturers paper cartons. This
+    company will be treated as a division of Centurion with full profit responsibility. The newly
+     formed Carton Division is currently purchasing 10,000 kgs of pulp per year from supplier at a
+     cost of `210 per kg less a 10% quantity discount. Centurion's President is anxious that the
+     Carton Division begins purchasing its pulp from the Pulp Division  if an acceptable transfer
+      price can be worked out.
+     Situation I
+         If the Pulp Division is in a position to sell all of its pulp to outside customers at the normal
+      price of `210 per kg, will the Managers of the Carton and Pulp Division agree to transfer
+     10,000 kgs of pulp next year at a determined price? EXPLAIN with reasons.
+     Situation II
+    Assuming that the Pulp Division is currently, selling only 60,000 kgs of pulp each year to
+     outside customers at the stated price of `210 per kg will the Managers agree to a mutually
+     acceptable transfer price for 10,000 kgs of pulp in next year? EXPLAIN with reasons.
+     Situation III
+         If the outside supplier of the Carton Division reduces its price to `177 per kg, will the Pulp
+     Division meet this price? EXPLAIN. If the Pulp Division does not meet the price of `177 per
+     kg, what will be the effects on profits of the company as a whole?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.41
+
+Behavioural Consequences
+4.  APC Ltd. has two divisions- Division X and Division Y with full profit responsibility. Division X
+     produces components 'Gex' which is supplied to·both division Y and external customers.
+     Division Y produces a product called 'Gextin' which incorporates component 'Gex'. For one
+      unit of 'Gextin' two units of component 'Gex' and other materials are used.
+       Till date, Division Y has always bought component 'Gex' from division X at `50 per unit since
+     the lowest price at which the component 'Gex' could have been bought by Division Y was `52
+     per unit.
+     Division X charges the same price for component 'Gex' to both division Y and external
+     customers. However,   it does not  incur  selling and  distribution costs when  transferring
+      internally.
+     Division Y has received a proposal from a new supplier who has offered to supply component
+     'Gex' for `47 per unit at least for the next three years.
+    Manager of Division Y requests the manager of Division X to supply component 'Gex' at or
+     below, `47 per unit. Manager of Division X is. not ready to reduce· the transfer price since
+     the divisional performance evaluation is done based on profit margin ratio of the division.
+    The following additional information is made available to you :
+                                        Component 'Gex'`   Product 'Gextin'`
+       Selling Price per unit                             50                180
+      Less: Variable Costs
+       Direct Materials
+           Component 'Gex'                                               -                 100
+            Other materials                            12                22
+       Direct labour                                    16                13
+      Manufacturing Overhead                           2                  5
+       Selling and Distribution Costs                       4                  2
+       Contribution per unit                              16                38
+      Annual fixed costs                              `40,00,000          `20,00,000
+      Annual external demand (units)                     3,00,000             1,20,000
+      Capacity of plant (units)                            5,00,000             1,50,000
+
+    Required
+        (i)  CALCULATE the present profit of each division and the company as a whole.
+         (ii)  ANALYSE the impact on the total annual profits of each division and the company as a
+         whole if Division Y accepts the offer of the new supplier.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+12.42      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+         (iii)  In the changed scenario, DISCUSS why the top management should intervene and
+          advise a suitable transfer price for component 'Gex' for resolving transfer pricing conflict
+         which promotes goal congruence through  efficient performance  of the concerned
+            division.
+5.  A  manufacturer has  two  divisions,  Division A and  Division  B.  Division B  produces
+    components that are used by both Division A as well as external customers. Division A gets
+       its entire requirement for the component from Division B.
+    The annual production capacity of Division B is 1,00,000 units. The division operates at full
+     capacity, with no inventory at the beginning and end of the year. It sells its components to
+     external customers at ₹4,000 per unit. Variable cost of production for the component is
+     ₹2,750. Internally,  it transfers  it components to Division A factoring any opportunity cost in
+     the form of lost sales. Total sales of Division B were ₹36 crores, of which sales to external
+     customers was ₹20 crores.
+    As per company policy, demand from Division A has priority over external customers. This
+     year, there was an additional demand from external customers for 18,000 components.
+     However, since Division B operated at full capacity, this demand was not catered to.
+    Required
+        (i)  ANALYZE the Sales in terms of ₹and units made by Division B to both external and
+            internal customers.
+         (ii)  RECOMMEND the transfer pricing range that would promote goal congruence between
+           Divisions A and B.
+         (iii)  DISCUSS the effect of changes  in external demand on the transfer price  for the
+         company, assuming the current policy continues.
+6.  GL Ltd. is a multiproduct manufacturing concern functioning with four divisions. The Electrical
+     Division of the company is producing many electrical products including electrical switches.
+     This division functioning at its maximum capacity sells its switches in the open market at
+    `25 each. The variable cost per switch to the division is `16.
+    The Household Division, another division of GL Ltd., functioning at 70% capacity asked the
+      Electrical Division to supply 5,000 switches per month at the rate of `18 each to fit in night
+     lamps produced by it. The total cost per night lamp is being estimated as detailed below;
+
+                                                                     `
+     Components purchased from outside suppliers                                50.00
+      Switch if purchased internally                                                18.00
+      Other variable costs                                                        40.00
+      Fixed overheads                                                           21.00
+       Total cost per night lamp                                                  129.00
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.43
+
+    The Household Division is marketing night lamps at a price of `130 each, with a very small
+     margin, as it is doing business in a very competitive environment. Any increase in price made
+     by the division will push out the division from the market. Therefore, the division cannot pay
+     anything more to switches if they the Electrical Division. Further, the manager of the division
+     informed that  it is very much essential to keep on the market share for night lamps by the
+     Household Division to retain the experienced workers of the division. The company is using
+      return on investments (ROI) as a scale to measure the divisional performances and also
+     marginal costing approach for decision making.
+    Required
+        (i)  Would you RECOMMEND the supply of switches to Household Division by Electrical
+           Division  at a price  of `18 each? Substantiate your recommendation with suitable
+          reasons.
+         (ii)  ANALYZE whether  it would be beneficial to the company as a whole the supply of
+          switches to Household Division at a unit price of `18 by Electrical Division.
+         (iii) Do you feel that- the Divisional Managers should accept the inter-divisional transfers in
+           principle? If yes, what should be the range of transfer price?
+       (iv) SUGGEST the steps to be taken by the chief executive of the company to change the
+            attitude of divisional heads if they are against the inter-divisional transfers.
+7.   Business Model
+     Rest Easy Company  is a rapidly growing start-up in the technology sector.  It develops
+     customized ERP packages  for  clients across  various business  sectors. The business
+     comprises primarily of two departments (1) consultant and (2) customer support. Consultant
+     department has highly qualified professionals from management, accounting, and technology
+     background, who approach clients as a team and work out solutions that meet their needs.
+    Customer support personnel are in charge of IT implementation and provide support through
+     telephone, e-mail or on-site. Currently, the strength of the consultant’s department is 200
+     while that of customer support is 150.
+     Yash, the founder and CEO of the company, is very passionate about this business model.
+    To deliver high-quality product solutions, he believes that his staff should be well-trained and
+     up-to-date with developments in their professional  fields. Therefore, Rest Easy provides
+     periodic training to  its staff in-house. All employees are expected to undergo 2 weeks of
+      training annually. A training department has been set up with qualified trainers in various
+      fields, who provide periodic training sessions to both Consultant and Customer Service
+     departments. The  training department has 5  trainers. Training sessions are aimed  at
+     providing skills that the executives need to provide better service to their clients. This in-
+    house focus of high-quality delivery, is the key factor that Yash believes would set apart Rest
+    Easy from its competitors.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+12.44      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+      In addition to delivering training sessions, trainers are responsible for developing training
+     material  for  routine,  on-going  as  well as  specialized  training  sessions. They  attend
+     conferences, train the trainer sessions and subscribe to journals to keep themselves up-to-
+     date with various developments that consultants and customer support executives need to be
+    aware of.
+     At the beginning of each year, heads of consultant and customer service departments advise the
+      training department on the expected number of training sessions that their staff would undertake.
+      In special situations, where developments need to be communicated rapidly, extra sessions can
+     also be conducted. Training department budgets are prepared based on these needs.
+     Transfer Pricing - Training Cost Allocation
+     Cost incurred by the training department is allocated to the consultant and customer service
+     department based on the training sessions availed by both departments. A standard quote
+      (transfer price) based on budgets is provided at the beginning of the year. At the end of the
+     year, actual cost is allocated based on actual training sessions of each department.
+    Each of the user departments use the transfer price to prepare their individual budgets, that
+      further gets built into their pricing models used for billing clients. One of the metric for
+    manager appraisal is also the financial performance of their individual departments. Hence,
+    managers of both consultant and customer service departments are very cost conscious.
+     Figures for budget and actual costs for 2023 of the training department are as follows:
+                                                                       Figures in `
+     Cost Particulars                                     Budget        Actual
+       Salaries                                                    25,00,000     30,00,000
+      Depreciation on Office Equipment                              2,00,000      5,00,000
+      Software Licenses for Training Packages                        80,000      1,05,000
+      Conference Travel for Train the Trainer Sessions                 10,000       15,000
+      Telephone                                                   20,000       25,000
+       Training Supplies                                             50,000       60,000
+      Trainee Lunch                                              100,000      120,000
+       Total Expenses                                             29,60,000     38,25,000
+     Consultant and Customer service departments are charged based on the number of training
+     sessions actually availed. Details of training sessions for each department are:
+     Department                           Budget        Actual
+      Consultant                               100           100
+      Customer Service                          100           80
+       Total                                    200           180
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.45
+
+    Problem of Goal Congruence
+      In accordance with the above explanation, the training department quoted a rate of `14,800
+     per session based on the budgeted cost and budgeted training sessions. (Budgeted cost
+     `29,60,000  for 200 training sessions). Actual cost per session  is `21,250 (Actual cost
+     `38,25,000 for 180 training sessions). Cost overrun of `6,450 per session, a jump of 44%
+     from the original quote.
+     Consequently, a meeting was called that was attended by the managers of consultant,
+     customer service and training departments, along with the CEO Yash.
+    The user departments were unhappy with the higher charge. Manager of the consultant
+     department raised the following concerns:
+      (a)  The market rate for similar trainings provided by external vendors was only `12,000 per
+          session. He has accepted a higher transfer price of `14,800 per session only because
+          the in-house training program was more customized towards Rest Easy’s end-user-
+            clients. However,  if the department  is actually going to be charged ` 21,250 per
+          session, he would rather source the training to the outside vendor.
+      (b)  Further, he pointed out that while his department had adhered to its commitment of 100
+            training sessions, the customer service department has availed of 20 lesser sessions
+          than its commitment. Reviewing the cost structure of the training department, most of
+          the expenses are fixed in nature. Therefore, when the transfer price is based on the
+           actual cost and actual training sessions, the per session cost has increased because
+          the customer  service department  did  not undergo  the  entire 100  sessions. He
+           questions, why he should bear a higher allocation of cost due to variance in actual and
+         budgeted usage of training resources of the customer service department?
+    Manager of the customer service department explained that the variance of 20 training
+     session is on account of the executives handling high-priority work pressure that did not allow
+    them enough time  to complete some  of the  training sessions. At the same  time, she
+     contended that she should not be charged for those 20 sessions for which no training was
+      availed.
+    Manager of the training department explained that the `5,00,000 cost overrun on salary due
+      to new hire of a trainer. The trainer’s experience is very valuable to the company and hence
+      to get her on board, the company had to offer a higher pay scale. Depreciation on office
+     equipment was higher by `3,00,000 due to higher replacement cost of ageing equipment. A
+     specialized software license resulted in an excess spend of `25,000. The manager argued
+      that the rest of the expenses were normal increases which were not controllable.
+     Yash, the CEO, was understandably not happy with the cost over-run. Higher internal
+      transfer price to the end user departments would affect employee morale. However, even
+     though a cheaper option was available from an outside vendor, he could  still foresee the
+     value of investing in in-house training programs. Intangible benefits from these customized
+     sessions, would definitely help the company’s growth.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+12.46      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+    To conclude, he was not willing to shut down the training department. At the same time, he
+    had to resolve the dispute resulting from internal transfer pricing in an amicable way. Like
+      profits, teamwork is critical to success.
+    Required
+         (i)  IDENTIFY the threats to goal congruence due to internal transfer pricing.
+         (ii)  During the meeting, an alternate transfer pricing methodology based on two-part pricing
+         system was formulated. Costs would be segregated into fixed and variable categories.
+       A transfer price for each category would be arrived based on budgeted costs and
+         budgeted usage. The standard rate for fixed cost will be applied to the budgeted training
+          sessions and charged to the user departments. The standard rate for variable cost will
+         be applied to the actual training sessions and charged to the user departments. Fixed
+          cost would be defined as those that are not directly impacted by the number of training
+          sessions. CALCULATE the transfer price to be charged to each department under this
+         method.
+         (iii) EVALUATE how the two-part pricing price method of transfer pricing address the
+           threats to goal congruence as identified in question 1?
+International Transfer Pricing
+8.   Standard Corporation Inc. (SCI) is a US based multinational company engaged in manufacturing
+    and marketing of Printers and Scanners.  It has subsidiaries spreading across the world which
+      either manufactures or sales Printers and Scanners using the brand name of SCI.
+    The Indian subsidiary of the SCI buys an important component for the Printers and Scanners
+     from the Chinese subsidiary of the same MNC group. The Indian subsidiary buys 1,50,000
+      units of components per annum from the Chinese subsidiary at CNY (¥) 30 per unit and pays
+    a total custom duty of 29.5% of value of the components purchased.
+    A Japanese MNC which manufactures the same component which is used in the Printer and
+     Scanners of SCI, has a manufacturing  unit  in India and  is ready to supply the same
+    component to the Indian subsidiary of SCI at `320 per unit.
+    The SCI  is examining the proposal of the Japanese manufacturer and asked  its Chines
+     subsidiary to presents  its views on  this issue. The Chinese subsidiary of the SCI has
+     informed that  it will be able to sell 1,20,000 units of the components to the local Chinese
+     manufactures at the same price i.e. ¥ 30 per unit but  it will incur inland taxes @ 10% on
+     sales value. Variable cost per unit of manufacturing the component is ¥ 20 per unit. The
+     Fixed Costs of the subsidiaries will remain unchanged.
+    The Corporation tax rates and currency exchange rates are as follows:
+             Corporation Tax Rates                 Currency Exchange Rates
+      China                25%               1 US Dollar ($)    = ` 61.50
+       India                34%               1 US Dollar ($)    = ¥ 6.25
+    USA                40%               1 CNY (¥)        = ` 9.80
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.47
+
+     Required
+         (i)  PREPARE a  financial appraisal  for the impact  of the proposal by the Japanese
+          manufacturer to supply components for Printers and Scanners to Indian subsidiary of
+          SCI. [Present your solution in Indian Currency and its equivalent.]
+          (ii)  IDENTIFY other issues that would be considered by the SCI in relation to this proposal.
+      (Note: While doing this problem use the only information provided in the problem itself and ignore the
+      actual taxation rules or treaties prevails in the above mentioned countries)
+
+   ANSWERS/ SOLUTIONS
+1.      Sl.   Division Having                       Reason
+      No.  More Advantage
+           (i)              G  is  utilizing only 40% of production capacity by selling to
+                                   ‘External Market’ which implies that G might have not been
+             G          able to recover its full fixed costs. By transferring 20% of its
+                                production capacity to division R at full cost, G will be able to
+                                recover fixed costs components.
+           (ii)              G will not be losing any external market demand as it is within
+                                             its  production  capacity. By  transferring 20%  of production             G                                 capacity  to  division R  at market  price, G  will earn  extra
+                                   contribution towards the fixed costs and profit.
+           (iii)                   Here G is operating at 100% capacity level and external market
+                         demand is 80% only i.e. G is not losing any external market
+                           demand. But by transferring 20% of production capacity to R at              R                                marginal cost  i.e.  at variable  cost, G may not be able  to
+                                recover fixed cost part of total cost. On the other hand R will be
+                                able to get these units at marginal cost only.
+         (iv)                   Though G is losing its 10% of external market demand but  it
+                             would be able to earn the same revenue by transferring the             G                            goods to division R at market price. Moreover, G will be able to
+                                         utilize 100% of its production capacity.
+ 2.   Statement Showing “Contribution per unit”
+                                                                                                   (`)
+       Particulars                        Division X                 Division Y         Division Z
+                                  Sale     Internal Transfer  Purchase   Transfer    Transfer
+                                      to              to           from       from       from
+                               Outside     Y       Z     Outside      X         X
+        Selling Price                  25.00            ---         ---       65.00       65.00        90.00
+        Transfer Price                              ---     24.00*   25.00#              ---              ---                 ---
+        Direct Material                  8.00      8.00    8.00       22.00       22.00        40.00
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+12.48      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+
+       (Excluding Material ‘X’)
+        Direct Labour                   4.00      4.00    4.00        6.00        6.00          8.00
+       Variable Overhead              2.00      2.00    2.00        2.00        2.00          2.00
+      Purchase Price ‘X’                        ---            ---         ---       23.00              ---                 ---
+       Transfer Price ‘X’                         ---            ---         ---              ---       24.00        25.00
+       Modification Cost                         ---            ---         ---        3.00        2.00          1.00
+       Contribution                   11.00     10.00   11.00        9.00        9.00        14.00
+        (*)    Division ‘Y’ will not pay Division ‘X’ anything more than `24, because at `24, it will incur additional cost of
+          `2 per unit to modify it, `23 + `3 = `26, the outside cost.
+         (#)   To purchase material X from outside is costly for Division ‘Z’ as after modification at own shop floor, cost of
+            the same comes to Division ‘Z’ is ` 28 (`23 + `5).
+                     If Division ‘X’ goes to utilize its full capacity in that case labour would not be available for modification to
+           Department ‘Z’.
+            Accordingly Division ‘Z’ may purchase material X at `25 from Division ‘X’ i.e. market price to outsiders.
+                 Statement Showing “Internal Transfer Decision (units)”
+       Particulars                               X            Y            Z
+       Existing Capacity                  …(A)      6,000 units       3,000 units     3,000 units
+     Maximum Capacity that can be added  …(B)      6,000 units       2,000 units     2,250 units
+       Total Maximum that can be produced            12,000 units      5,000 units     5,250 units
+                                 …(C)=(A)+(B)
+     Maximum External Demand          …(D)      5,000 units       5,500 units     5,000 units
+      Balance                    …(C) – (D)      7,000 units                ---         250 units
+        Internal Transfer to Other Divisions            5,000 units to Z*        N.A.           N.A.
+                                                   2,000 units to Y
+        Internal Transfer from Other Divisions                N.A.          2,000 units     5,000 units
+                                                                                transfer from    transfer from
+                                                     X (material X)  X (material X)
+        (*)   Division ‘X’ will supply its production to Division ‘Z’ first (after meeting its external requirement)
+          as contribution from product Z is high.
+                Statement Showing “Decision Whether to Expand or Not”
+                                                                                                   (`)
+       Particulars                             X               Y           Z
+       Additional Fixed Cost on Expansion           45,000             9,000        23,100
+       Contribution that can be earned by            64,000             18,000       28,000
+      expansion                             (4,000 units × `11 + 2,000   (2,000 units   (2,000* units
+                                                          units × `10)           × `9)        × `14)
+      Net Benefit from Expansion                  19,000             9,000        4,900
+       Decision                                 Expansion         Expansion    Expansion
+        (*)   As maximum demand of product Z is 5,000 units which Division ‘Z’ first complete with existing
+           capacity of 3,000 units. Balance 2,000 units from expansion.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.49
+
+                      Statement Showing “Net Revenue Addition”
+                                                                                                    (`)
+       Particulars                X              Y               Z             Total
+       Contribution                55,000            45,000            70,000        1,70,000
+      –      External Sales   (5,000 units × `11)  (5,000 units × `9)   (5,000 units ×`14)
+       Contribution                75,000                     ---                       ---          75,000
+      –      Internal         (2,000 units × `10 +
+      Transfer               5,000 units × `11)
+       Additional Fixed Cost        45,000             9,000            23,100        77,100
+      Net Revenue Addition                                                           1,67,900
+     Strategy for Company & Divisions
+        (i)   Division ‘X’ will transfer maximum possible material to Division ‘Z’ as Division ‘Z’ is
+           offering maximum transfer price to Division ‘X’. At the same time Division ‘Z’ is fetching
+        maximum contribution for the organisation so  it is beneficial for both the Divisions as
+           well as organisation as a whole.
+         (ii)  As shown above all the three Divisions are getting net benefit when they are taking
+          decision to expand and hence, all the three Divisions should expand their activity by
+           incurring additional fixed cost on expansion.
+3.   Situation I
+    The lowest acceptable transfer price from the perspective of the selling division is given by the
+      following formula:
+                            VariableVariable cost   Total contribution margin on lost sales            Transfer price            +
+                             perper ununit        Number of units transferred
+    The Pulp Division has no idle capacity, so transfers from the Pulp Division to the Carton Division
+     would cut directly into normal sales of pulp to outsiders. Since the costs are the same whether the
+     pulp is transferred internally or sold to outsiders, the only relevant cost is the lost revenue of `210
+     per kg from the pulp that could be sold to outsiders. This is confirmed below:
+                                                         (( `210 - `126) × 10,000                    Transfer Price  `126126 ++                 = `210                                             10,000
+     Therefore, the Pulp Division will refuse to transfer at a price less than `210 per kg.
+    The Carton Division can buy pulp from an outside supplier for `210 per kg, less a 10% quantity
+     discount of `21, or `189 per kg. Therefore, the Division would be unwilling to pay more than `189
+     per kg.
+                    Transfer Price ≤ Cost of Buying from Outside Supplier = `189
+    The requirements of the two divisions are incompatible. The Carton Division won’t pay more than
+    `189 and the Pulp Division will not accept less than `210. Thus, there can be no mutually
+     agreeable transfer price and no transfer will take place.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+12.50      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+     Situation II
+    The Pulp Division has idle capacity, so transfers from the Pulp Division to the Carton Division
+    do not cut into normal sales of pulp to outsiders. In this case, the minimum price as far as the
+     Carton Division is concerned is the variable cost per kg of `126. This is confirmed in the
+     following calculation:
+                                        ` 0
+                             Transfer price  `126126 ++      = `126
+                                             10,0001010
+    The Carton Division can buy pulp from an outside supplier for `189 per kg and would be unwilling
+      to pay more than that for pulp in an internal transfer.  If the managers understand their own
+     businesses and are cooperative, they should agree to a transfer and should settle on a transfer
+      price within the range:
+                        `126   TransferTransfer priceprice  `189189
+     Situation III
+     Yes, `177 is a bona fide outside price. Even though `177 is less than the Pulp Division’s
+    `180 “full cost” per unit, it is within the range and therefore will provide some contribution to
+     the Pulp Division.
+        If the Pulp Division does not meet the `177 price, it will lose `5,10,000 in potential profits.
+       Price per kg                                  `177
+      Less: Variable Costs                           `126
+       Contribution margin per kg                       `51
+     10,000 kgs × `51 per kg = `5,10,000 potential increased profits.
+     This `5,10,000 in potential profits applies to the Pulp Division and to the company as a whole.
+ 
+
+             For situation III also considered that “the Pulp Division is currently selling only 60,000 kgs of pulp
+            each year to outside customers”.
+
+4.     (i)    Profitability of each division and the company as a whole when Division X supplies
+         240,000 units of Gex annually to Division Y.
+           Division Y produces 1,20,000 units of Gextin. Each component of Gextin requires 2
+         components of Gex that  it currently procures from Division X. Therefore,  it procures
+          2,40,000 units of Gex from Division X annually.
+           Division X has an overall capacity of 5,00,000 units annually to produce Gex. Of this it
+         produces 2,40,000 units for Division Y, which  it must  first cater  to. The remaining
+          2,60,000 units of Gex is sold to external customers.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.51
+
+                       Divisional and Overall Profitability of APC Ltd.
+      Sr. Particulars                      Division X                     Division Y      Total APC
+     No.                 Per   External    Internal      Total    Per unit  External      Ltd
+                             unit    Sales      Sales    Division X    of      Sales
+                             of                                    Gextin
+                     Gex
+                                  2,60,000    2,40,000    5,00,000            1,20,000
+                                         units        Units        Units                  units
+      1  Selling Price      50  1,30,00,000 1,20,00,000 2,50,00,000   180   2,16,00,000 4,66,00,000
+      2  Less: Variable
+         Cost
+      a  Direct Material
+      b  Component Gex     ---          ---              ---               ---       100   1,20,00,000 1,20,00,000
+       c  Other materials    12   31,20,000   28,80,000   60,00,000    22    26,40,000   86,40,000
+      d  Direct Labour     16   41,60,000   38,40,000   80,00,000    13    15,60,000   95,60,000
+      e  Manufacturing      2    5,20,000    4,80,000   10,00,000     5      6,00,000   16,00,000
+         Over-head
+            f   Selling and        4   10,40,000         ----      10,40,000     2      2,40,000   12,80,000
+           Distribution Costs
+          Total            34   88,40,000   72,00,000  1,60,40,000   142   1,70,40,000 3,30,80,000
+      3  Contribution       16   41,60,000   48,00,000   89,60,000    38    45,60,000  1,35,20,000
+          (Step 1 - 2)
+      4  Annual Fixed                                   40,00,000           20,00,000   60,00,000
+         Cost
+      5  Annual Profit                                   49,60,000           25,60,000   75,20,000
+          (Step 3 - 4)
+         Note
+           Division X does not incur marketing costs on internal sales. Therefore, cost not incurred
+         on transfer of 240,000 units to Division Y.
+        (ii)   Impact if Division Y accepts to buy 240,000 units of Gex annually from the external supplier
+            at `47 per unit of Gex.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+12.52      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+      Sr.                                 Division X                     Division Y         Total
+     No. Particulars       Per   External    Internal      Total    Per unit  External
+                             unit    Sales      Sales    Division X    of      Sales
+                             of                                    Gextin
+                     Gex
+                                 3,00,000       0       3,00,000             1,20,000
+                                        units        Units        units                  units
+     1  Selling Price      50  1,50,00,000         -      1,50,00,000   180   2,16,00,000 3,66,00,000
+     2  Less: Variable
+         Cost
+     a  Direct Material
+     b  Component Gex       -            -                 -                 -        94    1,12,80,000 1,12,80,000
+      c  Other Materials    12   36,00,000           -       36,00,000    22     26,40,000   62,40,000
+     d  Direct Labour      16   48,00,000           -       48,00,000    13     15,60,000   63,60,000
+     e  Manufacturing      2    6,00,000            -        6,00,000     5      6,00,000   12,00,000
+        Overhead
+           f  Selling and        4   12,00,000           -       12,00,000     2      2,40,000   14,40,000
+          Distribution Costs
+          Total            34  1,02,00,000         -      1,02,00,000   136   1,63,20,000 2,65,20,000
+     3  Contribution       16   48,00,000           -       48,00,000    44     52,80,000  1,00,80,000
+         (Step 1 - 2)
+     4  Annual Fixed                                   40,00,000           20,00,000   60,00,000
+         Cost
+     5  Annual Profit                                    8,00,000            32,80,000   40,80,000
+         (Step 3 - 4)
+         Analysis
+       APC Ltd
+           Overall profitability of APC Ltd. reduces from `75,20,000 per annum to `40,80,000 per
+         annum. The reduction in profit is therefore `34,40,000 per annum. Reasons are:
+            (a)  The cost of manufacturing Gex is only `30 per unit while Division Y is procuring
+                  this at `47 per unit from an external supplier. Annually this results in a loss of
+              `40,80,000 (240,000 units of Gex×`17 per unit).
+            (b)  Since Division X no longer makes Gex  for internal sales,  it can ramp up  its
+                external sales to meet the full annual demand of 300,000 units. This results in
+                extra external sales of 40,000 units annually. Each unit gives a contribution of `16
+               per unit. Therefore, additional contribution from sale of 40,000 units of Gex to
+                external customers is `640,000 per annum.
+            (c)  Therefore,  netting both  (a) and  (b) above, the net loss  to the company  is
+              `34,40,000 per annum.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.53
+
+          Division Y
+          Impact on profit of Division Y, increase from `25,60,000 per annum to `32,80,000 per
+        annum that is `7,20,000 per annum increase. This is due to the savings in procurement
+          cost of Gex for Division Y. Instead of procuring Gex at `50 per unit Division Y proposes
+            to buy  it at `47 per unit externally. For its annual demand of 2,40,000 units of Gex, it
+          translates to savings of `7,20,000 annually in procurement cost for Division Y.
+          Division X
+          Impact on profit of Division X, reduction from `49,60,000 per annum to `8,00,000 per
+         annum. A substantial reduction of `41,60,000 in its divisional profit per year. Division X
+          earns a contribution of `20 per unit of Gex from  its internal transfer to Division Y.
+           (Selling price `50 per unit less variable cost of manufacturing `30 per unit). If Division Y
+          procures Gex  externally,  this would  result  in an  annual  loss  of  `48,00,000  in
+           contribution for Division X (240,000 units ×`20 per unit). However, due to additional
+           external sales of 40,000 units of Gex, Division X can earn an additional contribution of
+          `6,40,000 per year (40,000 units of Gex × `16 contribution per unit of external sale).
+           Offsetting, this results in a lower contribution of `41,60,000 per annum for Division X.
+          This also results in excess capacity of 2,00,000 units per annum in Division X.
+        (iii) APC Ltd. can suffer a loss of `34,40,000 per annum  if Division Y decides to procure
+        Gex from the external supplier. It costs on `30 per unit to manufacture Gex internally as
+         compared to `47 per unit that Division Y is willing to pay to the external supplier.
+         However, Division X is unwilling to reduce the price from `50 per unit since divisional
+         performance is done based on the profit margin ratio of the division. Therefore, the
+        management of the company has to step in to promote goal congruence. If Division Y
+         buys GEX from the external supplier, not only is it costly for the company, it also results
+            in a lot of unused capacity lying idle in Division X.
+            In the current scenario, one possible way of arriving at an acceptable transfer price
+         range could be:
+           Division X is currently working at  full capacity of 5,00,000 units per annum. Of this
+           production, 2,40,000 units  is supplied internally to Division Y while the balance  is
+          supplied to external market. The marginal cost of production of Gex is `30 per unit. If
+            this were sold externally,  it would earn a contribution of `16 per unit. Therefore, the
+        minimum  transfer  price  the  Division X would demand = marginal cost  of
+         production per unit + opportunity cost per unit = `30 + `16 = `46 per unit of Gex.
+         (The other way of looking at this could also be that Division X does not incur any selling
+         and distribution costs on internal transfers. To outside clients  it needs to spend `4 per
+            unit towards the same. Therefore, to make its price more competitive with the external
+          market, Division X can reduce the price by `4 per unit, which  it has been recovering
+          from Division Y for a cost it does not incur in internal transfers. Thus, based on its cost
+           structure and the competitive profit margin  it earns from external sales,  it can price its
+            internal transfers at `46 per unit.)
+           Division Y will be willing to pay the lower of net marginal revenue or the external buy-in
+            price.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 54 ======================
+
+
+12.54      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+        The Net Marginal Revenue per unit of Gextin = Selling price per Gextin – (marginal cost
+            for Division Y other than the cost of Gex) = `180 - `42 = `138 per unit of Gextin. This
+           translates that Division Y will be willing to pay upto `69 per unit of Gex, that it can incur
+           without incurring a divisional loss. Meanwhile, the external buy-in price is `47 per unit.
+          Therefore, the maximum price Division Y will be willing to pay = lower of Net
+         Marginal Revenue or external buy-in price = lower of `69 or `47 per unit of Gex.
+          Therefore, Division Y will be willing to pay maximum `47 per unit of Gex to
+          Division X.
+          Therefore, the transfer price range can be set between `46  - `47 per unit of Gex.
+           Division X would then have to compete with the external supplier to retain its internal
+           sales. This would promote more efficient working between Division X and Y. By selling
+                it at `46 per unit, the contribution of Division X would be maintained at `16 per
+           unit. For Division Y. the procurement of Gex at `46 per unit would be beneficial
+         since it is lower than the external market price.  If transfer price set at external
+         market rate `47 per unit, Division Y would still be able to improve its profit margin
+         as compared to the original transfer price of `50 per unit.
+         Given  that  the  marginal  cost  of  manufacturing Gex  is  only  `30  per  unit,  the
+        management has to ensure that production of Gex  is made in-house. Performance
+         measure at a divisional level should then not be restricted to financial performance
+          alone  (full  profit responsibility) and should be accordingly modified to include non-
+            financial / operational measures as well.
+5.     (i)   Sales Analysis of Division B
+           Total  annual  capacity and  actual  production  of  Division B  is 100,000  units  of
+         components. Zero inventory implies that sales for the year was also 100,000 units of
+         components. Sales  to  external customers was ₹20  crores,  at ₹4,000  per  unit.
+          Therefore, units sold to external customers would be 50,000 units this year (₹20 crores
+          sales / ₹4,000 per unit sale price).
+          Therefore, internal sales can be derived to be 50,000 units for the year (annual sales
+         100,000 units less external sales 50,000 units). For the year, value of sales made to
+           Division A is ₹16 crore (Division B’s total sales of ₹36 crore less external sales of ₹20
+           crores).
+        Had there been no extra demand, opportunity cost for Division B would have been nil.
+          Therefore,  transfer  price would  only be the  variable  cost  of ₹2,750 per  unit  of
+         component, However, given in the problem, that there was excess demand for 18,000
+           units of components from external customers, that could not be met since Division B
+         had to give priority to internal demand. Had these sales been made Division B would
+         have earned ₹1,250 per unit contribution (Sale price ₹4,000 per unit less variable cost
+         ₹2,750 per unit). This lost contribution of ₹1,250 per unit is the opportunity cost per unit
+            for Division B. Due to company’s policy of giving priority to internal demand, Division B
+            lost a profit of ₹2.25 crore during the year. (18,000 units × contribution of ₹1,250 per
+             unit).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 55 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.55
+
+          Therefore, internal sales comprise of two parts:
+          32,000 units of components transferred at variable cost of ₹2,750. This amounts to
+         ₹8.8 crores.
+          18,000 units of components transferred factoring any opportunity cost = variable cost +
+           contribution per unit = external sale price = ₹4,000 per unit. This amounts to ₹7.2
+           crores.
+          Therefore, internal sales = ₹8.8 crores + ₹7.2 crores = ₹16 crores.
+         Summarizing
+           External sales are 50,000 units amounting to ₹20 crores annual sales value. Internal
+          sales are 50,000 units amounting to ₹16 crores annual sales value. Transfer price for
+          32,000 units is at variable cost of ₹2,750 per unit while for 18,000 units is at external
+          sales price of ₹4,000 per unit.
+        (ii)  Transfer Price Range for Divisions A and B
+           Division A procures  its entire demand of 50,000 units from Division B. Out of this,
+         18,000 units at market price of ₹4,000 per unit while 32,000 units are procured at a
+          lower rate of ₹2,750 per unit. Had Division A procured 32,000 units from the market, the
+           additional cost of procurement would be ₹4 crores {(External price of ₹4,000 per unit
+           less internal transfer price at variable cost of ₹2,750 per unit) ×32,000 units}. Only
+           Division A currently enjoys this benefit of lower procurement cost. Financials of Division
+       B show no  profit from such  internal  transfers. This may skew  the performance
+         assessment of the divisions, if it is based primarily on financial metrics of each division.
+            In order, promote goal congruence, some portion of this benefit can be shared with
+           Division B.
+           Division B will at the minimum want to recover its variable cost of ₹2,750 per unit, while
+           Division A will be ready to pay only up to external market price of ₹4,000 per unit.
+          Therefore, transfer price range can be set between ₹2,750 - ₹4,000 per unit. Division A
+          enjoys lower procurement  rate  while  Division B  financial  reflect some  benefit  of
+           transferring components internally to Division A.
+        (iii) Impact of External Demand on Transfer Price
+         As per the company’s transfer pricing policy, Division B gives priority to demand from Division
+           A. The division has a production capacity of 100,000 units annually.  If there is no external
+          market for Division B’s components, then transfer price for the entire internal transfer would be
+           the variable cost of ₹2,750 per unit plus portion of the fixed cost (if any). This is the minimum
+           cost that Division B would like to recover from Division A.
+       When there is an external market, transfer price would depend on whether Division B
+         had to incur any opportunity in the form of lost sales. When total demand (internal and
+           external) is within production capacity of 100,000 units, the entire demand can be met.
+         There would be no lost sales for Division B, no opportunity cost. Therefore, transfer
+           price for the entire internal transfer would be the variable cost of ₹2,750 per unit. This is
+          the minimum cost that Division B would like to recover from Division A.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 56 ======================
+
+
+12.56      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+        When there is an external market, such that total demand (internal and external) is
+         more than production capacity of 100,000 units, due to priority given to internal transfer,
+        some portion of the external demand might not be met. This would be lost sales for
+           Division B, opportunity cost would be the contribution lost from such sales at ₹1,250 per
+             unit. This opportunity cost would be passed onto Division A. As explained in part  (ii)
+          above, transfer price range will be from ₹2,750 - ₹4,000 per unit. More lost sales for
+           Division B would keep the average transfer price higher towards ₹4,000 per unit. Lesser
+            lost sales for Division B would keep the average transfer price towards the lower bound
+            of ₹2,750 per unit. Therefore, the proportion of external demand that could not be
+          catered  to, would determine the average transfer  price. Higher the demand from
+           external customers would drive up the average transfer price within the company.
+6.     (i)    Electrical Division  is operating at  full capacity and selling  its switches in the open
+         market at `25 each. Therefore,  it can transfer  its production internally by giving up
+          equal number of units saleable in the open market. In this situation, transfer price
+          should be based on variable cost plus opportunity cost {`16 + (`25 - `16)} = `25/-.
+        As the price quoted by Household Division `18 is less than the transfer price based on
+           opportunity cost, the Electrical Division should not accept internal transfer. Further, the
+        company is measuring divisional performances based on ROI. Therefore, transferring
+            for a price which is less than the minimum price would affect the return on investments
+         and divisional performance severely.
+        (ii)   In the total cost per night lamp, the Fixed Overheads being a fixed cost is not relevant
+            for decision making. Similarly, the variable cost of switch (`16 p.u.) included in the cost
+            of night lamp is also irrelevant as it is common for both internal and external transfers.
+        The only relevant cost is the loss of revenue when units are transferred internally.
+           Accordingly, the benefit from internal transfer would be {`130  - (`50 + `40)  - `25)
+          =`15/- on each unit sale on night lamp. Therefore, it is beneficial to the company as a
+         whole to the extent of `15 per unit of night lamp sold.
+         Hence, internal transfer is profitable to the company as a whole. Further, Household
+           Division  is operating at 70% capacity and has experienced workers which may be
+            utilized for other divisions requirements  if any and based on contribution earned fixed
+          cost could be minimized due to large scale of production.
+        (iii)  Internal transfer pricing develops a competitive setting for managers of each division, it
+             is possible that they may operate in the best interest of their individual performance.
+          This can lead to sub-optimal utilization of resources. In such cases, transfer pricing
+           policy may be established to promote goal congruence. The market price of `25 per
+          switch leaves Electrical Division in an identical position to sale outside. Thus, `25 is top
+            of the price range. Division Household will not pay to Electrical Division anything above
+         (`130 - `50 - `40) = `40/-. The net benefit from each unit of night lamp sold internally is
+          `15. Thus, any transfer price within the range of `25 to `40 per unit will benefit both
+            divisions. Divisional Managers should accept the inter divisional transfers in principle
+        when the transfer price is within the above range.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 57 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.57
+
+       (iv)  Transfer at marginal cost are unsuitable for performance evaluation since they do not
+          provide an incentive for the supplying division to transfer goods and services internally.
+          This is because they do not contain a profit margin for the supplying division. Chief
+          Executive’s intervention may be necessary to instruct the supplying division to meet the
+           receiving  division's demand at the marginal cost of the transfers. Thus, divisional
+         autonomy will be undermined. Transferring at cost plus a mark-up creates the opposite
+             conflict. Here the transfer price meets the performance evaluation requirement but will
+          not induce managers to make optimal decisions.
+        To resolve the above  conflicts the  following  transfer  pricing methods have been
+          suggested:
+         Dual Rate Transfer Pricing System
+        The supplying division records transfer price by including a normal profit margin thereby
+         showing reasonable revenue. The purchasing division records transfer price at marginal
+          cost thereby recording purchases at minimum cost. This allows for better evaluation of
+         each division’s performance. It also improves co-operation between divisions, promoting
+          goal congruence and reduction of sub-optimization of resources.
+       Two Part Transfer Pricing System
+          This pricing system is again aimed at resolving problems related to distortions caused
+         by the full cost based transfer price. Here,
+           transfer price = marginal cost of production + a lump-sum charge (two part to pricing).
+          While marginal cost ensures recovery of additional cost of production related to the
+         goods transferred, lump-sum charge enables the recovery of some portion of the fixed
+          cost of the supplying division. Therefore, while the supplying division can show better
+             profitability, the purchasing division can purchase the goods at lower rate compared to
+          the market price.
+7.     (i)   Threats to goals congruence due to internal transfer pricing are:
+            (a)  User groups, consulting and customer service department are concerned that
+                 training department is not controlling its costs. Since the entire actual costs gets
+                allocated  to the users,  training department may  not be managing  its costs
+                   efficiently. Since the financials of user departments are affected,  it may lead to
+                  conflict between the departments.
+            (b)  Yash, the CEO is a firm believer of in-house training and its benefits. However,
+                there are outside vendors that provide similar service at substantially reduced
+                 costs. Performance assessment of managers of consulting and customer service
+               are based on their department’s financial metrics. Higher internal transfer price for
+                 training would affect employee morale since they have no control over these
+                allocated  costs.  However,  their  performance  is  being  evaluated based on
+                uncontrollable  factors.  This  could  lead  to  discontent among  the managers.
+                 Alternatively, Yash may want to re-consider his strategy of in-house training.
+           When suitable, training can be sourced to cheaper options available in the market,
+                without compromising on quality.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 58 ======================
+
+
+12.58      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+             (c)  Most costs of the training department are fixed in nature, as they need to be
+                incurred irrespective of the number of training sessions. These costs are being
+                allocated to the users based on actual training sessions. The budgeted target
+                 price is used by the user departments, to determine their billing model to Rest
+               Easy’s end user clients. Hence it is important that the budget transfer price is not
+               very different from the actual transfer price charged at the end of the year.
+                  In the given problem, internal transfer price has been based on a budget of 200
+                sessions. Here the customer service department does not adhere to its commitment
+                  of 100 training sessions, training sessions actually availed are only 80. Since costs
+               are mostly fixed in nature, the actual cost per training session increases. This is then
+              charged out to the consultant and customer service departments. Consequently,
+                despite meeting  its commitment, the consultant department bears a higher cost
+                 allocation due to variance in the usage of training resources. This can lead to friction
+              between the user departments.
+        (ii)  By segregating the costs into fixed and variable components, Rest Easy is working out
+           two-part pricing system for transfer price.
+               Two-Part Pricing System = Lump-Sum Charge + Marginal Cost
+        To segregate the costs into fixed and variable categories, the criteria is whether the
+          costs change per additional training session. Accordingly, the classification of costs will
+         be as below:
+           Cost Particulars                          Budget (`)      Classification
+             Salaries                                         25,00,000        Fixed
+            Depreciation on Office Equipment                    2,00,000        Fixed
+            Software Licenses for Training Packages              80,000        Fixed
+           Conference Travel for Train the Trainer                10,000        Fixed
+            Sessions
+           Telephone                                         20,000        Fixed
+             Training Supplies                                   50,000       Variable
+            Trainee Lunch                                    100,000       Variable
+                                            Total Expenses       29,60,000
+        The lump-sum charge would be based on the fixed cost budget. Marginal cost would be
+         based on the variable cost budget.
+           Total budget  fixed expenses = `28,10,000 and  total budget variable expenses =
+          `150,000. Number of training sessions  is 200, that is 100 each for consultant and
+         customer service departments. Hence the fixed cost allocation rate would be `14,050
+          per session and variable cost allocation rate is `750 per session.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 59 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.59
+
+          Transfer price to the consulting department = lump-sum charge + marginal cost
+         =  (Standard Fixed Cost per session × Budgeted Training Sessions) + (Standard
+              Variable Cost per Session × Actual Training Sessions)
+         =  (`14,050×100) + (`750×100)
+         =  `14,05,000 + 75,000
+         =  `14,80,000.
+          Transfer price to the customer service department = lump-sum charge + marginal cost
+         =  (Standard Fixed Cost per session × Budgeted Training Sessions) + (Standard
+              Variable Cost per session × Actual Training Sessions)
+         =  (`14,050 × 100) + (`750 × 80)
+         =  `14,05,000 + `60,000
+         =  `14,65,000.
+           Total transfer price allocation  is `29,45,000 versus actual expenses of `38,25,000.
+          Unallocated expenses are `880,000.
+        (iii)  Evaluate how the two-part transfer pricing model would address the goal congruence
+          issues listed in question 1?
+            (a)  Since  transfer  prices are based on budgets, the  training department would
+            become more cost-conscious. As explained above, as per this transfer pricing
+              method, unallocated expenses  of `8,80,000 would have  to be borne by the
+                 training department. As given in the problem, this variance is mainly on account of
+                extra cost for the newly hired trainer and the higher depreciation expense. The
+              department will be more cautious while taking future decisions. However, Yash the
+          CEO must ensure that the quality of training is not compromised and remains in
+                  line with the company’s strategic policy.
+            (b)   Internal transfer price of `14,800 per session is still higher than the outside rate of
+              `12,000 per  session.  Further  decisions would be based on  the company’s
+                 strategic objective. At the same time,  if the number of training sessions are
+              expected to increase beyond the budget, this transfer pricing method charges the
+               user department only a marginal cost of `750 per session. This is definitely lower
+                 that the external rate.
+            (c)  Under this method, fixed expenses that form majority of the cost are allocated
+             based on budgeted cost and budgeted usage. Variable expense are allocated
+             based on actual training sessions. Hence, any variance in the utilization of training
+               resources, does not impact the other user department.
+           Therefore, most  of the goal congruence issues can be addressed through  this
+           methodology.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 60 ======================
+
+
+12.60      STRATEGIC COST & PERFORMANCE MANAGEMENT
+
+8.     (i)   Impact of the Proposal by the Japanese Manufacturer  to Supply Components  for
+           Printers and Scanners to the Indian Subsidiary of the SCI.
+       On Indian Subsidiary of SCI
+           Particulars                                            Amount (`)
+           Cost of Purchase from the Chinese Manufacturer :
+            Invoiced Amount {(1,50,000 units × ¥ 30) × `9.80}                        4,41,00,000
+           Add: Total Custom Duty (` 4,41,00,000 × 29.5%)                         1,30,09,500
+            Total Cost of Purchase from the Chinese Manufacturer      …(A)     5,71,09,500
+           Cost of Purchase from Japanese Manufacturer in India:
+            Invoice Amount (1,50,000 units × `320)                                 4,80,00,000
+            Total Cost of Purchase from Japanese Manufacturer in India  …(B)     4,80,00,000
+           Savings on Purchase Cost Before Corporate Taxes    …(A) – (B)       91,09,500
+           Less: Corporate Tax @34%                                           30,97,230
+           Savings after Corporate Taxes                                         60,12,270
+       On Chinese Subsidiary of SCI
+           Particulars                                           Amount (`)
+          Loss of Contribution                                                  29,40,000
+             [{(1,50,000 – 1,20,000 units) × ¥ (30 – 20)} × `9.80]
+          Add: Inland taxes on Local Sale - Chinese Manufacturer                  35,28,000
+             [{(1,20,000 units × ¥ 30) × 10%} × `9.80]
+            Total Loss Before Corporate Taxes                                     64,68,000
+           Less: Tax Savings on the Losses (`64,68,000 × 25%)                     16,17,000
+          Net Loss after Corporate taxes                                         48,51,000
+       On SCI Group
+           Particulars                                           Amount (`)
+          Saving from Indian Subsidiary                                         60,12,270
+          Loss from Chinese Subsidiary                                         48,51,000
+          Net Benefit to SCI Group                                              11,61,270
+        From  the above  analysis,   it can be seen  that  the proposal from  the Japanese
+          manufacturer in India is beneficial for the SCI as it give a net benefit of `11,61,270.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 61 ======================
+
+
+DIVISIONAL TRANSFER PRICING          12.61
+
+        (ii)  The SCI need to consider various other issues before reaching at a final decision of
+          accepting the proposal of the Japanese manufacturer in India. The few suggestive
+          issues that should be considered are as follows:
+               -   The longevity of the proposal of the Japanese manufacturer: Whether Japanese
+               manufacturer will supply the components in the future also. For this purpose, a
+               long term agreement between  the  Indian  Subsidiary  of SCI and Japanese
+               manufacturer in India needs to be entered.
+               -    Certainty of the fiscal policy in India: The Japanese manufacturer will not be able
+                 to supply the component at the present price if the fiscal policy of India will change
+                  in the future.
+               -    Repatriation of Profit earned in India: Though the Indian subsidiary is making profit
+                but it depends on the Government policy on the repatriation of profit from India to
+            USA.
+               -    Operating Conditions  in China: The SCI has to make sure that the Chinese
+                subsidiary is operating profitably and able to use the spare capacity in the future
+              as well.
+               -   The fiscal policy in China: If the Government of China liberalize its fiscal policies in
+              China in future then the manufacturing cost will be cheaper than the today’s cost.
+          Apart from above suggestive points the foreign relations and other tax treaties and
+          accords should also be kept in consideration.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 62 ======================
+
+
+© The Institute of Chartered Accountants of India

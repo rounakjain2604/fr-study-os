@@ -1,0 +1,330 @@
+Source PDF: 07_SPOM/Set_C_07_Forensic_Accounting/001 - Initial Pages - 79409bos63471-ip.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_07_Forensic_Accounting\001 - Initial Pages - 79409bos63471-ip.pdf
+Extracted at: 2026-05-31T10:32:29+05:30
+Pages: 10
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+iii
+
+         BEFORE WE BEGIN …
+
+
+The contents of the Study Material for Self–paced Online Module–Set C, of Paper 7 Forensic
+Accounting have been designed and developed by the Board of Studies, ICAI, with a view to lay the
+foundation for future specialisation in the area of Forensic Accounting. The Study Material has been
+developed  considering  the  National  Education  Policy 2020 (NEP  2020) recommendations
+emphasizing the conceptual clarity rather than rote learning. Emphasis is also placed on fostering
+the application and analytical skills by solving Multiple Choice Questions provided at the end of each
+chapter.  In line with the NEP 2020 recommendation on technology-based learning, the Study
+Material would be supplemented by e-lectures facilitating the experiential learning.
+Forensic Accounting has emerged as critical discipline in today’s complex business environment,
+necessitating the establishment of concise Standards to ensure consistency, professionalism and
+ethical conduct in this specialized area. The role of Chartered Accountants to uncover financial
+irregularities and ensure transparency and accountability has become more crucial than ever. The
+Institute  of  Chartered  Accountants  of  India  (ICAI) has  released  Forensic  Accounting and
+Investigation Standards (FAISs)  in 2021 to cover the whole process of planning, executing,
+concluding and reporting of FAI engagements. These Standards mandate the key requirements to
+ensure quality performance and are now mandatory from 1st July, 2023. Thus, it is equally important
+that the Chartered Accountancy students should have due understanding of these FAIS.
+Under the Revised Scheme of Education and Training, paper of Forensic Accounting has been
+introduced under Set C considering the significance of this area in today’s era. Efforts have been
+made to present each topic of the syllabus in a lucid manner and care has been taken to present
+the chapters in a logical sequence to facilitate easy understanding by the students.  The study
+material has been bifurcated into ten chapters in line with the prescribed syllabus. Every effort has
+been done to make the Study Material error free, however if inadvertently any error is present and
+found by readers, they may send it to us immediately, so that it can be rectified at our end.
+In case you need any further clarification/ guidance, you may send your queries through ICAI BoS App.
+We hope that these student-friendly features in the Study Material make your learning process more
+enjoyable, enrich your knowledge and sharpen your application skills.
+Students may please note that Parliament has passed three criminal laws viz. Bhartiya Nyaya
+Sanhita, 2023  Bhartiya Nagarik Suraksha Sanhita,2023 and Bharatiya Sakshya Adhiniyam,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+iv
+
+
+2023. The provisions of these law shall come into force w.e.f 1st day of July, 2024 in accordance
+with respective notifications issued in this regard.
+These Acts replace Indian Penal Code, Code of Criminal Procedure and Indian Evidence Act
+respectively.
+This study material has been prepared taking into account provisions of Indian Penal Code, Code
+of Criminal Procedure and Indian Evidence Act.
+
+               Happy Reading and Best Wishes!
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+v
+
+       SYLLABUS – SELF PACED
+
+                         SET C
+
+       PAPER – 7: FORENSIC ACCOUNTING (100 MARKS)
+Objective:
+(a)  To develop an understanding of the basic concepts and knowledge of Forensic Accounting and
+       its application in Fraud Investigations.
+(b)  To acquire the ability to apply such concepts in practical case scenarios.
+
+Contents:
+1.   Background & Overview
+           i     Brief overview & evolution of Forensic Accounting profession
+          ii    Increasing Importance of Forensic Accounting profession
+          iii   Legal & Regulatory ramifications
+      iv   Opportunities in Forensic Accounting  for Chartered Accountants
+2.   Introduction & Basic Concepts
+           i    Meaning of Fraud, Forensics, Forensic Accounting, Investigations
+          ii    Differences between Audit, Forensics & Investigations
+          iii   Roles & Responsibilities of Stakeholders
+      iv   Theories and Vulnerabilities of Fraud
+     v    Introduction to Forensic Accounting and Investigations Standards(FAIS)
+3.   Nature & Types of Frauds
+           i     Different Categories of Fraud
+          ii    Different Nature of Frauds
+          iii   Types of Occupational Frauds - Fraud Tree
+      iv   Specialised Areas/schemes of Fraud
+     v   Cyber Fraud/Crime
+      vi   Fraud Mechanisms
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+vi
+
+4.   Financial Statement Frauds
+           i     Characteristics, nature and Reasons
+          ii    Different types of Financial Statement Frauds
+          iii   Legal & Regulatory provisions related to Financial Statement Frauds
+      iv   Fraud Risk Factors in Financial Statement Frauds
+5.   Process of Forensic Investigation
+           i      Initialization & defining mandate
+          ii    Develop Plan & gather expertise
+          iii   Gathering Relevant Evidence
+      iv   Perform the analysis
+     v    Reporting
+      vi   Court proceedings
+6.   Fraud Detection
+           i    Fraud Predication/Indicators
+          ii    Quantitative Evidence - Data Mining & Analysis
+          iii    Qualitative Evidence
+      iv   Law and Evidence
+     v    Applying Hypothesis
+7.   Digital Forensics
+           i     Digital Evidence
+          ii   Use of Technology Tools
+          iii   Laboratory Analysis of Physical and Electronic Evidence
+      iv   Important legal sections of Information Technology Act
+8.   Interviewing Skills
+           i     Art & Science of Interviews - Nature & Type
+          ii   The Interview Process
+          iii   Importance of Non-verbal Cues
+      iv   Recording the Statements
+     v   Case Studies/Role play
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+vii
+
+9.   Writing a Forensic Investigation Report
+           i   Summary of findings
+          ii    Presenting & discussing draft report
+          iii   Key Elements as per Forensic Accounting and Investigations Standards(FAIS)
+      iv   Assumptions and Limitations
+10.  Fraud Prevention
+           i    Anti-Fraud Policies/ Vigilance Mechanism
+          ii    Internal Controls and Systems & Processes
+          iii   Compliance culture
+      iv    Disciplinary Mechanism
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+viii
+
+               CONTENTS
+
+
+                 CHAPTER 1 – BACKGROUND & OVERVIEW
+
+Learning Outcomes ............................................................................................................................ 1.1
+Chapter Overview ................................................................................................................................. 1.2
+Contents:
+1.1      Brief Overview & Evolution of Forensic Profession ................................................................. 1.2
+1.2      Increasing Importance of FA Profession ................................................................................. 1.7
+1.3     Legal & Regulatory Ramifications ......................................................................................... 1.10
+1.4      Opportunities in FA for CAs .................................................................................................. 1.16
+Test Your Knowledge ............................................................................................................ 1.25
+
+              CHAPTER 2 – INTRODUCTION & BASIC CONCEPTS
+
+Learning Outcomes................................................................................................................. 2.1
+Chapter Overview ................................................................................................................................. 2.2
+Contents:
+2.1    Meaning of Forensics, Forensic Accounting, Fraud & Investigations .............................. 2.2
+2.2     Differences between Audit, Forensics & Investigations ................................................. 2.7
+2.3     Roles & Responsibilities of Stakeholders .................................................................... 2.10
+2.4     Theories and Vulnerabilities of Fraud ......................................................................... 2.11
+2.5      Introduction to Forensics Accounting and Investigation Standards (FAIS) .................... 2.17
+Test Your Knowledge ............................................................................................................ 2.31
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+ix
+
+                 CHAPTER 3 – NATURE & TYPES OF FRAUDS
+
+Learning Outcomes................................................................................................................. 3.1
+Chapter Overview ................................................................................................................................. 3.3
+Contents:
+3.1     Categories of Fraud ..................................................................................................... 3.4
+3.2     Nature of Frauds ......................................................................................................... 3.8
+3.3     Occupational Frauds - Fraud Tree .............................................................................. 3.18
+3.4     Specialised Areas/Schemes of Fraud ......................................................................... 3.41
+3.5     Cyber Fraud/Crime .................................................................................................... 3.47
+3.6     Fraud Mechanisms .................................................................................................... 3.53
+Test Your Knowledge ............................................................................................................ 3.66
+
+               CHAPTER 4 – FINANCIAL STATEMENT FRAUDS
+
+Learning Outcomes................................................................................................................. 4.1
+Chapter Overview ................................................................................................................................. 4.3
+Contents:
+4.1      Characteristics, Nature and Reasons ........................................................................... 4.5
+4.2      Different types of Financial Statement Frauds ............................................................... 4.9
+4.3     Legal & Regulatory Provisions Related to FS Frauds .................................................. 4.13
+4.4     Fraud Risk Factors in Financial Statement Frauds ...................................................... 4.24
+Test Your Knowledge ............................................................................................................ 4.37
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+x
+
+
+             CHAPTER 5 – PROCESS OF FORENSIC INVESTIGATION
+
+Learning Outcomes................................................................................................................. 5.1
+Chapter Overview ................................................................................................................................. 5.2
+Contents:
+5.1      Initialization & Defining Mandate .................................................................................. 5.3
+5.2     Develop Plan & Gather Expertise ................................................................................. 5.5
+5.3     Gathering Relevant Evidence ....................................................................................... 5.9
+5.4     Perform the Analysis .................................................................................................. 5.20
+5.5     Reporting ................................................................................................................... 5.24
+5.6     Court Proceedings ..................................................................................................... 5.33
+Test Your Knowledge ............................................................................................................ 5.34
+
+                    CHAPTER 6 – FRAUD DETECTION
+
+Learning Outcomes................................................................................................................. 6.1
+Chapter Overview ................................................................................................................................. 6.2
+Contents:
+6.1     Fraud Predication/Indicators ........................................................................................ 6.3
+6.2     Quantitative Evidence - Data Mining & Analysis .......................................................... 6.11
+6.3      Qualitative Evidence .................................................................................................. 6.12
+6.4    Law and Evidence...................................................................................................... 6.14
+6.5     Applying Hypothesis .................................................................................................. 6.19
+Test Your Knowledge ............................................................................................................ 6.27
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+xi
+
+                    CHAPTER 7 – DIGITAL FORENSICS
+
+Learning Outcomes................................................................................................................. 7.1
+Chapter Overview ................................................................................................................................. 7.2
+Contents:
+7.1    Meaning of Digital Evidence ......................................................................................... 7.2
+7.2    Use of Technology Tools .............................................................................................. 7.7
+7.3     Laboratory Analysis of Physical and Electronic Evidence ............................................ 7.11
+7.4     Important legal sections of IT Act ............................................................................... 7.12
+Test Your Knowledge ............................................................................................................ 7.19
+
+                   CHAPTER 8 – INTERVIEWING SKILLS
+
+Learning Outcomes................................................................................................................. 8.1
+Chapter Overview ................................................................................................................................. 8.2
+Contents:
+8.1      Art & Science of Interviews - Nature & Type ................................................................. 8.3
+8.2    The Interview Process.................................................................................................. 8.5
+8.3     Importance of Non-verbal Cues .................................................................................. 8.12
+8.4    Type of Questions & its Sequence ............................................................................. 8.12
+8.5    Case Studies/Role play .............................................................................................. 8.15
+Test Your Knowledge ............................................................................................................ 8.18
+
+          CHAPTER 9 – WRITING A FORENSIC INVESTIGATION REPORT
+
+Learning Outcomes................................................................................................................. 9.1
+Chapter Overview ................................................................................................................................. 9.2
+Contents:
+9.1    Summary of Findings ................................................................................................... 9.3
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+xii
+
+9.2     Presenting & Discussing Draft Report ........................................................................... 9.9
+9.3    Key Elements as per FAIS ......................................................................................... 9.10
+9.4     Assumptions and Limitations ...................................................................................... 9.14
+9.5     General Best Practices for Writing a Report ................................................................ 9.17
+Test Your Knowledge ............................................................................................................ 9.19
+
+                   CHAPTER 10 – FRAUD PREVENTION
+
+Learning Outcomes............................................................................................................... 20.1
+Chapter Overview ............................................................................................................................... 20.2
+Contents:
+10.1    Anti-Fraud Policies/ Vigilance Mechanism .................................................................. 10.3
+10.2     Internal Controls and Systems & Processes ............................................................... 10.6
+10.3    Compliance Culture  .................................................................................................. 10.9
+10.4    Disciplinary Mechanism ........................................................................................... 10.12
+Test Your Knowledge .......................................................................................................... 10.14
+
+
+© The Institute of Chartered Accountants of India

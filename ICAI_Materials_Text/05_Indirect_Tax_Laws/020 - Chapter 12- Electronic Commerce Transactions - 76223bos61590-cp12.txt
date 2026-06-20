@@ -1,0 +1,1838 @@
+Source PDF: 05_Indirect_Tax_Laws/020 - Chapter 12- Electronic Commerce Transactions - 76223bos61590-cp12.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\05_Indirect_Tax_Laws\020 - Chapter 12- Electronic Commerce Transactions - 76223bos61590-cp12.pdf
+Extracted at: 2026-05-31T10:25:45+05:30
+Pages: 46
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER            12
+E
+    ELECTRONIC COMMERCE
+    TRANSACTIONS
+
+            The section numbers referred to in the Chapter pertain to the CGST Act, 2017, unless
+              otherwise specified.  Examples/illustrations/Questions and Answers given in the
+             Chapter are based on the position of GST law existing as on 30.04.2023.
+
+                            LEARNING OUTCOMES
+          After studying this chapter, you will be able to –
+
+                    comprehend  the meaning  of  electronic commerce and
+                electronic commerce operator
+
+                       explain the taxability of electronic commerce transactions
+
+                      describe and analyse the provisions  relating to the tax
+                collected at source
+
+                     understand  the  registration  requirements  of  electronic
+            commerce operator and of the persons supplying goods
+              and/or services through electronic commerce operator
+
+
+          © The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+12.2       GOODS AND SERVICES TAX
+
+    1. INTRODUCTION
+Electronic  commerce  (e-commerce)  has
+become a buzzword for businesses in India
+over the past few years.  The potential of
+computer and communication technologies is
+increasingly being recognised  to optimize
+business  processes and  boost  its  overall
+efficiency. E-commerce goes beyond being a
+mere    technology;      it    represents    a
+comprehensive business model that utilizes
+information and communication technologies
+to  integrate and cover  all aspects of the
+product and service value chain. The growing
+significance of e-commerce in the global economy is indeed evident from the rapid
+and widespread growth of internet usage over the past decade.
+The surge in e-commerce is accompanied by a rise in the utilization of various other
+media for trade, including the telephone, television, fax and electronic payment
+methods. As e-commerce expands its reach and impact, businesses and consumers
+are embracing these additional channels and technologies to facilitate transactions
+and enhance the overall shopping experience.  India is indeed one of the largest
+and fastest-growing e-commerce markets in the world.
+
+    2. RELEVANT DEFINITIONS
+   Agent: means a person, including a factor, broker, commission agent, arhatia,
+      del credere agent, an auctioneer or any other mercantile agent, by whatever
+    name called, who carries on the business of supply or receipt of goods or
+      services or both on behalf of another [Section 2(5)].
+   Aggregate turnover: means the aggregate value of  all taxable supplies
+      (excluding the value of inward supplies on which tax is payable by a person
+    on reverse charge basis), exempt supplies, exports of goods or services or
+     both and inter-State supplies of persons having the same Permanent Account
+     Number, to be computed on all India basis but excludes central tax, State tax,
+     Union territory tax, integrated tax and cess [Section 2(6)].
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.3 12.3
+
+   Inward supply: in relation to a person, shall mean receipt of goods or
+      services or both whether by purchase, acquisition or any other means with or
+     without consideration [Section 2(67)].
+  Outward supply: in relation to a taxable person, means supply of goods or
+      services or both, whether by sale, transfer, barter, exchange, licence, rental,
+      lease or disposal or any other mode, made or agreed to be made by such
+     person in the course or furtherance of business [Section 2(83)].
+   Taxable supply: means a supply of goods or services or both which is leviable
+      to tax under this Act [Section 2(108)].
+   Supplier: in relation to any goods or services or both, shall mean the person
+     supplying the said goods or services or both and shall include an agent acting
+     as such on behalf of such supplier in relation to the goods or services or both
+      supplied; [Section 2(105)].
+
+    3. TAXABILITY OF ELECTRONIC COMMERCE
+     TRANSACTIONS UNDER GST
+
+        STATUTORY PROVISIONS
+
+    Section
+  2(44) of the              Definition of electronic commerce
+  CGST Act
+                  Electronic commerce means the supply of goods or services or
+                 both,  including  digital  products  over  digital  or  electronic
+                network.
+    Section
+  2(45) of the          Definition of electronic commerce operator
+  CGST Act
+                  Electronic commerce operator means any person who owns,
+                operates or manages digital or electronic facility or platform for
+                  electronic commerce.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+12.4       GOODS AND SERVICES TAX
+
+  Section 9(5)
+  of the CGST                Levy and collection (CGST)
+     Act
+              The Government may, on the recommendations of the Council,
+               by notification, specify categories of services the tax on intra-
+                 State supplies of which shall be paid by the electronic commerce
+                operator  if such services are supplied through  it, and all the
+                 provisions of this Act shall apply to such electronic commerce
+                operator as  if he  is the supplier liable for paying the tax in
+                  relation to the supply of such services:
+                Provided that where an electronic commerce operator does not
+              have a physical presence in the taxable territory, any person
+                representing such electronic commerce operator for any purpose
+                  in the taxable territory shall be liable to pay tax:
+                Provided further that where an electronic commerce operator
+               does not have a physical presence in the taxable territory and
+                 also he does not have a representative in the said territory, such
+                  electronic commerce operator shall appoint a person in the
+                taxable territory for the purpose of paying tax and such person
+                  shall be liable to pay tax.
+  Section 5(5)
+  of the IGST              Levy and collection of tax (IGST)
+   Act, 2017
+              The Government may, on the recommendations of the Council,
+               by notification, specify categories of services, the tax on inter-
+                 State supplies of which shall be paid by the electronic commerce
+                operator  if such services are supplied through  it, and all the
+                 provisions of this Act shall apply to such electronic commerce
+                operator as  if he  is the supplier liable for paying the tax in
+                  relation to the supply of such services:
+                Provided that where an electronic commerce operator does not
+              have a physical presence in the taxable territory, any person
+                representing such electronic commerce operator for any purpose
+                  in the taxable territory shall be liable to pay tax:
+                Provided further that where an electronic commerce operator
+               does not have a physical presence in the taxable territory and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.5 12.5
+
+                 also does not have a representative in the said territory, such
+                  electronic commerce operator shall appoint a person in the
+                taxable territory for the purpose of paying tax and such person
+                  shall be liable to pay tax.
+  Section 52                   Collection of tax at source
+  of the CGST
+     Act
+  Sub-section                          Particulars
+       (1)       Notwithstanding anything to the contrary contained in this Act,
+                every electronic commerce operator (hereafter in this section
+                 referred to as the "operator"), not being an agent, shall collect
+             an amount calculated at such rate not exceeding one per cent.,
+                as may be notified by the Government on the recommendations
+                  of the Council, of the net value of taxable supplies made through
+                         it by other suppliers where the consideration with respect to such
+                 supplies is to be collected by the operator.
+
+ Explanation  For the purposes of this sub-section, the expression "net value of
+                taxable supplies" shall mean the aggregate value of taxable
+                 supplies of goods or services or both, other than services notified
+               under sub-section (5) of section 9, made during any month by
+                     all registered persons through the operator reduced by the
+               aggregate value of taxable supplies returned to the suppliers
+                during the said month.
+       (2)      The power to collect the amount specified in sub-section (1) shall
+              be without prejudice to any other mode of recovery from the
+                 operator.
+       (3)      The amount collected under sub-section (1) shall be paid to the
+              Government by the operator within ten days after the end of the
+             month in which such collection is made, in such manner as may
+              be prescribed.
+       (4)       Every operator who collects the amount specified in sub-section
+                   (1)  shall furnish a statement,  electronically, containing the
+                  details of outward supplies of goods or services or both effected
+               through  it, including the supplies of goods or services or both
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+12.6       GOODS AND SERVICES TAX
+
+                returned through it, and the amount collected under sub-section
+                   (1) during a month, in such form and manner as may be
+                 prescribed, within ten days after the end of such month:
+                Provided that the Commissioner may, for reasons to be recorded
+                  in writing, by notification, extend the time limit for furnishing
+                the statement for such class of registered persons as may be
+                  specified therein:
+                Provided further that any extension of time limit notified by the
+              Commissioner  of  State tax  or the Commissioner  of Union
+                   territory tax shall be deemed to be notified by the Commissioner.
+       (5)       Every operator who collects the amount specified in sub-section
+                   (1) shall furnish an annual statement, electronically, containing
+                the details of outward supplies of goods or services or both
+                 effected through it, including the supplies of goods or services or
+               both returned through  it, and the amount collected under the
+                 said sub-section during the financial year, in such form and
+             manner as may be prescribed, before the thirty  first day of
+              December following the end of such financial year
+                Provided that the Commissioner may, on the recommendations
+                  of the Council and for reasons to be recorded in writing, by
+                   notification, extend the time limit for furnishing the annual
+               statement  for such  class  of  registered persons as may be
+                  specified therein:
+                Provided further that any extension of time limit notified by the
+              Commissioner  of  State tax  or the Commissioner  of Union
+                   territory tax shall be deemed to be notified by the Commissioner.
+       (6)           If any operator after furnishing a statement under sub-section
+                   (4) discovers any omission or incorrect particulars therein, other
+               than as a result of scrutiny, audit, inspection or enforcement
+                   activity by the tax authorities, he shall rectify such omission or
+                  incorrect particulars in the statement to be furnished for the
+             month during which such omission or incorrect particulars are
+                 noticed, subject to payment of interest, as specified in sub-
+                 section (1) of section 50:
+                Provided that no such rectification of any omission or incorrect
+                  particulars  shall  be  allowed  after  the  thirtieth day  of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.7 12.7
+
+            November following the end of the financial year or the actual
+                date of furnishing of the relevant annual statement, whichever
+                      is earlier.
+
+       (7)      The supplier who has supplied the goods or services or both
+               through the operator shall claim credit, in his electronic cash
+                  ledger, of the amount collected and reflected in the statement of
+                the operator furnished under sub-section (4), in such manner as
+            may be prescribed.
+      (12)     Any authority not below the rank of Deputy Commissioner may
+                 serve a  notice,  either before  or during the course  of any
+                proceedings under this Act, requiring the operator to furnish
+               such details relating to —
+                     (a)   supplies of goods or services or both effected through
+                      such operator during any period; or
+                     (b)   stock of goods held by the suppliers making supplies
+                     through such operator in the godowns or warehouses, by
+                     whatever name called, managed by such operator and
+                       declared  as  additional  places  of  business  by  such
+                          suppliers,
+                as may be specified in the notice.
+      (13)      Every operator on whom a notice has been served under sub-
+                 section (12) shall furnish the required information within fifteen
+               working days of the date of service of such notice.
+      (14)     Any person who fails to furnish the information required by the
+                 notice served under sub-section (12) shall, without prejudice to
+              any action that may be taken under section 122, be liable to a
+                penalty which may extend to twenty-five thousand rupees.
+      (15)     The operator shall not be allowed to furnish a statement
+              under sub-section (4) after the expiry of a period of three
+               years from the due date of furnishing the said statement:
+              Provided   that   the   Government   may,   on   the
+             recommendations of the Council, by notification, subject to
+              such  conditions and  restrictions as may be  specified
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+12.8       GOODS AND SERVICES TAX
+
+                therein, allow an operator or a class of operators to furnish
+             a statement under sub-section (4), even after the expiry of
+               the said period of three years from the due date of
+               furnishing the said statement.
+
+ Explanation  For the purposes of  this section, the expression “concerned
+                 supplier” shall mean the supplier of goods or services or both
+              making supplies through the operator.
+               Chapter VIII: Returns of the CGST Rules
+   Rule 67   Form and manner of submission of statement of supplies
+              through an e-commerce operator
+       (1)       Every electronic commerce operator required to collect tax at
+                source under section 52 shall furnish a statement in FORM
+              GSTR-8 electronically on the common portal, either directly or
+              from a  Facilitation  Centre  notified  by  the  Commissioner,
+                containing details of supplies effected through such operator
+              and the amount of tax collected as required under sub-section
+                   (1) of section 52.
+       (2)      The details furnished by the operator under sub-rule (1) shall be
+            made available electronically to each of the suppliers on the
+            common portal after filing of FORM GSTR-8 for claiming the
+             amount of tax collected  in  his electronic cash ledger  after
+                  validation.
+
+      ANALYSIS
+
+(i)  Meaning of electronic commerce
+      In simple words, electronic commerce or e-
+     commerce, means buying and selling the
+     goods or services over internet or computer
+     mediated network.  As per the definition provided under section 2(44),
+     electronic commerce means the supply of goods and/or services, including
+      digital products over digital or electronic network.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.9 12.9
+
+                                     It includes trading through online  platforms,  digital
+                         marketplaces,  online  travel agencies and any  other
+                    means  of  electronic communication.  The  definition
+                         includes supply of both goods and services which implies
+                          that the concept of e-commerce covers the transactions
+                          involving   the   sale   of
+                         tangible goods as well as
+     the  provision  of  intangible  services.   The
+      definition specifically includes digital products,
+     implying  that  supplies  of downloadable or
+      electronically delivered products, such as e-
+     books, software, digital music, online courses
+     and digital videos, are also considered part of
+     e-commerce. The term "electronic network" encompasses various digital
+      platforms, such as websites, mobile applications and any other electronic
+    means used for buying or selling of goods and/or services.  Thus, the
+      definition has a broad scope and is intended to cover a wide range of online
+      transactions and digital activities involving the buying and selling of goods
+     and services.
+(ii) Meaning of electronic commerce operator
+      In  simple  words,   electronic
+    commerce operator (hereinafter
+      referred as ECO), is a person who
+     owns, operates or manages a digital platform/marketplace where supply of
+     goods and/or services take place directly or indirectly. As per the definition
+     provided under section 2(45), electronic commerce operator means any
+     person who owns, operates or manages  digital or electronic  facility or
+     platform for electronic commerce.
+     The platform could be  in the form of a
+      website, mobile  application  or any  other
+      electronic medium. ECO’s role is to provide a
+      digital platform where sellers/suppliers can
+        list their products or services, and buyers/recipients can place orders/make
+     purchases. The definition of ECO is wide enough to cover various types of
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+12.10       GOODS AND SERVICES TAX
+
+     e-commerce platforms, such as online marketplaces, online travel agencies,
+     food delivery platforms, ride-hailing apps, and other digital platforms that
+       facilitate transactions between sellers and buyers.
+(iii) Various electronic commerce models
+     Before understanding the taxability of e-commerce transactions, we should
+       first be  conversant  with  the  various  business  models  employed  by
+     e-commerce  industry  to  facilitate  transactions between  suppliers and
+      recipients. These are as follows:
+      1.     Online Marketplace Model: In the online marketplace model, an
+            online centralised platform  is provided connecting manufacturers/
+               retailers with potential customers. The platform itself does not own
+            or stock the products or has the expertise to provide services being
+           sought by the customers; instead it merely facilitates the transactions
+          and may  offer  additional  services such as payment  processing,
+           customer support and logistics. The actual supply of goods is done by
+            the respective suppliers. The platform generates revenue by charging
+           from the supplier the fees or commissions for using the marketplace
+          and accessing  its customer base.  The commission  is typically a
+           percentage of each supply made by the supplier.
+                  (1) Amazon, Flipkart, Alibaba, Myntra, etc.
+
+             Similarly, suppliers of services provide services like cab services, food
+            delivery services through these platforms.
+                   (2) Uber, Ola, etc.
+
+      2.     Direct Sales Model: In the direct sales model, businesses sell their
+            products or services directly to consumers through their own online
+             stores or websites. Customers browse the company's website, select
+             products/services, and complete  the purchase  directly  with  the
+              supplier.
+                   (3) Urban ladder, Biba, etc.
+
+      3.     Inventory Model: In the inventory model, inventory of goods/services
+                 is owned by the ECO that it supplies to customers. The platform takes
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.1112.11
+
+              responsibility for warehousing, inventory management, and fulfillment
+             of orders. This model is typical for traditional retailers who also have
+           an online presence.
+                   (4) Amazon, Flipkart, Snapdeal, etc.
+
+     Above  e-commerce  business  models  are  not  exhaustive,  and many
+     e-commerce businesses may adopt a combination of these models to suit
+      their specific needs and industry dynamics. E-commerce industry is constantly
+      evolving, and new innovative models may emerge over time.
+     Another way of classifying the e-commerce transactions is on the basis of
+      supplier-recipient combination, for instance, Business-to-Consumer (B2C),
+     Business-to-Business  (B2B), Consumer-to-Consumer  (C2C), Consumer  to
+     Business (C2B), Consumer to Government (C2G), Government to Consumer
+     (G2C) and Business to Government (B2G).
+(iv) Taxability of e-commerce transactions
+     E-commerce transactions for supply of goods or services or both are leviable
+      to GST similar to other supply transactions unless otherwise specifically
+     exempted from GST. However, the taxability mechanism for E-commerce
+      transactions and compliances  for  the  suppliers and ECOs have been
+      separately carved out in the law. Following provisions merit consideration in
+      this regard:
+    TCS to be collected by ECO: There are
+    many  e-commerce   operators,   like
+     Amazon, Flipkart, Myntra, Meesho, etc.
+     operating  in  India.  These  operators
+      display/ list on their portal products as
+      well  as  services  which  are  actually
+     supplied by some other person to the
+     consumer.
+     The goods or services belonging to other suppliers are displayed on the
+      portals of the ECOs and consumers buy such goods/services through these
+      portals.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+12.12       GOODS AND SERVICES TAX
+
+    On placing the order for a particular product/ service by the consumer, the
+      actual supplier supplies the selected product/services to the consumer. The
+      collection of supply consideration for the product/services, handling of
+     goods, etc. is undertaken by the ECOs depending upon the arrangement
+     between the supplier and ECO – Online Marketplace Model. The ECO
+      thereafter deducts its commission from the consideration for the goods or
+      services collected by it and passes on the net consideration to the supplier.
+      In such cases, where a supplier supplies GOODS AND/OR
+     SERVICES through an ECO portal and the payment for that
+     supply is collected by the ECO, the Government has placed
+     a responsibility on such ECO to collect an amount @ 1%
+    from such supplier.
+    ECO shall pay the supplier the price of the product /services,
+      less the amount calculated @ 1%. The said amount will be calculated on the
+     net value of the goods/ services supplied  (i.e. after considering returns)
+     through the portal of the ECO.
+               (5) Suppose a certain product is sold at ` 1000/- through an ECO by
+             a seller. The ECO would collect tax @ 1% of the net value of ` 1000/-
+                     i.e. ` 100/-.
+     Exceptions:
+      (1)   Where a suppler supplies through an ECO those SERVICES which
+            are notified under section 9(5) of the CGST Act/ section 5(5) of
+           the IGST Act [hereinafter referred as notified services or services
+             notified under section 9(5)], the tax on such services is to be paid
+          by the ECO as if he is the supplier liable to pay tax on the supply
+            of such services.
+      (2)   Where  a  supplier  supplies  the goods  or
+             services or both on his own account through a
+         web   site  hosted  by  him,  there   is  no
+            requirement to collect tax at source.
+     The provisions of section 9(5) of the CGST Act/ section
+      5(5) of the IGST Act have been discussed in detail below:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.1312.13
+
+(v) Tax payable by the electronic commerce operator on notified
+     services
+
+     (A)  Notified Services
+         The   Government   may,   on   the
+          recommendations of the GST Council,
+            notify specific categories of services the
+            tax [CGST/SGST/IGST] on  supplies  of
+          which shall be paid by the ECO  if such
+            services are supplied through  it.  Such
+            services   shall  be  notified  on  the
+          recommendations of the GST Council.
+
+
+                  Transportation of passengers          Accommodation service
+
+                                        Notified Services
+
+                   House-keeping services                 Restaurant service
+
+           Notification No. 17/2017 CT (R) dated 28.06.2017/ Notification No.
+         14/2017  IT (R) dated 28.06.2017 as amended has  notified the
+           following  categories  of  services supplied through ECO  for  this
+           purpose:
+            (A)(A)   services by way of transportation of passengers by a radio-taxi,        A
+               motorcab, maxicab, motor cycle, omnibus or any other motor
+                 vehicle;
+             (B)(B)B   services by way of providing accommodation in hotels, inns, guest
+                houses, clubs, campsites or other commercial places meant for
+                  residential  or  lodging  purposes,  except where  the  person
+                supplying such service through electronic commerce operator is
+                   liable for registration under section 22(1) of the CGST Act.
+            (C)(C)   services by way of house-keeping, such as plumbing, carpentering         C
+                    etc, except where the person supplying such service through
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+12.14       GOODS AND SERVICES TAX
+
+                  electronic commerce operator  is  liable for registration under
+                 section 22(1) of the CGST Act.
+          (D)(D)D   supply of restaurant service other than the services supplied
+              by restaurant, eating joints etc. located at specified premises.
+
+                     Meaning of various terms
+
+                 (i)  Radio taxi: means a taxi including a radio cab, by whatever
+             name called, which is in two- way radio communication with a
+                  central control office and is enabled for tracking using Global
+                 Positioning System (GPS) or General Packet Radio Service
+                 (GPRS).
+                  (ii) Maxi cab: means any motor vehicle constructed or adapted to
+                  carry more than 6 passengers, but not more than 12 passengers,
+                excluding the driver, for hire or reward.
+             Motor cab: means any motor vehicle constructed or adapted to
+                  carry not more than 6 passengers excluding the driver for hire
+                 or reward.
+             Motor car: means any motor vehicle other than a transport
+                   vehicle, omnibus, road-roller, tractor, motor cycle or invalid
+                  carriage.
+              Omnibus: means any motor vehicle constructed or adapted
+                to carry more than 6 persons excluding the driver.
+
+                 (iii) Specified  premises:  mean  premises  providing  hotel
+             accommodation service having declared tariff of any unit of
+             accommodation  above ` 7,500  per  unit  per  day  or
+                equivalent.
+
+      (B)  Provisions  applicable  to  supplier  liable  for  paying  the  tax
+           applicable to ECO: Tax on notified services supplied through ECO shall
+         be paid by the ECO. All the provisions of the CGST/IGST Act shall apply
+           to such ECO as if he is the supplier liable for paying the tax in relation
+           to the supply of such notified services. This implies that the invoice for
+            notified services will be issued by the ECO only and not by suppliers.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.1512.15
+
+
+                                                           It is important to note here that
+                                      the above provision shall apply
+                                          only in case of supply of
+                                           SERVICES.
+
+
+      (C)  Person liable to pay tax on notified services
+                                               Person liable to pay tax
+                        If the ECO is located in taxable                     ECO
+                              territory
+
+                                                          Person representing the                            If the ECO does not have                                               ECO for any purpose in               physical presence in the taxable                                                               the taxable territory                              territory
+
+                           If the ECO has neither the                                                          Person appointed by the                  physical presence nor any                                               ECO for the purpose of                representative in the taxable                                                               paying the tax                              territory
+
+     (D)  Taxability of the notified services: In terms of the provisions of
+           section 9(5) of the CGST Act/section 5(5) of the IGST Act read with
+           relevant notifications, taxability of the services notified under section
+            9(5)/section 5(5) will be as follows:
+              (I)   In case where services by way of transportation of passengersp    g
+               or restaurant service [as mentioned in pointss (A)(A)A  aand (D)(D)D
+              above] are being provided: ECO is liable to payay taxtax on suchsuch
+                  services supplied through it in all the cases irrespective of the fact
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+12.16       GOODS AND SERVICES TAX
+
+               whether  the  person  supplying  such  services  through   it  is
+                 registered/ liable to registration under section 22 or not1.
+               (II)   In case where accommodation or housekeeping service [as
+             mentioned in pointss (B)(B)B  aandd (C)(C)C  aabove] are being provided:
+            ECO is liable to pay taxax onon ssuchh serviservices supplied through it only
+             when the person supplying such services through it is NOT liable
+                 to registration under section 22,  i.e. the aggregate turnover of
+                 supplier of services does not exceed the threshold limit of ` 20
+               lakh (` 10 lakh in case of Special Category States of Mizoram,
+                  Tripura, Manipur and Nagaland).
+               However, where the person supplying such service through ECO
+                       is liable for registration under section 22(1), the provisions of
+                 section 9(5) of the CGST Act/ section 5(5) of the IGST Act will not
+              be applicable on such services.  In such a case, supplier shall
+                obtain the registration and pay the tax on such services.  In that
+                  case, ECO will not be liable to pay tax on such services. Further,
+              TCS provisions shall apply in such cases.
+                     (6) Champak of Delhi avails the services of a carpenter online
+                  through  an  ECO  –  Hastkala.com.    The  carpenter   is
+                    unregistered under GST since his turnover has not yet crossed
+           the threshold limit. In this case, GST on the services availed by Champak
+             shall be paid by Hastkala.com  in terms of section  9(5) and TCS
+           provisions will not apply.
+            (7) Sampat of Delhi avails the services of a carpenter – M/s Dhruvtara
+           Enterprises - online through an ECO – Hathkala.com. M/s Dhruvtara
+           Enterprises is registered under GST.  In this case, GST on the services
+           availed by Sampat shall be paid by M/s Dhruvtara Enterprises since it is
+            registered.   In other words, provisions of section 9(5)  will not be
+
+
+1 Provisions relating to registration under e-commerce transactions are discussed subsequently in
+this chapter.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.1712.17
+
+            applicable. Further, TCS provisions will apply. Hathkala.com will collect
+         TCS in this case.
+      (E)  Manner of reporting of notified services in GSTR-3B: The ECO may,
+         on notified services, including on restaurant service provided through
+          ECO, pay GST, by furnishing the details in Form GSTR-3B2, reporting
+         them as OUTWARD TAXABLE SUPPLIES.
+
+             Payment of tax on notified services is not allowed through
+                input tax credit of ECO. It has to be paid in cash only3.
+
+
+(vi) Tax collected at source (TCS) by ECO [Section 52]
+     (A)  What is TCS?
+
+                          What is TCS?
+
+
+           Every ECO (not being an agent)  is required to collect an amount
+           calculated at the rate not exceeding 1%, as notified by the Government
+         on the recommendations of the Council, of the net value of taxable
+           supplies made through it, where the consideration with respect to such
+           supplies is to be collected by such ECO.  The amount so collected is
+            called as Tax Collection at Source (hereinafter referred as TCS).
+          Provisions of TCS under CGST Act have also been made applicable
+          to IGST Act vide section 20 of the IGST Act. It may be noted that
+           section 20 of the IGST Act provides that in case of tax collected at
+           source, the operator shall collect tax at such rate not exceeding 2%, as
+        may be notified on the recommendations of the Council (actual rate
+
+2 Provisions relating to GST return in Form GSTR-3B have been discussed in Chapter 13 – Returns
+in this Module of the Study Material.
+3 Circular No. 167/23/2021 GST dated 17.12.2021
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+12.18       GOODS AND SERVICES TAX
+
+            notified  is 1% - discussed subsequently herein), of the net value of
+           taxable supplies.
+      (B)  Who is liable to collect TCS and from whom?
+           Every Electronic Commerce Operator (ECO), not being an agent, has
+         been mandated to collect tax at source (TCS) on the net value of taxable
+           supplies made through  it by suppliers, where the ECO collects the
+           consideration on behalf of the supplier for such supplies.
+          However,  it  is important to note here that practically, ECOs don’t
+            actually collect this amount from the suppliers; they simply retain the
+         TCS amount and their commission from the consideration received by
+         them for supply of supply of goods/services made by the suppliers, and
+          pay the remaining amount to the suppliers.
+              ✪ In case of Multiple E-Commerce Model where a
+                    customer orders supplies via ECO-1 who in turn  is
+                      integrated with ECO-2 who has agreement with the
+                        supplier. In this case, ECO-1 will not have any GST
+          information of the supplier. TCS is to be collected by that ECO who
+             is making payment to the supplier  for the particular supply
+         happening through it, which is in this case will be ECO-2.
+      ✪ A composition taxpayer4 cannot make supplies of services
+          through an ECO  [Section  10(2)(d)].  However, a  composition
+          taxpayer can make supplies of goods through an ECO.  As a
+           corollary, TCS can be collected only in respect of supplies of goods
+        made by the composition taxpayer through an ECO.
+      (C)  What is the rate of TCS notified?
+          Rate of TCS notified  is 0.5% of the net value of intra-State taxable
+           supplies (under the CGST Act, 2017 and the respective SGST Act / UTGST
+          Act respectively) and 1% of the net value of inter-State taxable supplies
+           (under the IGST Act, 2017).
+
+
+4 Provisions relating to composition taxpayer have been discussed in detail in Chapter 2 – Charge
+of GST in Module 1 of this Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.1912.19
+     (D)  What is the value on which TCS is to be collected?
+         TCS is collected @ 1% on net value of taxable supplies. The “net value
+          of taxable supplies” means the aggregate value of taxable supplies of
+         goods or services or both,
+           other than the services on
+          which entire tax is payable
+          by  ECO  u/s   9(5),  made
+          during any month by all registered persons through such ECO reduced
+          by the aggregate value of taxable supplies returned to the suppliers
+          during the said month.
+                 It is important to note here that the value of net taxable supplies is
+           calculated at GSTIN level on monthly basis.  Further, value of only
+        TAXABLE SUPPLIES is to be taken into consideration.  Moreover, an
+        ECO is required to collect tax only on the NET value of taxable supplies
+        made through  it.  In other words, value of the supplies which are
+           returned (supply return) are to be adjusted from the aggregate value of
+           taxable supplies made by each supplier. This is to adjust the return of
+         goods made by the customers to ECOs which is a very common feature
+           of said business.
+         Sometimes sales return is more than sales.
+          However,  negative amount  cannot  be
+           declared. There will be no impact in next
+            tax period also. In other words, if returns
+           are more than the supplies made during
+          any tax period, the same would be ignored
+             in current as well as future tax period(s).
+                       (8) If two suppliers “A” and “B” are making supplies through
+                  an ECO, the “net value  of taxable  supplies” would be
+                      calculated separately in respect of “A” and “B”. If the value of
+           returned supplies is more than supplies made on behalf of any of such
+           supplier during any tax period, the same would be ignored in his case.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+12.20       GOODS AND SERVICES TAX
+
+
+                     Aggregate   value   of   taxable    Taxable supplies returned
+                                                            to suppliers                        supplies  of  goods  and  /  or
+                         services
+                          OTHER
+                        THAN                                                  ServicesSe        notified
+                                         underunder  section  9(5)
+                                              (discussed earlier)
+
+              ✪ Since TCS  is to be collected on “net value of
+                                  supplies” made through  it, TCS  is not
+                       required to be collected on          supplies.
+      ✪ TCS is not required to be collected on supplies on which the
+           recipient is required to pay tax on reverse charge basis.
+      ✪ TCS is not liable to be collected on import of goods or services.
+         TCS is not liable to be collected on import of services since these are
+          the supplies on which the recipient is required to pay tax on reverse
+          charge basis. As far as import of goods is concerned, since same
+         would fall within the domain of the Customs Act, 1962, it would be
+          outside the purview of TCS.
+
+                     (9) Shiksha Book Depot is selling books through an ECO -
+                Zamazon Ltd.  Books are exempted/zero-tax goods. As per
+                    section 52(1), TCS is to be collected on “net value of taxable
+           supplies” made through an ECO. When the supply itself is not taxable,
+           the question of TCS does not arise. Thus, Zamazon Ltd. is not required
+           to collect TCS on the sale of books.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.2112.21
+
+      (E)  Which monthly statement is required to be furnished by an ECO?
+          [Sub-sections (3), (4), (6) and (7) of section 52 read with rule 67]
+            (a)  Form GSTR-8
+             An ECO liable to collect TCS shall
+                 furnish a monthly statement in Form
+             GSTR-8  electronically through the
+            common  portal.   Form  GSTR-8
+                contains the details of supplies of
+              goods or services or both effected
+               through ECO including the supplies
+                 of  goods  or  services  or  both
+                returned through  it, amount of consideration collected by ECO
+                 pertaining to supplies made through ECO and the amount of TCS
+                 collected on such supplies.
+                        CONTENTS OF GSTR- 8
+
+               Table 3       Details of supplies attracting TCS
+               Table 4     Amendment   to   details   of   supplies
+                               attracting  TCS  in  respect  of  earlier
+                           statement
+               Table 5       Details  of  Interest on account  of  late
+                        payment of TCS amount (Auto calculated
+                        on GST Portal)
+               Tables 6 & 7  Payment of Tax
+           (b)   Last date of filing statement and for deposit of TCS
+              The details  in GSTR-8 should be
+                furnished on/before 10th day of the
+             month  succeeding  the  calendar
+             month in which tax has been collected at source.
+              The due  date  of  filing GSTR-8 may be extended by  the
+               Commissioner/Commissioner  of  State  GST/Commissioner  of
+             UTGST for a class of taxable persons by way of a notification.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+12.22       GOODS AND SERVICES TAX
+
+                  Further, the amount of tax collected
+              by ECO (TCS amount) is also required
+                 to be deposited separately under the
+                 respective tax head (i.e. Central tax / State tax / Union territory tax
+                    / Integrated tax) by 10th day of the month succeeding the calendar
+             month in which TCS has been collected.
+              The ECO can file Form GSTR 8 only when full TCS liability has been
+                discharged.
+                        (10) If the TCS has been collected in the month of July,
+                        the amount has to be remitted into the Government
+                Treasury on or before 10th August.
+            (c)  TCS details available to suppliers on common portal and
+               claiming of TCS by suppliers
+              The details of TCS furnished by the ECO in
+              GSTR-8    shall   be   made    available
+                  electronically to each of the suppliers who
+                supplied goods and/or  services through
+            ECO  in Form GSTR-2A on the common
+                 portal after filing of GSTR-8.
+              The amount of TCS shall be credited to the cash ledger of the
+                 supplier who has supplied the goods/services through the ECO in
+                the respective tax head in which TCS amount was deposited by
+               ECO. The said credit can be used at the time of discharge of tax
+                      liability by the actual supplier.
+                          If the supplier is not able to use the amount lying in the said cash
+                  ledger, the actual supplier may claim refund of the excess balance
+                  lying  in  his  electronic cash  ledger  in accordance  with  the
+                 provisions contained in section 54(1)5.
+           (d)   Rectification of errors/omissions in GSTR-8
+                          If after submission of GSTR-8, the ECO discovers any discrepancy
+                 therein on his own - not being the result of any scrutiny, audit,
+                 inspection or enforcement proceedings - he should rectify such
+
+5 The provisions relating to refund of excess balance in electronic cash ledger has been discussed
+in detail in Chapter 15 – Refunds under GST in Module 3 of this Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.2312.23
+
+                discrepancy in GSTR-8 to be filed for the month during which such
+                discrepancy  is noticed, subject to payment of interest under
+                 section 50.
+              The rectification is not allowed after 30th November following the
+              end of the financial year or the actual date of filing of the relevant
+               annual statement [GSTR-9B], whichever is earlier.
+            (e)   Late fees for delay in filing GSTR-8 [Section 47]
+                Following late fee  is applicable for delay in furnishing of TCS
+               statement in Form GSTR-8:
+                                `200 [`100 under CGST &
+                                 ``100 under SGST/UTGST] for
+              Quantum       everye    day during which such
+                 of late fee               failure continues.
+                                 ` 10,000 [`5,000 under CGST
+                     & `5,000 under SGST/UTGST]
+
+             (f)  Whether Nil GSTR-8 needs to be filed in case if there is no TCS
+                   liability in a tax period?
+                   Filing of GSTR-8 for every tax period is not mandatory. ECO is
+                required to file Form GSTR-8 for a particular tax period, only when
+              goods are supplied through such ECO and they have collected any
+              TCS during the said tax period or they have to amend any details
+                declared in earlier return on their own or on account of any details
+                 rejected by supplier.
+                          If ECO does not have any TCS liability in any particular tax period
+              and also there is no transaction that has been auto-populated in
+                Table 4 of GSTR-8 of that particular tax period due to rejection of
+              TCS details by the supplier in TDS/TCS credit received table, filing
+                 of Form GSTR-8 will not be mandatory for the said tax period.
+                Otherwise, it is mandatory to file Form GSTR-8 for a particular tax
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+12.24       GOODS AND SERVICES TAX
+
+                period  in which TCS has been collected or details are auto
+               populated in Table 46 7.
+           (g)  Maximum time-limit for furnishing Form GSTR-8
+           Maximum  time-limit upto which ECO can  furnish Form
+             GSTR-8 is 3 years from the relevant due date of filing such
+               statement. This time limit can be extended by the Government
+                 for an ECO or a class of ECOs subject to such conditions and
+                 restrictions as may be specified therein.
+      (F)  Which annual statement is required to be furnished by an ECO?
+        An ECO required to collect TCS is required to
+               file an annual statement referred to in section
+           52(5) in Form GSTR-9B (yet to be notified).
+         The statement for a financial year needs to be filed by 31st December
+          of the next financial year.
+         The due date of  filing annual statement may be extended by the
+          Commissioner/Commissioner of State GST/Commissioner of UTGST for
+          a class of taxable persons by way of a notification.
+     (G)  Interest on non-collection of TCS [Section 52(6)]
+          As per section 52(6), interest is applicable on omission as well in case
+           of incorrect particulars noticed.   In case of non-collection of TCS,
+            interest is applicable since it is a case of omission. Further penalty under
+           section 122(vi)8 would also be leviable.
+     (H)  At what time should the ECO collect TCS?
+         TCS is to be collected once supply has been made through the ECO and
+         where the business model is that the consideration is to be collected by
+           the ECO, irrespective of the actual collection of the consideration.
+
+
+6  It is not necessary to file Form GSTR-8 for the tax period in which there are only rejected
+documents in table 4 and there is no TCS liability.
+7 Based on the FAQs on Form GSTR-8 given on www.gst.gov.in
+8 Penal provisions have been discussed in detail in Chapter 21 – Offences and Penalties and Ethical
+aspects of GST in Module 3 of this Study Material.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.2512.25
+
+                    (11)  If the supply has taken place through the ECO on
+                      30th October, but the consideration for the same has been
+                     collected in the month of November, then TCS for such supply
+          has to be collected and reported in the statement for the month of
+           October.
+       (I)   Authority not below the rank of Deputy Commissioner may serve a
+          notice requiring ECO to furnish the details of their supplies of
+         goods or services or both as well as stock of goods held by the
+           suppliers
+         The power conferred on the ECO to collect TCS, is without prejudice to
+           other modes of recovery from ECO. The powers of ECO is restricted
+           only to the extent of TCS under circumstances specified therein and
+          nothing more.
+        An officer not below the rank of Deputy Commissioner can issue notice
+           to an ECO, asking him to furnish the details relating to volume of the
+          goods/ services supplied, stock of goods lying in warehouses/ godowns
+             etc. The ECO is required to furnish such details within 15 working days.
+            In case an ECO fails to furnish the information, besides being liable for
+          penal action under section 122, it shall also be liable for general penalty
+         up to ` 25,000.
+
+                    Payment of TCS by ECO is not allowed through input
+                        tax credit of ECO. This implies that TCS has to be
+                       paid in cash only.
+
+
+    ILLUSTRATION 1
+     Nishpaksh Associates is a supplier selling its own products through a web site
+     hosted by  it. Does  it  fall under the definition of an “electronic commerce
+      operator”? Whether Nishpaksh Associates is required to collect TCS on such
+      supplies?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+12.26       GOODS AND SERVICES TAX
+
+   ANSWER
+     As per the definitions in sections 2(44) and 2(45), Nishpaksh Associates will
+    come under the definition of an “electronic commerce operator”.
+     However, according to section 52, TCS is required to be collected on the net
+     value of taxable supplies made through  it by other suppliers where the
+     consideration is to be collected by the ECO. In cases where someone is selling
+      their own products through a website, there is no requirement to collect TCS
+     as per the provisions of this section. These transactions will be liable to GST
+      at the prevailing rates.
+      Thus, Nishpaksh Associates is not required to collect TCS on the supplies
+    made by it through its own website.
+    ILLUSTRATION 2
+         If Sitcom Technologies  Ltd. purchases goods from  different vendors and
+      thereafter sells them on its own website under its own billing. Is TCS required
+      to be collected on such supplies?
+   ANSWER
+     No. According to section 52, TCS is required to be collected on the net value
+      of  taxable  supplies made through ECO by other  suppliers where the
+     consideration  is to be collected by the ECO.  In this case, there are two
+      transactions  - Sitcom Technologies  Ltd. purchases the goods from the
+     vendors, and thereafter those goods are sold through its own website.
+     For the first transaction, GST is leviable, and will need to be paid to vendor,
+    on which  credit  is  available  to Sitcom Technologies  Ltd. The second
+      transaction is a supply on own account of Sitcom Technologies Ltd., and not
+     by other suppliers and there is no requirement to collect TCS. The transaction
+       will attract GST at the prevailing rates.
+(vii) Clarification on service supplied by restaurants through ECOs
+    As seen earlier, supply of restaurant service other than the services
+     supplied by restaurant, eating joints etc. located at specified premises
+     has been  notified  for the purposes of  section  9(5).   Circular No.
+     167/23/2021 GST dated 17.12.2021 has clarified the following issues
+     with regard to said service:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.2712.27
+
+       (i)   ECOs not to collect TCS in respect of restaurant services so notified
+         ECOs will no longer be required to collect TCS and furnish Form
+         GSTR-8 in respect of restaurant services since it pays tax on such
+           services in terms of section 9(5).
+       (ii)  ECOs not required to take separate registration for paying tax on
+          restaurant service supplied through them
+         As ECOs are already registered in accordance
+          with rule 8 (as a supplier of their own goods
+          or services), there would be no mandatory
+          requirement of taking separate registration
+         by ECOs for payment of tax on restaurant
+           service under section 9(5)9.
+       (iii) ECO to pay tax on restaurant services supplied through them by an
+          unregistered person
+         ECOs will be liable to pay GST on any restaurant service supplied
+          through them including  services supplied by an unregistered
+          person.
+      (iv)  Supply of restaurant services to be included in aggregate turnover
+           of person supplying restaurant services through ECO
+         The aggregate turnover of person supplying restaurant service
+          through ECOs shall be computed in accordance with definition of
+          aggregate turnover under  section  2(6) and  shall include the
+          aggregate value of supplies made by the restaurant through ECOs.
+          Accordingly, for threshold consideration or any other purpose in the
+        CGST Act, the person providing restaurant service through ECO
+           shall account for such services in his aggregate turnover.
+
+
+9 Separate registration apart from regular registration is required in case where ECO is liable
+to collect TCS under section 52.  Registration requirements of ECOs have been discussed
+subsequently in this chapter.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+12.28       GOODS AND SERVICES TAX
+
+      (v)  Restaurant services provided through ECO not to be considered as
+         inward supply for ECOs
+        ECOs are not the recipient of restaurant service supplied through
+         them. Since these are not input services to ECO, these are not to be
+          reported  as  inward  supply  (liable  to  reverse  charge)  in
+        Form GSTR-3B.  Indeed, they are reported as Outward Taxable
+          Supplies in GSTR-3B.
+      (vi)  Reversal of proportionate ITC on input goods and services not
+          required by ECO
+         ECOs provide their own services as an electronic platform and an
+          intermediary for which it would acquire inputs/input services on
+         which ECOs avail input tax credit (ITC).
+         The ECO charges commission/fee etc. for the services it provides.
+         The ITC is utilised by ECO for payment of GST on services provided
+         by ECO on its own account (say, to a restaurant).
+         The situation in this regard remains unchanged even after ECO is
+        made liable to pay tax on restaurant service. ECO would be eligible
+           to ITC as before.
+          Accordingly, it is clarified that ECO shall not be required to reverse
+          ITC on account of restaurant services on which it pays GST in terms
+           of section 9(5).
+         However,itmayalsobenotedthatonrestaurantservicesonotified,
+      ECOshallpaytheentireGSTliabilityincash(NoITCcouldbeutilised
+        forpaymentofGSTonrestaurantservicesuppliedthroughECO).
+       (vii) GST to be paid by the supplier on services not notified under
+           section 9(5) but supplied through ECO
+        ECO is required to pay GST on services notified under section 9(5),
+          besides the services/other supplies made on his own account.
+        On any supply that  is not notified under section 9(5), that  is
+          supplied by a person through ECO, the liability to pay GST continues
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.2912.29
+
+         on such supplier and ECO shall continue to collect TCS on such
+           supplies.
+          Thus, present dispensation continues for ECO, on supplies other
+         than restaurant services. On such supplies (other than restaurant
+           services made through ECO) GST will continue to be billed, collected
+         and deposited in the same manner as is being done at present. ECO
+            will deposit TCS on such supplies.
+       (viii) ECO to raise invoice in respect of restaurant service supplied
+          through ECO
+         The invoice in respect of restaurant service supplied through ECO
+         under section 9(5) will be issued by ECO.
+      (ix)  Billing in case of ‘restaurant service’ and goods/services other than
+          restaurant service being sold by a restaurant to a customer under
+          the same order
+          There can a situation where ‘restaurant service’ and goods or
+           services other than restaurant service are sold by a restaurant to a
+         customer under the same order. The question arises as to who shall
+         be liable for raising invoices in such cases.
+          Considering that  liability to pay GST on supplies other than
+           ‘restaurant service’ through the ECO,
+         and other compliances under the CGST
+           Act, including issuance of invoice to
+          customer, continues  to  lie with the
+           respective suppliers (and ECOs being
+           liable only to collect tax at source (TCS)
+         on such supplies), it is advisable that ECO raises separate bill on
+          restaurant service in such cases where ECO provides other supplies
+           to a customer under the same order10.
+
+
+10 Circular No. 167/23/2021 GST dated 17.12.2021
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+12.30       GOODS AND SERVICES TAX
+
+    4. REGISTRATION REQUIREMENTS
+
+         STATUTORY PROVISIONS
+
+
+  Section 22                Persons liable for registration
+   (Relevant
+    Extract)
+  Sub-section                          Particulars
+       (1)                Every supplier shall be liable to be registered under this Act in
+                the State or Union territory, other than special category States,
+              from where he makes a taxable supply of goods or services or
+                 both, if his aggregate turnover in a financial year exceeds twenty
+                lakh rupees.
+                Provided that where such person makes taxable supplies of
+              goods or services or both from any of the special category States,
+              he shall be liable to be registered if his aggregate turnover in a
+                  financial year exceeds ten lakh rupees.
+                Provided further that the Government may, at the request of a
+                  special category State and on the recommendations of the
+                 Council, enhance the aggregate turnover referred to in the first
+                 proviso from ten lakh rupees to such amount, not exceeding
+               twenty  lakh  rupees and  subject  to  such  conditions and
+                  limitations, as may be so notified.
+                Provided also that the Government may, at the request of a State
+              and on the recommendations  of the Council, enhance the
+               aggregate turnover from twenty lakh rupees to such amount not
+                exceeding forty lakh rupees in case of supplier who is engaged
+                  exclusively in the supply of goods, subject to such conditions and
+                  limitations, as may be notified.
+                Explanation––For the purposes of this sub-section, a person shall
+              be considered to be engaged exclusively in the supply of goods
+               even if he is engaged in exempt supply of services provided by
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.3112.31
+
+             way of extending deposits, loans or advances in so far as the
+                consideration is represented by way of interest or discount.
+  Section 24          Compulsory registration in certain cases
+   (Relevant
+    Extract)
+    Clause                             Particulars
+               Notwithstanding  anything  contained  in  sub-section  (1)  of
+                 section 22, the following categories of persons shall be required
+                 to be registered under this Act,-
+       (iv)      person who are required to pay tax under sub-section (5) of
+                 section 9
+       (ix)      persons who supply goods or  services or both, other than
+                 supplies specified under sub-section (5) of section 9, through
+               such electronic commerce operator who is required to collect tax
+                 at source under section 52
+       (x)       every electronic commerce operator who is required to collect
+                 tax at source under section 52
+             Chapter III – Registration of the CGST Rules
+   Rule 12    Grant of registration to persons required to deduct tax at
+               source or to collect tax at source
+       (1)      Any person required to deduct tax in accordance with the
+                 provisions of section 51 or a person required to collect tax at
+                source in accordance with the provisions of section 52 shall
+                  electronically submit an application, duly signed or  verified
+               through electronic verification code, in FORM GST REG-07 for
+                the grant of registration through the common portal, either
+                   directly  or  through a  Facilitation  Centre  notified  by  the
+               Commissioner.
+     (1A)     A person applying for registration to deduct or collect tax in
+               accordance with the provisions of section 51, or, as the case
+              maybe, section 52, in a State or Union territory where he does
+                not have a physical presence, shall mention the name of the
+                 State or Union territory in PART A of the application in FORM
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+12.32       GOODS AND SERVICES TAX
+
+             GST REG-07 and mention the name of the State or Union
+                   territory in PART B thereof in which the principal place of
+                business is located which may be different from the State or
+              Union territory mentioned in PART A.
+       (2)      The proper officer may grant registration after due verification
+              and  issue a  certificate  of  registration  in FORM GST REG-
+              06 within a period of three working days from the date of
+               submission of the application.
+       (3)      Where, on a request made in writing by a person to whom a
+                  registration has been granted under sub-rule (2) or upon an
+                enquiry or pursuant to any other proceeding under the Act, the
+                proper officer is satisfied that a person to whom a certificate of
+                  registration in FORM GST REG-06 has been issued is no longer
+                   liable to deduct tax at source under section 51 or collect tax at
+                source under  section  52,  the  said  officer may  cancel  the
+                  registration issued under sub-rule (2) and such cancellation shall
+              be communicated to the said person electronically in FORM GST
+               REG-08:
+                Provided that the proper officer shall follow the procedure as
+                provided in rule 22 for the cancellation of registration.
+       ANALYSIS
+
+
+(i)   Registration requirements of ECO
+     Every ECO who is required to collect TCS under section 52 as well as an ECO
+    who  is required to pay tax under section 9(5) are required to obtain
+      registration compulsorily under section 24 irrespective of the quantum of
+      their aggregate turnover.
+      Further, following special procedure has been laid down for registration of
+    ECOs liable to collect TCS:
+     Special provisions for grant of registration in case of persons required
+     to collect TCS under section 52 [Rule 12]
+    An ECO has to obtain separate registration for TCS irrespective of the fact
+     whether ECO is already registered under GST as a supplier or otherwise and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.3312.33
+
+     has GSTIN. Application for registration has to be submitted by such persons
+      in a different prescribed form at GST Common Portal. They would be granted
+      registration  within 3 working days from  the  date  of  submission  of
+      application after due verification.
+     Sometimes, an ECO is required to collect tax in a State/UT where it does not
+     have physical presence since suppliers listed on their e-commerce platform
+      are located in said State/UT.
+     However, registration for TCS is required in each such State / UT as the
+      obligation for collecting TCS would be there for every intra-State or inter-
+      State supply. In such case, in Part-A of the prescribed registration form,
+     State/UT for which registration is required needs to be mentioned.
+     However, in Part-B of the registration form, the ECO may declare the Head
+      Office as its place of business for obtaining registration in that State / UT
+     where it does not have physical presence.
+      Registration will be cancelled if proper officer is satisfied that such person is
+    no longer liable to collect tax at source.  Cancellation of registration will be
+     communicated to such person electronically in prescribed form.  Proper
+      Officer shall follow the procedure laid down for cancellation of registration
+     prescribed under this Act and rules therein.
+
+(ii)  Registration requirements of supplier making supplies of goods or
+     services through ECO
+     (A)  Persons making supplies of GOODS through an ECO who is required
+           to  collect tax at source under section 52 are required to obtain
+         REGISTRATION MANDATORILY.  Provisions of section 9(5) do not
+           apply in case of supply of goods through ECO.
+      (B)  Persons making supplies of SERVICES, other than services specified
+         under section 9(5) through an ECO who is required to collect TCS
+          under section 52, and having an aggregate turnover (to be computed
+         on all India basis) not exceeding an amount of ` 20 lakh (` 10 lakh in
+           case of Special Category States of Mizoram, Tripura, Manipur and
+           Nagaland), in a financial year, are exempted from obtaining registration
+           vide Notification No. 65/2017 CT dated 15.11.2017.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+12.34       GOODS AND SERVICES TAX
+
+           Thus, the THRESHOLD LIMIT OF ` 20 LAKH OR ` 10 LAKH IS
+         APPLICABLE in case of person supplying services other than those
+            notified under section 9(5) through an ECO otherwise liable to collect
+           TCS.
+           Since such suppliers are not  liable for  registration, ECOs are not
+           required to collect TCS on supply of services being made by such
+           suppliers through their portal.
+                     (12) Sudhakar Salon Services is engaged in providing salon
+                       services through an electronic commerce platform owned by
+                 Zykom Technologies Ltd.
+           Since Sudhakar Salon Services is supplying services other than notified
+            services  through  the  e-commerce  platform  owned  by  Zykom
+          Technologies   Ltd.,   it   is  exempted  from  obtaining  compulsory
+            registration since  its aggregate turnover has not yet crossed the
+           threshold limit for registration.
+           Consequently, it is unregistered under GST. Thus, Zykom Technologies
+            Ltd. is not required to collect TCS on supply of services being made by
+          Sudhakar Salon Services through its portal.
+      (C)  Persons making supplies of SERVICES notified under section 9(5)
+          through an ECO11: Such persons will be entitled for threshold exemption
+            for registration of ` 20 lakh (` 10 lakh in case of Special Category States
+           of Mizoram, Tripura, Manipur and Nagaland).
+
+
+11 As per the provisions of section 52, such ECO will not be liable to collect TCS.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.3512.35
+
+       LET US RECAPITULATE
+
+
+                                               supply of goods
+
+                                                  supply of                              means                                                          services
+                                               supply of goods
+                                           and services
+               Electronic
+           Commerce            includes         digital products
+
+                                                         digital network
+                                     over
+                                                        electronic
+                                               network
+
+                                         owns                                        facility/facilit
+
+   Electronic                 any  Commerce   means      person            operates            ecte-commerce                                                                                                                                                                                                                     electronic   Operator              who                                  for
+                                        manages                               Digital/Digitalplatform
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+12.36       GOODS AND SERVICES TAX
+
+                                                      Required to obtain compulsory
+                                                                          registration*
+                             ECO
+                                                   Required to collect TCS u/s 52 @ 1%
+               Supply of
+               goods                              Required to obtain compulsory
+      ECO)                            Supplier                        registration
+                                 supplying goods
+                                through ECO     Can take credit of the TCS collected by
+                                            ECO and pay rest of the tax          through
+                                                      ECO is liable to pay tax in all
+                                                                                  cases      registration                                                      In case off (A)(A)            services                              A
+ andor                                       andd (D)(D)D            Supplier is entitled to
+                                                              servicesi           threshold limit of ` 20 lakh/
+                                                                     ` 10 lakh for registration     taxabilitygoods                         Supply of
+                                     notified services                  ECO is liable to pay tax on
+                                                                   such services only when the            supplies                                                                     person supplying such
+                                                            In case off  (B)(B)B        services is NOT liable to                                                                                         registration     E-commerce                                           andd (C)(C)            supplier                                                                  C)C
+                                                              servicesi               Supplier is entitled to
+                                                                         threshold limit of ` 20 lakh/
+                                                                     ` 10 lakh for registration         (Where               Supply of
+                  services
+                                                                        Required to obtain
+                                                                   compulsory registration
+
+                                                                    Required to collect TCS u/s                                            ECO                                                                       52 @ 1%
+
+                                                        May not collect TCS if
+                                Supply of other                           supplier is unregistered.
+                                 than notified
+                                         services                                                                                 Entitled to threshold limit of
+                                                                      ` 20 lakh/ ` 10 lakh for
+                                                          Supplier                 registration
+                                                       supplying
+                                                         services through                                                             Can take credit of the TCS                                            ECO                                                                              collected by ECO and pay
+                                                                                          rest of the tax
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.3712.37
+
+
+RATE OF TCS
+                              under
+                          CGST/SGST/          0.5%
+                          UTGST           Rate of TCS
+                            under IGST         1%
+
+
+                                  TCS
+
+                                      Value on which     Due date of deposit   Person liable to      Threshold                                    TCS to be              of TCS to       collect TCS            limit                                   computed          Government
+
+                                                          10th day of the
+                                  Nil          Net value of      month succeeding the
+       ECO                               taxable supply         calendar month in                                                           which TCS has been
+                                                                           collected
+
+              NET VALUE OF TAXABLE SUPPLIES
+                                    other      than
+                   Aggregate value of                                        notified services                     taxable supplies of
+                 goods and/or services
+                                               Net value of
+                                                     Taxable
+                                                        Supplies
+
+                     Taxable supplies
+                    returned to supplier
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+12.38       GOODS AND SERVICES TAX
+
+       TEST YOUR KNOWLEDGE
+
+1.    Starkart Limited owns and operates a web portal in the name of “Starkart” and
+        is registered with the jurisdictional GST authorities in Delhi as an electronic
+     commerce operator and is liable to collect tax at source under section 52.
+      Starkart provides listing service to various sellers for selling the goods to
+      ultimate customers.  Besides this, Starkart also sells its own products through
+      the same web portal.
+      For the listing services provided to sellers, Starkart charges a listing fee at the
+      rate of 10% of turnover of goods sold by the seller in a particular month. Such
+       listing fee is recovered from the seller irrespective of any return of goods sold
+     through Starkart. The customers can choose from wide range of goods listed
+     on the web portal and place an online order for goods.
+     The payment is made by the customers through the payment gateway in online
+    mode only. At the time of monthly settlement, Starkart makes the payment to
+      the sellers after adjusting the tax collection at source at the applicable rates.
+     The invoice for goods sold on Starkart is issued by the seller in the name of
+     customers and tax is charged on the basis of location of seller and customer.
+     The goods are shipped directly by the seller to the customer and there is no
+      responsibility of shipping the goods on Starkart for such third-party sellers.
+      In case of return of goods by the customer, the shipping is arranged by Starkart.
+         It charges a fee equivalent to 20% of the value of goods returned as cancellation
+     charges and refunds the balance amount to the customer.
+      Further, 10% of the value of goods returned is collected from the seller by
+      Starkart as handling charges for return of goods.
+      In the month of January, Pulkit, a resident of Rajasthan, purchased following
+     goods from Starkart:
+       a.    Laptop having a value of ` 50,000 and a printer having a value of
+      ` 10,000. Both the products are sold by Infocom Limited, a seller listed
+         on Starkart and registered under GST in the State of Uttar Pradesh.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.3912.39
+
+       b.    Mobile phone having a value of ` 30,000 sold by Starkart in its own
+            capacity.
+        c.   CCTV camera system having a value of ` 1,00,000 sold by Secure World,
+             listed on Starkart and registered under GST in the State of Gujarat.
+       All the amounts given above are exclusive of GST, wherever applicable.
+     The opening balance of input tax credit for the relevant tax period for Starkart,
+     Infocom Limited and Secure World is nil. Further, there is no other inward or
+     outward supply transaction for Starkart, Infocom Limited and Secure World in
+     January  apart  from  the  aforementioned  transactions.    Subject  to  the
+     information given above, assume that all the other conditions necessary for
+      availing ITC have been fulfilled.
+    GST is applicable on all inward and outward supplies at the following rates
+      unless otherwise specified:
+    CGST - 9%, SGST - 9%, IGST - 18%
+     Compute the net tax liability (including amount collected as TCS) of Starkart
+      Limited and net GST payable in cash (after set-off of credits, if any) of Infocom
+      Limited and Secure World, for the month of January.
+2.   Whether the rate of tax of 1% notified under section 52 is CGST or SGST or a
+     combination of both CGST and SGST?
+3.     Is every e-commerce operator required to collect tax on behalf of actual
+      supplier?
+4.    State whether the provisions pertaining to tax collected at source under section
+      52, will be applicable in below mentioned scenarios -
+       (a)   Fitan sells watch on its own through its own website
+       (b)  ABC limited who is dealer of Fitan brand sells watches through Slipkart,
+         an electronic commerce operator
+5.   A is an e-commerce operator supplying goods through its electronic portal in
+      capacity of an agent. The goods belong to B and the consideration for such
+      supplies is received by A and remitted to B as per the contractual arrangement.
+    A requires your help in arriving at the rate at which tax shall be collected from
+      the amount which is received by it against the supplies?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+12.40       GOODS AND SERVICES TAX
+
+6.   X booked a Hotel in Udaipur, Rajasthan through an e-commerce portal for an
+     amount of ` 25,000. As per the terms and conditions, the amount was payable
+      at the hotel at the time of check in. Whether TCS provisions shall apply in the
+      present case?
+7.    Sumitra Nandan books a Hotel – Hillpoint Residency - via Zitcom Technologies
+       Ltd. – an ECO - who in turn is integrated with another ECO-Techsuper Ltd. who
+     has agreement with Hillpoint Residency. You are required to determine who is
+      required to collected TCS in the given case.
+8.   AB Pvt. Ltd., Pune, Maharashtra, provides house-keeping services. The company
+      supplies its services exclusively through an e-commerce website owned and
+    managed by Hi-Tech Indya Pvt. Ltd., Pune. The turnover of AB Pvt. Ltd. in the
+      current financial year is ` 18 lakh.
+     Advise AB Pvt. Ltd. as to whether it is required to obtain GST registration. Will
+     your advice be any different if AB Pvt. Ltd. sells readymade garments exclusively
+     through the e-commerce website owned and managed by Hi-Tech Indya Pvt.
+      Ltd.?
+
+      ANSWERS/HINTS
+
+1.   Computation of net tax liability (including amount collected as TCS) of
+     Starkart Limited for January:
+
+                                                                        `      Particulars
+     TCS to be collected from Infocom Limited on supply of Laptop       600
+     and a printer to Pulkit
+       [Starkart is an ECO since it owns and operates a web portal
+      through which Infocom Limited supplies goods. Further, IGST
+         is applicable on said inter-State transaction since supplier -
+     Infocom Limited is located in the State of Uttar Pradesh and
+      place of supply is Rajasthan [i.e. where movement of goods
+      terminates in terms of section 10(1)(a) of the IGST Act, 2017].
+      Thus, Starkart will collect TCS @ 1% of [` 50,000 + ` 10,000]
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.4112.41
+
+     GST to be paid by Starkart on supply of mobile phone made      5,400
+     on its own account @ 18% (IGST) of ` 30,000. IGST is applicable
+     on said inter-State transaction since supplier  - Starkart  is
+      located in Delhi and place of supply is Rajasthan [i.e. where
+     movement of goods terminates in terms of section 10(1)(a) of
+      the IGST Act, 2017].  Since supply has been made by Starkart
+     on its own account, no TCS needs to be collected.
+     TCS to be collected from Secure World on supply of CCTV      1,000
+     camera system to Pulkit
+     [ECO - Starkart  is liable to collect TCS on this transaction.
+       Further, IGST is applicable on said inter-State transaction since
+      supplier - Secure World is located in the State of Gujarat and
+      place of supply is Rajasthan [i.e. where movement of goods
+      terminates in terms of section 10(1)(a) of the IGST Act, 2017].
+      Thus, Starkart will collect TCS @ 1% of ` 1,00,000]
+       Listing services provided by Starkart to Infocom Limited and      2,880
+      Secure Limited @ 10% of turnover for the month of January.
+      Turnover of Infocom Limited and Secure Limited is ` 60,000
+     and ` 1,00,000 respectively.
+      IGST @ 18% on (` 1,60,000 × 10%) is applicable on said inter-
+      State transaction since supplier – Starkart is located in Delhi
+     and place of supply is Uttar Pradesh and Gujarat respectively
+         [i.e. location of recipient in terms of section 12(2) of the IGST
+       Act, 2017]
+      Total GST liability (including TCS) of Starkart for January      9,880
+     Computation of net GST payable in cash by Infocom Limited for the
+    month of January
+      Particulars                                                        `
+      Gross GST liability                                             10,800
+     [18% of turnover for January (` 50,000 + ` 10,000)]
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+12.42       GOODS AND SERVICES TAX
+
+       Less: ITC of GST payable on listing services received from [(10%     (1,080)
+      of ` 60,000) ×18%]
+     Net GST payable from Electronic Cash Ledger                     9,720
+
+       Less: TCS credited to Electronic Cash Credit Ledger                  (600)
+
+     Net GST payable in cash                                     9,120
+
+     Computation of net GST payable in cash by Secure World for the month
+     of January
+      Gross GST Liability                                             18,000
+     [18% of turnover for January (` 1,00,000)]
+       Less: ITC of GST payable on listing services received from [(10%     (1,800)
+      of ` 1,00,000) ×18%]
+     Net GST payable from Electronic Cash Ledger                      9,720
+
+       Less: TCS credited to Electronic Cash Credit Ledger                 (1,000)
+
+     Net GST payable in cash                                   15,200
+
+2.   The rate of TCS as notified under CGST Act is payable under CGST and the
+     equal rate of TCS is expected under the SGST Act also, in effect aggregating
+      to 1%.
+3.    Yes, every e-commerce operator is required to collect tax where consideration
+     with respect to the supply made through it is being collected by the e-
+    commerce operator.
+     However, no TCS is required to be collected in the following cases:-
+         (i)   on supply of services notified under section 9(5) of the CGST Act, 2017.
+         (ii)   on exempt supplies
+         (iii)  on supplies on which the recipient is required to pay tax on reverse
+          charge basis.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+ELECTRONIC COMMERCE TRANSACTIONS            13.4312.43
+
+4.   Answers for both the scenarios is as follows:
+     As per section 52, every electronic commerce operator not being an agent,
+      shall collect an amount calculated at such rate not exceeding one per cent.,
+     as may be notified by the Government on the recommendations of
+       (a)   the Council, of the net value of taxable supplies made through it by
+           other suppliers where the consideration with respect to such supplies is
+           to be collected by the operator.
+          Hence,  if the person sells on his own, provisions pertaining to tax
+           collected at source (TCS) won’t be applicable.
+      (b)     If ABC limited who  is dealer of Fitan brand sells watches through
+             Slipkart, then the provision of TCS will be applicable to Slipkart.
+5.   As per section 52(1), the TCS provisions are not applicable in cases where the
+    ECO  is an agent of the supplier. In the present case, A being an ECO  is
+     supplying goods through the electronic portal in capacity of an agent and
+     hence the liability to collect tax as per Section 52 shall not arise in this case.
+6.   No, as per the provisions under section 52, the TCS provisions shall trigger
+     only when the ECO is receiving the consideration for supply from the recipient
+      of supply. In the present case, the supplier i.e. the hotel is directly receiving
+     the consideration from the recipient of the services i.e. X. Hence, the present
+      transactions shall not trigger the TCS provisions under section 52.
+7.   The given case is a case of multiple e-commerce model wherein a customer
+     orders supplies via ECO-1 who in turn is integrated with ECO-2 who has
+     agreement with the supplier. In this case, ECO-1 will not have any GST
+     information of the supplier. TCS  is to be collected by that e-Commerce
+     operator who is making payment to the supplier for the particular supply
+     happening through it, which is in this case will be ECO-2.
+      Thus, in the given case, TCS is to be collected by ECO-Techsuper Ltd. who is
+     making payment to Hillpoint Residency for the supply happening through it,
+8.   As per section 22, every supplier of goods or services or both is required to
+     obtain registration in the State/ Union territory from where he makes the
+      taxable supply if his aggregate turnover exceeds threshold limit in a financial
+      year.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+12.44       GOODS AND SERVICES TAX
+
+     However, section 24 enlists certain categories of persons who are mandatorily
+     required to obtain registration, irrespective of their turnover. Persons who
+     supply goods or services or both through such electronic commerce operator
+      (ECO), who is required to collect tax at source under section 52, is one such
+     person specified under clause (ix) of section 24. However, where the ECO is
+      liable to pay tax on behalf of the suppliers of services under a notification
+     issued under section 9(5), the suppliers of such services are entitled for
+     threshold exemption.
+     Section 2(45) defines ECO as any person who owns, operates or manages
+      digital or electronic facility or platform for electronic commerce. Electronic
+    commerce is defined under section 2(44) to mean the supply of goods or
+      services or both, including digital products over digital or electronic network.
+     Since Hi-Tech Indya Pvt. Ltd. owns and manages a website for e-commerce
+     where both goods and services are supplied, it will be classified as an ECO
+     under section 2(45).
+      Notification No. 17/2017 CT (R) dated 28.06.2017 issued under section 9(5)
+      specifies  services by way  of house-keeping, except where the person
+     supplying such service through ECO is liable for registration under section
+      22(1), as one such service where the ECO is liable to pay tax on behalf of the
+      suppliers.
+      In the given case, AB Pvt. Ltd. provides house-keeping services through an
+     ECO. It is presumed that Hi-Tech Indya is an ECO which is required to collect
+      tax at source under section 52. However, house-keeping services provided by
+    AB Pvt. Ltd., which is not liable for registration under section 22(1) as its
+     turnover is less than `20 lakh, is a service notified under section 9(5). Thus,
+    AB Pvt. Ltd. will be entitled for threshold exemption for registration and will
+     not be required to obtain registration even though  it supplies services
+     through ECO.
+      In the second case, AB Pvt. Ltd. sells readymade garments through ECO. Such
+     supply cannot be notified under section 9(5) as only supplies of services are
+      notified under that section. Therefore, in the second case, AB Pvt. Ltd. will not
+     be entitled for threshold exemption and will have to compulsorily obtain
+      registration in terms of section 24(ix).
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+© The Institute of Chartered Accountants of India

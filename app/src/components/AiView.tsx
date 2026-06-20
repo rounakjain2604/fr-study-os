@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState, type FormEvent } from "react";
+import { memo, useEffect, useRef, useState, type FormEvent } from "react";
 import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { ArrowUp, BookOpen, Check, Copy, History, Plus, Trash2, X } from "lucide-react";
@@ -16,10 +16,12 @@ const MODES: Array<{ id: AiMode; label: string; hint: string }> = [
   { id: "answer_check", label: "Check answer", hint: "Write your answer; the tutor marks it" },
 ];
 
+const MARKDOWN_PLUGINS = [remarkGfm];
+
 const composerPlaceholder = (mode: AiMode) =>
   mode === "answer_check" ? "Write your full answer here — the tutor will mark it…" : "Type your question…";
 
-function AssistantMessage({ content }: { content: string }) {
+const AssistantMessage = memo(function AssistantMessage({ content }: { content: string }) {
   const [copied, setCopied] = useState(false);
 
   const copy = async () => {
@@ -36,7 +38,7 @@ function AssistantMessage({ content }: { content: string }) {
   return (
     <div className="chat-row assistant">
       <div className="chat-bubble assistant md">
-        <Markdown remarkPlugins={[remarkGfm]}>{content}</Markdown>
+        <Markdown remarkPlugins={MARKDOWN_PLUGINS}>{content}</Markdown>
       </div>
       <button className="chat-copy" type="button" onClick={copy} aria-label="Copy answer">
         {copied ? <Check size={13} /> : <Copy size={13} />}
@@ -44,7 +46,7 @@ function AssistantMessage({ content }: { content: string }) {
       </button>
     </div>
   );
-}
+});
 
 const threadDate = (iso: string) =>
   new Intl.DateTimeFormat("en-IN", { day: "2-digit", month: "short" }).format(new Date(iso));

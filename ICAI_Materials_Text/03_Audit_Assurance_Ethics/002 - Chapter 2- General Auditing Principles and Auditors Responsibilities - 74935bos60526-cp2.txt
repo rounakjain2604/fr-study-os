@@ -1,0 +1,2526 @@
+Source PDF: 03_Audit_Assurance_Ethics/002 - Chapter 2- General Auditing Principles and Auditors Responsibilities - 74935bos60526-cp2.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\03_Audit_Assurance_Ethics\002 - Chapter 2- General Auditing Principles and Auditors Responsibilities - 74935bos60526-cp2.pdf
+Extracted at: 2026-05-31T10:21:38+05:30
+Pages: 60
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+CHAPTER           2
+
+GENERAL AUDITING
+PRINCIPLES AND AUDITOR’S
+RESPONSIBILITIES
+
+
+                           LEARNING OUTCOMES
+ After studying this chapter, you will be able to:
+   Understand meaning of fraud and its characteristics, fraud risk factors with
+     examples etc.
+   Gain knowledge about SA 240 “The Auditor’s Responsibilities Relating to
+     Fraud in an Audit of Financial Statements”.
+   Gain knowledge about SA 250 “Consideration of Laws and Regulations in
+     an Audit of Financial Statements”.
+   Learn about significance  of communication with those charged with
+     governance and gain knowledge about SA 260 “Communication with
+     Those Charged with Governance”.
+   Gain knowledge about SA 299 “Joint Audit of Financial Statements”.
+   Gain knowledge about SA 402 “Audit Considerations Relating to an Entity
+     Using a Service Organisation”.
+
+
+ © The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+2.2         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+CHAPTER OVERVIEW
+
+
+                      SA 240:"The Auditor’s Responsibilities Relating to Fraud in an
+                                            Audit of Financial Statements"
+
+
+                      SA 250: “Consideration of Laws and Regulations in an Audit of
+                                                   Financial Statements”                 Principles
+
+                     SA 260: “Communication with Those Charged with Governance”                                       Responsibilities              Auditing
+                            SA 299 “Joint Audit of Financial Statements”                      Auditor's            General&                       SA 402: “Audit Considerations Relating to an Entity Using a
+                                                 Service Organisation”
+
+
+CA. Bijoy is auditor of a listed company since last three years. Of late, the company is in news in
+financial circles for all the wrong reasons. There have been allegations of flouting of Securities
+Contracts (Regulation) Rules by clandestinely controlling more than required percentage of
+shares than mandated in rules. Besides, the said company has been accused of violating other
+provisions of securities laws.
+There have also been allegations of manipulating share prices, of artificially keeping share prices
+high and failure to disclose all related party transactions. The company is a highly leveraged one.
+However, there has been no default and company has kept its commitments. SEBI is also seized
+of the matter on its own.
+Ever since the above allegations were hurled through media, auditor of the company is in a fix.
+What do such allegations reflect? How he should proceed in audit of ensuing year? The regulatory
+report would take time and audit has to be completed within timelines. Audits of last years were
+conducted in accordance with Standards on auditing and no wrongdoings were noticed and
+unmodified opinion was expressed in audit reports. However, given the current scenario, there
+seemed to be a heightened level of audit risk. It would be foolish of him not to take notice of such
+developments.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S             2.3
+                                         RESPONSIBILITIES
+The allegations of violations of securities laws, manipulating share prices and failure to disclose
+all related party transactions could be fraud risk factors.  While fraud risk factors may not
+necessarily indicate the existence of fraud, they have often been present in circumstances where
+frauds have occurred. Hence, there are increased risks of material misstatement due to fraud. Due
+to assessment of increased risks of material misstatement due to fraud, audit procedures need
+to be designed and performed accordingly.
+Besides above, suspected non-compliance with laws and regulations may have material effect on
+financial statements.  It could involve hefty penalties and other issues.  If management is not
+forthcoming in providing information relating to compliance with laws and regulations, does he
+need to obtain legal advice? Whether it would also lead to any impact on his opinion? Such
+questions were staring him in the face in current year of his tenure.
+If he suspects fraud involving management, should he communicate these suspicions to audit
+committee and discuss with them nature, timing, and extent of audit procedures necessary to
+complete the audit?
+
+     1.  GENERAL AUDITING PRINCIPLES AND AUDITOR’S
+       RESPONSIBILITIES
+SA 200 establishes the independent auditor’s overall responsibilities when conducting an audit of
+financial statements  in accordance with SAs. Audit has  to be planned and performed with
+professional  skepticism  recognising  that  circumstances may  exist  that cause  the  financial
+statements to be materially misstated. Misstatements can arise from errors or frauds. SA 240 deals
+with the auditor’s responsibilities relating to fraud in an audit of financial statements. The auditor has
+to remain alert throughout the audit recognizing the possibility that material misstatement due to
+fraud could exist.
+Entities are subject to various laws and regulations. Non-compliance with laws and regulations may
+result in fines, litigation or other consequences for the entity leading to material effect on financial
+statements. SA 250 deals with auditor’s responsibilities in this regard while performing an audit of
+financial statements. Since many laws and regulations affect entities, auditor has to remain alert to
+the possibility of non-compliance with laws and regulations.
+Communication with those charged with governance on a timely basis during audit serves many
+useful purposes and SA 260 deals with auditor’s responsibilities in this regard. SA 299 details special
+consideration relating to responsibilities of auditors in a joint audit.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+2.4         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+It is very common for user entities these days to outsource activities from a third-party service
+organization. SA 402 dwells upon the user auditor’s responsibility to obtain sufficient appropriate
+audit evidence in this respect.
+
+     2.  SA   240   “THE   AUDITOR’S   RESPONSIBILITIES
+       RELATING TO FRAUD IN AN AUDIT OF FINANCIAL
+       STATEMENTS”
+SA 240 deals with the auditor’s responsibilities relating to fraud in an audit of financial statements.
+Its requirements assist the auditor in identifying and assessing the risks of material misstatement
+due to fraud and in designing procedures to detect such misstatement.
+2.1  The objectives of the auditor in accordance with SA 240 are: -
+(a)   To identify and assess the risks of material misstatement in the financial statements due to
+       fraud;
+(b)   To obtain  sufficient appropriate  audit evidence about the assessed  risks  of material
+      misstatement due to fraud, through designing and implementing appropriate responses; and
+(c)   To respond appropriately to identified or suspected fraud.
+
+
+                To identify and assess the risks of material misstatement in the
+                                      financial statements due to fraud;           Auditor
+     the        To obtain sufficient appropriate audit evidence about the assessed
+   of          risks of material misstatement due to fraud, through designing and
+                            implementing appropriate responses; and
+
+                  To respond appropriately to identified or suspected fraud.               Objectives
+
+Meaning of Fraud and its Characteristics
+
+Fraud is an intentional act by one or more individuals among management, those charged with
+governance, employees, or third parties, involving the use of deception to obtain an unjust or illegal
+advantage.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S             2.5
+                                         RESPONSIBILITIES
+Misstatements in the financial statements can arise from either fraud or error. The distinguishing
+factor between fraud and error is whether the underlying action that results in the misstatement of
+the financial statements is intentional or unintentional.
+Although fraud is a broad legal concept, the auditor is concerned with fraud that causes a material
+misstatement in the financial statements.
+                                                      Fraud
+
+                                                                     Misstatements resulting                            Misstatements resulting from                                                                     from misappropriation of                               fraudulent financial reporting                                                                               assets
+
+  Involves incentive or pressure to commit         Involves incentive or pressure to
+  fraud, a perceived opportunity and some     commit fraud, a perceived opportunity
+             rationalization of act                and some rationalization of act
+
+ Two types of intentional misstatements are relevant to the auditor: -
+     •   Misstatements resulting from fraudulent financial reporting
+     •   Misstatements resulting from misappropriation of assets
+
+Fraud,  whether  due  to  misstatements  resulting  from  fraudulent  financial  reporting  or
+misappropriation of assets, involves incentive or pressure to commit fraud, a perceived opportunity
+to do so and some rationalization of the act. For example: -
+
+
+                                                                                                 Individuals may be
+  Incentive or pressure to                                                                    able to rationalize
+    commit fraudulent                                                                    committing a
+   financial reporting may                             A perceived              fraudulent act. Some
+  exist when management                                    opportunity to commit        individuals possess an
+   is under pressure, from                                     fraud may exist when           attitude, character or                                     Similarly, individuals    sources outside or                                  an individual believes          set of ethical values                        may have an incentive    inside the entity, to                                           internal control can be            that allow them                                     to misappropriate    achieve an expected                                          overridden, for              knowingly and                                   assets, for example,       (and perhaps                                       example, because the         intentionally to commit                                because the    unrealistic) earnings                                            individual is in a             a dishonest act.                                   individuals are living     target or financial                                        position of trust or has          However, even                            beyond their means.  outcome – particularly                                 knowledge of specific          otherwise honest
+  since the consequences                                      deficiencies in internal        individuals can commit
+     to management for                                                  control.                     fraud in an
+   failing to meet financial                                                               environment that
+  goals can be significant.                                                          imposes sufficient
+                                                                                        pressure on them.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+2.6         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+2.2 How Fraudulent Financial Reporting may be caused by entities?
+Fraudulent financial reporting involves intentional misstatements including omissions of amounts or
+disclosures in financial statements to deceive financial statement users. It can be caused by the
+efforts of management to manage earnings  in order to deceive financial statement users by
+influencing their perceptions as to the entity’s performance and profitability.
+Such earnings management may  start out with small actions or inappropriate adjustment of
+assumptions and changes in judgments by management. Pressures and incentives may lead these
+actions to increase to the extent that they result in fraudulent financial reporting. Such a situation
+could occur when, due  to pressures  to meet market expectations or a desire  to maximize
+compensation based on performance, management  intentionally takes positions  that lead  to
+fraudulent financial reporting by materially misstating the financial statements. In some entities,
+management may be motivated to reduce earnings by a material amount to minimize tax or to inflate
+earnings to secure bank financing.
+Fraudulent financial reporting may be accomplished by the following: -
+     Manipulation, falsification (including forgery), or alteration of accounting records or supporting
+      documentation from which the financial statements are prepared.
+     Misrepresentation  in  or  intentional omission from, the  financial statements  of events,
+       transactions or other significant information.
+     Intentional misapplication of accounting principles relating to amounts, classification, manner
+       of presentation, or disclosure.
+ Fraudulent financial reporting often involves management override of controls that otherwise
+ may appear to be operating effectively. Fraud can be committed by management overriding
+ controls using such techniques as: -
+     Recording fictitious journal entries, particularly close to the end of an accounting
+        period, to manipulate operating results or achieve other objectives.
+      Inappropriately adjusting assumptions and changing judgments used to estimate
+       account balances.
+      Omitting, advancing or delaying recognition in the financial statements of events and
+        transactions that have occurred during the reporting period.
+     Concealing, or not disclosing, facts that could affect the amounts recorded in the
+        financial statements.
+     Engaging in complex transactions that are structured to misrepresent the financial
+        position or financial performance of the entity.
+      Altering records and terms related to significant and unusual transactions.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S             2.7
+                                         RESPONSIBILITIES
+2.3 How misappropriation of assets may be accomplished by entities?
+Misappropriation of assets involves the theft of an entity’s assets and is often perpetrated by
+employees in relatively small and immaterial amounts. However,  it can also involve management
+who are usually more able to disguise or conceal misappropriations in ways that are difficult to
+detect.
+Misappropriation of assets can be accomplished in a variety of ways including: -
+    Embezzling receipts (for example, misappropriating collections on accounts receivable or
+       diverting receipts in respect of written-off accounts to personal bank accounts).
+     Stealing physical assets or intellectual property (for example, stealing inventory for personal
+      use  or  for  sale,  stealing scrap  for  resale,  colluding  with a competitor by  disclosing
+       technological data in return for payment).
+    Causing an entity to pay for goods and services not received (for example, payments to
+        fictitious vendors, kickbacks paid by vendors to the entity’s purchasing agents in return for
+        inflating prices, payments to fictitious employees).
+    Using an entity’s assets for personal use (for example, using the entity’s assets as collateral
+        for a personal loan or a loan to a related party).
+Misappropriation of assets is often accompanied by false or misleading records or documents in
+order to conceal the fact that the assets are missing or have been pledged without proper
+authorization.
+Although the auditor may suspect or, in rare cases, identify the occurrence of fraud, the auditor does
+not make legal determinations of whether fraud has actually occurred.
+2.4  Whose primary responsibility is to prevent and detect fraud?
+The primary responsibility for the prevention and detection of fraud rests with both those charged
+with governance of the entity and management. It is important that management, with the oversight
+of those charged with governance, place a strong emphasis on fraud prevention, which may reduce
+opportunities for fraud to take place, and fraud deterrence, which could persuade individuals not to
+commit fraud because of the likelihood of detection and punishment. This involves a commitment to
+creating a culture of honesty and ethical behaviour which can be reinforced by an active oversight
+by those charged with governance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+2.8         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+2.5  Responsibilities of the Auditor
+An auditor conducting an audit in accordance with SAs is responsible for obtaining reasonable
+assurance that the financial statements taken as a whole are free from material misstatement,
+whether caused by fraud or error. Owing to the inherent limitations of an audit, there  is an
+unavoidable risk that some material misstatements of the financial statements may not be detected,
+even though the audit is properly planned and performed in accordance with the SAs.
+The potential effects of inherent limitations are particularly significant in the case of misstatement
+resulting from fraud. The risk of not detecting a material misstatement resulting from fraud is higher
+than the  risk  of not detecting one resulting from  error. This  is because fraud may involve
+sophisticated and carefully organized schemes designed to conceal it, such as forgery, deliberate
+failure to record transactions, or intentional misrepresentations being made to the auditor. Such
+attempts at concealment may be even more difficult to detect when accompanied by collusion.
+Collusion may cause the auditor to believe that audit evidence is persuasive when it is, in fact, false.
+The auditor’s ability to detect a fraud depends on factors such as the skillfulness of the perpetrator,
+the frequency and extent of manipulation, the degree of collusion involved, the relative size of
+individual amounts manipulated, and the seniority of those individuals involved. While the auditor
+may be able to identify potential opportunities for fraud to be perpetrated, it is difficult for the auditor
+to determine whether misstatements in judgment areas such as accounting estimates are caused
+by fraud or error.
+Furthermore,  the  risk  of  the  auditor  not  detecting a  material misstatement  resulting  from
+management fraud is greater than for employee fraud, because management is frequently in a
+position  to  directly  or  indirectly manipulate accounting  records, present  fraudulent  financial
+information or override control procedures designed to prevent similar frauds by other employees.
+When obtaining reasonable assurance, the auditor is responsible for maintaining professional skepticism
+throughout the audit, considering the potential for management override of controls and recognizing the
+fact that audit procedures that are effective for detecting error may not be effective in detecting fraud.
+
+What are fraud risk factors?
+
+Fraud risk factors are events or conditions that indicate an incentive or pressure to commit fraud or
+provide an opportunity to commit fraud. For example: -
+    The need to meet expectations of third parties to obtain additional equity financing may create
+       pressure to commit fraud;
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S             2.9
+                                         RESPONSIBILITIES
+    The granting of significant bonuses if unrealistic profit targets are met may create an incentive to
+      commit fraud; and
+   A control environment that is not effective may create an opportunity to commit fraud.
+Examples of fraud risk factors : Following are examples of fraud risk factors relating to misstatements
+arising from fraudulent financial reporting and from misappropriation of assets respectively : -
+
+[A] Risk factors relating to misstatements arising from fraudulent financial reporting
+
+The following are examples of risk factors relating to misstatements arising from fraudulent financial
+reporting: -
+ Incentives/Pressures
+ Financial stability or profitability is threatened by economic, industry, or entity operating
+ conditions, such as (or as indicated by): -
+     High degree of competition or market saturation, accompanied by declining margins.
+     High  vulnerability  to  rapid changes, such as changes  in  technology, product
+       obsolescence, or interest rates.
+      Significant declines in customer demand and increasing business failures in either the
+        industry or overall economy.
+     Operating losses making the threat of bankruptcy, foreclosure, or hostile takeover
+       imminent.
+     Recurring negative cash flows from operations or an inability to generate cash flows
+       from operations while reporting earnings and earnings growth.
+     Rapid growth or unusual profitability especially compared to that of other companies in
+        the same industry.
+    New accounting, statutory, or regulatory requirements.
+
+Excessive pressure exists for management to meet the requirements or expectations of third
+parties due to the following: -
+      Profitability  or  trend  level expectations  of investment  analysts,  institutional  investors,
+        significant creditors, or other external parties (particularly expectations that are unduly
+      aggressive or unrealistic), including expectations created by management in, for example,
+       overly optimistic press releases or annual report messages.
+    Need to obtain additional debt or equity financing to stay competitive— including financing of
+      major research and development or capital expenditures.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+2.10         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+    Marginal ability to meet exchange listing requirements or debt repayment or other debt
+      covenant requirements.
+    Perceived or real adverse effects of reporting poor financial results on significant pending
+       transactions, such as business combinations or contract awards.
+ Information available indicates that the personal financial situation of management or those
+ charged with governance is threatened by the entity’s financial performance arising from the
+ following: -
+      Significant financial interests in the entity.
+      Significant portions of their compensation (for example, bonuses, stock options, and
+        earn-out arrangements) being contingent upon achieving aggressive targets for stock
+         price, operating results, financial position, or cash flow.
+     Personal guarantees of debts of the entity.
+     There is excessive pressure on management or operating personnel to meet financial
+        targets established by those charged with governance, including sales or profitability
+        incentive goals.
+
+Opportunities: The nature of the industry or the entity’s operations provides opportunities to engage
+in fraudulent financial reporting that can arise from the following: -
+     Significant related-party transactions not in the ordinary course of business or with related
+        entities not audited or audited by another firm.
+   A strong financial presence or ability to dominate a certain industry sector that allows the
+        entity to dictate terms or conditions to suppliers or customers that may result in inappropriate
+       or non-arm’s-length transactions.
+     Assets,  liabilities, revenues,  or expenses based on  significant estimates  that involve
+       subjective judgments or uncertainties that are difficult to corroborate.
+     Significant, unusual, or highly complex transactions, especially those close to period end that
+      pose difficult “substance over form” questions.
+     Significant operations located or conducted across international borders in jurisdictions where
+        differing business environments and cultures exist.
+    Use of business intermediaries for which there appears to be no clear business justification.
+     Significant bank accounts or subsidiary or branch operations in tax-haven jurisdictions for
+      which there appears to be no clear business justification.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.11
+                                         RESPONSIBILITIES
+The monitoring of management is not effective as a result of the following: -
+
+
+ Domination of management by a single person        Oversight by those charged with governance
+    or small group (in a non owner-managed         over the financial reporting process and internal
+    business) without compensating controls.                       control is not effective.
+
+
+There is a complex or unstable organizational structure, as evidenced by following:  -
+      Difficulty in determining the organization or individuals that have controlling interest in the
+        entity.
+    Overly complex organizational structure involving unusual legal entities or managerial lines
+       of authority.
+    High turnover of senior management, legal counsel, or those charged with governance.
+ Internal control components are deficient as a result of the following: -
+     Inadequate monitoring of controls, including automated controls and controls over
+        interim financial reporting (where external reporting is required).
+     High turnover rates or employment of accounting, internal audit, or information
+       technology staff that are not effective.
+     Accounting and information systems  that are not  effective, including situations
+        involving significant deficiencies in internal control.
+Attitudes/Rationalizations
+    Communication, implementation, support, or enforcement of the entity’s values or ethical
+      standards by management,  or  the communication  of  inappropriate values  or  ethical
+       standards, that are not effective.
+     Non-financial management’s excessive participation in or preoccupation with the selection of
+      accounting policies or the determination of significant estimates.
+    Known history of violations of securities laws or other laws and regulations, or claims against
+       the entity,  its senior management, or those charged with governance alleging fraud or
+       violations of laws and regulations.
+    Excessive interest by management in maintaining or increasing the entity’s stock price or
+      earnings trend.
+    The practice by management of committing to analysts, creditors, and other third parties to
+      achieve aggressive or unrealistic forecasts.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+2.12         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+    Management failing to remedy known significant deficiencies in internal control on a timely
+       basis.
+    An interest by management in employing inappropriate means to minimize reported earnings
+        for tax-motivated reasons.
+    Low morale among senior management.
+    The owner-manager makes no distinction between personal and business transactions.
+    Dispute between shareholders in a closely held entity.
+    Recurring attempts by management to justify marginal or inappropriate accounting on the
+       basis of materiality.
+    The relationship between management and the current or predecessor auditor is strained, as
+       exhibited by the following: -
+         • Frequent disputes with the current or predecessor auditor on accounting, auditing, or
+           reporting matters.
+
+         • Unreasonable demands on the auditor, such as unrealistic time constraints regarding
+           the completion of the audit or the issuance of the auditor’s report.
+
+         • Restrictions on the auditor that inappropriately limit access to people or information or
+          the ability to communicate effectively with those charged with governance.
+
+         • Domineering management behaviour in dealing with the auditor, especially involving
+          attempts to influence the scope of the auditor’s work or the selection or continuance of
+          personnel assigned to or consulted on the audit engagement.
+
+[B]   Risk factors relating to misstatements arising from misappropriation of assets
+
+The following are examples of risk factors relating to misstatements arising from misappropriation
+of assets: -
+ Incentives/Pressures
+ Personal financial obligations may create pressure on management or employees with access
+ to cash or other assets susceptible to  theft to misappropriate those assets. Adverse
+ relationships between the entity and employees with access to cash or other assets
+ susceptible to theft may motivate those employees to misappropriate those assets. For
+ example, adverse relationships may be created by the following: -
+    Known or anticipated future employee layoffs
+     Recent or anticipated changes to employee compensation or benefit plans
+     Promotions, compensation, or other rewards inconsistent with expectations
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.13
+                                         RESPONSIBILITIES
+Opportunities
+Certain  characteristics  or  circumstances  may  increase  the  susceptibility  of  assets  to
+misappropriation. For example, opportunities to misappropriate assets increase when there are the
+following: -
+    Large amounts of cash on hand
+     Inventory items that are small in size, of high value, or in high demand.
+     Easily convertible assets, such as bearer bonds, diamonds, or computer chips.
+    Fixed assets which are small in size, marketable, or lacking observable identification of
+      ownership.
+ Inadequate internal control over assets may increase the susceptibility of misappropriation of
+ those assets. For example, misappropriation of assets may occur because there is the
+ following:
+     Inadequate segregation of duties or independent checks.
+     Inadequate oversight of senior management expenditures, such as travel and other
+       reimbursements.
+     Inadequate management oversight of employees responsible for assets, for example,
+       inadequate supervision or monitoring of remote locations.
+     Inadequate job applicant screening of employees with access to assets.
+     Inadequate record keeping with respect to assets.
+     Inadequate system of authorization and approval of transactions (for example, in
+        purchasing).
+     Inadequate physical safeguards over cash, investments, inventory, or fixed assets.
+     Lack of complete and timely reconciliations of assets.
+     Lack of timely and appropriate documentation of transactions, for example, credits for
+       merchandise returns.
+     Lack of mandatory vacations for employees performing key control functions.
+     Inadequate management understanding of information technology, which enables
+        information technology employees to perpetrate a misappropriation.
+     Inadequate access controls over automated records, including controls over and review
+        of computer systems event logs.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+2.14         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+Attitudes/Rationalizations
+    Disregard for the need for monitoring or reducing risks related to misappropriations of assets.
+    Disregard for internal control over misappropriation of assets by overriding existing controls
+       or by failing to take appropriate remedial action on known deficiencies in internal control.
+    Behaviour indicating displeasure or dissatisfaction with the entity or its treatment of the
+      employee.
+    Changes in behaviour or lifestyle that may indicate assets have been misappropriated.
+    Tolerance of petty theft.
+
+Why evaluation of fraud risk factors by auditor is necessary?
+
+The auditor shall evaluate whether one or more fraud risk factors are present. While fraud risk factors
+may not necessarily indicate the existence of fraud, they have often been present in circumstances
+where frauds have occurred and therefore may indicate risks of material misstatement due to fraud.
+The fact that fraud is usually concealed can make it very difficult to detect. Nevertheless, the auditor
+may identify fraud risk factors. Fraud risk factors cannot easily be ranked in order of importance.
+The significance of fraud risk factors varies widely. Some of these factors will be present in entities
+where the specific conditions do not present risks of material misstatement. Accordingly, the
+determination of whether a fraud risk factor is present and whether it is to be considered in assessing
+the risks of material misstatement of the financial statements due to fraud requires the exercise of
+professional judgment.
+2.6  Maintaining Professional Skepticism
+The auditor shall maintain professional skepticism throughout the audit, recognizing the possibility
+that a material misstatement due to fraud could exist, notwithstanding the auditor’s past experience
+of the honesty and integrity of the entity’s management and those charged with governance.
+Unless the auditor has reason to believe the contrary, the auditor may accept records and documents
+as genuine. If conditions identified during the audit cause the auditor to believe that a document may
+not be authentic or that terms in a document have been modified but not disclosed to the auditor,
+the auditor shall investigate further.
+Where responses to inquiries of management or those charged with governance are inconsistent,
+the auditor shall investigate the inconsistencies.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.15
+                                         RESPONSIBILITIES
+2.7  Discussion among the engagement team
+The discussion among the engagement team shall place particular emphasis on how and where the
+entity’s financial statements may be susceptible to material misstatement due to fraud, including
+how fraud might occur. The discussion shall occur notwithstanding the engagement team members’
+beliefs that management and those charged with governance are honest and have integrity.
+2.8  Risk assessment procedures and  related  activities be geared
+    towards obtaining information for use in identifying risk of material
+     misstatement due to fraud
+When performing risk assessment procedures and related activities to obtain an understanding of
+the entity and its environment, including the entity’s internal control, the auditor shall perform the
+procedures to obtain information for use in identifying the risks of material misstatement due to fraud
+like inquiries of management and others within the entity, obtaining understanding as to how those
+charged with governance exercise oversight  of management’s processes  for  identifying and
+responding to the risks of fraud in the entity and the internal control that management has
+established  to  mitigate these  risks and evaluation  of unexpected  relationships  identified  in
+performing analytical procedures which may indicate risks of material misstatement due to fraud.
+Besides, as discussed already, the auditor shall evaluate whether the information obtained from the
+other risk assessment procedures and related activities performed indicates that one or more fraud
+risk factors are present.
+2.9  Responses to the assessed risks of material misstatement due to
+     fraud at the financial statement level
+In determining overall responses to address the assessed risks of material misstatement due to
+fraud at the financial statement level, the auditor shall: -
+
+
+         (a) Assign and supervise                (b) Evaluate whether the              (c) Incorporate an element of
+      personnel taking account of           selection and application of              unpredictability in the
+        the knowledge, skill and            accounting policies by the              selection of the nature,
+        ability of the individuals to           entity, particularly those related         timing and extent of audit
+         be given significant               to subjective measurements                 procedures.
+     engagement responsibilities       and complex transactions, may
+          and the auditor’s              be indicative of fraudulent
+      assessment of the risks of            financial reporting resulting
+       material misstatement due         from management’s effort to
+      to fraud for the engagement;          manage earnings; and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+2.16         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+2.10 Audit  procedures  responsive  to  assessed  risks  of  material
+     misstatement due to fraud at the assertion level
+The auditor shall design and perform further audit procedures whose nature, timing and extent are
+responsive to the assessed risks of material misstatement due to fraud at the assertion level. In
+doing so, the auditor may change nature, timing and extent of audit procedures to obtain audit
+evidence that is more reliable and relevant or to obtain additional corroborative information.
+For example,  if the auditor  identifies  that management  is under pressure  to meet earnings
+expectations, there may be a related risk that management is inflating sales by entering into sales
+agreements that include terms that preclude revenue recognition or by invoicing sales before
+delivery. In these circumstances, the auditor may, for example, design external confirmations not
+only to confirm outstanding amounts, but also to confirm the details of the sales agreements,
+including date, any rights of return and delivery terms. In addition, the auditor might find it effective
+to supplement such external confirmations with inquiries of non-financial personnel in the entity
+regarding any changes in sales agreements and delivery terms.
+2.11 Audit procedures  responsive  to  risks  related  to management
+     override of controls
+Management  is  in a unique position to perpetrate fraud because of management’s  ability to
+manipulate accounting records and prepare fraudulent financial statements by overriding controls
+that otherwise appear to be operating effectively. This risk is present in all entities. Due to the
+unpredictable way in which such override could occur, it is a risk of material misstatement due to
+fraud and thus a significant risk.
+ Irrespective of the auditor’s assessment of the risks of management override of controls, the
+ auditor shall design and perform audit procedures to: -
+  (a)    Test the appropriateness of journal entries recorded in the general ledger and other
+ adjustments made in the preparation of the financial statements.
+ (b)   Review accounting estimates for biases and evaluate whether the circumstances
+ producing the bias, if any, represent a risk of material misstatement due to fraud.
+  (c)    For significant transactions that are outside the normal course of business for the entity,
+ or that otherwise appear to be unusual given the auditor’s understanding of the entity and its
+ environment and other information obtained during the audit, the auditor shall evaluate
+ whether the business rationale (or the lack thereof) of the transactions suggests that they may
+ have been  entered  into  to engage  in  fraudulent  financial  reporting  or  to  conceal
+ misappropriation of assets.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.17
+                                         RESPONSIBILITIES
+The auditor shall determine whether, in order to respond to the identified risks of management
+override of controls, the auditor needs to perform other audit procedures in addition to those
+specifically referred to above.
+2.12 Evaluation of Audit Evidence
+The auditor shall evaluate whether analytical procedures that are performed when forming an overall
+conclusion as to whether the financial statements as a whole are consistent with the auditor’s
+understanding of the entity and its environment indicate a previously unrecognized risk of material
+misstatement due to fraud.
+
+When the auditor identifies a misstatement, the auditor shall evaluate whether such a misstatement
+is indicative of fraud. If there is such an indication, the auditor shall evaluate the implications of the
+misstatement in relation to other aspects of the audit, particularly the reliability of management
+representations, recognizing that an instance of fraud is unlikely to be an isolated occurrence.
+
+If the auditor identifies a misstatement, whether material or not, and the auditor has reason to believe
+that it is or may be the result of fraud and that management (in particular, senior management) is
+involved, the auditor shall re- evaluate the assessment of the risks of material misstatement due to
+fraud and its resulting impact on the nature, timing and extent of audit procedures to respond to the
+assessed risks. The auditor shall also consider whether circumstances or conditions indicate
+possible collusion involving employees, management or  third parties when reconsidering the
+reliability of evidence previously obtained.
+
+When the auditor confirms that, or is unable to conclude whether, the financial statements are
+materially misstated as a result of fraud, the auditor shall evaluate the implications for the audit.
+2.13 Circumstances  in  which  auditor  is  unable  to  continue  the
+    engagement
+If, as a result of a misstatement resulting from fraud or suspected fraud, the auditor encounters
+exceptional circumstances that bring into question the auditor’s ability to continue performing the
+audit, the auditor shall: -
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+2.18         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+                            (a) Determine the professional and legal
+                            responsibilities applicable in the
+                    circumstances, including whether there is a
+                    requirement for the auditor to report to the                      Engagement           person or persons who made the audit
+       the             appointment or, in some cases, to
+                                regulatory authorities;
+                                                                                            (i) Discuss with the appropriate                            (b) Consider whether it is                                                                 level of management and those                  continue          appropriate to withdraw from the                                                     charged with governance, the    to         engagement, where withdrawal                                                               auditor’s withdrawal from the                   from the engagement is legally                                                  engagement and the reasons                              permitted; and             unable                                                         for the withdrawal and
+    is
+                           (c) If the auditor withdraws: -                    (ii) Determine whether there is a               Auditor                                                 professional or legal requirement to
+                                                              report to the person or persons who
+                                            made the audit appointment or, in some
+                                                           cases, to regulatory authorities, the
+                                                                   auditor’s withdrawal from the
+                                                  engagement and the reasons for the
+                                                                        withdrawal.
+
+2.14 Management Representations
+The auditor shall obtain written representations from management and, where applicable, those
+charged with governance that: -
+
+          (a) They acknowledge their responsibility for the design, implementation and
+       maintenance of internal control to prevent and detect fraud;
+
+
+          (b) They have disclosed to the auditor the results of management’s assessment of the
+         risk that the financial statements may be materially misstated as a result of fraud;
+
+
+          (c) They have disclosed to the auditor their knowledge of fraud or suspected fraud
+         affecting the entity involving management, employees who have significant roles in
+         internal control or others where the fraud could have a material effect on the financial
+        statements; and
+
+          (d) They have disclosed to the auditor their knowledge of any allegations of fraud, or
+       suspected fraud, affecting the entity’s financial statements communicated by employees,
+        former employees, analysts, regulators or others.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.19
+                                         RESPONSIBILITIES
+2.15 Communications to Management and with Those Charged With
+    Governance
+If the auditor has identified a fraud or has obtained information that indicates that a fraud may exist,
+the auditor  shall communicate these matters on a timely basis  to the appropriate  level  of
+management in order to inform those with primary responsibility for the prevention and detection of
+fraud of matters relevant to their responsibilities.
+Unless all of those charged with governance are involved in managing the entity, if the auditor has
+identified or suspects fraud involving management, employees who have significant roles in internal
+control or others where the fraud results in a material misstatement in the financial statements, the
+auditor shall communicate these matters to those charged with governance on a timely basis.
+If the auditor suspects fraud involving management, the auditor shall communicate these suspicions to
+those charged with governance and discuss with them the nature, timing and extent of audit procedures
+necessary to complete the audit.
+The auditor shall communicate with those charged with governance any other matters related to
+fraud that are, in the auditor’s judgment, relevant to their responsibilities.
+2.16 Communications to Regulatory and Enforcement Authorities
+If the auditor has identified or suspects a fraud, the auditor shall determine whether there is a
+responsibility to report the occurrence or suspicion to a party outside the entity. Although the
+auditor’s professional duty to maintain the confidentiality of client information may preclude such
+reporting, the auditor’s legal responsibilities may override the duty of confidentiality in some
+circumstances. For example, in case of audit of banks, the auditor has a statutory duty to report the
+occurrence of fraud to the supervisory authorities, i.e. RBI.
+Also, in some entities the auditor may have a duty to report misstatements to authorities in those
+cases where management and those charged with governance fail to take corrective action. In some
+clients, requirements for reporting fraud, whether or not discovered through the audit process, may
+be subject to specific provisions of the audit mandate or related legislation or regulation.
+2.17 Documentation
+The auditor’s documentation of the understanding of the entity and  its environment and the
+assessment of the risks of material misstatement required shall include: -
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 20 ======================
+
+
+2.20         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+     (a) The significant decisions reached
+      during the discussion among the                 (b) The identified and assessed risks
+      engagement team regarding the                of material misstatement due to fraud
+     susceptibility of the entity’s financial              at the financial statement level and at
+    statements to material misstatement                      the assertion level.
+            due to fraud; and
+
+
+ The auditor’s documentation of the responses to the assessed risks of material misstatement
+ required shall include: -
+  (a)   The overall responses to the assessed risks of material misstatement due to fraud at the
+ financial statement level and the nature, timing and extent of audit procedures, and the linkage
+ of those procedures with the assessed risks of material misstatement due to fraud at the
+ assertion level; and
+ (b)   The results of the audit procedures, including those designed to address the risk of
+ management override of controls.
+The auditor shall document communications about fraud made to management, those charged with
+governance, regulators and others.
+When the auditor has concluded that the presumption that there is a risk of material misstatement
+due to fraud related to revenue recognition is not applicable in the circumstances of the engagement,
+the auditor shall document the reasons for that conclusion.
+
+TEST YOUR UNDERSTANDING 1
+My Décor Limited, presently engaged in manufacturing of fabrics, wants to set up a new plant for
+manufacturing of special kind of fabric providing an altogether different texture and feel. This kind of
+fabric has become a hit with retail customers. The company needs to set up plant for manufacturing
+the above kind of fabric involving huge capital outlays to stay competitive in the market.
+You are auditor of the company and find that company’s revenue has increased in financial year
+2022-23 to ` 1000 crore from ` 750 crore in last year. By the time, you started the audit, there was
+no change in plant capacity and information regarding need to set up new plant has become known
+to you during inquiry of company’s personnel.
+Discuss, how you should proceed to deal with above situation, as auditor of the company, paying
+special attention to risk of material misstatement due to fraudulent financial reporting?
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 21 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.21
+                                         RESPONSIBILITIES
+
+TEST YOUR UNDERSTANDING 2
+CA. Ridhima, internal auditor of Track Store Limited, has pointed out following deficiencies in internal
+control of the company, in her reports: -
+[i]     Receivables are not reconciled at stipulated intervals.
+[ii]    Customers are provided a credit limit based upon their track record. However, no review of
+customer credit limits is undertaken at required intervals.
+The statutory auditor of the company finds that no action has been taken by the company on the
+said deficiencies pointed out in reports of internal auditor.
+What does above situation allude to statutory auditor of company?
+
+     3.  SA   250   “CONSIDERATION  OF  LAWS  AND
+      REGULATIONS   IN  AN  AUDIT  OF  FINANCIAL
+       STATEMENTS”
+SA 250 deals with auditor’s responsibility to consider laws and regulations when performing an audit
+of financial statements. However,  it does not apply to other assurance engagements in which the
+auditor is specifically engaged to test and report separately on compliance with specific laws or
+regulations.
+The requirements in this SA are designed to assist the auditor in identifying material misstatement
+of the financial statements due to non-compliance with laws and regulations.
+3.1  Effect of Laws and Regulations on Financial Statements of an Entity
+The effect on the financial statements of laws and regulations varies considerably. Those laws and
+regulations to which an entity is subject constitute the legal and regulatory framework. The provisions
+of some laws or regulations have a direct effect on the financial statements in that they determine
+the reported amounts and disclosures in an entity’s financial statements. Other laws or regulations
+are to be complied with by management or set the provisions under which the entity is allowed to
+conduct its business but do not have a direct effect on an entity’s financial statements.
+Some entities operate in heavily regulated industries (such as banks and chemical companies).
+Others are subject only to the many laws and regulations that relate generally to the operating
+aspects of the business (such as those related to occupational safety and health). Non-compliance
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 22 ======================
+
+
+2.22         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+with laws and regulations may result in fines, litigation or other consequences for the entity that may
+have a material effect on the financial statements.
+3.2.  Objectives of auditor in accordance with SA 250
+
+The objectives of the auditor in accordance with SA 250 are: -
+(a)   To obtain sufficient appropriate audit evidence regarding compliance with the provisions of
+      those laws and regulations generally recognised to have a direct effect on the determination
+       of material amounts and disclosures in the financial statements;
+(b)   To perform specified audit procedures to help identify instances of non-compliance with other
+      laws and regulations that may have a material effect on the financial statements; and
+(c)   To respond appropriately to non-compliance or suspected non-compliance with laws and
+       regulations identified during the audit.
+
+
+                             (a) To obtain sufficient appropriate audit evidence regarding
+                     compliance with the provisions of those laws and regulations
+                     generally recognised to have a direct effect on the determination of
+             auditor              material amounts and disclosures in the financial statements;
+      the           (b) To perform specified audit procedures to help identify instances of
+    of           non-compliance with other laws and regulations that may have a
+                                material effect on the financial statements; and
+                   Objectives                          (c) To respond appropriately to non-compliance or suspected non-
+                    compliance with laws and regulations identified during the audit.
+
+
+3.3  Responsibility  of Management  for Compliance  with Laws and
+     Regulations
+It is the responsibility of management, with the oversight of those charged with governance, to
+ensure that the entity’s operations are conducted in accordance with the provisions of laws and
+regulations, including compliance with the provisions of laws and regulations that determine the
+reported amounts and disclosures in an entity’s financial statements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 23 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.23
+                                         RESPONSIBILITIES
+ The following are examples of the types of policies and procedures an entity may implement
+ to assist in the prevention and detection of non-compliance with laws and regulations: -
+     Monitoring legal requirements and ensuring that operating procedures are designed to
+       meet these requirements.
+      Instituting and operating appropriate systems of internal control.
+     Developing, publicising and following a code of conduct.
+     Ensuring employees are properly trained and understand the code of conduct.
+     Monitoring compliance with the code of conduct and acting appropriately to discipline
+       employees who fail to comply with it.
+     Engaging legal advisors to assist in monitoring legal requirements.
+     Maintaining a register of significant laws and regulations with which the entity has to
+       comply within its particular industry and a record of complaints.
+In larger entities, these policies and procedures may be supplemented by assigning appropriate
+responsibilities to an internal audit function, an audit committee, a compliance function.
+3.4  Responsibility of the Auditor
+The auditor is not responsible for preventing non-compliance and cannot be expected to detect non-
+compliance with  all laws and regulations. The auditor  is responsible  for obtaining reasonable
+assurance that the financial statements, taken as a whole, are free from material misstatement,
+whether caused by fraud or error. In conducting an audit of financial statements, the auditor takes into
+account the applicable legal and regulatory framework. Owing to the inherent limitations of an audit,
+there is an unavoidable risk that some material misstatements in the financial statements may not be
+detected, even though the audit is properly planned and performed in accordance with the SAs.
+
+    In the context of laws and regulations, the potential effects of inherent limitations on the
+      auditor’s ability to detect material misstatements are greater for such reasons as the
+                                           following: -
+
+     There are many laws and                                 Non-compliance may involve        regulations, relating                                 conduct designed to conceal    principally to the operating                                                              it, such as collusion, forgery,      Whether an act constitutes     aspects of an entity that                                        deliberate failure to record      non-compliance is ultimately a     typically do not affect the                                       transactions, management       matter for legal determination    financial statements and are                                        override of controls or             by a court of law.    not captured by the entity’s                                       intentional misrepresentations   information systems relevant                                    being made to the auditor.       to financial reporting.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 24 ======================
+
+
+2.24         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+Ordinarily, the further removed non-compliance is from the events and transactions reflected in the
+financial statements, the less likely the auditor is to become aware of  it or to recognise the non-
+compliance.
+
+SA 250 distinguishes the auditor’s responsibilities in relation to compliance with two different
+categories of laws and regulations as follows: -
+
+(a)   The provisions of those laws and regulations generally recognised to have a direct effect on
+       the determination of material amounts and disclosures in the financial statements such as tax
+      and labour laws and
+(b)    Other laws and regulations that do not have a direct effect on the determination of the
+      amounts and disclosures in the financial statements, but compliance with which may be
+      fundamental to the operating aspects of the business, to an entity’s ability to continue its
+       business, or to avoid material penalties (for example, compliance with the terms of an
+       operating license, compliance with regulatory solvency requirements, or compliance with
+      environmental regulations). Non-compliance with such laws and regulations may, therefore,
+      have a material effect on the financial statements.
+  Auditor's responsibilities in relation to compliance with laws
+                    and regulations
+
+
+                                                  Responsibilities relating to those laws and   Responsibilities relating to compliance                                                 regulations that do not have a direct effect  with those laws and regulations generally                                         on the determination of amounts and  recognised to have a direct effect on the                                                 disclosures in FS but their compliance   determination of material amounts and                                    may be fundamental to operating aspects             disclosures in FS                                                                  of business
+
+
+For the compliance with provisions of those laws and regulations generally recognised to have a
+direct effect on the determination of material amounts and disclosures in the financial statements,
+the auditor’s responsibility is to obtain sufficient appropriate audit evidence about compliance with
+the provisions of those laws and regulations.
+For other laws and regulations that do not have a direct effect on the determination of the amounts
+and disclosures in the financial statements but compliance with which may be fundamental to the
+operating aspects of the business, the auditor’s responsibility is limited to undertaking specified audit
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 25 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.25
+                                         RESPONSIBILITIES
+procedures to help identify non-compliance with those laws and regulations that may have a material
+effect on the financial statements.
+The auditor is to remain alert to the possibility that other audit procedures applied for the purpose of
+forming an opinion on financial statements may bring instances of identified or suspected non-
+compliance to the auditor’s attention. Maintaining professional skepticism throughout the audit, is
+important in this context, given the extent of laws and regulations that affect the entity.
+The Auditor’s consideration of compliance with laws and regulations
+
+As part of obtaining an understanding of the entity and its environment, the auditor shall obtain a
+general understanding of: -
+
+                  (a) The legal and regulatory
+              framework applicable to the                                                              (b) How the entity is complying                    entity and the industry or                                                              with that framework.                  sector in which the entity
+                       operates; and
+
+
+The auditor  shall obtain  sufficient appropriate audit evidence regarding compliance with the
+provisions of those laws and regulations generally recognised to have a direct effect on the
+determination of material amounts and disclosures in the financial statements. Such laws, for
+example, could relate to form and content of financial statements or industry- specific financial
+reporting issues.
+ The auditor shall perform the following audit procedures to help identify instances of non-
+ compliance with other laws and regulations that may have a material effect on the financial
+ statements:
+  (a)    Inquiring of management and, where appropriate, those charged with governance, as to
+ whether the entity is in compliance with such laws and regulations; and
+ (b)    Inspecting correspondence, if any, with the relevant licensing or regulatory authorities.
+Certain other laws and regulations may need particular attention by the auditor because they have
+a fundamental effect on the operations of the entity. Non-compliance with laws and regulations that
+have a fundamental effect on the operations of the entity may cause the entity to cease operations,
+or call into question the entity’s continuance as a going concern.
+For example: Non-compliance with the requirements of the entity’s license or other entitlement to
+perform its operations could have such an impact (for example, for a bank, non-compliance with
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 26 ======================
+
+
+2.26         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+capital or investment requirements). An NBFC might have to cease to carry on the business of a
+non-banking financial institution if it fails to obtain a certificate of registration issued under RBI Act
+and if its Net Owned Funds are less than the amount specified by the RBI in this regard.
+There are also many laws and regulations relating principally to the operating aspects of the entity
+that typically do not affect the financial statements and are not captured by the entity’s information
+systems relevant to financial reporting. As the financial reporting consequences of other laws and
+regulations can vary depending on the entity’s operations, the audit procedures as stated above are
+directed to bringing to the auditor’s attention instances of non-compliance with laws and regulations
+that may have a material effect on the financial statements.
+Audit procedures applied to form an opinion on the financial statements may bring instances of non-
+compliance or suspected non-compliance with laws and regulations to the auditor’s attention.
+During the audit, the auditor shall remain alert to the possibility that other audit procedures applied
+may bring instances of non-compliance or suspected non-compliance with laws and regulations to
+the auditor’s attention.
+The auditor shall request management and, where appropriate, those charged with governance to
+provide written representations that  all known instances of non-compliance or suspected non-
+compliance with laws and regulations whose effects should be considered when preparing financial
+statements have been disclosed to the auditor.
+3.5  Audit Procedures when Non-Compliance is Identified or Suspected
+If the auditor becomes aware of information concerning an instance of non-compliance or suspected
+non-compliance with laws and regulations, the auditor shall obtain:
+
+                                                                (b) Further information to
+                                                    evaluate the possible effect on
+                                                       the financial statements.
+
+
+             (a) An understanding of the nature
+            of the act and the circumstances
+               in which it has occurred and
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 27 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.27
+                                         RESPONSIBILITIES
+If the auditor suspects there may be non-compliance, the auditor shall discuss the matter with
+management and, where appropriate, those charged with governance.  If management  or, as
+appropriate, those charged with governance do not provide sufficient information that supports that
+the entity is in compliance with laws and regulations and, in the auditor’s judgment, the effect of the
+suspected non-compliance may be material to the financial statements, the auditor shall consider
+the need to obtain legal advice.
+If sufficient information about suspected non-compliance cannot be obtained, the auditor shall
+evaluate the effect of the lack of sufficient appropriate audit evidence on the auditor’s opinion.
+The auditor shall evaluate the implications of non-compliance in relation to other aspects of the audit,
+including the auditor’s risk assessment and the reliability of written representations, and take appropriate
+action.
+3.6  Reporting of Identified or Suspected Non-Compliance
+(A)   Reporting Non-Compliance to Those Charged with Governance
+
+Unless all of those charged with governance are involved in management of the entity, and therefore
+are aware of matters involving identified or suspected non-compliance already communicated by the
+auditor, the auditor shall communicate with those charged with governance matters involving non-
+compliance with laws and regulations that come to the auditor’s attention during the course of the
+audit, other than when the matters are clearly inconsequential.
+If, in the auditor’s judgment, the non-compliance referred to above is believed to be intentional and
+material, the auditor shall communicate the matter to those charged with governance as soon as
+practicable.
+If the auditor suspects that management or those charged with governance are involved in non-
+compliance, the auditor shall communicate the matter to the next higher level of authority at the
+entity, if it exists, such as an audit committee or supervisory board. Where no higher authority exists,
+or if the auditor believes that the communication may not be acted upon or is unsure as to the person
+to whom to report, the auditor shall consider the need to obtain legal advice.
+(B)   Reporting non-compliance in the auditor’s report on the financial statements
+
+If the auditor concludes that the non-compliance has a material effect on the financial statements,
+and has not been adequately reflected in the financial statements, the auditor shall, in accordance
+with SA 705, express a qualified or adverse opinion on the financial statements.
+If the auditor  is precluded by management or those charged with governance from obtaining
+sufficient appropriate audit evidence to evaluate whether non-compliance that may be material to
+the financial statements has, or is likely to have, occurred, the auditor shall express a qualified
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 28 ======================
+
+
+2.28         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+opinion or disclaim an opinion on the financial statements on the basis of a limitation on the scope
+of the audit in accordance with SA 705.
+If the auditor is unable to determine whether non-compliance has occurred because of limitations
+imposed by the circumstances rather than by management or those charged with governance, the
+auditor shall evaluate the effect on the auditor’s opinion in accordance with SA 705.
+
+(C)   Reporting non-compliance to regulatory and enforcement authorities
+
+If the auditor has identified or suspects non-compliance with laws and regulations, the auditor shall
+determine whether the auditor has a responsibility to report the identified or suspected non-
+compliance to parties outside the entity.
+3.7  Documentation
+The auditor shall document identified or suspected non-compliance with laws and regulations and
+the results of discussion with management and, where applicable, those charged with governance
+and other parties outside the entity.
+
+TEST YOUR UNDERSTANDING 3
+FAS Insurance Brokers Limited is a leading online insurance intermediary. During the year, Director
+General of GST Intelligence (DGGI) has issued notice to the company for allegedly creating fictitious
+invoices for “marketing and sales services” amounting to ` 50 crores in favour of non-life insurance
+companies. The premises of company were also searched during the year by DGGI officials. The
+matter was also informed to IRDAI by DGGI for violation of norms and regulations in this regard.
+Does above situation has any bearing on your responsibilities as statutory auditor of the company?
+Outline briefly in context of possible non-compliance with laws by the company.
+
+     4.  SA 260 “COMMUNICATION WITH THOSE CHARGED
+       WITH GOVERNANCE”
+SA 260 deals with the auditor’s responsibility to communicate with those charged with governance
+in an audit of financial statements.
+
+Who are “Those charged with governance”?
+“Those charged with governance” denote the person(s) or organization(s) (e.g., a corporate trustee)
+with responsibility for overseeing the strategic direction of the entity and obligations related to the
+accountability of the entity. This includes those overseeing the financial reporting process. For some
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 29 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.29
+                                         RESPONSIBILITIES
+entities, those charged with governance may include management personnel, for example, executive
+members of a governance board of a private or public sector entity, or an owner-manager.
+Governance structures vary by entities, reflecting influences such as different cultural and legal
+backgrounds, size and ownership characteristics. For example, in some entities, a supervisory board
+exists that is separate from executive board. In other entities, both supervisory and executive
+functions are performed by a single board. In some entities, those charged with governance hold
+positions that are an integral part of the entity’s legal structure. For example, company directors. In
+some cases, some or all of those charged with governance are involved in managing the entity. In
+others, those charged with governance and management comprise different persons.
+In most entities, governance is the collective responsibility of a governing body, such as a board of
+directors, a supervisory board, partners, proprietors, a committee of management, trustees, or
+equivalent persons. In some smaller entities, however, one person may be charged with governance,
+for example, the owner-manager where there are no other owners, or a sole trustee.
+Such diversity means that it is not possible to specify for all audits the persons with whom the auditor
+is to communicate particular matters. Also, in some cases, the appropriate persons with whom to
+communicate may  not be  clearly  identifiable from  the  applicable  legal framework  or  other
+engagement circumstances, for example, entities where the governance structure is not formally
+defined, such as some family-owned entities and some not-for-profit organizations.
+In such cases, the auditor may need to discuss and agree with the engaging party the relevant
+persons  with whom  to communicate.  In deciding  with whom  to communicate, the  auditor’s
+understanding of an entity’s governance structure and processes obtained in accordance with SA
+315 is relevant. The appropriate persons with whom to communicate may vary depending on the
+matter to be communicated.
+Significance of Communication with Those charged with governance
+Communication from auditor is important with those charged with governance. An effective two-way
+communication is important in assisting:
+  [a] The auditor and those charged with governance in understanding matters related to the audit in context,
+ and in developing a constructive working relationship. This relationship is developed while maintaining the
+  auditor’s independence and objectivity.
+  [b] The auditor in obtaining from those charged with governance information relevant to the audit. For
+  example, those charged with governance may assist the auditor in understanding the entity and  its
+  environment, in identifying appropriate sources of audit evidence, and in providing information about
+  specific transactions or events and
+
+  [c] Those charged with governance in fulfilling their responsibility to oversee the financial reporting
+  process, thereby reducing the risks of material misstatement of the financial statements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 30 ======================
+
+
+2.30         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+4.1  Objectives of Auditor in Accordance with SA 260
+The objectives of the auditor are: -
+(a)   To communicate clearly with those charged with governance responsibilities of the auditor in
+        relation to the financial statement audit, and an overview of the planned scope and timing of the
+        audit;
+(b)   To obtain from those charged with governance information relevant to the audit;
+(c)   To provide those charged with governance with timely observations arising from the audit that are
+        significant and relevant to their responsibility to oversee the financial reporting process; and
+(d)   To promote effective two-way communication between the auditor and those charged with
+      governance.
+         To communicate clearly with those charged with governance responsibilities of the auditor in
+             relation to the financial statement audit, and an overview of the planned scope and timing of
+                                                   the audit;
+  auditor              To obtain from those charged with governance information relevant to the audit;
+ the
+ of     To provide those charged with governance with timely observations arising from the audit that
+           are significant and relevant to their responsibility to oversee the financial reporting process;
+                                             and   Objectives
+          To promote effective two-way communication between the auditor and those charged with
+                                              governance.
+
+Determining appropriate persons with whom to communicate : The auditor shall determine the
+appropriate person(s) within the entity’s governance structure with whom to communicate.
+4.2  Matters to be Communicated by the Auditor
+Following matters are required to be communicated by auditor with those charged with governance:-
+
+[a]   The auditor’s responsibilities in relation to the financial statement audit
+
+ The auditor shall communicate with those charged with governance the responsibilities of the
+ auditor in relation to the financial statement audit, including that:
+  (a) The auditor is responsible for forming and expressing an opinion on the financial
+ statements that have been prepared by management with the oversight of those charged with
+ governance and
+ (b) The audit of the financial statements does not relieve management or those charged with
+ governance of their responsibilities.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 31 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.31
+                                         RESPONSIBILITIES
+The auditor’s responsibilities in relation to the financial statement audit are often included in the
+engagement letter or other suitable form of written agreement that records the agreed terms of the
+engagement. Law, regulation or the governance structure of the entity may require those charged
+with governance to agree the terms of the engagement with the auditor. When this is not the case,
+providing those charged with governance with a copy of that engagement letter or other suitable
+form of written agreement may be an appropriate way to communicate with them.
+
+[b]   Planned scope and timing of the audit
+
+Communication regarding the planned scope and timing of the audit may: -
+•      Assist those charged with governance to understand better the consequences of the auditor’s
+      work, to discuss issues of risk and the concept of materiality with the auditor, and to identify
+      any areas in which they may request the auditor to undertake additional procedures and
+•      Assist the auditor to understand better the entity and its environment.
+     The auditor shall communicate with those charged with governance an overview of the
+      planned scope and timing of the audit, which includes communicating about the significant
+       risks identified by the auditor.
+      Communicating  significant  risks  identified  by  the  auditor  helps  those  charged  with
+      governance understand those matters and why they require special audit consideration. The
+      communication about significant risks may assist those charged with governance in fulfilling
+        their responsibility to oversee the financial reporting process.
+      While communication with those charged with governance may assist the auditor to plan the
+      scope and timing of the audit, it does not change the auditor’s sole responsibility to establish
+       the overall audit strategy and the audit plan, including the nature, timing and extent of
+      procedures necessary to obtain sufficient appropriate audit evidence.
+      Care is necessary when communicating with those charged with governance about the
+      planned scope and timing of the audit so as not to compromise the effectiveness of the audit,
+        particularly where some or all of those charged with governance are involved in managing
+       the entity. For example, communicating the nature and timing of detailed audit procedures
+     may reduce the effectiveness of those procedures by making them too predictable.
+[c]    Significant findings from the audit
+The auditor shall communicate with those charged with governance: -
+(i)    The auditor’s views about significant qualitative aspects of the entity’s accounting practices,
+       including accounting policies, accounting estimates and financial statement disclosures.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 32 ======================
+
+
+2.32         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+     When applicable, the auditor shall explain to those charged with governance why the auditor
+      considers a significant accounting practice, that is acceptable under the applicable financial
+       reporting framework, not to be most appropriate to the particular circumstances of the entity;
+(ii)    Significant difficulties, if any, encountered during the audit;
+(iii)   Unless all of those charged with governance are involved in managing the entity: -
+
+
+               (1) Significant matters arising
+               during the audit that were                                                                 (2) Written representations the               discussed, or subject to                                                                  auditor is requesting                correspondence, with
+                 management;
+
+
+(iv)   Circumstances that affect the form and content of the auditor’s report, if any and
+(v)   Any other significant matters arising during the audit that, in the auditor’s professional
+      judgment, are relevant to the oversight of the financial reporting process.
+The communication of findings from the audit may include requesting further information from those
+charged with governance in order to complete the audit evidence obtained. For example, the auditor
+may confirm that those charged with governance have the same understanding of the facts and
+circumstances relevant to specific transactions or events.
+   Significant difficulties encountered during the audit may include such
+                             matters as: -
+
+     Significant
+     delays by
+  management, the
+   unavailability of                                                                                              Management’s  entity personnel,                                              Extensive                                                  unwillingness to        or an        An unreasonably                                       unexpected effort                             Restrictions      make or extend  unwillingness by      brief time within                      The unavailability                                            required to obtain                      imposed on the       its assessment of  management to         which to                                  of expected                                                      sufficient                                  auditor by        the entity’s ability      provide          complete the                               information.                                            appropriate audit                        management.        to continue as a    information               audit.                                               evidence.                                               going concern  necessary for the                                                                                    when requested.      auditor to
+    perform the
+      auditor’s
+    procedures.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 33 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.33
+                                         RESPONSIBILITIES
+In some circumstances, such difficulties may constitute a scope limitation that leads to a modification
+of the auditor’s opinion.
+ Significant matters that were discussed, or subject to correspondence with management may
+ include such matters as: -
+ •      Significant events or transactions that occurred during the year.
+ •     Business conditions affecting the entity, and business plans and strategies that may
+         affect the risks of material misstatement.
+ •     Concerns about management’s consultations with other accountants on accounting or
+        auditing matters.
+ •     Discussions or correspondence in connection with the initial or recurring appointment
+        of the auditor regarding accounting practices, the application of auditing standards, or
+        fees for audit or other services.
+ •      Significant matters on which there was disagreement with management, except for
+          initial differences of opinion because of incomplete facts or preliminary information that
+        are later resolved by the auditor obtaining additional relevant facts or information.
+
+The agreed terms of the audit engagement are required to be recorded in an audit engagement letter
+or other suitable form of written agreement and include, among other things, reference to the
+expected form and content of the auditor’s report. Communication in this respect is intended to
+inform those charged with governance about circumstances in which the auditor’s report may differ
+from its expected form and content or may include additional information about the audit that was
+performed.
+Circumstances in which the auditor is required or may otherwise consider it necessary to
+include additional information in the auditor’s report in accordance with the SAs, and for
+which communication with those charged with governance is required, include when: -
+•    The auditor expects to modify the opinion in the auditor’s report in accordance with SA 705.•
+     A material uncertainty related to going concern is reported in accordance with SA 570.
+•    Key audit matters are communicated in accordance with SA 701.
+•    The auditor considers  it necessary to include an Emphasis of Matter paragraph or Other
+      Matter paragraph in accordance with SA 706 or is required to do so by other SAs.
+•    The auditor has concluded that there is an uncorrected material misstatement of the other
+       information in accordance with SA 720.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 34 ======================
+
+
+2.34         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+In such circumstances, the auditor may consider it useful to provide those charged with governance
+with a draft of the auditor’s report to facilitate a discussion of how such matters will be addressed in
+the auditor’s report.
+4.3  Communication of Auditor’s Independence in Case of Listed Entities
+In the case of listed entities, the auditor shall communicate with those charged with governance: -
+  (a)   A statement that the engagement team and others in the firm as appropriate, the firm and,
+ when applicable, network firms have complied with relevant ethical requirements regarding
+ independence; and
+ (b)       i.      All relationships and other matters between the firm, network firms, and the entity
+ that, in the auditor’s professional judgment, may reasonably be thought to bear on independence.
+ This shall include total fees charged during the period covered by the financial statements for
+ audit and non-audit services provided by the firm and network firms to the entity and components
+ controlled by the entity. These fees shall be allocated to categories that are appropriate to assist
+ those charged with governance in assessing the effect of services on the independence of the
+ auditor; and
+  ii.    The  related safeguards  that have been applied  to  eliminate  identified  threats  to
+ independence or reduce them to an acceptable level.
+
+The Communication process
+
+The auditor shall communicate with those charged with governance the form, timing and expected
+general content of communications.
+The auditor shall communicate in writing with those charged with governance regarding significant
+findings from the audit if, in the auditor’s professional judgment, oral communication would not be
+adequate. Written communications need not include all matters that arose during the course of the
+audit. The auditor shall communicate in writing with those charged with governance regarding auditor
+independence when required in case of listed entities.
+The auditor shall communicate with those charged with governance on a timely basis.
+
+Adequacy of the communication process
+
+The auditor shall evaluate whether the two-way communication between the auditor and those
+charged with governance has been adequate for the purpose of the audit. If it has not, the auditor
+shall evaluate the effect, if any, on the auditor’s assessment of the risks of material misstatement
+and ability to obtain sufficient appropriate audit evidence, and shall take appropriate action.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 35 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.35
+                                         RESPONSIBILITIES
+4.4  Documentation
+Where matters required by SA 260 to be communicated are communicated orally, the auditor shall
+include them in the audit documentation, and when and to whom they were communicated. Where
+matters have been communicated in writing, the auditor shall retain a copy of the communication as
+part of the audit documentation.
+
+TEST YOUR UNDERSTANDING 4
+CA. Vallabh Sundar is auditor of a leading private sector bank. “IT Systems and controls” is under
+his consideration to be reported as “Key audit matter” in audit report of the bank due to high level of
+automation and complexity of the IT architecture and its impact on the financial reporting system.
+At what time he should communicate such identified “Key audit matter”? What are relevant
+considerations in this regard and their usefulness?
+
+     5.  SA 299 “JOINT AUDIT OF FINANCIAL STATEMENTS”
+SA 299 lays down the principles for effective conduct of joint audit to achieve the overall objectives
+of the auditor as laid down in SA 200. It deals with the special considerations in carrying out audit
+by joint auditors.
+However, it does not deal with the relationship between a principal auditor who is appointed to report
+on the financial statements of an entity and another auditor who is appointed to report on the financial
+statements of one or more component (divisions, branches, subsidiary, joint venture, associates,
+other entity) included in the financial statements of the entity.
+
+What is joint audit of financial statements?
+A joint audit is an audit of financial statements of an entity by two or more auditors appointed with
+the objective of issuing the audit report. Such auditors are described as joint auditors.
+The practice of appointing more than one auditor to conduct the audit of large entities has been in
+vogue  for a long time, sometimes voluntarily by the shareholders or sometimes due to the
+requirements of laws or regulations. Such auditors, known as joint auditors, conduct the audit jointly
+and report on the financial statements of the entity.
+For example, section 139(3) of Companies Act, 2013 provides that members of a company may
+resolve to provide that the audit shall be conducted by more than one auditor.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 36 ======================
+
+
+2.36         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+5.1  Objectives in accordance with SA 299
+The objectives in accordance with SA 299 are as under: -
+(a)   To lay down broad principles for the joint auditors in conducting the joint audit.
+(b)   To provide a uniform approach to the process of joint audit.
+(c)   To identify the distinct areas of work and coverage thereof by each joint auditor.
+(d)   To identify individual responsibility and joint responsibility of the joint auditors in relation to
+       audit.
+
+              To lay down broad principles for the joint auditors in conducting the
+                                                    joint audit.
+          auditor
+                 To provide a uniform approach to the process of joint audit.    the
+   of
+             To identify the distinct areas of work and coverage thereof by each joint
+                                                  auditor.               Objectives             To identify individual responsibility and joint responsibility of the joint
+                                     auditors in relation to audit.
+
+5.2  Audit planning, Risk Assessment and Allocation of Work
+The engagement partner and other key members of the engagement team from each of the joint
+auditors shall be involved in planning the audit. Overall audit strategy that sets the scope, timing
+and direction of the audit, and that guides the development of the audit plan shall be established
+jointly.
+ Prior to the commencement of the audit, the joint auditors shall discuss and develop a
+ joint audit plan. In developing the joint audit plan, the joint auditors shall: -
+  (a) Identify division of audit areas and common audit areas amongst the joint auditors that
+ define the scope of the work of each joint auditor. Where joint auditors are appointed, they
+ should, by mutual discussion, divide the audit work among themselves. The division of
+ work would usually be in terms of audit of identifiable units or specified areas. In some
+ cases, due to the nature of the business of the entity under audit, such a division of work
+ may not be possible. In such situations, the division of work may be with reference to items
+ of assets or liabilities or income or expenditure. Certain areas of work, owing to their
+ importance or owing to the nature of the work involved, would often not be divided and
+ would be covered by all the joint auditors.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 37 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.37
+                                         RESPONSIBILITIES
+ (b) Ascertain the reporting objectives of the engagement to plan the timing of the audit and
+ the nature of the communications required
+  (c) Consider and communicate among  all  joint auditors  the  factors  that,  in  their
+ professional judgment, are significant in directing the engagement team’s efforts
+ (d) Consider the results of preliminary engagement activities and, where applicable,
+ whether knowledge gained on other or similar engagements performed earlier by the
+ respective engagement partner for the entity is relevant.
+  (e)  Ascertain the nature, timing and extent of resources necessary to perform the
+ engagement.
+
+At this stage, risks of material misstatement need to be considered and assessed by each of
+the joint auditors and shall be communicated to other joint auditors, and documented, whether
+pertaining to the overall financial statements level or to the area of allocation among the other joint
+auditors.
+The joint auditors shall discuss and document the nature, timing, and the extent of the audit
+procedures for common and specific allotted areas of audit to be performed by each of the joint auditors
+and the same shall be communicated to those charged with governance.
+The joint auditors shall obtain common engagement letter and common management representation
+letter.
+After identification and allocation of work among the joint auditors, the work allocation
+document shall be signed by all the joint auditors and the same shall be communicated to those
+charged with governance of the entity.
+The documentation of allocation of work helps in avoiding any dispute or confusion which may arise
+among the joint auditors regarding the scope of work to be carried out by them. Further, the
+communication of allocation of work to the entity helps in avoiding any dispute or confusion which
+may arise between the entity and the joint auditors.
+5.3  Responsibility and Co-ordination among Joint Auditors
+The  audit process involves obtaining and evaluating information and explanations from the
+management. This responsibility is shared by all the joint auditors unless they agree upon a specific
+pattern of distribution of this responsibility.
+In respect of audit work divided among the joint auditors, each joint auditor shall be responsible
+only for the work allocated to such joint auditor including proper execution of the audit procedures.
+In cases where specific divisions, zones or units are allocated to different joint auditors,  it is the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 38 ======================
+
+
+2.38         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+separate and specific responsibility of each joint auditor to obtain information and explanations from
+the management in respect of such divisions/zones/units and to evaluate the information and
+explanations so obtained by said joint auditor. The joint auditors shall have proper coordination and
+rationality wherever required.
+
+  All the joint auditors shall be jointly and severally responsible for: -
+
+
+  (a) the audit work which is not divided among the joint auditors and is carried out by all joint auditors
+
+  (b) decisions taken by all the joint auditors under audit planning in respect of common audit areas
+ concerning the nature, timing and extent of the audit procedures to be performed by each of the joint
+  auditors.
+
+  (c) matters which are brought to the notice of the joint auditors by any one of them and on which there
+  is an agreement among the joint auditors
+
+  (d) examining that the financial statements of the entity comply with the requirements of the relevant
+  statutes
+
+  (e) presentation and disclosure of the financial statements as required by the applicable financial
+  reporting framework
+  (f) ensuring that the audit report complies with the requirements of the relevant statutes, the applicable
+ Standards on Auditing and the other relevant pronouncements issued by ICAI.
+
+Where, in the course of the audit, a joint auditor comes across matters which are relevant to
+the areas of responsibility of other joint auditors and which deserve their attention, or which
+require disclosure or require discussion with, or application of judgment by other joint auditors, the
+said joint auditor shall communicate the same to all the other joint auditors in writing prior to the
+completion of the audit.
+It shall be the responsibility of each joint auditor to determine the nature, timing and extent
+of audit procedures to be applied in relation to the areas of work allocated to said joint auditor. It
+is the individual responsibility of each joint auditor to study and evaluate the prevailing system of
+internal control and assessment of risk relating to the areas of work allocated to said joint auditor.
+As regards decisions taken by all the joint auditors under audit planning in respect of common audit
+areas concerning the nature, timing and extent of the audit procedures to be performed by each of the
+joint auditors, all the joint auditors are responsible only in respect of the appropriateness of the
+decisions concerning the nature, timing and extent of the audit procedures agreed upon among them,
+proper execution of these audit procedures is the individual responsibility of the joint auditor concerned.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 39 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.39
+                                         RESPONSIBILITIES
+5.4  Audit Conclusion and Reporting
+The joint auditors are required to issue common audit report, however, where the joint auditors are
+in disagreement with regard to the opinion or any matters to be covered by the audit report, they
+shall express their opinion in a separate audit report. A joint auditor is not bound by the views of the
+majority of the joint auditors regarding the opinion or matters to be covered in the audit report and
+shall express opinion formed by the said  joint  auditor  in separate  audit  report  in case  of
+disagreement. In such circumstances, the audit report(s) issued by the joint auditor(s) shall make a
+reference to the separate audit report(s) issued by the other joint auditor(s). Further, separate audit
+report shall also make reference to the audit report issued by other joint auditors. Such reference
+shall be made under the heading “Other Matter Paragraph” as per SA 706.
+  Each Joint Auditor is entitled to assume that: -
+
+                      (a) The other joint auditors have carried out their part of the audit work and the work
+               has actually been performed in accordance with the Standards on Auditing issued by
+                 the Institute of Chartered Accountants of India. It is not necessary for a joint auditor to
+                   review the work performed by other joint auditors or perform any tests in order to
+                       ascertain whether the work has actually been performed in such a manner.
+
+                     (b) The other joint auditors have brought to said joint auditor’s notice any departure
+                 from applicable financial reporting framework or significant observations that are
+                            relevant to their responsibilities noticed in the course of the audit.
+
+Where financial statements of a division/branch are audited by one of the joint auditors, the
+other joint auditors are entitled to proceed on the basis that such financial statements comply with
+all the legal and regulatory requirements and present a true and fair view of the state of affairs and
+of the results of operations of the division/branch concerned.
+Before finalizing their audit report, the joint auditors shall discuss and communicate with each
+other their respective conclusions that would form the content of the audit report.
+5.5  Communication with Those Charged with Governance
+When the joint auditors expect to modify the opinion in the auditor’s report, the joint auditors shall
+communicate with those charged with governance the circumstances that led to the expected
+modification and the proposed wording of the modification to ensure compliance with SA 705. If the
+joint auditors expect to include an Emphasis of Matter or an Other Matter paragraph in the auditor’s
+report, the joint auditors shall communicate with those charged with governance regarding this
+expectation and the proposed wording of this paragraph to ensure compliance with SA 706.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 40 ======================
+
+
+2.40         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+
+TEST YOUR UNDERSTANDING 5
+Four audit firms viz. GPR & Co., MKS & Co., CY & Associates and DES & Associates have been
+appointed for conducting statutory audit of KNB Bank, a public sector bank in accordance with
+regulatory guidelines. The professional work was divided by audit firms on the basis of zones of
+bank. However, work relating to “IT Systems and controls” was not allocated by them due to its very
+nature.
+While planning for the above common work area,  it was decided to test IT general controls,
+application controls and IT dependent manual controls. Planned key audit procedures relating to this
+common area also included testing design and operating effectiveness of controls over “computer
+operations including back-up, batch-processing and data centre security”.
+The actual audit procedures pertaining to “testing controls over batch processing” were performed
+by team of DES & Associates. In case work in relation to above audit procedures is not performed
+professionally by DES & Associates, discuss where responsibility for such lapses would lie in line
+with SA 299?
+
+     6.  SA 402 “AUDIT CONSIDERATIONS RELATING TO AN
+       ENTITY USING A SERVICE ORGANISATION”
+SA 402 deals with the user auditor’s responsibility to obtain sufficient appropriate audit evidence
+when a user entity uses the services of one or more service organisations. Specifically, it expands
+on how the user auditor applies SA 315 and SA 330 in obtaining an understanding of the user entity,
+including internal control relevant to the audit, sufficient to identify and assess the risks of material
+misstatement and in designing and performing further audit procedures responsive to those risks.
+
+
+                                                              • Service organisation is a third-party organisation (or segment of a
+                                                 third-party organisation) that provides services to user entities that   What is a Service
+     organization?             arereporting.part of Userthoseentityentities’is aninformationentity that systemsuses a servicerelevantorganisationto financial
+                                     and whose financial statements are being audited.
+
+
+  Who is a service             • Serviceorganisation,auditorprovidesis an auditoran assurancewho, at thereportrequeston theof controlsthe serviceof a
+                                             service organisation. User auditor is an auditor who audits and       auditor?                                             reports on the financial statements of a user entity.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 41 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.41
+                                         RESPONSIBILITIES
+Many entities outsource aspects of their business to organisations that provide services ranging
+from performing a specific task under the direction of an entity to replacing an entity’s entire business
+units or functions, such as the tax compliance function. Many of the services provided by such
+organisations are integral to the entity’s business operations; however, not all those services are
+relevant to the audit.
+
+When services provided by a service organization are relevant to the audit of a user entity’s financial
+statements?
+
+Services provided by a service organisation are relevant to the audit of a user entity’s financial
+statements when those services, and the controls over them, are part of the user entity’s information
+system, including related business processes, relevant to financial reporting. Although most controls
+at the service organisation are likely to relate to financial reporting, there may be other controls that
+may also be relevant to the audit, such as controls over the safeguarding of assets.
+ A service organisation’s services are part of a user entity’s information system, including related
+ business processes, relevant to financial reporting if these services affect any of the following: -
+ (a) The classes of transactions in the user entity’s operations that are significant to the user
+  entity’s financial statements
+ (b) The procedures, within both information technology (IT) and manual systems, by which the
+ user entity’s transactions are initiated, recorded, processed, corrected as necessary, transferred
+ to the general ledger and reported in the financial statements
+  (c) The related accounting records, either in electronic or manual form, supporting information
+ and specific accounts in the user entity’s financial statements that are used to initiate, record,
+ process and report the user entity’s transactions
+ (d) How the user  entity’s information system captures events and conditions, other than
+ transactions, that are significant to the financial statements
+ (e) The financial reporting process used to prepare the user entity’s financial statements, including
+ significant accounting estimates and disclosures and
+  (f) Controls surrounding journal entries, including non-standard journal entries used to record non-
+ recurring, unusual transactions or adjustments
+The nature and extent of work to be performed by the user auditor regarding the services provided by a
+service organisation depend on the nature and significance of those services to the user entity and the
+relevance of those services to the audit.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 42 ======================
+
+
+2.42         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+6.1  Objectives of user auditor in accordance with SA 402
+The objectives of the user auditor, when the user entity uses the services of a service organisation,
+are:-
+(a)   To obtain an understanding of the nature and significance of the services provided by the
+       service organisation and their effect on the user entity’s internal control relevant to the audit,
+        sufficient to identify and assess the risks of material misstatement; and
+(b)   To design and perform audit procedures responsive to those risks.
+
+
+            To obtain an understanding of the nature and significance of the
+             services provided by the service organisation and their effect on the       auditor               user entity’s internal control relevant to the audit, sufficient to
+   the            identify and assess the risks of material misstatement; and
+  of
+
+           To design and perform audit procedures responsive to those risks.         Objectives
+
+
+6.2  Type 1 report and Type 2 report
+
+          Type 1 report is a report that comprises: -
+
+
+                                                                               (ii) A report by the service auditor with
+           (i) A description, prepared by             the objective of conveying reasonable
+      management of the service              assurance that includes the service
+        organisation, of the service                auditor’s opinion on the description of
+       organisation’s system, control               the service organisation’s system,
+    objectives and related controls that           control objectives and related controls
+  have been designed and implemented        and the suitability of the design of the
+       as at a specified date; and              controls to achieve the specified control
+                                                                 objectives.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 43 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.43
+                                         RESPONSIBILITIES
+          Type 2 report is a report that comprises: -
+
+
+                                                               (ii) A report by the service auditor with the objective of
+     (i) A description, prepared            conveying reasonable assurance that includes: -
+    by management of the
+  service organisation, of the
+     service organisation’s
+   system, control objectives                                             a. The service auditor’s   and related controls, their                                   opinion on the description  design and implementation                                     of the service organisation’s    as at a specified date or                                  system, control objectives    throughout a specified                                                 b. A description of the                               and related controls, the   period and, in some cases,                                       service auditor’s tests of the                                           suitability of the design of  their operating effectiveness                                         controls and the results                                    the controls to achieve the    throughout a specified                                                       thereof.                                     specified control objectives,          period; and                                  and the operating
+                                        effectiveness of the
+                                             controls; and
+
+6.3  Obtaining an Understanding of the Services
+1.    Obtaining an understanding of the services provided by a service organisation,
+      including  internal  control: When  obtaining an understanding  of  the user  entity  in
+      accordance with SA 315, the user auditor shall obtain an understanding of how a user entity
+      uses the services of a service organisation in the user entity’s operations, including: -
+  (a) The nature of the services provided by the service organisation and the significance of those
+ services to the user entity, including the effect thereof on the user entity’s internal control. Information
+ on nature of services provided by a user organization may be available from sources such as user
+ manuals, contract between the user entity and service organization, reports by service auditors etc.
+  (b) The nature and materiality of the transactions processed or accounts or financial reporting
+ processes affected by the service organisation. In certain situations, the transactions processed and
+ the accounts affected by the service organisation may not appear to be material to the user entity’s
+  financial statements, but the nature of the transactions processed may be significant and the user
+ auditor may determine that an understanding of those controls is necessary in the circumstances.
+  (c) The degree of interaction between the activities of the service organisation and those of the user
+  entity. The degree of interaction refers to the extent to which a user entity is able to and elects to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 44 ======================
+
+
+2.44         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+ implement effective controls over the processing performed by the service organisation. For example,
+ a high degree of interaction exists between the activities of the user entity and those at the service
+ organisation when the user entity authorises transactions and the service organisation processes and
+ does the accounting for those transactions
+  (d) The nature of the relationship between the user entity and the service organisation, including the
+ relevant contractual terms for the activities undertaken by the service organisation.
+2.   When  obtaining an understanding  of  internal  control  relevant  to  the  audit  in
+      accordance with SA 315, the user auditor shall evaluate the design and implementation
+       of relevant controls at the user entity that relate to the services provided by the service
+       organisation, including those that are applied to the transactions processed by the service
+       organisation.
+3.    The user auditor shall determine whether a sufficient understanding of the nature and
+      significance of the services provided by the service organisation and their effect on the
+      user entity’s internal control relevant to the audit has been obtained to provide a basis for the
+        identification and assessment of risks of material misstatement.
+4.       If the user auditor is unable to obtain a sufficient understanding from the user entity,
+      the user auditor shall obtain that understanding from one or more of the following
+      procedures: -
+                                                    (c) Visiting the service
+                                             organisation and
+                                        performing procedures
+                                                that will provide the
+   (a) Obtaining a                        necessary information
+  Type 1 or Type                         about the relevant
+    2 report, if                            controls at the service
+     available                                organisation or
+
+
+                         (b) Contacting                                         (d) Using another
+                       the service                                     auditor to perform
+                      organisation,                               procedures that will
+                     through the                                      provide the
+                    user entity, to                                   necessary
+                     obtain specific                                  information about                                                                      the relevant controls                      information                                                                                   at the service
+                                                                            organisation.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 45 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.45
+                                         RESPONSIBILITIES
+6.4  Using Type 1 or Type 2 Report
+Using A Type 1 Or Type 2 Report to Support the User Auditor’s Understanding of The Service
+Organisation : In determining the sufficiency and appropriateness of the audit evidence provided by
+a Type 1 or Type 2 report, the user auditor shall be satisfied as to: -
+
+
+            (a) The service auditor’s professional
+        competence (except where the service                                                                         (b) The adequacy of the standards          auditor is a member of the Institute of                                                        under which the Type 1 or Type 2         Chartered Accountants of India) and                                                                        report was issued.           independence from the service
+                   organisation; and
+
+If the user auditor plans to use a Type 1 or Type 2 report as audit evidence to support the user
+auditor’s understanding about the design and implementation of controls at the service organisation,
+the user auditor shall:
+
+  (a) Evaluate whether the description and design of controls at the service organisation is at a
+  date or for a period that is appropriate for the user auditor’s purposes;
+
+
+  (b) Evaluate the sufficiency and appropriateness of the evidence provided by the report for the
+  understanding of the user entity’s internal control relevant to the audit; and
+
+  (c) Determine whether complementary user entity controls identified by service organisation are
+  relevant to the user entity and, if so, obtain an understanding of whether the user entity has
+ designed and implemented such controls.
+
+Complementary user entity controls refer to controls that the service organisation assumes, in the
+design of its service, will be implemented by user entities, and which, if necessary to achieve control
+objectives, are identified in the description of its system.
+6.5  Responding to the Assessed Risks of Material Misstatement
+In responding to assessed risks in accordance with SA 330, the user auditor shall: -
+(a)    Determine whether sufficient appropriate audit evidence concerning the relevant financial
+      statement assertions is available from records held at the user entity; and, if not,
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 46 ======================
+
+
+2.46         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+(b)    Perform further audit procedures to obtain sufficient appropriate audit evidence or use
+      another auditor to perform those procedures at the service organisation on the user auditor’s
+       behalf.
+6.6  Tests of Controls
+When the user auditor’s risk assessment includes an expectation that controls at the service
+organisation are operating effectively, the user auditor shall obtain audit evidence about the
+operating effectiveness of those controls from one or more of the following procedures: -
+
+
+                                                                              (c) Using another auditor to                                       (b) Performing appropriate     (a) Obtaining a Type 2                                    perform tests of controls at                                      tests of controls at the      report, if available;                                         the service organisation on                                   service organisation; or                                                                  behalf of the user auditor.
+
+
+Using a Type 2 report as audit evidence that controls at the service organisation are operating
+effectively
+If, the user auditor plans to use a Type 2 report as audit evidence that controls at the service
+organisation are operating effectively, the user auditor shall determine whether the service auditor’s
+report provides sufficient appropriate audit evidence about the effectiveness of the controls to
+support the user auditor’s risk assessment by:
+
+
+               (a) Evaluating whether the description, design and operating effectiveness of controls at the
+              service organisation is at a date or for a period that is appropriate for the user auditor’s purposes ;
+
+                     (b) Determining whether complementary user  entity  controls  identified by  the  service
+                   organisation are relevant to the user entity and, if so, obtaining an understanding of whether
+                  the user entity has designed and implemented such controls and, if so, testing their operating
+                   effectiveness;
+
+                      (c) Evaluating the adequacy of the time period covered by the tests of controls and the time
+                 elapsed since the performance of the tests of controls; and
+
+               (d) Evaluating whether the tests of controls performed by the service auditor and the results
+              thereof, as described in the service auditor’s report, are relevant to the assertions in the user
+                entity’s financial statements nd provide sufficient appropriate audit evidence to support the user
+               auditor’s risk assessment.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 47 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.47
+                                         RESPONSIBILITIES
+6.7  Fraud, non-compliance with laws and regulations and uncorrected
+     misstatements in relation to activities at the service organisation
+The user auditor shall inquire of management of the user entity whether the service organisation has
+reported to the user entity, or whether the user entity is otherwise aware of, any fraud, non-
+compliance  with laws and  regulations  or uncorrected misstatements  affecting  the  financial
+statements of the user entity. The user auditor shall evaluate how such matters affect the nature,
+timing and extent of the user auditor’s further audit procedures, including the effect on the user
+auditor’s conclusions and user auditor’s report.
+6.8  Reporting by the user auditor
+The user auditor shall modify the opinion in the user auditor’s report in accordance with SA 705 if
+the user auditor is unable to obtain sufficient appropriate audit evidence regarding the services
+provided by the service organisation relevant to the audit of the user entity’s financial statements.
+The user auditor shall not refer to the work of a service auditor in the user auditor’s report containing an
+unmodified opinion unless required by law or regulation to do so. If such reference is required by law or
+regulation, the user auditor’s report shall indicate that the reference does not diminish the user auditor’s
+responsibility for the audit opinion.
+If reference to the work of a service auditor is relevant to an understanding of a modification to the
+user auditor’s opinion, the user auditor’s report shall indicate that such reference does not diminish
+the user auditor’s responsibility for that opinion.
+
+Integrated Case Scenario:
+CA. Biswajit is conducting audit of “Have More Limited”. He is auditor of the company since last
+three years and has found nothing unusual in operations and financial statements of the company.
+The company has many locations where substantial inventories are stored and lying. During his
+fourth year stint, he finds that inventory quantities have risen disproportionately as compared to past
+few years trends. He has assessed existence of risk of material misstatement due to fraud.
+The company has revenue of ` 750 crore during the year. He has deeply verified  all aspects
+pertaining to revenue recognition of the company and has concluded that there is no risk of material
+misstatement due to fraud related to revenue recognition.
+During the course of audit,  it has come to his knowledge that company is also required to install
+online air pollution control monitoring systems in its plant as mandated in state pollution control
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 48 ======================
+
+
+2.48         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+legislation and regulations. Non-installation of such online air pollution control monitoring systems
+may lead to fines and even sealing of plant.
+While verifying payroll data of the company, it has come to notice that provisions of law preventing
+employment of child labour are not being adhered to and company is employing child labour in
+flagrant violation of rules in this regard. The company also exports part of its turnover and matter
+has gone unnoticed in compliance audits carried out by agencies of overseas buyers.
+On the basis of above, answer the following questions: -
+1. Considering description of disproportionate rise in inventory quantities, which of the
+following is not likely to be an appropriate response to outlined assessed risk of material
+misstatement due to fraud?
+(a)    Observing inventory counts at all locations at same date by employing necessary resources.
+(b)    Observing inventory counts at certain locations after prior intimation.
+(c)   More rigorous examination of packed items during observing inventory count process.
+(d)    Observing inventory count at end of reporting period to minimize risk of manipulation.
+2. It has been concluded by auditor that there is no risk of material misstatement due to fraud
+related to revenue recognition. Which of the following statements is most appropriate in this
+respect?
+(a)   The auditor needs to document reasons for arriving at conclusion that there is no risk of
+       material misstatement due to fraud related to revenue recognition.
+(b)    Identified and assessed risks of material misstatement due to fraud need to be documented.
+      Since no risk of material misstatement due to fraud pertaining to revenue recognition was
+        identified, separate documentation in this respect is not needed.
+(c)   The auditor needs only to document that no risk of material misstatement due to fraud relating
+       to revenue recognition was identified.
+(d)   The auditor needs to give reference to discussion among engagement team members to
+      document that no risk of material misstatement due to fraud relating to revenue recognition
+     was identified.
+3. Which of the following statements most appropriately describes responsibilities of auditor
+in relation to compliance with state pollution control legislation and regulations?
+(a)    Sufficient appropriate evidence needs to be obtained by auditor to verify compliance.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 49 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.49
+                                         RESPONSIBILITIES
+(b)    Physical verification of workability of such systems is required from an auditor.
+(c)    Only  inquiry  of company management personnel and review  of correspondence  with
+       regulatory authorities are suffice to verify compliance.
+(d)    Only physical verification of workability of such systems and review of correspondence with
+       regulatory authorities are suffice to verify compliance.
+4. The auditor has observed non-compliance of law prohibiting employment of child labour.
+Which is the most appropriate course of action for him to proceed in this matter?
+(a)   He should obtain further information to evaluate the possible effect on financial statements.
+(b)   He must report the matter to concerned government department.
+(c)   He should obtain further information to evaluate the possible effect on financial statements.
+      Besides, he should evaluate implications of non-compliance for audit risk assessment.
+(d)   He should express a modified opinion in audit report.
+5. Which of the following statements is most appropriate about documentation of non-
+compliance with laws and regulations by an auditor in context of SA 250?
+(a)    Instances of identified non-compliance with laws and regulations need to be documented.
+(b)    Instances of suspected non-compliance with laws and regulations need to be documented.
+(c)    Instances of non-compliance with laws and regulations finally determined by Courts of law
+      need to be documented.
+(d)    Instances of identified as well as suspected non-compliance with laws and regulations need
+       to be documented.
+
+Key Takeaways
+
+    Fraud is an intentional act by one or more individuals among management, those charged with
+      governance, employees, or third parties, involving the use of deception to obtain an unjust or
+         illegal advantage.
+   SA 240 deals with the auditor’s responsibilities relating to fraud in an audit of financial statements.
+         Its requirements assist the auditor in identifying and assessing the risks of material misstatement
+      due to fraud and in designing procedures to detect such misstatement.
+    Fraud risk factors are events or conditions that indicate an incentive or pressure to commit fraud
+       or provide an opportunity to commit fraud.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 50 ======================
+
+
+2.50         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+    The effect on the financial statements of laws and regulations varies considerably. The provisions
+        of some laws or regulations have a direct effect on the financial statements in that they determine
+       the reported amounts and disclosures in an entity’s financial statements. Other laws or regulations
+       are to be complied with by management or set the provisions under which the entity is allowed to
+      conduct its business but do not have a direct effect on an entity’s financial statements.
+    Non-compliance with laws and regulations may result in fines, litigation or other consequences for
+       the entity that may have a material effect on the financial statements.
+   SA 250 deals with auditor’s responsibility to consider laws and regulations when performing an
+       audit of financial statements.
+    Communication from auditor is important with those charged with governance. SA 260 deals with
+       the auditor’s responsibility to communicate with those charged with governance in an audit of
+        financial statements.
+   A joint audit is an audit of financial statements of an entity by two or more auditors appointed with
+       the objective of issuing the audit report. Such auditors are described as joint auditors.
+   SA 299 lays down the principles for effective conduct of joint audit to achieve the overall objectives
+        of the auditor as laid down in SA 200. It deals with the special considerations in carrying out audit
+      by joint auditors.
+     Service organisation is a third-party organisation (or segment of a third-party organisation) that
+       provides services to user entities that are part of those entities’ information systems relevant to
+        financial reporting. User entity is an entity that uses a service organisation and whose financial
+       statements are being audited.
+   SA 402 deals with the user auditor’s responsibility to obtain sufficient appropriate audit evidence
+     when a user entity uses the services of one or more service organisations.
+
+         FOR SHORTCUT TO ENGAGEMENT & QUALITY CONTROLS STANDARDS WISDOM:
+                                  SCAN ME !
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 51 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.51
+                                         RESPONSIBILITIES
+              TEST YOUR KNOWLEDGE
+
+Theoretical Questions
+1     A, B and C are joint auditors of a company. B is of the opinion that there are material
+      misstatements in financial statements of a company which, if accounted for, would turn profit
+       reflected in financial statements for `25 crore to a loss of `5 crore. He, therefore, wants an
+      adverse opinion to be expressed in audit report. However, A and B do not concur with his
+      views and are inclined to accept management’s version. Is B required to go by majority
+       opinion of 2-1?
+2.    CA. Shelly Goel is offered appointment as auditor of RUTE Limited, a listed company. The
+       audit committee of the company wants her to justify independence in relation to company
+      through proper communication. Although she has ensured that there are no threats to her
+      independence, she feels requirement of audit committee to be beyond its purview. What is
+      your opinion in this regard?
+3.    You are auditor of a social media company. Of late, government has tightened noose around
+      companies operating in this segment by bringing in a maze of regulatory legislations to protect
+       interests of users. How you can proceed to verify that company is compliant with new
+       regulatory requirements?  Besides, what does above situation underscore to you as an
+       auditor?
+4.    Discuss why the potential effects of inherent limitations of an auditor’s ability to detect
+       material misstatements described in SA 200 are far greater in respect of non-compliance with
+      laws and regulations?
+5.   MN & Associates are the statutory auditors of ABC Ltd. for the FY 2021-22. During the course
+       of audit, the engagement partner, Mr. Manohar notices a misstatement resulting from a
+      suspected fraud that brings into question the audit team’s ability to continue performing the
+       audit. How should the audit team deal with the situation?
+6.   CA Anand is the engagement partner for the audit assignment of NHT Ltd. engaged in
+      manufacture of Iron and Steel bars. The company has its plants in the state of Sikkim. While
+       verifying the wages record of the company, CA Anand found that maximum of the labour
+      employed in the plants of the company was child labour. He questioned the management of
+       the company about the same  to which the management replied that looking into the
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 52 ======================
+
+
+2.52         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+      compliance of such law is outside his scope of financial audit. Give your comments with
+      respect to such situation.
+7.    Magnet Interiors Ltd. is a listed company engaged in the manufacture of office furniture. The
+     company has its activities divided into four geographic regions. The company has appointed
+      two joint auditors, namely, AB & Co. and CD & Co. to conduct the joint audit of the financial
+      statements of the company for the year ending 31.03.2023. The engagement partners from
+      both the firms, CA Amar and CA Chetanya along with their audit teams had a meeting to
+      discuss the areas of the work to be divided and their respective responsibilities. Explain the
+       responsibilities of the joint auditors with respect to such joint audit.
+8.   MNO Ltd. gets its accounting data processed by a service organisation. CA Riya is the
+       statutory auditor of MNO Ltd. CA Riya wants to obtain an understanding as to how MNO Ltd.
+        is using the services of the service organisation. What all understanding should she obtain?
+9.   UVW & Associates are the statutory auditors of Moon Ltd., a listed company, for the financial
+      year 2022-23. CA Udhav is the engagement partner for the audit assignment. He was of the
+      understanding that as per the requirement of one of the SAs he has a responsibility to
+      communicate following matters to those charged with governance:
+       (a)   The auditor’s responsibilities in relation to the financial statement audit.
+       (b)    Planned scope and timing of the audit.
+        (c)    Auditor independence
+      Which of the matters is not included in the list prepared by CA Udhav. Discuss such matter
+        in detail.
+
+Answers to Test your Understanding:
+1.    The given situation highlights need for the company to set up new plant for manufacturing of
+       special kind of fabric to stay competitive in the market. Setting up of such plant involves huge
+       capital outlays which could entail financing arrangements. Therefore, excessive pressure
+       exists for management to be involved in fraudulent financial reporting. In such a situation,
+     management may be tempted to inflate its revenues to show rosy picture. It is a fraud risk
+       factor and needs to be evaluated by the auditor.
+     The revenues of company have jumped from ` 750 crore in last year to ` 1000 crore in year
+      2022-23 without any change in plant capacity. The auditor may consider abovesaid fraud risk
+       factor for assessing risk of material misstatement due to fraud.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 53 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.53
+                                         RESPONSIBILITIES
+       In case of auditor assessing  risk of material misstatement due to fraudulent financial
+       reporting, audit procedures to address such  risk  like performing substantive analytical
+      procedures relating to revenue, use of computer assisted audit techniques to identify unusual
+      revenue transactions and testing controls pertaining to revenue transactions need to be
+      performed.
+2.    Management failing to remedy known significant deficiencies in internal control on a timely
+       basis is a fraud risk factor for misstatements arising from fraudulent financial reporting.
+     When management does not correct significant deficiencies in internal control on a timely
+       basis, it reflects an attitude, character or set of ethical values that allow them knowingly and
+       intentionally to commit a dishonest act.
+       Failure to rectify known control deficiencies pertaining to reconciliation of receivables and
+      review of customer credit limits has the potential to fraud. Lack of timely reconciliation of
+       receivables may lead to intentional misstatements. Further, non-reviewing customer limit may
+      lead to grant of credit beyond creditworthiness of customers. It may result in intentional tying
+      up of company’s funds with risky customers due to collusion.
+     The above situation is a fraud risk factor for fraudulent financial reporting.
+3.   When the auditor becomes aware of the existence of or has information about investigations
+      by government departments and regulatory organizations,  it may be an indication of non-
+      compliance with laws and regulations.
+       In the instant case, notice has been served upon the company by DGGI for allegedly creating
+        fictitious invoices in guise of providing “marketing and sales services” for ` 50 crores. Issuing
+      an invoice without supply of services is a serious offence under GST laws and it could involve
+       penalties and imprisonment. Such suspected non-compliance may have a direct effect on
+       financial statements.
+     The matter has also been informed to regulator i.e. IRDAI.  Violation of IRDAI regulations
+     may result in fines, litigation or other consequences for the entity that may have a material
+       effect on the financial statements.
+           If the auditor becomes aware of information concerning an instance of non-compliance or
+      suspected non-compliance with laws and regulations, the auditor shall obtain:  -
+        (a)   An understanding of the nature of the act and the circumstances in which  it has
+             occurred and
+        (b)    Further information to evaluate the possible effect on the financial statements.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 54 ======================
+
+
+2.54         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+           If the auditor suspects there may be non-compliance, the auditor shall discuss the matter with
+     management and, where appropriate, those charged with governance. If management or, as
+       appropriate, those charged with governance do not provide  sufficient information that
+      supports that the entity is in compliance with laws and regulations and, in the auditor’s
+      judgment, the effect of the suspected non-compliance may be material to the financial
+       statements, the auditor shall consider the need to obtain legal advice.
+           If sufficient information about suspected non-compliance cannot be obtained, the auditor shall
+      evaluate the effect of the lack of sufficient appropriate audit evidence on the auditor’s opinion.
+4.   SA 260 requires the auditor to communicate with those charged with governance on a timely
+       basis.
+     SA 701 states that the appropriate timing for communications about key audit matters will
+       vary with the circumstances of the engagement. However, the auditor may communicate
+       preliminary views about key audit matters when discussing the planned scope and timing of
+       the audit, and may further discuss such matters when communicating about audit findings.
+      Doing so may help to alleviate the practical challenges of attempting to have a robust two-
+     way dialogue about key audit matters at the time the financial statements are being finalized
+        for issuance.
+      Communication with those charged with governance enables them to be made aware of the
+      key audit matters that the auditor intends to communicate in the auditor’s report, and provides
+      them with an opportunity to obtain further clarification where necessary. The auditor may
+      consider it useful to provide those charged with governance with a draft of the auditor’s report
+       to facilitate this discussion.
+      Communication with those charged with governance recognizes their important role  in
+      overseeing the financial reporting process, and provides the opportunity for those charged
+       with governance to understand the basis for the auditor’s decisions in relation to key audit
+      matters and how these matters will be described in the auditor’s report. It also enables those
+      charged with governance to consider whether new or enhanced disclosures may be useful in
+        light of the fact that these matters will be communicated in the auditor’s report.
+5.     In respect of common areas, the joint auditors are only responsible for appropriateness of
+       nature, timing and extent of planned audit procedures agreed among them. The responsibility
+       of individual execution lies with concerned joint auditor.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 55 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.55
+                                         RESPONSIBILITIES
+       In the instant case, audit procedures relating to testing design and operating effectiveness of
+       controls over computer operations including back-up, batch-processing and data center
+       security have been planned jointly as it is a common area.
+      However, audit procedures relating to testing controls over batch processing were actually
+      performed by team of DES & Associates although these were planned jointly. In case of any
+      lapses in performing such procedures, DES & Associates would be responsible.
+Answers to Integrated Case Scenario:
+1.     (b)
+2.     (a)
+3.      (c)
+4.      (c)
+5.     (d)
+Hints /Answers to Theoretical Questions:
+1.    Where the joint auditors are in disagreement with regard to the opinion or any matters to be
+      covered by the audit report, they shall express their opinion in a separate audit report. A joint
+       auditor is not bound by the views of the majority of the joint auditors regarding the opinion or
+      matters to be covered in the audit report and shall express opinion formed by the said joint
+       auditor in separate audit report in case of disagreement. Therefore, B is not required to go
+      by majority opinion of 2-1.
+       In such circumstances, the audit report issued by the joint auditors shall make a reference to
+       the separate audit report issued by the other joint auditor. Further, separate audit report shall
+       also make reference to the audit report issued by other joint auditors. Such reference shall
+      be made under the heading “Other Matter Paragraph” as per SA 706.
+2.    As required in SA 260, in the case of listed entities, the auditor shall communicate with those
+      charged with governance: -
+        (a)   A statement that the engagement team and others in the firm as appropriate, the firm
+             and, when applicable, network firms have complied with relevant ethical requirements
+             regarding independence and
+                         i.       All relationships and other matters between the firm, network firms, and the entity
+                         that, in the auditor’s professional judgment, may reasonably be thought to bear on
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 56 ======================
+
+
+2.56         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+                   independence. This shall include total fees charged during the period covered by
+                     the financial statements for audit and non-audit services provided by the firm and
+                   network firms to the entity and components controlled by the entity. These fees
+                       shall be allocated to categories that are appropriate to assist those charged with
+                  governance in assessing the effect of services on the independence of the auditor
+                 and
+                          ii.    The related safeguards that have been applied to eliminate identified threats to
+                  independence or reduce them to an acceptable level.
+       Further, as per the Companies Act, 2013 requires audit committee to review and monitor
+       auditor’s  independence.  Therefore,  audit  committee  requiring  auditor  to  justify  her
+      independence is well within its purview.
+3.        It needs to be verified that the company has put in place systems and procedures to meet
+       with new regulatory requirements. The same can be verified by examining policies and
+      procedures developed by company in this regard like devising appropriate system of internal
+       control, sensitizing employees regarding new rules, engaging legal advisors etc.
+       Further, financial stability of the company may be threatened due to new regulatory requirements.
+      The management may be under pressure.  It is also a fraud risk factor and may need to be
+       evaluated by auditor.
+4.     In the context of laws and regulations, the potential effects of inherent limitations on the
+       auditor’s  ability to detect material misstatements are greater  for such reasons as the
+       following: -
+       There are many laws and regulations, relating principally to the operating aspects of an
+                entity that typically do not affect the financial statements and are not captured by the
+                entity’s information systems relevant to financial reporting.
+       Non-compliance may involve conduct designed to conceal it, such as collusion, forgery,
+               deliberate failure to record transactions, management override of controls or intentional
+              misrepresentations being made to the auditor.
+       Whether an act constitutes non-compliance is ultimately a matter for legal determination
+            by a court of law.
+5.     During the course of audit, the engagement partner, Mr. Manohar notices a misstatement
+       resulting from a suspected fraud that brings into question the audit team’s ability to continue
+      performing the audit. In such a situation the audit team should:
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 57 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.57
+                                         RESPONSIBILITIES
+       (a)    Determine the professional and legal responsibilities applicable in the circumstances,
+              including whether there is a requirement for the auditor to report to the person or
+            persons who made the audit appointment or, in some cases, to regulatory authorities;
+       (b)    Consider whether it is appropriate to withdraw from the engagement, where withdrawal
+            from the engagement is legally permitted; and
+        (c)       If the auditor withdraws: -
+                     (i)     Discuss with the appropriate  level  of management and those charged with
+                   governance, the auditor’s withdrawal from the engagement and the reasons for the
+                    withdrawal and
+                       (ii)    Determine whether there is a professional or legal requirement to report to the
+                   person or persons who made the audit appointment or, in some cases, to regulatory
+                       authorities, the auditor’s withdrawal from the engagement and the reasons for the
+                     withdrawal.
+6.    As per SA 250 “Considerations of Laws and Regulations in an Audit of Financial Statements”,
+       the auditor is not responsible for preventing non-compliance and cannot be expected to detect
+      non-compliance with  all laws and regulations. The auditor  is responsible  for obtaining
+      reasonable assurance that the financial statements, taken as a whole, are free from material
+      misstatement, whether caused by fraud or  error.  In conducting an  audit  of  financial
+       statements, the auditor takes into account the applicable legal and regulatory framework.
+      For the compliance with provisions of those laws and regulations generally recognised to
+      have a direct effect on the determination of material amounts and disclosures in the financial
+       statements, the auditor’s responsibility is to obtain sufficient appropriate audit evidence about
+      compliance with the provisions of those laws and regulations.
+      For other laws and regulations that do not have a direct effect on the determination of the
+      amounts and disclosures in the financial statements but compliance with which may be
+      fundamental to the operating aspects of the business, the auditor’s responsibility is limited to
+      undertaking specified audit procedures to help identify non-compliance with those laws and
+       regulations that may have a material effect on the financial statements.
+       In the instant case, maximum of the labour employed in the plants of the company was child
+       labour. When CA Anand questioned the management of the company about the same, the
+     management replied that looking into the compliance of such law is outside his scope of
+       financial audit. Such reply by the management is not acceptable as such situation may have
+      a material effect on the financial statements. Therefore, CA Anand should ensure as to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 58 ======================
+
+
+2.58         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+      whether any penal provisions will be there for non- compliance of such law and also whether
+       the same has been duly disclosed by the company. If CA Anand concludes that such non-
+      compliance has a material effect on the financial statements and the same has not been
+      adequately reflected in the financial statements by the company, he shall express an adverse
+       or a qualified opinion on the financial statements.
+7.    As per SA 299 “Joint Audit of Financial Statements”, in respect of audit work divided among
+       the joint auditors, each joint auditor shall be responsible only for the work allocated to such
+        joint auditor including proper execution of the audit procedures. In cases where specific
+       divisions, zones or units are allocated to different joint auditors, it is the separate and specific
+       responsibility  of each  joint  auditor  to  obtain  information and  explanations  from  the
+     management in respect of such divisions/zones/units and to evaluate the information and
+       explanations so obtained by said  joint  auditor. The  joint  auditors  shall have proper
+       coordination and rationality wherever required.
+        All the joint auditors shall be jointly and severally responsible for: -
+       a.     the audit work which is not divided among the joint auditors and is carried out by all
+                 joint auditors
+       b.     decisions taken by all the joint auditors under audit planning in respect of common
+              audit areas concerning the nature, timing and extent of the audit procedures to be
+            performed by each of the joint auditors.
+        c.     matters which are brought to the notice of the joint auditors by any one of them and
+           on which there is an agreement among the joint auditors
+       d.    examining that the financial statements of the entity comply with the requirements of
+             the relevant statutes
+       e.     presentation and disclosure of the financial statements as required by the applicable
+               financial reporting framework
+           f.      ensuring that the audit report complies with the requirements of the relevant statutes,
+             the applicable Standards on Auditing and the other relevant pronouncements issued
+            by ICAI.
+      Where, in the course of the audit, a joint auditor comes across matters which are relevant to
+       the areas of responsibility of other joint auditors and which deserve their attention, or which
+       require disclosure or require discussion with, or application of judgment by other  joint
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 59 ======================
+
+
+GENERAL AUDITING PRINCIPLES AND AUDITOR’S            2.59
+                                         RESPONSIBILITIES
+       auditors, the said joint auditor shall communicate the same to all the other joint auditors in
+       writing prior to the completion of the audit.
+           It shall be the responsibility of each joint auditor to determine the nature, timing and extent of
+       audit procedures to be applied in relation to the areas of work allocated to said joint auditor.
+           It is the individual responsibility of each joint auditor to study and evaluate the prevailing
+      system of internal control and assessment of risk relating to the areas of work allocated to
+       said joint auditor.
+     As regards decisions taken by all the joint auditors under audit planning in respect of common
+       audit areas concerning the nature, timing and extent of the audit procedures to be performed
+      by each of the joint auditors, all the joint auditors are responsible only in respect of the
+      appropriateness of the decisions concerning the nature, timing and extent of the audit
+      procedures agreed upon among them, proper execution of these audit procedures is the
+       individual responsibility of the joint auditor concerned.
+8.   When obtaining an understanding of MNO Ltd. (user entity) in accordance with SA 315, CA
+      Riya shall obtain an understanding of how MNO Ltd. uses the services of a service
+       organisation in its operations, including: -
+       (a)   The nature of the services provided by the service organisation and the significance
+               of those services to the user entity, including the effect thereof on the user entity’s
+               internal control. Information on nature of services provided by a user organization may
+           be available from sources such as user manuals, contract between the user entity and
+             service organization, reports by service auditors etc.
+       (b)   The nature and materiality of the transactions processed or accounts or financial
+              reporting processes affected by the service organisation. In certain situations, the
+              transactions processed and the accounts affected by the service organisation may not
+            appear to be material to the user entity’s financial statements, but the nature of the
+              transactions processed may be significant and the user auditor may determine that an
+             understanding of those controls is necessary in the circumstances.
+        (c)   The degree of interaction between the activities of the service organisation and those
+               of the user entity. The degree of interaction refers to the extent to which a user entity
+                 is able to and elects to implement effective controls over the processing performed by
+             the service organisation. For example, a high degree of interaction exists between the
+                activities of the user entity and those at the service organisation when the user entity
+             authorises  transactions and  the  service  organisation processes and does  the
+             accounting for those transactions
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 60 ======================
+
+
+2.60         ADVANCED AUDITING, ASSURANCE AND PROFESSIONAL ETHICS
+
+        (d)   The nature of the relationship between the user entity and the service organisation,
+              including the relevant contractual terms for the activities undertaken by the service
+              organisation.
+9.   SA 260 “Communication  with Those Charged  with Governance” deals  with  auditor’s
+       responsibility to communicate with those charged with governance in relation to an audit of
+       financial statements. Among various matters as included by CA Udhav in his list, one of the
+      matters that is not mentioned in the list is Significant findings from the audit. With respect to
+      such matter, the auditor shall communicate with those charged with governance: -
+        (a)   The auditor’s views about significant qualitative aspects of the entity’s accounting
+              practices, including accounting policies, accounting estimates and financial statement
+              disclosures. When  applicable,  the  auditor  shall  explain  to those charged  with
+            governance why the auditor considers a  significant accounting practice, that  is
+             acceptable under the applicable  financial  reporting framework, not  to be most
+             appropriate to the particular circumstances of the entity;
+        (b)    Significant difficulties, if any, encountered during the audit;
+        (c)    Unless all of those charged with governance are involved in managing the entity: -
+                     (i)     Significant matters arising during the audit that were discussed, or subject to
+                   correspondence, with management;
+                       (ii)     Written representations the auditor is requesting
+        (d)    Circumstances that affect the form and content of the auditor’s report, if any and
+        (e)   Any other significant matters arising during the audit that, in the auditor’s professional
+             judgment, are relevant to the oversight of the financial reporting process.
+     The communication of findings from the audit may include requesting further information from
+      those charged with governance in order to complete the audit evidence obtained. For
+      example, the auditor may confirm that those charged with governance have the same
+      understanding of the facts and circumstances relevant to specific transactions or events.
+(Note: Content of SA 200 Overall Objectives of the Independent Auditor and the Conduct of
+an Audit in Accordance with Standards on Auditing; SA 210 Agreeing the Terms of Audit
+Engagements and SA 230 Audit Documentation is covered in depth at Intermediate level.
+Thus, application part of above SAs may be discussed in the form of Case Study at Final
+level.)
+
+
+© The Institute of Chartered Accountants of India

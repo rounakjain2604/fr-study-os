@@ -1,0 +1,825 @@
+Source PDF: 07_SPOM/Set_C_02_Sustainability_Reporting/011 - UNIT-2- BRSR CORE-FRAMWORK FOR ASSURANCE - 83914bos67673.pdf
+Absolute PDF: C:\Users\USER\OneDrive\Documents\CA FINAL MAY 2027\CA_Final_May_2027_Command_Center\ICAI_Materials\07_SPOM\Set_C_02_Sustainability_Reporting\011 - UNIT-2- BRSR CORE-FRAMWORK FOR ASSURANCE - 83914bos67673.pdf
+Extracted at: 2026-05-31T10:30:40+05:30
+Pages: 19
+Engine: pymupdf
+====================== PAGE 1 ======================
+
+
+UNIT – 2: BRSR CORE-FRAMEWORK FOR ASSURANCE
+
+                      LEARNING OUTCOMES
+
+By the end of this unit, students will be able to:
+   Understand the concept of BRSR Core
+   Analyse  prescribed ESG  attributes  with  respect  to  parameter,
+    measurement, data & assurance approach and cross-reference to the
+   BRSR
+  Form overview of phased implementation for applicability of BRSR Core
+  Comprehend conditions  for appointment  of assurance provider  for
+   BRSR Core
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 2 ======================
+
+
+UNIT OVERVIEW
+
+
+                                               FAQs on BRSR Core
+
+
+   Business Responsibility and Sustainability
+            Reporting (BRSR) Core
+                                                  Annexure I -BRSR Core as per SEBI
+                                                            Circular on "BRSR Core Framework for
+                                                  Assurance and ESG disclosures in the
+                                                         value chain" dated July 12, 2023
+
+
+     2.1 BUSINESS  RESPONSIBILITY AND SUSTAINABILITY
+       REPORTING (BRSR) CORE
+SEBI circular on “BRSR Core Framework for Assurance and ESG disclosures in the value chain”12
+dated July 12, 2023, has introduced the BRSR Core for assurance by listed entities. This circular
+has also introduced disclosures and assurance for the value chain of listed entities, as per the BRSR
+Core.  The BRSR Core is a sub-set of the BRSR, and  it consists of a set of Key Performance
+Indicators (KPIs) / metrics under nine ESG attributes.  This circular mentions that keeping in view
+the relevance to the Indian  / Emerging market context, few new KPIs have been identified for
+assurance such as job creation in small towns, open-ness of business, gross wages paid to women
+etc.   Further,  for better global comparability  intensity  ratios based on revenue adjusted  for
+Purchasing Power Parity (PPP) have been included.
+Within the framework of BRSR Core KPI metrics, an "attribute" denotes a specific facet or trait
+pertaining to environmental, social, or governance (ESG) performance that undergoes measurement
+or evaluation. Attributes serve to articulate precisely what's being appraised within each KPI metric,
+effectively delineating its scope and emphasis. In contrast, a "parameter" refers to a particular facet
+or element within an attribute that is subject to measurement or assessment, offering heightened
+detail and precision in evaluating ESG performance.  Additionally, the "measurement aspect" in
+BRSR Core KPI metrics pertains to the explicit criteria and methodologies employed for quantifying
+or evaluating the parameter within the designated attribute.   It clarifies the procedures for data
+collection, analysis, and reporting tied to that parameter, encompassing both quantitative and
+
+12          https://www.sebi.gov.in/legal/circulars/jul-2023/brsr-core-framework-for-assurance-and-esg-
+disclosures-for-value-chain_73854.html
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 3 ======================
+
+
+qualitative information drawn from diverse sources such as financial records, surveys, audits, or
+external reports.  Furthermore, the "assurance approach" outlines the methods and procedures
+employed to authenticate, verify, or assure the accuracy and dependability of data reported for a
+particular KPI metric.  Assurance, crucial for bolstering the credibility and transparency of ESG
+reporting, can encompass external audits or reviews conducted by independent parties (assurance
+providers) to validate reported data accuracy, as well as internal mechanisms and controls within
+the organization.
+BRSR Core covers following nine ESG attributes –
+(i)    Green-house gas (GHG) footprint
+(ii)    Water footprint
+(iii)   Energy footprint
+(iv)   Embracing circularity details related to waste management by the entity
+(v)    Enhancing Employee Wellbeing and Safety
+(vi)   Gender Diversity in Business
+(vii)   Enabling Inclusive Development
+(viii)  Fairness in Engaging with Customers and Suppliers
+(ix)   Open-ness of business
+For each parameter, the circular provides parameter, measurement, data & assurance approach
+and cross-reference to the BRSR. Complete list is provided as Annexure 1 to this chapter.
+Let us take an example to understand the requirement of BRSR Core attributes. In case of
+“Enhancing Employee Wellbeing and Safety” following parameters have been prescribed in the
+above mentioned Circular –
+(i)    Spending on measures towards well- being of employees and workers – cost incurred as a %
+       of total revenue of the company
+       This parameter is cross referred to Principle 3, Question 1(c) of .Essential Indicators
+      For data & assurance approach, the circular requires the auditor to check sources including:
+       Insurance Policies & Premium Paid Details
+        Infant Care Policy
+       Amount billed/ invoices towards providing such facilities.
+      This would include amount spent by the company for health insurance, accident insurance,
+       maternity benefits, paternity benefits, day care facilities, health & safety measures including
+      access to mental health.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 4 ======================
+
+
+(ii)    Details of safety related incidents for employees and workers (including contract-workforce
+        e.g., workers in the company's construction sites)
+      There are three measurements prescribed for this parameter –
+        (a)   Number of Permanent .Disabilities has to be checked on the basis of claims. This has
+           been cross referred to Principle 3, Question 11 of Essential Indicators.
+        (b)    Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked) has to
+           be measured. For this auditor has to verify following –
+            Total number of lost time injuries
+            Total number of working hours
+           LTIFR = (Total number of lost time injuries *10,00,000) / Total No. of working
+                  hours
+             This has been cross referred to Principle 3, Question 11 of Essential Indicators of
+          BRSR.
+        (c)   Number of fatalities has to be verified by the auditor on the basis of claims as reported
+               to the Factory Inspector. This has been mapped to Principle 3, Question 11 of
+              Essential Indicators of BRSR.
+In accordance with the updated BRSR format, the top 1000 listed companies (ranked by their market
+capitalization) must include BRSR Core disclosures in their Annual Reports for the financial year
+2023-2024. These listed companies are obligated to conduct reasonable assurance of the BRSR
+Core, following a gradual implementation plan outlined as below:
+ Financial Year     Applicability of Assurance of BRSR Core to top listed entities (by
+                  market capitalization)
+ 2023-24         Top 150 listed entities
+ 2024-25         Top 250 listed entities
+ 2025-26         Top 500 listed entities
+ 2026-27         Top 1000 listed entities
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 5 ======================
+
+
+This circular prescribes glide path for applicability of BRSR Core. Further, this circular requires that
+the board of the listed company must make certain that the assurance provider selected for BRSR
+Core assessments possesses the requisite expertise to perform reasonable assurance. The listed
+company is responsible for ensuring that there are no conflicts of interest with the chosen assurance
+provider. Specifically, this means verifying that the assurance provider or any of its affiliated entities
+do not offer their products or engage  in any non-audit or non-assurance services, including
+consulting services, to the listed company or its affiliated entities.
+The Circular also prescribes that the Board of Directors of the listed entity shall ensure that the
+assurance provider of the BRSR Core has the necessary expertise, for undertaking reasonable
+assurance. The listed entity shall ensure that there is no conflict of interest with the assurance
+provider appointed for assuring the BRSR Core. For instance, it shall be ensured that the assurance
+provider or any of its associates do not sell its products or provide any non-audit / non-assurance
+related service including consulting services, to the listed entity or its group entities.
+FAQs on BRSR Core
+SEBI has also issued Frequently Asked Questions (FAQs)13 on the Business Responsibility and
+Sustainability Report (BRSR) Core which are as follows -
+(i)    Does the assurance provider need to be a Chartered Accountant?
+      Assurance of the BRSR Core is profession agnostic and need not necessarily be undertaken
+      by a Chartered Accountant. The Board of the listed entity shall ensure that the assurance
+       provider appointed for assuring the BRSR Core has the necessary expertise for undertaking
+      reasonable assurance in the area of sustainability.
+(ii)   What activities  / services by an assurance provider (for the BRSR Core) can lead to
+       conflict of interest?
+     The Circular lays down the over-arching principle that there should not be any conflict of
+       interest with the assurance provider appointed for assuring the BRSR Core. In case an
+      assurance provider sells its products or offers any non-audit or non-assurance services to a
+        listed entity or its group entities, irrespective of whether the nature of the product / service is
+       financial or non-financial, it will not be eligible to undertake assurance of the BRSR Core.
+(iii)   What activities can be undertaken by an assurance provider for the BRSR Core?
+        Activities that are in the nature of audit / assurance such as providing third-party certifications,
+       tax audit, system audit and tax filing etc. can be undertaken by an assurance provider for the
+    BRSR Core for the listed entity or its group entities, if the listed entity determines that they
+      do not pose any conflict of interest or compromise the independence of the assurance
+       provider. However, activities such as risk management, project management, management
+
+
+13 https://www.sebi.gov.in/sebi_data/faqfiles/aug-2023/1691500854553.pdf
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 6 ======================
+
+
+and consulting services, investment advisory services, investment banking services, design
+      and implementation of information systems, rendering of outsourced financial services,
+       actuarial services, accounting and book keeping services cannot be undertaken by an
+      assurance provider for the BRSR Core for the listed entity or its group entities.  It may be
+      noted that this is an indicative and not an exhaustive list.
+(iv)   Can the internal auditor of a listed entity or  its group entities, be appointed as
+      assurance provider for the BRSR Core?
+      No, the internal auditor of a listed entity or its group entities, cannot be appointed as the
+      assurance provider for the BRSR Core.
+(v)   Can the statutory auditor of a listed entity be appointed as assurance provider for the
+    BRSR Core?
+      Yes, the statutory auditor of a listed entity can be appointed as the assurance provider for
+       the BRSR Core.
+(vi)   What is the meaning of the term “group” that is referred in the above Circular?
+      For the purpose of this Circular, the term “group” means the holding company, subsidiaries,
+      associates and joint ventures of the listed entity.
+(vii)  Which entities would be considered as “associate” of an assurance provider?
+        In case the assurance provider is a firm or a corporate entity, its associate would
+              include any of its partners, its parent, subsidiaries, associates, and any entity in which
+             the assurance provider, its parent or partner has significant influence or control. In
+            case of a Chartered Accountant firm, “associate” shall also include all entities in the
+            network firm / network entity of which the assurance provider is a part.
+        In case the assurance provider is an individual, associate shall include any immediate
+               relative (as defined in Companies Act, 2013) of the person, and any entity in which
+            such individual/s has significant influence or control.
+(viii)  Which assurance standard should be followed by an assurance provider for the BRSR
+     Core?
+     The Circular does not mandate or recommend the use of any specific assurance standard.
+     The assurance provider may appropriately use a globally accepted assurance standard on
+       sustainability  / non-financial reporting such as the International Standard on Assurance
+     Engagements (ISAE) 3000 or assurance standards issued by The Institute of Chartered
+      Accountants of India (ICAI), such as Standard on Sustainability Assurance Engagements
+      (SSAE) 3000 or Standard on Assurance Engagements (SAE) 3410 “Assurance Engagements
+      on Greenhouse Gas Statements”. Further, disclosure should be made of the assurance
+      standard that is used.
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 7 ======================
+
+
+Annexure 1
+
+ BRSR Core as per SEBI Circular on “BRSR Core Framework for Assurance and
+         ESG disclosures in the value chain” dated July 12, 2023
+
+
+ Sr.No.       Attribute      Parameter     Measurement     Data & Assurance     Cross –
+                                                          Approach        reference
+                                                                                                to the
+                                                          BRSR
+ 1                                                              1.   Absolute        Principle 6,
+                                                                   Fossil  Fuel  (Coal,  Question 7
+                                                               Natural       Gas,   of Essential
+                                                                  Diesel,  FO   etc.)   Indicators
+                                                      Consumption  (Mn          Green-house    Total Scope 1  GHG    (CO2e)                                        MT / KT / MT / MM         gas   (GHG)  emissions      Emission  in Mn                                            BTU etc.)             footprint        (Break-up   of  MT  / KT  / MT                                                                2.   Emission                           the GHG into   Direct emissions                                                             Factor  (GHG   in                     CO2,   CH4,  from                                            CO2e    /   Unit  of                     N2O,  HFCs,   organization’s                                                       Measure) - IPCC or                       PFCs,   SF6,  owned-        or                                                              Actual Testing from                       NF3,              if   controlled                                                             Accredited Test Lab                             available)      sources
+                                                                3.    Quantity    of         Greenhouseg                                                     Carbon    Capture          as  emissions                                                  (Mn MT /KT / MT)        may      be                                                                4.  GHG         measured   in                                                           emissions  in CO2          accordance                                                               equivalent      by           with       the                                                          process  (Non-Fuel         Greenhouse                                                          Source) (Mn MT  /        Gas Protocol:                                             KT / MT / MM BTU)        A  Corporate
+                                                                5.    Fugitive          Accounting
+                                                           emissions         andReporting
+                                                                6.    Total Scope 1          Standard
+                                      GHG   Emissions:
+                                                               Point 2 x Point 1  -
+                                                               Point 3 + Point 4 +
+                                                               Point5
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 8 ======================
+
+
+Total Scope 2  GHG    (CO2e)   1.    Total            Principle 6,
+                          emissions      Emission  in Mn  Consumption     of  Question 7
+                          (Break-up   of  MT  / KT   / MT  Purchased  Energy   of Essential
+                           the   GHG   Indirect          (MW), Steam (MT),   Indicators
+                       (CO2e)   into  emissions   from   Refrigeration
+                     CO2,   CH4,   the generation of      (MMBTU)
+                     N2O,  HFCs,  energy   that   is
+                       PFCs,   SF6,  purchased from a                                                                2.  GHG (CO2e)
+                       NF3,  if             utility provider                                                         Emission    Factor
+                             available)                         across              all
+                                                        purchased  energy
+                                                          sources  - IPCC or
+                                                                 actual   from   the
+                                                                  supplier    (audited
+                                                                          certificates)
+                                                                     3.  Total Scope 2
+                                      GHG   Emissions:
+                                                                 Total Consumption
+                                                          x Emission Factor
+                 GHG            Total  Scope  1   1.  Total  Emission   Principle 6,
+                         Emission      and Scope        (Scope 1 & 2)        Question 7
+                              Intensity       2 emissions (MT)   2.  Total Revenue   of Essential
+                        (Scope 1 +2)      / Total Revenue  from  Operations  -   Indicators
+                                        from  Operations  From Audited P&L
+                                          adjusted for PPP   Statement
+                                            PPP (USD / INR)
+                                             Total  Scope  1   1.  Total Emission
+                                    and Scope        (Scope 1 & 2) as   Principle 6,
+                                    2 emissions (MT)  above              Question 7
+                                                                        / Total Output of  Company & Sector   of Essential
+                                         Product        or   Specific (i.e., No. of   Indicators
+                                          Services           Vehicles Produced,
+                                        MT   of   Material
+                                                         Produced, Data  in
+                                          Mn TB, No. of Seats
+                                                                                                        /   Travel   Class,
+                                                        Room-nights etc.)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 9 ======================
+
+
+2       Water           Total   water  Mn Lt or KL       Water consumed is   Principle 6,
+             footprint       consumption                      water that  it  is no  Question 3
+                                                               longer available for   of Essential
+                                                      use    by     the   Indicators
+                                                       ecosystem or  local
+                                                         community, such as
+                                                           water that has been
+                                                          withdrawn     and
+                                                              incorporated    into
+                                                            products   or  has
+                                                          evaporated  or   is
+                                                                  polluted to the point
+                                                                     of being unusable
+                                                       by other users, and
+                                                                                is   therefore   not
+                                                            released back   to
+                                                              surface      water,
+                                                            groundwater,
+                                                            seawater, or a third
+                                                                     party.       It    also
+                                                               includes water  that
+                                                      has  been  stored
+                                                              during the reporting
+                                                              period  for use  or
+                                                            discharge    in   a
+                                                        subsequent
+                                                                  reporting period.
+                                                                                                        If the entity cannot
+                                                                         directly measure its
+                                                           water consumption,
+                                                                                                                   it may calculate this
+                                                            using the following:
+                                                                     1.   Input    water
+                                                                 flow   meter   logs
+                                                                 (Calibrated
+                                                                     2.   Meters)
+                                                                     3. Output    water
+                                                                 flow meter    logs
+                                                                 (Calibrated Meters)
+                                                      Water consumption
+                                                  =  Input  Water   -
+                                                          Output Water
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 10 ======================
+
+
+Water       Mn  Lt  or KL   /   1.  Total     water   Principle 6,
+                        consumption   Rupee  adjusted  consumed           Question 3
+                               intensity          for PPP            2.  Total Revenue   of Essential
+                                                          from    Operations   Indicators
+                                                              (fromaudited P&L)
+                                                                3. PPP  (USD    /
+                                                         INR)
+                             Mn  Lt  or KL   /   1.  Consumption     Principle 6,
+                                         Product        or  as above            Question 3
+                                          Service            2.  Company   &   of Essential
+                                                            Sector Specific (i.e.,   Indicators
+                                                        No.   of   Vehicles
+                                                         Produced, MT  of
+                                                                 Material Produced,
+                                                       Data in Mn TB, No.
+                                                                     of  Seats   / Travel
+                                                          Class etc)
+                       Water       Mn Lt or KL        1.  Untreated         Principle 6,
+                         Discharge by                   Water               Question 4
+                            destination                          2.  Primary           of Essential
+                       and levels  of                    Treatment            Indicators
+                         Treatment                      (Removal         of
+                                                                 material that floats
+                                                                 or   settle  out   i.e
+                                                                             Filtration,
+                                                             Screening,
+                                                           Sedimentation etc.)
+                                                                3.  Secondary
+                                                         Treatment
+                                                      (Removal         of
+                                                            Dissolved  organic
+                                                             Matter              i.e.
+                                                                Oxidation,
+                                                               Digestion etc.)
+                                                                4.  Tertiary
+                                                         Treatment
+                                                                    (Disinfecting Water
+                                                                                      i.e.   removal    of
+                                                           pathogens,
+                                                        Phosphorous,
+                                                             Nitrogen etc.)
+ 3       Energy          Total  energy   In   Joules    or   Total       energy   Principle 6,
+             footprint       consumed      multiples          consumption = non-  Question 1
+                                                        renewable      fuel   of Essential
+                                                  consumed      +
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 11 ======================
+
+
+%  of energy   In % terms        renewable      fuel   Indicators
+                      consumed                    consumed      +
+                         from                            purchased
+                        renewable                                electricity,  heating,
+                         sources                              cooling,  steam  +
+                                                               self-generated
+                                                                              electricity,  heating,
+                                                                   cooling, steam
+                                                                                                  (If    the     entity
+                                                           generates
+                                                                             electricity  from  a
+                                                         non-renewable   or
+                                                        renewable      fuel
+                                                          source  and  then
+                                                   consumes      the
+                                                          generated
+                                                                              electricity,      the
+                                                         energy
+                                                        consumption   shall
+                                                    be  counted  only
+                                                          once)
+                                                       Energy  consumed
+                                                            through  renewable
+                                                          sources      /    total
+                                                         energy consumed
+ Sr. No.   Attribute       Parameter     Measurement     Data & Assurance  Cross    –
+                                                      Approach            reference to
+                                                                                    the BRSR
+                        Energy         Joules         or   1.  Total   energy   Principle 6,
+                               intensity         multiples  / Rupee  consumed           Question 1
+                                          adjusted for PPP   2.  Total Revenue   of Essential
+                                                          from    Operations   Indicators
+                                                              (fromaudited P&L)
+                                                                3. PPP  (USD    /
+                                                         INR)
+                                          Joules         or   1. Consumption as   Principle 6,
+                                              multiples             /  above              Question 1
+                                         Product        or   2.  Company   &   of Essential
+                                          Service            Sector Specific (i.e.,   Indicators
+                                                        No.   of  Vehicles
+                                                         Produced, MT  of
+                                                                 Material Produced,
+                                                       Data in Mn TB, No.
+                                                                     of  Seats   /  Travel
+                                                          Class etc)
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 12 ======================
+
+
+4       Embracing      Plastic waste  Kg / MT           Absolute weight of   Principle 6,
+             circularity       (A)                                 the      packaging  Question 9
+            details related                                        material     (Bags,   of Essential
+            to     waste                                          Bottles, Pallets etc.)   Indicators
+         management                                     discarded      as
+          by the entity                                       defined  under  the
+                                                                       plastic      waste
+                                                  management  rules
+                                                    2016         and
+                                                  amendments
+                                                                 thereof
+                        E-waste (B)    Kg / MT           Discarded             Principle 6,
+                                                        Computers,          Question 9
+                                                                      televisions,      cell   of Essential
+                                                         phones,    VCRs,   Indicators
+                                                                 stereos,    DVD
+                                                                  players,    copiers,
+                                                    and  fax machines
+                                                                        etc. as listed under
+                                                          e-waste
+                                                  management  rules
+                                                    2016
+                                                    and  amendments
+                                                                 thereof
+                          Bio-medical    Kg / MT            Solids  and   liquid   Principle 6,
+                        waste (C)                       waste including  its  Question 9
+                                                               container and any   of Essential
+                                                               intermediate          Indicators
+                                                                product,  which   is
+                                                          generated   during
+                                                              the      diagnosis,
+                                                              treatment        or
+                                                           immunization     of
+                                               human  beings  or
+                                                           animals or research
+                                                                            activities as  listed
+                                                        under  Bio-medical
+                                                       waste management
+                                                                   rules  2016  and
+                                                  amendments
+                                                                 thereof
+                           Construction   Kg / MT            Construction waste   Principle 6,
+                       and                            as per C&D waste  Question 9
+                           demolition                    management Rules   of Essential
+                        waste(D)                      2016         and   Indicators
+                                                  amendments
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 13 ======================
+
+
+thereof           like
+                                                               concrete,   plaster,
+                                                           metal rods  / wires,
+                                                      wood, plastics etc.
+                            Battery waste  Kg / MT           Discarded batteries   Principle 6,
+                            (E)                                               i.e., Li-ion, Alkaline,  Question 9
+                                                    Lead Acid etc used   of Essential
+                                                                          in          vehicles,   Indicators
+                                                        computers     &
+                                                                  laptops,    mobiles
+                                                               other   electronics,
+                                                  UPS, Power Back
+                                                    up   etc.  as  per
+                                                                Battery     Waste
+                                                  management
+                                                         Rules  2016  and
+                                                  amendments
+                                                                 thereof
+                          Radioactive    Kg / MT           Discarded  material   Principle 6,
+                        waste (F)                       such   as   paper,  Question 9
+                                                                           plastic,     clothes,   of Essential
+                                                          equipment,            Indicators
+                                                      machine  parts  etc
+                                                           having exposure to
+                                                                    radiation    across
+                                                           Nuclear    Power
+                                                                  Plants,   Hospitals,
+                                                      Research
+                                                                Laboratories,
+                                                                       Industrial
+                                                                 Applications etc.)
+                         Other        Kg / MT         As  per hazardous   Principle 6,
+                       Hazardous                      waste management  Question 9
+                          waste. Please                       rules of CPCB         of Essential
+                              specify, if any.                                              Indicators
+                          (G)
+                         Other   Non-  Kg / MT          Waste not identified   Principle 6,
+                        hazardous                      as Hazardous asper  Question 9
+                        waste                    CPCB                 of Essential
+                         generated                                                  Indicators
+                              (H).   Please
+                              specify, if any.
+                          (Break-up  by
+                          composition
+                                       i.e.,       by
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 14 ======================
+
+
+materials
+                            relevant to the
+                             sector)
+
+                            Total   waste  Kg / MT            self-explanatory       Principle 6,
+                         generated                                            Question 9
+                        ((A+B + C +D                                                 of Essential
+                     + E + F + G +                                              Indicators
+                        H)
+                      Waste        Kg or MT / Rupee   1.  Total    waste   Principle 6,
+                               intensity        adjusted for PPP   generated           Question 9
+                                                                2.  Total Revenue   of Essential
+                                                          from    Operations   Indicators
+                                                              (fromaudited P&L)
+                                                                3. PPP  (USD    /
+                                                         INR)
+                                 Kg or MT / Unit of   1.  Total    waste   Principle 6,
+                                         Product        or  generated           Question 9
+                                          Service            2.  Company   &   of Essential
+                                                            Sector Specific (i.e.,   Indicators
+                                                        No.   of   Vehicles
+                                                         Produced, MT  of
+                                                                 Material Produced,
+                                                       Data in Mn TB, No.
+                                                                     of  Seats   / Travel
+                                                          Class etc)
+                      Each        Kg or MT          Absolute quantity     Principle 6,
+                          category    of                                        Question 9                                                Intensity         Kg     of   Waste                        waste                                                          of Essential                                                        Recycled                          generated,                                                  Indicators                                                      Recovered   /Total                                 total   waste                                                   Waste   generated                         recovered                                                              Disclosure may be                          through                                                            provided                  if                              recycling,  re-                                                                         certificates    from                          using or other                                                         vendors have been                          recovery                                                                       relied   upon    for                           operations                                                         assurance  of KPIs
+                                                    on          waste
+                                                  management
+                         For     each  Kg or MT           1.  Amount       of   Principle 6,
+                          category    of   Intensity            material    in  MT  Question 9
+                        waste                            disposed   through   of Essential
+                          generated,                           Incineration           Indicators
+                                 total   waste                       2.  Amount       of
+                         disposed  by
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 15 ======================
+
+
+nature      of                       Material to Landfill
+                           disposal                            3.  Any       other
+                       method                       method
+                                               Kg     of   Waste
+                                                        Recycled
+                                                      Recovered   /Total
+                                                   Waste generated
+ 5       Enhancing     Spending  on   In % terms       To check  sources   Principle  3,
+         Employee      measures                           including –          Question
+          Wellbeing and  towards  well-                    •    Insurance       1(c)       of
+           Safety         being       of                       Policies & Premium   Essential
+                       employees                       Paid Details           Indicators
+                       and workers –                    •     Infant   Care
+                           cost  incurred                                                                 Policy
+                        as a % of total                                                          •    Amount billed                        revenue of the                                                                                                        /  invoices towards                      company                                                                providing     such
+                                                                                   facilities.
+                                                         (The       following
+                                                     measures may be
+                                                              included  –  health
+                                                               insurance, accident
+                                                               insurance,
+                                                               maternity  benefits,
+                                                                    paternity   benefits,
+                                                      day care   facilities,
+                                                                health  &   safety
+                                                     measures including
+                                                        access  to  mental
+                                                                  health)
+                             Details      of  Number        of  To  check  on  the   Principle 3,
+                            safety related  Permanent         basis of claims       Question
+                             incidents   for   Disabilities                         11        of
+                       employees                                                Essential
+                       and  workers                                              Indicators
+                             (including                                          Lost Time  Injury   1.  Total number of   Principle 3,                             contract-                                      Frequency  Rate   lost time injuries      Question                          workforce e.g.                                         (LTIFR) (per one   2.  Total  No.   of  11        of                         workers in the                                             million-person      working hours        Essential                        company's                                        hours worked)                                                                3.  LTIFR = (Total   Indicators                            construction
+                               sites)                         number of lost time
+                                                                         injuries *10,00,000)
+                                                                                                        /   Total   No.   of
+                                                           working hours
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 16 ======================
+
+
+No. of fatalities    To  check  on  the   Principle 3,
+                                                              basis of claims as  Question
+                                                              reported   to   the  11        of
+                                                             Factory Inspector     Essential
+                                                                                          Indicators
+ 6        Enabling       Gross wages   In % terms        Employee Master  /   Principle  5,
+         Gender         paid         to                      Register            Question
+            Diversity    in  females as %                                             3(b)       of
+          Business        of wages paid                                             Essential
+                                                                                          Indicators
+                         Complaints     •   Total                                   Principle 5,
+                       on POSH       Complaints   on                      Question 7
+                                       Sexual                                       of Essential
+                                     Harassment                               Indicators
+                                  (POSH) reported
+                                        •   Complaints
+                                    on POSH as a %
+                                                of        female
+                                       employees/
+                                        workers
+                                        •   Complaints
+                                    on POSH upheld
+ 7        Enabling        Input material   In % terms – As   self-explanatory       Principle 8,
+            Inclusive       sourced from %     of      total   ‘Input   material’   -  Question 4
+         Development    following       purchases    by   includes all types of   of Essential
+                         sources as %  value             procurement  such   Indicators
+                              of         total                   as  raw   material,
+                        purchases  –                      spares,    services,
+                              Directly                        capex procurement
+                         sourced from                     items etc.
+                    MSMEs/
+                           small
+                         producers
+                       and     from
+                             within India
+                       Job   creation   In % terms – As  Place             of   Principle 8,
+                                in     smaller %  of  total wage  employment      of  Question 5
+                        towns      –   cost             employees             /   of Essential
+                    Wages paid to                    workers  (Place  to   Indicators
+                         persons                       be     categorised
+                       employed   in                   based on with RBI
+                           smaller towns                         classification
+                         (permanent or                   system on  rural   /
+                         non-                             semi-urban / urban /
+                        permanent
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 17 ======================
+
+
+/on  contract)                       metropolitan)
+                        as % of total
+                     wage cost
+ 8        Fairness    in   Instances        In % terms                                 Principle 9,
+          Engaging with   involving loss                                        Question 7
+         Customers         /  breach   of                                                 of Essential
+         andSuppliers   data         of                                              Indicators
+                        customers as
+                       a percentage
+                              of  total  data
+                        breaches   or
+                          cyber security
+                         events
+                     Number     of  (Accounts        To   check   from   Principle 1,
+                        days        of  payable  x 365) /   financial statements  Question 8
+                         accounts       Cost of goods  /                           of Essential
+                         payable         servicesprocured                          Indicators
+ 9       Openness  of  Concentration  •    Purchasesf   1.  RPT   audited   Principle 1,
+          business        of  purchases  rom       trading  by        Financial  Question 9
+                   & sales done  houses as % of   Auditors     (Refer   of Essential
+                            with   trading   total purchases     Financial      Audit   Indicators
+                         houses,        •    Number  of  Report)
+                            dealers,  and   trading             2.  Financial
+                             related parties  houseswhere      statements             /
+                       Loans   and  purchases    are   invoices
+                       advances  &  madefrom.
+                          investments    •    Purchases
+                            with   related  from    top   10
+                             parties          trading houses as
+                      %     of      total
+                                       purchases  from
+                                              trading houses
+                                        •    Sales     to
+                                           dealers               /
+                                                 distributors as %
+                                                of total sales
+                                        •    Number  of
+                                           dealers               /
+                                                 distributors     to
+                              whom sales are
+                                made
+                                        •    Sales to top
+                                    10   dealers      /
+                                                 distributors as %
+                                                of total sales to
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 18 ======================
+
+
+•    dealers      /
+                                                 distributors
+                                        •    Share    of
+                                RPTs        (as
+                                            respective %age)
+                                                   in -
+                                        •    Purchases
+                                        •    Sales
+                                        •    Loans   &
+                                     advances
+                                        •    Investments
+
+
+               TEST YOUR KNOWLEDGE
+
+Multiple Choice Questions(MCQs)
+1.   What does Sustainability Assurance involve?
+       (a)   Verifying financial statements only
+       (b)   Assessing and verifying sustainability-related information and practices
+       (c)   Ensuring marketing strategies for eco-friendly products
+       (d)   Analyzing employee satisfaction levels
+2.   What is the main objective of ISAE 3410?
+       (a)   To dictate GHG reduction targets for organizations
+       (b)   To ensure the accuracy and reliability of GHG statements
+       (c)   To establish standards for energy-efficient practices
+       (d)   To monitor the environmental impact of industries
+3.   What does the core framework for Assurance in BRSR primarily aim to achieve?
+       (a)   Minimizing transparency in corporate reporting
+       (b)   Ensuring stringent regulations for businesses
+       (c)   Providing a structured approach for verifying sustainability disclosures
+       (d)   Exclusively focusing on financial disclosures
+
+
+© The Institute of Chartered Accountants of India
+
+
+====================== PAGE 19 ======================
+
+
+4.   How does  the Assurance framework  of BRSR  contribute  to enhancing  the
+       credibility of sustainability reporting?
+       (a)   By limiting access to information for verification purposes
+       (b)   By exclusively relying on self-assessment by companies
+       (c)   By ensuring independent assessment and validation of reported information
+       (d)   By minimizing stakeholder involvement in the reporting process
+5.   The purpose of the Assurance framework within BRSR is -
+       (a)   To discourage businesses from disclosing sustainability-related information
+       (b)   To ensure accurate and credible verification of sustainability disclosures
+       (c)   To impose additional reporting burdens on companies
+       (d)   To promote unchecked and unverified sustainability claims
+Answers to Multiple Choice Questions (MCQs)
+    1.       (b)        2.       (b)        3.        (c)        4.        (c)        5.        (b)
+
+
+© The Institute of Chartered Accountants of India
