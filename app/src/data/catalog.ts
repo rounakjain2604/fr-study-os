@@ -8,6 +8,7 @@ import { afmCh2RiskManagementDoc } from "./chapters/afmCh2RiskManagement";
 import { afmCh3CapitalBudgetingDoc } from "./chapters/afmCh3CapitalBudgeting";
 import { afmCh4SecurityAnalysisDoc } from "./chapters/afmCh4SecurityAnalysis";
 import { afmCh9DerivativesDoc } from "./chapters/afmCh9Derivatives";
+import { afmCh12InterestRateRiskDoc } from "./chapters/afmCh12InterestRateRisk";
 export type StudyStatus = "Live" | "Dashboard" | "Planned" | "Source Ready";
 
 export type ChapterAsset = {
@@ -439,7 +440,8 @@ const afmChapters: ChapterAsset[] = [
     "011 - Chapter 11- International Financial Management - 74838bos60509-cp11.txt"),
   afm(12, "Interest Rate Risk Management", "exp", ["FRA", "swaps", "caps"],
     "Managing interest-rate risk with FRAs, interest-rate futures, caps/floors/collars, and interest-rate & currency swaps.",
-    "012 - Chapter 12- Interest Rate Risk Management - 74839bos60509-cp12.txt"),
+    "012 - Chapter 12- Interest Rate Risk Management - 74839bos60509-cp12.txt",
+    afmCh12InterestRateRiskDoc),
   afm(13, "Business Valuation", "cap", ["DCF", "EVA", "relative"],
     "Valuing a business — DCF, relative and asset-based approaches, plus EVA and MVA.",
     "013 - Chapter 13- Business Valuation - 74840bos60509-cp13.txt"),
