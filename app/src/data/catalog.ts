@@ -7,6 +7,7 @@ import { afmCh1FinancialPolicyDoc } from "./chapters/afmCh1FinancialPolicy";
 import { afmCh2RiskManagementDoc } from "./chapters/afmCh2RiskManagement";
 import { afmCh3CapitalBudgetingDoc } from "./chapters/afmCh3CapitalBudgeting";
 import { afmCh4SecurityAnalysisDoc } from "./chapters/afmCh4SecurityAnalysis";
+import { afmCh5SecurityValuationDoc } from "./chapters/afmCh5SecurityValuation";
 import { afmCh9DerivativesDoc } from "./chapters/afmCh9Derivatives";
 import { afmCh12InterestRateRiskDoc } from "./chapters/afmCh12InterestRateRisk";
 export type StudyStatus = "Live" | "Dashboard" | "Planned" | "Source Ready";
@@ -418,7 +419,8 @@ const afmChapters: ChapterAsset[] = [
     afmCh4SecurityAnalysisDoc),
   afm(5, "Security Valuation", "cap", ["bonds", "YTM", "duration", "DDM", "FCFE"],
     "Valuing debt and equity — bond pricing, YTM, duration and convexity; dividend discount models, FCFE/FCFF and relative-valuation multiples.",
-    "005 - Chapter 5- Security Valuation - 74832bos60509-cp5.txt"),
+    "02_AFM_Corrected/005 - Chapter 5- Security Valuation - 74832bos60509-cp5_mistral.md",
+    afmCh5SecurityValuationDoc),
   afm(6, "Portfolio Management", "cap", ["Markowitz", "CAPM", "beta", "Sharpe"],
     "Risk and return, the Markowitz efficient frontier, CAPM and the SML, APT, and performance measures — Sharpe, Treynor and Jensen.",
     "006 - Chapter 6- Portfolio Management - 74833bos60509-cp6.txt"),
