@@ -1,0 +1,47 @@
+{
+  "id": "trinsic",
+  "name": "Trinsic",
+  "short_name": "Trinsic",
+  "description": "A calm, premium CA Final study OS — authored chapter workspaces, an AI tutor, recall cards, and a day-by-day study plan.",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#faf9f5",
+  "theme_color": "#faf9f5",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Today's plan",
+      "short_name": "Today",
+      "url": "./#/ledger"
+    },
+    {
+      "name": "AI tutor",
+      "short_name": "Tutor",
+      "url": "./#/ai"
+    },
+    {
+      "name": "Recall cards",
+      "short_name": "Cards",
+      "url": "./#/cards"
+    }
+  ]
+}
