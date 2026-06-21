@@ -18,7 +18,8 @@ export const afmCh12InterestRateRiskDoc: ChapterDoc = {
     { value: "6", label: "Risk types" },
     { value: "FRA", label: "Core sum" },
     { value: "Cap", label: "Borrower hedge" },
-    { value: "7", label: "TYK patterns" },
+    { value: "7", label: "TYK sums" },
+    { value: "10", label: "Theory answers" },
   ],
   flow: {
     eyebrow: "First principles",
@@ -695,6 +696,266 @@ export const afmCh12InterestRateRiskDoc: ChapterDoc = {
               label: "Receiver",
               question: "What does a fixed-rate receiver swaption allow?",
               answer: "The holder can enter a swap to <b>receive fixed</b> and <b>pay floating</b>.",
+            },
+          ],
+        },
+      ],
+    },
+    {
+      id: "exam-blueprint",
+      folio: "Exam",
+      title: "What ICAI Can Test From This Chapter",
+      lede:
+        "This is the high-yield checklist. In the exam, Chapter 12 usually appears as either a short theory note, an instrument-selection explanation, or a settlement computation.",
+      blocks: [
+        {
+          kind: "cards",
+          columns: 2,
+          items: [
+            {
+              tag: "Theory bank",
+              tagTone: "gold",
+              title: "Direct theory questions",
+              bullets: [
+                "Meaning and importance of benchmark/reference rates.",
+                "LIBOR replacement and Alternative Reference Rates.",
+                "MIBOR vs MIBID and their use in derivatives.",
+                "Types of interest rate risk: gap, basis, embedded option, yield curve, price and reinvestment risk.",
+                "Limitations of gap analysis.",
+                "ALM as a risk-management framework.",
+                "Forward Rate Agreements: meaning, features and settlement.",
+                "Interest Rate Futures: use, conversion factor and CTD bond.",
+                "Caps, floors and collars: meaning, payoff and borrower/lender use.",
+                "Interest Rate Swaps and Swaptions: features, types and uses.",
+              ],
+            },
+            {
+              tag: "Numerical bank",
+              tagTone: "cap",
+              title: "Computations ICAI can ask",
+              bullets: [
+                "FRA settlement for future borrowing/lending.",
+                "Basis-point profit/loss in a 6 x 9 or similar FRA.",
+                "Cap payoff and net benefit after premium allocation.",
+                "Interest-rate collar payoff.",
+                "Fixed and floating leg of a generic swap.",
+                "Net settlement under swap.",
+                "OIS floating leg and implied fixed rate.",
+                "Currency swap opportunity gain/loss.",
+                "Cap compensation across multiple settlement dates.",
+              ],
+            },
+          ],
+        },
+        {
+          kind: "cards",
+          columns: 2,
+          items: [
+            {
+              tag: "Write like ICAI",
+              tagTone: "ntr",
+              title: "Theory answer structure",
+              bullets: [
+                "<b>Line 1:</b> define the instrument/risk in one sentence.",
+                "<b>Line 2:</b> state who uses it and why.",
+                "<b>Middle:</b> list features in point form using ICAI terms: notional principal, benchmark rate, reset date, settlement date, premium, cash settlement.",
+                "<b>End:</b> conclude with the hedge effect: fixes rate, caps rate, creates floor, exchanges fixed/floating, or gives option to enter a swap.",
+              ],
+            },
+            {
+              tag: "Write like ICAI",
+              tagTone: "ntr",
+              title: "Numerical answer structure",
+              bullets: [
+                "<b>Step 1:</b> identify exposure and instrument: borrower/lender, cap/floor/FRA/swap.",
+                "<b>Step 2:</b> write the formula before substitution.",
+                "<b>Step 3:</b> show the correct period fraction: 3/12, 90/360, 92/360, 181/360 etc.",
+                "<b>Step 4:</b> state who pays whom.",
+                "<b>Step 5:</b> add a conclusion line: risk hedged, net saving, or final effective cost.",
+              ],
+            },
+          ],
+        },
+        {
+          kind: "trap",
+          body:
+            "<b>Presentation trap:</b> do not write only the final number in AFM. ICAI gives marks for the formula, the rate selected, the period selected, and the final payer/receiver conclusion.",
+        },
+      ],
+    },
+    {
+      id: "theory-answer-practice",
+      folio: "Theory",
+      title: "ICAI-Style Theory Answer Practice",
+      lede:
+        "Use these as answer-writing templates. Each model answer is compact enough for an exam, but complete enough to capture the testable points.",
+      blocks: [
+        {
+          kind: "tyk",
+          items: [
+            {
+              ref: "Theory 1",
+              title: "Forward Rate Agreements",
+              question: "Write a short note on Forward Rate Agreements.",
+              solution:
+                "<b>Forward Rate Agreement (FRA)</b> is an OTC contract through which a borrower or lender protects itself against unfavourable movement in interest rates for a future period.<br><br><b>Features:</b><br>1. It is used to fix interest cost on anticipated borrowing or interest income on future lending/deposit.<br>2. It is an off-balance-sheet instrument.<br>3. The principal is only <b>notional</b>; no principal amount is exchanged.<br>4. Settlement is made in cash for the differential between reference rate and agreed forward rate.<br>5. Reference rate may be LIBOR/MIBOR or another benchmark rate.<br>6. The differential is discounted because settlement occurs at the beginning of the underlying loan/deposit period.<br><br><b>Settlement formula:</b><br>N x (RR - FR) x (dtm/DY) / [1 + RR x (dtm/DY)].<br><br><b>Conclusion:</b> If RR exceeds FR, the seller pays the buyer; if RR is below FR, the buyer pays the seller.",
+            },
+            {
+              ref: "Theory 2",
+              title: "Swaptions and uses",
+              question: "What do you know about swaptions and their uses?",
+              solution:
+                "<b>Swaption</b> is an option on an interest rate swap. It gives the holder the right, but not the obligation, to enter into an interest rate swap at a future date, at a specified fixed rate and for a specified term.<br><br><b>Types:</b><br>1. <b>Fixed-rate payer swaption / call swaption:</b> right to pay fixed and receive floating.<br>2. <b>Fixed-rate receiver swaption / put swaption:</b> right to receive fixed and pay floating.<br><br><b>Principal features:</b><br>1. It is an option on a forward-starting IRS.<br>2. A 3-month into 5-year swaption means an option to enter a 5-year swap after 3 months.<br>3. Option period runs from transaction date to expiry date.<br>4. Premium is usually quoted in basis points.<br>5. Swaptions can be cash settled by marking the swaption to market at expiry.<br><br><b>Uses:</b> speculation, hedging swap books, hedging embedded optionality, targeting acceptable borrowing rate, tendering for contracts, and protection on callable/puttable bond issues.",
+            },
+            {
+              ref: "Theory 3",
+              title: "Benchmark rates and ARRs",
+              question: "Explain benchmark rates and the movement from LIBOR to Alternative Reference Rates.",
+              solution:
+                "<b>Benchmark rate</b> or reference rate is a base interest rate used to price loans, overdrafts, mortgages, bonds, floating-rate instruments and derivative contracts such as FRAs and swaps. A credit spread is generally added to the benchmark rate according to the risk profile of the borrower.<br><br>LIBOR was historically a popular international benchmark. However, because LIBOR relied substantially on panel-bank judgement and manipulation concerns arose, new contracts shifted to <b>Alternative Reference Rates</b> from 2022 onwards.<br><br><b>ARRs differ from LIBOR</b> because they are based on actual overnight transactions, may be secured or unsecured, are considered near risk-free, and generally do not include a term premium.<br><br><b>Examples:</b> SOFR in USA, SONIA in UK, Euro Short-Term Rate in Europe, TONAR in Japan and SARON in Switzerland. In India, MIBOR and MIBID are important benchmark rates.",
+            },
+            {
+              ref: "Theory 4",
+              title: "Types of interest rate risk",
+              question: "Briefly explain the major types of interest rate risk.",
+              solution:
+                "<b>Interest rate risk</b> is the risk that earnings, cash flows or market value change due to movement in market interest rates.<br><br>1. <b>Gap exposure:</b> mismatch in maturity or repricing dates of rate-sensitive assets and liabilities.<br>2. <b>Basis risk:</b> different benchmarks or instruments do not move by the same magnitude.<br>3. <b>Embedded option risk:</b> prepayment, premature withdrawal or call/put options are exercised when rates move.<br>4. <b>Yield curve risk:</b> non-parallel changes in the yield curve affect income and portfolio value.<br>5. <b>Price risk:</b> bond prices move inversely with yields, especially when assets are sold before maturity.<br>6. <b>Reinvestment risk:</b> future cash flows may have to be reinvested at uncertain rates.",
+            },
+            {
+              ref: "Theory 5",
+              title: "Gap analysis and its limitations",
+              question: "Explain gap exposure and limitations of the gap report.",
+              solution:
+                "<b>Gap exposure</b> arises when rate-sensitive assets (RSA), rate-sensitive liabilities (RSL) and off-balance-sheet items have different maturity or repricing dates. Gap = RSA - RSL.<br><br>A <b>positive gap</b> means RSA exceeds RSL; increase in rates may increase NII. A <b>negative gap</b> means RSL exceeds RSA; decrease in rates may increase NII. Earnings at Risk may be estimated as Gap x assumed change in interest rate.<br><br><b>Limitations:</b><br>1. It measures only repricing mismatch and ignores basis and embedded option risks.<br>2. It assumes all items in a time band mature/reprice simultaneously.<br>3. It does not fully measure economic value impact.<br>4. It ignores timing differences in payments.<br>5. It assumes parallel yield-curve shifts, which may not occur.<br>6. It may miss non-interest income and expense variability.",
+            },
+            {
+              ref: "Theory 6",
+              title: "ALM",
+              question: "Write a short note on Asset-Liability Management.",
+              solution:
+                "<b>Asset-Liability Management (ALM)</b> is a comprehensive and dynamic framework for measuring, monitoring and managing risks arising from the structure of a bank's assets, liabilities and capital.<br><br>It seeks to maximise net interest earnings within the overall risk preference of the institution. ALM covers liquidity risk, interest rate risk, market risk, trading risk, funding and capital planning, profit planning and growth projection.<br><br>It is important because banks and financial institutions face credit risk, interest risk and liquidity risk. ALM helps quantify these risks and design strategies for managing the risk-return trade-off. It is therefore a key part of intermediate and long-term strategic planning.",
+            },
+            {
+              ref: "Theory 7",
+              title: "Interest rate futures",
+              question: "Explain how interest rate futures are used to hedge interest rate risk.",
+              solution:
+                "<b>Interest rate futures</b> are futures contracts whose underlying instrument is an interest-bearing asset such as a government security or treasury bill. They help hedge adverse interest-rate movements.<br><br>Interest rates and bond prices move inversely. A borrower who fears a rise in rates can <b>sell interest rate futures</b>. If rates rise, bond/futures prices fall and the borrower can buy back the futures at a lower price, making a gain that offsets higher borrowing cost.<br><br>Important terms include <b>conversion factor</b>, which makes deliverable bonds comparable, and <b>cheapest to deliver (CTD)</b>, which is the deliverable bond that maximises seller profit or minimises seller loss.",
+            },
+            {
+              ref: "Theory 8",
+              title: "Caps, floors and collars",
+              question: "Distinguish between interest rate cap, floor and collar.",
+              solution:
+                "<b>Interest rate cap:</b> The buyer receives compensation when the reference rate rises above the cap rate. It protects a floating-rate borrower from rising interest cost while allowing benefit if rates fall.<br><br><b>Interest rate floor:</b> The buyer receives compensation when the reference rate falls below the floor rate. It protects a lender/investor from falling interest income.<br><br><b>Interest rate collar:</b> A collar combines a cap and floor. A borrower typically buys a cap and sells a floor. The cap protects against rising rates, while the sold floor reduces premium cost but limits the benefit from a large fall in rates.<br><br><b>Conclusion:</b> Cap sets a maximum rate, floor sets a minimum rate, and collar creates a band.",
+            },
+            {
+              ref: "Theory 9",
+              title: "Interest rate swaps",
+              question: "Write a short note on interest rate swaps and their types.",
+              solution:
+                "<b>Interest rate swap</b> is an agreement between two counterparties to exchange interest payments computed on a notional principal. The notional principal is not exchanged.<br><br><b>Fixed/floating swap:</b> one party pays fixed and receives floating; the other pays floating and receives fixed. The fixed rate is often quoted as All-In-Cost against a floating benchmark.<br><br><b>Types:</b><br>1. <b>Plain vanilla swap:</b> fixed-rate payments exchanged for floating-rate payments.<br>2. <b>Basis rate swap:</b> two floating legs based on different benchmarks.<br>3. <b>Asset swap:</b> fixed-rate investment return exchanged for floating-rate return.<br>4. <b>Amortising swap:</b> notional principal declines over the life of the swap.<br><br>Swaps are used to transform fixed-rate exposure into floating-rate exposure or vice versa.",
+            },
+            {
+              ref: "Theory 10",
+              title: "Borrower hedge selection",
+              question: "A borrower expects rates to rise. Which instruments can be used and how should the answer be framed?",
+              solution:
+                "A borrower expecting rising rates wants protection from higher interest cost.<br><br><b>Possible hedges:</b><br>1. <b>FRA:</b> buy/enter FRA to lock future borrowing rate; receive settlement if reference rate exceeds forward rate.<br>2. <b>Interest rate futures:</b> sell futures; gain if rates rise and bond/futures prices fall.<br>3. <b>Cap:</b> buy cap to set maximum floating rate while keeping benefit if rates fall.<br>4. <b>Collar:</b> buy cap and sell floor to reduce premium, but give up benefit below floor.<br>5. <b>Swap:</b> pay fixed and receive floating to convert floating borrowing into fixed-rate exposure.<br>6. <b>Payer swaption:</b> buy the right to enter a pay-fixed receive-floating swap later.<br><br><b>Conclusion:</b> choose FRA/swap for certainty, cap/swaption for optionality, and collar when premium reduction is important.",
+            },
+          ],
+        },
+      ],
+    },
+    {
+      id: "numerical-answer-practice",
+      folio: "Practice",
+      title: "ICAI-Style Numerical Answer Practice",
+      lede:
+        "These prompts train the exact presentation marks: formula first, substitution second, payer/receiver conclusion last.",
+      blocks: [
+        {
+          kind: "cards",
+          columns: 2,
+          items: [
+            {
+              tag: "FRA answer",
+              tagTone: "gold",
+              title: "FRA settlement answer skeleton",
+              body:
+                "<b>Step 1:</b> State FRA period and selected reference rate.<br><b>Step 2:</b> Formula = N x (RR - FR) x (dtm/DY) / [1 + RR x (dtm/DY)].<br><b>Step 3:</b> Substitute rates in decimals and period fraction.<br><b>Step 4:</b> If result is positive, seller pays buyer; if negative, buyer pays seller.<br><b>Step 5:</b> State final amount rounded as per question.",
+            },
+            {
+              tag: "Cap answer",
+              tagTone: "gold",
+              title: "Cap/floor/collar answer skeleton",
+              body:
+                "<b>Cap:</b> N x max(0, actual rate - cap rate) x time.<br><b>Floor:</b> N x max(0, floor rate - actual rate) x time.<br><b>Collar:</b> cap payoff less floor payoff.<br><b>Presentation:</b> show each reset date separately, then total payoff and premium effect.",
+            },
+            {
+              tag: "Swap answer",
+              tagTone: "gold",
+              title: "Swap answer skeleton",
+              body:
+                "<b>Step 1:</b> identify fixed payer and floating payer.<br><b>Step 2:</b> fixed leg = N x AIC x period fraction.<br><b>Step 3:</b> floating leg = N x reference rate x actual days/360.<br><b>Step 4:</b> net settlement = higher leg minus lower leg.<br><b>Step 5:</b> state who pays the net amount.",
+            },
+            {
+              tag: "Currency swap answer",
+              tagTone: "gold",
+              title: "Currency swap answer skeleton",
+              body:
+                "<b>Step 1:</b> identify comparative advantage in each currency.<br><b>Step 2:</b> compute total gain available.<br><b>Step 3:</b> show principal exchange if required.<br><b>Step 4:</b> show interest receipts and payments for each party.<br><b>Step 5:</b> compare net cost with direct borrowing cost and state opportunity gain/loss.",
+            },
+          ],
+        },
+        {
+          kind: "tyk",
+          items: [
+            {
+              ref: "Practice 1",
+              title: "FRA answer-writing drill",
+              question:
+                "A company will borrow Rs.50 crore after 3 months for 6 months. FRA rate is 8.40%. Actual reference rate on settlement date is 9.00%. Write the ICAI-style solution skeleton and settlement logic. Assume 180/360.",
+              solution:
+                "<b>Exposure:</b> Future borrower fears rising rates; FRA protects by receiving compensation when reference rate exceeds forward rate.<br><br><b>Formula:</b> Settlement = N x (RR - FR) x (dtm/DY) / [1 + RR x (dtm/DY)].<br><br><b>Substitution:</b> 50 crore x (0.090 - 0.084) x (180/360) / [1 + 0.090 x (180/360)]<br>= 50 crore x 0.003 / 1.045<br>= <b>Rs.14,35,407 receivable approximately</b>.<br><br><b>Conclusion:</b> Since RR > FR, FRA seller/bank pays the company.",
+            },
+            {
+              ref: "Practice 2",
+              title: "Cap answer-writing drill",
+              question:
+                "A borrower has Rs.20 crore floating debt and buys a cap at 9%. On reset date actual rate is 10.25% for a 3-month period. Show cap compensation using ICAI style. Assume 90/360.",
+              solution:
+                "<b>Instrument:</b> Cap protects a floating-rate borrower against rate above cap rate.<br><br><b>Formula:</b> Cap payoff = N x max(0, r - rc) x dt/360.<br><br><b>Substitution:</b> Rs.20 crore x max(0, 10.25% - 9.00%) x 90/360<br>= Rs.20 crore x 1.25% x 0.25<br>= <b>Rs.6,25,000 receivable from cap seller</b>.<br><br><b>Conclusion:</b> Borrower's interest cost above 9% is compensated for the reset period.",
+            },
+            {
+              ref: "Practice 3",
+              title: "Swap answer-writing drill",
+              question:
+                "Notional is Rs.10,00,000. AIC is 7.5% and floating reference rate is 6.8% for 182 days. Compute fixed leg, floating leg and net settlement using a 360-day year.",
+              solution:
+                "<b>Fixed leg:</b> N x AIC x 180/360 = 10,00,000 x 7.5% x 0.5 = <b>Rs.37,500</b>.<br><br><b>Floating leg:</b> N x R x dt/360 = 10,00,000 x 6.8% x 182/360 = <b>Rs.34,378</b> approximately.<br><br><b>Net settlement:</b> 37,500 - 34,378 = <b>Rs.3,122</b> payable by fixed-rate payer to floating-rate payer.",
+            },
+          ],
+        },
+        {
+          kind: "drill",
+          yesLabel: "Show payer/receiver",
+          noLabel: "Final number only",
+          items: [
+            {
+              prompt: "FRA answer where actual rate exceeds FRA rate.",
+              capitalise: true,
+              why: "State that seller/bank pays buyer; the direction is a marking point.",
+            },
+            {
+              prompt: "Cap answer where actual rate is below strike.",
+              capitalise: true,
+              why: "Show nil compensation and explain why; do not skip the reset period.",
+            },
+            {
+              prompt: "Swap answer with both fixed and floating legs.",
+              capitalise: true,
+              why: "Compute both legs and state the net payer; final number alone is incomplete.",
             },
           ],
         },
